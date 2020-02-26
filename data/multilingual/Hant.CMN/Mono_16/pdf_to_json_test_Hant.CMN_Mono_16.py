@@ -1,0 +1,9 @@
+import pdf_to_json as p2j
+
+import json
+
+url = "file:data/multilingual/Hant.CMN/Mono_16/udhr_Hant.CMN_Mono_16.pdf"
+lConverter = p2j.pdf_to_json.pdf_to_json_converter()
+lConverter.mImageHashOnly = True
+lDict = lConverter.convert(url)
+print(json.dumps(lDict, indent=4))
