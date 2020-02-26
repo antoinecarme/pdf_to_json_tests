@@ -1,119 +1,119 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581470049,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "81455e57027f367c6c5062a6bbda4c11",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Munextia muchi ipal ne tehtechan tay tupal\nGiqihket wan inaget pal ne musempuzuhket pal ne tumak tahtalmet pal gitat su welit gichiwat ume se\nchikume A(iii) pal mahtati ipal mezi se chiknawi ume pual xiqey.\nAXTU PAL TIPEWAT\nWeli muina ga ne tamagixti ne tuktiani wan ne nehmachnemit tik ne tahtal gipia pal tezilnah ne tay\ngichiwtuk tay gatka tesu genga tay maya tupal muchi ne pal tu iknuwan.\nWeli muina ga te gixmati wan ne tay gatka tesu datka tu patiw tal gichiwtiwit tesu tik tupal te geman inatiwit\ntay pal tehemet, wan inatiwit ga gichiwtiwit inatiwit ga ginetuyat gichiwat ne pewa muchi pal se techan gan\nne tagamet teya mahmawit wan welit inat tay gichiwat tay yek.\nWeli muina ga pal ne tahtagamet nemi gah gipalewia gah gituktia pal gita ga ne tagat muita ga te weli yawit\ngah tesu gichiwa yek.\nWeli muina ga ne tehtechan pal ne tuhtumak sen nemit techan inatiwit tik ne amatageza inatiwit ga nemi tay\nipal ne tagat gitaget geski tu patiw wan gan tigengat pal ne tagamet wan ne siwatket; wan inatiwit ga mu\nmagixtihtiwit pal gitat tay gichiwat pal gipiat wan welit nemit ihtig ipal se mas patawak ipal ne tamagixti.\nWeli muina ga ne tagutun tupal inatiwit ga kia tik palewiat wan tay mupuzuwat ipal ne sen nemit techan\nmagitagan gen se tahtuli pal muchi ne tal wan yahiga ne tamagixti ipal ne tagat.\nWan muweli muina ga san se pal ini tay tupal wan ne tamagixti yaha tay mas timunegit pal tikchiwat tay\ntinatiwit.\nNe musepuzuhket muchi ne tahtalmet\nIna tay munextia muchi ipal ne tehtechan tay tupal wan tumak tahtal ma puzihtiwit ginegit gichiwat ihtik",
-            "Image": "81455e57027f367c6c5062a6bbda4c11"
+            "Text": "Munextia muchi ipal ne tehtechan tay tupal\nGiqihket wan inaget pal ne musempuzuhket pal ne tumak tahtalmet pal gitat su welit gichiwat ume se\nchikume A(iii) pal mahtati ipal mezi se chiknawi ume pual xiqey.\nAXTU PAL TIPEWAT\nWeli muina ga ne tamagixti ne tuktiani wan ne nehmachnemit tik ne tahtal gipia pal tezilnah ne tay\ngichiwtuk tay gatka tesu genga tay maya tupal muchi ne pal tu iknuwan.\nWeli muina ga te gixmati wan ne tay gatka tesu datka tu patiw tal gichiwtiwit tesu tik tupal te geman inatiwit\ntay pal tehemet, wan inatiwit ga gichiwtiwit inatiwit ga ginetuyat gichiwat ne pewa muchi pal se techan gan\nne tagamet teya mahmawit wan welit inat tay gichiwat tay yek.\nWeli muina ga pal ne tahtagamet nemi gah gipalewia gah gituktia pal gita ga ne tagat muita ga te weli yawit\ngah tesu gichiwa yek.\nWeli muina ga ne tehtechan pal ne tuhtumak sen nemit techan inatiwit tik ne amatageza inatiwit ga nemi tay\nipal ne tagat gitaget geski tu patiw wan gan tigengat pal ne tagamet wan ne siwatket; wan inatiwit ga mu\nmagixtihtiwit pal gitat tay gichiwat pal gipiat wan welit nemit ihtig ipal se mas patawak ipal ne tamagixti.\nWeli muina ga ne tagutun tupal inatiwit ga kia tik palewiat wan tay mupuzuwat ipal ne sen nemit techan\nmagitagan gen se tahtuli pal muchi ne tal wan yahiga ne tamagixti ipal ne tagat.\nWan muweli muina ga san se pal ini tay tupal wan ne tamagixti yaha tay mas timunegit pal tikchiwat tay\ntinatiwit.\nNe musepuzuhket muchi ne tahtalmet\nIna tay munextia muchi ipal ne tehtechan tay tupal wan tumak tahtal ma puzihtiwit ginegit gichiwat ihtik"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "2f987334a06156690082b1e44d8b7219",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "tamachtiagan pal mumachhtiat pal welit, nehmach nemigan pal ne tupal tamagixti tay tupal wan tamachiwa\ngen ipal ixkáliu tu techan wan tepal techan su tikchiwtiwit wan muchi ma gichiwagan wan yek tagutun ihtik\nne tehtechan muchi gen ihtik ne tahtal talihtiwit gaitan tay ipal.\nPewa ina se (1)\nMuchi ne tay gen tu weyga nestiwit tamagixti genga tik ekneliat wan ipal wan gichiwtiwit ipal ma\nmunegigan ne se pal ne se.\nPewa ina ume (2)\nMuchi tehemet ti welit tinat iwan tamagixti ga inatiwit tik ini nextiwit pal nuhme tehemet tilqiluya, siwat u\ntagat gen tageza, gan mu tanwageza, tay yaha gimati ga weli ina pal ne techan u pal muchi su gipia u te,\nnestuk u gan yaha ginegi.\nTe ya mu ixtemuwa tay mu chiwtuk pal ne galpuli u tepal tal ipal ne tu tal tay ne tupal uk se isel tal gen se tal\ngipia iteguyu tesu isel u gipia uk se iteguyu.\nPewa ina yey (3)\nMuchi tehemet tiwelit tinemit ne tamagixti wan ga yaha isel mutuktia.\nPewa ina nawi (4)\nTesu aga weli gichiwa tay te ginegi te weli tegiti gah i wan yaha tesu ginegi wan tesu welit giahwat nan tesu\nwelit techchiwat datka.\nPewa ina maqil (5)\nTesu aga weli mezilpia ma ixtuna u techsumat gen tesu yek.\nPewa ina chiqasen (6)",
-            "Image": "2f987334a06156690082b1e44d8b7219"
+            "Text": "tamachtiagan pal mumachhtiat pal welit, nehmach nemigan pal ne tupal tamagixti tay tupal wan tamachiwa\ngen ipal ixkáliu tu techan wan tepal techan su tikchiwtiwit wan muchi ma gichiwagan wan yek tagutun ihtik\nne tehtechan muchi gen ihtik ne tahtal talihtiwit gaitan tay ipal.\nPewa ina se (1)\nMuchi ne tay gen tu weyga nestiwit tamagixti genga tik ekneliat wan ipal wan gichiwtiwit ipal ma\nmunegigan ne se pal ne se.\nPewa ina ume (2)\nMuchi tehemet ti welit tinat iwan tamagixti ga inatiwit tik ini nextiwit pal nuhme tehemet tilqiluya, siwat u\ntagat gen tageza, gan mu tanwageza, tay yaha gimati ga weli ina pal ne techan u pal muchi su gipia u te,\nnestuk u gan yaha ginegi.\nTe ya mu ixtemuwa tay mu chiwtuk pal ne galpuli u tepal tal ipal ne tu tal tay ne tupal uk se isel tal gen se tal\ngipia iteguyu tesu isel u gipia uk se iteguyu.\nPewa ina yey (3)\nMuchi tehemet tiwelit tinemit ne tamagixti wan ga yaha isel mutuktia.\nPewa ina nawi (4)\nTesu aga weli gichiwa tay te ginegi te weli tegiti gah i wan yaha tesu ginegi wan tesu welit giahwat nan tesu\nwelit techchiwat datka.\nPewa ina maqil (5)\nTesu aga weli mezilpia ma ixtuna u techsumat gen tesu yek.\nPewa ina chiqasen (6)"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "0dad96a2892c7d94153e4881c4d3a6e4",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Muchi tehemet tiwelit, gan tinemit mu ixtiya ne tuamaw.\nPewa ina chikume (7)\nIxpan ne tahtuli muchi tigenga wan gipia, genga ipatiwyu pal gipalewia ne tahtuli, muchi gipalewia ne tahtuli\ngah ina ga tehemet tesu datka tupatiwyu wan gah ina genga ga tehemet tesu datka tupatiw.\nPewa ina chiqey (8)\nMuchi tehemet tikpiat u tiweli tik tahtanit gan welit techpalewiyat qak ginegit techixtiliat tay tupal wan tay\nnemi tik ne amat u pal ne tahtuli.\nPewa ina chiknawi (9)\nTe agah welit gitenzaqat nan welit gi tuktiyat ga uk se techan.\nPewa ina mahtati (10)\nMuchi tehemet tiwelit ga muchi tigenga munextia ga gigagit ga se gal puli gan tatuktiyat u gan muweli pal\ngitat tay ipal tay ginegit ma gichiwat u pal gitat su yek u te yek tay gichiwa.\nPewa ina mahtati se (11)\nMuchi tehemet tikpiat gen tiwelit tinat ma inagan ga tesu yaha gichiwtuk su te mumati su yaha gichiwtuk gen\nina netahtuli wan muina tay munechtiwit tay munegi pal yaha te welit gi tenzaqat.\nTe aga weli tigilwiat ga yaha gikchiwtuk su te gichiwtuk ga tesu datka gichiwtuk gen tupal tahtuli tal u tepal\ntal. Nan nusan weli gilwiya ma tachtawi ta yaha tesu gichiwtuk.\nPewa ina mahtati ume (12)\nTe aga weli ina datka ipampa su tesu gimatit tay yaha gichiwa, wan iknuwan, itechan wan igal wan iamat",
-            "Image": "0dad96a2892c7d94153e4881c4d3a6e4"
+            "Text": "Muchi tehemet tiwelit, gan tinemit mu ixtiya ne tuamaw.\nPewa ina chikume (7)\nIxpan ne tahtuli muchi tigenga wan gipia, genga ipatiwyu pal gipalewia ne tahtuli, muchi gipalewia ne tahtuli\ngah ina ga tehemet tesu datka tupatiwyu wan gah ina genga ga tehemet tesu datka tupatiw.\nPewa ina chiqey (8)\nMuchi tehemet tikpiat u tiweli tik tahtanit gan welit techpalewiyat qak ginegit techixtiliat tay tupal wan tay\nnemi tik ne amat u pal ne tahtuli.\nPewa ina chiknawi (9)\nTe agah welit gitenzaqat nan welit gi tuktiyat ga uk se techan.\nPewa ina mahtati (10)\nMuchi tehemet tiwelit ga muchi tigenga munextia ga gigagit ga se gal puli gan tatuktiyat u gan muweli pal\ngitat tay ipal tay ginegit ma gichiwat u pal gitat su yek u te yek tay gichiwa.\nPewa ina mahtati se (11)\nMuchi tehemet tikpiat gen tiwelit tinat ma inagan ga tesu yaha gichiwtuk su te mumati su yaha gichiwtuk gen\nina netahtuli wan muina tay munechtiwit tay munegi pal yaha te welit gi tenzaqat.\nTe aga weli tigilwiat ga yaha gikchiwtuk su te gichiwtuk ga tesu datka gichiwtuk gen tupal tahtuli tal u tepal\ntal. Nan nusan weli gilwiya ma tachtawi ta yaha tesu gichiwtuk.\nPewa ina mahtati ume (12)\nTe aga weli ina datka ipampa su tesu gimatit tay yaha gichiwa, wan iknuwan, itechan wan igal wan iamat"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "8c7525ce6e91c05a88da9f33cbfe1753",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "tageza, nan tay yawi ma inat ipampa ipal ta yaha. Muchi tehemet tikpiat ixpan netahtuli techpalewiat tayawi\nga tehemet wan tay tehemet tesu tikchiwtiwit.\nPewa ina mahtati yey (13)\nMuchi tehemet tiwelit tinehnemi gan tehemet tiknegit.\nMuchi tehemet tiwelit tigisat pal uk se te pal techan wan tiwelit timuqepat tik ne techan.\nPewa ina mahtati nawi (14)\nWan su gen se tehemet gitemuwat weli yawi tik uk se techan gitemuwa gan weli nemi.\nWan tesu welit gitahtanit ne tahtuli su yaha gimati ga gichiwtuk tay inat ipal u tay yawi ihpak tay ipal ne sen\ntalmet.\nPewa ina gaxtuli (15)\nMuchi tehemet tiwelit tigixtiat tuamaw tageza pal gimatit ga cha ne tehemet titechan tagamet.\nTesu aga weli giixtilia pal yaha techan cha ne nan weli gipata gan yaha nestuk.\nPewa ina gaxtuli se (16)\nNe tagamet wan ne siwatget qak ahsi nexiwit ga welit munamiktiat welit munamiktiat pal gi iskaliat\nipihpilawan wan te muita gen itachixka mulatuh u mezali. Wan genga welit tay ipal sen nemit u muahkawat.\nMaya su yehemet ginegit munamiktiat welit munamiktiat su té tesu.\nNe iknew se tagutun pal ne tezilna pal ne techan cha nehket, wan gipia ta ipal ixpan netechan wan pal ne\ntalmet.\nPewa ina gaxtuli ume (17)",
-            "Image": "8c7525ce6e91c05a88da9f33cbfe1753"
+            "Text": "tageza, nan tay yawi ma inat ipampa ipal ta yaha. Muchi tehemet tikpiat ixpan netahtuli techpalewiat tayawi\nga tehemet wan tay tehemet tesu tikchiwtiwit.\nPewa ina mahtati yey (13)\nMuchi tehemet tiwelit tinehnemi gan tehemet tiknegit.\nMuchi tehemet tiwelit tigisat pal uk se te pal techan wan tiwelit timuqepat tik ne techan.\nPewa ina mahtati nawi (14)\nWan su gen se tehemet gitemuwat weli yawi tik uk se techan gitemuwa gan weli nemi.\nWan tesu welit gitahtanit ne tahtuli su yaha gimati ga gichiwtuk tay inat ipal u tay yawi ihpak tay ipal ne sen\ntalmet.\nPewa ina gaxtuli (15)\nMuchi tehemet tiwelit tigixtiat tuamaw tageza pal gimatit ga cha ne tehemet titechan tagamet.\nTesu aga weli giixtilia pal yaha techan cha ne nan weli gipata gan yaha nestuk.\nPewa ina gaxtuli se (16)\nNe tagamet wan ne siwatget qak ahsi nexiwit ga welit munamiktiat welit munamiktiat pal gi iskaliat\nipihpilawan wan te muita gen itachixka mulatuh u mezali. Wan genga welit tay ipal sen nemit u muahkawat.\nMaya su yehemet ginegit munamiktiat welit munamiktiat su té tesu.\nNe iknew se tagutun pal ne tezilna pal ne techan cha nehket, wan gipia ta ipal ixpan netechan wan pal ne\ntalmet.\nPewa ina gaxtuli ume (17)"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "10f13d980d623809844da08edac16c96",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Muchi tehemet tiwelit tikpiat maya tupal wan nusan tiksempiat.\nTesu aga weli techihtilia tay tupal.\nPewa ina gaxtuli yey (18)\nMuchi tehemet tiwelit tikchiwat tay tiyultageza, ta yaha weli gikchiwa wan gan ginegi mutanwageza; ini tay\nipal gikchiwat ga tiwelit tikpatat tay tehemet tiknegit u gan tiknegit timutanwagezat; kiuni gen netamagixti\nmunextia gan tehemet tiknegit timutanwagezat maya se u muchi, ixpan muchi u tusel; pal tikmachtiat, ne tay\ntikchiwat, ne gan titageza wan gan muita.\nPewa ina gaxtuli nawi (19)\nMuchi tehemet weli tikpiat tamagixti pal ina tay yek u té; ini tay tupal yek pal te aga weli techilwiat ga tesu\nyek tay tikchiwat, wili tiawit tigitat wan welit techilwiat wan weli muina su yek u té, wan weli muilwia\nmuchi, tesu maya ni gan su té gan muweli ina wan gen muweli ina.\nPewa ina se pual (20)\nMuchi tehemet tikpiat tamagixti pal timupuzuat wan gan mupuzuat pal tik chiwat tay yek.\nTesu aga weli mezilwia ma xinemi gan tesu tiknegi.\nPewa ina se pual se (21)\nMuchi tehemet tiwelit nemi tik ne gal puli pal ne tu techan, welit tinemit u tiktuktiat uk se ma nemi tupampa.\nMuchi tehemet tiwelit tigalagit gan muchi tigengat gichiwat tay ipal ne pal ne tahtuli.\nTay ginegi ne techan ga ne tezilna pal tanawatiani ipal muchi tehemet; ini tay tiinat pal muchi pal qak tiawit\ntay tiinat gahyawi gituktia ne techan, ini tay muina tiawit tikchiwat qak ya muqepa tik inat ga ya mupata uk\nse ga gituhtia ne techan; pal muchi inat ga yaha weli naga pal tatuktia wan tay muina maya tehemet tikmatit",
-            "Image": "10f13d980d623809844da08edac16c96"
+            "Text": "Muchi tehemet tiwelit tikpiat maya tupal wan nusan tiksempiat.\nTesu aga weli techihtilia tay tupal.\nPewa ina gaxtuli yey (18)\nMuchi tehemet tiwelit tikchiwat tay tiyultageza, ta yaha weli gikchiwa wan gan ginegi mutanwageza; ini tay\nipal gikchiwat ga tiwelit tikpatat tay tehemet tiknegit u gan tiknegit timutanwagezat; kiuni gen netamagixti\nmunextia gan tehemet tiknegit timutanwagezat maya se u muchi, ixpan muchi u tusel; pal tikmachtiat, ne tay\ntikchiwat, ne gan titageza wan gan muita.\nPewa ina gaxtuli nawi (19)\nMuchi tehemet weli tikpiat tamagixti pal ina tay yek u té; ini tay tupal yek pal te aga weli techilwiat ga tesu\nyek tay tikchiwat, wili tiawit tigitat wan welit techilwiat wan weli muina su yek u té, wan weli muilwia\nmuchi, tesu maya ni gan su té gan muweli ina wan gen muweli ina.\nPewa ina se pual (20)\nMuchi tehemet tikpiat tamagixti pal timupuzuat wan gan mupuzuat pal tik chiwat tay yek.\nTesu aga weli mezilwia ma xinemi gan tesu tiknegi.\nPewa ina se pual se (21)\nMuchi tehemet tiwelit nemi tik ne gal puli pal ne tu techan, welit tinemit u tiktuktiat uk se ma nemi tupampa.\nMuchi tehemet tiwelit tigalagit gan muchi tigengat gichiwat tay ipal ne pal ne tahtuli.\nTay ginegi ne techan ga ne tezilna pal tanawatiani ipal muchi tehemet; ini tay tiinat pal muchi pal qak tiawit\ntay tiinat gahyawi gituktia ne techan, ini tay muina tiawit tikchiwat qak ya muqepa tik inat ga ya mupata uk\nse ga gituhtia ne techan; pal muchi inat ga yaha weli naga pal tatuktia wan tay muina maya tehemet tikmatit"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "96b9f23c50284474c8aa42ab881d2db5",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "pal ga tinatiwit wan uk se weli muchiwa ma ina ga nemi yek.\nPewa ina se pual ume (22)\nMuchi tehemet gen se pal ne gan puzuat weli gipia gal wan gan yawi pahtia wan mumachtia, wan gipia gan\nsu ginegi gichiwa pal ne techan wan pal ne tepal techan tay gipia ne gan ahsi musempuzuat wan tay gipia\nipal ne techan, gunih weli tay yaha gipia, yaha gipia muchi tay munegi, wan tay gichiwa gatka, tay yaha\nmunegi ipal wan tay weli gichiwa tay yaha munegi.\nPewa ina se pual yey (23)\nMuchi tehemet tiwelit titegitit, pal ina tay ginegi gichiwa, tay genga gen uk seyuk tegitit ma mumati yek wan\nweli mutahtawelia ga tesu gimagat gan tegiti.\nMuchi tehemet tiwelit tiktahtamit ipatiw ne tegiw genga gen gitaxtawat ne uk seyuk.\nMuchi tehemet welit tikpiat matechtahtawigan genga pal mumati yek, pal gimati gaipal wan pal iknew pal\nixtuna pal muchi yehemet wan pal tami gichiwat ga uk seyuk gan welit gipalewiat.\nMuchi tehemet tiwelit tikpuzuwat wan weli timuchiwat se pal gan mupuzuat pal mupalewia tay ipal.\nPewa ina se pual nawi (24)\nMuchi tehemet tiwelit timusewiat, wan paxaluwa qak tesu tegiti, wan qak tegiti ma tegiti axta qak inatiwit,\nwan qak paxaluwa magitaxtawigan gen tegitisgia.\nPewa ina se pual maqil (25)\nMuchi tehemet welit tikpiat ma tinemigan yek ma weli nemi yek yaha wan iknew, ma gipia pal mupahtia\nwan pal nemi yek, wan tay giqa, qahqax, gal, gan ya mupahtia wan pal muchi tay yaha munegi; gipia nusan\ngan gitaxtawat su te gipia tegiw, guguya, te weli nehnemi, ga migi igumpa, ga chulét, wan uk sekseyuk gagi",
-            "Image": "96b9f23c50284474c8aa42ab881d2db5"
+            "Text": "pal ga tinatiwit wan uk se weli muchiwa ma ina ga nemi yek.\nPewa ina se pual ume (22)\nMuchi tehemet gen se pal ne gan puzuat weli gipia gal wan gan yawi pahtia wan mumachtia, wan gipia gan\nsu ginegi gichiwa pal ne techan wan pal ne tepal techan tay gipia ne gan ahsi musempuzuat wan tay gipia\nipal ne techan, gunih weli tay yaha gipia, yaha gipia muchi tay munegi, wan tay gichiwa gatka, tay yaha\nmunegi ipal wan tay weli gichiwa tay yaha munegi.\nPewa ina se pual yey (23)\nMuchi tehemet tiwelit titegitit, pal ina tay ginegi gichiwa, tay genga gen uk seyuk tegitit ma mumati yek wan\nweli mutahtawelia ga tesu gimagat gan tegiti.\nMuchi tehemet tiwelit tiktahtamit ipatiw ne tegiw genga gen gitaxtawat ne uk seyuk.\nMuchi tehemet welit tikpiat matechtahtawigan genga pal mumati yek, pal gimati gaipal wan pal iknew pal\nixtuna pal muchi yehemet wan pal tami gichiwat ga uk seyuk gan welit gipalewiat.\nMuchi tehemet tiwelit tikpuzuwat wan weli timuchiwat se pal gan mupuzuat pal mupalewia tay ipal.\nPewa ina se pual nawi (24)\nMuchi tehemet tiwelit timusewiat, wan paxaluwa qak tesu tegiti, wan qak tegiti ma tegiti axta qak inatiwit,\nwan qak paxaluwa magitaxtawigan gen tegitisgia.\nPewa ina se pual maqil (25)\nMuchi tehemet welit tikpiat ma tinemigan yek ma weli nemi yek yaha wan iknew, ma gipia pal mupahtia\nwan pal nemi yek, wan tay giqa, qahqax, gal, gan ya mupahtia wan pal muchi tay yaha munegi; gipia nusan\ngan gitaxtawat su te gipia tegiw, guguya, te weli nehnemi, ga migi igumpa, ga chulét, wan uk sekseyuk gagi"
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "c7b94c535c3b73fda9e3435733b17fd8",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "puluhtuk tay yaha tesu ginetuya.\ninan wan qak gunet gipiat nusan ga gitahpiat wan ga gita manemi yek. Muchi neguhgunet, nestiwit ipal\nmunamitihtiwit u tesu, gipiat nusan pal ipal tay muchi gipiat.\nPewa ina se pual xiqasen (26)\nMuchi tehemet tiwelit timumachtiat. Wan timumaxtiat ma te techtahtani ipatiw, pal timumachtiat tay\ntimunegit. Pal timumachtiat timunegit ma techilwigan gan tiawit timumachtiat. Tay timumachtiat pal tiwelit\ntiinat yek tay tiknegit tiina wan ini weli nemi pal muchi tesu pal maya se; pal muchi ne gan mumachtiat gan\nwelit genga pal muchi, su weli gichiwa tay yaha weli.\nNe tay timumachtiat nemi pal weya tay tigixmati wan pal tesu aga techchiwa datka; pal weli gimati, pal\nyahkawat gichiwa tay yaha ginegi, pal te timuqalantiat wan pal timunegit nuhme ne tal wan muchi ne gan\nmupuzuat tesu inat datka pal tyut u wan mutanwageza; wan yaha mugumuntia pal tami qiga tay ginegi\ngichiwa pal ne nuhme ne talmet pal te aga muchiwa datka.\nNe tehtegu weli gitat tay welit gimachtiat ne guhgunew.\nPewa ina se pual chikume (27)\nMuchi tehemet tiwelit tikchiwat tay gichiwa ne techan tagamet, pal welit mu yulqesuwat tay yehemet welit\ngichiwat, wan weli nemit ne ga gimati ina tay gichiwa wan tay gimaga ipatiw tay yaha gichiwtuk.\nMuchi tehemet tiwelit tigitat su yek u te, tay tehemet tikchiwtiwit, tay yaha ipal pal yaha gichiwtuk tik ne tay\ntesu aga gimati, tawawasua wan tilqilua, mihtutia, gixpiza.\nPewa ina se pual chiqéy (28)\nMuchi tehemet tiwelit tiktahtamit ma gichiwagan tay inatiwit ga giawi gichiwat tay tupal tamagixti tay",
-            "Image": "c7b94c535c3b73fda9e3435733b17fd8"
+            "Text": "puluhtuk tay yaha tesu ginetuya.\ninan wan qak gunet gipiat nusan ga gitahpiat wan ga gita manemi yek. Muchi neguhgunet, nestiwit ipal\nmunamitihtiwit u tesu, gipiat nusan pal ipal tay muchi gipiat.\nPewa ina se pual xiqasen (26)\nMuchi tehemet tiwelit timumachtiat. Wan timumaxtiat ma te techtahtani ipatiw, pal timumachtiat tay\ntimunegit. Pal timumachtiat timunegit ma techilwigan gan tiawit timumachtiat. Tay timumachtiat pal tiwelit\ntiinat yek tay tiknegit tiina wan ini weli nemi pal muchi tesu pal maya se; pal muchi ne gan mumachtiat gan\nwelit genga pal muchi, su weli gichiwa tay yaha weli.\nNe tay timumachtiat nemi pal weya tay tigixmati wan pal tesu aga techchiwa datka; pal weli gimati, pal\nyahkawat gichiwa tay yaha ginegi, pal te timuqalantiat wan pal timunegit nuhme ne tal wan muchi ne gan\nmupuzuat tesu inat datka pal tyut u wan mutanwageza; wan yaha mugumuntia pal tami qiga tay ginegi\ngichiwa pal ne nuhme ne talmet pal te aga muchiwa datka.\nNe tehtegu weli gitat tay welit gimachtiat ne guhgunew.\nPewa ina se pual chikume (27)\nMuchi tehemet tiwelit tikchiwat tay gichiwa ne techan tagamet, pal welit mu yulqesuwat tay yehemet welit\ngichiwat, wan weli nemit ne ga gimati ina tay gichiwa wan tay gimaga ipatiw tay yaha gichiwtuk.\nMuchi tehemet tiwelit tigitat su yek u te, tay tehemet tikchiwtiwit, tay yaha ipal pal yaha gichiwtuk tik ne tay\ntesu aga gimati, tawawasua wan tilqilua, mihtutia, gixpiza.\nPewa ina se pual chiqéy (28)\nMuchi tehemet tiwelit tiktahtamit ma gichiwagan tay inatiwit ga giawi gichiwat tay tupal tamagixti tay"
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "cfa9d4f8c53e7a4c4fa94651bb405f77",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "inextiwit tik tay inatiwit ma gichiwagan pal te naga maya tik amat.\nPewa ina se pual chiknawi (29)\nMuchi tehemet tiwelit tikchiwat tay ipal ne techan ga maya ipal yaha weli gichiwa tay yaha weli\ngamumaxtihtuk.\nTik ta yaha gichiwa pal te aga gilwia datka, muchi tehemet weli nemi tay gilwiat chupi ta ina ne tanawatiani,\nwan pal maya gita ga ta yaha ipal wan tamagixti ipal muchi wan mumati yek tay gilwiat ma gichiwa ipampa\nuk seyuk, tay yek tatuktiat, tay yek, ne tatuknianit pal muchi wan pal nemi yek muchi tik se gan tinemit gan\ntesu aga techilwiat datka.\nIni tay tupal wan tamagixti tesu weli qak tesu tiknegit qak te tiknegit tay su tiawit tinat tay tesu yek pal ne\nsen talmet.\nPewa ina se pual mahtati (30)\nTesu datka tay ginechtiwit welit inat tesu welit gimatit gen gimaga ta ipal pal se gan musempuzuat u pal ne\ntechan, pal pewat gichiwat u gichiwat tay pal gitahtani tay tesu ginegi gikchiwat pal ne tay inatiwit tigini tay\nginechtiwit.",
-            "Image": "cfa9d4f8c53e7a4c4fa94651bb405f77"
+            "Text": "inextiwit tik tay inatiwit ma gichiwagan pal te naga maya tik amat.\nPewa ina se pual chiknawi (29)\nMuchi tehemet tiwelit tikchiwat tay ipal ne techan ga maya ipal yaha weli gichiwa tay yaha weli\ngamumaxtihtuk.\nTik ta yaha gichiwa pal te aga gilwia datka, muchi tehemet weli nemi tay gilwiat chupi ta ina ne tanawatiani,\nwan pal maya gita ga ta yaha ipal wan tamagixti ipal muchi wan mumati yek tay gilwiat ma gichiwa ipampa\nuk seyuk, tay yek tatuktiat, tay yek, ne tatuknianit pal muchi wan pal nemi yek muchi tik se gan tinemit gan\ntesu aga techilwiat datka.\nIni tay tupal wan tamagixti tesu weli qak tesu tiknegit qak te tiknegit tay su tiawit tinat tay tesu yek pal ne\nsen talmet.\nPewa ina se pual mahtati (30)\nTesu datka tay ginechtiwit welit inat tesu welit gimatit gen gimaga ta ipal pal se gan musempuzuat u pal ne\ntechan, pal pewat gichiwat u gichiwat tay pal gitahtani tay tesu ginegi gikchiwat pal ne tay inatiwit tigini tay\nginechtiwit."
         }
     }
 }

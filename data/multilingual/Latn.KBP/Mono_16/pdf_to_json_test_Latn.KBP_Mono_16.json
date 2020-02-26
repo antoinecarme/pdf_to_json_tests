@@ -1,80 +1,80 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581468696,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "f2f4035e2a27ab906a59327b045c9ee5",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "KEDEŊGA KPEEKPE YƆƆ ƐYƱ WALA TƆM\nKUBUUZUTU\nYee ɖitisaa se pʊmʊna ɛyaa se pɛwɛɛ kɩmaŋ wala ɛsɩndaa nɛ pɩkɛna wazaɣ\npʊyʊ kɔyɔ, ɖitisaa ɖɔɖɔ se peeɖe ɛjaɖɛ yɔɔ tɩ-yɔɔ wɛʊ, toovonum nɛ\nlahɛzɩyɛ palɩɣna;\nƉɩnaa se ɛyʊ wala tɔm kɩɩsɩŋ nɛ tɩ-yɔɔ kɩɩɖɔŋ palabɩna nɛ kɩwɛɛkɩm tɔyɩ\nnɛ pɩcɛyɩɣ ɛyaa. Mbʊ pacaɣ se ɛjaɖɛ ɛlɛɣzɩ wɛtʊ, ɛyaa wɛɛ pa-tɩ yɔɔ,\npɔyɔɔdʊʊ yem faaa nɛ pɩwɩlɩ se palɩ kʊñɔŋ taa, sɔɔndʊ ɛɛtasɩɣ-wɛ kpaʊ;\nYee waɖɛ kewiyaɣ ɛkandayɩɣ ɛyʊ wala yɔɔ camɩyɛ kɔyɔ, wiɖiyi pɩɩkaɣ ɛyʊ\nɛnʊ kɛnaʊ kɩjɛyʊʊ se ɛkʊyɩ kewiyaɣ ŋga kɔ-yɔɔ se kalakɩ-ɩ ñaŋ;\nPʊwɛ camɩyɛ se pasɩna ajɛya, akpeeti nɛ ala taabalɩyɛ ɖʊʊ tʊmɩyɛ ɖeu nɛ\npuhuuna-yɛ;\nƉinaa se ajɛya kɩgbɛndʊʊ ŋgbɛyɛ paɣtʊ takayaɣ taa kɛ ɛyaa kpeekpe tasɩ\ntisuu ɛyʊ wala nɛ ɛ-wazaɣ pɔ-tɔm, nɛ pɔtɔ se abalaa nɛ halaa pɛwɛ kɩmaŋ\nwala ana a-ɛsɩndaa; mbʊ labɩna nɛ paka ñʊʊ se pekpeetiɣ samaɣ sɩnaʊ\ntʊmɩyɛ yɔɔ nɛ pɩsa pɛwɛɛ pa-tɩ yɔɔ camɩyɛ;\nAjɛya kɩgbɛdʊʊ ŋgbɛyɛ taa ajɛya tisaa se alakɩ nɛ ɛyaa kpeekpe ña ɛyʊ\nwala, ɛlɛ pʊwɛɛ se ŋgbɛyɛ ɛɖʊ-yɛ nisi;\nYee ɛyaa tɩŋgɛ ɩwɛna lɩmaɣzɩyɛ kʊɖʊmɖɩyɛ ɛyʊ wala nɛ ɛ-tɩ yɔɔ wɛʊ tɔm\nyɔɔ kɔyɔ, pɩsaŋ nɛ pala tʊmɩyɛ nɖɩ.\nMBƱ AJƐYA KIGBƐNDƱƱ ŊGBƐYƐ KEDIƔZAƔ SƆSƆƆ TƆM SE:\nKEDEŊGA KPEEKPE YƆƆ ƐYƱ WALA TƆM tʊnɛ tɩkɛ ajɛya wena kedeŋga kpeekpe\nyɔɔ ɛyʊ wala tɔm wɛ a-ñʊŋ taa yɔ a-lɩmaɣzɩyɛ; nɛ pɩsa acɛyɩ a-tɩ, akuli\nŋgbɛyɛ ɖɩnɛ ɖa-ajɛya ɛyaa nɛ ajɛya lɛɛna ɛyaa ɛsɛ nɛ paña ɛyʊ wala nɛ ɛ-\ntɩ yɔɔ wɛʊ tɔm.\nHɔɔlaɣ 1\nPalʊlʊʊ ɛyaaa nɛ pa-tɩ yɔɔ wɛʊ kpaagbaa nɛ pɛwɛɛ kɩmaŋ wala ɛsɩndaa.\nPalʊlʊʊ-wɛ nɛ pɔ-lɔŋ nɛ pa-maɣzɩm; mbʊ yekina nɛ pɔsɔɔlɩ ɖama se pɛkɛ\nɛyaa pa-tɩŋgɛ.\nHɔɔlaɣ 2\nPaa ɛyʊ weyi, ɛkɛ kɩsɛm, kɩkpɛdʊ, kʊhʊlʊm, ñɩmdʊ, kɛdɛyaɣ, paa ɛkɛ cɔɔcɩ\nŋgʊ kɩ-taa tʊ, ɛlaɣ sɩɩnaa, ɛpɩzɩɣ ɛtɔ se kedeŋga kpeekpe yɔɔ ɛyʊ wala\nwena pɔyɔɔdɩ a-tɔm cɩellnɛ yɔ, akɛ ɖɔɖɔ ɛ-ñɩna.\nMbʊ ɖɔɖɔ paa ɛyʊ ɛlɩna le, ɛkɛ ɛjaɖɛ nɖɩ ɖɩwɛ ɖɩ-tɩ yɔɔ yɔ, ɖɩfɛyɩ ɖɩ-tɩ\nyɔɔ yɔ ɖɩ-taa tʊ, yaa ɖɩ-poliitikii kɛ ŋgʊ, paapɩzɩɣ pɔtɔ se ɛyʊ wala\ntɔm tʊnɛ tɩdataɣna-ɩ.\nHɔɔlaɣ 3\nPaa anɩ, ɛwɛna waɖɛ se ɛwɛɛna wezuu, ɛwɛɛ ɛ-tɩ yɔɔ nɛ ɛkandayɩ ɛ-tɩ yɔɔ.",
-            "Image": "f2f4035e2a27ab906a59327b045c9ee5"
+            "Text": "KEDEŊGA KPEEKPE YƆƆ ƐYƱ WALA TƆM\nKUBUUZUTU\nYee ɖitisaa se pʊmʊna ɛyaa se pɛwɛɛ kɩmaŋ wala ɛsɩndaa nɛ pɩkɛna wazaɣ\npʊyʊ kɔyɔ, ɖitisaa ɖɔɖɔ se peeɖe ɛjaɖɛ yɔɔ tɩ-yɔɔ wɛʊ, toovonum nɛ\nlahɛzɩyɛ palɩɣna;\nƉɩnaa se ɛyʊ wala tɔm kɩɩsɩŋ nɛ tɩ-yɔɔ kɩɩɖɔŋ palabɩna nɛ kɩwɛɛkɩm tɔyɩ\nnɛ pɩcɛyɩɣ ɛyaa. Mbʊ pacaɣ se ɛjaɖɛ ɛlɛɣzɩ wɛtʊ, ɛyaa wɛɛ pa-tɩ yɔɔ,\npɔyɔɔdʊʊ yem faaa nɛ pɩwɩlɩ se palɩ kʊñɔŋ taa, sɔɔndʊ ɛɛtasɩɣ-wɛ kpaʊ;\nYee waɖɛ kewiyaɣ ɛkandayɩɣ ɛyʊ wala yɔɔ camɩyɛ kɔyɔ, wiɖiyi pɩɩkaɣ ɛyʊ\nɛnʊ kɛnaʊ kɩjɛyʊʊ se ɛkʊyɩ kewiyaɣ ŋga kɔ-yɔɔ se kalakɩ-ɩ ñaŋ;\nPʊwɛ camɩyɛ se pasɩna ajɛya, akpeeti nɛ ala taabalɩyɛ ɖʊʊ tʊmɩyɛ ɖeu nɛ\npuhuuna-yɛ;\nƉinaa se ajɛya kɩgbɛndʊʊ ŋgbɛyɛ paɣtʊ takayaɣ taa kɛ ɛyaa kpeekpe tasɩ\ntisuu ɛyʊ wala nɛ ɛ-wazaɣ pɔ-tɔm, nɛ pɔtɔ se abalaa nɛ halaa pɛwɛ kɩmaŋ\nwala ana a-ɛsɩndaa; mbʊ labɩna nɛ paka ñʊʊ se pekpeetiɣ samaɣ sɩnaʊ\ntʊmɩyɛ yɔɔ nɛ pɩsa pɛwɛɛ pa-tɩ yɔɔ camɩyɛ;\nAjɛya kɩgbɛdʊʊ ŋgbɛyɛ taa ajɛya tisaa se alakɩ nɛ ɛyaa kpeekpe ña ɛyʊ\nwala, ɛlɛ pʊwɛɛ se ŋgbɛyɛ ɛɖʊ-yɛ nisi;\nYee ɛyaa tɩŋgɛ ɩwɛna lɩmaɣzɩyɛ kʊɖʊmɖɩyɛ ɛyʊ wala nɛ ɛ-tɩ yɔɔ wɛʊ tɔm\nyɔɔ kɔyɔ, pɩsaŋ nɛ pala tʊmɩyɛ nɖɩ.\nMBƱ AJƐYA KIGBƐNDƱƱ ŊGBƐYƐ KEDIƔZAƔ SƆSƆƆ TƆM SE:\nKEDEŊGA KPEEKPE YƆƆ ƐYƱ WALA TƆM tʊnɛ tɩkɛ ajɛya wena kedeŋga kpeekpe\nyɔɔ ɛyʊ wala tɔm wɛ a-ñʊŋ taa yɔ a-lɩmaɣzɩyɛ; nɛ pɩsa acɛyɩ a-tɩ, akuli\nŋgbɛyɛ ɖɩnɛ ɖa-ajɛya ɛyaa nɛ ajɛya lɛɛna ɛyaa ɛsɛ nɛ paña ɛyʊ wala nɛ ɛ-\ntɩ yɔɔ wɛʊ tɔm.\nHɔɔlaɣ 1\nPalʊlʊʊ ɛyaaa nɛ pa-tɩ yɔɔ wɛʊ kpaagbaa nɛ pɛwɛɛ kɩmaŋ wala ɛsɩndaa.\nPalʊlʊʊ-wɛ nɛ pɔ-lɔŋ nɛ pa-maɣzɩm; mbʊ yekina nɛ pɔsɔɔlɩ ɖama se pɛkɛ\nɛyaa pa-tɩŋgɛ.\nHɔɔlaɣ 2\nPaa ɛyʊ weyi, ɛkɛ kɩsɛm, kɩkpɛdʊ, kʊhʊlʊm, ñɩmdʊ, kɛdɛyaɣ, paa ɛkɛ cɔɔcɩ\nŋgʊ kɩ-taa tʊ, ɛlaɣ sɩɩnaa, ɛpɩzɩɣ ɛtɔ se kedeŋga kpeekpe yɔɔ ɛyʊ wala\nwena pɔyɔɔdɩ a-tɔm cɩellnɛ yɔ, akɛ ɖɔɖɔ ɛ-ñɩna.\nMbʊ ɖɔɖɔ paa ɛyʊ ɛlɩna le, ɛkɛ ɛjaɖɛ nɖɩ ɖɩwɛ ɖɩ-tɩ yɔɔ yɔ, ɖɩfɛyɩ ɖɩ-tɩ\nyɔɔ yɔ ɖɩ-taa tʊ, yaa ɖɩ-poliitikii kɛ ŋgʊ, paapɩzɩɣ pɔtɔ se ɛyʊ wala\ntɔm tʊnɛ tɩdataɣna-ɩ.\nHɔɔlaɣ 3\nPaa anɩ, ɛwɛna waɖɛ se ɛwɛɛna wezuu, ɛwɛɛ ɛ-tɩ yɔɔ nɛ ɛkandayɩ ɛ-tɩ yɔɔ."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "52a214c8719b627d705e840de0d138ab",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Hɔɔlaɣ 4\nPɩfɛyɩ se nɔɔyʊ ɛwɛɛ yomiye taa; ɛlɛ padaaɖʊ-ɩ ɖɔɖɔ kʊñɔŋ. Pekizi yomiye\ntɔm.\nHɔɔlaɣ 5\nPɩfɛyɩ se paɖʊ nɔɔyʊ kʊñɔŋ, pɛkpɛŋgɛsɩ-ɩ, yaa palabɩ-ɩ mbʊ pɩdamʊna se\npala ɛyʊ yɔ.\nHɔɔlaɣ 6\nPaa anɩ, ɛwɛna waɖɛ se paa le, paya-ɩ se caa akele.\nHɔɔlaɣ 7\nƐyaa kpeekpe wɛ kɩmaŋ paɣtʊ ɛsɩndaa nɛ pɛwɛɛna waɖɛ ɖɔɖɔ se paɣtʊ\nɛkandayɩ pɔ-yɔɔ kɩmaŋ. Yee palakɩ-wɛ nabʊyʊ nɛ pɩfɛyɩ ɖeu, yaa pɩɩɖɔŋ\npaɣtʊ nʊmaʊ ta, pɩwɛɛ ɖɔɖɔ se pakandayɩ pɔ-yɔɔ kɩmaŋ.\nHɔɔlaɣ 8\nPaa anɩ, ɛwɛna waɖɛ se pacaɣ-ɩ tɔm yaa pomuluu-i faŋŋŋ wala wena paɣtʊ\nha-ɩ yɔ a-nʊmaʊ taa, ewolo eheyi ɛjaɖɛ taa tɔm hʊyaa.\nHɔɔlaɣ 9\nPaapɩzɩɣ pakpa nɔɔyʊ faŋŋ paɖɩɣ yaa pɛkɛzɩ-ɩ tɛtʊ.\nHɔɔlaɣ 10\nYee pakpa ɛyʊ nɔɔyʊ se ɛlabɩ nabʊyʊ, ɛwɛna waɖɛ se pahʊʊ ɛ-tɔm fayɩɩ nɛ\npana; tiɖeɣ yaa tɩsɩkɩ.\nHɔɔlaɣ 11\nƐyʊ weyi pakpa-ɩ nɛ padahʊda ɛ-tɔm yɔ, pɔcɔŋna-ɩ se ɛdɛwɛɛkɩ pʊyʊ; a-\naseɣɖe tɩnaa nɛ ɛ-yɔɔ kandɩyaa pasɩŋgɩɣ ɛ-wayɩ, pahʊʊ ɛ-tɔm fayɩɩ ɛzɩ\npaɣtʊ pɔzʊʊ yɔ, nɛ pana toovonum.\nPaakpaɣ ɛyʊ sɔnɔ ɖooo mbʊ ɛɛlaba nɛ pɩdaafɛyɩ paɣtʊ taa yɔ, pʊ-yɔɔ; yee\npʊ-wayɩ pʊkɔma pɩlɩɩ se ɛɛlabɩ mbʊ yɔ pɩkɛ kɩwɛɛkɩm, nɛ pʊpɔzʊʊ se pɔhɔ\nɛ-naŋgbaŋgʊʊ kɔyɔ, paɣtʊ kɩbɩndʊ yɔɔ patɩŋgɩɣ.\nHɔɔlaɣ 12\nPɩfɛyɩ ɖeu se ɛyʊ nɔɔyʊ ɛɖʊ ɛ-nɔɔ lɛlʊ tɔm taa yem yem.\nHɔɔlaɣ 13\nPaa anɩ, ɛwɛna waɖɛ se ewolo paa le, ɛcaɣ ɖenɖe e-liu wɛɛ yɔ paa ɛjaɖe\nnɖɩ lɛ ɖɩ-taa.\nPaa ɛyʊ weyi, ɛwɛna waɖɛ se ɛkʊyɩ ɛjaɖɛ nɖɩ ɛwɛ ɖɩ-taa yɔ, paa pɩkɛ ɛ-\nñɩnɖɛ, nɛ pɩmaɣ-ɩ ɖooye lɛ, ɛpɩsɩ.\nHɔɔlaɣ 14",
-            "Image": "52a214c8719b627d705e840de0d138ab"
+            "Text": "Hɔɔlaɣ 4\nPɩfɛyɩ se nɔɔyʊ ɛwɛɛ yomiye taa; ɛlɛ padaaɖʊ-ɩ ɖɔɖɔ kʊñɔŋ. Pekizi yomiye\ntɔm.\nHɔɔlaɣ 5\nPɩfɛyɩ se paɖʊ nɔɔyʊ kʊñɔŋ, pɛkpɛŋgɛsɩ-ɩ, yaa palabɩ-ɩ mbʊ pɩdamʊna se\npala ɛyʊ yɔ.\nHɔɔlaɣ 6\nPaa anɩ, ɛwɛna waɖɛ se paa le, paya-ɩ se caa akele.\nHɔɔlaɣ 7\nƐyaa kpeekpe wɛ kɩmaŋ paɣtʊ ɛsɩndaa nɛ pɛwɛɛna waɖɛ ɖɔɖɔ se paɣtʊ\nɛkandayɩ pɔ-yɔɔ kɩmaŋ. Yee palakɩ-wɛ nabʊyʊ nɛ pɩfɛyɩ ɖeu, yaa pɩɩɖɔŋ\npaɣtʊ nʊmaʊ ta, pɩwɛɛ ɖɔɖɔ se pakandayɩ pɔ-yɔɔ kɩmaŋ.\nHɔɔlaɣ 8\nPaa anɩ, ɛwɛna waɖɛ se pacaɣ-ɩ tɔm yaa pomuluu-i faŋŋŋ wala wena paɣtʊ\nha-ɩ yɔ a-nʊmaʊ taa, ewolo eheyi ɛjaɖɛ taa tɔm hʊyaa.\nHɔɔlaɣ 9\nPaapɩzɩɣ pakpa nɔɔyʊ faŋŋ paɖɩɣ yaa pɛkɛzɩ-ɩ tɛtʊ.\nHɔɔlaɣ 10\nYee pakpa ɛyʊ nɔɔyʊ se ɛlabɩ nabʊyʊ, ɛwɛna waɖɛ se pahʊʊ ɛ-tɔm fayɩɩ nɛ\npana; tiɖeɣ yaa tɩsɩkɩ.\nHɔɔlaɣ 11\nƐyʊ weyi pakpa-ɩ nɛ padahʊda ɛ-tɔm yɔ, pɔcɔŋna-ɩ se ɛdɛwɛɛkɩ pʊyʊ; a-\naseɣɖe tɩnaa nɛ ɛ-yɔɔ kandɩyaa pasɩŋgɩɣ ɛ-wayɩ, pahʊʊ ɛ-tɔm fayɩɩ ɛzɩ\npaɣtʊ pɔzʊʊ yɔ, nɛ pana toovonum.\nPaakpaɣ ɛyʊ sɔnɔ ɖooo mbʊ ɛɛlaba nɛ pɩdaafɛyɩ paɣtʊ taa yɔ, pʊ-yɔɔ; yee\npʊ-wayɩ pʊkɔma pɩlɩɩ se ɛɛlabɩ mbʊ yɔ pɩkɛ kɩwɛɛkɩm, nɛ pʊpɔzʊʊ se pɔhɔ\nɛ-naŋgbaŋgʊʊ kɔyɔ, paɣtʊ kɩbɩndʊ yɔɔ patɩŋgɩɣ.\nHɔɔlaɣ 12\nPɩfɛyɩ ɖeu se ɛyʊ nɔɔyʊ ɛɖʊ ɛ-nɔɔ lɛlʊ tɔm taa yem yem.\nHɔɔlaɣ 13\nPaa anɩ, ɛwɛna waɖɛ se ewolo paa le, ɛcaɣ ɖenɖe e-liu wɛɛ yɔ paa ɛjaɖe\nnɖɩ lɛ ɖɩ-taa.\nPaa ɛyʊ weyi, ɛwɛna waɖɛ se ɛkʊyɩ ɛjaɖɛ nɖɩ ɛwɛ ɖɩ-taa yɔ, paa pɩkɛ ɛ-\nñɩnɖɛ, nɛ pɩmaɣ-ɩ ɖooye lɛ, ɛpɩsɩ.\nHɔɔlaɣ 14"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "7bfd7fec554bf7aa329d8457d165f6ce",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Yee palɩ ɛyʊ nɔɔyʊ wayɩ ɖoli faŋŋŋ, ɛwɛna waɖɛ sɛ eñɩnɩ kʊyʊʊ ɖʊɖʊyɛ.\nƐtalɩ le, padaalɔ-ɩ.\nƐlɛ, yee toovonum, ɛwɛɛkɩ nabʊyʊ nɛ pañɩnɩɣ-ɩ se pakpa-ɩ, ɛfɛyɩna waɖɛ\nse ɛɖʊ kʊyʊʊ ɖoli.\nHɔɔlaɣ 15\nPaa ɛyʊ weyi, ɛwɛna waɖɛ se ɛyaa ɛjaɖɛ naɖɩyɛ se ɛ-tɛ.\nPɩfɛyɩ se pekizina nɔɔyɔ se ɛdaayaa ɛ-ɛjaɖɛ se ɛ-tɛ yaa ɛdaa lɛɣzɩ tɛ.\nHɔɔlaɣ 16\nHalɩbiya nɛ abalɩbɩya, paa pɛ-tɛ le, palakɩ cɔɔcɩ ŋgʊ, patalɩɣ pe-ɖeɖe\nlɛ, pɛwɛna waɖɛ se pawalɩ, pakpaɣ halaa nɛ papɩsɩ ɖɩsɩ nɛ sɩ-tɩnaa. Pa-\nwala wɛ kɩmaŋ halɩkpaɣyɛ ɖeɖe; abalʊ wɛna waɖɛ se ekizi ɛ-halʊ nɛ\nɛɖɔɔnɩ-ɩ; halʊ ñɛwɛna waɖɛ ɖɔɖɔ se ekizi ɛ-walʊ nɛ ɛkʊɩ ɛ-yɔɔ.\nPɛlɔ nɛ evebu, petisiɣ se pɔsɔɔlɩ ɖama nɛ pʊcɔ palabɩ-wɛ halɩkpaɣyɛ\nsɔnzɩ. Pɩfɛyɩ pakpa pa-taa nɔɔyɔ nɛ ɖoŋ.\nMɩzaɣ kɛna samaɣ hoye; kɛwɛna waɖɛ se samaɣ nɛ kewiyaɣ pakandayɩ kɔ-yɔɔ.\nHɔɔlaɣ 17\nƐyʊ paa weyi, paa ɛwɛ e-ɖeke, paa ɛwɛ lalaa hɛkʊdaa, ɛwɛna waɖɛ se\nɛwɛɛna ñɩm.\nPɩfɛyɩ ɖeu se pɛlɛɣ nɔɔyʊ ɛ-ñɩm faŋŋŋ.\nHɔɔlaɣ 18\nPaa anɩ, ɛwɛna waɖɛ se elɩzɩ ɛ-lɩmaɣza faaa, ɛtɩŋ ɛsɔ tɔm nʊmaʊ ŋgʊ\nɛsɔɔlaa yɔ. Pʊ-tɔbʊʊ se waɖɛ ɖɩnɛ ɖiyekina nɛ ɛyʊ pɩzɩ eyele ɛsɔ tɔm\nnʊmaʊ nakʊyʊ nɛ ɛtɩŋ lɛɛkʊ, ɛpɩzɩ ɛwɩlɩ ɛsɔ tɔm nʊmaʊ ŋgʊ ɛtɩŋgɩɣ-kʊ yo\nkʊ-tɔm lalaa faaa; paa ɛwɛ e-ɖeke yaa ɛ nɛ lalaa, ɛpɩzɩɣ ɛla pʊ-tʊmɩyɛ.\nHɔɔlaɣ 19\nPaa ɛyʊ weyi, ɛwɛna waɖɛ se ɛyɔɔdɩ faaa ndʊ ɛmaɣzɩɣ yɔ; pʊ-tɔbʊʊ se\nsɔɔndʊ ɛdaakpa ɛyʊ nɔɔyʊ se ɛɛyɔɔdɩ natʊyʊ nɛ palabɩ-ɩ nabʊyʊ. Pʊ-tɔbʊʊ\nɖɔɖɔ se ɛyʊ wɛna waɖɛ se ɛkɛdɩ lalaa ndʊ ɛsɩma, ɛnaa yaa ɛnɩwa yɔ.\nHɔɔlaɣ 20\nPaa anɩ, ɛwɛna waɖɛ se ewolo kediɣzaɣ nɛ ɛwɛɛna ŋgbɛyɛ.\nPɩfɛyɩ se pakpa nɔɔyʊ nɛ ɖoŋ se ɛsʊʊ ŋgbɛyɛ naɖɩyɛ taa.\nHɔɔlaɣ 21\nPaa ɛyʊ weyi, ɛwɛna waɖɛ se ɛɖʊ ɛ-nɔɔ ɛ-ɛjaɖɛ ɖɔkʊʊ tʊmɩyɛ tɔm taa.\nƐmaɣmaɣ ɛpɩzɩɣ ɛla lɩmaɣza yaa ɛtɩŋna samaɣ lɩzɩ ɛyaa mba se pɔɖɔkɩ\nɛjaɖɛ yɔ pɔ-yɔɔ.\nPaa anɩ, ɛwɛna waɖɛ se ɛla kewiyaɣ tʊmɩyɛ naɖɩyɛ.",
-            "Image": "7bfd7fec554bf7aa329d8457d165f6ce"
+            "Text": "Yee palɩ ɛyʊ nɔɔyʊ wayɩ ɖoli faŋŋŋ, ɛwɛna waɖɛ sɛ eñɩnɩ kʊyʊʊ ɖʊɖʊyɛ.\nƐtalɩ le, padaalɔ-ɩ.\nƐlɛ, yee toovonum, ɛwɛɛkɩ nabʊyʊ nɛ pañɩnɩɣ-ɩ se pakpa-ɩ, ɛfɛyɩna waɖɛ\nse ɛɖʊ kʊyʊʊ ɖoli.\nHɔɔlaɣ 15\nPaa ɛyʊ weyi, ɛwɛna waɖɛ se ɛyaa ɛjaɖɛ naɖɩyɛ se ɛ-tɛ.\nPɩfɛyɩ se pekizina nɔɔyɔ se ɛdaayaa ɛ-ɛjaɖɛ se ɛ-tɛ yaa ɛdaa lɛɣzɩ tɛ.\nHɔɔlaɣ 16\nHalɩbiya nɛ abalɩbɩya, paa pɛ-tɛ le, palakɩ cɔɔcɩ ŋgʊ, patalɩɣ pe-ɖeɖe\nlɛ, pɛwɛna waɖɛ se pawalɩ, pakpaɣ halaa nɛ papɩsɩ ɖɩsɩ nɛ sɩ-tɩnaa. Pa-\nwala wɛ kɩmaŋ halɩkpaɣyɛ ɖeɖe; abalʊ wɛna waɖɛ se ekizi ɛ-halʊ nɛ\nɛɖɔɔnɩ-ɩ; halʊ ñɛwɛna waɖɛ ɖɔɖɔ se ekizi ɛ-walʊ nɛ ɛkʊɩ ɛ-yɔɔ.\nPɛlɔ nɛ evebu, petisiɣ se pɔsɔɔlɩ ɖama nɛ pʊcɔ palabɩ-wɛ halɩkpaɣyɛ\nsɔnzɩ. Pɩfɛyɩ pakpa pa-taa nɔɔyɔ nɛ ɖoŋ.\nMɩzaɣ kɛna samaɣ hoye; kɛwɛna waɖɛ se samaɣ nɛ kewiyaɣ pakandayɩ kɔ-yɔɔ.\nHɔɔlaɣ 17\nƐyʊ paa weyi, paa ɛwɛ e-ɖeke, paa ɛwɛ lalaa hɛkʊdaa, ɛwɛna waɖɛ se\nɛwɛɛna ñɩm.\nPɩfɛyɩ ɖeu se pɛlɛɣ nɔɔyʊ ɛ-ñɩm faŋŋŋ.\nHɔɔlaɣ 18\nPaa anɩ, ɛwɛna waɖɛ se elɩzɩ ɛ-lɩmaɣza faaa, ɛtɩŋ ɛsɔ tɔm nʊmaʊ ŋgʊ\nɛsɔɔlaa yɔ. Pʊ-tɔbʊʊ se waɖɛ ɖɩnɛ ɖiyekina nɛ ɛyʊ pɩzɩ eyele ɛsɔ tɔm\nnʊmaʊ nakʊyʊ nɛ ɛtɩŋ lɛɛkʊ, ɛpɩzɩ ɛwɩlɩ ɛsɔ tɔm nʊmaʊ ŋgʊ ɛtɩŋgɩɣ-kʊ yo\nkʊ-tɔm lalaa faaa; paa ɛwɛ e-ɖeke yaa ɛ nɛ lalaa, ɛpɩzɩɣ ɛla pʊ-tʊmɩyɛ.\nHɔɔlaɣ 19\nPaa ɛyʊ weyi, ɛwɛna waɖɛ se ɛyɔɔdɩ faaa ndʊ ɛmaɣzɩɣ yɔ; pʊ-tɔbʊʊ se\nsɔɔndʊ ɛdaakpa ɛyʊ nɔɔyʊ se ɛɛyɔɔdɩ natʊyʊ nɛ palabɩ-ɩ nabʊyʊ. Pʊ-tɔbʊʊ\nɖɔɖɔ se ɛyʊ wɛna waɖɛ se ɛkɛdɩ lalaa ndʊ ɛsɩma, ɛnaa yaa ɛnɩwa yɔ.\nHɔɔlaɣ 20\nPaa anɩ, ɛwɛna waɖɛ se ewolo kediɣzaɣ nɛ ɛwɛɛna ŋgbɛyɛ.\nPɩfɛyɩ se pakpa nɔɔyʊ nɛ ɖoŋ se ɛsʊʊ ŋgbɛyɛ naɖɩyɛ taa.\nHɔɔlaɣ 21\nPaa ɛyʊ weyi, ɛwɛna waɖɛ se ɛɖʊ ɛ-nɔɔ ɛ-ɛjaɖɛ ɖɔkʊʊ tʊmɩyɛ tɔm taa.\nƐmaɣmaɣ ɛpɩzɩɣ ɛla lɩmaɣza yaa ɛtɩŋna samaɣ lɩzɩ ɛyaa mba se pɔɖɔkɩ\nɛjaɖɛ yɔ pɔ-yɔɔ.\nPaa anɩ, ɛwɛna waɖɛ se ɛla kewiyaɣ tʊmɩyɛ naɖɩyɛ."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "4aec2e7dc0e93b0b6b92f7f5b99a88ca",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Samaɣ sɔɔlɩm kɛna kewiyaɣ ɖoŋ tigiɖe. Takayɩsɩ ɖʊzʊʊ panaɣna samaɣ\nsɔɔlɩm mbʊ.\nHɔɔlaɣ 22\nPaa ɛyʊ weyi, ɛwɛna waɖɛ se samaɣ ɛkandayɩ ɛ-yɔɔ. Kandayʊʊ mbʊ piyekina\nnɛ ɛyʊ wɛɛ ɛ-tɩ yɔɔ, ɛhɛzɩ ñɩm nɛ ɛsɛkuliye pa-ñɩnʊʊ nʊmaʊ taa.\nHɔɔlaɣ 23\nPaa anɩ, ɛwɛna waɖɛ se ehiɣ tʊmɩyɛ, tʊmɩyɛ nɖɩ ɛsɔɔlaa yɔ, ɛlabɩ-ɖɩ nɛ\nmulum ɛdaawɛɛ.\nƐyaa kpeekpe wɛna waɖɛ se, palakɩ tʊmɩyɛ kʊɖʊmɖɩyɛ kɔyɔ, pɛhɛyɩ-wɛ\nkɩmaŋ, mulum ɛdaawɛɛ.\nƐyʊ weui ɛlakɩ tʊmɩyɛ yɔ, pʊmʊnaa se pɛhɛyɩ-ɩ camɩyɛ, pɩtalɩ ɛ nɛ ɛ-\nmɩzaɣ nɛ padaala kʊñɔŋ samaɣ taa.\nPaa anɩ, ɛwɛna waɖɛ se ɛ nɛ lalaa paɖʊ ŋgbɛyɛ; ɛ-ŋgbɛyɛ ɛkpɛndɩ aŋgba\nlɛɛna yɔɔ, aŋgba ana awɛɛ ɖoŋ nɛ akandayɩ ɛ-yɔɔ.\nHɔɔlaɣ 24\nPaa anɩ, ɛwɛna waɖɛ se ɛhɛzɩ nɛ ɛcalasɩ ɛ-ɛsɛ, padaakɩlɩ-ɩ nazʊʊ tʊmɩyɛ\ntaa; ɛwɛna waɖɛ ɖɔɖɔ se paa pɩnaɣ ŋga, paha-ɩ fenaɣ kʊɖʊmaɣ, ɛhɛzɩ nɛ\npɛtɛ pɛhɛyɩ-ɩ ke-liidiya.\nHɔɔlaɣ 25\nPaa anɩ, ɛwɛna waɖɛ se ɛwɛɛna ñɩm nɛ pɩwazɩ ɛ nɛ ɛ-ñɩmba pe-wezuu caɣʊ\ntaa; ɛzɩ tɔɔnaɣ, tɔɔla, ɖʊzʊyɛ nɛ kɔ yɔ. Ɛwɛna waɖɛ se ɛlakɩ kʊñɔŋ,\npɩwɩɣ-ɩ, ɛlabi ɛjam, ɛpɩsɩ ɛɖanɛ yaa leluu, ɛkpadayaa, pala nabʊyʊ nɛ\npasɩna-ɩ.\nAsɔŋ nɛ piya pʊmʊnaa se pasɩna pɩŋŋŋ.\nHɔɔlaɣ 26\nPaa ɛyʊ weyi, ɛwɛna waɖɛ se pokuli ɛ-ɛsɛ. Pɩdamʊna se pɛhɛyɩ kɔɔnɔɔ\nsukuli yɔɔ. Pɩkɛna paa anɩ kɩjɛyʊʊ se ewolo-kʊ. Pʊwɛɛ se lɛɣtʊ nɛ tʊma\nkpasʊʊ sukuli pɔtɔyɩ. Pʊpɔzʊʊ ɖɔɖɔ se patʊlɩ sukuli kɩtɛzʊʊ nɔnɔsɩ paa\nanɩ.\nƐyʊ woki sukuli se ɛ-ɛsɛ ikuli, pɩwazɩ-ɩ e-wezuu caɣʊ taa, pɩsɩna-ɩ nɛ\nɛña ɛyʊ wala. Kɩsɩɣna ɛyaa nɛ panɩɣna ɖama, pekpeɣu ɖama pa-kɩwɛɛkɩm,\npaɖʊʊ ŋgbɛyɛ. Kɩsɩɣna ɖɔɖɔ ajɛya kɩgbɛndʊʊ ŋgbɛyɛ tʊma wena añɩnɩɣ\nlaŋhɛzɩyɛ yɔ.\nPiya ñɩmba wɛna waɖɛ se palɩzɩ sukuli ŋgʊ pɔsɔɔla se pepiya iwobi-kʊ yɔ.\nHɔɔlaɣ 27\nPaa anɩ, ɛwɛna waɖɛ se ɛɖʊ nɔɔ faaa ɛ-ɛjaɖɛ sɔnzɩ tɔm taa nɛ mbʊ pɩlɩɣ\npɩ-taa yɔ, pɩwazɩ-ɩ.\nPaa anɩ ɛwɛna waɖɛ se ɛkandayɩ mbʊ ɛlaba nɛ ɛ-hɩɖɛ sɛɛ yɔ pʊ-yɔɔ.",
-            "Image": "4aec2e7dc0e93b0b6b92f7f5b99a88ca"
+            "Text": "Samaɣ sɔɔlɩm kɛna kewiyaɣ ɖoŋ tigiɖe. Takayɩsɩ ɖʊzʊʊ panaɣna samaɣ\nsɔɔlɩm mbʊ.\nHɔɔlaɣ 22\nPaa ɛyʊ weyi, ɛwɛna waɖɛ se samaɣ ɛkandayɩ ɛ-yɔɔ. Kandayʊʊ mbʊ piyekina\nnɛ ɛyʊ wɛɛ ɛ-tɩ yɔɔ, ɛhɛzɩ ñɩm nɛ ɛsɛkuliye pa-ñɩnʊʊ nʊmaʊ taa.\nHɔɔlaɣ 23\nPaa anɩ, ɛwɛna waɖɛ se ehiɣ tʊmɩyɛ, tʊmɩyɛ nɖɩ ɛsɔɔlaa yɔ, ɛlabɩ-ɖɩ nɛ\nmulum ɛdaawɛɛ.\nƐyaa kpeekpe wɛna waɖɛ se, palakɩ tʊmɩyɛ kʊɖʊmɖɩyɛ kɔyɔ, pɛhɛyɩ-wɛ\nkɩmaŋ, mulum ɛdaawɛɛ.\nƐyʊ weui ɛlakɩ tʊmɩyɛ yɔ, pʊmʊnaa se pɛhɛyɩ-ɩ camɩyɛ, pɩtalɩ ɛ nɛ ɛ-\nmɩzaɣ nɛ padaala kʊñɔŋ samaɣ taa.\nPaa anɩ, ɛwɛna waɖɛ se ɛ nɛ lalaa paɖʊ ŋgbɛyɛ; ɛ-ŋgbɛyɛ ɛkpɛndɩ aŋgba\nlɛɛna yɔɔ, aŋgba ana awɛɛ ɖoŋ nɛ akandayɩ ɛ-yɔɔ.\nHɔɔlaɣ 24\nPaa anɩ, ɛwɛna waɖɛ se ɛhɛzɩ nɛ ɛcalasɩ ɛ-ɛsɛ, padaakɩlɩ-ɩ nazʊʊ tʊmɩyɛ\ntaa; ɛwɛna waɖɛ ɖɔɖɔ se paa pɩnaɣ ŋga, paha-ɩ fenaɣ kʊɖʊmaɣ, ɛhɛzɩ nɛ\npɛtɛ pɛhɛyɩ-ɩ ke-liidiya.\nHɔɔlaɣ 25\nPaa anɩ, ɛwɛna waɖɛ se ɛwɛɛna ñɩm nɛ pɩwazɩ ɛ nɛ ɛ-ñɩmba pe-wezuu caɣʊ\ntaa; ɛzɩ tɔɔnaɣ, tɔɔla, ɖʊzʊyɛ nɛ kɔ yɔ. Ɛwɛna waɖɛ se ɛlakɩ kʊñɔŋ,\npɩwɩɣ-ɩ, ɛlabi ɛjam, ɛpɩsɩ ɛɖanɛ yaa leluu, ɛkpadayaa, pala nabʊyʊ nɛ\npasɩna-ɩ.\nAsɔŋ nɛ piya pʊmʊnaa se pasɩna pɩŋŋŋ.\nHɔɔlaɣ 26\nPaa ɛyʊ weyi, ɛwɛna waɖɛ se pokuli ɛ-ɛsɛ. Pɩdamʊna se pɛhɛyɩ kɔɔnɔɔ\nsukuli yɔɔ. Pɩkɛna paa anɩ kɩjɛyʊʊ se ewolo-kʊ. Pʊwɛɛ se lɛɣtʊ nɛ tʊma\nkpasʊʊ sukuli pɔtɔyɩ. Pʊpɔzʊʊ ɖɔɖɔ se patʊlɩ sukuli kɩtɛzʊʊ nɔnɔsɩ paa\nanɩ.\nƐyʊ woki sukuli se ɛ-ɛsɛ ikuli, pɩwazɩ-ɩ e-wezuu caɣʊ taa, pɩsɩna-ɩ nɛ\nɛña ɛyʊ wala. Kɩsɩɣna ɛyaa nɛ panɩɣna ɖama, pekpeɣu ɖama pa-kɩwɛɛkɩm,\npaɖʊʊ ŋgbɛyɛ. Kɩsɩɣna ɖɔɖɔ ajɛya kɩgbɛndʊʊ ŋgbɛyɛ tʊma wena añɩnɩɣ\nlaŋhɛzɩyɛ yɔ.\nPiya ñɩmba wɛna waɖɛ se palɩzɩ sukuli ŋgʊ pɔsɔɔla se pepiya iwobi-kʊ yɔ.\nHɔɔlaɣ 27\nPaa anɩ, ɛwɛna waɖɛ se ɛɖʊ nɔɔ faaa ɛ-ɛjaɖɛ sɔnzɩ tɔm taa nɛ mbʊ pɩlɩɣ\npɩ-taa yɔ, pɩwazɩ-ɩ.\nPaa anɩ ɛwɛna waɖɛ se ɛkandayɩ mbʊ ɛlaba nɛ ɛ-hɩɖɛ sɛɛ yɔ pʊ-yɔɔ."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "ed805c6aca7cf926a9e7d436ec20df09",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Hɔɔlaɣ 28\nPaa anɩ, ɛwɛna waɖɛ se ɛñaɣ pana nɛ yɛɖɛyɛɖɛtʊ ɛdaawɛ ɛjaɖɛ yɔɔ, ɛzɩ\npɔyɔɔdʊʊ kedeŋga kpeekpe yɔɔ ɛyʊ wala tɔm takayaɣ taa yɔ.\nHɔɔlaɣ 29\nPaa anɩ, ɛtɩlɩ ɛsɩɩ se ɛwɛ samaɣ ŋga ka-taa fɛɛɛ nɛ pɩkɛdɩɣna-ɩ yɔ,\nɛtɔɔ-kɛ kɩmɩyɛ.\nPaa ɛyʊ weyi, eɖiɣzina se ɛ-wala ñɩnʊʊ nʊmaʊ nɛ ɛ-tɩ yɔɔ wɛʊ leleŋ nɩʊ\npa-taa lɛ, kamaɣ wɛɛ; pɩfɛyɩ se ɛcɛzɩ-kɛ; paɣtʊ ɖʊna-kɛ. Mbʊ yekina nɛ\nɛyaa ñaŋ ɖama wala; mbʊ haɣna mʊmaʊ ɖɔɖɔ se demookrasii samaɣ taa ɛyaa\nɩnɩɩna ɖama.\nƐyʊ nɔɔyʊ ɛɛpɩzɩɣ ɛtɔ se ɛñaŋ wala ana nɛ pʊdɔɖɔ ɛzɩ ajɛya kɩgbɛndʊʊ\nŋgbɛyɛ sɔɔlʊʊ yɔ.\nHɔɔlaɣ 30\nKedeŋga kpeekpe yɔɔ ɛyʊ wala tɔm tʊnɛ, tɩ-taa tʊ kpayɩ kpayɩ. Ɛyʊ nɔɔyʊ\nfɛyɩ ɛtɔŋ se hɔɔlʊʊ kʊnɛ, yaa ŋgʊ yɔ, kʊtɔŋna se padaaña wala naayɛ\nɛjaɖɛ ɖɩnɛ,yaa nɖɩ yɔ ɖɩ-taa.",
-            "Image": "ed805c6aca7cf926a9e7d436ec20df09"
+            "Text": "Hɔɔlaɣ 28\nPaa anɩ, ɛwɛna waɖɛ se ɛñaɣ pana nɛ yɛɖɛyɛɖɛtʊ ɛdaawɛ ɛjaɖɛ yɔɔ, ɛzɩ\npɔyɔɔdʊʊ kedeŋga kpeekpe yɔɔ ɛyʊ wala tɔm takayaɣ taa yɔ.\nHɔɔlaɣ 29\nPaa anɩ, ɛtɩlɩ ɛsɩɩ se ɛwɛ samaɣ ŋga ka-taa fɛɛɛ nɛ pɩkɛdɩɣna-ɩ yɔ,\nɛtɔɔ-kɛ kɩmɩyɛ.\nPaa ɛyʊ weyi, eɖiɣzina se ɛ-wala ñɩnʊʊ nʊmaʊ nɛ ɛ-tɩ yɔɔ wɛʊ leleŋ nɩʊ\npa-taa lɛ, kamaɣ wɛɛ; pɩfɛyɩ se ɛcɛzɩ-kɛ; paɣtʊ ɖʊna-kɛ. Mbʊ yekina nɛ\nɛyaa ñaŋ ɖama wala; mbʊ haɣna mʊmaʊ ɖɔɖɔ se demookrasii samaɣ taa ɛyaa\nɩnɩɩna ɖama.\nƐyʊ nɔɔyʊ ɛɛpɩzɩɣ ɛtɔ se ɛñaŋ wala ana nɛ pʊdɔɖɔ ɛzɩ ajɛya kɩgbɛndʊʊ\nŋgbɛyɛ sɔɔlʊʊ yɔ.\nHɔɔlaɣ 30\nKedeŋga kpeekpe yɔɔ ɛyʊ wala tɔm tʊnɛ, tɩ-taa tʊ kpayɩ kpayɩ. Ɛyʊ nɔɔyʊ\nfɛyɩ ɛtɔŋ se hɔɔlʊʊ kʊnɛ, yaa ŋgʊ yɔ, kʊtɔŋna se padaaña wala naayɛ\nɛjaɖɛ ɖɩnɛ,yaa nɖɩ yɔ ɖɩ-taa."
         }
     }
 }

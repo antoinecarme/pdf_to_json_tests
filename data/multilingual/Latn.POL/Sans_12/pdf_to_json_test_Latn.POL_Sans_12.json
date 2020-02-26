@@ -1,99 +1,99 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581469960,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "6eccc52b5d6685eb56cc456748711ae5",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
-            ],
-            "Text": "POWSZECHNA DEKLARACJA PRAW CZŁOWIEKA\nTrzecia Sesja Ogólnego Zgromadzenia ONZ, obradująca w Paryżu, uchwaliła 10 grudnia 1948 roku jednomyślnie Powszechną Deklarację\nPraw Człowieka. Dokument ten stanowi niewątpliwie jedno z największych i najtrwalszych osiągnięć ONZ. Przetłumaczona na większość\njęzyków świata Powszechna Deklaracja Praw Człowieka zbiera oraz porządkuje osiągnięcia i postulaty człowieka, który od wielu setek lat\ntoczy nie skończoną jeszcze walkę o swoją wolność i swoją godność.\nPreambuła\nZWAŻYWSZY, że uznanie przyrodzonej godności oraz równych i niezbywalnych praw wszystkich członków wspólnoty ludzkiej jest\npodstawą wolności, sprawiedliwości i pokoju świata,\nZWAŻYWSZY, że nieposzanowanie i nieprzestrzeganie praw człowieka doprowadziło do aktów barbarzyństwa, które wstrząsnęły\nsumieniem ludzkości, i że ogłoszono uroczyście jako najwznioślejszy cel ludzkości dążenie do zbudowania takiego świata, w którym ludzie\nkorzystać będą z wolności słowa i przekonań oraz z wolności od strachu i nędzy,\nZWAŻYWSZY, że konieczne jest zawarowanie praw człowieka przepisami prawa, aby nie musiał - doprowadzony do ostateczności - uciekać\nsię do buntu przeciw tyranii i uciskowi,\nZWAŻYWSZY, że konieczne jest popieranie rozwoju przyjaznych stosunków między narodami,\nZWAŻYWSZY, że Narody Zjednoczone przywróciły swą wiarę w podstawowe prawa człowieka, godność i wartość jednostki oraz w\nrównouprawnienie mężczyzn i kobiet, oraz wyraziły swe zdecydowanie popierania postępu społecznego i poprawy warunków życia w\nwiększej wolności,\nZWAŻYWSZY, że Państwa Członkowskie podjęły się we współpracy z Organizacją Narodów Zjednoczonych zapewnić powszechne\nposzanowanie i przestrzeganie praw człowieka i podstawowych wolności,\nZWAŻYWSZY, że jednakowe rozumienie tych praw i wolności ma olbrzymie znaczenie dla ich pełnej realizacji,\nPRZETO ZGROMADZENIE OGÓLNE\nOgłasza Uroczyście niniejszą Powszechną Deklarację Praw Człowieka jako wspólny najwyższy cel wszystkich ludów i wszystkich narodów,\naby wszyscy ludzie i wszystkie organy społeczeństwa - mając stale w pamięci niniejszą Deklarację - dążyły w drodze nauczania i\nwychowywania do rozwijania poszanowania tych praw i wolności i aby zapewniły za pomocą postępowych środków o zasięgu krajowym i\nmiędzynarodowym powszechne i skuteczne uznanie i stosowanie tej Deklaracji zarówno wśród narodów Państw Członkowskich, jak i wśród\nnarodów zamieszkujących obszary podległe ich władzy.\nArtykuł 1",
-            "Image": "6eccc52b5d6685eb56cc456748711ae5"
+            "Text": "POWSZECHNA DEKLARACJA PRAW CZŁOWIEKA\nTrzecia Sesja Ogólnego Zgromadzenia ONZ, obradująca w Paryżu, uchwaliła 10 grudnia 1948 roku jednomyślnie Powszechną Deklarację\nPraw Człowieka. Dokument ten stanowi niewątpliwie jedno z największych i najtrwalszych osiągnięć ONZ. Przetłumaczona na większość\njęzyków świata Powszechna Deklaracja Praw Człowieka zbiera oraz porządkuje osiągnięcia i postulaty człowieka, który od wielu setek lat\ntoczy nie skończoną jeszcze walkę o swoją wolność i swoją godność.\nPreambuła\nZWAŻYWSZY, że uznanie przyrodzonej godności oraz równych i niezbywalnych praw wszystkich członków wspólnoty ludzkiej jest\npodstawą wolności, sprawiedliwości i pokoju świata,\nZWAŻYWSZY, że nieposzanowanie i nieprzestrzeganie praw człowieka doprowadziło do aktów barbarzyństwa, które wstrząsnęły\nsumieniem ludzkości, i że ogłoszono uroczyście jako najwznioślejszy cel ludzkości dążenie do zbudowania takiego świata, w którym ludzie\nkorzystać będą z wolności słowa i przekonań oraz z wolności od strachu i nędzy,\nZWAŻYWSZY, że konieczne jest zawarowanie praw człowieka przepisami prawa, aby nie musiał - doprowadzony do ostateczności - uciekać\nsię do buntu przeciw tyranii i uciskowi,\nZWAŻYWSZY, że konieczne jest popieranie rozwoju przyjaznych stosunków między narodami,\nZWAŻYWSZY, że Narody Zjednoczone przywróciły swą wiarę w podstawowe prawa człowieka, godność i wartość jednostki oraz w\nrównouprawnienie mężczyzn i kobiet, oraz wyraziły swe zdecydowanie popierania postępu społecznego i poprawy warunków życia w\nwiększej wolności,\nZWAŻYWSZY, że Państwa Członkowskie podjęły się we współpracy z Organizacją Narodów Zjednoczonych zapewnić powszechne\nposzanowanie i przestrzeganie praw człowieka i podstawowych wolności,\nZWAŻYWSZY, że jednakowe rozumienie tych praw i wolności ma olbrzymie znaczenie dla ich pełnej realizacji,\nPRZETO ZGROMADZENIE OGÓLNE\nOgłasza Uroczyście niniejszą Powszechną Deklarację Praw Człowieka jako wspólny najwyższy cel wszystkich ludów i wszystkich narodów,\naby wszyscy ludzie i wszystkie organy społeczeństwa - mając stale w pamięci niniejszą Deklarację - dążyły w drodze nauczania i\nwychowywania do rozwijania poszanowania tych praw i wolności i aby zapewniły za pomocą postępowych środków o zasięgu krajowym i\nmiędzynarodowym powszechne i skuteczne uznanie i stosowanie tej Deklaracji zarówno wśród narodów Państw Członkowskich, jak i wśród\nnarodów zamieszkujących obszary podległe ich władzy.\nArtykuł 1"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "86863c92c60830c573ba7af7b42a0d0d",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
-            ],
-            "Text": "Wszyscy ludzie rodzą się wolni i równi pod względem swej godności i swych praw. Są oni obdarzeni rozumem i sumieniem i powinni\npostępować wobec innych w duchu braterstwa.\nArtykuł 2\nKażdy człowiek posiada wszystkie prawa i wolności zawarte w niniejszej Deklaracji bez względu na jakiekolwiek różnice rasy, koloru, płci,\njęzyka, wyznania, poglądów politycznych i innych, narodowości, pochodzenia społecznego, majątku, urodzenia lub jakiegokolwiek innego\nstanu.\nNie wolno ponadto czynić żadnej różnicy w zależności od sytuacji politycznej, prawnej lub międzynarodowej kraju lub obszaru, do którego\ndana osoba przynależy, bez względu na to, czy dany kraj lub obszar jest niepodległy, czy też podlega systemowi powiernictwa, nie rządzi się\nsamodzielnie lub jest w jakikolwiek sposób ograniczony w swej niepodległości.\nArtykuł 3\nKażdy człowiek ma prawo do życia, wolności i bezpieczeństwa swej osoby.\nArtykuł 4\nNie wolno nikogo czynić niewolnikiem ani nakładać na nikogo służebności; niewolnictwo i handel niewolnikami są zakazane we wszystkich\nswych postaciach.\nArtykuł 5\nNie wolno nikogo torturować ani karać lub traktować w sposób okrutny, nieludzki lub poniżający.\nArtykuł 6\nKażdy człowiek ma prawo do uznawania wszędzie jego osobowości prawnej.\nArtykuł 7\nWszyscy są równi wobec prawa i mają prawo, bez jakiejkolwiek różnicy, do jednakowej ochrony prawnej. Wszyscy mają prawo do\njednakowej ochrony przed jakąkolwiek dyskryminacją, będącą pogwałceniem niniejszej Deklaracji, i przed jakimkolwiek narażeniem na\ntaką dyskryminację.\nArtykuł 8\nKażdy człowiek ma prawo do skutecznego odwoływania się do kompetentnych sądów krajowych przeciw czynom stanowiącym pogwałcenie\npodstawowych praw przyznanych mu przez konstytucję lub przez prawo.\nArtykuł 9",
-            "Image": "86863c92c60830c573ba7af7b42a0d0d"
+            "Text": "Wszyscy ludzie rodzą się wolni i równi pod względem swej godności i swych praw. Są oni obdarzeni rozumem i sumieniem i powinni\npostępować wobec innych w duchu braterstwa.\nArtykuł 2\nKażdy człowiek posiada wszystkie prawa i wolności zawarte w niniejszej Deklaracji bez względu na jakiekolwiek różnice rasy, koloru, płci,\njęzyka, wyznania, poglądów politycznych i innych, narodowości, pochodzenia społecznego, majątku, urodzenia lub jakiegokolwiek innego\nstanu.\nNie wolno ponadto czynić żadnej różnicy w zależności od sytuacji politycznej, prawnej lub międzynarodowej kraju lub obszaru, do którego\ndana osoba przynależy, bez względu na to, czy dany kraj lub obszar jest niepodległy, czy też podlega systemowi powiernictwa, nie rządzi się\nsamodzielnie lub jest w jakikolwiek sposób ograniczony w swej niepodległości.\nArtykuł 3\nKażdy człowiek ma prawo do życia, wolności i bezpieczeństwa swej osoby.\nArtykuł 4\nNie wolno nikogo czynić niewolnikiem ani nakładać na nikogo służebności; niewolnictwo i handel niewolnikami są zakazane we wszystkich\nswych postaciach.\nArtykuł 5\nNie wolno nikogo torturować ani karać lub traktować w sposób okrutny, nieludzki lub poniżający.\nArtykuł 6\nKażdy człowiek ma prawo do uznawania wszędzie jego osobowości prawnej.\nArtykuł 7\nWszyscy są równi wobec prawa i mają prawo, bez jakiejkolwiek różnicy, do jednakowej ochrony prawnej. Wszyscy mają prawo do\njednakowej ochrony przed jakąkolwiek dyskryminacją, będącą pogwałceniem niniejszej Deklaracji, i przed jakimkolwiek narażeniem na\ntaką dyskryminację.\nArtykuł 8\nKażdy człowiek ma prawo do skutecznego odwoływania się do kompetentnych sądów krajowych przeciw czynom stanowiącym pogwałcenie\npodstawowych praw przyznanych mu przez konstytucję lub przez prawo.\nArtykuł 9"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "9509069aa5637b9a72c974daac452289",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
-            ],
-            "Text": "Nikogo nie wolno samowolnie aresztować, zatrzymać lub wygnać z kraju.\nArtykuł 10\nKażdy człowiek ma na warunkach całkowitej równości prawo, aby przy rozstrzyganiu o jego prawach i zobowiązaniach lub o zasadności\nwysuwanego przeciw niemu oskarżenia o popełnienie przestępstwa być słuchanym sprawiedliwie i publicznie przez niezależny i bezstronny\nsąd.\nArtykuł 11\nKażdy człowiek oskarżony o popełnienie przestępstwa ma prawo, aby uznawano go za niewinnego dopóty, dopóki nie udowodni mu się winy\nzgodnie z prawem podczas publicznego procesu, w którym zapewniono mu wszystkie konieczne środki obrony.\nNikt nie może być skazany za przestępstwo z powodu działania lub zaniechania nie stanowiącego w chwili jego dokonania przestępstwa\nwedług prawa krajowego lub międzynarodowego. Nie wolno także wymierzać kary wyższej niż ta, która była przewidziana w chwili\npopełnienia przestępstwa.\nArtykuł 12\nNie wolno ingerować samowolnie w czyjekolwiek życie prywatne, rodzinne, domowe, ani w jego korespondencję, ani też uwłaczać jego\nhonorowi lub dobremu imieniu. Każdy człowiek ma prawo do ochrony prawnej przeciwko takiej ingerencji lub uwłaczaniu.\nArtykuł 13\nKażdy człowiek ma prawo swobodnego poruszania się i wyboru miejsca zamieszkania w granicach każdego Państwa.\nKażdy człowiek ma prawo opuścić jakikolwiek kraj, włączając w to swój własny, i powrócić do swego kraju.\nArtykuł 14\nKażdy człowiek ma prawo ubiegać się o azyl i korzystać z niego w innym kraju w razie prześladowania.\nNie można powoływać się na to prawo w przypadku ścigania wszczętego rzeczywiście z powodu popełnienia przestępstwa pospolitego lub\nczynu sprzecznego z celami i zasadami Organizacji Narodów Zjednoczonych.\nArtykuł 15\nKażdy człowiek ma prawo do posiadania obywatelstwa.\nNie wolno nikogo pozbawiać samowolnie obywatelstwa ani nikomu odmawiać prawa do zmiany obywatelstwa.\nArtykuł 16",
-            "Image": "9509069aa5637b9a72c974daac452289"
+            "Text": "Nikogo nie wolno samowolnie aresztować, zatrzymać lub wygnać z kraju.\nArtykuł 10\nKażdy człowiek ma na warunkach całkowitej równości prawo, aby przy rozstrzyganiu o jego prawach i zobowiązaniach lub o zasadności\nwysuwanego przeciw niemu oskarżenia o popełnienie przestępstwa być słuchanym sprawiedliwie i publicznie przez niezależny i bezstronny\nsąd.\nArtykuł 11\nKażdy człowiek oskarżony o popełnienie przestępstwa ma prawo, aby uznawano go za niewinnego dopóty, dopóki nie udowodni mu się winy\nzgodnie z prawem podczas publicznego procesu, w którym zapewniono mu wszystkie konieczne środki obrony.\nNikt nie może być skazany za przestępstwo z powodu działania lub zaniechania nie stanowiącego w chwili jego dokonania przestępstwa\nwedług prawa krajowego lub międzynarodowego. Nie wolno także wymierzać kary wyższej niż ta, która była przewidziana w chwili\npopełnienia przestępstwa.\nArtykuł 12\nNie wolno ingerować samowolnie w czyjekolwiek życie prywatne, rodzinne, domowe, ani w jego korespondencję, ani też uwłaczać jego\nhonorowi lub dobremu imieniu. Każdy człowiek ma prawo do ochrony prawnej przeciwko takiej ingerencji lub uwłaczaniu.\nArtykuł 13\nKażdy człowiek ma prawo swobodnego poruszania się i wyboru miejsca zamieszkania w granicach każdego Państwa.\nKażdy człowiek ma prawo opuścić jakikolwiek kraj, włączając w to swój własny, i powrócić do swego kraju.\nArtykuł 14\nKażdy człowiek ma prawo ubiegać się o azyl i korzystać z niego w innym kraju w razie prześladowania.\nNie można powoływać się na to prawo w przypadku ścigania wszczętego rzeczywiście z powodu popełnienia przestępstwa pospolitego lub\nczynu sprzecznego z celami i zasadami Organizacji Narodów Zjednoczonych.\nArtykuł 15\nKażdy człowiek ma prawo do posiadania obywatelstwa.\nNie wolno nikogo pozbawiać samowolnie obywatelstwa ani nikomu odmawiać prawa do zmiany obywatelstwa.\nArtykuł 16"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "5e4918b43c2bf3cd6f51080c0897e62d",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
-            ],
-            "Text": "Mężczyźni i kobiety bez względu na jakiekolwiek różnice rasy, narodowości lub wyznania mają prawo po osiągnięciu pełnoletności do\nzawarcia małżeństwa i założenia rodziny. Mają oni równe prawa w odniesieniu do zawierania małżeństwa, podczas jego trwania i po jego\nustaniu.\nMałżeństwo może być zawarte jedynie za swobodnie wyrażoną pełną zgodą przyszłych małżonków.\nRodzina jest naturalną i podstawową komórką społeczeństwa i ma prawo do ochrony ze strony społeczeństwa i Państwa.\nArtykuł 17\nKażdy człowiek, zarówno sam jak i wespół z innymi, ma prawo do posiadania własności.\nNie wolno nikogo samowolnie pozbawiać jego własności.\nArtykuł 18\nKażdy człowiek ma prawo wolności myśli, sumienia i wyznania; prawo to obejmuje swobodę zmiany wyznania lub wiary oraz swobodę\ngłoszenia swego wyznania lub wiary bądź indywidualnie, bądź wespół z innymi ludźmi, publicznie i prywatnie, poprzez nauczanie,\npraktykowanie, uprawianie kultu i przestrzeganie obyczajów.\nArtykuł 19\nKażdy człowiek ma prawo wolności opinii i wyrażania jej; prawo to obejmuje swobodę posiadania niezależnej opinii, poszukiwania,\notrzymywania i rozpowszechniania informacji i poglądów wszelkimi środkami, bez względu na granice.\nArtykuł 20\nKażdy człowiek ma prawo spokojnego zgromadzania i stowarzyszania się.\nNikogo nie można zmuszać do należenia do jakiegoś stowarzyszenia.\nArtykuł 21\nKażdy człowiek ma prawo do uczestniczenia w rządzeniu swym krajem bezpośrednio lub poprzez swobodnie wybranych przedstawicieli.\nKażdy człowiek ma prawo równego dostępu do służby publicznej w swym kraju.\nWola ludu jest podstawą władzy rządu; wola ta wyraża się w przeprowadzanych okresowo rzetelnych wyborach, opartych na zasadzie\npowszechności, równości i tajności, lub na innej równorzędnej procedurze, zapewniającej wolność wyborów.\nArtykuł 22\nKażdy człowiek ma jako członek społeczeństwa prawo do ubezpieczeń społecznych; ma również prawo do urzeczywistniania - poprzez",
-            "Image": "5e4918b43c2bf3cd6f51080c0897e62d"
+            "Text": "Mężczyźni i kobiety bez względu na jakiekolwiek różnice rasy, narodowości lub wyznania mają prawo po osiągnięciu pełnoletności do\nzawarcia małżeństwa i założenia rodziny. Mają oni równe prawa w odniesieniu do zawierania małżeństwa, podczas jego trwania i po jego\nustaniu.\nMałżeństwo może być zawarte jedynie za swobodnie wyrażoną pełną zgodą przyszłych małżonków.\nRodzina jest naturalną i podstawową komórką społeczeństwa i ma prawo do ochrony ze strony społeczeństwa i Państwa.\nArtykuł 17\nKażdy człowiek, zarówno sam jak i wespół z innymi, ma prawo do posiadania własności.\nNie wolno nikogo samowolnie pozbawiać jego własności.\nArtykuł 18\nKażdy człowiek ma prawo wolności myśli, sumienia i wyznania; prawo to obejmuje swobodę zmiany wyznania lub wiary oraz swobodę\ngłoszenia swego wyznania lub wiary bądź indywidualnie, bądź wespół z innymi ludźmi, publicznie i prywatnie, poprzez nauczanie,\npraktykowanie, uprawianie kultu i przestrzeganie obyczajów.\nArtykuł 19\nKażdy człowiek ma prawo wolności opinii i wyrażania jej; prawo to obejmuje swobodę posiadania niezależnej opinii, poszukiwania,\notrzymywania i rozpowszechniania informacji i poglądów wszelkimi środkami, bez względu na granice.\nArtykuł 20\nKażdy człowiek ma prawo spokojnego zgromadzania i stowarzyszania się.\nNikogo nie można zmuszać do należenia do jakiegoś stowarzyszenia.\nArtykuł 21\nKażdy człowiek ma prawo do uczestniczenia w rządzeniu swym krajem bezpośrednio lub poprzez swobodnie wybranych przedstawicieli.\nKażdy człowiek ma prawo równego dostępu do służby publicznej w swym kraju.\nWola ludu jest podstawą władzy rządu; wola ta wyraża się w przeprowadzanych okresowo rzetelnych wyborach, opartych na zasadzie\npowszechności, równości i tajności, lub na innej równorzędnej procedurze, zapewniającej wolność wyborów.\nArtykuł 22\nKażdy człowiek ma jako członek społeczeństwa prawo do ubezpieczeń społecznych; ma również prawo do urzeczywistniania - poprzez"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "7d655ec866620ec3bdeda52bffd0c409",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
-            ],
-            "Text": "wysiłek narodowy i współpracę międzynarodową oraz zgodnie z organizacją i zasobami każdego Państwa - swych praw gospodarczych,\nspołecznych i kulturalnych, niezbędnych dla jego godności i swobodnego rozwoju jego osobowości.\nArtykuł 23\nKażdy człowiek ma prawo do pracy, do swobodnego wyboru pracy, do odpowiednich i zadowalających warunków pracy oraz do ochrony\nprzed bezrobociem.\nKażdy człowiek, bez względu na jakiekolwiek różnice, ma prawo do równej płacy za równą pracę.\nKażdy pracujący ma prawo do odpowiedniego i zadowalającego wynagrodzenia, zapewniającego jemu i jego rodzinie egzystencję\nodpowiadającą godności ludzkiej i uzupełnianego w razie potrzeby innymi środkami pomocy społecznej.\nKażdy człowiek ma prawo do tworzenia związków zawodowych i do przystępowania do związków zawodowych dla ochrony swych\ninteresów.\nArtykuł 24\nKażdy człowiek ma prawo do urlopu i wypoczynku, włączając w to rozsądne ograniczenie godzin pracy i okresowe płatne urlopy.\nArtykuł 25\nKażdy człowiek ma prawo do stopy życiowej zapewniającej zdrowie i dobrobyt jego i jego rodziny, włączając w to wyżywienie, odzież,\nmieszkanie, opiekę lekarską i konieczne świadczenia socjalne, oraz prawo do ubezpieczenia na wypadek bezrobocia, choroby, niezdolności\ndo pracy, wdowieństwa, starości lub utraty środków do życia w inny sposób od niego niezależny.\nMatka i dziecko mają prawo do specjalnej opieki i pomocy. Wszystkie dzieci, zarówno małżeńskie jak i pozamałżeńskie, korzystają z\njednakowej ochrony społecznej.\nArtykuł 26\nKażdy człowiek ma prawo do nauki. Nauka jest bezpłatna, przynajmniej na stopniu podstawowym. Nauka podstawowa jest obowiązkowa.\nOświata techniczna i zawodowa jest powszechnie dostępna, a studia wyższe są dostępne dla wszystkich na zasadzie równości w zależności\nod zalet osobistych.\nCelem nauczania jest pełny rozwój osobowości ludzkiej i ugruntowanie poszanowania praw człowieka i podstawowych wolności. Krzewi ono\nzrozumienie, tolerancję i przyjaźń między wszystkimi narodami, grupami rasowymi lub religijnymi; popiera działalność Organizacji\nNarodów Zjednoczonych zmierzającą do utrzymania pokoju.\nRodzice mają prawo pierwszeństwa w wyborze nauczania, które ma być dane ich dzieciom.",
-            "Image": "7d655ec866620ec3bdeda52bffd0c409"
+            "Text": "wysiłek narodowy i współpracę międzynarodową oraz zgodnie z organizacją i zasobami każdego Państwa - swych praw gospodarczych,\nspołecznych i kulturalnych, niezbędnych dla jego godności i swobodnego rozwoju jego osobowości.\nArtykuł 23\nKażdy człowiek ma prawo do pracy, do swobodnego wyboru pracy, do odpowiednich i zadowalających warunków pracy oraz do ochrony\nprzed bezrobociem.\nKażdy człowiek, bez względu na jakiekolwiek różnice, ma prawo do równej płacy za równą pracę.\nKażdy pracujący ma prawo do odpowiedniego i zadowalającego wynagrodzenia, zapewniającego jemu i jego rodzinie egzystencję\nodpowiadającą godności ludzkiej i uzupełnianego w razie potrzeby innymi środkami pomocy społecznej.\nKażdy człowiek ma prawo do tworzenia związków zawodowych i do przystępowania do związków zawodowych dla ochrony swych\ninteresów.\nArtykuł 24\nKażdy człowiek ma prawo do urlopu i wypoczynku, włączając w to rozsądne ograniczenie godzin pracy i okresowe płatne urlopy.\nArtykuł 25\nKażdy człowiek ma prawo do stopy życiowej zapewniającej zdrowie i dobrobyt jego i jego rodziny, włączając w to wyżywienie, odzież,\nmieszkanie, opiekę lekarską i konieczne świadczenia socjalne, oraz prawo do ubezpieczenia na wypadek bezrobocia, choroby, niezdolności\ndo pracy, wdowieństwa, starości lub utraty środków do życia w inny sposób od niego niezależny.\nMatka i dziecko mają prawo do specjalnej opieki i pomocy. Wszystkie dzieci, zarówno małżeńskie jak i pozamałżeńskie, korzystają z\njednakowej ochrony społecznej.\nArtykuł 26\nKażdy człowiek ma prawo do nauki. Nauka jest bezpłatna, przynajmniej na stopniu podstawowym. Nauka podstawowa jest obowiązkowa.\nOświata techniczna i zawodowa jest powszechnie dostępna, a studia wyższe są dostępne dla wszystkich na zasadzie równości w zależności\nod zalet osobistych.\nCelem nauczania jest pełny rozwój osobowości ludzkiej i ugruntowanie poszanowania praw człowieka i podstawowych wolności. Krzewi ono\nzrozumienie, tolerancję i przyjaźń między wszystkimi narodami, grupami rasowymi lub religijnymi; popiera działalność Organizacji\nNarodów Zjednoczonych zmierzającą do utrzymania pokoju.\nRodzice mają prawo pierwszeństwa w wyborze nauczania, które ma być dane ich dzieciom."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "4b0336b073b4c939c2bc5858dc84341b",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
-            ],
-            "Text": "Artykuł 27\nKażdy człowiek ma prawo do swobodnego uczestniczenia w życiu kulturalnym społeczeństwa, do korzystania ze sztuki, do uczestniczenia w\npostępie nauki i korzystania z jego dobrodziejstw.\nKażdy człowiek ma prawo do ochrony moralnych i materialnych korzyści wynikających z jakiejkolwiek jego działalności naukowej,\nliterackiej lub artystycznej.\nArtykuł 28\nKażdy człowiek ma prawo do takiego porządku społecznego i międzynarodowego, w którym prawa i wolności zawarte w niniejszej\nDeklaracji byłyby w pełni realizowane.\nArtykuł 29\nKażdy człowiek ma obowiązki wobec społeczeństwa, bez którego niemożliwy jest swobodny i pełny rozwój jego osobowości.\nW korzystaniu ze swych praw i wolności każdy człowiek podlega jedynie takim ograniczeniom, które są ustalone przez prawo wyłącznie w\ncelu zapewnienia odpowiedniego uznania i poszanowania praw i wolności innych i w celu uczynienia zadość słusznym wymogom\nmoralności, porządku publicznego i powszechnego dobrobytu demokratycznego społeczeństwa.\nZ niniejszych praw i wolności nie wolno w żadnym przypadku korzystać w sposób sprzeczny z celami i zasadami Organizacji Narodów\nZjednoczonych.\nArtykuł 30\nŻadnego z postanowień niniejszej Deklaracji nie można rozumieć jako udzielającego jakiemukolwiek Państwu, grupie lub osobie\njakiegokolwiek prawa do podejmowania działalności lub wydawania aktów zmierzających do obalenia któregokolwiek z praw i wolności\nzawartych w niniejszej Deklaracji.",
-            "Image": "4b0336b073b4c939c2bc5858dc84341b"
+            "Text": "Artykuł 27\nKażdy człowiek ma prawo do swobodnego uczestniczenia w życiu kulturalnym społeczeństwa, do korzystania ze sztuki, do uczestniczenia w\npostępie nauki i korzystania z jego dobrodziejstw.\nKażdy człowiek ma prawo do ochrony moralnych i materialnych korzyści wynikających z jakiejkolwiek jego działalności naukowej,\nliterackiej lub artystycznej.\nArtykuł 28\nKażdy człowiek ma prawo do takiego porządku społecznego i międzynarodowego, w którym prawa i wolności zawarte w niniejszej\nDeklaracji byłyby w pełni realizowane.\nArtykuł 29\nKażdy człowiek ma obowiązki wobec społeczeństwa, bez którego niemożliwy jest swobodny i pełny rozwój jego osobowości.\nW korzystaniu ze swych praw i wolności każdy człowiek podlega jedynie takim ograniczeniom, które są ustalone przez prawo wyłącznie w\ncelu zapewnienia odpowiedniego uznania i poszanowania praw i wolności innych i w celu uczynienia zadość słusznym wymogom\nmoralności, porządku publicznego i powszechnego dobrobytu demokratycznego społeczeństwa.\nZ niniejszych praw i wolności nie wolno w żadnym przypadku korzystać w sposób sprzeczny z celami i zasadami Organizacji Narodów\nZjednoczonych.\nArtykuł 30\nŻadnego z postanowień niniejszej Deklaracji nie można rozumieć jako udzielającego jakiemukolwiek Państwu, grupie lub osobie\njakiegokolwiek prawa do podejmowania działalności lub wydawania aktów zmierzających do obalenia któregokolwiek z praw i wolności\nzawartych w niniejszej Deklaracji."
         }
     }
 }

@@ -1,80 +1,80 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581469478,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "4c38afe995f931d1bafc5c8231813260",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "JÄ KOJTSVIJJÜN JATS KOJTSMËKIN JUU’ VE’E JAYU OY TYUKJÖÖJTYKAP.\nTRANSLATION OF THE UNIVERSAL DECLARATION OF HUMAN RIGHTS TO MIXE IN THE\nALTERNATIVE TO TOTONTEPEC, MIXE, OAXACA, MEXICO.\nArticle 1\nTum akijpxa xa ve’e jayu kye’ex, ve’em ax jö’n tyukidaakjüva tijaty\nmëkin; ve’empa axjö’n jä jyööjtykin di yaknaxy, jats oy myujatyöö’tëjk\ndi mëët nayjavajüt.\nArticle 2\nTum apaatjüp yë ve’e jayu ixyë’ë yë pava’nün, va’an di pëna di tiya, jya\ntë’ëxtëjka, jya yaa’tyëjka, jya tikütsam jä jyaantsy ja’vün, pën vintso\njä vyinma’yün uk pu jyööjtykün di yakyo’oy, di yaknaxy.\nKa’a ve’e tii y’itüt viijnk ixün jya tikütsam jä yakkutöjkün jöma\njööjtyka jöma tsyüüna, pënü viinjk jä yakkutöjkjüp uk pu viinm jä\nnyaajkutöjkküxjü.\nArticle 3\nYakjayäjpp pe’e jä mëkin, jats jayu jyööjtykat, oy tsöj, ka’a jayu\nyakjömtönüt yaktitönüt.\nArticle 4\nNipëna ve’e kyayak’akää’yat jats myutönüt tsaatsytö’nün mëët, ka’a ve’e\npyüma jatse’e jayu kyää’työnüt jats tsyaatsy tönüt.\nArticle 5\nNipëna ve’e kyayakvopüt, kyayaktsiiküt, uk yakjömtönüt yaktitönüt.\nArticle 6\nAnanyijöma ve’e jayu tyukida’akyjë, jats yakvintsë’ëgat kyutöjkin,\nmyëkin jats vyinma’yin jöma tsyüüna.\nArticle 7\nJä pava’nün tökë’ëyji jä ve’e jayu di akäägat, tö’kë’ëyji jä ve’e jayu\ndi nikojtsva’atsüt. Pün pün tse’e töömp, nüüjmip ka oyap, yü pava’nën\ntse’e xputëjkimdap.\nArticle 8\nAnanyijöma tse’e tyukida’aky jä putëjkin, jä yakkutöjkün juu’ ve’e\nputëkap jats ka’a pën di vinaxy, jats jä mëkin xö’n jä pava’nün di\nyakkutuk.\nArticle 9\nKa’a ve’e pyüma jats jayu yaktsömüt uk pu yakmatsüt ovintsova, ni ka’ava\njats jayu yakvojppitsümüt nyaax, kyajpün jëët.",
-            "Image": "4c38afe995f931d1bafc5c8231813260"
+            "Text": "JÄ KOJTSVIJJÜN JATS KOJTSMËKIN JUU’ VE’E JAYU OY TYUKJÖÖJTYKAP.\nTRANSLATION OF THE UNIVERSAL DECLARATION OF HUMAN RIGHTS TO MIXE IN THE\nALTERNATIVE TO TOTONTEPEC, MIXE, OAXACA, MEXICO.\nArticle 1\nTum akijpxa xa ve’e jayu kye’ex, ve’em ax jö’n tyukidaakjüva tijaty\nmëkin; ve’empa axjö’n jä jyööjtykin di yaknaxy, jats oy myujatyöö’tëjk\ndi mëët nayjavajüt.\nArticle 2\nTum apaatjüp yë ve’e jayu ixyë’ë yë pava’nün, va’an di pëna di tiya, jya\ntë’ëxtëjka, jya yaa’tyëjka, jya tikütsam jä jyaantsy ja’vün, pën vintso\njä vyinma’yün uk pu jyööjtykün di yakyo’oy, di yaknaxy.\nKa’a ve’e tii y’itüt viijnk ixün jya tikütsam jä yakkutöjkün jöma\njööjtyka jöma tsyüüna, pënü viinjk jä yakkutöjkjüp uk pu viinm jä\nnyaajkutöjkküxjü.\nArticle 3\nYakjayäjpp pe’e jä mëkin, jats jayu jyööjtykat, oy tsöj, ka’a jayu\nyakjömtönüt yaktitönüt.\nArticle 4\nNipëna ve’e kyayak’akää’yat jats myutönüt tsaatsytö’nün mëët, ka’a ve’e\npyüma jatse’e jayu kyää’työnüt jats tsyaatsy tönüt.\nArticle 5\nNipëna ve’e kyayakvopüt, kyayaktsiiküt, uk yakjömtönüt yaktitönüt.\nArticle 6\nAnanyijöma ve’e jayu tyukida’akyjë, jats yakvintsë’ëgat kyutöjkin,\nmyëkin jats vyinma’yin jöma tsyüüna.\nArticle 7\nJä pava’nün tökë’ëyji jä ve’e jayu di akäägat, tö’kë’ëyji jä ve’e jayu\ndi nikojtsva’atsüt. Pün pün tse’e töömp, nüüjmip ka oyap, yü pava’nën\ntse’e xputëjkimdap.\nArticle 8\nAnanyijöma tse’e tyukida’aky jä putëjkin, jä yakkutöjkün juu’ ve’e\nputëkap jats ka’a pën di vinaxy, jats jä mëkin xö’n jä pava’nün di\nyakkutuk.\nArticle 9\nKa’a ve’e pyüma jats jayu yaktsömüt uk pu yakmatsüt ovintsova, ni ka’ava\njats jayu yakvojppitsümüt nyaax, kyajpün jëët."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "8e39155f7004aa2e91446d773ddfee04",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Article 10\nTum tukidaakpjüp tse’e jayu ananyijöma jats yak’amotünaxüt may jayu\nvyinkujk, jats jä tokinpayo’yva pën oy töömp, van’ittse’e yak’ixüt\nyakpayo’oyüt pën jyayejpp pe’e ja tokin juu’ ve’e yaktuknixë’ë’ip.\nArticle 11\nKa’a tse’e di akääga jats jayu tokinjëëtp tyun tankojüt pën ka’ana ve’e\noy yak’ix, yakpayo’oy jä tyokin, ve’em ax jö’n jä pava’nün pyüma.\nNipëna tse’e kyayaktokinpëmüt ku ve’e ti di tun, di këts, pën ka’a ve’e\njä kutöjkin jats jä pava’nün ve’em vya’any. Ka’a tse’e di akääga jats\nniyöjk tyun yaktukkuväjtpat jä tyokin, vanxüpe’e di kuvätüt ax jö’n jä\npava’nün yo’oy.\nArticle 12\nNipüna tse’e kyayaktutëjkijyat ovintsova jyööjtykin, jyëëjnü tyëjk ,\njatsü y’it juu’ kyë’mip , mëët këts ayook juu’ yakvintsë’kintokijyap,\npën ve’emtse’e jyatsy, tukidaakjüp tse’e jats jä pava’nün kyuva’anjüt\nkyukotsjüt.\nArticle 13\nTukidaakpe’e jats jayu yo’oyët nyaxüt pün jömajaty jayu di tsük, uk pu\npün jöma jayu jyööjtykava’any, pün jöma jayu naax, kajpën\nnyatyukmutsükjë.\nYakjajtype’e yë pava’anün jats jayu nyëjkxüt viinjktsoj, jekum uk pën\njöma tëmü naat jats di avimpijtinüvat nyaaxü kyajpün.\nArticle 14\nPën pën tse’e yakpavojpp o’yip tse’e di anëjkxat viijnk it jatse’e jäm\ntsyëënat jyööjtykat. (Jekum).\nIxyü’ü yë kutöjkën ka’a tse’e yaktuktää’nüt, jats jayu nyin va’anüt,\njats ka’a yü ve ve’e y’oya ax jö’n Naciones Unidas di pava’any.\nArticle 15\nTö’kkë’ëyji tse’e jayu di vinmatsyjü jatse’e tsyëënat jyööjtykat jöma\ntyukida’akyjü.\nKa’a xa ve’e di vinmatsyjë jats jayu yakpüjkjat jä it, naxviijn jöma\njyööjtykën di yaknaxy,ni ka’a tse’e yak’akää’yat jats tyanüt pën\nnëjkxüvaanüp viijnktsoj.\nArticle 16\nJä jayuda juu’ jyööjnt të di ajä’yidinü jats yaa’vyëjktinüt,\ntyë’ëxpëjktinüt, ka’a tse’e yakviijnk ixüt pën jöma tsyoo’nda, jats jä\njyaantsyja’vinkëjx, jatse’e nyamyëëttsëënajadat, y’önëk di jayäptat jats\noy jyööjtykadat ku nyamyëëttsëënajadat, nay ve’empa pën vi’ntso di\npayo’oyda nyamyasookjidinüt.",
-            "Image": "8e39155f7004aa2e91446d773ddfee04"
+            "Text": "Article 10\nTum tukidaakpjüp tse’e jayu ananyijöma jats yak’amotünaxüt may jayu\nvyinkujk, jats jä tokinpayo’yva pën oy töömp, van’ittse’e yak’ixüt\nyakpayo’oyüt pën jyayejpp pe’e ja tokin juu’ ve’e yaktuknixë’ë’ip.\nArticle 11\nKa’a tse’e di akääga jats jayu tokinjëëtp tyun tankojüt pën ka’ana ve’e\noy yak’ix, yakpayo’oy jä tyokin, ve’em ax jö’n jä pava’nün pyüma.\nNipëna tse’e kyayaktokinpëmüt ku ve’e ti di tun, di këts, pën ka’a ve’e\njä kutöjkin jats jä pava’nün ve’em vya’any. Ka’a tse’e di akääga jats\nniyöjk tyun yaktukkuväjtpat jä tyokin, vanxüpe’e di kuvätüt ax jö’n jä\npava’nün yo’oy.\nArticle 12\nNipüna tse’e kyayaktutëjkijyat ovintsova jyööjtykin, jyëëjnü tyëjk ,\njatsü y’it juu’ kyë’mip , mëët këts ayook juu’ yakvintsë’kintokijyap,\npën ve’emtse’e jyatsy, tukidaakjüp tse’e jats jä pava’nün kyuva’anjüt\nkyukotsjüt.\nArticle 13\nTukidaakpe’e jats jayu yo’oyët nyaxüt pün jömajaty jayu di tsük, uk pu\npün jöma jayu jyööjtykava’any, pün jöma jayu naax, kajpën\nnyatyukmutsükjë.\nYakjajtype’e yë pava’anün jats jayu nyëjkxüt viinjktsoj, jekum uk pën\njöma tëmü naat jats di avimpijtinüvat nyaaxü kyajpün.\nArticle 14\nPën pën tse’e yakpavojpp o’yip tse’e di anëjkxat viijnk it jatse’e jäm\ntsyëënat jyööjtykat. (Jekum).\nIxyü’ü yë kutöjkën ka’a tse’e yaktuktää’nüt, jats jayu nyin va’anüt,\njats ka’a yü ve ve’e y’oya ax jö’n Naciones Unidas di pava’any.\nArticle 15\nTö’kkë’ëyji tse’e jayu di vinmatsyjü jatse’e tsyëënat jyööjtykat jöma\ntyukida’akyjü.\nKa’a xa ve’e di vinmatsyjë jats jayu yakpüjkjat jä it, naxviijn jöma\njyööjtykën di yaknaxy,ni ka’a tse’e yak’akää’yat jats tyanüt pën\nnëjkxüvaanüp viijnktsoj.\nArticle 16\nJä jayuda juu’ jyööjnt të di ajä’yidinü jats yaa’vyëjktinüt,\ntyë’ëxpëjktinüt, ka’a tse’e yakviijnk ixüt pën jöma tsyoo’nda, jats jä\njyaantsyja’vinkëjx, jatse’e nyamyëëttsëënajadat, y’önëk di jayäptat jats\noy jyööjtykadat ku nyamyëëttsëënajadat, nay ve’empa pën vi’ntso di\npayo’oyda nyamyasookjidinüt."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "5e0f0157b82de05f6865256f601abfa5",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Van’it tse’e nyavyëkjüdat pën ve’emme’e jä tsyojkünda jä navyëjkjüvada.\nJä jayu yaa’tyëjk , të’ëxtëjk , müjjit muutskit, jä’äkëjx tse’e jyäja\nkajpün, vyinmajtsjup tse’e pyutëkajüt, kyuva’anjüt kyukotsjüt jä\nyakkutöjkpa pyava’nün.\nArticle 17\nTö’kë’ëyji jayu di vinmatsyjü jats pëëmdük dë jayäpüt, ve’em ax jö’n\nnëtö’jaty, uk pu tö’kmuk.\nKa’a dë vinmatsyjü jats jayu ovintsova yakpëjkjat y’it.\nArticle 18\nTö’kë’ëyji jayu di vinmatsyjü jats viinm di payo’oyüt pën tii\ntyönüvaampy uk pën vitso jä jyaantsyja’vün, o’yip di yaktikütsüt jä\njyaantsyja’vün jats di yakyo’oyüt naaydum uk pu jayu mëët, o’yip di\nyakjay’ixjüt, dyakjanyijavajüt jä y’ixpëjkün jats kyutyö’nün mëët.\nArticle 19\nTum tukidaakjup pe’e tö’k uk pu jadö’k jats di kojtsnaxüt vintso juu’ dë\npayo’oy ax ka’a tse’e të akääga yaktuk’ixüt yaktukmotuvat pën vintso\njuu’ të dë kojtsnaxy o’yip dë yakjanyijavajüt pën jöma jatsy dë tsëk,\npën vintso dë tsëk.\nArticle 20\nYakjajtsype’e jä pava’nün jats jayu nyamyökjüt jats jayu nyatyukotsjüt\nnyatyukmaaydükjüt pënü tii oy yakxon. Vyinmajtsjudüp tse’e jayuda jats\nnyay’amökajadat jats dë kojtsmöktat juu’ oy juu’ tsöj jats ka’a\nmyutoküntun.\nNipënats kyayak’akää’yat jats dë tönüt, uk dë tuktëkat pën tii\nkyatsëjkp.\nArticle 21\nTukidaakjüpü jayu jats kyajpün dë mutönüt viinm, uk kutöömpa mëët juu’\ndyakvinkën.\nVyinmajtsjuvap tse’e ananyijöma jayu jats ja myujayuda di mutönüt jöma\nkyunaaxa.\nVä’ä xa ve’e kyutöjkün töömp ja kajpün pyava’any jats kutöönk di\npatöndat, ax kajpün tse’e vye’na pyava’any uk pu di pëëmp pën vin’itte’e\ntyukida’akjü jats kutöönk tyukida’akyjü pën vintso ve’e di yakyo’oydat\nuk pu di yakjapyanëjkxjüdat vintso ve’e oy tsöj yo’oyüt, jats ka’a jayu\nkoojjyi nyavyin’ëë’njüt.\nArticle 22\nTö’kkë’ëyji ve’e jayu di vinmatsyjü, jats jayu oy tsöj tsyëënat, jats\njayu yakmo’ojüt jä putëjkin juu’ tëmji uk jekum tsoo’mp meen këjx, uk\njyatikëjxa, jä’ä tsyë ve’e, jats di tuk’oyat di tukjööjtsykat pën pën yë\ndi majtsp.",
-            "Image": "5e0f0157b82de05f6865256f601abfa5"
+            "Text": "Van’it tse’e nyavyëkjüdat pën ve’emme’e jä tsyojkünda jä navyëjkjüvada.\nJä jayu yaa’tyëjk , të’ëxtëjk , müjjit muutskit, jä’äkëjx tse’e jyäja\nkajpün, vyinmajtsjup tse’e pyutëkajüt, kyuva’anjüt kyukotsjüt jä\nyakkutöjkpa pyava’nün.\nArticle 17\nTö’kë’ëyji jayu di vinmatsyjü jats pëëmdük dë jayäpüt, ve’em ax jö’n\nnëtö’jaty, uk pu tö’kmuk.\nKa’a dë vinmatsyjü jats jayu ovintsova yakpëjkjat y’it.\nArticle 18\nTö’kë’ëyji jayu di vinmatsyjü jats viinm di payo’oyüt pën tii\ntyönüvaampy uk pën vitso jä jyaantsyja’vün, o’yip di yaktikütsüt jä\njyaantsyja’vün jats di yakyo’oyüt naaydum uk pu jayu mëët, o’yip di\nyakjay’ixjüt, dyakjanyijavajüt jä y’ixpëjkün jats kyutyö’nün mëët.\nArticle 19\nTum tukidaakjup pe’e tö’k uk pu jadö’k jats di kojtsnaxüt vintso juu’ dë\npayo’oy ax ka’a tse’e të akääga yaktuk’ixüt yaktukmotuvat pën vintso\njuu’ të dë kojtsnaxy o’yip dë yakjanyijavajüt pën jöma jatsy dë tsëk,\npën vintso dë tsëk.\nArticle 20\nYakjajtsype’e jä pava’nün jats jayu nyamyökjüt jats jayu nyatyukotsjüt\nnyatyukmaaydükjüt pënü tii oy yakxon. Vyinmajtsjudüp tse’e jayuda jats\nnyay’amökajadat jats dë kojtsmöktat juu’ oy juu’ tsöj jats ka’a\nmyutoküntun.\nNipënats kyayak’akää’yat jats dë tönüt, uk dë tuktëkat pën tii\nkyatsëjkp.\nArticle 21\nTukidaakjüpü jayu jats kyajpün dë mutönüt viinm, uk kutöömpa mëët juu’\ndyakvinkën.\nVyinmajtsjuvap tse’e ananyijöma jayu jats ja myujayuda di mutönüt jöma\nkyunaaxa.\nVä’ä xa ve’e kyutöjkün töömp ja kajpün pyava’any jats kutöönk di\npatöndat, ax kajpün tse’e vye’na pyava’any uk pu di pëëmp pën vin’itte’e\ntyukida’akjü jats kutöönk tyukida’akyjü pën vintso ve’e di yakyo’oydat\nuk pu di yakjapyanëjkxjüdat vintso ve’e oy tsöj yo’oyüt, jats ka’a jayu\nkoojjyi nyavyin’ëë’njüt.\nArticle 22\nTö’kkë’ëyji ve’e jayu di vinmatsyjü, jats jayu oy tsöj tsyëënat, jats\njayu yakmo’ojüt jä putëjkin juu’ tëmji uk jekum tsoo’mp meen këjx, uk\njyatikëjxa, jä’ä tsyë ve’e, jats di tuk’oyat di tukjööjtsykat pën pën yë\ndi majtsp."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "b9146d3adcf1da0b660873facac06dc1",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Article 23\nVyinmajtsjupe’e jats tö’kë’ëyji jayu työnüt jats di vinkonüt pën tii\ntöönk työnüvaampy, oyü tsöj, jats ka’a työönk yaktukmaso’oküt , pën\ny’akää’yajüt jats dyaktikütsüt ja jyayvün yë putëjkinkëjx\nJyapëna, tse’e pën pëne’e töömp tukidaakjüp tse’e jats yakmujöyüt\nakijpxa mëët myu’atöönk jats ka’a yakviijn’ixüt\nJyapëna pën pën mutöömp, ax tukidaakjüp tse’e jats yakmujöyüt pën vinxüp\ndi akääga jats nyipaadüxjüp ku dyaktönüt mëët tsyaanü kyoo, jats pën tii\no’yip jyaa’k yaktukputëkat.\nVä’ä ve’e tyukida’aky jats jayu ja nytenyiva di pëmüt ax juu’ ve’e\nnikojtsva’atsjudap ku ovintsova yaktönüt työönkjëx.\nArticle 24\nTukidaakjupe’e jayu jats pyoo’kxün xëë yakmo’ojüt axjö’n tyukida’akyjü,\nve’em ax jö’n yakmujöyüt, namvaat pyëë’kx.\nArticle 25\nVä’ä ve’e jayu tukidaakjup jats oy tsöj tsyëënat, ve’em mëët tsyaanü\nkyoo, jats kyaaky nyëë, vyit xyox jats tyëjk jöma jyööjtykat, tsyoojy di\npaa’tüt vin’it tyukida’akyjü, tukidaakjüp jats yakputëkat pënü ka’a tii\ntyöönk, pënü pëjkjüp, pënü yakku’oo’kp, pënü mëj’önükinüp uk pënü tii\nayo’vün yaknajxyp, uk jyatikëjxa.\nTukidaakjup jä të’ëxtëjk juu’ maaxmëët jats yakputëkat, nayve’empa\nnaaydüm ’önükta juu’ jäm tyee’ tyaak, uk pu juu’ tyee’ ka’ijtp nay\ntukidaajidip tse’e jats putëjkin yakmo’odat.\nArticle 26\nTukidaakjup jayu jats y’ixpëküt. Tukidaakjup tse’e jats pi’k önük\nve’emji y’ixpëküt juu’ jä ku y’ ixpéjkün dü tsoo’ndük. Nay ve’em\nixpëküpe’e jä pi’k’önük oyam tee’ taak di ja ka tsoküt. Jats juu’\nmëj’ixpëjkün tö’kë’ëyji jayu di vinmatsyjü; ve’em ax jö’n jayu jä\nmyëëdaakün.\nVä’ä ve’e tyukida’aky jats ja ixpëjkün työnüt vintso jayu oy tsöj di\ntukjööjtykat, jats jayu yakvintsë’ëgat, jats di nijavat vintso\njyööjtykat; jats pyutëkat vintso nyavyinmotujadat, uk pu jayu\nnyayjavajüt, tö’k it uk viijnk it , ve’em ax jö’n jömajaty costumbre\ntyiküts, uk pu jaantsy ja’vün; jats yak’ixüt pën vintso yaktukjööjtykat\nNaciones Unidas pyava’nün.\nTukidaakjüp tse’e jä tee’ taak jats di vinkontat pën tii ixpëjkin\ntyukmutsojktup tsyaan kyoo.\nArticle 27\nTukidaakjup xa ve’e jayu jats di vinkonüt jä yakxoojntkün pën juu’\ntsyëjkp di tuktëkat kyajpünkëjxm, o’yivap tse’e jats di tuktëjkivat pën\ntii vijjün käjjün ne’e jäjip uk o’yip jä kajpünküjx.",
-            "Image": "b9146d3adcf1da0b660873facac06dc1"
+            "Text": "Article 23\nVyinmajtsjupe’e jats tö’kë’ëyji jayu työnüt jats di vinkonüt pën tii\ntöönk työnüvaampy, oyü tsöj, jats ka’a työönk yaktukmaso’oküt , pën\ny’akää’yajüt jats dyaktikütsüt ja jyayvün yë putëjkinkëjx\nJyapëna, tse’e pën pëne’e töömp tukidaakjüp tse’e jats yakmujöyüt\nakijpxa mëët myu’atöönk jats ka’a yakviijn’ixüt\nJyapëna pën pën mutöömp, ax tukidaakjüp tse’e jats yakmujöyüt pën vinxüp\ndi akääga jats nyipaadüxjüp ku dyaktönüt mëët tsyaanü kyoo, jats pën tii\no’yip jyaa’k yaktukputëkat.\nVä’ä ve’e tyukida’aky jats jayu ja nytenyiva di pëmüt ax juu’ ve’e\nnikojtsva’atsjudap ku ovintsova yaktönüt työönkjëx.\nArticle 24\nTukidaakjupe’e jayu jats pyoo’kxün xëë yakmo’ojüt axjö’n tyukida’akyjü,\nve’em ax jö’n yakmujöyüt, namvaat pyëë’kx.\nArticle 25\nVä’ä ve’e jayu tukidaakjup jats oy tsöj tsyëënat, ve’em mëët tsyaanü\nkyoo, jats kyaaky nyëë, vyit xyox jats tyëjk jöma jyööjtykat, tsyoojy di\npaa’tüt vin’it tyukida’akyjü, tukidaakjüp jats yakputëkat pënü ka’a tii\ntyöönk, pënü pëjkjüp, pënü yakku’oo’kp, pënü mëj’önükinüp uk pënü tii\nayo’vün yaknajxyp, uk jyatikëjxa.\nTukidaakjup jä të’ëxtëjk juu’ maaxmëët jats yakputëkat, nayve’empa\nnaaydüm ’önükta juu’ jäm tyee’ tyaak, uk pu juu’ tyee’ ka’ijtp nay\ntukidaajidip tse’e jats putëjkin yakmo’odat.\nArticle 26\nTukidaakjup jayu jats y’ixpëküt. Tukidaakjup tse’e jats pi’k önük\nve’emji y’ixpëküt juu’ jä ku y’ ixpéjkün dü tsoo’ndük. Nay ve’em\nixpëküpe’e jä pi’k’önük oyam tee’ taak di ja ka tsoküt. Jats juu’\nmëj’ixpëjkün tö’kë’ëyji jayu di vinmatsyjü; ve’em ax jö’n jayu jä\nmyëëdaakün.\nVä’ä ve’e tyukida’aky jats ja ixpëjkün työnüt vintso jayu oy tsöj di\ntukjööjtykat, jats jayu yakvintsë’ëgat, jats di nijavat vintso\njyööjtykat; jats pyutëkat vintso nyavyinmotujadat, uk pu jayu\nnyayjavajüt, tö’k it uk viijnk it , ve’em ax jö’n jömajaty costumbre\ntyiküts, uk pu jaantsy ja’vün; jats yak’ixüt pën vintso yaktukjööjtykat\nNaciones Unidas pyava’nün.\nTukidaakjüp tse’e jä tee’ taak jats di vinkontat pën tii ixpëjkin\ntyukmutsojktup tsyaan kyoo.\nArticle 27\nTukidaakjup xa ve’e jayu jats di vinkonüt jä yakxoojntkün pën juu’\ntsyëjkp di tuktëkat kyajpünkëjxm, o’yivap tse’e jats di tuktëjkivat pën\ntii vijjün käjjün ne’e jäjip uk o’yip jä kajpünküjx."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "1a5c0836ae949ef539f7388f1a318762",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Tukidaakjup pe’e jayu jats yakvintsë’kijat pën ti ve’e yak’oyip\nyakpaadip, uk pu pën ti ve’e y’ixpü pyaatyp mëët jä vyijjün kyäjjün.\nArticle 28\nVä’ä ve’e tukidaakjup jats yë këts yë ayöök juu’ yam töömp kojtsjup jats\nyë yo’oyüt jyajöma itü naxviijn ax jö’n ixyam dü nipayo’oy, jats\nyakkutyönüt vintso dü vinmatsyjü\nArticle 29\nVä’ä ve’e dü vinmatsyjü jats yakmutönüpe’e kajpün, küx jämme’e jayu\njyööjtykat nyaxviijnat vintso dü vinmatsyjü.\nKu tse’e tsyokjüt jats ja jayu oy jyööjtykat vä’ä tse’e ja jayu pava’nün\nyakkutöjküxjüp jats ve’em y’oyat jä jööjtykün mëët jä myujayü, jats\nve’em oy jä jyööjtykün dü yaknaxtat.\nKa’a yë ve’e yë pava’nün ovintsova jayu dü yaktöönkpaa’tüt, ve’emji ve’e\ntyönüt vintso Naciones Unidas dü pava’any.\nArticle 30\nKa’a ve’e tyukida’akjü jats ixyë’ë yë pava’nün ovintsova jä yakkutöjkpa\ndü yaktönüt uk jyapëna dyaktönüt pën vintso dü ka vinmatsyjü, ax jö’n\nmyujayu di nin tukmutokintönüt.",
-            "Image": "1a5c0836ae949ef539f7388f1a318762"
+            "Text": "Tukidaakjup pe’e jayu jats yakvintsë’kijat pën ti ve’e yak’oyip\nyakpaadip, uk pu pën ti ve’e y’ixpü pyaatyp mëët jä vyijjün kyäjjün.\nArticle 28\nVä’ä ve’e tukidaakjup jats yë këts yë ayöök juu’ yam töömp kojtsjup jats\nyë yo’oyüt jyajöma itü naxviijn ax jö’n ixyam dü nipayo’oy, jats\nyakkutyönüt vintso dü vinmatsyjü\nArticle 29\nVä’ä ve’e dü vinmatsyjü jats yakmutönüpe’e kajpün, küx jämme’e jayu\njyööjtykat nyaxviijnat vintso dü vinmatsyjü.\nKu tse’e tsyokjüt jats ja jayu oy jyööjtykat vä’ä tse’e ja jayu pava’nün\nyakkutöjküxjüp jats ve’em y’oyat jä jööjtykün mëët jä myujayü, jats\nve’em oy jä jyööjtykün dü yaknaxtat.\nKa’a yë ve’e yë pava’nün ovintsova jayu dü yaktöönkpaa’tüt, ve’emji ve’e\ntyönüt vintso Naciones Unidas dü pava’any.\nArticle 30\nKa’a ve’e tyukida’akjü jats ixyë’ë yë pava’nün ovintsova jä yakkutöjkpa\ndü yaktönüt uk jyapëna dyaktönüt pën vintso dü ka vinmatsyjü, ax jö’n\nmyujayu di nin tukmutokintönüt."
         }
     }
 }

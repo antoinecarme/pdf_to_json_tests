@@ -1,119 +1,119 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581470421,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "486ed0d8c9507be91184de70286a9005",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "DÊPÄ TÎ PÖPÖKÖDÖRÖ TÎ NDIÄ TÏ BATA NENGÖ TERÊ TÏ ZO\nTAKAPA\nNa hïngängö bîanî atene nëngö terê tî zo na lïngbïngö terê tî ângangü tî lo laâ sï ayeke na gündâ tî zarä , tî\nnzönî ngbanga na tî sîrîrî na ndö tî dûnîa,\nNa hïngängö nî pëpëe na këngö ândiä tî bata nëngö terë tî zo laâ adü kpälë tî birä sô abi ngonzo na bê tî\nâhalëzo, ngâ sï gängö tî mbênî finî ködörö sô âhalëzo kûe alîngbi tî tene tënë tî bê tî âla, tî mäbê tî âla afa nî\ntöngana taâ kötä bêkü tî âzo tî ndö tî gïgî,\nAyeke kötä yê mîngi tî tene azî lë na ndö tî ândiä tî bata nëngö terê tî zo gï na lëngö mbênî gerê tî ndiä ndâli\ntî sïönî sêgbïä na lëngö pâsi,\nNa hïngängö nî atene ayeke kötä yê mîngi tî mû ngangü na mäïngö tî lëngö söngö na pöpö tî ködörö ndê ndê,\nNa hïngängö nî atene na yâ tî sêndiä halëzo tî bêndo tî gïgî afa tî finî nî mäbê tî âla na âtaâ ndiä tî zo , na\nnëngö terë ngâ na kötä tî zo na lïngbïngö terê tî ângangü tî kôlï na wâlï, sï âla atene ânï yeke sâra ngangü kûê\ntî mäïngö tî sêdutï tî zo na lëngö ânzönî lêgë tî dutï na yâ tî mbênî kötä zarä ,\nNa hïngängö nî atene âködörö sô abûngbi amû yângâ tî lë kpëngö ndiä tî bata nëngö terë tî zo na zarä tî lo na\nyâ tî kua tî mabôko na mabôko na bûngbi tî bêndo tî gïgî,\nNa hïngängö atene mängbïngö bê na ândiä sô na âzarä sô ngâ ayeke bîanî ngangü yê mîngi tî sâra kua sô gï\nna pekö tî yângâ sô âla mû,\nKötä Lîngö\nAvûnga\nDêpä tî pöpöködörö tî bätängö nëngö terê tî zo sô",
-            "Image": "486ed0d8c9507be91184de70286a9005"
+            "Text": "DÊPÄ TÎ PÖPÖKÖDÖRÖ TÎ NDIÄ TÏ BATA NENGÖ TERÊ TÏ ZO\nTAKAPA\nNa hïngängö bîanî atene nëngö terê tî zo na lïngbïngö terê tî ângangü tî lo laâ sï ayeke na gündâ tî zarä , tî\nnzönî ngbanga na tî sîrîrî na ndö tî dûnîa,\nNa hïngängö nî pëpëe na këngö ândiä tî bata nëngö terë tî zo laâ adü kpälë tî birä sô abi ngonzo na bê tî\nâhalëzo, ngâ sï gängö tî mbênî finî ködörö sô âhalëzo kûe alîngbi tî tene tënë tî bê tî âla, tî mäbê tî âla afa nî\ntöngana taâ kötä bêkü tî âzo tî ndö tî gïgî,\nAyeke kötä yê mîngi tî tene azî lë na ndö tî ândiä tî bata nëngö terê tî zo gï na lëngö mbênî gerê tî ndiä ndâli\ntî sïönî sêgbïä na lëngö pâsi,\nNa hïngängö nî atene ayeke kötä yê mîngi tî mû ngangü na mäïngö tî lëngö söngö na pöpö tî ködörö ndê ndê,\nNa hïngängö nî atene na yâ tî sêndiä halëzo tî bêndo tî gïgî afa tî finî nî mäbê tî âla na âtaâ ndiä tî zo , na\nnëngö terë ngâ na kötä tî zo na lïngbïngö terê tî ângangü tî kôlï na wâlï, sï âla atene ânï yeke sâra ngangü kûê\ntî mäïngö tî sêdutï tî zo na lëngö ânzönî lêgë tî dutï na yâ tî mbênî kötä zarä ,\nNa hïngängö nî atene âködörö sô abûngbi amû yângâ tî lë kpëngö ndiä tî bata nëngö terë tî zo na zarä tî lo na\nyâ tî kua tî mabôko na mabôko na bûngbi tî bêndo tî gïgî,\nNa hïngängö atene mängbïngö bê na ândiä sô na âzarä sô ngâ ayeke bîanî ngangü yê mîngi tî sâra kua sô gï\nna pekö tî yângâ sô âla mû,\nKötä Lîngö\nAvûnga\nDêpä tî pöpöködörö tî bätängö nëngö terê tî zo sô"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "76df12e98bd563f2983fe6730e505383",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "töngana kunibê sô halëzo na âködörö kûê alîngbi tî wara, sî âzo kûê ngâ na âkûndû tî bôso kûê asâra ngangü,\nna lêgë tî fängö mbëtï na fängö-ndo, tî lë kpëngö ândiä na âzarä sô ngâ tî sâra na kodë tî ândiä tî ködörö wala\ntî pöpöködörö tî tene ayêka nî ngâ sï alë tambûla nî na ndo kûe, na pöpö tî halëzo na letäa nî sô alü mbere nî,\ntöngana âla sô angbâ na gbe tî lê tî âla.\nSura 1\nAdü âzo kûê yamba, ngâ âla lîngbi terê na lêgë tî nëngö-terê na tî ângangü. Ala kûê awara ndarä na börö-li sï\nâla lîngbi tî dutï na âmbâ tî âla gï na lêngö söngö.\nSura 2\nZo ôko ôko alîngbi tî pîka kate na ndö tî ângangü sô dêpä avûnga, na särängö kângbi ôko pëpë wala na ndö tî\ntenë tî marä, wala tî nzorôko tî terê wala tî ndiä wala tî kôlï na wâlï tî yângâ ködörö wala tî mosoro, tî ndo tî\ndüngö wala tî marä dutï,\nNa ndönî kûê, alîngbi tî sâra mbênî kângbi ôko pëpë sô alöndö na ndö tî tënë tî porosö wala tî ndiä wala tî\npöpöködörö, tî mbênî zo wala tî mbênî ködörö nî sô alîngbi tî dutï lipandä wala na gbe lê tî mbênî ködörö\nwala sô ayeke na kpälë tî sêgbïä.\nSura 3\nZo kûê ayeke na ngangü tî dutï na finî tî lo, tî dutï yamba na tî dutï na mbeto tî wara sïönî pëpëe.\nSura 4\nZo ôko alîngbi tî dutï na gbe tî ngbâa pëpëe. Akânga lêgë bîanî na dutï tî ngbäa ngâ na dëngö buzë tî kängö\nzo na ngbâa.\nSura 5",
-            "Image": "76df12e98bd563f2983fe6730e505383"
+            "Text": "töngana kunibê sô halëzo na âködörö kûê alîngbi tî wara, sî âzo kûê ngâ na âkûndû tî bôso kûê asâra ngangü,\nna lêgë tî fängö mbëtï na fängö-ndo, tî lë kpëngö ândiä na âzarä sô ngâ tî sâra na kodë tî ândiä tî ködörö wala\ntî pöpöködörö tî tene ayêka nî ngâ sï alë tambûla nî na ndo kûe, na pöpö tî halëzo na letäa nî sô alü mbere nî,\ntöngana âla sô angbâ na gbe tî lê tî âla.\nSura 1\nAdü âzo kûê yamba, ngâ âla lîngbi terê na lêgë tî nëngö-terê na tî ângangü. Ala kûê awara ndarä na börö-li sï\nâla lîngbi tî dutï na âmbâ tî âla gï na lêngö söngö.\nSura 2\nZo ôko ôko alîngbi tî pîka kate na ndö tî ângangü sô dêpä avûnga, na särängö kângbi ôko pëpë wala na ndö tî\ntenë tî marä, wala tî nzorôko tî terê wala tî ndiä wala tî kôlï na wâlï tî yângâ ködörö wala tî mosoro, tî ndo tî\ndüngö wala tî marä dutï,\nNa ndönî kûê, alîngbi tî sâra mbênî kângbi ôko pëpë sô alöndö na ndö tî tënë tî porosö wala tî ndiä wala tî\npöpöködörö, tî mbênî zo wala tî mbênî ködörö nî sô alîngbi tî dutï lipandä wala na gbe lê tî mbênî ködörö\nwala sô ayeke na kpälë tî sêgbïä.\nSura 3\nZo kûê ayeke na ngangü tî dutï na finî tî lo, tî dutï yamba na tî dutï na mbeto tî wara sïönî pëpëe.\nSura 4\nZo ôko alîngbi tî dutï na gbe tî ngbâa pëpëe. Akânga lêgë bîanî na dutï tî ngbäa ngâ na dëngö buzë tî kängö\nzo na ngbâa.\nSura 5"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "216a5adde2ed5b718a6642f288b291e8",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Zo ôko alîngbi tî sâra mbâ tî lo na pâsi tî ponön wala na pâsi tî finön pëpëe.\nSura 6\nZo kûê ayeke na ngangü tî tene ndiä abata lo na âsïönî lâkûê na ndo kûê.\nSura 7\nAzo kûe alîngbi terê na lê tî ndiä, ngâ âla yeke na ngangü lêgë ôko na särängö kângbi ôko pëpëe. Amû na âla\nngangü na sêbätängö terë lêgë ôko, na tënë tî kângbi tî marä sô alîngbi tî fîngi dêpä sô ngâ na tënë tî gïngö\nlêgë tî kângbi tî marä sô.\nSura 8\nZo kûê alîngbi tî lï ngbanga na âdangbanga tî ködörö tî lo töngana âzo akpë pëpëe ângangü sô sêndiä tî\nködörö tî lo amû na lo.\nSura 9\nAlîngbi ôko pëpëe tî gbû zo na kânga wala tî bata lo na kânga wala tî tokua zo yongôro na ködörö tî lo gï\nsêngê sêngê, töngana ndâ nî ayeke da pëpëe.\nSura 10\nZo kûê ayeke na ngangü, lêgë ôko na âmbâ tî lo, tî tene amä polêlê tënë tî yângâ tî lo na lê tî boro ngbanga sô\nfadë afa ânde wala ângangü wala âkuandiä tî lo wala töngana pängö ïrï na tënë sô alï ngbanga da na ndö tî lo\nsô ayeke mbîrîmbîrî.\nSura 11\nZo kûê sô apä ïrï tî lo na ndö tî mbênî kpälë angbâ mokondö asï na ngôi sô afa na lêgë tî ndiä atene lo sâra\nsïönî, na lê tî mbênî ngbanga tî polêlë sô âwakokö kûê adu da na pekö tî lo.",
-            "Image": "216a5adde2ed5b718a6642f288b291e8"
+            "Text": "Zo ôko alîngbi tî sâra mbâ tî lo na pâsi tî ponön wala na pâsi tî finön pëpëe.\nSura 6\nZo kûê ayeke na ngangü tî tene ndiä abata lo na âsïönî lâkûê na ndo kûê.\nSura 7\nAzo kûe alîngbi terê na lê tî ndiä, ngâ âla yeke na ngangü lêgë ôko na särängö kângbi ôko pëpëe. Amû na âla\nngangü na sêbätängö terë lêgë ôko, na tënë tî kângbi tî marä sô alîngbi tî fîngi dêpä sô ngâ na tënë tî gïngö\nlêgë tî kângbi tî marä sô.\nSura 8\nZo kûê alîngbi tî lï ngbanga na âdangbanga tî ködörö tî lo töngana âzo akpë pëpëe ângangü sô sêndiä tî\nködörö tî lo amû na lo.\nSura 9\nAlîngbi ôko pëpëe tî gbû zo na kânga wala tî bata lo na kânga wala tî tokua zo yongôro na ködörö tî lo gï\nsêngê sêngê, töngana ndâ nî ayeke da pëpëe.\nSura 10\nZo kûê ayeke na ngangü, lêgë ôko na âmbâ tî lo, tî tene amä polêlê tënë tî yângâ tî lo na lê tî boro ngbanga sô\nfadë afa ânde wala ângangü wala âkuandiä tî lo wala töngana pängö ïrï na tënë sô alï ngbanga da na ndö tî lo\nsô ayeke mbîrîmbîrî.\nSura 11\nZo kûê sô apä ïrï tî lo na ndö tî mbênî kpälë angbâ mokondö asï na ngôi sô afa na lêgë tî ndiä atene lo sâra\nsïönî, na lê tî mbênî ngbanga tî polêlë sô âwakokö kûê adu da na pekö tî lo."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "0480456dac533ae36b8ac008cf738fdd",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Alîngbi pëpëe tî kânga zo ndâli tî âyê sô lo sâra wala tî bêgirisa sô, na ngôi sô asï sô, ndiä tî ködörö wala ndïä\ntî pöpöködörö afa nî töngana kpälë pëpëe. Lêgë ôko, alîngbi tî dîko pëpëe mbênî ponön sô akono ahön ndö tî\nlo sô ayeke dë ka nî na ngôi sô zo asâra kpälë sô.\nSura 12\nAlîngbi ôko pëpëe tî yôro terê na mbänä na yâ tî sêdutï tî zo wala tî sëwa tî lo wala tî da tî lo wala tî dîko\nmbëtïsû tî lo. Alîngbi pëpëe tî buba ïrï tî zo ngâ na wüngö tî ïrï tî lo. Zo kûê ayeke na ngangü tî tene ndiä\nabata lo ngbanga tî âmarä kpälë töngasö.\nSura 13\nZo kûe ayeke na ngangü tî fonon yamba na yâ tî ködörösêse kûê. Lo yeke ngâ na ngangü tî soro ndo tî dutï tî\nlo na yâ tî mbênî ködörösêse.\nZo kûê ayeke na ngangü tî sïgî na yâ tî ködörösêse kûê atâ adu ködörö tî lo, ngâ tî kîri na ködörö nî töngana\nsô bê tî lo ayê.\nSura 14\nNa yâ tî ponön tî honga-ndo, amû lêgë na zo kuê tî gi ndo tî dutî da ngâ lo lîngbi tî wara nî na ködörö wandê.\nAlîngbi pëpëe tî mû ngangü sô na wakpälë tî fängö zo wala na zo tî särängö âyë sô ague pëpëe na lêgë tî âpo\nna âkunibê tî bûngbi tî bêndo tî gïgî.\nSura 15\nAmû ngangü na zo kûê tî tene lo du zo tî mbênî ködörösêse.\nAlîngbi pëpëe tî gbânzi mbêni zo na mbänä tî du waködörösëse ngâ na ngangü tî gbîan ködörösêse tî lo.\nSura 16",
-            "Image": "0480456dac533ae36b8ac008cf738fdd"
+            "Text": "Alîngbi pëpëe tî kânga zo ndâli tî âyê sô lo sâra wala tî bêgirisa sô, na ngôi sô asï sô, ndiä tî ködörö wala ndïä\ntî pöpöködörö afa nî töngana kpälë pëpëe. Lêgë ôko, alîngbi tî dîko pëpëe mbênî ponön sô akono ahön ndö tî\nlo sô ayeke dë ka nî na ngôi sô zo asâra kpälë sô.\nSura 12\nAlîngbi ôko pëpëe tî yôro terê na mbänä na yâ tî sêdutï tî zo wala tî sëwa tî lo wala tî da tî lo wala tî dîko\nmbëtïsû tî lo. Alîngbi pëpëe tî buba ïrï tî zo ngâ na wüngö tî ïrï tî lo. Zo kûê ayeke na ngangü tî tene ndiä\nabata lo ngbanga tî âmarä kpälë töngasö.\nSura 13\nZo kûe ayeke na ngangü tî fonon yamba na yâ tî ködörösêse kûê. Lo yeke ngâ na ngangü tî soro ndo tî dutï tî\nlo na yâ tî mbênî ködörösêse.\nZo kûê ayeke na ngangü tî sïgî na yâ tî ködörösêse kûê atâ adu ködörö tî lo, ngâ tî kîri na ködörö nî töngana\nsô bê tî lo ayê.\nSura 14\nNa yâ tî ponön tî honga-ndo, amû lêgë na zo kuê tî gi ndo tî dutî da ngâ lo lîngbi tî wara nî na ködörö wandê.\nAlîngbi pëpëe tî mû ngangü sô na wakpälë tî fängö zo wala na zo tî särängö âyë sô ague pëpëe na lêgë tî âpo\nna âkunibê tî bûngbi tî bêndo tî gïgî.\nSura 15\nAmû ngangü na zo kûê tî tene lo du zo tî mbênî ködörösêse.\nAlîngbi pëpëe tî gbânzi mbêni zo na mbänä tî du waködörösëse ngâ na ngangü tî gbîan ködörösêse tî lo.\nSura 16"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "96fdcdb49e8b78d2e31308bc67f244d1",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Asî na ngôi sô âla lîngbi tî mû terê, amû ngangü na kölï na wâlï tî mû terê töngana kôlï na wâlï, sï âla lë sewä\nsêngê, tënë tî marä wala tî ködörösëse wala tî mâbë alîngbi tî kânga lêgë nï pëpëe. Na mbâgë tî müngö terê,\namû ngangü, lêgë ôko na kôlï na wâlï na yâ tî dutïngö tî âla ngâ na kängbïngö tî âla.\nKôlï na wâlï alîngbi tî mû terë gï töngana bê tî âla ûse kûê ayê tënë nî bîanî.\nSëwä ayeke na gündâ tî halëzo. Ni laâ, amû ngangü na letäa ngâ na âzo kûê tî tene âla bata nî ngangü.\nSura 17\nZo kûê wala lo dutï na bôsôngbi wala lo dutï lo ôko ayeke na ngangü tî wara âkûngbâ tî lo mvenî.\nAlîngbi pëpëe tî mû âkûngba tî mbênî zo na ngangü na mabôko tî lo.\nSura 18\nAmû na zo kûe zarä tî bibê, tî boro-li na tî mäbê ; ngangü sô afa atene zo kûê ayeke na zarä tî gbîan mäbê tî\nlo, wala bibê tî lo ngâ na zarä tî fa polêlê mäbê ti lo, lo ôko wala na yâ tî mbênî bûngbi, polêlê wala koiko, na\nlêgë tî fängô mbëtï, tî särängö yê, tî vöröngö nzapä ngâ na särängö ângôbo.\nSura 19\nAmû na zo kûê ngangü tî zarä tî bibê na tî särängö tënë. Sô atene alîngbi tî doroko zo pëpëe ndâli tî âbibê tî\nlo. Amû ngâ na zo kûê ngangü tî gi, tî wara na tî vûnga âsango na âkodë na âmarä lêgë kûê, na zïängö bê\npëpëe na ndö tî tënë tî âmeka.\nSura 20\nAmû na zo kûê ngangü tî zarä tî gbë lïngö, tî lï na yâ tî bôsôngbi tî sîrîrî.\nAlîngbi pëpëe tî gbû zo na ngangü tî lï na yâ tî mbênî bôsôngbi.",
-            "Image": "96fdcdb49e8b78d2e31308bc67f244d1"
+            "Text": "Asî na ngôi sô âla lîngbi tî mû terê, amû ngangü na kölï na wâlï tî mû terê töngana kôlï na wâlï, sï âla lë sewä\nsêngê, tënë tî marä wala tî ködörösëse wala tî mâbë alîngbi tî kânga lêgë nï pëpëe. Na mbâgë tî müngö terê,\namû ngangü, lêgë ôko na kôlï na wâlï na yâ tî dutïngö tî âla ngâ na kängbïngö tî âla.\nKôlï na wâlï alîngbi tî mû terë gï töngana bê tî âla ûse kûê ayê tënë nî bîanî.\nSëwä ayeke na gündâ tî halëzo. Ni laâ, amû ngangü na letäa ngâ na âzo kûê tî tene âla bata nî ngangü.\nSura 17\nZo kûê wala lo dutï na bôsôngbi wala lo dutï lo ôko ayeke na ngangü tî wara âkûngbâ tî lo mvenî.\nAlîngbi pëpëe tî mû âkûngba tî mbênî zo na ngangü na mabôko tî lo.\nSura 18\nAmû na zo kûe zarä tî bibê, tî boro-li na tî mäbê ; ngangü sô afa atene zo kûê ayeke na zarä tî gbîan mäbê tî\nlo, wala bibê tî lo ngâ na zarä tî fa polêlê mäbê ti lo, lo ôko wala na yâ tî mbênî bûngbi, polêlê wala koiko, na\nlêgë tî fängô mbëtï, tî särängö yê, tî vöröngö nzapä ngâ na särängö ângôbo.\nSura 19\nAmû na zo kûê ngangü tî zarä tî bibê na tî särängö tënë. Sô atene alîngbi tî doroko zo pëpëe ndâli tî âbibê tî\nlo. Amû ngâ na zo kûê ngangü tî gi, tî wara na tî vûnga âsango na âkodë na âmarä lêgë kûê, na zïängö bê\npëpëe na ndö tî tënë tî âmeka.\nSura 20\nAmû na zo kûê ngangü tî zarä tî gbë lïngö, tî lï na yâ tî bôsôngbi tî sîrîrî.\nAlîngbi pëpëe tî gbû zo na ngangü tî lï na yâ tî mbênî bôsôngbi."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "e5693992d32b46beaeb1f726690d31c8",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Sura 21\nAmû na zo kûê ngangü tî sâra kua tî lëngö ködörö tî lo, wala lo mvenî wala na lêgë tî âwasêlê sô asoro âla\nyamba.\nAmû na zo kûê ngangü tî wara kua na yâ tî ndokua tî letäa, lêgë ôko na âmbâ tî lo.\nKunibê tî halëzo ayeke na gündâ tî ngangü tî awalëngö ködörö. Kunibê sô alîngbi tî fa gï na lêgë tî aboro\nsoro sô ayeke bâa gïgî ngôi na ngôi, na lêge tî gbegô mobimba ngâ na köbö soro wala na mbênî ngôbo sô\namû ngangü tî zarä tî soro.\nSura 22\nZo kûê töngana wabôso tî halëzo ayeke na ngangü na kodëkua tî bätängö terë. Alöndö na âbängö nzönî na\npekö tî ângangü tî mosoro, tî zängbingörö terë, tî ndara sô ayeke kötä yê ndâli tî nëngö terê na boro mäïngö tî\nsëterë tî lo; gï na lêgë tî gbüngö mbîrîmbîri kua tî ködörö ngâ na tî tängbïngö kua na âködörö wandë sô abäa\ndôngôngbi na môsôrô tî ködörö ôko ôko.\nSura 23\nAmû na zo kûê ngangü tî sâra kua, na zarä tî söröngö kua tî bê tî lo, na yâ tî boro ngâ na nzönî gerê tî kua.\nAlîngbi ngâ tî bata zo ngbanga tî tënë tî ponön tî särängö kua pëpëe.\nZo kûe alîngbi tî wara boro nginza tî kua sô alîngbi na kua sô lo sâra\nZo sô asâra kua alîngbî tî wara boro nginza tî kua sô alîngbi tî tene lo na âsëwä tî lo adutï na yâ tî nëngö terê.\nNa ndönî kûê, amû na lo anzîna ngangü tî sêbätängö terê.\nZo kûê awara ngangü tî kîi na âmbâ tî lo âbûngbi tî âwakua, ngâ tî lï bûngbi na âmbênî âbûngbi tî âwakua\nngbanga tî gbüngö kokö tî âla.",
-            "Image": "e5693992d32b46beaeb1f726690d31c8"
+            "Text": "Sura 21\nAmû na zo kûê ngangü tî sâra kua tî lëngö ködörö tî lo, wala lo mvenî wala na lêgë tî âwasêlê sô asoro âla\nyamba.\nAmû na zo kûê ngangü tî wara kua na yâ tî ndokua tî letäa, lêgë ôko na âmbâ tî lo.\nKunibê tî halëzo ayeke na gündâ tî ngangü tî awalëngö ködörö. Kunibê sô alîngbi tî fa gï na lêgë tî aboro\nsoro sô ayeke bâa gïgî ngôi na ngôi, na lêge tî gbegô mobimba ngâ na köbö soro wala na mbênî ngôbo sô\namû ngangü tî zarä tî soro.\nSura 22\nZo kûê töngana wabôso tî halëzo ayeke na ngangü na kodëkua tî bätängö terë. Alöndö na âbängö nzönî na\npekö tî ângangü tî mosoro, tî zängbingörö terë, tî ndara sô ayeke kötä yê ndâli tî nëngö terê na boro mäïngö tî\nsëterë tî lo; gï na lêgë tî gbüngö mbîrîmbîri kua tî ködörö ngâ na tî tängbïngö kua na âködörö wandë sô abäa\ndôngôngbi na môsôrô tî ködörö ôko ôko.\nSura 23\nAmû na zo kûê ngangü tî sâra kua, na zarä tî söröngö kua tî bê tî lo, na yâ tî boro ngâ na nzönî gerê tî kua.\nAlîngbi ngâ tî bata zo ngbanga tî tënë tî ponön tî särängö kua pëpëe.\nZo kûe alîngbi tî wara boro nginza tî kua sô alîngbi na kua sô lo sâra\nZo sô asâra kua alîngbî tî wara boro nginza tî kua sô alîngbi tî tene lo na âsëwä tî lo adutï na yâ tî nëngö terê.\nNa ndönî kûê, amû na lo anzîna ngangü tî sêbätängö terê.\nZo kûê awara ngangü tî kîi na âmbâ tî lo âbûngbi tî âwakua, ngâ tî lï bûngbi na âmbênî âbûngbi tî âwakua\nngbanga tî gbüngö kokö tî âla."
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "353e333c7a8eecf61e3110a064098b57",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Sura 24\nAmû na zo kûe ngangü tî woterë tî lo, tî sâra ngîâ ngâ. Sô atene alîngbi tî dë gï na lêgë nî längö kâpä tî kua\nngâ na âlängö tî wöngö terê sô afûta nî.\nSura 25\nZo kûê alîngbi tî wara nginza sô alîngbi na lo sï lo lë sênî tî lo, nzönî dutï tî lo ngâ na tî sewä tî lo bianî na\nlêgë tî tëngö kôbe, yüngö bongö, müngo yoro ngâ na zängbïngö terê. Amû na lo ngangü tî bâa nzönî na lêgë\ntî zangbîngö terê na ngôi sô lo du na kua pëpëe, wala na ngôi tî söngö terê wala ngbanga tî zën, wala\nngbanga tî ndü, tî kangba wala na yâ tî âmbênî ngôi sô zo nî ayeke na mbênî lêgë tî bätängö na finî tî lo\npëpëe, na pekô tî âmbênî sïökpälë sô asï na lo.\nAwâlï tî ngo na âmolengê tî âla alîngbi tî wara taâ nzönî na kua tî zängbïngö ndo. Amôlengê kûê, wala adü\nâla na yâ tî müngö terê wala adü âla da pëpëe ayeke na ngangü na nî lêgë ôko.\nSura 26\nAmû na zo kûê ngangü tî mändängö mbetï. Ayeke fûta mändängö mbëtï nî pëpëe, mbîrîmbîrî na âkêtê\ndambëtï. Mändängö kodëyê na kodëkua alîngbi tî gbû ndo kûe. Zo kûê alîngbi tî manda mbëtï na kötä\ndambëtï, gï na lêgë tî kodë tî lo na hïngängö ndo tî lo.\nFängö mbëtï alîngbi tî gue na lêgë tî kono sêterê tî âzo ngâ tî kono ndiä tî bätängö nëngö terê tî âzo . Lo\nlîngbi ngâ tî mû lêgë tî kpêngba mängö terê, vürüngö bê na sôngô na pöpö tî âködörösêse tî âmarä wala\nâmabë ndê ndê ngâ na mäïngö âkua tî bûngbi tî bêndo tî gïgî ngbanga tî bata sîrîrî.\nAwadüngö môlengê âmvenî alîngbi tî soro yamba kodë lêgé tî fängö hïngägö ndo na âmôlengê tî âla.\nSura 27",
-            "Image": "353e333c7a8eecf61e3110a064098b57"
+            "Text": "Sura 24\nAmû na zo kûe ngangü tî woterë tî lo, tî sâra ngîâ ngâ. Sô atene alîngbi tî dë gï na lêgë nî längö kâpä tî kua\nngâ na âlängö tî wöngö terê sô afûta nî.\nSura 25\nZo kûê alîngbi tî wara nginza sô alîngbi na lo sï lo lë sênî tî lo, nzönî dutï tî lo ngâ na tî sewä tî lo bianî na\nlêgë tî tëngö kôbe, yüngö bongö, müngo yoro ngâ na zängbïngö terê. Amû na lo ngangü tî bâa nzönî na lêgë\ntî zangbîngö terê na ngôi sô lo du na kua pëpëe, wala na ngôi tî söngö terê wala ngbanga tî zën, wala\nngbanga tî ndü, tî kangba wala na yâ tî âmbênî ngôi sô zo nî ayeke na mbênî lêgë tî bätängö na finî tî lo\npëpëe, na pekô tî âmbênî sïökpälë sô asï na lo.\nAwâlï tî ngo na âmolengê tî âla alîngbi tî wara taâ nzönî na kua tî zängbïngö ndo. Amôlengê kûê, wala adü\nâla na yâ tî müngö terê wala adü âla da pëpëe ayeke na ngangü na nî lêgë ôko.\nSura 26\nAmû na zo kûê ngangü tî mändängö mbetï. Ayeke fûta mändängö mbëtï nî pëpëe, mbîrîmbîrî na âkêtê\ndambëtï. Mändängö kodëyê na kodëkua alîngbi tî gbû ndo kûe. Zo kûê alîngbi tî manda mbëtï na kötä\ndambëtï, gï na lêgë tî kodë tî lo na hïngängö ndo tî lo.\nFängö mbëtï alîngbi tî gue na lêgë tî kono sêterê tî âzo ngâ tî kono ndiä tî bätängö nëngö terê tî âzo . Lo\nlîngbi ngâ tî mû lêgë tî kpêngba mängö terê, vürüngö bê na sôngô na pöpö tî âködörösêse tî âmarä wala\nâmabë ndê ndê ngâ na mäïngö âkua tî bûngbi tî bêndo tî gïgî ngbanga tî bata sîrîrî.\nAwadüngö môlengê âmvenî alîngbi tî soro yamba kodë lêgé tî fängö hïngägö ndo na âmôlengê tî âla.\nSura 27"
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "084c0d511d4d552c7746fea67cf93395",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Zo kûê ayeke na ngangü tî lë kua tî sêndâgâo tî âsöngö tî lo, tî tene lo wara âpendere yê tî ködörö tî lo na lo\nzîa mabôko na mäïngö tî âsêndâyê ngâ na lo bâa nzönî na pekô nî.\nAmû na zo ôko ôko ngangü tî sêbätängö ânzönî yê tî lo sô alîngbi tî dutï âkûngbâ wala âbibê ti lo-mvenî.\nAnzönî yê sô alîngbi tî löndö na pekô tî âkodëkua, asêndâyê, âsêndâsû wala tî sêndägâo sô lo mvenî lo sâra.\nSura 28\nTî tene âzo akpë ângangü sô afa ge sô, ayeke nzönî mbênî dôngôngbi adu da sô alîngbi tî bata nî. Dôngôngbi\nsô alîngbi tî dutï na yâ tî ködörö nî töngana na yâ tî dûnîa mobimba.\nSura 29\nZo ayeke na âhonga na mbâgë tî bôso sô lo du da sï lo mâi da yamba . Nî laâ sï alîngbi tî mû na lo lêgë tî tene\nsêterê tî lo amâi nzönî bîanî.\nNdiä alîngbi tî lë ângangü tî bätängö nëngö terê tî zo . Lo lingbi ngâ tî mû lêgë na zo ôko ôko tî kpë âmbâ tî\nlo ngâ tî tene âmbâ tî lo akpë lo.\nângangü sô na âzarä sô alîngbi ôko pëpë tî fîngi âwêsêlö, âpö, na gbegôndiä tî bûngbi tî bêndo tî gïgî\nmobimba.\nSura 30\nMbênî ködörösêse ôko pëpëe wala mbênî zo tî gïgî ôko alîngbi pëpëe tî buba lêgë tî ândiä sô afa ge na yâ tî\nmbëtï-dêpä sô.",
-            "Image": "084c0d511d4d552c7746fea67cf93395"
+            "Text": "Zo kûê ayeke na ngangü tî lë kua tî sêndâgâo tî âsöngö tî lo, tî tene lo wara âpendere yê tî ködörö tî lo na lo\nzîa mabôko na mäïngö tî âsêndâyê ngâ na lo bâa nzönî na pekô nî.\nAmû na zo ôko ôko ngangü tî sêbätängö ânzönî yê tî lo sô alîngbi tî dutï âkûngbâ wala âbibê ti lo-mvenî.\nAnzönî yê sô alîngbi tî löndö na pekô tî âkodëkua, asêndâyê, âsêndâsû wala tî sêndägâo sô lo mvenî lo sâra.\nSura 28\nTî tene âzo akpë ângangü sô afa ge sô, ayeke nzönî mbênî dôngôngbi adu da sô alîngbi tî bata nî. Dôngôngbi\nsô alîngbi tî dutï na yâ tî ködörö nî töngana na yâ tî dûnîa mobimba.\nSura 29\nZo ayeke na âhonga na mbâgë tî bôso sô lo du da sï lo mâi da yamba . Nî laâ sï alîngbi tî mû na lo lêgë tî tene\nsêterê tî lo amâi nzönî bîanî.\nNdiä alîngbi tî lë ângangü tî bätängö nëngö terê tî zo . Lo lingbi ngâ tî mû lêgë na zo ôko ôko tî kpë âmbâ tî\nlo ngâ tî tene âmbâ tî lo akpë lo.\nângangü sô na âzarä sô alîngbi ôko pëpë tî fîngi âwêsêlö, âpö, na gbegôndiä tî bûngbi tî bêndo tî gïgî\nmobimba.\nSura 30\nMbênî ködörösêse ôko pëpëe wala mbênî zo tî gïgî ôko alîngbi pëpëe tî buba lêgë tî ândiä sô afa ge na yâ tî\nmbëtï-dêpä sô."
         }
     }
 }

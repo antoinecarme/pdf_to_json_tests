@@ -1,93 +1,93 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581470161,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "0708f9102bb7d62581a099c9a88babff",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "PACHATIN LLAQTAKUNAPI RUNAQ ALLIN KANANPAQ JATUN KAMACHIKUY\n[Preamble]\nPachantin ayllu wawaq allin kausaypi kananta yuyaykuspan, kay kamachikuy\npaqarin. Runaq kausay qasi kusi kausaypi kananpaq, tukuy llakipi\nkaspapas \"justicia\" taripananpaq. Kikin runakayninta runa masinkunawan\nreqsichispa kausananpaq.\nRunaq runa kayninta sarunchasqata rikuspan, wakin ima mil lay salqa\nrunakunaq runa masinta ku'muchisqanta, waqachisqanta rikuspan, kay ancha\nsut'i kamachikuykuna rikhurin, ashwan allin, ashwan sumaq kausay runaq\ntaripananpaq; mana imamanta manchakuspa, mana yarqayta muchuspa, sut'i\nsimipi rimarispa qasi kausaypi kananpaq.\nRunapaqpuni tukuy ima allinkunapas kamasqa karqan. Chay kamasqa kasqanta\nreqsispan; \"derechon\" kasqanta yachaspan kay simikuna kamakun qharipas\nwarmipas kushkachasqalla kausanankupaq, sapa p'unchay ashwanta\njananchakuspa. Kausanankupaq: paykuna ukhupipas, llapa ayllu runa\nuldiupipas, sapanka runataqmi tukuy llakimanta qespisqalla purikunan,\nllapa \"mundo\" pachantinman qasi kausay mast'arikunanpaq.\nTeqse muyuntin \"munduq\" \"estadonkuna\" juñuykunakuspan, ancha allinta\nrimanakunku \"Organización de las Naciones Unidas\" sutita churaykukuspa.\nJina sumaqta, allinta yuyayukuspataq, ruwaspataq, juq sonqolla\nkamachinakunku yanapanakunankupaq, runaq runakayninta, qespesqa\nkayninta, tukuy \"derechunta\" junt'achinankupaq.\nChay rimasqanku junt'akunanpaqtaqmi, jatun \"Asamblea\" nisqa, ancha\nsut'inta qowanchis kay \"Declaración Universal de los Derechos Humanos\"\nqelqapi, llapa llaqtakuna ch'ullallata yuyaykuspa runaq allinkayninta\ntajyachinanpaq, chay allin kamachikuy simikuna junt 'akunanpaq.\nKaqllataqmi reqsichina, yachachina qhipa wiñay runamanpas,\nwaynakunamanpas ashwan allinta paykuna junt'achinanpaq ashwan allin\nyuyaytawanpas yapanankupaq, kikin \"nacion-ninkupipas\", pachantin\nnacionkunapipas.\nJATUN RIMANAKUYPI CHANINCHASQA KAMACHIKUY\nJUQ ÑIQEN (1)\nLlapa runan kay pachapi paqarin qispisqa, \"libre\" flisqa, allin\nkausaypi, chaninchasqa kausaypi kananpaq, yuyayniyoq, yachayniyoq runa\nkasqanman jina. Llapa runamasinwantaqmi wauqentin jina munanakunan.\nISHKAY ÑIQEN (2)\nKay jatun kamachikuyqa llapa runapaqmi, qasilla qespisqalla\npurikunanpaq, pipas kachun, mistipas, runapas, yuraqpas yanapas;\nwarmipas, qharipas. Taytachakuna mamachakunapi i-ñiqpas. Pacha Mama\nyupaychaqpas; imayna yuyaykuq runapas. May llaqtayoqpas; wajchapas,\nqhapaqpas.\nKINSA ÑIQEN (3)",
-            "Image": "0708f9102bb7d62581a099c9a88babff"
+            "Text": "PACHATIN LLAQTAKUNAPI RUNAQ ALLIN KANANPAQ JATUN KAMACHIKUY\n[Preamble]\nPachantin ayllu wawaq allin kausaypi kananta yuyaykuspan, kay kamachikuy\npaqarin. Runaq kausay qasi kusi kausaypi kananpaq, tukuy llakipi\nkaspapas \"justicia\" taripananpaq. Kikin runakayninta runa masinkunawan\nreqsichispa kausananpaq.\nRunaq runa kayninta sarunchasqata rikuspan, wakin ima mil lay salqa\nrunakunaq runa masinta ku'muchisqanta, waqachisqanta rikuspan, kay ancha\nsut'i kamachikuykuna rikhurin, ashwan allin, ashwan sumaq kausay runaq\ntaripananpaq; mana imamanta manchakuspa, mana yarqayta muchuspa, sut'i\nsimipi rimarispa qasi kausaypi kananpaq.\nRunapaqpuni tukuy ima allinkunapas kamasqa karqan. Chay kamasqa kasqanta\nreqsispan; \"derechon\" kasqanta yachaspan kay simikuna kamakun qharipas\nwarmipas kushkachasqalla kausanankupaq, sapa p'unchay ashwanta\njananchakuspa. Kausanankupaq: paykuna ukhupipas, llapa ayllu runa\nuldiupipas, sapanka runataqmi tukuy llakimanta qespisqalla purikunan,\nllapa \"mundo\" pachantinman qasi kausay mast'arikunanpaq.\nTeqse muyuntin \"munduq\" \"estadonkuna\" juñuykunakuspan, ancha allinta\nrimanakunku \"Organización de las Naciones Unidas\" sutita churaykukuspa.\nJina sumaqta, allinta yuyayukuspataq, ruwaspataq, juq sonqolla\nkamachinakunku yanapanakunankupaq, runaq runakayninta, qespesqa\nkayninta, tukuy \"derechunta\" junt'achinankupaq.\nChay rimasqanku junt'akunanpaqtaqmi, jatun \"Asamblea\" nisqa, ancha\nsut'inta qowanchis kay \"Declaración Universal de los Derechos Humanos\"\nqelqapi, llapa llaqtakuna ch'ullallata yuyaykuspa runaq allinkayninta\ntajyachinanpaq, chay allin kamachikuy simikuna junt 'akunanpaq.\nKaqllataqmi reqsichina, yachachina qhipa wiñay runamanpas,\nwaynakunamanpas ashwan allinta paykuna junt'achinanpaq ashwan allin\nyuyaytawanpas yapanankupaq, kikin \"nacion-ninkupipas\", pachantin\nnacionkunapipas.\nJATUN RIMANAKUYPI CHANINCHASQA KAMACHIKUY\nJUQ ÑIQEN (1)\nLlapa runan kay pachapi paqarin qispisqa, \"libre\" flisqa, allin\nkausaypi, chaninchasqa kausaypi kananpaq, yuyayniyoq, yachayniyoq runa\nkasqanman jina. Llapa runamasinwantaqmi wauqentin jina munanakunan.\nISHKAY ÑIQEN (2)\nKay jatun kamachikuyqa llapa runapaqmi, qasilla qespisqalla\npurikunanpaq, pipas kachun, mistipas, runapas, yuraqpas yanapas;\nwarmipas, qharipas. Taytachakuna mamachakunapi i-ñiqpas. Pacha Mama\nyupaychaqpas; imayna yuyaykuq runapas. May llaqtayoqpas; wajchapas,\nqhapaqpas.\nKINSA ÑIQEN (3)"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "b5e2bdd312911465f7e23db7cd2b18f5",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Llapan runan kausaypachapaq kamasqa, mana piqpa rimapayasqantaqmi\npurikunan kausanan p 'unchaykama.\nTAWA ÑIQEN (4)\nManan pipas runaq chitasqan kamachipi puriyta atinchu. Runawan\nyanachikuyqa unayñan tukukapun, kay \"Declaración de los Derechos\nHumanostaq\" chaninchan chay tukukuyninta, wiñaypaq. Yanachikuyqa\nqonqaypachaman churasqan kapun.\nPHISQA ÑIQEN (5)\nManan pipas, peqpapas, k'irisqan, muchuchisqan, k'umuchisqan kananchu.\nSOQTA ÑIQEN (6)\nLlapa runaq \"derechunmi\", maypipas runa jina \"respetasqa\" kananpaq.\nQANCHIS ÑIQEN (7)\nLeypaq-qa, jatun kamachikuypaq-qa llapa runapas kikillan, \"igual-lían\nkanchis; mana pitapas ajílaspa, mana pitapas t'aqarparispa.\nPUSAQ ÑIQEN (8)\nLlapa runapaq churasqan sapanka \"nacionpi\", jatun llaqtapi\n\"tribunalkuna\", \"leywan\", \"amparakunanpaq\" piña mayña runakayninta\nsarunchayta munaqtinpas.\nISQON ÑIQEN (9)\nManan pipas yanqa qasinmantaqa muchuy wasipi wesq'asqapas, Ilaqtanmanta\nqarqosqapas kayta atinchu.\nCHUNKA ÑIQEN (10)\nLlapa runapas, imamantaña juchachasqa kaspapas, \"tribunalpa\" uyarisqanmi\nkanan; chayman jina juchayoq kasqanpas, mana juchayoq kasqanpaq\nyachakunanpaq.\nCHUNKA JUQNIYOQ ÑIQEN (11)\nJayk'an juchachasqa runaq-qa, kanmi \"derechon\" manan juchayoqcho kani,\nninanpaq \"justicia\" taripanankama.\nAllin ch'uyaman \"justicia\" chayaspa, ima muchuymanpas churana, juchanman\njina.\nCHUNKA ISHKAYNIYOQ ÑIQEN (12)\nManan piqpa imayna kausakusqantapas tapupakuyta atinchischo. Manataqmi\nimaynatas warminwan, wawankunawan tiyan chaytapas yachayta\nmunananchischu. Manan runaq allin kasqanta, \"honranta\", allin runa\nkasqanta panpachanachu; Chaykuna ruwasqamantaqa \"leymi\" muchuchinan.\nChay tukuywanpis, manan pipas qelqa apachisqanchista, \"carta\"\nchaskinanchista pakallapi, mana yachasqanchis \"liita\" yachayta atinchu.\nLlapa runan chay mana chaninmanta \"libre\" l:anan, \"leypa\" \"protejisqan",
-            "Image": "b5e2bdd312911465f7e23db7cd2b18f5"
+            "Text": "Llapan runan kausaypachapaq kamasqa, mana piqpa rimapayasqantaqmi\npurikunan kausanan p 'unchaykama.\nTAWA ÑIQEN (4)\nManan pipas runaq chitasqan kamachipi puriyta atinchu. Runawan\nyanachikuyqa unayñan tukukapun, kay \"Declaración de los Derechos\nHumanostaq\" chaninchan chay tukukuyninta, wiñaypaq. Yanachikuyqa\nqonqaypachaman churasqan kapun.\nPHISQA ÑIQEN (5)\nManan pipas, peqpapas, k'irisqan, muchuchisqan, k'umuchisqan kananchu.\nSOQTA ÑIQEN (6)\nLlapa runaq \"derechunmi\", maypipas runa jina \"respetasqa\" kananpaq.\nQANCHIS ÑIQEN (7)\nLeypaq-qa, jatun kamachikuypaq-qa llapa runapas kikillan, \"igual-lían\nkanchis; mana pitapas ajílaspa, mana pitapas t'aqarparispa.\nPUSAQ ÑIQEN (8)\nLlapa runapaq churasqan sapanka \"nacionpi\", jatun llaqtapi\n\"tribunalkuna\", \"leywan\", \"amparakunanpaq\" piña mayña runakayninta\nsarunchayta munaqtinpas.\nISQON ÑIQEN (9)\nManan pipas yanqa qasinmantaqa muchuy wasipi wesq'asqapas, Ilaqtanmanta\nqarqosqapas kayta atinchu.\nCHUNKA ÑIQEN (10)\nLlapa runapas, imamantaña juchachasqa kaspapas, \"tribunalpa\" uyarisqanmi\nkanan; chayman jina juchayoq kasqanpas, mana juchayoq kasqanpaq\nyachakunanpaq.\nCHUNKA JUQNIYOQ ÑIQEN (11)\nJayk'an juchachasqa runaq-qa, kanmi \"derechon\" manan juchayoqcho kani,\nninanpaq \"justicia\" taripanankama.\nAllin ch'uyaman \"justicia\" chayaspa, ima muchuymanpas churana, juchanman\njina.\nCHUNKA ISHKAYNIYOQ ÑIQEN (12)\nManan piqpa imayna kausakusqantapas tapupakuyta atinchischo. Manataqmi\nimaynatas warminwan, wawankunawan tiyan chaytapas yachayta\nmunananchischu. Manan runaq allin kasqanta, \"honranta\", allin runa\nkasqanta panpachanachu; Chaykuna ruwasqamantaqa \"leymi\" muchuchinan.\nChay tukuywanpis, manan pipas qelqa apachisqanchista, \"carta\"\nchaskinanchista pakallapi, mana yachasqanchis \"liita\" yachayta atinchu.\nLlapa runan chay mana chaninmanta \"libre\" l:anan, \"leypa\" \"protejisqan"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "b384b5b462b2817516818d04a7de34ba",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "CHUNKA KINSAYOQ ÑIQEN (13)\nLlapa runan may munasqantapas purikunan, tiyananpaqtaq may llaqtatapas,\nmay cheqastapas aj llakunan.\n\"Nacion-ninmanta\" lloqsispapas kaqmi kutiykampuyta atillantaq.\nCHUNKA TAWAYOQ ÑIQEN (14)\nCheqnisqaña, qatiykachasqaña kaspapas, piqpa wasinpipas, maypipas\npakuykukuyta atinmi, may \"nacionpipas\", may llaqtapipas, may\ncheqaspipas.\nManan \"común\" juchayuqman aypanchu kay \"derecho\".\nCHUNKA PHISQAYOQ ÑIQEN (15)\nLlapa runakunaq \"derechunmí juj nacionalidadniyoq\" kay. Llapataqmi\nmayqen naciontapas tiyananpaq ajllakuyta atin. Chaymantaqa manan pipas\njark'akuyta atinchu.\nManataqmi pipas, maypas \"nacionalidadninchista\" qechuyta atinchu, nitaq\njuj \"nacionalidad\" aj llakunanchista tatichiyta atinchu.\nCHUNKA SOQTAYOQ ÑIQEN (16)\nQharipas warmipas junt'asqa watanman chayaspaqa \"casarakuyta\" atin\npiwanpas maywanpas, mana piqpa jark'akusqan, yuraqwanña yanawanña,\npaykuna pura tinkuku, munanakunku chayqa.\nWarmi qhari wawakunantin tiyaspataqmi allin rimanakuypi tiyananku, kikin\n\"derechuyoq\" juj sonqolla tiyaspapis, t'aqanakuspapis.\n[Missing?]\nCHUNKA QANCHISNIYOQ ÑIQEN (17)\nLlapa runaqmi kanan jallp'apas, wasipas, tukuy ima kausaypas, pay\nsapanpa, llank'ananpaqpas, wakipi llank'ananpaqpas.\nManan piqpa kaqninpas qechuy atikunchu.\nCHUNKA PUSAQNIYOQ ÑIQEN (18)\nLlapa runan yuyaykukuyta, jamut'ayta atin yuyaychakusqanman jina. Manan\npipas chaytaqa jark'ayta atinmanchu. Kaqtaqmi ima \"religionpipas\"\nkausayta atin tukuy runaq yachashasqan.\nCHUNKA ISQONNIYOQ ÑIQEN (19)\nTukuy runapas umanpi yuyaykusqantan rimarinan manapitapas manchakuspa.\nYuyaykusqantataqmi pachantin runaman, teqsi muyuntin, lluy \"munduntin\"\nrunaman riqsichinan yachananpaq. Sut'in rimaqtan pacha kamaq taytachapas\nyanapan. Chay yuyaykukusqanmantaqa, ruwasqanmantaqa manan pipas\ncheqniytapas, juchachaytapas atinchu.\nISKAYCHUNKA ÑIQEN (20)",
-            "Image": "b384b5b462b2817516818d04a7de34ba"
+            "Text": "CHUNKA KINSAYOQ ÑIQEN (13)\nLlapa runan may munasqantapas purikunan, tiyananpaqtaq may llaqtatapas,\nmay cheqastapas aj llakunan.\n\"Nacion-ninmanta\" lloqsispapas kaqmi kutiykampuyta atillantaq.\nCHUNKA TAWAYOQ ÑIQEN (14)\nCheqnisqaña, qatiykachasqaña kaspapas, piqpa wasinpipas, maypipas\npakuykukuyta atinmi, may \"nacionpipas\", may llaqtapipas, may\ncheqaspipas.\nManan \"común\" juchayuqman aypanchu kay \"derecho\".\nCHUNKA PHISQAYOQ ÑIQEN (15)\nLlapa runakunaq \"derechunmí juj nacionalidadniyoq\" kay. Llapataqmi\nmayqen naciontapas tiyananpaq ajllakuyta atin. Chaymantaqa manan pipas\njark'akuyta atinchu.\nManataqmi pipas, maypas \"nacionalidadninchista\" qechuyta atinchu, nitaq\njuj \"nacionalidad\" aj llakunanchista tatichiyta atinchu.\nCHUNKA SOQTAYOQ ÑIQEN (16)\nQharipas warmipas junt'asqa watanman chayaspaqa \"casarakuyta\" atin\npiwanpas maywanpas, mana piqpa jark'akusqan, yuraqwanña yanawanña,\npaykuna pura tinkuku, munanakunku chayqa.\nWarmi qhari wawakunantin tiyaspataqmi allin rimanakuypi tiyananku, kikin\n\"derechuyoq\" juj sonqolla tiyaspapis, t'aqanakuspapis.\n[Missing?]\nCHUNKA QANCHISNIYOQ ÑIQEN (17)\nLlapa runaqmi kanan jallp'apas, wasipas, tukuy ima kausaypas, pay\nsapanpa, llank'ananpaqpas, wakipi llank'ananpaqpas.\nManan piqpa kaqninpas qechuy atikunchu.\nCHUNKA PUSAQNIYOQ ÑIQEN (18)\nLlapa runan yuyaykukuyta, jamut'ayta atin yuyaychakusqanman jina. Manan\npipas chaytaqa jark'ayta atinmanchu. Kaqtaqmi ima \"religionpipas\"\nkausayta atin tukuy runaq yachashasqan.\nCHUNKA ISQONNIYOQ ÑIQEN (19)\nTukuy runapas umanpi yuyaykusqantan rimarinan manapitapas manchakuspa.\nYuyaykusqantataqmi pachantin runaman, teqsi muyuntin, lluy \"munduntin\"\nrunaman riqsichinan yachananpaq. Sut'in rimaqtan pacha kamaq taytachapas\nyanapan. Chay yuyaykukusqanmantaqa, ruwasqanmantaqa manan pipas\ncheqniytapas, juchachaytapas atinchu.\nISKAYCHUNKA ÑIQEN (20)"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "5780bf87bfc9a700084cf6acba650f39",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Pi runapas, may runapas juñunakuytaqa atinmi. Runa juñunakuyqa\nkananpunin; allin rimanakuypaq, sumaq rimanakuypaq-qa.\nIchaqa, manataqmi pipas tanqasqaqa, mat'isqaqa, ima juñunakuymanpas\njaykunanchu.\nISKAYCHUNKA JUJNIYOQ ÑIQEN (21)\nLlapa runapas atinmi llaqtanta \"nacionninta\" kamachiyta; chaypaq\najílasqa, chaypaq churasqa kaspaqa; pay kikinpas, mashki mink'anta\nchuraspapas.\nKushkallan llapa runapas kanchis, llapataqmi kamachikuq kaytapas atinchi\nLlaqtaq munayninmi kamachikuqtaqa jurqon, llapa runamante jujta ajílaspa\nsumaq jatun rimanakuypi, \"eleccionispí ajílaspa.\n[Missing?]\nISHKAY CHUNKA ISHKAYNIYOQ ÑIQEN (22)\nLlapa runan, imaynan kausasqanman jina llaqtanwan, \"nacionninwan\"\nqochikunan mikhuytapas, tukuy ima kausaytapas; yachaytawanpas,\nyachayninman yapananpaq, chaywantaq jananchasqa runa kananpaq.\nISHKAYCHUNKA KINSAYOQ ÑIQEN (23)\nLlapa runapaq kamasqan llank'ayqa, sapanka runataqmi ajllakunan iman\nmunasqan llank'ayta.\nTukuymi llank'ananpaq yanapasqa kanan. Yanqa, qasi kaytaqa mana runa\natinchu. Runaqa chanintan, llank'asqanman jina chaskinan \"salariontaqa\".\nLlapa runan chaskinan kallpanpa chanintaqa, paypa kausananpaq jina;\nwarminpa, wawankunaq kausananpaq jina. Manachaytaqmi llaqta runa\nyanapanan.\nTukuy runan \"sindicato\" \"organizayta\" atin; jinallataq \"sindicalizado\"\n\"derechun\" \"respetachinanpaq\".\nISHKAYCHUNKA TAWAYOQ ÑIQEN (24)\nLlapa llank'aq runapaqmi samana p'unchayqa churasqa. Kikillantaqmi,\nkaqllataqmi \"vacaciones\" ñisqa, sapa wata aslíapas juj killa samayniyoq\nkanan mana llankaspa \"pagasqa\".\nISHKAYCHUNKA PHISQAYOQ ÑIQEN (25)\nLlapa runapaqmi kanan allin kausay, kaqllataq warminpaqpas,\nwawankunapaqpas. Kananmi mikliunanpas, wasinpas, p 'achanpas; kanantaqmi\njanpiqnin \"medicupas\". \"Seguro Socialpas\" kananmi paypaq-qa mana\nllank'ayta atiqtin, onqoqtin; warmin wañuqtin, ima llakipiña kaqtinpas.\nWachakoq warmiqa rikusqan qhawasqan kanan. Wawakunapas kaqllataqmi\nkanan; \"Casadoq\" wawanpas, mana \"casadoq\" wawanpas.\nISHKAYCHUNKA SOQTAYOQ ÑIQEN (26)",
-            "Image": "5780bf87bfc9a700084cf6acba650f39"
+            "Text": "Pi runapas, may runapas juñunakuytaqa atinmi. Runa juñunakuyqa\nkananpunin; allin rimanakuypaq, sumaq rimanakuypaq-qa.\nIchaqa, manataqmi pipas tanqasqaqa, mat'isqaqa, ima juñunakuymanpas\njaykunanchu.\nISKAYCHUNKA JUJNIYOQ ÑIQEN (21)\nLlapa runapas atinmi llaqtanta \"nacionninta\" kamachiyta; chaypaq\najílasqa, chaypaq churasqa kaspaqa; pay kikinpas, mashki mink'anta\nchuraspapas.\nKushkallan llapa runapas kanchis, llapataqmi kamachikuq kaytapas atinchi\nLlaqtaq munayninmi kamachikuqtaqa jurqon, llapa runamante jujta ajílaspa\nsumaq jatun rimanakuypi, \"eleccionispí ajílaspa.\n[Missing?]\nISHKAY CHUNKA ISHKAYNIYOQ ÑIQEN (22)\nLlapa runan, imaynan kausasqanman jina llaqtanwan, \"nacionninwan\"\nqochikunan mikhuytapas, tukuy ima kausaytapas; yachaytawanpas,\nyachayninman yapananpaq, chaywantaq jananchasqa runa kananpaq.\nISHKAYCHUNKA KINSAYOQ ÑIQEN (23)\nLlapa runapaq kamasqan llank'ayqa, sapanka runataqmi ajllakunan iman\nmunasqan llank'ayta.\nTukuymi llank'ananpaq yanapasqa kanan. Yanqa, qasi kaytaqa mana runa\natinchu. Runaqa chanintan, llank'asqanman jina chaskinan \"salariontaqa\".\nLlapa runan chaskinan kallpanpa chanintaqa, paypa kausananpaq jina;\nwarminpa, wawankunaq kausananpaq jina. Manachaytaqmi llaqta runa\nyanapanan.\nTukuy runan \"sindicato\" \"organizayta\" atin; jinallataq \"sindicalizado\"\n\"derechun\" \"respetachinanpaq\".\nISHKAYCHUNKA TAWAYOQ ÑIQEN (24)\nLlapa llank'aq runapaqmi samana p'unchayqa churasqa. Kikillantaqmi,\nkaqllataqmi \"vacaciones\" ñisqa, sapa wata aslíapas juj killa samayniyoq\nkanan mana llankaspa \"pagasqa\".\nISHKAYCHUNKA PHISQAYOQ ÑIQEN (25)\nLlapa runapaqmi kanan allin kausay, kaqllataq warminpaqpas,\nwawankunapaqpas. Kananmi mikliunanpas, wasinpas, p 'achanpas; kanantaqmi\njanpiqnin \"medicupas\". \"Seguro Socialpas\" kananmi paypaq-qa mana\nllank'ayta atiqtin, onqoqtin; warmin wañuqtin, ima llakipiña kaqtinpas.\nWachakoq warmiqa rikusqan qhawasqan kanan. Wawakunapas kaqllataqmi\nkanan; \"Casadoq\" wawanpas, mana \"casadoq\" wawanpas.\nISHKAYCHUNKA SOQTAYOQ ÑIQEN (26)"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "fe928c06a33ff4b0a5119231da969430",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Tukuy runapaq churasqan \"escuela\", \"colegio\", \"educación\", llapataqmi\nchaykunata chaskinan mana qolqellamanta.\nJatun yachaywasimantaqmi jaykunan ashwan umayuq, yuyayniyoq, jamautayoq\njina.\n\"Educacionqa\" llapa runaq ashwan allinruna kananpaqmi, llapa\nrunamasintin munanakunanpaqmj, maymantaña kaqtinpas, may llaqtayuqña\nkaqtinpas.\nISHKAYCHUNKA QANCHISNIYOQ ÑIQEN (27)\nLlapa runan reqsinan jatun yachayniyoqpa yachayninkunata, chaymi\n\"ciencia\" nisqa, llapan reqsinan tukuy sumaq ruwaykunata: \"artes\"\nsutiyoq.\nLlapa runan yachanan, aypanan jatun yachay, kausay yachay, ashwan jatun\n\"filosofía\" nisqa jamutay kuraq yachayta.\nISHKAYCHUNKA PUSAQNIYOQ ÑIQEN (28)\nSapanka runan munannanchis kay jatun kamachikuy simikunaq juntakunanta,\nllapa pachantin, \"munduntin\" llaqtakunapi.\nISHKAYCHUNKA ISHQONNIYOQ ÑIQEN (29)\nAyllunchispi kausaq runataqa, llaqtanchis runataqa, anchatan, munana,\nyupaychana; ayllun, llaqtan sapanka runatapas uywawanchis, wawanmi\nkanchis.\n[Missing?]\n[Missing?]\nKINSACHUNKA ÑIQEN (30)\nKay jatun kamachikuy simikunaqa manan juj runallapaqchu; manataqmi\n\"nacionkunaq\" kamacheqkunallapaqchu, llapa runaq allinninpaqmi,\npachantin llaqtakunapitaqmi junt'akunan.\nÑAUPAQ NISQA SIMIKUNA\nPerú \"paisninchisqa\" \"munduntinpi paiskunamanta\" ashwan ashkha\nrijchayniyoqmi, chay raykupischá llapa runaq sonqonman chayan,\nchaypistaqchá ch'ulla kausayllapi kan runaq llaqtan.\nKay \"nacionninchispin\" imaymana rijch 'aq runapas; imaymana simi\nrimaqpas; imaymana yachayniyoqpas juñuykunakun kushka, ancha unay\nwatakunamantaña. Yunkayoq, qhiswayoq, punakunayoq ancha jatun jallp'api.\nChaymi kay \"patriapi\" tiyaq \"peruano\" runamasinchiskunaqa, kausayninku\nallin ñanman churay munaqkunaqa, sapa kuti, sapa p'unchay sumaq\nrimanakuypi kanan, sonqonkuq ashwan allinta tinkunanpaq, ñaupa pacha\nallin runakuna jina kausananpaq.\nKunan kamachiqninchis \"gobiernon\" musoq kausayman jaykunanchista munan;\nashwan k'apaj chaninchasqa allin kausaypi kananchista munan. Jinataqmi",
-            "Image": "fe928c06a33ff4b0a5119231da969430"
+            "Text": "Tukuy runapaq churasqan \"escuela\", \"colegio\", \"educación\", llapataqmi\nchaykunata chaskinan mana qolqellamanta.\nJatun yachaywasimantaqmi jaykunan ashwan umayuq, yuyayniyoq, jamautayoq\njina.\n\"Educacionqa\" llapa runaq ashwan allinruna kananpaqmi, llapa\nrunamasintin munanakunanpaqmj, maymantaña kaqtinpas, may llaqtayuqña\nkaqtinpas.\nISHKAYCHUNKA QANCHISNIYOQ ÑIQEN (27)\nLlapa runan reqsinan jatun yachayniyoqpa yachayninkunata, chaymi\n\"ciencia\" nisqa, llapan reqsinan tukuy sumaq ruwaykunata: \"artes\"\nsutiyoq.\nLlapa runan yachanan, aypanan jatun yachay, kausay yachay, ashwan jatun\n\"filosofía\" nisqa jamutay kuraq yachayta.\nISHKAYCHUNKA PUSAQNIYOQ ÑIQEN (28)\nSapanka runan munannanchis kay jatun kamachikuy simikunaq juntakunanta,\nllapa pachantin, \"munduntin\" llaqtakunapi.\nISHKAYCHUNKA ISHQONNIYOQ ÑIQEN (29)\nAyllunchispi kausaq runataqa, llaqtanchis runataqa, anchatan, munana,\nyupaychana; ayllun, llaqtan sapanka runatapas uywawanchis, wawanmi\nkanchis.\n[Missing?]\n[Missing?]\nKINSACHUNKA ÑIQEN (30)\nKay jatun kamachikuy simikunaqa manan juj runallapaqchu; manataqmi\n\"nacionkunaq\" kamacheqkunallapaqchu, llapa runaq allinninpaqmi,\npachantin llaqtakunapitaqmi junt'akunan.\nÑAUPAQ NISQA SIMIKUNA\nPerú \"paisninchisqa\" \"munduntinpi paiskunamanta\" ashwan ashkha\nrijchayniyoqmi, chay raykupischá llapa runaq sonqonman chayan,\nchaypistaqchá ch'ulla kausayllapi kan runaq llaqtan.\nKay \"nacionninchispin\" imaymana rijch 'aq runapas; imaymana simi\nrimaqpas; imaymana yachayniyoqpas juñuykunakun kushka, ancha unay\nwatakunamantaña. Yunkayoq, qhiswayoq, punakunayoq ancha jatun jallp'api.\nChaymi kay \"patriapi\" tiyaq \"peruano\" runamasinchiskunaqa, kausayninku\nallin ñanman churay munaqkunaqa, sapa kuti, sapa p'unchay sumaq\nrimanakuypi kanan, sonqonkuq ashwan allinta tinkunanpaq, ñaupa pacha\nallin runakuna jina kausananpaq.\nKunan kamachiqninchis \"gobiernon\" musoq kausayman jaykunanchista munan;\nashwan k'apaj chaninchasqa allin kausaypi kananchista munan. Jinataqmi"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "e66e67b7b83fc5ebba01e15f8bb5f2b7",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "juñunaykusqa \"nacionkunata\", \"Naciones Unidas\" nisqata, tawachunka\nwatanpi, jaywarin kay runasimiman t'ijrasqa JATUN KAMACHIKUYTA,\n\"Declaración Universal de los Derechos Humanos\" nisqata.\nWakin pisi runakunallaq rimasqan simikunamanwanpas t'ijrakunmi kay\nnisqanchis Jatun Kamachikuyqa, mana piqpa kausaynin, mana piqpa\nyachaynin tanqasqa, wijch'urparisqa kananpaq; llapa jatun suyunchispi\ntantaykusqa llaqtakunaq jananchakunanpaq. Kayta ruwaspan\n\"gobiernonchispa\" allin yuyaykusqanta, tukuy sonqota churaspa, Perú\nkamachisqanta sut 'inchasun. Runasimipi rimaspan pachantin llaqtakunawan\nrimanakusun.",
-            "Image": "e66e67b7b83fc5ebba01e15f8bb5f2b7"
+            "Text": "juñunaykusqa \"nacionkunata\", \"Naciones Unidas\" nisqata, tawachunka\nwatanpi, jaywarin kay runasimiman t'ijrasqa JATUN KAMACHIKUYTA,\n\"Declaración Universal de los Derechos Humanos\" nisqata.\nWakin pisi runakunallaq rimasqan simikunamanwanpas t'ijrakunmi kay\nnisqanchis Jatun Kamachikuyqa, mana piqpa kausaynin, mana piqpa\nyachaynin tanqasqa, wijch'urparisqa kananpaq; llapa jatun suyunchispi\ntantaykusqa llaqtakunaq jananchakunanpaq. Kayta ruwaspan\n\"gobiernonchispa\" allin yuyaykusqanta, tukuy sonqota churaspa, Perú\nkamachisqanta sut 'inchasun. Runasimipi rimaspan pachantin llaqtakunawan\nrimanakusun."
         }
     }
 }

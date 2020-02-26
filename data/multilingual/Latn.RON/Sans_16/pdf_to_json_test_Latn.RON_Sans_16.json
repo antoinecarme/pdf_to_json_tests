@@ -1,141 +1,141 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581470413,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
-            "Index": 0,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "DECLARAȚIA UNIVERSALĂ A DREPTURILOR OMULUI\nPreambul\nConsiderând că recunoașterea demnității inerente tuturor membrilor familiei umane și a drepturilor lor\negale și inalienabile constituie fundamentul libertății, dreptății și păcii în lume,\nConsiderând că ignorarea și disprețuirea drepturilor omului au dus la acte de barbarie care revoltă\nconștiința omenirii și că făurirea unei lumi în care ființele umane se vor bucura de libertatea cuvântului și a\nconvingerilor și vor fi eliberate de teamă și mizerie a fost proclamată drept cea mai înaltă aspirație a\noamenilor,\nConsiderând că este esențial ca drepturile omului să fie ocrotite de autoritatea legii pentru ca omul să nu fie\nsilit să recurgă, ca soluție extremă, la revoltă împotriva tiraniei și asupririi,\nConsiderând că este esențial a se încuraja dezvoltarea relațiilor prietenești între națiuni,\nConsiderând că în Cartă popoarele Organizației Națiunilor Unite au proclamat din nou credința lor în\ndrepturile fundamentale ale omului, în demnitatea și în valoarea persoanei umane, drepturi egale pentru\nbărbați și femei și că au hotărât să favorizeze progresul social și îmbunătățirea condițiilor de viață în\ncadrul unei libertăți mai mari,\nConsiderând că statele membre s‐au angajat să promoveze în colaborare cu Organizația Națiunilor Unite\nrespectul universal și efectiv față de drepturile omului și libertățile fundamentale, precum și respectarea lor\nuniversală și efectivă,\nConsiderând că o concepție comună despre aceste drepturi și libertăți este de cea mai mare importanță\npentru realizarea deplină a acestui angajament,",
-            "Image": "9f9683c0bde6875374f7bd9854767455"
+            "Image": "9f9683c0bde6875374f7bd9854767455",
+            "Index": 0,
+            "Label": "1",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "DECLARAȚIA UNIVERSALĂ A DREPTURILOR OMULUI\nPreambul\nConsiderând că recunoașterea demnității inerente tuturor membrilor familiei umane și a drepturilor lor\negale și inalienabile constituie fundamentul libertății, dreptății și păcii în lume,\nConsiderând că ignorarea și disprețuirea drepturilor omului au dus la acte de barbarie care revoltă\nconștiința omenirii și că făurirea unei lumi în care ființele umane se vor bucura de libertatea cuvântului și a\nconvingerilor și vor fi eliberate de teamă și mizerie a fost proclamată drept cea mai înaltă aspirație a\noamenilor,\nConsiderând că este esențial ca drepturile omului să fie ocrotite de autoritatea legii pentru ca omul să nu fie\nsilit să recurgă, ca soluție extremă, la revoltă împotriva tiraniei și asupririi,\nConsiderând că este esențial a se încuraja dezvoltarea relațiilor prietenești între națiuni,\nConsiderând că în Cartă popoarele Organizației Națiunilor Unite au proclamat din nou credința lor în\ndrepturile fundamentale ale omului, în demnitatea și în valoarea persoanei umane, drepturi egale pentru\nbărbați și femei și că au hotărât să favorizeze progresul social și îmbunătățirea condițiilor de viață în\ncadrul unei libertăți mai mari,\nConsiderând că statele membre s‐au angajat să promoveze în colaborare cu Organizația Națiunilor Unite\nrespectul universal și efectiv față de drepturile omului și libertățile fundamentale, precum și respectarea lor\nuniversală și efectivă,\nConsiderând că o concepție comună despre aceste drepturi și libertăți este de cea mai mare importanță\npentru realizarea deplină a acestui angajament,"
         },
         "1": {
-            "Label": "2",
-            "Index": 1,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "ADUNAREA GENERALĂ proclamă\nprezenta DECLARAȚIE UNIVERSALĂ A DREPTURILOR OMULUI, ca ideal comun spre care trebuie să\ntindă toate popoarele și toate națiunile, pentru ca toate persoanele și toate organele societății să se\nstrăduiască, având această Declarație permanent în minte, ca prin învățătură și educație să dezvolte\nrespectul pentru aceste drepturi și libertăți și să asigure prin măsuri progresive, de ordin național și\ninternațional, recunoașterea și aplicarea lor universală și efectivă, atât în sânul popoarelor statelor membre,\ncât și al celor din teritoriile aflate sub jurisdicția lor.\nArticolul 1\nToate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și\nconștiință și trebuie să se comporte unele față de altele în spiritul fraternității.\nArticolul 2\nFiecare om se poate prevala de toate drepturile și libertățile proclamate în prezenta Declarație fără nici un\nfel de deosebire ca, de pildă, deosebirea de rasă, culoare, sex, limbă, religie, opinie politică sau orice altă\nopinie, de origine națională sau socială, avere, naștere sau orice alte împrejurări.\nÎn afară de aceasta, nu se va face nici o deosebire după statutul politic, juridic sau internațional al țării sau\nal teritoriului de care ține o persoană, fie că această țară sau teritoriu sunt independente, sub tutelă,\nneautonome sau supuse vreunei alte limitări a suveranității.\nArticolul 3\nOrice ființă umană are dreptul la viață, la libertate și la securitatea persoanei sale.\nArticolul 4",
-            "Image": "c33f38d1cfd80f13e308a8084db025f9"
+            "Image": "c33f38d1cfd80f13e308a8084db025f9",
+            "Index": 1,
+            "Label": "2",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "ADUNAREA GENERALĂ proclamă\nprezenta DECLARAȚIE UNIVERSALĂ A DREPTURILOR OMULUI, ca ideal comun spre care trebuie să\ntindă toate popoarele și toate națiunile, pentru ca toate persoanele și toate organele societății să se\nstrăduiască, având această Declarație permanent în minte, ca prin învățătură și educație să dezvolte\nrespectul pentru aceste drepturi și libertăți și să asigure prin măsuri progresive, de ordin național și\ninternațional, recunoașterea și aplicarea lor universală și efectivă, atât în sânul popoarelor statelor membre,\ncât și al celor din teritoriile aflate sub jurisdicția lor.\nArticolul 1\nToate ființele umane se nasc libere și egale în demnitate și în drepturi. Ele sunt înzestrate cu rațiune și\nconștiință și trebuie să se comporte unele față de altele în spiritul fraternității.\nArticolul 2\nFiecare om se poate prevala de toate drepturile și libertățile proclamate în prezenta Declarație fără nici un\nfel de deosebire ca, de pildă, deosebirea de rasă, culoare, sex, limbă, religie, opinie politică sau orice altă\nopinie, de origine națională sau socială, avere, naștere sau orice alte împrejurări.\nÎn afară de aceasta, nu se va face nici o deosebire după statutul politic, juridic sau internațional al țării sau\nal teritoriului de care ține o persoană, fie că această țară sau teritoriu sunt independente, sub tutelă,\nneautonome sau supuse vreunei alte limitări a suveranității.\nArticolul 3\nOrice ființă umană are dreptul la viață, la libertate și la securitatea persoanei sale.\nArticolul 4"
         },
         "2": {
-            "Label": "3",
-            "Index": 2,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Nimeni nu va fi ținut în sclavie, nici în servitute; sclavajul și comerțul cu sclavi sunt interzise sub toate\nformele lor.\nArticolul 5\nNimeni nu va fi supus la torturi, nici la pedepse sau tratamente crude, inumane sau degradante.\nArticolul 6\nFiecare om are dreptul să i se recunoască pretutindeni personalitatea juridică.\nArticolul 7\nToți oamenii sunt egali în fața legii și au, fără nici o deosebire, dreptul la o egală protecție a legii. Toți\noamenii au dreptul la o protecție egală împotriva oricărei discriminări care ar viola prezenta Declarație și\nîmpotriva oricărei provocări la o asemenea discriminare.\nArticolul 8\nOrice persoană are dreptul la satisfacția efectivă din partea instanțelor juridice naționale competente\nîmpotriva actelor care violează drepturile fundamentale ce‐i sunt recunoscute prin constituție sau lege.\nArticolul 9\nNimeni nu trebuie să fie arestat, deținut sau exilat în mod arbitrar.\nArticolul 10\nOrice persoană are dreptul în deplină egalitate de a fi audiată în mod echitabil și public de către un tribunal\nindependent și imparțial care va hotărî fie asupra drepturilor și obligațiilor sale, fie asupra temeiniciei\noricărei acuzări în materie penală îndreptată împotriva sa.",
-            "Image": "3cab80606338be31c4ecd0f7599a6321"
+            "Image": "3cab80606338be31c4ecd0f7599a6321",
+            "Index": 2,
+            "Label": "3",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Nimeni nu va fi ținut în sclavie, nici în servitute; sclavajul și comerțul cu sclavi sunt interzise sub toate\nformele lor.\nArticolul 5\nNimeni nu va fi supus la torturi, nici la pedepse sau tratamente crude, inumane sau degradante.\nArticolul 6\nFiecare om are dreptul să i se recunoască pretutindeni personalitatea juridică.\nArticolul 7\nToți oamenii sunt egali în fața legii și au, fără nici o deosebire, dreptul la o egală protecție a legii. Toți\noamenii au dreptul la o protecție egală împotriva oricărei discriminări care ar viola prezenta Declarație și\nîmpotriva oricărei provocări la o asemenea discriminare.\nArticolul 8\nOrice persoană are dreptul la satisfacția efectivă din partea instanțelor juridice naționale competente\nîmpotriva actelor care violează drepturile fundamentale ce‐i sunt recunoscute prin constituție sau lege.\nArticolul 9\nNimeni nu trebuie să fie arestat, deținut sau exilat în mod arbitrar.\nArticolul 10\nOrice persoană are dreptul în deplină egalitate de a fi audiată în mod echitabil și public de către un tribunal\nindependent și imparțial care va hotărî fie asupra drepturilor și obligațiilor sale, fie asupra temeiniciei\noricărei acuzări în materie penală îndreptată împotriva sa."
         },
         "3": {
-            "Label": "4",
-            "Index": 3,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Articolul 11\nOrice persoană acuzată de comiterea unui act cu caracter penal are dreptul să fie presupusă nevinovată\npână când vinovăția sa va fi stabilită în mod legal în cursul unui proces public în care i‐au fost asigurate\ntoate garanțiile necesare apărării sale.\nNimeni nu va fi condamnat pentru acțiuni sau omisiuni care nu constituiau, în momentul când au fost\ncomise, un act cu caracter penal conform dreptului internațional sau național. De asemenea, nu se va aplica\nnici o pedeapsă mai grea decât aceea care era aplicabilă în momentul când a fost săvârșit actul cu caracter\npenal.\nArticolul 12\nNimeni nu va fi supus la imixtiuni arbitrare în viața sa personală, în familia sa, în domiciliul lui sau în\ncorespondența sa, nici la atingeri aduse onoarei și reputației sale. Orice persoană are dreptul la protecția\nlegii împotriva unor asemenea imixtiuni sau atingeri.\nArticolul 13\nOrice persoană are dreptul de a circula în mod liber și de a‐și alege reședința în interiorul granițelor unui\nstat.\nOrice persoană are dreptul de a părăsi orice țară, inclusiv a sa, și de reveni în țara sa.\nArticolul 14\nÎn caz de persecuție, orice persoană are dreptul de a căuta azil și de a beneficia de azil în alte țări.\nAcest drept nu poate fi invocat în caz de urmărire ce rezultă în mod real dintr‐o crimă de drept comun sau\ndin acțiuni contrare scopurilor și principiilor Organizației Națiunilor Unite.",
-            "Image": "91e58168f0c67af8dcab9eec336e49ac"
+            "Image": "91e58168f0c67af8dcab9eec336e49ac",
+            "Index": 3,
+            "Label": "4",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Articolul 11\nOrice persoană acuzată de comiterea unui act cu caracter penal are dreptul să fie presupusă nevinovată\npână când vinovăția sa va fi stabilită în mod legal în cursul unui proces public în care i‐au fost asigurate\ntoate garanțiile necesare apărării sale.\nNimeni nu va fi condamnat pentru acțiuni sau omisiuni care nu constituiau, în momentul când au fost\ncomise, un act cu caracter penal conform dreptului internațional sau național. De asemenea, nu se va aplica\nnici o pedeapsă mai grea decât aceea care era aplicabilă în momentul când a fost săvârșit actul cu caracter\npenal.\nArticolul 12\nNimeni nu va fi supus la imixtiuni arbitrare în viața sa personală, în familia sa, în domiciliul lui sau în\ncorespondența sa, nici la atingeri aduse onoarei și reputației sale. Orice persoană are dreptul la protecția\nlegii împotriva unor asemenea imixtiuni sau atingeri.\nArticolul 13\nOrice persoană are dreptul de a circula în mod liber și de a‐și alege reședința în interiorul granițelor unui\nstat.\nOrice persoană are dreptul de a părăsi orice țară, inclusiv a sa, și de reveni în țara sa.\nArticolul 14\nÎn caz de persecuție, orice persoană are dreptul de a căuta azil și de a beneficia de azil în alte țări.\nAcest drept nu poate fi invocat în caz de urmărire ce rezultă în mod real dintr‐o crimă de drept comun sau\ndin acțiuni contrare scopurilor și principiilor Organizației Națiunilor Unite."
         },
         "4": {
-            "Label": "5",
-            "Index": 4,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Articolul 15\nOrice persoană are dreptul la o cetățenie.\nNimeni nu poate fi lipsit în mod arbitrar de cetățenia sa sau de dreptul de a‐și schimba cetățenia.\nArticolul 16\nCu începere de la împlinirea vârstei legale, bărbătul și femeia, fără nici o restricție în ce privește rasa,\nnaționalitatea sau religia, au dreptul de a se căsători și de a întemeia o familie. Ei au drepturi egale la\ncontractarea căsătoriei, în decursul căsătoriei și la desfacerea ei.\nCăsătoria nu poate fi încheiată decât cu consimțământul liber și deplin al viitorilor soți.\nFamilia constituie elementul natural și fundamental al societății și are dreptul la ocrotire din partea\nsocietății și a statului.\nArticolul 17\nOrice persoană are dreptul la proprietate, atât singură, cât și în asociație cu alții.\nNimeni nu poate fi lipsit în mod arbitrar de proprietatea sa.\nArticolul 18\nOrice om are dreptul la libertatea gândirii, de conștiință și religie; acest drept include libertatea de a‐și\nschimba religia sau convingerea, precum și libertatea de a‐și manifesta religia sau convingerea, singur sau\nîmpreună cu alții, atât în mod public, cât și privat, prin învățătură, practici religioase, cult și îndeplinirea\nriturilor.\nArticolul 19",
-            "Image": "115a397048fa26059a2df442edc9beef"
+            "Image": "115a397048fa26059a2df442edc9beef",
+            "Index": 4,
+            "Label": "5",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Articolul 15\nOrice persoană are dreptul la o cetățenie.\nNimeni nu poate fi lipsit în mod arbitrar de cetățenia sa sau de dreptul de a‐și schimba cetățenia.\nArticolul 16\nCu începere de la împlinirea vârstei legale, bărbătul și femeia, fără nici o restricție în ce privește rasa,\nnaționalitatea sau religia, au dreptul de a se căsători și de a întemeia o familie. Ei au drepturi egale la\ncontractarea căsătoriei, în decursul căsătoriei și la desfacerea ei.\nCăsătoria nu poate fi încheiată decât cu consimțământul liber și deplin al viitorilor soți.\nFamilia constituie elementul natural și fundamental al societății și are dreptul la ocrotire din partea\nsocietății și a statului.\nArticolul 17\nOrice persoană are dreptul la proprietate, atât singură, cât și în asociație cu alții.\nNimeni nu poate fi lipsit în mod arbitrar de proprietatea sa.\nArticolul 18\nOrice om are dreptul la libertatea gândirii, de conștiință și religie; acest drept include libertatea de a‐și\nschimba religia sau convingerea, precum și libertatea de a‐și manifesta religia sau convingerea, singur sau\nîmpreună cu alții, atât în mod public, cât și privat, prin învățătură, practici religioase, cult și îndeplinirea\nriturilor.\nArticolul 19"
         },
         "5": {
-            "Label": "6",
-            "Index": 5,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Orice om are dreptul la libertatea opiniilor și exprimării; acest drept include libertatea de a avea opinii fără\nimixtiune din afară, precum și libertatea de a căuta, de a primi și de a răspândi informații și idei prin orice\nmijloace și independent de frontierele de stat.\nArticolul 20\nOrice persoană are dreptul la libertatea de întrunire și de asociere pașnică.\nNimeni nu poate fi silit să făcă parte dintr‐o asociație.\nArticolul 21\nOrice persoană are dreptul de a lua parte la conducerea treburilor publice ale țării sale, fie direct, fie prin\nreprezentanți liber aleși.\nOrice persoană are dreptul de acces egal la funcțiile publice din țara sa.\nVoința poporului trebuie să constituie baza puterii de stat; această voință trebuie să fie exprimată prin\nalegeri nefalsificate, care să aibă loc în mod periodic prin sufragiu universal, egal și exprimat prin vot secret\nsau urmând o procedură echivalentă care să asigure libertatea votului.\nArticolul 22\nOrice persoană, în calitatea sa de membru al societății, are dreptul la securitatea socială; ea este\nîndreptățită ca prin efortul național și colaborarea internațională, ținându‐se seama de organizarea și\nresursele fiecărei țări, să obțină realizarea drepturilor economice, sociale și culturale indispensabile pentru\ndemnitatea sa și libera dezvoltare a personalității sale.\nArticolul 23\nOrice persoană are dreptul la muncă, la libera alegere a muncii sale, la condiții echitabile și satisfăcătoare",
-            "Image": "b93ab02c2f03c4a832a56def2f202ac2"
+            "Image": "b93ab02c2f03c4a832a56def2f202ac2",
+            "Index": 5,
+            "Label": "6",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Orice om are dreptul la libertatea opiniilor și exprimării; acest drept include libertatea de a avea opinii fără\nimixtiune din afară, precum și libertatea de a căuta, de a primi și de a răspândi informații și idei prin orice\nmijloace și independent de frontierele de stat.\nArticolul 20\nOrice persoană are dreptul la libertatea de întrunire și de asociere pașnică.\nNimeni nu poate fi silit să făcă parte dintr‐o asociație.\nArticolul 21\nOrice persoană are dreptul de a lua parte la conducerea treburilor publice ale țării sale, fie direct, fie prin\nreprezentanți liber aleși.\nOrice persoană are dreptul de acces egal la funcțiile publice din țara sa.\nVoința poporului trebuie să constituie baza puterii de stat; această voință trebuie să fie exprimată prin\nalegeri nefalsificate, care să aibă loc în mod periodic prin sufragiu universal, egal și exprimat prin vot secret\nsau urmând o procedură echivalentă care să asigure libertatea votului.\nArticolul 22\nOrice persoană, în calitatea sa de membru al societății, are dreptul la securitatea socială; ea este\nîndreptățită ca prin efortul național și colaborarea internațională, ținându‐se seama de organizarea și\nresursele fiecărei țări, să obțină realizarea drepturilor economice, sociale și culturale indispensabile pentru\ndemnitatea sa și libera dezvoltare a personalității sale.\nArticolul 23\nOrice persoană are dreptul la muncă, la libera alegere a muncii sale, la condiții echitabile și satisfăcătoare"
         },
         "6": {
-            "Label": "7",
-            "Index": 6,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "de muncă, precum și la ocrotirea împotriva șomajului.\nToți oamenii, fără nici o discriminare, au dreptul la salariu egal pentru muncă egală.\nOrice om care muncește are dreptul la o retribuire echitabilă și satisfăcătoare care să‐i asigure atât lui, cât\nși familiei sale, o existență conformă cu demnitatea umană și completată, la nevoie, prin alte mijloace de\nprotecție socială.\nOrice persoană are dreptul de a întemeia sindicate și de a se afilia la sindicate pentru apărarea intereselelor\nsale.\nArticolul 24\nOrice persoană are dreptul la odihnă și recreație, inclusiv la o limitare rezonabilă a zilei de muncă și la\nconcedii periodice plătite.\nArticolul 25\nOrice om are dreptul la un nivel de trai care să asigure sănătatea și bunăstarea lui și familiei sale,\ncuprinzând hrana, îmbrăcămintea, locuința, îngrijirea medicală, precum și serviciile sociale necesare; el are\ndreptul la asigurare în caz de șomaj, boală, invaliditate, văduvie, bătrânețe sau în celelalte cazuri de\npierdere a mijloacelor de subzistență, în urma unor împrejurări independente de voința sa.\nMama și copilul au dreptul la ajutor și ocrotire deosebite. Toți copiii, fie că sunt născuți în cadrul\ncăsătoriei sau în afara acesteia, se bucură de aceeași protecție socială.\nArticolul 26\nOrice persoană are dreptul la învățătură. Învățământul trebuie să fie gratuit, cel puțin în ceea ce privește\nînvățământul elementar și general. Învățământul elementar trebuie să fie obligatoriu. Învățământul tehnic",
-            "Image": "b6930ee9d3921f83a1ed0fefd79ac188"
+            "Image": "b6930ee9d3921f83a1ed0fefd79ac188",
+            "Index": 6,
+            "Label": "7",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "de muncă, precum și la ocrotirea împotriva șomajului.\nToți oamenii, fără nici o discriminare, au dreptul la salariu egal pentru muncă egală.\nOrice om care muncește are dreptul la o retribuire echitabilă și satisfăcătoare care să‐i asigure atât lui, cât\nși familiei sale, o existență conformă cu demnitatea umană și completată, la nevoie, prin alte mijloace de\nprotecție socială.\nOrice persoană are dreptul de a întemeia sindicate și de a se afilia la sindicate pentru apărarea intereselelor\nsale.\nArticolul 24\nOrice persoană are dreptul la odihnă și recreație, inclusiv la o limitare rezonabilă a zilei de muncă și la\nconcedii periodice plătite.\nArticolul 25\nOrice om are dreptul la un nivel de trai care să asigure sănătatea și bunăstarea lui și familiei sale,\ncuprinzând hrana, îmbrăcămintea, locuința, îngrijirea medicală, precum și serviciile sociale necesare; el are\ndreptul la asigurare în caz de șomaj, boală, invaliditate, văduvie, bătrânețe sau în celelalte cazuri de\npierdere a mijloacelor de subzistență, în urma unor împrejurări independente de voința sa.\nMama și copilul au dreptul la ajutor și ocrotire deosebite. Toți copiii, fie că sunt născuți în cadrul\ncăsătoriei sau în afara acesteia, se bucură de aceeași protecție socială.\nArticolul 26\nOrice persoană are dreptul la învățătură. Învățământul trebuie să fie gratuit, cel puțin în ceea ce privește\nînvățământul elementar și general. Învățământul elementar trebuie să fie obligatoriu. Învățământul tehnic"
         },
         "7": {
-            "Label": "8",
-            "Index": 7,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "și profesional trebuie să fie la îndemâna tuturor, iar învățământul superior trebuie să fie de asemenea egal,\naccesibil tuturora, pe bază de merit.\nÎnvățământul trebuie să urmărească dezvoltarea deplină a personalității umane și întărirea respectului\nfață de drepturile omului și libertățile fundamentale. El trebuie să promoveze înțelegerea, toleranța,\nprietenia între toate popoarele și toate grupurile rasiale sau religioase, precum și dezvoltarea activității\nOrganizației Națiunilor Unite pentru menținerea păcii.\nPărinții au dreptul de prioritate în alegerea felului de învățământ pentru copiii lor minori.\nArticolul 27\nOrice persoană are dreptul de a lua parte în mod liber la viața culturală a colectivității, de a se bucura de\narte și de a participa la progresul științific și la binefacerile lui.\nFiecare om are dreptul la ocrotirea intereselor morale și materiale care decurg din orice lucrare științifică,\nliterară sau artistică al cărei autor este.\nArticolul 28\nOrice persoană are dreptul la o orânduire socială și internațională în care drepturile și libertățile expuse în\nprezenta Declarație pot fi pe deplin înfăptuite.\nArticolul 29\nOrice persoană are îndatoriri față de colectivitate, deoarece numai în cadrul acesteia este posibilă\ndezvoltarea liberă și deplină a personalității sale.\nÎn exercitarea drepturilor și libertăților sale, fiecare om nu este supus decât numai îngrădirilor stabilite prin\nlege, exclusiv în scopul de a asigura cuvenita recunoaștere și respectare a drepturilor și libertăților altora și",
-            "Image": "7f8ef85c00daa77a8685a0b6f5fd5937"
+            "Image": "7f8ef85c00daa77a8685a0b6f5fd5937",
+            "Index": 7,
+            "Label": "8",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "și profesional trebuie să fie la îndemâna tuturor, iar învățământul superior trebuie să fie de asemenea egal,\naccesibil tuturora, pe bază de merit.\nÎnvățământul trebuie să urmărească dezvoltarea deplină a personalității umane și întărirea respectului\nfață de drepturile omului și libertățile fundamentale. El trebuie să promoveze înțelegerea, toleranța,\nprietenia între toate popoarele și toate grupurile rasiale sau religioase, precum și dezvoltarea activității\nOrganizației Națiunilor Unite pentru menținerea păcii.\nPărinții au dreptul de prioritate în alegerea felului de învățământ pentru copiii lor minori.\nArticolul 27\nOrice persoană are dreptul de a lua parte în mod liber la viața culturală a colectivității, de a se bucura de\narte și de a participa la progresul științific și la binefacerile lui.\nFiecare om are dreptul la ocrotirea intereselor morale și materiale care decurg din orice lucrare științifică,\nliterară sau artistică al cărei autor este.\nArticolul 28\nOrice persoană are dreptul la o orânduire socială și internațională în care drepturile și libertățile expuse în\nprezenta Declarație pot fi pe deplin înfăptuite.\nArticolul 29\nOrice persoană are îndatoriri față de colectivitate, deoarece numai în cadrul acesteia este posibilă\ndezvoltarea liberă și deplină a personalității sale.\nÎn exercitarea drepturilor și libertăților sale, fiecare om nu este supus decât numai îngrădirilor stabilite prin\nlege, exclusiv în scopul de a asigura cuvenita recunoaștere și respectare a drepturilor și libertăților altora și"
         },
         "8": {
-            "Label": "9",
-            "Index": 8,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "ca să fie satisfăcute justele cerințe ale moralei, ordinii publice și bunăstării generale într‐o societate\ndemocratică.\nAceste drepturi și libertăți nu vor putea fi în nici un caz exercitate contrar scopurilor și principiilor\nOrganizației Națiunilor Unite.\nArticolul 30\nNici o dispoziție a prezentei Declarații nu poate fi interpretată ca implicând pentru vreun stat, grupare sau\npersoană dreptul de a se deda la vreo activitate sau de a săvârși vreun act îndreptat spre desființarea unor\ndrepturi sau libertăți enunțate în prezenta Declarație.",
-            "Image": "b10b72a79ad77098d2c938d81f8510c8"
+            "Image": "b10b72a79ad77098d2c938d81f8510c8",
+            "Index": 8,
+            "Label": "9",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "ca să fie satisfăcute justele cerințe ale moralei, ordinii publice și bunăstării generale într‐o societate\ndemocratică.\nAceste drepturi și libertăți nu vor putea fi în nici un caz exercitate contrar scopurilor și principiilor\nOrganizației Națiunilor Unite.\nArticolul 30\nNici o dispoziție a prezentei Declarații nu poate fi interpretată ca implicând pentru vreun stat, grupare sau\npersoană dreptul de a se deda la vreo activitate sau de a săvârși vreun act îndreptat spre desființarea unor\ndrepturi sau libertăți enunțate în prezenta Declarație."
         }
     }
 }

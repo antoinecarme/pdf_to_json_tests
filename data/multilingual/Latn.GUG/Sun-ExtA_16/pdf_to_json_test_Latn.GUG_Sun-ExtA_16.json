@@ -1,80 +1,80 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581468258,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
+            ],
+            "Image": "3c3a98545b0a1deeb09927da22107276",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
-            ],
-            "Text": "TEKOVE YVYPORA KUERA MAYMAYVA DERECHO KUAAUKAHA\n[Preamble]\n(preamble missing)\nArt. 1\nMayma yvypóra ou ko yvy ári iñapytlʼyre ha eteĩcha dignidad ha derecho jeguerekópe; ha\nikatu rupi oikuaa añetéva ha añeteʼyva, iporãva ha ivaíva, tekotevẽ pehenguéicha oiko\noñondivekuéra.\nArt. 2\nMayma yuypóra oguereko derecho ha libertad kuéra ko Declaraciónpe oĩva, oñemañaʼyre\nmbaʼeichaguapa i-ráza, ipire color; kiñápa terãpa kuimbaʼe, iñeʼẽ, i-religión, iñopinión\npolítica, hetã, haʼépa mbaʼ rerekoha, oĩpa yvate terãpa nahániri sociedad ryepype,\nhambaʼe.\nMbaʼeveichagua jeporavo avei ndoiók vaʼerã oñemañanguévo hetã situación rehe,\nlegalmentepa mbaʼéicha oĩ, haʼépa isãsopyre, oguatáva ojeheguiete, térãpa oĩ ambue tetã\nndiv térã ipoguype.\nArt. 3\nMayma tapicha oguereko derecho oikovévo, piporúvo ilibertad ha ojerrespetávo ipersona.\nArt. 4\nAvavépe ndojeguerekói vaʼerã esclavo térã tembiguái ramo; mbaʼeveichagua esclavitud térã\ntapicha jejogua ha ñevende ndaikatúl oiko.\nArt. 5\nAvavére ndoikovaʼerãi ñembosarái vai térã ñambohasa asy, humano rekore ndojojáiva.\nArt. 6\nMayma yvypóra oguereko derecho ojehechakuaávo ichupe opaite handárupi haʼeha peteĩ máva\nleiduéra renondépe.\nArt. 7\nMaymavaite: peteĩchante léi renondépe ha oguereko, mbaʼeveichagua jeporavoʼyre, derecho\npeteĩcha léi oñangarekóvo hese. Maymáva oguereko derecho peteĩcha oñeñangarekóvo hese.\nMaymáva oguereko derecho peteĩcha oñeñangarekóvo hese opaichagua jeporavo ohóvagui ko\nDeclaración cóntrape, ha opa ñehaʼã oikóvagui jeporavorã.\nArt. 8\nMayma yvypóra oguereko derecho oñangarekóvo hese hekoitépe tribunal kuéra oĩva hetãme,\nomoʼã haguáicha ichupe umi opyrũsévagui iderecho kuéra rehe oĨva constitución a léipe.\nArt. 9\nAvavépe ndaikatúi mbaretépe reínte oñedetene, ojegueraha preso terá oñemosẽ hetãgui.",
-            "Image": "3c3a98545b0a1deeb09927da22107276"
+            "Text": "TEKOVE YVYPORA KUERA MAYMAYVA DERECHO KUAAUKAHA\n[Preamble]\n(preamble missing)\nArt. 1\nMayma yvypóra ou ko yvy ári iñapytlʼyre ha eteĩcha dignidad ha derecho jeguerekópe; ha\nikatu rupi oikuaa añetéva ha añeteʼyva, iporãva ha ivaíva, tekotevẽ pehenguéicha oiko\noñondivekuéra.\nArt. 2\nMayma yuypóra oguereko derecho ha libertad kuéra ko Declaraciónpe oĩva, oñemañaʼyre\nmbaʼeichaguapa i-ráza, ipire color; kiñápa terãpa kuimbaʼe, iñeʼẽ, i-religión, iñopinión\npolítica, hetã, haʼépa mbaʼ rerekoha, oĩpa yvate terãpa nahániri sociedad ryepype,\nhambaʼe.\nMbaʼeveichagua jeporavo avei ndoiók vaʼerã oñemañanguévo hetã situación rehe,\nlegalmentepa mbaʼéicha oĩ, haʼépa isãsopyre, oguatáva ojeheguiete, térãpa oĩ ambue tetã\nndiv térã ipoguype.\nArt. 3\nMayma tapicha oguereko derecho oikovévo, piporúvo ilibertad ha ojerrespetávo ipersona.\nArt. 4\nAvavépe ndojeguerekói vaʼerã esclavo térã tembiguái ramo; mbaʼeveichagua esclavitud térã\ntapicha jejogua ha ñevende ndaikatúl oiko.\nArt. 5\nAvavére ndoikovaʼerãi ñembosarái vai térã ñambohasa asy, humano rekore ndojojáiva.\nArt. 6\nMayma yvypóra oguereko derecho ojehechakuaávo ichupe opaite handárupi haʼeha peteĩ máva\nleiduéra renondépe.\nArt. 7\nMaymavaite: peteĩchante léi renondépe ha oguereko, mbaʼeveichagua jeporavoʼyre, derecho\npeteĩcha léi oñangarekóvo hese. Maymáva oguereko derecho peteĩcha oñeñangarekóvo hese.\nMaymáva oguereko derecho peteĩcha oñeñangarekóvo hese opaichagua jeporavo ohóvagui ko\nDeclaración cóntrape, ha opa ñehaʼã oikóvagui jeporavorã.\nArt. 8\nMayma yvypóra oguereko derecho oñangarekóvo hese hekoitépe tribunal kuéra oĩva hetãme,\nomoʼã haguáicha ichupe umi opyrũsévagui iderecho kuéra rehe oĨva constitución a léipe.\nArt. 9\nAvavépe ndaikatúi mbaretépe reínte oñedetene, ojegueraha preso terá oñemosẽ hetãgui."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
+            ],
+            "Image": "35e3d49ee8ba09a67328b26d48b936b2",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
-            ],
-            "Text": "Art. 10\nMayma yvypóra oguereko derecho, peteĩchapánte, ohendúvo ichupe idespáchope ha justicia\nojerure haichaite, peteĩ tribunal oguatáva ojeheguiete ha oporolado apoʼyva,\noñemyesakãta java iderecho ha obligación huéra, ha avei ojehesaʼyjóratõ oñembojáva hese\ntembiapo vaiʼéi cóntrape ohóva.\nArt. 11\nOñembojáro peteĩ tapicháre hembiapo vai hague, oguereko derecho oñepensávo hese\nndaʼupeichaiha, nahesakãi aja haʼeha culpable; pe ñemyesakã oido vaʼerã tribunalpe, ha\noguereko vaʼerã upépe mayma garantía oikotevẽva oñedefende hagua.\nAvavépe noñecondeva vaʼerãi ojapo térã ndojapói haguére peteĩ mbaʼendahaʼéiva delito upe\njava, tetãpypegua léi térã tetãnguéra léipe guarã. Noñemeʼẽ vaʼerãi avei castigo pohyve\nléipe oĩvagui oiko jave delito.\nArt. 12\nNdaikatúj oimeháicha reínte ojeikévo peteĩ tapicha rekovépe, hóga, hogapy térã icarta\nkuérpade. Naikatúi avei ojepokóntevo héra térã herakuã porãre. Mayma yvypóra oguereko\nderecho léi oñangarekóvo hese koʼãmbaʼépe.\nArt. 13\nMayma yvypóra oguereko derecho ou ha oheovo tetãpyre ha oiporavóvo moõoikóta peteĩ tetã\nryepype.\nMayma yvypóra oguereko derecho osẽvo oimeraẽva tetãgui, taha e jepe hetãtee, ha upéi ou\njevyo hetãme.\nArt. 14\nOjepersegui jave ichupe, mayma tekove ikatu oho oñemoʼã hagua oimeraẽva tetãme.\nKo derecho ndaikatúi ojeporu persecución oúrõ justiciagui tembiapo vaikuére, térã ojeho\nrupi Naciones Unidas remiandu ha rembipota cóntrape.\nArt. 15\nMayma yvypóra oguereko derecho hetãvo.\nAvavégui ndaikatúi ojepeʼa oimeháicha reínte hetã derecho oguerekóvagui okambiávo upe\nhetã.\nArt. 16\nKuimbaʼe ha kuña maymáva, omendakuaaha tiémpo guive, oguereko derecho omdávo ha\nomoñepyrũvo petel ogapy. Koʼávara ndaikatúi of problema oúva raza, tetã, terã\nreligióngui. Petelcha vaʼera 1 derecho kuéra menda reheguáva, oiko aja kupukue hikuái\nmenda ryepype, ha evei sapyánte oñembyairõ upe imenda kuéra.\nMenda ikatu oiko umi omendátava otrõ añoite petel ñeʼẽme upeverã, ojeheguiete, avave\nojopyʼyre ichupekuéra.\nFamilia haʼe sociedad apyra ha ñepyrũete, ha oguereko derecho oñangarekóvo hese\nsociedad ha Estado.",
-            "Image": "35e3d49ee8ba09a67328b26d48b936b2"
+            "Text": "Art. 10\nMayma yvypóra oguereko derecho, peteĩchapánte, ohendúvo ichupe idespáchope ha justicia\nojerure haichaite, peteĩ tribunal oguatáva ojeheguiete ha oporolado apoʼyva,\noñemyesakãta java iderecho ha obligación huéra, ha avei ojehesaʼyjóratõ oñembojáva hese\ntembiapo vaiʼéi cóntrape ohóva.\nArt. 11\nOñembojáro peteĩ tapicháre hembiapo vai hague, oguereko derecho oñepensávo hese\nndaʼupeichaiha, nahesakãi aja haʼeha culpable; pe ñemyesakã oido vaʼerã tribunalpe, ha\noguereko vaʼerã upépe mayma garantía oikotevẽva oñedefende hagua.\nAvavépe noñecondeva vaʼerãi ojapo térã ndojapói haguére peteĩ mbaʼendahaʼéiva delito upe\njava, tetãpypegua léi térã tetãnguéra léipe guarã. Noñemeʼẽ vaʼerãi avei castigo pohyve\nléipe oĩvagui oiko jave delito.\nArt. 12\nNdaikatúj oimeháicha reínte ojeikévo peteĩ tapicha rekovépe, hóga, hogapy térã icarta\nkuérpade. Naikatúi avei ojepokóntevo héra térã herakuã porãre. Mayma yvypóra oguereko\nderecho léi oñangarekóvo hese koʼãmbaʼépe.\nArt. 13\nMayma yvypóra oguereko derecho ou ha oheovo tetãpyre ha oiporavóvo moõoikóta peteĩ tetã\nryepype.\nMayma yvypóra oguereko derecho osẽvo oimeraẽva tetãgui, taha e jepe hetãtee, ha upéi ou\njevyo hetãme.\nArt. 14\nOjepersegui jave ichupe, mayma tekove ikatu oho oñemoʼã hagua oimeraẽva tetãme.\nKo derecho ndaikatúi ojeporu persecución oúrõ justiciagui tembiapo vaikuére, térã ojeho\nrupi Naciones Unidas remiandu ha rembipota cóntrape.\nArt. 15\nMayma yvypóra oguereko derecho hetãvo.\nAvavégui ndaikatúi ojepeʼa oimeháicha reínte hetã derecho oguerekóvagui okambiávo upe\nhetã.\nArt. 16\nKuimbaʼe ha kuña maymáva, omendakuaaha tiémpo guive, oguereko derecho omdávo ha\nomoñepyrũvo petel ogapy. Koʼávara ndaikatúi of problema oúva raza, tetã, terã\nreligióngui. Petelcha vaʼera 1 derecho kuéra menda reheguáva, oiko aja kupukue hikuái\nmenda ryepype, ha evei sapyánte oñembyairõ upe imenda kuéra.\nMenda ikatu oiko umi omendátava otrõ añoite petel ñeʼẽme upeverã, ojeheguiete, avave\nojopyʼyre ichupekuéra.\nFamilia haʼe sociedad apyra ha ñepyrũete, ha oguereko derecho oñangarekóvo hese\nsociedad ha Estado."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
+            ],
+            "Image": "e6fe152c09f3db9c0d56f5db09b53ca7",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
-            ],
-            "Text": "Art. 17\nMayma yvypóra iderecho oguerekóvo imbaèteéva, ha haʼeño háicha, ha avei ambuerkuéra\nndive.\nAvavégui ndojepeʼa vaʼerãi oimeháicha reinte imbáe teéva.\nArt. 18\nMayma yvypóra oguereko derecho oñemonguévo ojeheguiete, iñaka, inconciencia ha\nireligión heʼi háicha ichupe. Ko deréchope oike ikatuha okambia ireligión ha ijerovia,\navei ohechaukávo koʼãva haʼeño háicha térã ambuekuéra ndive,opavave renondépe térã\nhaʼeñohápe, tekomboʼe, térã jeiko upéva heʼi háicha rupive.\nArt. 19\nMaypa tapicha iderecho oguerekóvo ijidea ha iñeñandu tee, ha upéva oikuaaukávo ojejuru\nmbotyʼyre ichupe; ko deréchope oike avavépe nonnemolestáivo marandu ha opinión kuéra,\nha avei oñemosarambivo koʼãva opaite hendárupi, mayma tembiporu upevarã oiva rupive.\nArt. 20\nMayma yvypóra oguereko derecho ijatyvo oñondive ha ojapóvo joaju hapicha kuéra\nñorairõʼyre.\nAvavépe ndaikatúi ojejopy oike hagua petel asociaciónpe.\nArt. 21\nMayma yvipóra oguereko derechoijávo hetã resambyhype, haʼete voi, yro katu hemimoĩngue,\nhʼae oiporavo vaʼekue rupive.\nMayma tapicha oguereko derecho petelĩchapante, ohupityvo cargo público kuéra hetãme.\nMburuvicha kuéra omanda ha oisambyhy hagua teta, tetãygua kuéra omeʼeẽ ichupekuéra upe\npuʼaka. Ha ko tetãygua kuéra rembipota ojechauka vaʼerã elección ipotiva rupive,cada\ncierto tiempo oiko vaʼerãva, maymavaite ijahápem ha peteicha ivoto kuéra ovalehápe;\navei avave oikuaaʼyre mávarepa revota, ikatu haguaicha avave nandejopyiupe jeporavo\napópe.\nArt. 22\nMayma yvypóra, haʼerupi sociedad pegua, oguereko derecho pe sociedad oñangarekóvo hese.\nUpevaã pe hetã oñehʼã mbaite vaʼerã, ha tetãnguéra oñopytyvõ vaʼerã, recurso ha\norganización tetã oguerekóva rupive, maymavaite ohupity hagua hemikotevẽ económico\nsocial ha cultural, oiko hagua ichugui persona añetete.\nArt. 23\nMayma yvypóra oguereko derecho ombaʼapóvo ojeheguiete hembiaporã, pe imbaʼapópe\noñemonguʼévo iporãve haguáicha, ha oñeñangarekóvo hese ani opyta trabajoʼyre.\nMayma yvypóra oguereko derecho, mbaʼeveichagua jeporavoʼyre, pretelchante ojepagávo\nichupe, petelchaterõ hembiapo.\nMayma ombaʼapóva oguereko derecho oganávo hekópe porã, oikokuaa haguáicha, haʼe ha\nhogaygua, idignidad humana ojerure háicha. Ndohupitypáirõ ichupe oimeraẽva medio",
-            "Image": "e6fe152c09f3db9c0d56f5db09b53ca7"
+            "Text": "Art. 17\nMayma yvypóra iderecho oguerekóvo imbaèteéva, ha haʼeño háicha, ha avei ambuerkuéra\nndive.\nAvavégui ndojepeʼa vaʼerãi oimeháicha reinte imbáe teéva.\nArt. 18\nMayma yvypóra oguereko derecho oñemonguévo ojeheguiete, iñaka, inconciencia ha\nireligión heʼi háicha ichupe. Ko deréchope oike ikatuha okambia ireligión ha ijerovia,\navei ohechaukávo koʼãva haʼeño háicha térã ambuekuéra ndive,opavave renondépe térã\nhaʼeñohápe, tekomboʼe, térã jeiko upéva heʼi háicha rupive.\nArt. 19\nMaypa tapicha iderecho oguerekóvo ijidea ha iñeñandu tee, ha upéva oikuaaukávo ojejuru\nmbotyʼyre ichupe; ko deréchope oike avavépe nonnemolestáivo marandu ha opinión kuéra,\nha avei oñemosarambivo koʼãva opaite hendárupi, mayma tembiporu upevarã oiva rupive.\nArt. 20\nMayma yvypóra oguereko derecho ijatyvo oñondive ha ojapóvo joaju hapicha kuéra\nñorairõʼyre.\nAvavépe ndaikatúi ojejopy oike hagua petel asociaciónpe.\nArt. 21\nMayma yvipóra oguereko derechoijávo hetã resambyhype, haʼete voi, yro katu hemimoĩngue,\nhʼae oiporavo vaʼekue rupive.\nMayma tapicha oguereko derecho petelĩchapante, ohupityvo cargo público kuéra hetãme.\nMburuvicha kuéra omanda ha oisambyhy hagua teta, tetãygua kuéra omeʼeẽ ichupekuéra upe\npuʼaka. Ha ko tetãygua kuéra rembipota ojechauka vaʼerã elección ipotiva rupive,cada\ncierto tiempo oiko vaʼerãva, maymavaite ijahápem ha peteicha ivoto kuéra ovalehápe;\navei avave oikuaaʼyre mávarepa revota, ikatu haguaicha avave nandejopyiupe jeporavo\napópe.\nArt. 22\nMayma yvypóra, haʼerupi sociedad pegua, oguereko derecho pe sociedad oñangarekóvo hese.\nUpevaã pe hetã oñehʼã mbaite vaʼerã, ha tetãnguéra oñopytyvõ vaʼerã, recurso ha\norganización tetã oguerekóva rupive, maymavaite ohupity hagua hemikotevẽ económico\nsocial ha cultural, oiko hagua ichugui persona añetete.\nArt. 23\nMayma yvypóra oguereko derecho ombaʼapóvo ojeheguiete hembiaporã, pe imbaʼapópe\noñemonguʼévo iporãve haguáicha, ha oñeñangarekóvo hese ani opyta trabajoʼyre.\nMayma yvypóra oguereko derecho, mbaʼeveichagua jeporavoʼyre, pretelchante ojepagávo\nichupe, petelchaterõ hembiapo.\nMayma ombaʼapóva oguereko derecho oganávo hekópe porã, oikokuaa haguáicha, haʼe ha\nhogaygua, idignidad humana ojerure háicha. Ndohupitypáirõ ichupe oimeraẽva medio"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
+            ],
+            "Image": "bca5a931ed8a98ef748f2e7fdd52e854",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
-            ],
-            "Text": "pytyvõrã sociedad oguerekóvagui.\nMayma tapicha oguereko derecho ojapóvo sindicato ha ojoajúvo hapicha mbaʼapohára ndive,\niñinterése kuéra odefende hagua.\nArt. 24\nMayma yvypóra oguereko derecho opytuʼúvo, hoʼureimivo nombaápoi jave; avei ombaʼapóvo\nombaʼapo hagua haʼóra pevénte, ha ivacaciónvo oguahẽ vove jepi tiempo, ha upe aja\nojepagávo ichupe.\nArt. 25\nMayma yvypóra oguereko derecho oikove olgadomivo, ani hagua ichupe voi, ha hogayguápe\navei, ofalta hoʼuvaʼerã, ipohã repyrã, iñemonderã, óga oiko hagua, ha ambue mbaʼe\noikotevẽva oikove hagua. Iderecho avei oguereko seguro oñemongui ramo guarã imba\napohágui, terã katu hasy, ndovalevéi, iména mano, itujaiterei, térã ambue mbaʼe rupi\nindojevale kuaavéi ramo guarã ojehe.\nSy ha mitãre oñeñangareko vaʼerã iporave haguáicha. Mayma mitã, omendáva oguereko\nderecho sociedad oñangarekóvo hesekuéra.\nArt. 26\nMayma yvypóra oguereko derecho ojehekomboʼeukávo. Pejehekomboʼe reínte vaʼerã, pe\niñepyrũetépeguánte jepe. Pe tekomboʼe jehai ha jeleénte jepe hagua, haʼe vaʼerã\nobligatorio. Profesión kuéra ha técnica ñeaprende, olvaʼerã enteroitépe ohupity\nhaguaicha. Umi universidad rupi ojeike hagua, katupyry rehente odepende vaʼerã, ha\nmayma interesádope oñemeʼẽvaʼerã juruja.\nPe educación rembiaporã haʼevaʼerã: tojapo tekove mayágui persona añetete, okakuaáva\nopáichavo. Omombarete vaʼerã derecho ha libertad ñemombaʼe guasu. Oipytyvõ vaʼerã\nolhagua jekopyty, ñoaguanta kuaa, joayhu, mayma tetã ha raza terã religión oñondive.\nOmboguata vaʼerã avei umi tembiapoukapy Naciones Unidas omolva ol hagua tapiaite\npyʼaguapy.\nSy ha tuvakuéra oguereko derecho itendondévo oiporavo hagua mbaʼéichagua educaciónpa\noñemeʼẽta imitãnguérape.\nArt. 27\nMayma yvypóra oguereko derecho oparticipávo, avave ojopy terã ojokoʼyre ichupe,\nincomunidad rekotee ñeñandukápe; ombovyávo ichupe umi tembiapokue porã hechapyrã; avei\noparticipávo umi arandu pyahu oikévape, ha umi jeiko porãve koʼãgarupi oúvape.\nMayma yvypóra oguereko derecho oñeñangarekóvo ichupe interese moral ha material\noguerekóva rehe, haʼérupimbaʼepyahu terã ñeʼẽ yvoty, kuatia arandu térã tembiapo\nhecharamomby apohare.\nArt. 28\nMayma yvypóra oguereko derecho ojejapóvo ichupe hetãsme ha hetãnguéra apytépe, petef\njeikoha oñemoʼañatehape derecho ha libertd kuéra onnemolva ko Declaraciónpe.\nArt. 29\nMayma yvypóra oguereko tembiaporã comunidad ndive guarã, upépe mante ikatúgui okakuaa",
-            "Image": "bca5a931ed8a98ef748f2e7fdd52e854"
+            "Text": "pytyvõrã sociedad oguerekóvagui.\nMayma tapicha oguereko derecho ojapóvo sindicato ha ojoajúvo hapicha mbaʼapohára ndive,\niñinterése kuéra odefende hagua.\nArt. 24\nMayma yvypóra oguereko derecho opytuʼúvo, hoʼureimivo nombaápoi jave; avei ombaʼapóvo\nombaʼapo hagua haʼóra pevénte, ha ivacaciónvo oguahẽ vove jepi tiempo, ha upe aja\nojepagávo ichupe.\nArt. 25\nMayma yvypóra oguereko derecho oikove olgadomivo, ani hagua ichupe voi, ha hogayguápe\navei, ofalta hoʼuvaʼerã, ipohã repyrã, iñemonderã, óga oiko hagua, ha ambue mbaʼe\noikotevẽva oikove hagua. Iderecho avei oguereko seguro oñemongui ramo guarã imba\napohágui, terã katu hasy, ndovalevéi, iména mano, itujaiterei, térã ambue mbaʼe rupi\nindojevale kuaavéi ramo guarã ojehe.\nSy ha mitãre oñeñangareko vaʼerã iporave haguáicha. Mayma mitã, omendáva oguereko\nderecho sociedad oñangarekóvo hesekuéra.\nArt. 26\nMayma yvypóra oguereko derecho ojehekomboʼeukávo. Pejehekomboʼe reínte vaʼerã, pe\niñepyrũetépeguánte jepe. Pe tekomboʼe jehai ha jeleénte jepe hagua, haʼe vaʼerã\nobligatorio. Profesión kuéra ha técnica ñeaprende, olvaʼerã enteroitépe ohupity\nhaguaicha. Umi universidad rupi ojeike hagua, katupyry rehente odepende vaʼerã, ha\nmayma interesádope oñemeʼẽvaʼerã juruja.\nPe educación rembiaporã haʼevaʼerã: tojapo tekove mayágui persona añetete, okakuaáva\nopáichavo. Omombarete vaʼerã derecho ha libertad ñemombaʼe guasu. Oipytyvõ vaʼerã\nolhagua jekopyty, ñoaguanta kuaa, joayhu, mayma tetã ha raza terã religión oñondive.\nOmboguata vaʼerã avei umi tembiapoukapy Naciones Unidas omolva ol hagua tapiaite\npyʼaguapy.\nSy ha tuvakuéra oguereko derecho itendondévo oiporavo hagua mbaʼéichagua educaciónpa\noñemeʼẽta imitãnguérape.\nArt. 27\nMayma yvypóra oguereko derecho oparticipávo, avave ojopy terã ojokoʼyre ichupe,\nincomunidad rekotee ñeñandukápe; ombovyávo ichupe umi tembiapokue porã hechapyrã; avei\noparticipávo umi arandu pyahu oikévape, ha umi jeiko porãve koʼãgarupi oúvape.\nMayma yvypóra oguereko derecho oñeñangarekóvo ichupe interese moral ha material\noguerekóva rehe, haʼérupimbaʼepyahu terã ñeʼẽ yvoty, kuatia arandu térã tembiapo\nhecharamomby apohare.\nArt. 28\nMayma yvypóra oguereko derecho ojejapóvo ichupe hetãsme ha hetãnguéra apytépe, petef\njeikoha oñemoʼañatehape derecho ha libertd kuéra onnemolva ko Declaraciónpe.\nArt. 29\nMayma yvypóra oguereko tembiaporã comunidad ndive guarã, upépe mante ikatúgui okakuaa"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
+            ],
+            "Image": "b3b5c4f64ff147b3b26f20e987ef1778",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
-            ],
-            "Text": "ha hiʼaju persona haicha.\nLéi mante ikatu omol linde ikatuʼyva jahasa jaiporukuévo ñande libertad kuéra, ani\nhagua ñapyru ñande rapicha derecho ha libertad rehe; avei jaiko hagua moral ojerure\nháicha, orden público oipota háicha, ha petel sociedad democrática reko pyʼaguapy\noikotevẽ Háicha.\nKoʼã derecho ha libertad juéra mbaʼeveichvérõ ndaikatúi ojeporu Naciones Unidas oipota\nha opensáva cóntrape.\nArt. 30\nMbaʼevepunto ko Declaraciónpe olva noñentende vaʼerãi omeʼẽ Estádope, petel aty térã\npetel tapichápe, omoñepirũ ha omboguata hagua algún tembiapo ikatúva omboyke petelva\njepe umi derecho ha libertad kuéra oñemboysyva ko Declaraciónpe.",
-            "Image": "b3b5c4f64ff147b3b26f20e987ef1778"
+            "Text": "ha hiʼaju persona haicha.\nLéi mante ikatu omol linde ikatuʼyva jahasa jaiporukuévo ñande libertad kuéra, ani\nhagua ñapyru ñande rapicha derecho ha libertad rehe; avei jaiko hagua moral ojerure\nháicha, orden público oipota háicha, ha petel sociedad democrática reko pyʼaguapy\noikotevẽ Háicha.\nKoʼã derecho ha libertad juéra mbaʼeveichvérõ ndaikatúi ojeporu Naciones Unidas oipota\nha opensáva cóntrape.\nArt. 30\nMbaʼevepunto ko Declaraciónpe olva noñentende vaʼerãi omeʼẽ Estádope, petel aty térã\npetel tapichápe, omoñepirũ ha omboguata hagua algún tembiapo ikatúva omboyke petelva\njepe umi derecho ha libertad kuéra oñemboysyva ko Declaraciónpe."
         }
     }
 }

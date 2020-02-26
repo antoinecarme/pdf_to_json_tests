@@ -1,80 +1,80 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581468933,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "9d7dc4b728301cf5c750f2daf6604d71",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "MUKAMBIZHO MUKATAMPE PA NSAMBU YAFWAINWA MUNTU\nLULAVANANO\nByo kyayukanyikwa mba buneme ne kwesakena pamo kwa bonse bantu mubisemi\nbyabo, kokuleta kukasuluka, bololoke ne mutende pano pa ntanda;\nByo kyaykanyikwa mba kubula kushingika muntu kileta byubilo byatama\nbyalula milanguluko yanji ne ya ntanda yonse moekala kasa asangalala;\nByokiji mba kyanema, kubula kukanjikizna muntu kuba kyatama, kubula\nkusatukila butangi, kyawama kumona mba nsambu iji na muntu yavimbilwa,\nByokiji mba kyanema kuleta lumvwanano pakachi ka bantu ne mitundu,\nByokiji mba bisaka bya bantu mu kije kya United Nations byaitabuzhanya\nmba muntu wafwainwa kwikala na nsambu ya kwikala wakasuluka, waesakena\npamo na bantu bakwabo wingijila pamo na bakwabo bantu,\nByokiji mba byalo byaswisha limvwanano kupichila mkije kya United\nNations ne kumona mba byalama munemw wa kunemeka bantu,\nByokiji mba kolondela ino milaye ne mikambizho kyanema,\nKine, nanchi kije kya General Assembly kyaitaba mba Uno mukambizho\nmukatampe wapana nsambu ku muntu kwikala wakasuluka, ekale ke wakuyulula\nmikoka yonse ya bantu kikupu amba yense muntu nangwa kije kyonse\nkilondela uno mukamizho, kikekala ke kya kumwenako\nMUKAMBIZHO MWINE PA MAMBO A KUKASULUKA KWA MUNTU MBWIKALO\nKinembelo 1\nBonse bantu basemwa bakasuluka kabiji baesakena pamo mubuneme. Baji na\nmaana a kulanguluka kabiji bobila bantu bakwabo byubilo bakwibasekesha.\nKinembelo 2\nYense muntu uji na nsambu kabiji wakasuluka mwaila mukambizho, kwakubula\nkutala pa mutundu, mukoka, lwitabilo lwanij mu bya ntanda, bya Lesa,\nnangwa milanguluko yanji, kana wa mulume nangwa wa mukazhi, bunonshi\nnangwa bwikalo, kifulo kyanji ne bikwabotu bintu.\nKikwabo, kechi pakekala lupusano pa byabumulwila ntanda nangwa lwa kyalo\nmwikala yeo muntu ne nangwa kyalo kyatambula bwana bwakyo, nangwa\nbekilama, nangwa bakikiwila.\nKinembelo 3\nYense muntu uji na nsambu ya kwikala na bumi, wakasuluka kabiji\nwavimbilwa.\nKinembelo 4\nKafwako nangwa umo ukekala muzha nangwa wa kwingijila mukwabo muntu\nkwakubula malipilo; buzha kechi bukekalako ine.",
-            "Image": "9d7dc4b728301cf5c750f2daf6604d71"
+            "Text": "MUKAMBIZHO MUKATAMPE PA NSAMBU YAFWAINWA MUNTU\nLULAVANANO\nByo kyayukanyikwa mba buneme ne kwesakena pamo kwa bonse bantu mubisemi\nbyabo, kokuleta kukasuluka, bololoke ne mutende pano pa ntanda;\nByo kyaykanyikwa mba kubula kushingika muntu kileta byubilo byatama\nbyalula milanguluko yanji ne ya ntanda yonse moekala kasa asangalala;\nByokiji mba kyanema, kubula kukanjikizna muntu kuba kyatama, kubula\nkusatukila butangi, kyawama kumona mba nsambu iji na muntu yavimbilwa,\nByokiji mba kyanema kuleta lumvwanano pakachi ka bantu ne mitundu,\nByokiji mba bisaka bya bantu mu kije kya United Nations byaitabuzhanya\nmba muntu wafwainwa kwikala na nsambu ya kwikala wakasuluka, waesakena\npamo na bantu bakwabo wingijila pamo na bakwabo bantu,\nByokiji mba byalo byaswisha limvwanano kupichila mkije kya United\nNations ne kumona mba byalama munemw wa kunemeka bantu,\nByokiji mba kolondela ino milaye ne mikambizho kyanema,\nKine, nanchi kije kya General Assembly kyaitaba mba Uno mukambizho\nmukatampe wapana nsambu ku muntu kwikala wakasuluka, ekale ke wakuyulula\nmikoka yonse ya bantu kikupu amba yense muntu nangwa kije kyonse\nkilondela uno mukamizho, kikekala ke kya kumwenako\nMUKAMBIZHO MWINE PA MAMBO A KUKASULUKA KWA MUNTU MBWIKALO\nKinembelo 1\nBonse bantu basemwa bakasuluka kabiji baesakena pamo mubuneme. Baji na\nmaana a kulanguluka kabiji bobila bantu bakwabo byubilo bakwibasekesha.\nKinembelo 2\nYense muntu uji na nsambu kabiji wakasuluka mwaila mukambizho, kwakubula\nkutala pa mutundu, mukoka, lwitabilo lwanij mu bya ntanda, bya Lesa,\nnangwa milanguluko yanji, kana wa mulume nangwa wa mukazhi, bunonshi\nnangwa bwikalo, kifulo kyanji ne bikwabotu bintu.\nKikwabo, kechi pakekala lupusano pa byabumulwila ntanda nangwa lwa kyalo\nmwikala yeo muntu ne nangwa kyalo kyatambula bwana bwakyo, nangwa\nbekilama, nangwa bakikiwila.\nKinembelo 3\nYense muntu uji na nsambu ya kwikala na bumi, wakasuluka kabiji\nwavimbilwa.\nKinembelo 4\nKafwako nangwa umo ukekala muzha nangwa wa kwingijila mukwabo muntu\nkwakubula malipilo; buzha kechi bukekalako ine."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "774d30b24b9b8204dcd7c04a098fd2b5",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Kinembelo 5\nKafwako nangwa umo ukamanyikwanga nangwa kumuyan jishane.\nKinembelo 6\nYense wafwainwa kulangulukila amba muntu mwaila mizhilo.\nKinembelo 7\nBonse bantu baesakena pamo mwaila mizhilo kabiji kechi bafwainwa\nkwibasalulula mwaila mizhilone. Bonse bafwainwa kuvimbilwa.\nKinembelo 8\nYense muntu mwaila mizhilo wavimbilwa ku mikambizho yatama ya kyalo\nyabula kuilamo.\nKinembelo 9\nKafwako nangwa umo ye bakakasa nangwa kumupanga mukyalo kwa kubula mambo\nne.\nKinembelo 10\nYense muntu uji na nsambu ya kumumvwina mambo o ejizhanya.\nKinembelo 11\nYense walenga mambo akatampe kechi wafwainwa kuchibilwa ponka potu ine,\nposo wazhatwa nao mukije kya mizhilo.\nKafwako ye bakazhachisha na mambo kasa abujile kwialenga. Kabiji kechi\nbaka mutongwele mambo akwabo apusana na atanshi mukusaka\nkumuzhachishane.\nKinembelo 12\nKafwako muntu ye bakakanjikizha kusolola nangwa kwamba bintu byabufyafya\nbyanji, byakisemi kyanji, byanzubo yanji, makalata oanemba nangwa ku mu\nkabisha na mambo a bifulo byoajinga nabyo. Yense wavimbilwa na muzhilo.\nKinembelo 13\nYense uji na nsambu yakwenda ne kuya koasaka nakwikala mukyalo.\nYense uji na nsambu ya kufuma mukyalo kyanji ne byalo bikwabo ne\nkubwela.\nKinembelo 14\nYense uji na nsambu ya kunyemena mukyalo kingi kuchina kumumanyika mu\nkyalo kyanji.\nUno muzhilo kechi wikalakone umvwe wanyema kumanyikwa na mambo akwabo\nkukila bya bumulwila ntanda.",
-            "Image": "774d30b24b9b8204dcd7c04a098fd2b5"
+            "Text": "Kinembelo 5\nKafwako nangwa umo ukamanyikwanga nangwa kumuyan jishane.\nKinembelo 6\nYense wafwainwa kulangulukila amba muntu mwaila mizhilo.\nKinembelo 7\nBonse bantu baesakena pamo mwaila mizhilo kabiji kechi bafwainwa\nkwibasalulula mwaila mizhilone. Bonse bafwainwa kuvimbilwa.\nKinembelo 8\nYense muntu mwaila mizhilo wavimbilwa ku mikambizho yatama ya kyalo\nyabula kuilamo.\nKinembelo 9\nKafwako nangwa umo ye bakakasa nangwa kumupanga mukyalo kwa kubula mambo\nne.\nKinembelo 10\nYense muntu uji na nsambu ya kumumvwina mambo o ejizhanya.\nKinembelo 11\nYense walenga mambo akatampe kechi wafwainwa kuchibilwa ponka potu ine,\nposo wazhatwa nao mukije kya mizhilo.\nKafwako ye bakazhachisha na mambo kasa abujile kwialenga. Kabiji kechi\nbaka mutongwele mambo akwabo apusana na atanshi mukusaka\nkumuzhachishane.\nKinembelo 12\nKafwako muntu ye bakakanjikizha kusolola nangwa kwamba bintu byabufyafya\nbyanji, byakisemi kyanji, byanzubo yanji, makalata oanemba nangwa ku mu\nkabisha na mambo a bifulo byoajinga nabyo. Yense wavimbilwa na muzhilo.\nKinembelo 13\nYense uji na nsambu yakwenda ne kuya koasaka nakwikala mukyalo.\nYense uji na nsambu ya kufuma mukyalo kyanji ne byalo bikwabo ne\nkubwela.\nKinembelo 14\nYense uji na nsambu ya kunyemena mukyalo kingi kuchina kumumanyika mu\nkyalo kyanji.\nUno muzhilo kechi wikalakone umvwe wanyema kumanyikwa na mambo akwabo\nkukila bya bumulwila ntanda."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "771a084cc2ed5b3a81ad95167289e8e9",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Kinembelo 15\nYense wafwainwa kutambula bwina kyalo.\nKafwako ye bakakanya kutambula bwina kyalo nangwa kupimpula bwina kyalo\nbwanji.\nKinembelo 16\nBana balume ne bana bakazhi bakoma, kwakubula kutala pa mutundu nangwa\nmukoka baji na nsambu ya kusongola nangwa kusongolwa ne kwikala na\nnzubo. Kabiji bafwainwa kwikala basekelamo mu masongola abo.\nMasongola afwainwa kwikalako poso bonse babiji baitabuzhana.\nKisemi kyo kitendekesho mwaila bisaka bya bantu onkao mambo kyafwainwa\nkuvimbila.\nKinembelo 17\nYense uji na nsambu yakunonka kintu, bunke nangwa mukipanyi na bakwabo.\nKafwako yebakangata nsabo yanji mu lukanakana.\nKinembelo 18\nYense muntu wafwainwa kwilangulukila ne kwifukwila byakuba.\nKinembelo 19\nYense uji na nsambu ya kwamba moalangulukila, kabiji wakosha kubulanana\nmilanguluko yanji kubanembeshi babyambo.\nKinembelo 20\nYense uji na nsambu ya kupwila pamo na bakwabo.\nKafwako ye bakonsha kukanjikizha kupwila pamo na bakwabo ne.\nKinembelo 21\nYense waswishiwa kwikala na nsambu mu kafulumende wa kyalo kyanji,\nkupichila mwi aye mwine nangwa ntomesha wasalwa.\nYense waswishiwa kwingila mu kafulumende ya kyalo kyanji.\nNgovu ya bantu (Milangwe) po paimana bulume bwa kafulumende, ino ngovu\nikamwekela mu kusala kwikalako kimye ne kimye kwa bufyafya kwa bantu\nbonse.\nKinembelo 22\nYense muntu mu kyalo wafwainwa wavimbilwa mubwikalo bwanji, kupichila mu\nlumvwanano mukyalo kabiji ne pakachi kabyalo, kuila mu bunonshi, bukomo,\nbwikalo ne kisemwa-bileta buneme ne bukomo kwiaye mwine.\nKinembelo 23",
-            "Image": "771a084cc2ed5b3a81ad95167289e8e9"
+            "Text": "Kinembelo 15\nYense wafwainwa kutambula bwina kyalo.\nKafwako ye bakakanya kutambula bwina kyalo nangwa kupimpula bwina kyalo\nbwanji.\nKinembelo 16\nBana balume ne bana bakazhi bakoma, kwakubula kutala pa mutundu nangwa\nmukoka baji na nsambu ya kusongola nangwa kusongolwa ne kwikala na\nnzubo. Kabiji bafwainwa kwikala basekelamo mu masongola abo.\nMasongola afwainwa kwikalako poso bonse babiji baitabuzhana.\nKisemi kyo kitendekesho mwaila bisaka bya bantu onkao mambo kyafwainwa\nkuvimbila.\nKinembelo 17\nYense uji na nsambu yakunonka kintu, bunke nangwa mukipanyi na bakwabo.\nKafwako yebakangata nsabo yanji mu lukanakana.\nKinembelo 18\nYense muntu wafwainwa kwilangulukila ne kwifukwila byakuba.\nKinembelo 19\nYense uji na nsambu ya kwamba moalangulukila, kabiji wakosha kubulanana\nmilanguluko yanji kubanembeshi babyambo.\nKinembelo 20\nYense uji na nsambu ya kupwila pamo na bakwabo.\nKafwako ye bakonsha kukanjikizha kupwila pamo na bakwabo ne.\nKinembelo 21\nYense waswishiwa kwikala na nsambu mu kafulumende wa kyalo kyanji,\nkupichila mwi aye mwine nangwa ntomesha wasalwa.\nYense waswishiwa kwingila mu kafulumende ya kyalo kyanji.\nNgovu ya bantu (Milangwe) po paimana bulume bwa kafulumende, ino ngovu\nikamwekela mu kusala kwikalako kimye ne kimye kwa bufyafya kwa bantu\nbonse.\nKinembelo 22\nYense muntu mu kyalo wafwainwa wavimbilwa mubwikalo bwanji, kupichila mu\nlumvwanano mukyalo kabiji ne pakachi kabyalo, kuila mu bunonshi, bukomo,\nbwikalo ne kisemwa-bileta buneme ne bukomo kwiaye mwine.\nKinembelo 23"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "3b1a6ac54d65a0c8279f96382bafc665",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Yense wafwainwa kwingila; uji na nsambu ya kusala mingilo yoatemwa\nyamusekesha kabiji yakonsha kutwajijila.\nYense kwakubula lupusanone, wafwainwa kulipilwa malipilo a esakana na\nmingilo.\nYense wingila wafwainwa kulipilwa malipilo a mufwainwa aye mwine pamo ne\nkisemi kyanji.\nYense uji na nsambu yakutwela ne kwikala membala mu bije byambilako\nbamingilo pakuba mba ekale wavimbilwa.\nKinembelo 24\nYense uji na nsambu ya kukokoloka ne kukaya, kabiji wafwainwa kwingila\nbimye byatongolwa kabiji wafwainwa kwikala na kimye kya kukokoloka.\nKinembelo 25\nYense wafwainwa kwikala na bikwalo bwawama pakuba mba ekale nabututulu\nbwamubiji, kisemi kyanji kikale bulongo, ekale na kajo kavula, bivwalo\nbyafwainwa, pakulala pawama ne byonse bisakiwa mubwikalo ne mu bumi bwa\nmuntu.\nBana bakazhi ne bana babo bafwainwa kulama bulongo. Bonse bana nangwa\nkechi baji na bashabo bapamute ine nabo bafwainwa kulama bulongo.\nKinembelo 26\nYense wafwainwa kufunda. Lufunjisho lwafwainwa kwikala lwatu, kikatakata\nkutendekelo. Lufunjisho lwa kutendekelapo lwafwainwa kwikala lwa bonse.\nLufunjisho lwapeulu lwafwainwa kwikalako.\nLufunjisho lwafwainwa kwikala lwakuleta bukomo ku muntu pamo ne\nkukosesha nsambu yanji. Lukekala lwakuleta lumvwanano, lulekelo, ne\nbulunda pakachi ka byalo, mitundu ne lwitabilo lwabo, kabiji lukakwasha\nkusutula mingilo ya kije kya United Nations mukuleta mutende.\nBansemi baji na luusa lwakusajila bana babo lufunjisho.\nKinembelo 27\nYense uji na luusa lwakwifwezha mu bya kisemwa, byakishakulu kabiji ne\nkwingijila pamo mukuwamisha byonse bino.\nYense uji na luusa lwa kuvimbila mafunde a bwikalo pakuba mba kechi\nbataye byakishakulu ne.\nKinembelo 28\nYense uji na luusa lwa uno mukambizho wa kambizha bwikalo bwaafwainwa ku\nmuntu.\nKinembelo 29\nYense uji na luusa lwa kwikala na bantu bakwabo bo amona mba bwikalo\nbwanji bwakonsha kuwama.",
-            "Image": "3b1a6ac54d65a0c8279f96382bafc665"
+            "Text": "Yense wafwainwa kwingila; uji na nsambu ya kusala mingilo yoatemwa\nyamusekesha kabiji yakonsha kutwajijila.\nYense kwakubula lupusanone, wafwainwa kulipilwa malipilo a esakana na\nmingilo.\nYense wingila wafwainwa kulipilwa malipilo a mufwainwa aye mwine pamo ne\nkisemi kyanji.\nYense uji na nsambu yakutwela ne kwikala membala mu bije byambilako\nbamingilo pakuba mba ekale wavimbilwa.\nKinembelo 24\nYense uji na nsambu ya kukokoloka ne kukaya, kabiji wafwainwa kwingila\nbimye byatongolwa kabiji wafwainwa kwikala na kimye kya kukokoloka.\nKinembelo 25\nYense wafwainwa kwikala na bikwalo bwawama pakuba mba ekale nabututulu\nbwamubiji, kisemi kyanji kikale bulongo, ekale na kajo kavula, bivwalo\nbyafwainwa, pakulala pawama ne byonse bisakiwa mubwikalo ne mu bumi bwa\nmuntu.\nBana bakazhi ne bana babo bafwainwa kulama bulongo. Bonse bana nangwa\nkechi baji na bashabo bapamute ine nabo bafwainwa kulama bulongo.\nKinembelo 26\nYense wafwainwa kufunda. Lufunjisho lwafwainwa kwikala lwatu, kikatakata\nkutendekelo. Lufunjisho lwa kutendekelapo lwafwainwa kwikala lwa bonse.\nLufunjisho lwapeulu lwafwainwa kwikalako.\nLufunjisho lwafwainwa kwikala lwakuleta bukomo ku muntu pamo ne\nkukosesha nsambu yanji. Lukekala lwakuleta lumvwanano, lulekelo, ne\nbulunda pakachi ka byalo, mitundu ne lwitabilo lwabo, kabiji lukakwasha\nkusutula mingilo ya kije kya United Nations mukuleta mutende.\nBansemi baji na luusa lwakusajila bana babo lufunjisho.\nKinembelo 27\nYense uji na luusa lwakwifwezha mu bya kisemwa, byakishakulu kabiji ne\nkwingijila pamo mukuwamisha byonse bino.\nYense uji na luusa lwa kuvimbila mafunde a bwikalo pakuba mba kechi\nbataye byakishakulu ne.\nKinembelo 28\nYense uji na luusa lwa uno mukambizho wa kambizha bwikalo bwaafwainwa ku\nmuntu.\nKinembelo 29\nYense uji na luusa lwa kwikala na bantu bakwabo bo amona mba bwikalo\nbwanji bwakonsha kuwama."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "75a3a7c5d4cb0a7c4891f5da3b7a4dd5",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Mwaila ino nsambu, yense muntu ukakonsha kulondela mikambizho mwaila\nmizhilo kasa amwesha mushingi wa ino mikambizho pamo ne kubakwabo bantu\npakuba mba pekale lumvwanano.\nIno nsambu yapanyiwa kechi yafwainwa kwiingijisha kwakubula kulondela\nbinshite bine bya kije kya United Nations ine.\nKinembelo 30\nKafwako nangwa kimo mu ino mikambizho kyalamata kukyalo nangwa muntu kyo\nbakonsha kwingijisha mukwingila byubilo byabula kufwainwa mwaila nsambu\nne ngovu ya tongolwane.",
-            "Image": "75a3a7c5d4cb0a7c4891f5da3b7a4dd5"
+            "Text": "Mwaila ino nsambu, yense muntu ukakonsha kulondela mikambizho mwaila\nmizhilo kasa amwesha mushingi wa ino mikambizho pamo ne kubakwabo bantu\npakuba mba pekale lumvwanano.\nIno nsambu yapanyiwa kechi yafwainwa kwiingijisha kwakubula kulondela\nbinshite bine bya kije kya United Nations ine.\nKinembelo 30\nKafwako nangwa kimo mu ino mikambizho kyalamata kukyalo nangwa muntu kyo\nbakonsha kwingijisha mukwingila byubilo byabula kufwainwa mwaila nsambu\nne ngovu ya tongolwane."
         }
     }
 }

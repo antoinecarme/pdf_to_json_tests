@@ -1,54 +1,54 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581467243,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 9.216)}"
+            ],
+            "Image": "ba8d39a66d5d73acc8e2c04c08be1af0",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 9.216)}"
-            ],
-            "Text": "AKŌK MEMVENDE ENYIŃ A MENGAN BOD\nNTOL EBUG\nEyóñ bia noñ na fili, sosoo ai mvoe bia so bia olugu biave ekokom mod.\nEyóñ bia noñ na fili ya nyol ai a nsisim ene dzom ya mod ose ayi, adzeñe fe, ai na ndimi, tege yene, ebiandi\ny'akar so e minsingi ai minyanda a minnam.\nEyóñ bia noñ na ngomena ayian kala enyiñ asu e na bod be za bam nge batibili bo.\nEyóñ bia noñ na fulu mbga etam, fulu anyañ, fulu ediñ ndzo ene mfi asu mie bod ya minnam.\nEyóñ bia noñ na Akōk Memvende Ekuan Elad Meyoñ amem na aluman asu na enyiñ bod bese etebe etu dzia.\nEyóñ bia noñ na abui minnam mbamena ai Ekuan Elad meyoñ mo yebe ovañ ye na si ese ebaala memvende\nm'enyiñ ma.\nai na ovañ te otôbo mbog vom ose.\nBinga yen hne na Ekuan Elad meyoñ y'anoñ Akōk Memvende ya Mengan bod ane zen, ane ndzoñ bia yian wulu\nasu etie fili dzaan. Antoa na a zen te, a ndzoñ te nnam ose obele nkil woe, ve da, ntsogan one mbog: olugu etie\nmod.\nAtiñ 1\nAbiali bod bese, tege ai sesala, bene etie dzia a mis memvende y'enyiñ, dzom dzia etu fili nkóbó, fili ntsogan, fili\nmboan. Ve abiali te, mod ose ayem dze ene abe, dze ene mbeñ asu e mod mbog antoa ai mfi na enyiñ ewulu\nmezen mene sosoo.\nAtiñ 2\nAkōk Memvende Enyiń ane asu mod ose sesala ase ki. Fam, mininga, mbubua, ebig, Evindi, Ntañan mod ose\ntege ai sesala.\nMfa mbóg Akōk Memevende Enyiń atele nnam ose etu dzia.\nAtiñ 3\nMod ose ayian ai enyiñ ai e dzom y'akala enyiñ dzie. Mod ose akiebe ai etoa fili.\nAtiñ 4\nMod ose ane mod. Ebi ai etibili bene eki.\nAtiñ 5\nMod ayian ki ai tun nged.\nAtiñ 6\nMod ose ane mod e Vom se y'ane, e vom se akwi.\nAtiñ 7\nMvende ya bi mod ose akyae da. Mvende Y'akala fe bod bese akyae deda.\nAtiñ 8\nMod ose abele ngul n'ake etsig ntol ya nnam woe nge adañ fe kwi nala n'abe e endegele mezen ya Akōk\nMemvende ya nnam voe l'akaman ai nye.\nAtiñ 9\nMbolé, Mekaban, ebi a fuan bine eki.\nAtiñ 10\nMod ose ane fili, abele fe ngul asili dzós asu medzó y'enyiñ dzie, amu nda medzo ene engeggama.\nAtiñ 11\nDzos ya nda medzo etam ave boban a mis mebod tege dañ mvende ndo alede na mod abó evus.\nMod ziñ ayian ki ai endegele ntie mvende ya nnam y'ayem ki evus dzie. Ve da, ane evus ane mvende.",
-            "Image": "ba8d39a66d5d73acc8e2c04c08be1af0"
+            "Text": "AKŌK MEMVENDE ENYIŃ A MENGAN BOD\nNTOL EBUG\nEyóñ bia noñ na fili, sosoo ai mvoe bia so bia olugu biave ekokom mod.\nEyóñ bia noñ na fili ya nyol ai a nsisim ene dzom ya mod ose ayi, adzeñe fe, ai na ndimi, tege yene, ebiandi\ny'akar so e minsingi ai minyanda a minnam.\nEyóñ bia noñ na ngomena ayian kala enyiñ asu e na bod be za bam nge batibili bo.\nEyóñ bia noñ na fulu mbga etam, fulu anyañ, fulu ediñ ndzo ene mfi asu mie bod ya minnam.\nEyóñ bia noñ na Akōk Memvende Ekuan Elad Meyoñ amem na aluman asu na enyiñ bod bese etebe etu dzia.\nEyóñ bia noñ na abui minnam mbamena ai Ekuan Elad meyoñ mo yebe ovañ ye na si ese ebaala memvende\nm'enyiñ ma.\nai na ovañ te otôbo mbog vom ose.\nBinga yen hne na Ekuan Elad meyoñ y'anoñ Akōk Memvende ya Mengan bod ane zen, ane ndzoñ bia yian wulu\nasu etie fili dzaan. Antoa na a zen te, a ndzoñ te nnam ose obele nkil woe, ve da, ntsogan one mbog: olugu etie\nmod.\nAtiñ 1\nAbiali bod bese, tege ai sesala, bene etie dzia a mis memvende y'enyiñ, dzom dzia etu fili nkóbó, fili ntsogan, fili\nmboan. Ve abiali te, mod ose ayem dze ene abe, dze ene mbeñ asu e mod mbog antoa ai mfi na enyiñ ewulu\nmezen mene sosoo.\nAtiñ 2\nAkōk Memvende Enyiń ane asu mod ose sesala ase ki. Fam, mininga, mbubua, ebig, Evindi, Ntañan mod ose\ntege ai sesala.\nMfa mbóg Akōk Memevende Enyiń atele nnam ose etu dzia.\nAtiñ 3\nMod ose ayian ai enyiñ ai e dzom y'akala enyiñ dzie. Mod ose akiebe ai etoa fili.\nAtiñ 4\nMod ose ane mod. Ebi ai etibili bene eki.\nAtiñ 5\nMod ayian ki ai tun nged.\nAtiñ 6\nMod ose ane mod e Vom se y'ane, e vom se akwi.\nAtiñ 7\nMvende ya bi mod ose akyae da. Mvende Y'akala fe bod bese akyae deda.\nAtiñ 8\nMod ose abele ngul n'ake etsig ntol ya nnam woe nge adañ fe kwi nala n'abe e endegele mezen ya Akōk\nMemvende ya nnam voe l'akaman ai nye.\nAtiñ 9\nMbolé, Mekaban, ebi a fuan bine eki.\nAtiñ 10\nMod ose ane fili, abele fe ngul asili dzós asu medzó y'enyiñ dzie, amu nda medzo ene engeggama.\nAtiñ 11\nDzos ya nda medzo etam ave boban a mis mebod tege dañ mvende ndo alede na mod abó evus.\nMod ziñ ayian ki ai endegele ntie mvende ya nnam y'ayem ki evus dzie. Ve da, ane evus ane mvende."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 9.216)}"
+            ],
+            "Image": "6a1506cb5168452dfe8f08ead28c01c0",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 9.216)}"
-            ],
-            "Text": "Atiñ 12\nMod abele ki na abebe enyiñ e mod mbog adañ dañ mam ya metii ai atii die. Nge mod abebe e ze enyiñ mvende\ny'abi nye.\nAtiñ 13\nA si ndon, mod ose ane ngul y'awulu mbol y'adiñ. Sem fe ane mod ose abele ngul atobo e vom ayi.\nMod ose abele ngul y'abole a nnam abiali woe ake tobo mfa se y'adiñ. Nge ki akodo e za nnam asu na adugan a\nnnam abiale woe.\nAtiñ 14\nNnam eñeñam ene, mod ose ane ngul y'akodo ake dzeñ mvoe nnam mfe.\nSesala nge e mod y'akodo abele Medzo ai nnam woe nge ki na akódó mvende.\nAtiñ 15\nMod ose abele nnam abiali abe si dzam suñ ai nye.\nVe da, mod ose ane ngul ya fol nnam abiali woe.\nAtiñ 16\nA si fam ai mninga abog bekui ya bod, bebele ngul y'atindi metiñ m'alug ai abonde nda bod tege ai sesala -\nAkyae ane osusua ai amos alug, fam ai minnga bene etie dzia dzia a mis me mvende abog beman y'alug.\nMetiñ m'alug matinban ve ai nyian fam ai minnga ya badzo na balug.\nNda bod ene tin enyiñ asu te memvende me nnane mebele na mekalaga dzó.\nAtiñ 17\nMod ose ane ngul y'afug akuma yane endie, tó ane etam to ki ane a nkunda.\nMod ziñ abele ki ngul y'afadi akuma mod mbog a fuan.\nAtiñ 18\nMod ose ane ngul y'atsog ai ayebe aktae die a nnem etere nge ki a nkunda. Afol nyebe osi ki eki.\nAtiñ 19\nMod ose abele fili ntsogan ai fili nkobo. Asu te mod ziñ ayian ki bi endegele asu mintsogan nge kik, mbidan mam\netie dzie.\nAtiñ 20\nMod ose abele ngul y'alad ai nkunda mise ma sie asu elad minnem, mi saala eñeñam azañ menda me bod.\nEne eki na benod mōd na anyian ekuan ziñ.\nAtiñ 21\nMoan nnam ose abele ngul y'anóñ ngab e mam ya mabebe nnam woe. Etere hm, nge si ti emen, ane dzam tob\nbod be fe asu na betobo mis, añu ai meló moe.\nMod ose abele ngul na sie ngomena a nnam woe.\nEdzoe betebe b'osu y'a nnam etii ai nyian e boan be nnam bese bewóg. Edzoe y'atoban a sosoo, a zen be obene-\nbene ya bebele na beboban akyae nnam watele.\nAtiñ 22\nMod ose etie dzie abele ngab akuma, a mebugban ya nnam woe, endegeben ane nyiñ tege tobo engogól.\nAtiñ 23\nMod ose abele ngul asie e vom adiñ, e vom ayen mfi. Ve da Mvemde nnam yayian Kaman ai bebo bisye asui na\nbod be bi esie kom ese.\nMod ose, to fam to mininga, akiebe ai máan asu esie dzie.\nMaan bave mode mayian bo na anyiñ, atoñ fe nda bod.",
-            "Image": "6a1506cb5168452dfe8f08ead28c01c0"
+            "Text": "Atiñ 12\nMod abele ki na abebe enyiñ e mod mbog adañ dañ mam ya metii ai atii die. Nge mod abebe e ze enyiñ mvende\ny'abi nye.\nAtiñ 13\nA si ndon, mod ose ane ngul y'awulu mbol y'adiñ. Sem fe ane mod ose abele ngul atobo e vom ayi.\nMod ose abele ngul y'abole a nnam abiali woe ake tobo mfa se y'adiñ. Nge ki akodo e za nnam asu na adugan a\nnnam abiale woe.\nAtiñ 14\nNnam eñeñam ene, mod ose ane ngul y'akodo ake dzeñ mvoe nnam mfe.\nSesala nge e mod y'akodo abele Medzo ai nnam woe nge ki na akódó mvende.\nAtiñ 15\nMod ose abele nnam abiali abe si dzam suñ ai nye.\nVe da, mod ose ane ngul ya fol nnam abiali woe.\nAtiñ 16\nA si fam ai mninga abog bekui ya bod, bebele ngul y'atindi metiñ m'alug ai abonde nda bod tege ai sesala -\nAkyae ane osusua ai amos alug, fam ai minnga bene etie dzia dzia a mis me mvende abog beman y'alug.\nMetiñ m'alug matinban ve ai nyian fam ai minnga ya badzo na balug.\nNda bod ene tin enyiñ asu te memvende me nnane mebele na mekalaga dzó.\nAtiñ 17\nMod ose ane ngul y'afug akuma yane endie, tó ane etam to ki ane a nkunda.\nMod ziñ abele ki ngul y'afadi akuma mod mbog a fuan.\nAtiñ 18\nMod ose ane ngul y'atsog ai ayebe aktae die a nnem etere nge ki a nkunda. Afol nyebe osi ki eki.\nAtiñ 19\nMod ose abele fili ntsogan ai fili nkobo. Asu te mod ziñ ayian ki bi endegele asu mintsogan nge kik, mbidan mam\netie dzie.\nAtiñ 20\nMod ose abele ngul y'alad ai nkunda mise ma sie asu elad minnem, mi saala eñeñam azañ menda me bod.\nEne eki na benod mōd na anyian ekuan ziñ.\nAtiñ 21\nMoan nnam ose abele ngul y'anóñ ngab e mam ya mabebe nnam woe. Etere hm, nge si ti emen, ane dzam tob\nbod be fe asu na betobo mis, añu ai meló moe.\nMod ose abele ngul na sie ngomena a nnam woe.\nEdzoe betebe b'osu y'a nnam etii ai nyian e boan be nnam bese bewóg. Edzoe y'atoban a sosoo, a zen be obene-\nbene ya bebele na beboban akyae nnam watele.\nAtiñ 22\nMod ose etie dzie abele ngab akuma, a mebugban ya nnam woe, endegeben ane nyiñ tege tobo engogól.\nAtiñ 23\nMod ose abele ngul asie e vom adiñ, e vom ayen mfi. Ve da Mvemde nnam yayian Kaman ai bebo bisye asui na\nbod be bi esie kom ese.\nMod ose, to fam to mininga, akiebe ai máan asu esie dzie.\nMaan bave mode mayian bo na anyiñ, atoñ fe nda bod."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 9.216)}"
+            ],
+            "Image": "fedbadb79725ef3541f7193d0a39a5fe",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 9.216)}"
-            ],
-            "Text": "Mbo bisye ose ane ngul y'abonde, nge ki, a tiliban ekuan y'akaman a esie dzie.\nAtiñ 24\nMod ose abele na abii nguma abog y'asie, abog y'asamba, abog y'awae. Ve da, bayian ki vuan moni mewae.\nAtiñ 25\nEnyiñ, mod ose abele ngul y'adzeñ na atobo mvoe, atoñ emien a nda bod dzie; ayian fe ai evoli abog okoan, akus,\nayom nge ki abog ane ntet.\nMemvende me nnam mayian kala benyia be boan ai boan beben. A mis me mvende moan ane ve moan: nyo\nabiali a nda alug ane etii dzia ane e nyo abiale a nseñ.\nAtiñ 26\nAkomondo ya nnam ai a be sikulu, ayege ntóg bine fili asu mod ose, etie dzia ane ayege nen.\nAkomondo ya nnam ai ayege sikulu bene asui na bod beyem baala memvende y'enyiñ a ntilan ekuan elad meyoñ:\nanyiñ fufulu, atobo mbga, anyiñ mvoe.\nBe bonde bebele ngul y'atob zen ayege, zen akomondo asu boan baban.\nAtiñ 27\nMod ose ane ngul y'anonñ ngab ekpee mekeñ ya nnam, a dzeñ me zen ya make ai nnam osu, amu mebugban\nyete mene fe e woe.\nMod ose abele na akaman ai e dzom se abonde akeñ die ayób.\nAtiñ 28\nMod ose abele na ayidan na Akōk Memvende y'ave mod fili di ayaman si ese.\nAtiñ 29\nMod ane enodi na adzala mam ya nnam nge ayen na nnam one dzam kom enyiñ dzie.\nFili ene asu mod ose. Ve da Mvende y'akar bia biki bine asu oluga ebod bewog ai asu nnan asui na enyiñ etoba\noveves.\nEbelan Akōk Memvende di y'ayian toban ai ntsogan ai nyian Ekuan Elad Meyoń.\nAtiñ 30\nTo mod mbog, to nkunda, to nnam ziñ obele ki na obó mam me fe m'atoban ki ai Akōk Memvende di.",
-            "Image": "fedbadb79725ef3541f7193d0a39a5fe"
+            "Text": "Mbo bisye ose ane ngul y'abonde, nge ki, a tiliban ekuan y'akaman a esie dzie.\nAtiñ 24\nMod ose abele na abii nguma abog y'asie, abog y'asamba, abog y'awae. Ve da, bayian ki vuan moni mewae.\nAtiñ 25\nEnyiñ, mod ose abele ngul y'adzeñ na atobo mvoe, atoñ emien a nda bod dzie; ayian fe ai evoli abog okoan, akus,\nayom nge ki abog ane ntet.\nMemvende me nnam mayian kala benyia be boan ai boan beben. A mis me mvende moan ane ve moan: nyo\nabiali a nda alug ane etii dzia ane e nyo abiale a nseñ.\nAtiñ 26\nAkomondo ya nnam ai a be sikulu, ayege ntóg bine fili asu mod ose, etie dzia ane ayege nen.\nAkomondo ya nnam ai ayege sikulu bene asui na bod beyem baala memvende y'enyiñ a ntilan ekuan elad meyoñ:\nanyiñ fufulu, atobo mbga, anyiñ mvoe.\nBe bonde bebele ngul y'atob zen ayege, zen akomondo asu boan baban.\nAtiñ 27\nMod ose ane ngul y'anonñ ngab ekpee mekeñ ya nnam, a dzeñ me zen ya make ai nnam osu, amu mebugban\nyete mene fe e woe.\nMod ose abele na akaman ai e dzom se abonde akeñ die ayób.\nAtiñ 28\nMod ose abele na ayidan na Akōk Memvende y'ave mod fili di ayaman si ese.\nAtiñ 29\nMod ane enodi na adzala mam ya nnam nge ayen na nnam one dzam kom enyiñ dzie.\nFili ene asu mod ose. Ve da Mvende y'akar bia biki bine asu oluga ebod bewog ai asu nnan asui na enyiñ etoba\noveves.\nEbelan Akōk Memvende di y'ayian toban ai ntsogan ai nyian Ekuan Elad Meyoń.\nAtiñ 30\nTo mod mbog, to nkunda, to nnam ziñ obele ki na obó mam me fe m'atoban ki ai Akōk Memvende di."
         }
     }
 }

@@ -1,80 +1,80 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581467817,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "e3c91526ee189d2d3b7bb0370f62438e",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "DUNUƝA BƐNMAKAN KA A BƐN\nAdamadenɲa Lasabati ni a la wuriki Sariyalu ma\nKALAMA DANTƐƐLI\nBani fabadenɲa tɔmasere le ye, hɔrɔya ni telen ani jususuma di dunuɲa\ndɔ,\nBani adamaya lasabati lɔnbaliya ni a la gboyaɲɛ le nanin benkanni di mɛn\nka mɔɔlu lamuriti, ka kɛ sababu di fana ka mɔɔlu kunna fulen, ka alu lɔ\nhɔrɔya ɲinina ka alu bɔ misikinaya dɔ,\nBani adamaya lakanda ye wajibi le di, fo jamana ye kɛ jamana dafani le\ndi sariya bolo ma, wole ye a kɛla mɔɔlu tɛ muriti ka don jɛdɛ makadan\nwaa la,\nBani jamanalu la tɛɛbɛn ni alu la kaninteya ye fen ne di mɛn kakan ka\nsɛnbɛnteya,\nBani jamana mɛnnu ye \"ONU\" dɛkuruba kɔnɔ, wolu bara alu kan di ko alu di\nadamaden nakadan, ka a lawuriki ka ban ka cɛ ni muno lakaɲa ko bɛɛ dɔ,\nBani alu bara alu kan di fana, ko alu di adamaya lafasa, ka adamaden la\nhɔrɔya dafa sila bɛɛ kan,\nBani, bɛɛ bɛnni miriya kelen ma, ka a lɔ adamaya lasabati ma, wo ye\nwajibi le di bɛɛ ɲɛ, walako miriya wo ye se lataamala sila bɛɛ kan,\n\"ONU\" gbaraba bara a kandi: ko adamaden lakanda sariya ɲin bara kɛ\ndunuɲa bɛɛ ye wajibi di, sa bɛɛ ye a to i hankili la, ka i tɛsidi, ka\nmɔɔlu karan a la, ka alu jodon a la, ka a latinma jamanala tɛ.\nSariya 1\nAdamadennu bɛɛ sɔdɔnɲa kakan, hɔrɔya dɔ, fabadenɲa dɔ ani sariya ta fan\ndɔ. Hankili ni sɔnɔmɛ ye alu bɛɛ ma, a kakan wo dɔ alu ye bakelenɲa sila\nlataaman alu ɲɔɔn tɛ.\nSariya 2 nan\nMɔɔ kelen kelenna bɛɛ ni adamaden lakadan sariya kakan, i kɛda mɔɔ suusu\ndi, i sii tɛ mafɛnɛ nna, i fadikolo tɛ mafɛnɛnna, i kan tɛ mafɛnɛnna, i\nla dina tɛ mafɛnɛnna, i la jamana mara hankili tɛ mafɛnɛnna, i sɔdɔndiya\ntɛ mafɛnɛnna.\nAni fana jamanalu suuya tɛ danbɔla ka a bɛn sariya wolu ma, alu mara\nhankili kɛda a suusu di, alu ma kɛ jamanalu hɔrɔyani di, alu kɛda mara\nsuusu kɔnɔ.\nSariya 3 nan\nAdamaden kelen kelenna bɛɛ nii kakan ka lakanda, ka a la hɔrɔya lakanda,\nka a kun nakanda.\nSariya 4 nan",
-            "Image": "e3c91526ee189d2d3b7bb0370f62438e"
+            "Text": "DUNUƝA BƐNMAKAN KA A BƐN\nAdamadenɲa Lasabati ni a la wuriki Sariyalu ma\nKALAMA DANTƐƐLI\nBani fabadenɲa tɔmasere le ye, hɔrɔya ni telen ani jususuma di dunuɲa\ndɔ,\nBani adamaya lasabati lɔnbaliya ni a la gboyaɲɛ le nanin benkanni di mɛn\nka mɔɔlu lamuriti, ka kɛ sababu di fana ka mɔɔlu kunna fulen, ka alu lɔ\nhɔrɔya ɲinina ka alu bɔ misikinaya dɔ,\nBani adamaya lakanda ye wajibi le di, fo jamana ye kɛ jamana dafani le\ndi sariya bolo ma, wole ye a kɛla mɔɔlu tɛ muriti ka don jɛdɛ makadan\nwaa la,\nBani jamanalu la tɛɛbɛn ni alu la kaninteya ye fen ne di mɛn kakan ka\nsɛnbɛnteya,\nBani jamana mɛnnu ye \"ONU\" dɛkuruba kɔnɔ, wolu bara alu kan di ko alu di\nadamaden nakadan, ka a lawuriki ka ban ka cɛ ni muno lakaɲa ko bɛɛ dɔ,\nBani alu bara alu kan di fana, ko alu di adamaya lafasa, ka adamaden la\nhɔrɔya dafa sila bɛɛ kan,\nBani, bɛɛ bɛnni miriya kelen ma, ka a lɔ adamaya lasabati ma, wo ye\nwajibi le di bɛɛ ɲɛ, walako miriya wo ye se lataamala sila bɛɛ kan,\n\"ONU\" gbaraba bara a kandi: ko adamaden lakanda sariya ɲin bara kɛ\ndunuɲa bɛɛ ye wajibi di, sa bɛɛ ye a to i hankili la, ka i tɛsidi, ka\nmɔɔlu karan a la, ka alu jodon a la, ka a latinma jamanala tɛ.\nSariya 1\nAdamadennu bɛɛ sɔdɔnɲa kakan, hɔrɔya dɔ, fabadenɲa dɔ ani sariya ta fan\ndɔ. Hankili ni sɔnɔmɛ ye alu bɛɛ ma, a kakan wo dɔ alu ye bakelenɲa sila\nlataaman alu ɲɔɔn tɛ.\nSariya 2 nan\nMɔɔ kelen kelenna bɛɛ ni adamaden lakadan sariya kakan, i kɛda mɔɔ suusu\ndi, i sii tɛ mafɛnɛ nna, i fadikolo tɛ mafɛnɛnna, i kan tɛ mafɛnɛnna, i\nla dina tɛ mafɛnɛnna, i la jamana mara hankili tɛ mafɛnɛnna, i sɔdɔndiya\ntɛ mafɛnɛnna.\nAni fana jamanalu suuya tɛ danbɔla ka a bɛn sariya wolu ma, alu mara\nhankili kɛda a suusu di, alu ma kɛ jamanalu hɔrɔyani di, alu kɛda mara\nsuusu kɔnɔ.\nSariya 3 nan\nAdamaden kelen kelenna bɛɛ nii kakan ka lakanda, ka a la hɔrɔya lakanda,\nka a kun nakanda.\nSariya 4 nan"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "3ae4619ad353e4ecd7e9a0d2cffe3da4",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Mɔɔ si makan ka kɛ jɔn di, ka kɛ bolokɔnɔ mɔɔ di, jɔnɲa ni jɔnsan sila\nbɛɛ bara latɔn.\nSariya 5 nan\nJankankata suusu ma kan ka sii mɔɔ la min di se fɛ siila a la adamadenɲa\nla, ka a kunnajii.\nSariya 6 nan\nAdamaden kelen kelenna bɛɛ la mɔɔya ka kan ka lɔn a ɲɛ sariya kunda bɛɛ\nla, a kɛda fanfan di.\nSariya 7 nan\nMɔɔ bɛɛ ka kan sariya ɲa kɔdɔ, a ka kan fanan bɛɛ ye mabɛn ɲa kelen ma\nsariya bolo. Mɔɔ makan ka lafisaya mɔɔ di ka bɛn sariya ɲin lataamanɲa\nma.\nSariya 8 nan\nMɔɔ bɛɛ di se i makasila i la jamana sariya bonnu la ni bila kɛda i la\ntɔɲɛli sila ma, ni wo tɛ sariya sila ma.\nSariya 9 nan\nMɔɔ si tɛ se minala ten, ka a don kaso la hamantɛ ka gbɛn a la jamana\nkɔnɔ ni kun tɛ a la.\nSariya 10 nan\nA wajibiyani, adamaden na ko ye kɛ ko hakika di, ka a lankɛnɛmaya\nkitibon na telen kɔnɔma, ka a jo ni a jalaki danfaranbɔ.\nSariya 11 nan\nMɔɔ mɔɔ na a midada sika la sariya bolo ma, a ka kan ne ka jate fɔlɔ ko\na sɔn tɛ a dɔ, han kiti ye a jalaki lankɛnɛmaya.\nMɔɔ mɔɔ na a midada sariya kɔdɔ bolo ma, sariya kuda sila ma kan ka lɔ a\nma. Ani fana a la midali fanka ma kan ka tanbi sariya kɔdɔ jate la.\nSariya 12 nan\nMɔɔ ma kan ka a bila a mɔɔ ɲɔɔ la kolu dɔ ten; ka bɔ a la denbaya kolu\nma, a la gbundu sɛbɛlu, ka wa sii a la lukɔnɔ kolu la. A ma kan ka a\ndantiɲɛn, a ma kan ka a suma gboya. Sariya ka kan ka bɛɛ lakanda ko suu\nwolu ma.\nSariya 13 nan\nTaa ni seyi dahani bɛɛ ye jamana kɔnɔ. Jamana yɔrɔ yɔrɔ fana ka i diya,\ni dise i siila yen.\nMɔɔ kɛɛ di se ka bɔ jamana kɔnɔ, a kɛda a fabada di, a kɛda jamana gbɛdɛ\ndi, ka ban ka a kɔsɛyi.",
-            "Image": "3ae4619ad353e4ecd7e9a0d2cffe3da4"
+            "Text": "Mɔɔ si makan ka kɛ jɔn di, ka kɛ bolokɔnɔ mɔɔ di, jɔnɲa ni jɔnsan sila\nbɛɛ bara latɔn.\nSariya 5 nan\nJankankata suusu ma kan ka sii mɔɔ la min di se fɛ siila a la adamadenɲa\nla, ka a kunnajii.\nSariya 6 nan\nAdamaden kelen kelenna bɛɛ la mɔɔya ka kan ka lɔn a ɲɛ sariya kunda bɛɛ\nla, a kɛda fanfan di.\nSariya 7 nan\nMɔɔ bɛɛ ka kan sariya ɲa kɔdɔ, a ka kan fanan bɛɛ ye mabɛn ɲa kelen ma\nsariya bolo. Mɔɔ makan ka lafisaya mɔɔ di ka bɛn sariya ɲin lataamanɲa\nma.\nSariya 8 nan\nMɔɔ bɛɛ di se i makasila i la jamana sariya bonnu la ni bila kɛda i la\ntɔɲɛli sila ma, ni wo tɛ sariya sila ma.\nSariya 9 nan\nMɔɔ si tɛ se minala ten, ka a don kaso la hamantɛ ka gbɛn a la jamana\nkɔnɔ ni kun tɛ a la.\nSariya 10 nan\nA wajibiyani, adamaden na ko ye kɛ ko hakika di, ka a lankɛnɛmaya\nkitibon na telen kɔnɔma, ka a jo ni a jalaki danfaranbɔ.\nSariya 11 nan\nMɔɔ mɔɔ na a midada sika la sariya bolo ma, a ka kan ne ka jate fɔlɔ ko\na sɔn tɛ a dɔ, han kiti ye a jalaki lankɛnɛmaya.\nMɔɔ mɔɔ na a midada sariya kɔdɔ bolo ma, sariya kuda sila ma kan ka lɔ a\nma. Ani fana a la midali fanka ma kan ka tanbi sariya kɔdɔ jate la.\nSariya 12 nan\nMɔɔ ma kan ka a bila a mɔɔ ɲɔɔ la kolu dɔ ten; ka bɔ a la denbaya kolu\nma, a la gbundu sɛbɛlu, ka wa sii a la lukɔnɔ kolu la. A ma kan ka a\ndantiɲɛn, a ma kan ka a suma gboya. Sariya ka kan ka bɛɛ lakanda ko suu\nwolu ma.\nSariya 13 nan\nTaa ni seyi dahani bɛɛ ye jamana kɔnɔ. Jamana yɔrɔ yɔrɔ fana ka i diya,\ni dise i siila yen.\nMɔɔ kɛɛ di se ka bɔ jamana kɔnɔ, a kɛda a fabada di, a kɛda jamana gbɛdɛ\ndi, ka ban ka a kɔsɛyi."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "9bcc11715940e7a0f0341757c90e8571",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Sariya 14 nan\nDannatanbikolu kɔdɔ, bɛɛ di se i kun karifadiya ɲinina jamana gbɛdɛ dɔ,\ni don ma kan ka jɛn a la.\nNi sariya lɔnin tɛ mɔɔ ma, mɔɔ mɛn na a la jamana sariya tiɲɛnna ka a\nbori.\nSariya 15 nan\nMɔɔ bɛɛ ka kan ka kɛ jamana dɔ jamanaden di.\nMɔɔ si tɛ se ha jɛn a la jamana denɲa la, i don di se fanan jamana gbɛdɛ\ndenɲa sɔdɔnna.\nSariya 16 nan\nNi alu sii seda a ma, kamarennu ni den musolu di se fudula ɲɔɔn ma,\nsiɲɔɔya tɛ a dɔ, dina ko tɛ a dɔ. Alu bɛɛ kakan sariya ɲa kɔdɔ ko bɛɛ\ndɔ, fudu bolo ma.\nFudu tɛ sidi alu tɛ fo alu fila bɛɛ ba bɛn a ma.\nDenbaya le ye jama tɛfɛden di. Wo dɔ, a kakan ka lakanda jamana bolo.\nSariya 17 nan\nMɔɔ mɔɔ, a kɛda a kelen na, a kɛda jama dɔ, a di se ka a ta sɔdɔn.\nMɔɔ si bolo fen ma kan ka mina a la fanka bolo ma.\nSariya 18 nan\nHankili lamiri, sɔnɔmɛ lamiri ani dina lawasanin bɛɛ ye. I di se ka i\ndiyananta ta dinalu dɔ, ka a silalu lataama.\nSariya 19 nan\nA lawasanin bɛɛ ye ka a miriya jida, fɔli dɔ, sɛbɛli dɔ, ka hankili\nɲinin fan bɛɛ, sila bɛɛ fɛ. Ko si ma kan ka kɛ mɔɔ la wo si dɔ.\nSariya 20 nan\nA lawasani bɛɛ ye ba ɲɔɔn nadɛɛ, kuna dɔ, kɛwɛli dɔ mɛn ni janfa sila tɛ\nkelen di.\nMɔɔ tɛ se karabala ka ladon dɛɛ dɔ, dɛɛ min man di a ɲɛ.\nSariya 21 nan\nJamanaden bɛɛ di se kɛla jamana kantii di, a yɛdɛkani walal a la mɔɔ\nsuwandini.\nJamanaden bɛɛ kakan jamana baarakundalu dɔ bolo kelen ma.\nJamana kantiilu fanka siini jamana den na lannaya le ma; jamanadennu ye\nalu sawo yidala wote ni wote le, ka ala lannaya mɔɔlu suwandi telen ni",
-            "Image": "9bcc11715940e7a0f0341757c90e8571"
+            "Text": "Sariya 14 nan\nDannatanbikolu kɔdɔ, bɛɛ di se i kun karifadiya ɲinina jamana gbɛdɛ dɔ,\ni don ma kan ka jɛn a la.\nNi sariya lɔnin tɛ mɔɔ ma, mɔɔ mɛn na a la jamana sariya tiɲɛnna ka a\nbori.\nSariya 15 nan\nMɔɔ bɛɛ ka kan ka kɛ jamana dɔ jamanaden di.\nMɔɔ si tɛ se ha jɛn a la jamana denɲa la, i don di se fanan jamana gbɛdɛ\ndenɲa sɔdɔnna.\nSariya 16 nan\nNi alu sii seda a ma, kamarennu ni den musolu di se fudula ɲɔɔn ma,\nsiɲɔɔya tɛ a dɔ, dina ko tɛ a dɔ. Alu bɛɛ kakan sariya ɲa kɔdɔ ko bɛɛ\ndɔ, fudu bolo ma.\nFudu tɛ sidi alu tɛ fo alu fila bɛɛ ba bɛn a ma.\nDenbaya le ye jama tɛfɛden di. Wo dɔ, a kakan ka lakanda jamana bolo.\nSariya 17 nan\nMɔɔ mɔɔ, a kɛda a kelen na, a kɛda jama dɔ, a di se ka a ta sɔdɔn.\nMɔɔ si bolo fen ma kan ka mina a la fanka bolo ma.\nSariya 18 nan\nHankili lamiri, sɔnɔmɛ lamiri ani dina lawasanin bɛɛ ye. I di se ka i\ndiyananta ta dinalu dɔ, ka a silalu lataama.\nSariya 19 nan\nA lawasanin bɛɛ ye ka a miriya jida, fɔli dɔ, sɛbɛli dɔ, ka hankili\nɲinin fan bɛɛ, sila bɛɛ fɛ. Ko si ma kan ka kɛ mɔɔ la wo si dɔ.\nSariya 20 nan\nA lawasani bɛɛ ye ba ɲɔɔn nadɛɛ, kuna dɔ, kɛwɛli dɔ mɛn ni janfa sila tɛ\nkelen di.\nMɔɔ tɛ se karabala ka ladon dɛɛ dɔ, dɛɛ min man di a ɲɛ.\nSariya 21 nan\nJamanaden bɛɛ di se kɛla jamana kantii di, a yɛdɛkani walal a la mɔɔ\nsuwandini.\nJamanaden bɛɛ kakan jamana baarakundalu dɔ bolo kelen ma.\nJamana kantiilu fanka siini jamana den na lannaya le ma; jamanadennu ye\nalu sawo yidala wote ni wote le, ka ala lannaya mɔɔlu suwandi telen ni"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "03340d72cf5b5bc5c8822dd4da28fb4e",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "sariya dɔ.\nSariya 22 nan\nJamana bɛɛ kakan ka jamanadennu lakanda ɲa kelen ma. Sɔdɔn sila fɛ,\ndariya sila fɛ, lɔnni sila fɛ, lakandali wo ye bɔla jamana boloko le dɔ\nani a ye min sɔdɔnna ani jamana gbɛdɛlu la baaraɲɔɔya dɔ.\nSariya 23 nan\nBɛɛ kakan ka baara sɔdɔn, ka baara kɛ sɔnɔya dɔ, baara mɛn duman i ɲɛ;\nbɛɛ kakan ka latanka baaratanɲa ma jamana kɔnɔ.\nBaara mɛnnu jate kakan, wolu kakan ka sara ɲa kelen ne ma a kɛbaalu ye.\nBaara kakan ka sara sɔdɔn, sara mɛn di baarala ni a la denbaya balo hali\na ma dɛsɛ.\nBaaralalu la ɲɔɔn nakafo dahani alu ye, alu la munanfan makadan sila fɛ.\nSariya 24 nan\nƝɔɔɲɔnni ni ɲanatɛ wajibiyani baarala bɛɛ ye, mɛn ni sara tɛɛ tɛ kelen\ndi.\nSariya 25 nan\nSe wajibiyani bɛɛ ye, se mɛn di ani a la denbaya daha, ka alu kisi\nkɔnkɔn ma, ka alu dafiyabɔ, ka lau jiya, ka alu dandan ani ka alu\nmusakalu ɲa. Ni jankaro ni baaratanɲa ani misikinaya latɛɛ suusu seda i\nma, i kakan ka makadan.\nDenbatii ni a den kakan ka madɛmɛn; den sɔdɔnda fudu dɔ, a ma sɔdɔn fudu\ndɔ, a bɛɛ kakan.\nSariya 26 nan\nKakan wajibiyani bɛɛ ye, a don ma kan ka sara katɛrɛ karan saara fɔlɔ ni\na filanan ma. Karan saara fɔlɔ ye wajibi le di bɛɛ ye. Baara makaran ka\nkan ka aalawanka. Bɛɛ ka kan ka karan saara naaninan masɔdɔn tɛɛ sidi\nbolo le ma.\nKaran ka kan ka mɔɔ llawanka, ha a la mɔɔya lasabati, ka a la hɔrɔya\nlawasa. A kakan ka kɛ sababu di ka ɲɔɔn nagboyaɲɛ boloka, ka hina ni\nteriɲɔɔya ladon dunuɲa dɔ, siyalu tɛ, dinalu tɛ, ka \"ONU\" dɛɛkuruba\nmadɛmɛn bɛn nadonna dunuɲa kɔnɔ.\nA dahani denbatiilu ye ka alu den bila karan na, karan mɛn duman alu ye.\nSariya 27 nan\nA wajibiyani bɛɛ ye ka tɛrɛ i la jamana lɔnniko bɛɛ dɔ han ka a tɔnɔ\nsɔdɔn.\nBɛɛ la baara tɔnɔ kakan ka lakanda, a kɛda sɛbɛ di, a kɛda lɔnni suusu\ndi.",
-            "Image": "03340d72cf5b5bc5c8822dd4da28fb4e"
+            "Text": "sariya dɔ.\nSariya 22 nan\nJamana bɛɛ kakan ka jamanadennu lakanda ɲa kelen ma. Sɔdɔn sila fɛ,\ndariya sila fɛ, lɔnni sila fɛ, lakandali wo ye bɔla jamana boloko le dɔ\nani a ye min sɔdɔnna ani jamana gbɛdɛlu la baaraɲɔɔya dɔ.\nSariya 23 nan\nBɛɛ kakan ka baara sɔdɔn, ka baara kɛ sɔnɔya dɔ, baara mɛn duman i ɲɛ;\nbɛɛ kakan ka latanka baaratanɲa ma jamana kɔnɔ.\nBaara mɛnnu jate kakan, wolu kakan ka sara ɲa kelen ne ma a kɛbaalu ye.\nBaara kakan ka sara sɔdɔn, sara mɛn di baarala ni a la denbaya balo hali\na ma dɛsɛ.\nBaaralalu la ɲɔɔn nakafo dahani alu ye, alu la munanfan makadan sila fɛ.\nSariya 24 nan\nƝɔɔɲɔnni ni ɲanatɛ wajibiyani baarala bɛɛ ye, mɛn ni sara tɛɛ tɛ kelen\ndi.\nSariya 25 nan\nSe wajibiyani bɛɛ ye, se mɛn di ani a la denbaya daha, ka alu kisi\nkɔnkɔn ma, ka alu dafiyabɔ, ka lau jiya, ka alu dandan ani ka alu\nmusakalu ɲa. Ni jankaro ni baaratanɲa ani misikinaya latɛɛ suusu seda i\nma, i kakan ka makadan.\nDenbatii ni a den kakan ka madɛmɛn; den sɔdɔnda fudu dɔ, a ma sɔdɔn fudu\ndɔ, a bɛɛ kakan.\nSariya 26 nan\nKakan wajibiyani bɛɛ ye, a don ma kan ka sara katɛrɛ karan saara fɔlɔ ni\na filanan ma. Karan saara fɔlɔ ye wajibi le di bɛɛ ye. Baara makaran ka\nkan ka aalawanka. Bɛɛ ka kan ka karan saara naaninan masɔdɔn tɛɛ sidi\nbolo le ma.\nKaran ka kan ka mɔɔ llawanka, ha a la mɔɔya lasabati, ka a la hɔrɔya\nlawasa. A kakan ka kɛ sababu di ka ɲɔɔn nagboyaɲɛ boloka, ka hina ni\nteriɲɔɔya ladon dunuɲa dɔ, siyalu tɛ, dinalu tɛ, ka \"ONU\" dɛɛkuruba\nmadɛmɛn bɛn nadonna dunuɲa kɔnɔ.\nA dahani denbatiilu ye ka alu den bila karan na, karan mɛn duman alu ye.\nSariya 27 nan\nA wajibiyani bɛɛ ye ka tɛrɛ i la jamana lɔnniko bɛɛ dɔ han ka a tɔnɔ\nsɔdɔn.\nBɛɛ la baara tɔnɔ kakan ka lakanda, a kɛda sɛbɛ di, a kɛda lɔnni suusu\ndi."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "c0828f6515cb148861591039795c6552",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Sariya 28 nan\nA dahani jamana bɛɛ ye ka bɔ sila di, sila mɛn di sariya ɲinnu lakanda\nka kɛ kunnafulen di adamadennu ma.\nSariya 29 nan\nBolo kɔyinin kelen tɛ bɛrɛ ta, wo dɔ, bɛɛ kakan ka kolo i la jama.\nJamana dafani dɔ, ɛbɛɛ kakan ka to sariya le kɔ walako i kana bila dolu\ntɔɲɛ dɔ.\nSariya ɲinnu kakan ka lataaman \"ONU\" dɛɛkuruba la miriya le kan. A makan\nka llataaman miriya gbɛdɛ kan.\nSariya 30 nan\nDalilu si tɛ mɔɔ bolo, a tɛ jamana bolo, ka bɔ sila di, sila mɛn di\nsariyaba ɲinnu tiɲɛn.",
-            "Image": "c0828f6515cb148861591039795c6552"
+            "Text": "Sariya 28 nan\nA dahani jamana bɛɛ ye ka bɔ sila di, sila mɛn di sariya ɲinnu lakanda\nka kɛ kunnafulen di adamadennu ma.\nSariya 29 nan\nBolo kɔyinin kelen tɛ bɛrɛ ta, wo dɔ, bɛɛ kakan ka kolo i la jama.\nJamana dafani dɔ, ɛbɛɛ kakan ka to sariya le kɔ walako i kana bila dolu\ntɔɲɛ dɔ.\nSariya ɲinnu kakan ka lataaman \"ONU\" dɛɛkuruba la miriya le kan. A makan\nka llataaman miriya gbɛdɛ kan.\nSariya 30 nan\nDalilu si tɛ mɔɔ bolo, a tɛ jamana bolo, ka bɔ sila di, sila mɛn di\nsariyaba ɲinnu tiɲɛn."
         }
     }
 }

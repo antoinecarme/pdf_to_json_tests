@@ -1,132 +1,132 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581469703,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "a42eebe332bf1ee7cf39a9b480950d6c",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "CHIBVOMEREZO CA LAMULO LOSAMALIRA KHALIDWE LA MUNTHU PA DZIKO LONSE LA\nPANSI\nCIYAMBI\nPopeza kuti citsimikizo ca khalidwe loyenera la munthu mu banja lonse ndico tsinde la ufulu, ungwiro ndi\nmtendere pa dziko liri lonse la pansi,\nPopeza kuti kusalabadira ufulu wa munthu kwabweretsa khalidwe la nkhalwe pa umoyo wa munthu, ndi\nkutinso kusintha kwa zinthu pa dziko la pansi mwakufuna kupereka ufulu weni-weni pa umoyo wa munthu\naliyense ndilo funo la munthu wamba aliyense,\nPopeza kuti ndi kofunikira kuti ufulu wa munthu ucinjirizidwe ndi lamulo pofuna kupewa nkhondo\nyomenyera ufulu kukhala ngati njira yomwe munthu angagwiritse nchito pofuna kumasulidwa ku nsinga za\nnkhalwe,\nPopeza kuti ndi kofunikira kukweza umodzi pakati pa mitundu ya maiko osiyana-siyana pa dziko lonse la\npansi,\nPopeza kuti anthu a m' maiko amene ali mamembala a bungwe la United Nations anabvomereza za\nkufunikira kwa ufulu wa munthu mu makhalidwe ace onse ndiponso kuti sipayenera kukhala kusiyana pakati\npa mwamuna ndi mkazi m' makhalidwe ao ndikutinso maikowa anadzipereka kukweza nchito za cisangalalo\nndi makhalidwe ena pa ufulu wa munthu,\nPopeza kuti maiko amene ali mamembala a bungweli la United Nations anatsimikiza kugwirizana ndi\nbungweli pa nchito zokweza ufulu wa munthu pa umoyo wace ndi kutsatira zofunikira zonse mu lamuloli\nlopereka ufulu weni-weni pa umoyo wa munthu,\nPopeza kuti kumvetsetsa cifuniro ca kufunika kwace kwa ufulu wa munthu pa umoyo wace kuli kofunikira",
-            "Image": "a42eebe332bf1ee7cf39a9b480950d6c"
+            "Text": "CHIBVOMEREZO CA LAMULO LOSAMALIRA KHALIDWE LA MUNTHU PA DZIKO LONSE LA\nPANSI\nCIYAMBI\nPopeza kuti citsimikizo ca khalidwe loyenera la munthu mu banja lonse ndico tsinde la ufulu, ungwiro ndi\nmtendere pa dziko liri lonse la pansi,\nPopeza kuti kusalabadira ufulu wa munthu kwabweretsa khalidwe la nkhalwe pa umoyo wa munthu, ndi\nkutinso kusintha kwa zinthu pa dziko la pansi mwakufuna kupereka ufulu weni-weni pa umoyo wa munthu\naliyense ndilo funo la munthu wamba aliyense,\nPopeza kuti ndi kofunikira kuti ufulu wa munthu ucinjirizidwe ndi lamulo pofuna kupewa nkhondo\nyomenyera ufulu kukhala ngati njira yomwe munthu angagwiritse nchito pofuna kumasulidwa ku nsinga za\nnkhalwe,\nPopeza kuti ndi kofunikira kukweza umodzi pakati pa mitundu ya maiko osiyana-siyana pa dziko lonse la\npansi,\nPopeza kuti anthu a m' maiko amene ali mamembala a bungwe la United Nations anabvomereza za\nkufunikira kwa ufulu wa munthu mu makhalidwe ace onse ndiponso kuti sipayenera kukhala kusiyana pakati\npa mwamuna ndi mkazi m' makhalidwe ao ndikutinso maikowa anadzipereka kukweza nchito za cisangalalo\nndi makhalidwe ena pa ufulu wa munthu,\nPopeza kuti maiko amene ali mamembala a bungweli la United Nations anatsimikiza kugwirizana ndi\nbungweli pa nchito zokweza ufulu wa munthu pa umoyo wace ndi kutsatira zofunikira zonse mu lamuloli\nlopereka ufulu weni-weni pa umoyo wa munthu,\nPopeza kuti kumvetsetsa cifuniro ca kufunika kwace kwa ufulu wa munthu pa umoyo wace kuli kofunikira"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "ee76e53e0cda0e9297859fa0531f23fe",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "kwambiri pofuna kuti cibvomerezoci cigwire nchito yace moyenera.\nMotero tsopano, bungwe lalikulu la General Assembly likulengeza\nChibvomerezoci pakati pa imitundu ya antu onse a dzikoli la pansi, ndikuti munthu aliyense mokumbukira\nchibvomerezoci nthawi zonse adzakhoza kuthandiza kukweza ndi kukwaniritsa lamuloli pakati pa maiko\nonse amene ali mamembala a bungwe la United Nations ndiponso ku anthu okhala m' maiko ena amene\nsakhudzidwa ndi nchito za bungweli pa dziko lonse la pansi.\nMutu 1\nAnthu onse amabadwa mwa ufulu ndiponso olinganga m' makhalidwe ao. Iwo amakhala ndi nzeru za\ncibadwidwe kotero ayenera kucitirana zabwino wina ndi mnzace.\nMutu 2\nMunthu aliyense ali ndi danga lokhala ndi ufulu onse ofunikira pa umoyo wace molingana ndi zofunikira mu\nchibvomerezoci kopanda tsankho liri lonse monga la mtundu, khungu, kukhala mwamuna kapena mkazi,\ncilankhulidwe, cuma kapena maonekedwe ena ace onse.\nNdiponso tsankho lina liri lonse monga la malire a maiko, ndale kapena malo opezeka maikowo mosayang'\nana pa ulamuliro wace wa dzikolo pai nkhani za ufulu kapena kayendetsedwe ka ulamuliro wace.\nMutu 3\nMunthu aliyense ali nao ufulu wapa umoyo m' makhalidwe ace onse mocinjirizidwa.\nMutu 4\nPalibe munthu amene adzakhala monga kapolo kapena kugwira nchito yopanda malipiro mokakamizidwa;\nUkapolo kapena cibalo sizidzaloledwa ngakhale pang' ono.",
-            "Image": "ee76e53e0cda0e9297859fa0531f23fe"
+            "Text": "kwambiri pofuna kuti cibvomerezoci cigwire nchito yace moyenera.\nMotero tsopano, bungwe lalikulu la General Assembly likulengeza\nChibvomerezoci pakati pa imitundu ya antu onse a dzikoli la pansi, ndikuti munthu aliyense mokumbukira\nchibvomerezoci nthawi zonse adzakhoza kuthandiza kukweza ndi kukwaniritsa lamuloli pakati pa maiko\nonse amene ali mamembala a bungwe la United Nations ndiponso ku anthu okhala m' maiko ena amene\nsakhudzidwa ndi nchito za bungweli pa dziko lonse la pansi.\nMutu 1\nAnthu onse amabadwa mwa ufulu ndiponso olinganga m' makhalidwe ao. Iwo amakhala ndi nzeru za\ncibadwidwe kotero ayenera kucitirana zabwino wina ndi mnzace.\nMutu 2\nMunthu aliyense ali ndi danga lokhala ndi ufulu onse ofunikira pa umoyo wace molingana ndi zofunikira mu\nchibvomerezoci kopanda tsankho liri lonse monga la mtundu, khungu, kukhala mwamuna kapena mkazi,\ncilankhulidwe, cuma kapena maonekedwe ena ace onse.\nNdiponso tsankho lina liri lonse monga la malire a maiko, ndale kapena malo opezeka maikowo mosayang'\nana pa ulamuliro wace wa dzikolo pai nkhani za ufulu kapena kayendetsedwe ka ulamuliro wace.\nMutu 3\nMunthu aliyense ali nao ufulu wapa umoyo m' makhalidwe ace onse mocinjirizidwa.\nMutu 4\nPalibe munthu amene adzakhala monga kapolo kapena kugwira nchito yopanda malipiro mokakamizidwa;\nUkapolo kapena cibalo sizidzaloledwa ngakhale pang' ono."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "3351a9290a24adf178cd3e29d5771b2f",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Mutu 5\nPalibe munthu aliyense amene adzayenera kuzunzidwa mu njira iriyonse pa nthawi ya moyo wace.\nMutu 6\nMunthu aliyense ali obvomerezedwa mu umoyo wace wa umunthu molingana ndi lamulo loyang' ana pa\nmakhalidwe a munthu.\nMutu 7\nAnthu onse ali olingana m' makhalidwe a umoyo wao kotero kuti palibe kusiyana kuli konse mu lamulo la\nkasamalidwe ka umoyo wao. Motero munthu aliyense ali nalo danga lokhala ndi cisamaliro coyenera\nmolingana ndi chibvomerezo ca lamulo losamalira khalidwe la umoyo wa munthu aliyense.\nMutu 8\nMunthu aliyense ali nalo danga lodandaula pa khalidwe la umoyo wace ku mabungwe akulu-akulu oyang'\nana pa madandaulo osiyana-siyana mu dziko malinga ndi ufulu wa munthu aliyense opatsidwa mwa lamulo\npa umoyo wace.\nMutu 9\nMunthu aliyense sayenera kumangidwa, kusungidwa mu ndende kapena kuthamangitsidwa mu dziko lace\nmosayenera.\nMutu 10\nMunthy aliyense ali ndi danga lopereka dandaulo lace lokhudza za ufulu wa moyo wace ku bungwe la padera\nla cilungamo pofuna kulandira ciweruzo coyenera pa mlandu uli onse umene munthu angapezeke nao.\nMutu 11",
-            "Image": "3351a9290a24adf178cd3e29d5771b2f"
+            "Text": "Mutu 5\nPalibe munthu aliyense amene adzayenera kuzunzidwa mu njira iriyonse pa nthawi ya moyo wace.\nMutu 6\nMunthu aliyense ali obvomerezedwa mu umoyo wace wa umunthu molingana ndi lamulo loyang' ana pa\nmakhalidwe a munthu.\nMutu 7\nAnthu onse ali olingana m' makhalidwe a umoyo wao kotero kuti palibe kusiyana kuli konse mu lamulo la\nkasamalidwe ka umoyo wao. Motero munthu aliyense ali nalo danga lokhala ndi cisamaliro coyenera\nmolingana ndi chibvomerezo ca lamulo losamalira khalidwe la umoyo wa munthu aliyense.\nMutu 8\nMunthu aliyense ali nalo danga lodandaula pa khalidwe la umoyo wace ku mabungwe akulu-akulu oyang'\nana pa madandaulo osiyana-siyana mu dziko malinga ndi ufulu wa munthu aliyense opatsidwa mwa lamulo\npa umoyo wace.\nMutu 9\nMunthu aliyense sayenera kumangidwa, kusungidwa mu ndende kapena kuthamangitsidwa mu dziko lace\nmosayenera.\nMutu 10\nMunthy aliyense ali ndi danga lopereka dandaulo lace lokhudza za ufulu wa moyo wace ku bungwe la padera\nla cilungamo pofuna kulandira ciweruzo coyenera pa mlandu uli onse umene munthu angapezeke nao.\nMutu 11"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "4f233073865f3bf2c909cf185b6476ae",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Munthu aliyense akazengedwa mlandu wofika nao mu khoti, munthuyo ayenera kuyesedwa osacimwa\nkufikira pataoneka umboni otsimikiza kuti iyeyo anacita cimolo.\nMunthu aliyense sayenera kuzengedwa mlandu osayenera motsutsana ndi lamulo la dziko lace kapena dziko\nlonse la pansi. Ndipo munthu aliyense ocimwila lamulo ayenera kupatsidwa cilango colingana ndi mlanduyo\nmosapitilira malire a lamulo la mlandu wace.\nMutu 12\nMunthu aliyense ayenera kulemekezedwa pa umoyo wace wa mseri (private life), banja kapena nyumba yace\nndiponso umoyo wina wa iye yekha, mwinanso kudzudzulidwa pa khalidwe la umoyo wace wa mseri.\nAliyense ali nalo danga locinjirizidwa ku khalidwe losokoneza umoyo wace mwa lamulo.\nMutu 13\nMunthu aliyense ali nalo danga loyenda kapena kukhala kuli konse mu dziko lace.\nMunthu aliyense ali ndi danga locoka mu dziko lace kapena dziko lina liri lonse ndiponso ali nalo danga\nlobwelera mu dziko lace mwakufuna kwace.\nMutu 14\nMunthu aliyense angathe kupita kukakhala ku dziko liri lonse mwakuthawa mazunzo mu dziko lace.\nKomatu danga lotereli siridzaperekedwa ku munthu ofuna kulangidwa kaamba ka zolakwa zina\nzobvomerezedwa ndi bungwe la United Nations.\nMutu 15\nMunthu aliyense ali ndi danga lokhala nzika ya dziko.\nMunthu aliyense sayenera kuletsedwa kapena kulandidwa unzika wa dziko lace ndiponso kuletsedwa",
-            "Image": "4f233073865f3bf2c909cf185b6476ae"
+            "Text": "Munthu aliyense akazengedwa mlandu wofika nao mu khoti, munthuyo ayenera kuyesedwa osacimwa\nkufikira pataoneka umboni otsimikiza kuti iyeyo anacita cimolo.\nMunthu aliyense sayenera kuzengedwa mlandu osayenera motsutsana ndi lamulo la dziko lace kapena dziko\nlonse la pansi. Ndipo munthu aliyense ocimwila lamulo ayenera kupatsidwa cilango colingana ndi mlanduyo\nmosapitilira malire a lamulo la mlandu wace.\nMutu 12\nMunthu aliyense ayenera kulemekezedwa pa umoyo wace wa mseri (private life), banja kapena nyumba yace\nndiponso umoyo wina wa iye yekha, mwinanso kudzudzulidwa pa khalidwe la umoyo wace wa mseri.\nAliyense ali nalo danga locinjirizidwa ku khalidwe losokoneza umoyo wace mwa lamulo.\nMutu 13\nMunthu aliyense ali nalo danga loyenda kapena kukhala kuli konse mu dziko lace.\nMunthu aliyense ali ndi danga locoka mu dziko lace kapena dziko lina liri lonse ndiponso ali nalo danga\nlobwelera mu dziko lace mwakufuna kwace.\nMutu 14\nMunthu aliyense angathe kupita kukakhala ku dziko liri lonse mwakuthawa mazunzo mu dziko lace.\nKomatu danga lotereli siridzaperekedwa ku munthu ofuna kulangidwa kaamba ka zolakwa zina\nzobvomerezedwa ndi bungwe la United Nations.\nMutu 15\nMunthu aliyense ali ndi danga lokhala nzika ya dziko.\nMunthu aliyense sayenera kuletsedwa kapena kulandidwa unzika wa dziko lace ndiponso kuletsedwa"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "168ec80832c5c9eee7978ee229a23c09",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "kusintha unzika wace.\nMutu 16\nMwamuna ndi mkazi wa msinkhu obvomerezeka ali ndi danga lokwatira kapena kukwatiwa ndi kukhala ndi\nbanja kopanda tsankho la mtundu, unzika kapena mpingo. Anthu awiriwa ali ndi danga lomanga banja\nndiponso kumasula banja lao.\nCikwati ciri conse cidzamangidwa mobvomerezedwa ndi anthu awiri ofuna kukwatirana mwa ufulu.\nBanja ndilo maziko eni-eni a mtundu wa dziko kotero kuti liyenera kukhala locinjirizidwa mokwanira ndi\nBoma la dziko.\nMutu 17\nMunthu aliyense ali nalo danga lokhala ndi cuma pa iye yekha kapena mwakukhala gulu ndi anzace.\nPalibe munthu amene ayenera kulandidwa cuma cace mosayenera.\nMutu 18\nMunthu aliyense ali ndi danga lokhala ndi maganizo, nzeru kapena mpingo wa kukhosi kwace; ufuluwu ndi\nosintha mpingo kapena cipembedzo cace ndiponso ufulu wofalitsa nchito ndi cikhulupiliro ca mpingo mwa\niye yekha kapena mogwirizana ndi anzace kupsyolera m' maphunziro, kacitidwe ka zinthu, cipembedzo\nndiponso mu kaonekedwe ka nchitoyo.\nMutu 19\nMunthu aliyense ali ndi danga la ufulu wa maganizo ndi malankhulidwe; ufuluwu ukhudza maganizo a\nmunthu kopanda msokonezo wina wace, kupempha ndi kulandira nzeru ndiponso kuphunzitsa ena nzeru\nkapena maganizo mogwiritsa nchito njira iriyonse.",
-            "Image": "168ec80832c5c9eee7978ee229a23c09"
+            "Text": "kusintha unzika wace.\nMutu 16\nMwamuna ndi mkazi wa msinkhu obvomerezeka ali ndi danga lokwatira kapena kukwatiwa ndi kukhala ndi\nbanja kopanda tsankho la mtundu, unzika kapena mpingo. Anthu awiriwa ali ndi danga lomanga banja\nndiponso kumasula banja lao.\nCikwati ciri conse cidzamangidwa mobvomerezedwa ndi anthu awiri ofuna kukwatirana mwa ufulu.\nBanja ndilo maziko eni-eni a mtundu wa dziko kotero kuti liyenera kukhala locinjirizidwa mokwanira ndi\nBoma la dziko.\nMutu 17\nMunthu aliyense ali nalo danga lokhala ndi cuma pa iye yekha kapena mwakukhala gulu ndi anzace.\nPalibe munthu amene ayenera kulandidwa cuma cace mosayenera.\nMutu 18\nMunthu aliyense ali ndi danga lokhala ndi maganizo, nzeru kapena mpingo wa kukhosi kwace; ufuluwu ndi\nosintha mpingo kapena cipembedzo cace ndiponso ufulu wofalitsa nchito ndi cikhulupiliro ca mpingo mwa\niye yekha kapena mogwirizana ndi anzace kupsyolera m' maphunziro, kacitidwe ka zinthu, cipembedzo\nndiponso mu kaonekedwe ka nchitoyo.\nMutu 19\nMunthu aliyense ali ndi danga la ufulu wa maganizo ndi malankhulidwe; ufuluwu ukhudza maganizo a\nmunthu kopanda msokonezo wina wace, kupempha ndi kulandira nzeru ndiponso kuphunzitsa ena nzeru\nkapena maganizo mogwiritsa nchito njira iriyonse."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "defc66a9ee2798f1ed877cab38860ccc",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Mutu 20\nMunthu aliyense ali ndi danga lopezeka pa msonkhano kapena bungwe liri lonse.\nMunthu aliyense sayenera kukakamizidwa kukhala membala wa bungwe liri lonse.\nMutu 21\nMunthu aliyense ali ndi danga logwapo pa kayendetsedwe ka Boma la dziko lace mwakudzipereka pa nchito\nzace kapena mwakusankhako atsogoleri olankhulira nchito za Bomalo.\nAliyense ali ndi ufulu olandira thandizo la Boma mu dziko lace.\nBoma liri lonse lidzayenera kuyendetsedwa molingana ndi zofuna za anthu amu dzikolo; zofuna za anthuwo\nzidzaonetsedwa kupsyolera mu masankho oyenera amene adzayenera kucitika mwa cilungamo mwa ufulu\nwa munthu aliyense wa dziko.\nMutu 22\nMunthu aliyense pokhala nzika ya dziko ali ndi danga lolandira citetezo pa nchito za cisangalalo ca moyo\nwace ndi kuti ayenera kuzindikira za ufulu wace pa nchito za cuma, cisangalalo ndi miyambo cinthu comwe\nciri cofunikira kwambiri pa ubwino ndi citukuko ca moyo wace.\nMutu 23\nMunthu aliyense ali ndi danga logwira nchito yaku khosi kwace, kugwira nchito ya malamulo oyenera\nndiponso kuthandizidwa pa bvuto la kusowa kwa nchito.\nMunthu aliyense kopanda tsankho liri lonse ali ndi danga lolandira malipiro molingana ndi anzace ogwira\nnao nchito imodzi.\nMunthu aliyense ogwira nchito ali ndi danga lolandira malipiro okwanira kusamalira banja lace",
-            "Image": "defc66a9ee2798f1ed877cab38860ccc"
+            "Text": "Mutu 20\nMunthu aliyense ali ndi danga lopezeka pa msonkhano kapena bungwe liri lonse.\nMunthu aliyense sayenera kukakamizidwa kukhala membala wa bungwe liri lonse.\nMutu 21\nMunthu aliyense ali ndi danga logwapo pa kayendetsedwe ka Boma la dziko lace mwakudzipereka pa nchito\nzace kapena mwakusankhako atsogoleri olankhulira nchito za Bomalo.\nAliyense ali ndi ufulu olandira thandizo la Boma mu dziko lace.\nBoma liri lonse lidzayenera kuyendetsedwa molingana ndi zofuna za anthu amu dzikolo; zofuna za anthuwo\nzidzaonetsedwa kupsyolera mu masankho oyenera amene adzayenera kucitika mwa cilungamo mwa ufulu\nwa munthu aliyense wa dziko.\nMutu 22\nMunthu aliyense pokhala nzika ya dziko ali ndi danga lolandira citetezo pa nchito za cisangalalo ca moyo\nwace ndi kuti ayenera kuzindikira za ufulu wace pa nchito za cuma, cisangalalo ndi miyambo cinthu comwe\nciri cofunikira kwambiri pa ubwino ndi citukuko ca moyo wace.\nMutu 23\nMunthu aliyense ali ndi danga logwira nchito yaku khosi kwace, kugwira nchito ya malamulo oyenera\nndiponso kuthandizidwa pa bvuto la kusowa kwa nchito.\nMunthu aliyense kopanda tsankho liri lonse ali ndi danga lolandira malipiro molingana ndi anzace ogwira\nnao nchito imodzi.\nMunthu aliyense ogwira nchito ali ndi danga lolandira malipiro okwanira kusamalira banja lace"
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "ee26344fa20803295521d6b6f91e6e31",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "mopatsidwanso thandizo lina la padera losamalira umoyo wace.\nMunthu aliyense ali ndi danga lokhala membala wa bungwe liri lonse lothandiza pa umoyo wace.\nMutu 24\nMunthu aliyense ali ndi danga lopeza mpumulo ndi cisangalalo mwakupatsidwa maola okwanira ogwiliramo\nnchito ndi masiku a chuti ca malipiro.\nMutu 25\nMuthu aliyense ali ndi danga lokhala ndi umoyo wabwino mu banja lace, mwakukhala ndi cakudya, zobvala,\nnyumba yogonamo ndiponso thandizo la mankhwala, kudzanso thandizo loyenera pa nthawi yosowa nchito,\nnthawi ya matenda, nthawi yopuwala (kulemala), nthawi ya umasiye, nthawi ya ukalamba kapena nthawi\nyosowa thandizo liri lonse lofunikira pa umoyo wa munthu kaamba ka zobvuta zina zodziwika bwino.\nAnakubala pamodzi ndi ana ayenera kupatsidwa cisamaliro ca padera pa umoyo wao. Ana onse pamodzi ndi\naja amene abadwa mu njira zosayenera ayenera kutetezedwa mu njira imodzi.\nMutu 26\nMunthu aliyense ali ndi ufulu wa kupata maphunziro. Maphunziro oyamba adzayenera kukhala a ulere\nkomanso mokakamiza mwana aliyense kupata maphunzirowa. Maphunziro a nchito za luso adzayenera\nkupatsidwa kwa aliyense pamene maphunziro a pamwamba adzapatsidwa ku ana molingana ndi nzeru zao.\nMunthu aliyense adzaphunzitsidwa za kasamalidwe ndi kakulidwe ka umoyo wa munthu ndi kakwezedwe ka\nulemu wa munthu ndi ufulu wa umoyo wace. Maphunziro oterewa adzakhala ofuna kukweza umodzi,\ncikhululukiro ndi ubwenzi pakati pa anthu a maiko, magulu a mipingo ndi ena osiyana-siyana ndiponso\nkulimbikitsa nchito za bungwe la United Nations pofuna kukhazikitsa mtendere.",
-            "Image": "ee26344fa20803295521d6b6f91e6e31"
+            "Text": "mopatsidwanso thandizo lina la padera losamalira umoyo wace.\nMunthu aliyense ali ndi danga lokhala membala wa bungwe liri lonse lothandiza pa umoyo wace.\nMutu 24\nMunthu aliyense ali ndi danga lopeza mpumulo ndi cisangalalo mwakupatsidwa maola okwanira ogwiliramo\nnchito ndi masiku a chuti ca malipiro.\nMutu 25\nMuthu aliyense ali ndi danga lokhala ndi umoyo wabwino mu banja lace, mwakukhala ndi cakudya, zobvala,\nnyumba yogonamo ndiponso thandizo la mankhwala, kudzanso thandizo loyenera pa nthawi yosowa nchito,\nnthawi ya matenda, nthawi yopuwala (kulemala), nthawi ya umasiye, nthawi ya ukalamba kapena nthawi\nyosowa thandizo liri lonse lofunikira pa umoyo wa munthu kaamba ka zobvuta zina zodziwika bwino.\nAnakubala pamodzi ndi ana ayenera kupatsidwa cisamaliro ca padera pa umoyo wao. Ana onse pamodzi ndi\naja amene abadwa mu njira zosayenera ayenera kutetezedwa mu njira imodzi.\nMutu 26\nMunthu aliyense ali ndi ufulu wa kupata maphunziro. Maphunziro oyamba adzayenera kukhala a ulere\nkomanso mokakamiza mwana aliyense kupata maphunzirowa. Maphunziro a nchito za luso adzayenera\nkupatsidwa kwa aliyense pamene maphunziro a pamwamba adzapatsidwa ku ana molingana ndi nzeru zao.\nMunthu aliyense adzaphunzitsidwa za kasamalidwe ndi kakulidwe ka umoyo wa munthu ndi kakwezedwe ka\nulemu wa munthu ndi ufulu wa umoyo wace. Maphunziro oterewa adzakhala ofuna kukweza umodzi,\ncikhululukiro ndi ubwenzi pakati pa anthu a maiko, magulu a mipingo ndi ena osiyana-siyana ndiponso\nkulimbikitsa nchito za bungwe la United Nations pofuna kukhazikitsa mtendere."
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "0cb28213b55aeb5e614bdddf700447e6",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Makolo ali ndi danga losankha maphunziro ofunikira ku ana ao.\nMutu 27\nMunthu aliyense ali ndi ufulu wogwapo pa umoyo wa zisangalalo za magulu a anthu, kusangalala kapena\nkudzipereka pa nchito zokweza nchito za zisangalalo zosiyana-siyana pakati pa anthu.\nAliyense ali ndi danga lopeza citetezo pa citukuko ca nchito zace za citukuko cosiyana-siyana mokomera\ndziko.\nMutu 28\nMunthu aliyense ali nalo danga kapena ufulu wa cisangalalo ca moyo wace molingana ndi chibvomerezo ca\nzofuna za lamulo losamalira khalidwe la umoyo wa munthu.\nMutu 29\nMunthu aliyense ali ndi nchito yothandiza kukweza citukuko ca umoyo wa anthu molingana ndi mphamvu\nyace.\nMogwiritsa nchito ufulu wace, munthu aliyense adzayenera kugwira nchito molingana ndi malamulo a Boma\npofuna kuthandiza pa nchito zokweza umoyo wa anthu onse amu dziko ndi lingo lofuna kubweretsa cimvano\nndi citukuko coyenera pakati pa anthu.\nUfulu wa kagwiridwe ka nchito zothandiza kukweza citukuko ca dziko uyenera kulingana ndi zolinga za\nbugwe la United Nations.\nMutu 30\nZosindikizidwa zonse za chibvomerezo ca lamulo losamalira khalidwe la umoyo wa munthu, sizitanthauza\nkuti Boma, kagulu ka anthu kapena munthu wina aliyense ali ndi danga kapena ufulu ocita zinthu zina zonse",
-            "Image": "0cb28213b55aeb5e614bdddf700447e6"
+            "Text": "Makolo ali ndi danga losankha maphunziro ofunikira ku ana ao.\nMutu 27\nMunthu aliyense ali ndi ufulu wogwapo pa umoyo wa zisangalalo za magulu a anthu, kusangalala kapena\nkudzipereka pa nchito zokweza nchito za zisangalalo zosiyana-siyana pakati pa anthu.\nAliyense ali ndi danga lopeza citetezo pa citukuko ca nchito zace za citukuko cosiyana-siyana mokomera\ndziko.\nMutu 28\nMunthu aliyense ali nalo danga kapena ufulu wa cisangalalo ca moyo wace molingana ndi chibvomerezo ca\nzofuna za lamulo losamalira khalidwe la umoyo wa munthu.\nMutu 29\nMunthu aliyense ali ndi nchito yothandiza kukweza citukuko ca umoyo wa anthu molingana ndi mphamvu\nyace.\nMogwiritsa nchito ufulu wace, munthu aliyense adzayenera kugwira nchito molingana ndi malamulo a Boma\npofuna kuthandiza pa nchito zokweza umoyo wa anthu onse amu dziko ndi lingo lofuna kubweretsa cimvano\nndi citukuko coyenera pakati pa anthu.\nUfulu wa kagwiridwe ka nchito zothandiza kukweza citukuko ca dziko uyenera kulingana ndi zolinga za\nbugwe la United Nations.\nMutu 30\nZosindikizidwa zonse za chibvomerezo ca lamulo losamalira khalidwe la umoyo wa munthu, sizitanthauza\nkuti Boma, kagulu ka anthu kapena munthu wina aliyense ali ndi danga kapena ufulu ocita zinthu zina zonse"
         },
         "8": {
-            "Label": "9",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "86e2d6e6bc7e1af60c5ad6c43bdaa425",
             "Index": 8,
+            "Label": "9",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "zofuna kuononga cilingo ca chibvomerezoci ai.",
-            "Image": "86e2d6e6bc7e1af60c5ad6c43bdaa425"
+            "Text": "zofuna kuononga cilingo ca chibvomerezoci ai."
         }
     }
 }

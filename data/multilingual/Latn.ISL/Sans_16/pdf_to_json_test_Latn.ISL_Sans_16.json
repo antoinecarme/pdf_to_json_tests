@@ -1,119 +1,119 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581468528,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "d3bfbdf1082b5ac8a2bf40576b09157e",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Mannréttindayfirlýsing Sameinuðo Þjóðanna.\nInngangsorð\nÞað ber að viðurkenna, að hver maður sé jafnborinn til virðingar og réttinda, er eigi verði af honum tekin, og\ner þetta undirstaða frelsis, réttlætis og friðar i heiminum.\nHafi mannréttindi verið fyrir borð borin og lítilsvirt, hefur slíkt haft í för með sér siðlausar athafnir, er\nofboðið hafa samvizku mannkynsins, enda hefur því verið yfir lýst, að æðsta markmið almennings um heim\nallan sé að skapa veröld, þar sem menn fái notið málfrelsis , trúfrelsis og óttaleysis um einkalíf afkomu.\nMannréttindi á að vernda með lögum. Að öðrum kosti hljóta menn að grípa til þess örþrifaráðs að rísa upp\ngegn kúgun og ofbeldi.\nÞað er mikilsvert að efla vinsamleg samskipti þjóða í milli.\nÍ stofnskrá sinni hafa Sameinuðu þjóðdirnar lýst yfir trú sinni á grundvallaratriði mannréttinda, á göfgi og\ngildi mannsins og jafnrétti karla og kvernna, enda munu þær beita sér fyrir félagslegum framförum og betri\nlífsafkomu með auknu frelsi manna.\nAðildarríkin hafa bundizt samtökum um að efla almenna virðingu fyrir og gæzlu hinna mikilsverðustu\nmannréttinda í samráði við Sameinuðu þjóðirnar.\nTil þess að slík samtök megi sem best takast, er það ákaflega mikilvægt, að almennur skilningur verði vakinn\ná eðli slíkra réttinda og frjálsræðis.\nFyrir því hefur allsherjarþing Sameinuðu þjóðanna fallizt á mannréttindayfirlýsingu þá, sem hér með er birt\nöllum þjóðum og ríkjum til fyrirmyndar. Skulu einstaklingar og yfirvöld jafnan hafa yfirlýsingu þessa í huga\nog kappkosta með fræðslu og uppeldi að efla virðingu fyrir réttindum Þeim og frjálstræÞi, sem hér er að",
-            "Image": "d3bfbdf1082b5ac8a2bf40576b09157e"
+            "Text": "Mannréttindayfirlýsing Sameinuðo Þjóðanna.\nInngangsorð\nÞað ber að viðurkenna, að hver maður sé jafnborinn til virðingar og réttinda, er eigi verði af honum tekin, og\ner þetta undirstaða frelsis, réttlætis og friðar i heiminum.\nHafi mannréttindi verið fyrir borð borin og lítilsvirt, hefur slíkt haft í för með sér siðlausar athafnir, er\nofboðið hafa samvizku mannkynsins, enda hefur því verið yfir lýst, að æðsta markmið almennings um heim\nallan sé að skapa veröld, þar sem menn fái notið málfrelsis , trúfrelsis og óttaleysis um einkalíf afkomu.\nMannréttindi á að vernda með lögum. Að öðrum kosti hljóta menn að grípa til þess örþrifaráðs að rísa upp\ngegn kúgun og ofbeldi.\nÞað er mikilsvert að efla vinsamleg samskipti þjóða í milli.\nÍ stofnskrá sinni hafa Sameinuðu þjóðdirnar lýst yfir trú sinni á grundvallaratriði mannréttinda, á göfgi og\ngildi mannsins og jafnrétti karla og kvernna, enda munu þær beita sér fyrir félagslegum framförum og betri\nlífsafkomu með auknu frelsi manna.\nAðildarríkin hafa bundizt samtökum um að efla almenna virðingu fyrir og gæzlu hinna mikilsverðustu\nmannréttinda í samráði við Sameinuðu þjóðirnar.\nTil þess að slík samtök megi sem best takast, er það ákaflega mikilvægt, að almennur skilningur verði vakinn\ná eðli slíkra réttinda og frjálsræðis.\nFyrir því hefur allsherjarþing Sameinuðu þjóðanna fallizt á mannréttindayfirlýsingu þá, sem hér með er birt\nöllum þjóðum og ríkjum til fyrirmyndar. Skulu einstaklingar og yfirvöld jafnan hafa yfirlýsingu þessa í huga\nog kappkosta með fræðslu og uppeldi að efla virðingu fyrir réttindum Þeim og frjálstræÞi, sem hér er að"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "9624cdeebd98d0a47a46e10cd6523cb2",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "stefnt. Ber og hverjum einum að stuðla Þeim framförum, innan ríkis og ríkja í milli, er að markmiðum\nyfirlýsingarinnar stefna, tryggja almenna og virka viðurkenningu á grundvallaratriðum hennar og sjá um, að\nÞau verði í heiðri höfó, bæði meðal Þjóða aðildarríkjanna sjálfra og meðal Þjóða á landsvæðum Þeim, er hlita\nlögsögu aðildarríkja.\n1. grein.\nHver maður er borinn frjáls og jafn öðrum að virðingu og réttindum. Menn eru gæddir vitsmunum og\nsamvizku, og ber þeim að breyta bróðurlega hverjum við annan.\n2. grein.\nHver maður skal eiga kröfu á réttindum þeim og því frjálsræði, sem fólgin eru í yfirlýsingu þessari, og skal\nþar engan greinarmun gera vegna kynþáttar, litarháttar, kynferðis, tungu, trúar, stjórnmálaskoðana eða\nannarra skoðana, þjóðernis, uppruna, eigna, ætternis eða annarra aðstæðna.\nEigi má heldur gera greinarmun á mönnum fyrir sakir stjórnskipulags lands þeirra eða landsvæðis,\nþjóðréttarstöðu þess eða lögsögu yfir því, hvort sem landið er sjálfstætt ríki, umráðasvæði, sjálfstjórnarlaust\neða á annan hátt háð takmörkunum á fullveldi sínu.\n3. grein.\nAllir menn eiga rétt til lífs, frelsis og mannhelgi.\n4. grein.\nEngan mann skal hneppa í þrældóm né nauðungarvinnu. Þrælahald og þrælaverzlun, hverju nafni sem\nnefnist, skulu bönnuð.\n5. grein.",
-            "Image": "9624cdeebd98d0a47a46e10cd6523cb2"
+            "Text": "stefnt. Ber og hverjum einum að stuðla Þeim framförum, innan ríkis og ríkja í milli, er að markmiðum\nyfirlýsingarinnar stefna, tryggja almenna og virka viðurkenningu á grundvallaratriðum hennar og sjá um, að\nÞau verði í heiðri höfó, bæði meðal Þjóða aðildarríkjanna sjálfra og meðal Þjóða á landsvæðum Þeim, er hlita\nlögsögu aðildarríkja.\n1. grein.\nHver maður er borinn frjáls og jafn öðrum að virðingu og réttindum. Menn eru gæddir vitsmunum og\nsamvizku, og ber þeim að breyta bróðurlega hverjum við annan.\n2. grein.\nHver maður skal eiga kröfu á réttindum þeim og því frjálsræði, sem fólgin eru í yfirlýsingu þessari, og skal\nþar engan greinarmun gera vegna kynþáttar, litarháttar, kynferðis, tungu, trúar, stjórnmálaskoðana eða\nannarra skoðana, þjóðernis, uppruna, eigna, ætternis eða annarra aðstæðna.\nEigi má heldur gera greinarmun á mönnum fyrir sakir stjórnskipulags lands þeirra eða landsvæðis,\nþjóðréttarstöðu þess eða lögsögu yfir því, hvort sem landið er sjálfstætt ríki, umráðasvæði, sjálfstjórnarlaust\neða á annan hátt háð takmörkunum á fullveldi sínu.\n3. grein.\nAllir menn eiga rétt til lífs, frelsis og mannhelgi.\n4. grein.\nEngan mann skal hneppa í þrældóm né nauðungarvinnu. Þrælahald og þrælaverzlun, hverju nafni sem\nnefnist, skulu bönnuð.\n5. grein."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "2d3cbdeb2d0053b7119ed5a45d45afea",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Enginn maður skal sæta pyndingum, grimmilegri, ómannlegri eða vanvirðandi meðferð eða refsingu.\n6. grein.\nAllir menn skulu, hvar í heimi sem er, eiga kröfu á að vera viðurkenndir aðilar að lögum.\n7. grein.\nAllir menn skulu jafnir fyrir lögunum og eiga rétt á jafnri vernd þeirra, án manngreinarálits. Ber öllum\nmönnum réttur til verndar gegn hvers konar misrétti, sem í bága brýtur við yfirlýsingu þessa, svo og gagnvart\nhvers konar áróðri til þess að skapa slíkt misrétti.\n8. grein.\nNú sætir einhver maður meðferð, er brýtur í bága við grundvallarréttindi þau, sem tryggð eru í stjórnarskrá\nog lögum, og skal hann þá eiga athvarf hjá dómstólum landsins til þess að fa hlut sinn réttan.\n9. grein.\nEkki má eftir geðþótta taka menn fasta, hneppa þá i fangelsi eða varðhald né gera útlæga.\n10. grein.\nNú leikur vafi á um réttindi þegns og skyldur, eða hann er borinn sökum um glæpsamlegt athæfi, og skal\nhann þá njóta fulls jafnréttis við aðra menn um réttláta opinbera rannsókn fÞrir óháðum og óhlutdrægum\ndómstóli.\n11. grein.\nHvern þann mann, sem borinn er sökum fyrir refsivert athæfi, skal telja saklausan, unz sök hans her sönnuð\nlögfullri sönnun fÞrir opinberum dómstóli, enda hafi tryggilega verið búið um vörn sakbornings.",
-            "Image": "2d3cbdeb2d0053b7119ed5a45d45afea"
+            "Text": "Enginn maður skal sæta pyndingum, grimmilegri, ómannlegri eða vanvirðandi meðferð eða refsingu.\n6. grein.\nAllir menn skulu, hvar í heimi sem er, eiga kröfu á að vera viðurkenndir aðilar að lögum.\n7. grein.\nAllir menn skulu jafnir fyrir lögunum og eiga rétt á jafnri vernd þeirra, án manngreinarálits. Ber öllum\nmönnum réttur til verndar gegn hvers konar misrétti, sem í bága brýtur við yfirlýsingu þessa, svo og gagnvart\nhvers konar áróðri til þess að skapa slíkt misrétti.\n8. grein.\nNú sætir einhver maður meðferð, er brýtur í bága við grundvallarréttindi þau, sem tryggð eru í stjórnarskrá\nog lögum, og skal hann þá eiga athvarf hjá dómstólum landsins til þess að fa hlut sinn réttan.\n9. grein.\nEkki má eftir geðþótta taka menn fasta, hneppa þá i fangelsi eða varðhald né gera útlæga.\n10. grein.\nNú leikur vafi á um réttindi þegns og skyldur, eða hann er borinn sökum um glæpsamlegt athæfi, og skal\nhann þá njóta fulls jafnréttis við aðra menn um réttláta opinbera rannsókn fÞrir óháðum og óhlutdrægum\ndómstóli.\n11. grein.\nHvern þann mann, sem borinn er sökum fyrir refsivert athæfi, skal telja saklausan, unz sök hans her sönnuð\nlögfullri sönnun fÞrir opinberum dómstóli, enda hafi tryggilega verið búið um vörn sakbornings."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "bce5fa6ce8aaf53a4846016a2d5ef27b",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Engan skal telja sekan til refsingar, nema verknaður sá eða aðgerðaleysi, sem hann er borinn, varði refsingu\nað landslögum eða þjóðarétti á þeim tíma, er máli skiptir. Eigi má heldur dæma hann til þyngri refsingar en\nþeirrar, sem að lögum var leyfð, þegar verknaðurinn var framinn.\n12. grein.\nEigi má eftir geðþótta raska heimilisfriði nokkurs manns, hnýsast í einkamál hans eða bréf, vanvirða hann\neða spilla mannorði hans. Ber hverjum manni lagavernd gagnvart slíkum afskiptum eða árásum.\n13. grein.\nFrjálsir skulu menn vera ferða sinna og dvalar innan landamæra hvers ríkis.\nRétt skal mönnum vera að fara af landi burt, hvort sem er af sínu landi eða öðru, og eiga afturkvæmt til\nheimalands síns.\n14. grein.\nRétt skal mönnum vera að leita og njóta griðlands erlendis gegn ofsóknum.\nEnginn má þó skírskota til slíkra réttinda, sem lögsóttur er með réttu fyrir ópólitísk afbrot eða atferli, er\nbrýtur í bága við markmið og grundvallarreglur Sameinuðu þjóðanna.\n15. grein.\nAllir menn hafa rétt til ríkisfangs.\nEngan mann má eftir geðþótta svipta ríkisfangi né rétti til þess að skipta um ríkisfang.\n16. grein.\nKonum og körlum, sem hafa aldur til þess að lögum, skal heimilt að stofna til hjúskapar og fjölskyldu, án",
-            "Image": "bce5fa6ce8aaf53a4846016a2d5ef27b"
+            "Text": "Engan skal telja sekan til refsingar, nema verknaður sá eða aðgerðaleysi, sem hann er borinn, varði refsingu\nað landslögum eða þjóðarétti á þeim tíma, er máli skiptir. Eigi má heldur dæma hann til þyngri refsingar en\nþeirrar, sem að lögum var leyfð, þegar verknaðurinn var framinn.\n12. grein.\nEigi má eftir geðþótta raska heimilisfriði nokkurs manns, hnýsast í einkamál hans eða bréf, vanvirða hann\neða spilla mannorði hans. Ber hverjum manni lagavernd gagnvart slíkum afskiptum eða árásum.\n13. grein.\nFrjálsir skulu menn vera ferða sinna og dvalar innan landamæra hvers ríkis.\nRétt skal mönnum vera að fara af landi burt, hvort sem er af sínu landi eða öðru, og eiga afturkvæmt til\nheimalands síns.\n14. grein.\nRétt skal mönnum vera að leita og njóta griðlands erlendis gegn ofsóknum.\nEnginn má þó skírskota til slíkra réttinda, sem lögsóttur er með réttu fyrir ópólitísk afbrot eða atferli, er\nbrýtur í bága við markmið og grundvallarreglur Sameinuðu þjóðanna.\n15. grein.\nAllir menn hafa rétt til ríkisfangs.\nEngan mann má eftir geðþótta svipta ríkisfangi né rétti til þess að skipta um ríkisfang.\n16. grein.\nKonum og körlum, sem hafa aldur til þess að lögum, skal heimilt að stofna til hjúskapar og fjölskyldu, án"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "19f73e7c31c8fc1dc05492e554570187",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "tillits til kynþáttar, þjóðernis eða trúarbragða. Þau skulu njóta jafnréttis um stofnun og slit hjúskapar, svo og í\nhjónabandinu.\nEigi má hjúskap binda, nema bæði hjónæfni samþykki fúsum vilja.\nFjölskyldan er í eðli sínu frumeining þjóðfélagsins, og ber þjóðfélagi og ríki að vernda hana.\n17. grein.\nHverjum manni skal heimilt að eiga eignir, einum sér eða í félagi við aðra.\nEngan má eftir geðþótta svipta eign sinni.\n18. grein.\nAllir menn skulu frjálsir hugsana sinna, sanfæringar og trúar. Í þessu felst frjálsræði til að skipta um trú eða\njátningu og enn fremur til að láta í ljós trú sína eða játningu, einir sér eða í félagi við aðra, opinberlega eða\neinslega, með kennslu, tilbeiðslu, guðsþjónustum og helgihaldi.\n19. grein.\nHver maður skal frjáls skoðana sinna og að því að láta þær í ljós. Felur slíkt frjálsræði í sér réttindi til þess að\nleita, taka við og dreifa vitneskju og hugmyndum með hverjum hætti sem vera skal og án tillits til\nlandamæra.\n20. grein.\nHverjum manni skal frjálst að eiga þátt í friðsamlegum fundahöldum og félagsskap.\nEngan mann má neyða til að vera í félagi.\n21. grein.",
-            "Image": "19f73e7c31c8fc1dc05492e554570187"
+            "Text": "tillits til kynþáttar, þjóðernis eða trúarbragða. Þau skulu njóta jafnréttis um stofnun og slit hjúskapar, svo og í\nhjónabandinu.\nEigi má hjúskap binda, nema bæði hjónæfni samþykki fúsum vilja.\nFjölskyldan er í eðli sínu frumeining þjóðfélagsins, og ber þjóðfélagi og ríki að vernda hana.\n17. grein.\nHverjum manni skal heimilt að eiga eignir, einum sér eða í félagi við aðra.\nEngan má eftir geðþótta svipta eign sinni.\n18. grein.\nAllir menn skulu frjálsir hugsana sinna, sanfæringar og trúar. Í þessu felst frjálsræði til að skipta um trú eða\njátningu og enn fremur til að láta í ljós trú sína eða játningu, einir sér eða í félagi við aðra, opinberlega eða\neinslega, með kennslu, tilbeiðslu, guðsþjónustum og helgihaldi.\n19. grein.\nHver maður skal frjáls skoðana sinna og að því að láta þær í ljós. Felur slíkt frjálsræði í sér réttindi til þess að\nleita, taka við og dreifa vitneskju og hugmyndum með hverjum hætti sem vera skal og án tillits til\nlandamæra.\n20. grein.\nHverjum manni skal frjálst að eiga þátt í friðsamlegum fundahöldum og félagsskap.\nEngan mann má neyða til að vera í félagi.\n21. grein."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "a7554f9c5ef60dd73adbebbeb6975c8c",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Hverjum manni er heimilt að taka þátt í stjórn lands síns, beinlínis eða með því að kjósa til þess fulltrúa\nfrjálsum kosningum.\nHver maður á jafnan rétt til þess að gegna opinberum störfum í landi sínu.\nVilji þjóðarinnar skal vera grundvöllur að valdi ríkisstjórnar. Skal hann látinn í ljós með reglubundnum,\nóháðum og almennum kosningum, enda sé kosningarréttur jafn og leynileg atkvæðagreiðsla viðhöfð eða\njafngildi hennar að frjálsræði.\n22. grein.\nHver þjóðfélagsþegn skal fyrir atbeina hins opinbera eða alþjóðasamtaka og í samræmi við skipulag og\nefnahag hvers ríkis eiga kröfu á félagslegu öryggi og þeim efnahagslegum, félagslegum og menningarlegum\nréttindum, sem honum eru nauðsynleg til þess að virðing hans og þroski fái notið sin.\n23. grein.\nHver maður á rétt á atvinnu að frjálsu vali, á réttlátum og hagkvænum vinnuskilyrðum og á vernd gegn\natvinnuleysi.\nHverjum manni ber sama greiðsla fyrir sama verk, án manngreinarálits.\nAllir menn, sem vinnu stunda, skulu bera úr býtum réttlátt og hagstætt endurgjald, er tryggi þeim og\nfjölskyldum þeirra mannsæm lífskjör. Þeim ber og önnur félagsleg vernd, ef þörf krefur.\nHver maður má stofna til stéttarsamtaka og ganga í þau til verndar hagsmunum sínum.\n24. grein.\nHverjum manni ber réttur til hvíldar og tómstunda, og telst þar til hæfileg takmörkun vinnutíma og\nreglubundið orlof að óskertum launum.",
-            "Image": "a7554f9c5ef60dd73adbebbeb6975c8c"
+            "Text": "Hverjum manni er heimilt að taka þátt í stjórn lands síns, beinlínis eða með því að kjósa til þess fulltrúa\nfrjálsum kosningum.\nHver maður á jafnan rétt til þess að gegna opinberum störfum í landi sínu.\nVilji þjóðarinnar skal vera grundvöllur að valdi ríkisstjórnar. Skal hann látinn í ljós með reglubundnum,\nóháðum og almennum kosningum, enda sé kosningarréttur jafn og leynileg atkvæðagreiðsla viðhöfð eða\njafngildi hennar að frjálsræði.\n22. grein.\nHver þjóðfélagsþegn skal fyrir atbeina hins opinbera eða alþjóðasamtaka og í samræmi við skipulag og\nefnahag hvers ríkis eiga kröfu á félagslegu öryggi og þeim efnahagslegum, félagslegum og menningarlegum\nréttindum, sem honum eru nauðsynleg til þess að virðing hans og þroski fái notið sin.\n23. grein.\nHver maður á rétt á atvinnu að frjálsu vali, á réttlátum og hagkvænum vinnuskilyrðum og á vernd gegn\natvinnuleysi.\nHverjum manni ber sama greiðsla fyrir sama verk, án manngreinarálits.\nAllir menn, sem vinnu stunda, skulu bera úr býtum réttlátt og hagstætt endurgjald, er tryggi þeim og\nfjölskyldum þeirra mannsæm lífskjör. Þeim ber og önnur félagsleg vernd, ef þörf krefur.\nHver maður má stofna til stéttarsamtaka og ganga í þau til verndar hagsmunum sínum.\n24. grein.\nHverjum manni ber réttur til hvíldar og tómstunda, og telst þar til hæfileg takmörkun vinnutíma og\nreglubundið orlof að óskertum launum."
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "0a615fe886c540b2eae345c4481e5b63",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "25. grein.\nHver maður á kröfu til lífskjara, sem nauðsynleg eru til verndar heilsu og vellíðan hans sjálfs og fjölskyldu\nhans. Telst þar til matur, klæðnaður, húsnæði, læknishjálp og nauðsynleg félagshjálp, svo og réttindi til\nöryggis gegn atvinnuleysi, veikindum, örorku, fyrirvinnumissi, elli eða öðrum áföllum, sem skorti valda og\nhann getur ekki við gert.\nMæðrum og börnum ber sérstök vernd og aðstoð. Öll börn, skilgetin sem óskilgetin, skulu njóta sömu\nfélagsverndar.\n26. grein.\nHver maður á rétt til menntunar. Skal hún veitt ókeypis, að minnsta kosti barnafræðsla og\nundirstöðummentu. Börn skulu vera skólaskyld. Iðnaðar- og verknám skal öllum standa til boða og æðri\nmenntu vera öllum jafnfrjáls, þeim er hæfileika hafa til að njóta hennar.\nMenntun skal beina í þá átt að þroska persónuleika einstaklinganna og innræta þeim virðingu fyrir\nmannréttindum og mannhelgi. Hún skal miða að því að efla skilning, umburðarlyndi og vináttu meðal allra\nþjóða, kynþátta og trúarflokka og að efla starf Sameinuðu þjóðanna í þágu friðarins.\nForeldrar skulu fremur öðrum ráða, hverrar menntunar börn þeirra skuli njóta.\n27. grein\nHverjum manni ber réttur til þess að taka frjálsan þátt í menningarlífi þjóðfélagsins, njóta lista, eiga þátt í\nframförum á sviði vísinda og verða aðnjótandi þeirra gæða, er af þeim leiðir.\nHver maður skal njóta lögverndar þeirra hagsmuna, í andlegum og efnalegum skilningi, er leiðir af\nvísindaverki, ritverki eða listaverki, sem hann er höfundur að, hverju nafni sem nefnist.",
-            "Image": "0a615fe886c540b2eae345c4481e5b63"
+            "Text": "25. grein.\nHver maður á kröfu til lífskjara, sem nauðsynleg eru til verndar heilsu og vellíðan hans sjálfs og fjölskyldu\nhans. Telst þar til matur, klæðnaður, húsnæði, læknishjálp og nauðsynleg félagshjálp, svo og réttindi til\nöryggis gegn atvinnuleysi, veikindum, örorku, fyrirvinnumissi, elli eða öðrum áföllum, sem skorti valda og\nhann getur ekki við gert.\nMæðrum og börnum ber sérstök vernd og aðstoð. Öll börn, skilgetin sem óskilgetin, skulu njóta sömu\nfélagsverndar.\n26. grein.\nHver maður á rétt til menntunar. Skal hún veitt ókeypis, að minnsta kosti barnafræðsla og\nundirstöðummentu. Börn skulu vera skólaskyld. Iðnaðar- og verknám skal öllum standa til boða og æðri\nmenntu vera öllum jafnfrjáls, þeim er hæfileika hafa til að njóta hennar.\nMenntun skal beina í þá átt að þroska persónuleika einstaklinganna og innræta þeim virðingu fyrir\nmannréttindum og mannhelgi. Hún skal miða að því að efla skilning, umburðarlyndi og vináttu meðal allra\nþjóða, kynþátta og trúarflokka og að efla starf Sameinuðu þjóðanna í þágu friðarins.\nForeldrar skulu fremur öðrum ráða, hverrar menntunar börn þeirra skuli njóta.\n27. grein\nHverjum manni ber réttur til þess að taka frjálsan þátt í menningarlífi þjóðfélagsins, njóta lista, eiga þátt í\nframförum á sviði vísinda og verða aðnjótandi þeirra gæða, er af þeim leiðir.\nHver maður skal njóta lögverndar þeirra hagsmuna, í andlegum og efnalegum skilningi, er leiðir af\nvísindaverki, ritverki eða listaverki, sem hann er höfundur að, hverju nafni sem nefnist."
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "bfc1c7461d4735af4d471e777bfa43a1",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "28. grein\nHverjum manni ber réttur til þess þjóðfélags- og milliþjóðaskipulags, er virði og framkvæmi að fullu\nmannréttindi þau, sem í yfirlýsingu þessari eru upp talin.\n29. grein.\nHver maður hefur skyldur við þióðfélagið, enda getur það eitt tryggt fullan og frjálsan persónuþroska\neinstaklingsins.\nÞjóðfélagsþegnar skulu um réttindi og frjálsræði háðir þeim takmörkunum einum, sem settar eru með lögum\ni því skyni að tryggja viðurkenningu á og virðingu fyrir frelsi og réttindum annarra og til þess að fullnægja\nréttlátum kröfum um siðgæði, reglu og velferð almennings í lýðfrjálsu þjóðfélagi.\nÞessi mannréttindi má aldrei framkvæma svo, að í bága fari við markmið og grundvallarreglur Sameinuðu\nþjóðanna.\n30. grein.\nEkkert atriði þessarar yfirlýsingar má túlka á þann veg, að nokkru ríki, flokki manna eða einstaklingi sé\nheimilt að aðhafast nokkuð það, er stefni að því að gera að engu nokkur þeirra mannréttinda, sem hér hafa\nverið upp talin.",
-            "Image": "bfc1c7461d4735af4d471e777bfa43a1"
+            "Text": "28. grein\nHverjum manni ber réttur til þess þjóðfélags- og milliþjóðaskipulags, er virði og framkvæmi að fullu\nmannréttindi þau, sem í yfirlýsingu þessari eru upp talin.\n29. grein.\nHver maður hefur skyldur við þióðfélagið, enda getur það eitt tryggt fullan og frjálsan persónuþroska\neinstaklingsins.\nÞjóðfélagsþegnar skulu um réttindi og frjálsræði háðir þeim takmörkunum einum, sem settar eru með lögum\ni því skyni að tryggja viðurkenningu á og virðingu fyrir frelsi og réttindum annarra og til þess að fullnægja\nréttlátum kröfum um siðgæði, reglu og velferð almennings í lýðfrjálsu þjóðfélagi.\nÞessi mannréttindi má aldrei framkvæma svo, að í bága fari við markmið og grundvallarreglur Sameinuðu\nþjóðanna.\n30. grein.\nEkkert atriði þessarar yfirlýsingar má túlka á þann veg, að nokkru ríki, flokki manna eða einstaklingi sé\nheimilt að aðhafast nokkuð það, er stefni að því að gera að engu nokkur þeirra mannréttinda, sem hér hafa\nverið upp talin."
         }
     }
 }

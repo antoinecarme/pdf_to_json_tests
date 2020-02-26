@@ -1,93 +1,93 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581469610,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "540c809231e045815c8ed433e4bffab1",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "IRAEGUl BOTATAIGACHA ICOMANTAIGUIRO OCA NIBARINTSICA\n[Preamble]\nAiti ora caninaro ora icogaigui angantaiguë antagaisati matsiguenga. Tení ongomeite queroca inintacagaigái pairo-raca anganquero ora\ncaninaro.\nAQUENGAIGACA ora antagaisati matsiguenga aisati icantaigaca. Aroquenta ibogaiguë iriro matsiguengasonori. Iroro teni ongomeite cara\npaniro imeratimari ira basini. Teni ongomeite cara paniro ingantaguebiritirí catsimaro ira basiní. Aisati caninataque antagaisati matsiguenga\nintimasantaigue caninasati.\nAQUENGAIGACA cara tojai icantaguebiritengani ora te onganinate ira matsiguenga tenta irogóigue irirojegui matsiguengasonori. Icantaiguëri\nora ogóigui eiro te ongomeite. Aquengaigaca cara iroguiaque omagaro matsiguenga intimaiguë caninasati. Teni ongomeite intsorogaigue,\nteatisati ongomeite iritasegue, carari caninataque antagaisati irinibataigue ora ijique caninaro, aisati caninataque inguemisantaiguë ora ijique\ncaninaro.\nAQUENGAIGACA caninataque angábintsaigueri omagaro matsiguenga arota ingantaiguë ora ijique caninaro. Aique quero icogaigui iriocairi\nitingomipague.\nAQUENGAIGACA caninataque intimaigue caninasatí antagaisatí matsiguenga. Quero iguisëgotobaga, querootisati yógobaga, querootisati\nyomintsorogobaga ira paniacha omagaropaguequë.\nAQUENGAIGACA eiro iragátane omagarojegui país ora jitacha Naciones Unidas cara antagaisati matsiguenga ingantaiguë ora ijitaigui\ncaninaro aisa teni ongomeite cara te pairi iranintacaguiri ingantiro. Aquengaigaca cara aisati icantaigaca omagaro, sërari aisati tsinane.\nAquengaigaca caninataque omitocotaguetiri antagaisati matsiguenga intimaigue caninasati.\nAQUENGAIGACA cara caninataque omitocotaigueri omagaro matsiguenga iraniacaninatobaguima aisati iranintacagobaguëma ingantaiguë\nora caninaropague.\nAQUENGAIGACA caninataque irogóigue antagaisati matsiguenga ora aquengaigaca.\nIRAEGUl BOTATAIGACHA ICOMANTAIGUIRO OCA NIBARINTSICA:\nAiti ora caninaropague. Caninataque ingantaiguero antagaisati matsiguenga. Teni ongomeite cara queroca inintacagaigái pairiraca anganquero\nora caninaro. Aisati caninataque ingomantaguëqueri imatsiguenga itingomipague irogometaiguëri cara isicoiraquë arota iraniacaninatobaguëma\nomagaro matsiguengajegui atiraca itimaiguira.\n1.\nAntagaisati matsiguenga ibogaiguë matsiguengasonorl. Aisati icantaigaca. Teni iromerataiguengani. Antagaisati iquengaigui aisati igóiguiro",
-            "Image": "540c809231e045815c8ed433e4bffab1"
+            "Text": "IRAEGUl BOTATAIGACHA ICOMANTAIGUIRO OCA NIBARINTSICA\n[Preamble]\nAiti ora caninaro ora icogaigui angantaiguë antagaisati matsiguenga. Tení ongomeite queroca inintacagaigái pairo-raca anganquero ora\ncaninaro.\nAQUENGAIGACA ora antagaisati matsiguenga aisati icantaigaca. Aroquenta ibogaiguë iriro matsiguengasonori. Iroro teni ongomeite cara\npaniro imeratimari ira basini. Teni ongomeite cara paniro ingantaguebiritirí catsimaro ira basiní. Aisati caninataque antagaisati matsiguenga\nintimasantaigue caninasati.\nAQUENGAIGACA cara tojai icantaguebiritengani ora te onganinate ira matsiguenga tenta irogóigue irirojegui matsiguengasonori. Icantaiguëri\nora ogóigui eiro te ongomeite. Aquengaigaca cara iroguiaque omagaro matsiguenga intimaiguë caninasati. Teni ongomeite intsorogaigue,\nteatisati ongomeite iritasegue, carari caninataque antagaisati irinibataigue ora ijique caninaro, aisati caninataque inguemisantaiguë ora ijique\ncaninaro.\nAQUENGAIGACA caninataque angábintsaigueri omagaro matsiguenga arota ingantaiguë ora ijique caninaro. Aique quero icogaigui iriocairi\nitingomipague.\nAQUENGAIGACA caninataque intimaigue caninasatí antagaisatí matsiguenga. Quero iguisëgotobaga, querootisati yógobaga, querootisati\nyomintsorogobaga ira paniacha omagaropaguequë.\nAQUENGAIGACA eiro iragátane omagarojegui país ora jitacha Naciones Unidas cara antagaisati matsiguenga ingantaiguë ora ijitaigui\ncaninaro aisa teni ongomeite cara te pairi iranintacaguiri ingantiro. Aquengaigaca cara aisati icantaigaca omagaro, sërari aisati tsinane.\nAquengaigaca caninataque omitocotaguetiri antagaisati matsiguenga intimaigue caninasati.\nAQUENGAIGACA cara caninataque omitocotaigueri omagaro matsiguenga iraniacaninatobaguima aisati iranintacagobaguëma ingantaiguë\nora caninaropague.\nAQUENGAIGACA caninataque irogóigue antagaisati matsiguenga ora aquengaigaca.\nIRAEGUl BOTATAIGACHA ICOMANTAIGUIRO OCA NIBARINTSICA:\nAiti ora caninaropague. Caninataque ingantaiguero antagaisati matsiguenga. Teni ongomeite cara queroca inintacagaigái pairiraca anganquero\nora caninaro. Aisati caninataque ingomantaguëqueri imatsiguenga itingomipague irogometaiguëri cara isicoiraquë arota iraniacaninatobaguëma\nomagaro matsiguengajegui atiraca itimaiguira.\n1.\nAntagaisati matsiguenga ibogaiguë matsiguengasonorl. Aisati icantaigaca. Teni iromerataiguengani. Antagaisati iquengaigui aisati igóiguiro"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "e3bf9ffb189ce51426585616b7923e3b",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "ora caninaro aisati igóiguiro ora te onganinate. Iroro caninataque omagaro matsiguenga iraniacaninataigueri ira basiniati matsiguenga aisati\ningantaiguerí ora caninaro.\n2.\nAntagaisati ora ocomanti oca sanguenarica irasi omagaro matsiguenga. Teni ongomeite cara queroca pairiraca inintacagaigái anganquero.\nJemita obiro sërari, jemita obiro tsinane, jemita obiro biracocha, matsiguengasonori, tsitari. Jemita pinibare, j emita pitosorintsite, jemita ora\npiquengui, jemita tojai piguireguite. Aisati jemita negaraca pitimi, jemita pairoraca ijitara pitingomi. Teni ongomeite cara queroca\ninintacaguimi pinganquero ora osanguenataga yaca.\n3.\nTeni ongomeite cara iróguimi pairiraca. Teatisati ongomeite cara imeratimi basini, teatisati ongomeite cara pairiraca ingantaguebiriquemi ora\ncatsimaro.\n4.\nTení ongomeite cara pairiraca iromanantërí ira basini. Quero ini ibimantaga.\n5.\nObironta matsiguenga, tení ongomeite cara iratsipiriaquemi pairiraca.\n6.\nCaninataque itingomipague iraniacaninataiguerí antagaisati matsiguenga. Ainta itingomi ira jitacha joes. Iraniaquerita iriro omagaro\nmatsiguenga caninari.\n7.\nAiti sanguenaripague caninaro ora iquengaigaca itingomi. Ora sanguenaripaguera ocábintsaiguëri antagaisati matsiguenga aisati icantaigaca\nomagaro matsiguenga catingasatiquë sanguenari.\n8.\nIra joes ingábintsaiguëmi cara sanguenariquë iromitocoquemí cara ainta pairiraca quero inintacaguimi pinganque ora ijique caninaro omagaro\nmatsiguenga.\n9.\nTeni ongomeite cara irágasitimi pairiraca, teatisati cara iromingasiquemi, teatisati cara iriocasiquerni piguebatsitequë.",
-            "Image": "e3bf9ffb189ce51426585616b7923e3b"
+            "Text": "ora caninaro aisati igóiguiro ora te onganinate. Iroro caninataque omagaro matsiguenga iraniacaninataigueri ira basiniati matsiguenga aisati\ningantaiguerí ora caninaro.\n2.\nAntagaisati ora ocomanti oca sanguenarica irasi omagaro matsiguenga. Teni ongomeite cara queroca pairiraca inintacagaigái anganquero.\nJemita obiro sërari, jemita obiro tsinane, jemita obiro biracocha, matsiguengasonori, tsitari. Jemita pinibare, j emita pitosorintsite, jemita ora\npiquengui, jemita tojai piguireguite. Aisati jemita negaraca pitimi, jemita pairoraca ijitara pitingomi. Teni ongomeite cara queroca\ninintacaguimi pinganquero ora osanguenataga yaca.\n3.\nTeni ongomeite cara iróguimi pairiraca. Teatisati ongomeite cara imeratimi basini, teatisati ongomeite cara pairiraca ingantaguebiriquemi ora\ncatsimaro.\n4.\nTení ongomeite cara pairiraca iromanantërí ira basini. Quero ini ibimantaga.\n5.\nObironta matsiguenga, tení ongomeite cara iratsipiriaquemi pairiraca.\n6.\nCaninataque itingomipague iraniacaninataiguerí antagaisati matsiguenga. Ainta itingomi ira jitacha joes. Iraniaquerita iriro omagaro\nmatsiguenga caninari.\n7.\nAiti sanguenaripague caninaro ora iquengaigaca itingomi. Ora sanguenaripaguera ocábintsaiguëri antagaisati matsiguenga aisati icantaigaca\nomagaro matsiguenga catingasatiquë sanguenari.\n8.\nIra joes ingábintsaiguëmi cara sanguenariquë iromitocoquemí cara ainta pairiraca quero inintacaguimi pinganque ora ijique caninaro omagaro\nmatsiguenga.\n9.\nTeni ongomeite cara irágasitimi pairiraca, teatisati cara iromingasiquemi, teatisati cara iriocasiquerni piguebatsitequë."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "0f702e92c2ee767a3273f85b7950cb15",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "10.\nAroca pinganque ora te onganinate, aisati aintaca ira comantëgotëmine cara picanque ora te onganinate, quero igoontimi querootisati\nicomantëgotimí picasitígote ira joes queroca iniacaninatimí. Querootisati icomantëgotimi pairiraca ora pinganque queroquerai picomantëgota\nobiatí,\n11.\nAintaca irá comantëgotëmi picanque ora te oñganinate, iraniacaninatimita joes irooti irogoontasantimi cara picantagueti ora te onganinate.\nAisati imëmita ora pininti arota pingomantëgotëma caninasati.\nTeni ongomeite cara ingasitígatimi cara sanguenariquë teca inguengaiguema pitingomi teraiquerai pingantaguete ora te onganinate.\n12.\nTeni ongomeite cara ingantocotaguetasitimi obiro, aisati cara jrinibatëgotaguetasitimari pomatsiguenga. Ora sanguenari ongábintsëmi.\n13.\nTeni ongomeite cara pairiraca quero inintacaguimi pijataguëque cara pingogue negaraca pintimaque cara quibatsiquë teni asintasitengani.\nAisati caninataque pisotocanë paisipaguequë, aisati pasi pobaisitequë, aisati caninataque popigaima pobaisitequë.\n14.\nCara ingantaguëquimi catsimaro, caninataque pijaque cara basiniatiquë país arota ingábintsaimi canta.\nCara picantaguëque ora te onganinate quero pisiga cara basiniatiquë país. Caninataque irogoontimi cara pasi pobaisitequë aisati\ningomantëgotimi ora picanque. Ingasitígatimi cara picantaguëque ora te onganinate.\n15.\nCaninataque antagaisati matsiguenga inganque: \"Oca paisica iroonti nasi nobaisite\". Quero pairi yágopitimi cara picanque: Oca nasiati\nnobaisite\".\nQuerootisati pairiraca yágopitimi cara pingoguë pijocanëro pobaisite aisati pijaque cara iroraiquë pobaisite.\n16.\nAinta ira ogomeantatsi teni ongomeite págue pijina cara onibateca basiniati nibarintsi cagaro pasi. Teni ongomeite oca ogomeantagantsica.\nCaninataque págue pijina arota irinane pijanequite irootisati pomatsiguenga. Aroca inganque quero págui pijina basiniatinta onibare, quero\npiquemisantirí tenta irogóte ora icanti. Aitosati asi tsinane ira águë ojime. Caninataque águero ojime jemita irinibare.",
-            "Image": "0f702e92c2ee767a3273f85b7950cb15"
+            "Text": "10.\nAroca pinganque ora te onganinate, aisati aintaca ira comantëgotëmine cara picanque ora te onganinate, quero igoontimi querootisati\nicomantëgotimí picasitígote ira joes queroca iniacaninatimí. Querootisati icomantëgotimi pairiraca ora pinganque queroquerai picomantëgota\nobiatí,\n11.\nAintaca irá comantëgotëmi picanque ora te oñganinate, iraniacaninatimita joes irooti irogoontasantimi cara picantagueti ora te onganinate.\nAisati imëmita ora pininti arota pingomantëgotëma caninasati.\nTeni ongomeite cara ingasitígatimi cara sanguenariquë teca inguengaiguema pitingomi teraiquerai pingantaguete ora te onganinate.\n12.\nTeni ongomeite cara ingantocotaguetasitimi obiro, aisati cara jrinibatëgotaguetasitimari pomatsiguenga. Ora sanguenari ongábintsëmi.\n13.\nTeni ongomeite cara pairiraca quero inintacaguimi pijataguëque cara pingogue negaraca pintimaque cara quibatsiquë teni asintasitengani.\nAisati caninataque pisotocanë paisipaguequë, aisati pasi pobaisitequë, aisati caninataque popigaima pobaisitequë.\n14.\nCara ingantaguëquimi catsimaro, caninataque pijaque cara basiniatiquë país arota ingábintsaimi canta.\nCara picantaguëque ora te onganinate quero pisiga cara basiniatiquë país. Caninataque irogoontimi cara pasi pobaisitequë aisati\ningomantëgotimi ora picanque. Ingasitígatimi cara picantaguëque ora te onganinate.\n15.\nCaninataque antagaisati matsiguenga inganque: \"Oca paisica iroonti nasi nobaisite\". Quero pairi yágopitimi cara picanque: Oca nasiati\nnobaisite\".\nQuerootisati pairiraca yágopitimi cara pingoguë pijocanëro pobaisite aisati pijaque cara iroraiquë pobaisite.\n16.\nAinta ira ogomeantatsi teni ongomeite págue pijina cara onibateca basiniati nibarintsi cagaro pasi. Teni ongomeite oca ogomeantagantsica.\nCaninataque págue pijina arota irinane pijanequite irootisati pomatsiguenga. Aroca inganque quero págui pijina basiniatinta onibare, quero\npiquemisantirí tenta irogóte ora icanti. Aitosati asi tsinane ira águë ojime. Caninataque águero ojime jemita irinibare."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "d0a5aba8b3901e5299ba29cf338dfee0",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "Paniro páguiro pijina, paniro páguëri pijime cara pinguenguëma pitirooti obiro.\nCaninataque ongábintsëmi gobirino obiro aisa pijina aisa pijaniquite.\n17.\nCaninataque antagaisati matsiguenga ingasintëmaro ora iraisati: iguebatsite, ibango, irantomënto, aisati basinipague.\nTení ongomeite cara pairiraca irágopitimi ora pasiati.\n18.\nTeni ongomeite cara pairiraca iragáquemi ora pinguenguëma aisati ora pinguemisanque. Caninataque pinguemisanqueri pasi pitosorintsite.\nAisati caninataque cara picogui pingampiatiro ora pinguenguëma aisati ora pinguemisanque. Caninataque pomanocotiri pitosorintsite aisati\npogometocotiri catingasatiquë matsiguenga.\n19.\nCaninataque antagaisati matsiguenga inguenguëma ora ijique caninaro aisati caninataque ingomantaguetiro atiraca ininti. Teni ongomeite cara\npairiraca inganquemi ora te onganinate aroquenta piquianca ora basiniati ora te inguenguema iriro.\n20.\nCaninataque popatoitima obirojequi arota pintaiguë ora caninaro.\nAisati queroca pininti popatota, caninataque.\n21.\nCaninataque cara antagaisati matsiguenga ingomantëro igobirinote ora icogui iriro. Queroca icantiro iriati caninataque iragáque basini ira\nnibabintineri catingasatiquë itingomipague.\nAitica ora onganquineri matsiguenga pigobirinote. caninataque onganquimi omagaro obirojequi.\nOra inintaigue matsiguengajegui agáqueri ora ingantaiguë itingomipague. Aisati caninataque irirai itingomi iripëgairi ira irinaga cara\niragátaiguëñ imatsiguenga.\n22.\nCaninataque antagaisati matsiguenga intarobacaate aisati irante arota inganinasëretanë irironta matsiguengasonori. Aisati caninataque\nigobirinote omitocotiri intimaque caninasati aisati inganinatanë.\n23.",
-            "Image": "d0a5aba8b3901e5299ba29cf338dfee0"
+            "Text": "Paniro páguiro pijina, paniro páguëri pijime cara pinguenguëma pitirooti obiro.\nCaninataque ongábintsëmi gobirino obiro aisa pijina aisa pijaniquite.\n17.\nCaninataque antagaisati matsiguenga ingasintëmaro ora iraisati: iguebatsite, ibango, irantomënto, aisati basinipague.\nTení ongomeite cara pairiraca irágopitimi ora pasiati.\n18.\nTeni ongomeite cara pairiraca iragáquemi ora pinguenguëma aisati ora pinguemisanque. Caninataque pinguemisanqueri pasi pitosorintsite.\nAisati caninataque cara picogui pingampiatiro ora pinguenguëma aisati ora pinguemisanque. Caninataque pomanocotiri pitosorintsite aisati\npogometocotiri catingasatiquë matsiguenga.\n19.\nCaninataque antagaisati matsiguenga inguenguëma ora ijique caninaro aisati caninataque ingomantaguetiro atiraca ininti. Teni ongomeite cara\npairiraca inganquemi ora te onganinate aroquenta piquianca ora basiniati ora te inguenguema iriro.\n20.\nCaninataque popatoitima obirojequi arota pintaiguë ora caninaro.\nAisati queroca pininti popatota, caninataque.\n21.\nCaninataque cara antagaisati matsiguenga ingomantëro igobirinote ora icogui iriro. Queroca icantiro iriati caninataque iragáque basini ira\nnibabintineri catingasatiquë itingomipague.\nAitica ora onganquineri matsiguenga pigobirinote. caninataque onganquimi omagaro obirojequi.\nOra inintaigue matsiguengajegui agáqueri ora ingantaiguë itingomipague. Aisati caninataque irirai itingomi iripëgairi ira irinaga cara\niragátaiguëñ imatsiguenga.\n22.\nCaninataque antagaisati matsiguenga intarobacaate aisati irante arota inganinasëretanë irironta matsiguengasonori. Aisati caninataque\nigobirinote omitocotiri intimaque caninasati aisati inganinatanë.\n23."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "b06f1392c13893e5f228539d23028a45",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "Caninataque intarobacaate matsiguengajegui inganque ora oganinatërini atiraca iranintë. Queroca pini itarobacaare omitocotirita igobirinote\niraniaquero irorai itarobacaare.\nCaninataque antagaisati matsiguenga iráguiri iriatisati quirequi aisati icantari ibega pairiraca basini cara inganque irootisati itarobacaare.\nCaninataque cara intarobacaate matsiguenga iráguiri iguireguite ira cotonguiboro arota quero itasegui iriro querootisati imatsiguenga. Queroca\ncotonguiboro ainta iromitocoquerl.\nCaninataque antagaisati matsiguenga intsibatimari basini irapatoitaiguëma cara ingábintsaiguëma ora iraisatijegui.\n24.\nCaninataque intarobacaate omagaro matsiguenga. Aisati caninataque cataguiteri comagoriantague cara quero itarobacaati. Aisati caninataque\nora jitacha vacación cara përosati iripënabintiri antagaisati matsiguenga iguireguite.\n25.\nCaninataque pintarobacaate antagaisati obirojegui páguëri quirequi ira cotonquiboro arota popaigue quero pitasegui, cotonguiboro asi\npomanchaqui obiro aisati asi pijina aisati irasi pijaniquite, aisati cotonguiboro asi jompi. Aisati caninataque ainta iromitocoquemi aroca\npijanaitë, aroca otsonquima pitarobacaare, aroca ingamaque ira casintimi, aroca pintiasiparitanë.\nCaninataque ainta ira ingábintsëro aisati iromitocotiro antagaisati tsinane aisati ojaniquite cara ontsomaqueri. Aisati caninataque\ningábintsaigueri omagaro janequi jemita irogótengani iriri.\n26.\nCaninataque irisitoriataigue antagaisati matsiguenga cara isicoiraquë cara ipënabentineri igobirinote ora opënatima primaria. Iragáqueri\nianiquite casintari cara irisitoriate. Caninataque irogóiganë irogomere inganinatanë, aisati iraniacaninataigueri ira basini irogomere, aisati\nirogótanë intimaque caninasati, aisati iromitocoqueri antagaisati matsiguenga iraniacaninatobaguëma cara ocanti oca sanguenarica.\nCaninataque irisitoriataigue antagaisati arota irogótanëro ora caninaro cara inganinasëretanë, aisati iraniacaninatiri ira basiniati aisa\niromitocoqueri imatsiguenga cara iraniacaninataiguëri iraegui basiniati.\nIraegui casintari janequi inganque pairo irogometaiguëri ianiquite.\n27.\nCaninataque antagaisati matsiguenga intsibataiguemari imatsiguenga cara omagaro inganque ora yameitaigaca irirojegui.\nAinta matsiguenga ingositëri basini ora inganque, ora irobetsique irorai, aisati ora irisanguenataguëque. Oca te ongomeite.\n28.",
-            "Image": "b06f1392c13893e5f228539d23028a45"
+            "Text": "Caninataque intarobacaate matsiguengajegui inganque ora oganinatërini atiraca iranintë. Queroca pini itarobacaare omitocotirita igobirinote\niraniaquero irorai itarobacaare.\nCaninataque antagaisati matsiguenga iráguiri iriatisati quirequi aisati icantari ibega pairiraca basini cara inganque irootisati itarobacaare.\nCaninataque cara intarobacaate matsiguenga iráguiri iguireguite ira cotonguiboro arota quero itasegui iriro querootisati imatsiguenga. Queroca\ncotonguiboro ainta iromitocoquerl.\nCaninataque antagaisati matsiguenga intsibatimari basini irapatoitaiguëma cara ingábintsaiguëma ora iraisatijegui.\n24.\nCaninataque intarobacaate omagaro matsiguenga. Aisati caninataque cataguiteri comagoriantague cara quero itarobacaati. Aisati caninataque\nora jitacha vacación cara përosati iripënabintiri antagaisati matsiguenga iguireguite.\n25.\nCaninataque pintarobacaate antagaisati obirojegui páguëri quirequi ira cotonquiboro arota popaigue quero pitasegui, cotonguiboro asi\npomanchaqui obiro aisati asi pijina aisati irasi pijaniquite, aisati cotonguiboro asi jompi. Aisati caninataque ainta iromitocoquemi aroca\npijanaitë, aroca otsonquima pitarobacaare, aroca ingamaque ira casintimi, aroca pintiasiparitanë.\nCaninataque ainta ira ingábintsëro aisati iromitocotiro antagaisati tsinane aisati ojaniquite cara ontsomaqueri. Aisati caninataque\ningábintsaigueri omagaro janequi jemita irogótengani iriri.\n26.\nCaninataque irisitoriataigue antagaisati matsiguenga cara isicoiraquë cara ipënabentineri igobirinote ora opënatima primaria. Iragáqueri\nianiquite casintari cara irisitoriate. Caninataque irogóiganë irogomere inganinatanë, aisati iraniacaninataigueri ira basini irogomere, aisati\nirogótanë intimaque caninasati, aisati iromitocoqueri antagaisati matsiguenga iraniacaninatobaguëma cara ocanti oca sanguenarica.\nCaninataque irisitoriataigue antagaisati arota irogótanëro ora caninaro cara inganinasëretanë, aisati iraniacaninatiri ira basiniati aisa\niromitocoqueri imatsiguenga cara iraniacaninataiguëri iraegui basiniati.\nIraegui casintari janequi inganque pairo irogometaiguëri ianiquite.\n27.\nCaninataque antagaisati matsiguenga intsibataiguemari imatsiguenga cara omagaro inganque ora yameitaigaca irirojegui.\nAinta matsiguenga ingositëri basini ora inganque, ora irobetsique irorai, aisati ora irisanguenataguëque. Oca te ongomeite.\n28."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "55cbce89d72d631124cd8e930a699106",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "Caninataque antagaisati matsiguenga intimaiguë cara inguemisanquero oca sanguenarica.\n29.\nCaninataque antagaisati matsiguenga iraniacaninataigueri itingomi ira imatsiguenga, aisati inguemisanqueri itingomipague arota intimaigue\ncaninasati antagaisati.\nInguemisantirota antagaisati matsiguenga ora iquengaigaca aisati ora isanguenaque itingomipague. Cara inganque negaca iromitocotaiguëri\nomagaro itimanamitane cara ibaisitequë cara intimaiguë caninasati omagaro.\nAngagaisati matsiguenga inguemisanquerota oca sanguenarica ora iquengaigaca aisati ora isanguenataiguë iragátane tojai país oraegui jitacha\nNaciones Unidas.\n30.\nOca sanguenarica quero ipiri pairiraca matsiguenga querootisati pairoraca gobirino cara ingantaguebiritiri catsimaro ira matsiguenga.",
-            "Image": "55cbce89d72d631124cd8e930a699106"
+            "Text": "Caninataque antagaisati matsiguenga intimaiguë cara inguemisanquero oca sanguenarica.\n29.\nCaninataque antagaisati matsiguenga iraniacaninataigueri itingomi ira imatsiguenga, aisati inguemisanqueri itingomipague arota intimaigue\ncaninasati antagaisati.\nInguemisantirota antagaisati matsiguenga ora iquengaigaca aisati ora isanguenaque itingomipague. Cara inganque negaca iromitocotaiguëri\nomagaro itimanamitane cara ibaisitequë cara intimaiguë caninasati omagaro.\nAngagaisati matsiguenga inguemisanquerota oca sanguenarica ora iquengaigaca aisati ora isanguenataiguë iragátane tojai país oraegui jitacha\nNaciones Unidas.\n30.\nOca sanguenarica quero ipiri pairiraca matsiguenga querootisati pairoraca gobirino cara ingantaguebiritiri catsimaro ira matsiguenga."
         }
     }
 }

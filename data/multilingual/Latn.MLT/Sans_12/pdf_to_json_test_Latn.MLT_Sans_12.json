@@ -1,99 +1,99 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581469351,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
-            "Index": 0,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
             ],
-            "Text": "L-ISTQARRIJA UNIVERSALI DWAR IL-JEDDIJIET TAL-BNIEDEM\nKwalunkwe referenza għall-maskil, f’din l-Istqarrija qed tirreferi wkoll għall-femminil.\nDAĦLA\nBilli l-għarfien tad-dinjità proprja tal-membri kollha tal-familja umana u tad-drittijiet tagħhom ugwali li ma jistgħux jitteħdulhom hu s-sies\ntal-ħelsien, tal-ħaqq u tal-paċi fid-dinja,\nBilli t-tkasbir u ż-żebliħ tal-jeddijiet tal-bniedem ġabu magħhom għemejjel kiefra li weġġgħu l-kuxjenza tal-umanità, u l-miġja ta’ dinja\nfejn il-bnedmin ikunu ħielsa li jitkellmu u jemmnu, meħlusa mill-biża’ u mill-miżerja, kienet proklamata bħala l-ogħla xewqa tal-bniedem,\nBilli hu essenzjali li l-jeddijiet tal-bniedem ikunu mħarsa bil-ħakma tal-liġi biex il-bniedem ma jkunx imġiegħel, fl-aħħar mill-aħħar, li\njqum kontra t-tirannija u l-moħqrija,\nBilli hu essenzjali li jkun imħeġġeġ l-iżvilupp ta’ relazzjonijiet ta’ ħbieb bejn il-ġnus,\nBilli fl-Istatut il-popli tal-Ġnus Magħquda xandru mill-ġdid il-fidi tagħhom fil-jeddijiet fondamentali tal-bniedem, fid-dinjità u s-siwi tal-\npersuna umana, fil-jeddijiet ugwali tar-rġiel u tan-nisa, u qatgħuha li jġibu ’l quddiem il-progress soċjali u joħolqu kondizzjonijiet aħjar tal-\nħajja f’libertà akbar,\nBilli l-Istati Membri wiegħdu biex, flimken mal-Organizzazzjoni tal-Ġnus Magħquda, jiżguraw ir-rispett universali u effettiv tal-jeddijiet tal-\nbniedem u tal-libertajiet fondamentali,\nBilli fehma komuni ta’ dawn il-jeddijiet u l-libertajiet hi tal-akbar importanza għat-twettiq sħiħ ta’ din il-wegħda,\nGħaldaqstant, l-ASSEMBLEA ĠENERALI xxandar DIN L-ISTQARRIJA UNIVERALI DWAR IL-JEDDIJIET TAL-BNIEDEM bħala\ngħan komuni biex jintlaħaq mill-popli u mill-ġnus kollha, ħalli kull bniedem u kull organu tas-soċjetà, billi jżommu dejjem quddiemhom din\nl-istqarrija, iħabirku biex bit-tagħlim u bl-edukazzjoni jġibu ’l quddiem ir-rispett għal dawn il-jeddijiet u l-libertajiet u biex jiżgurawlhom,\nb’miżuri progressivi nazzjonali u internazzjonali, l-għarfien u l-ħarsien universali u effettiv, kemm fost il-popli tal-Istati Membri nfushom, kif\nukoll fost dawk tal-artijiet taħt il-ġuriżdizzjoni tagħhom.\nL-Artiklu 1.\nIl-bnedmin kollha jitwieldu ħielsa u ugwali fid-dinjità u d-drittijiet. Huma mogħnija bir-raġuni u bil-kuxjenza u għandhom iġibu ruħhom ma’\nxulxin bi spirtu ta’ aħwa.\nL-Artiklu 2.\nKulħadd hu intitolat għal dawn il-jeddijiet u l-libertajiet imxandra f’din l-Istqarrija, bla ebda għażla, bħal ta’ razza, lewn, sess, ilsien,",
-            "Image": "e5d06fea2595220efe2903479904d566"
+            "Image": "e5d06fea2595220efe2903479904d566",
+            "Index": 0,
+            "Label": "1",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "L-ISTQARRIJA UNIVERSALI DWAR IL-JEDDIJIET TAL-BNIEDEM\nKwalunkwe referenza għall-maskil, f’din l-Istqarrija qed tirreferi wkoll għall-femminil.\nDAĦLA\nBilli l-għarfien tad-dinjità proprja tal-membri kollha tal-familja umana u tad-drittijiet tagħhom ugwali li ma jistgħux jitteħdulhom hu s-sies\ntal-ħelsien, tal-ħaqq u tal-paċi fid-dinja,\nBilli t-tkasbir u ż-żebliħ tal-jeddijiet tal-bniedem ġabu magħhom għemejjel kiefra li weġġgħu l-kuxjenza tal-umanità, u l-miġja ta’ dinja\nfejn il-bnedmin ikunu ħielsa li jitkellmu u jemmnu, meħlusa mill-biża’ u mill-miżerja, kienet proklamata bħala l-ogħla xewqa tal-bniedem,\nBilli hu essenzjali li l-jeddijiet tal-bniedem ikunu mħarsa bil-ħakma tal-liġi biex il-bniedem ma jkunx imġiegħel, fl-aħħar mill-aħħar, li\njqum kontra t-tirannija u l-moħqrija,\nBilli hu essenzjali li jkun imħeġġeġ l-iżvilupp ta’ relazzjonijiet ta’ ħbieb bejn il-ġnus,\nBilli fl-Istatut il-popli tal-Ġnus Magħquda xandru mill-ġdid il-fidi tagħhom fil-jeddijiet fondamentali tal-bniedem, fid-dinjità u s-siwi tal-\npersuna umana, fil-jeddijiet ugwali tar-rġiel u tan-nisa, u qatgħuha li jġibu ’l quddiem il-progress soċjali u joħolqu kondizzjonijiet aħjar tal-\nħajja f’libertà akbar,\nBilli l-Istati Membri wiegħdu biex, flimken mal-Organizzazzjoni tal-Ġnus Magħquda, jiżguraw ir-rispett universali u effettiv tal-jeddijiet tal-\nbniedem u tal-libertajiet fondamentali,\nBilli fehma komuni ta’ dawn il-jeddijiet u l-libertajiet hi tal-akbar importanza għat-twettiq sħiħ ta’ din il-wegħda,\nGħaldaqstant, l-ASSEMBLEA ĠENERALI xxandar DIN L-ISTQARRIJA UNIVERALI DWAR IL-JEDDIJIET TAL-BNIEDEM bħala\ngħan komuni biex jintlaħaq mill-popli u mill-ġnus kollha, ħalli kull bniedem u kull organu tas-soċjetà, billi jżommu dejjem quddiemhom din\nl-istqarrija, iħabirku biex bit-tagħlim u bl-edukazzjoni jġibu ’l quddiem ir-rispett għal dawn il-jeddijiet u l-libertajiet u biex jiżgurawlhom,\nb’miżuri progressivi nazzjonali u internazzjonali, l-għarfien u l-ħarsien universali u effettiv, kemm fost il-popli tal-Istati Membri nfushom, kif\nukoll fost dawk tal-artijiet taħt il-ġuriżdizzjoni tagħhom.\nL-Artiklu 1.\nIl-bnedmin kollha jitwieldu ħielsa u ugwali fid-dinjità u d-drittijiet. Huma mogħnija bir-raġuni u bil-kuxjenza u għandhom iġibu ruħhom ma’\nxulxin bi spirtu ta’ aħwa.\nL-Artiklu 2.\nKulħadd hu intitolat għal dawn il-jeddijiet u l-libertajiet imxandra f’din l-Istqarrija, bla ebda għażla, bħal ta’ razza, lewn, sess, ilsien,"
         },
         "1": {
-            "Label": "2",
-            "Index": 1,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
             ],
-            "Text": "reliġjon, opinjoni politika jew kull opinjoni oħra, oriġini nazzjonali jew soċjali, proprjetà, twelid jew kull qagħda oħra.\nMhux biss, iżda l-ebda għażla m’għandha ssir fuq bażi tal-qagħda politika, ġuridika jew internazzjonali tal-pajjiż jew territorju li minnu tiġi\nl-persuna, kemm jekk tkun indipendenti, kemm jekk tkun fdata lil xi pajjiż ieħor, kemm jekk ma jkollhiex gvern tagħha kif ukoll jekk ikollha\nxi limiti oħra fis-sovranità tagħha.\nL-Artiklu 3.\nKull bniedem għandu l-jedd għall-ħajja, għall-ħelsien u għas-sigurtà tal-persuna tiegħu.\nL-Artiklu 4.\nĦadd m’għandu jinżamm ilsir jew fi stat li jixbah lil dak ta’ lsir. L-iskjavitù u n-negozju tal-ilsiera fl-għamliet kollha tagħhom\nm’għandhomx jitħallew isiru.\nL-Artiklu 5.\nĦadd m’għandu jingħata tortura jew kastig jew trattament aħrax, li ma jixraqx lill-bniedem jew li jbaxxih.\nL-Artiklu 6.\nKulħadd għandu l-jedd li jintgħaraf kullimkien bħala persuna quddiem il-liġi.\nL-Artiklu 7.\nKulħadd huwa ndaqs quddiem il-liġi u għandu l-jedd, bla ebda għażla, għal protezzjoni ugwali mil-liġi. Kulħadd għandu l-jedd għal\nprotezzjoni ndaqs kontra kull għażla li tikser din l-Istqarrija u kontra kull provokazzjoni għal għażla bħal din.\nL-Artiklu 8.\nKulħadd għandu l-jedd quddiem it-tribunali nazzjonali kompetenti għal rimedji effettivi kontra l-ksur tal-jeddijiet fondamentali li lilu huma\nmagħrufa mill-kostituzzjoni jew mil-liġi.\nL-Artiklu 9.\nĦadd m’għandu jitħalla jkun imħarrek, miżmum il-ħabs jew itturufnat għalxejn b’xejn.\nL-Artiklu 10.\nKulħadd għandu l-jedd b’ugwaljanza sħiħa li jkun mismugħ bil-ħaqq u fil-pubbliku minn tribunal indipendenti u imparzjali, li jiddeċiedi l-\njeddijiet u d-dmirijiet tiegħu jew xi akkuża kriminali kontrieh.\nL-Artiklu 11.",
-            "Image": "54b57281bb3be6cd6ee18eef65a59648"
+            "Image": "54b57281bb3be6cd6ee18eef65a59648",
+            "Index": 1,
+            "Label": "2",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "reliġjon, opinjoni politika jew kull opinjoni oħra, oriġini nazzjonali jew soċjali, proprjetà, twelid jew kull qagħda oħra.\nMhux biss, iżda l-ebda għażla m’għandha ssir fuq bażi tal-qagħda politika, ġuridika jew internazzjonali tal-pajjiż jew territorju li minnu tiġi\nl-persuna, kemm jekk tkun indipendenti, kemm jekk tkun fdata lil xi pajjiż ieħor, kemm jekk ma jkollhiex gvern tagħha kif ukoll jekk ikollha\nxi limiti oħra fis-sovranità tagħha.\nL-Artiklu 3.\nKull bniedem għandu l-jedd għall-ħajja, għall-ħelsien u għas-sigurtà tal-persuna tiegħu.\nL-Artiklu 4.\nĦadd m’għandu jinżamm ilsir jew fi stat li jixbah lil dak ta’ lsir. L-iskjavitù u n-negozju tal-ilsiera fl-għamliet kollha tagħhom\nm’għandhomx jitħallew isiru.\nL-Artiklu 5.\nĦadd m’għandu jingħata tortura jew kastig jew trattament aħrax, li ma jixraqx lill-bniedem jew li jbaxxih.\nL-Artiklu 6.\nKulħadd għandu l-jedd li jintgħaraf kullimkien bħala persuna quddiem il-liġi.\nL-Artiklu 7.\nKulħadd huwa ndaqs quddiem il-liġi u għandu l-jedd, bla ebda għażla, għal protezzjoni ugwali mil-liġi. Kulħadd għandu l-jedd għal\nprotezzjoni ndaqs kontra kull għażla li tikser din l-Istqarrija u kontra kull provokazzjoni għal għażla bħal din.\nL-Artiklu 8.\nKulħadd għandu l-jedd quddiem it-tribunali nazzjonali kompetenti għal rimedji effettivi kontra l-ksur tal-jeddijiet fondamentali li lilu huma\nmagħrufa mill-kostituzzjoni jew mil-liġi.\nL-Artiklu 9.\nĦadd m’għandu jitħalla jkun imħarrek, miżmum il-ħabs jew itturufnat għalxejn b’xejn.\nL-Artiklu 10.\nKulħadd għandu l-jedd b’ugwaljanza sħiħa li jkun mismugħ bil-ħaqq u fil-pubbliku minn tribunal indipendenti u imparzjali, li jiddeċiedi l-\njeddijiet u d-dmirijiet tiegħu jew xi akkuża kriminali kontrieh.\nL-Artiklu 11."
         },
         "2": {
-            "Label": "3",
-            "Index": 2,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
             ],
-            "Text": "Kull min hu mixli bi ħtija li jistħoqqilha kastig għandu l-jedd li jkun meqjus bla ħtija sakemm il-ħtija tiegħu tkun pprovata skont il-liġi fi\nproċess pubbliku li fih ikollu l-garanziji kollha meħtieġa biex jiddefendi ruħu.\nĦadd m’għandu jkun ikkundannat minħabba għemil jew tħollija ta’ għemil, li fiż-żmien meta twettqu ma kinux ħtijiet li jistħoqqilhom\nkastig skont il-liġi nazzjonali jew internazzjonali. Lanqas m’għandu jingħata kastig ikbar minn dak li kien jingħata meta twettqet il-ħtija.\nL-Artiklu 12.\nĦadd m’għandu jkollu għalxejn b’xejn indħil fil-ħajja privata tiegħu, fil-familja tiegħu, f’daru jew fl-ittri tiegħu, u lanqas m’għandu jbati\nminn attakki fuq l-unur u l-fama tiegħu. Kulħadd għandu l-jedd għall-protezzjoni mil-liġi kontra kull indħil jew attakki bħal dawn.\nL-Artiklu 13.\nKulħadd għandu l-jedd li jmur bil-libertà minn imkien għal ieħor u li jagħżel fejn joqgħod ’il ġewwa mill-fruntieri ta’ kull Stat.\nKulħadd għandu l-jedd li jħalli pajjiż, ukoll dak tiegħu, u li jerġa’ lura fih.\nL-Artiklu 14.\nKulħadd għandu l-jedd li jfittex u jgawdi f’pajjiżi oħra l-kenn mill-persekuzzjoni.\nDan il-jedd ma jistax jintuża fil-każ ta’ persekuzzjonijiet fondati tassew fuq ħtija kontra l-liġi komuni jew fuq għemejjel kontra l-għanijiet u\nl-prinċipji tal-Ġnus Magħquda.\nL-Artiklu 15.\nKulħadd għandu l-jedd għan-nazzjonalità.\nĦadd m’għandu jkun imċaħħad għalxejn b’xejn min-nazzjonalità tiegħu, lanqas mid-dritt li jbiddilha.\nL-Artiklu 16.\nL-irġiel u n-nisa li għandom l-età tagħhom taż-żwieġ, għandhom il-jedd jiżżewġu u jwaqqfu familja mingħajr xkiel minħabba r-razza, in-\nnazzjonalità jew ir-reliġjon tagħhom. Huma għandhom jeddijiet indaqs għaż-żwieġ, matul iż-żwieġ u meta dan jinħall.\nIż-żwieġ m’għandux isir mingħajr il-ftehim ħieles u sħiħ taż-żewġ għarajjes.\nIl-familja hi l-element naturali u fondamentali tas-soċjetà u għandha l-jedd għall-protezzjoni mis-soċjetà u mill-Istat.\nL-Artiklu 17.\nKulħadd għandu l-jedd għall-proprjetà, kemm tiegħu waħdu kif ukoll bi sħab m’oħrajn.\nĦadd m’għandu għalxejn b’xejn ikun imċaħħad minn ġidu.",
-            "Image": "e96157650b5fc385a3c8eaefa09850fd"
+            "Image": "e96157650b5fc385a3c8eaefa09850fd",
+            "Index": 2,
+            "Label": "3",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Kull min hu mixli bi ħtija li jistħoqqilha kastig għandu l-jedd li jkun meqjus bla ħtija sakemm il-ħtija tiegħu tkun pprovata skont il-liġi fi\nproċess pubbliku li fih ikollu l-garanziji kollha meħtieġa biex jiddefendi ruħu.\nĦadd m’għandu jkun ikkundannat minħabba għemil jew tħollija ta’ għemil, li fiż-żmien meta twettqu ma kinux ħtijiet li jistħoqqilhom\nkastig skont il-liġi nazzjonali jew internazzjonali. Lanqas m’għandu jingħata kastig ikbar minn dak li kien jingħata meta twettqet il-ħtija.\nL-Artiklu 12.\nĦadd m’għandu jkollu għalxejn b’xejn indħil fil-ħajja privata tiegħu, fil-familja tiegħu, f’daru jew fl-ittri tiegħu, u lanqas m’għandu jbati\nminn attakki fuq l-unur u l-fama tiegħu. Kulħadd għandu l-jedd għall-protezzjoni mil-liġi kontra kull indħil jew attakki bħal dawn.\nL-Artiklu 13.\nKulħadd għandu l-jedd li jmur bil-libertà minn imkien għal ieħor u li jagħżel fejn joqgħod ’il ġewwa mill-fruntieri ta’ kull Stat.\nKulħadd għandu l-jedd li jħalli pajjiż, ukoll dak tiegħu, u li jerġa’ lura fih.\nL-Artiklu 14.\nKulħadd għandu l-jedd li jfittex u jgawdi f’pajjiżi oħra l-kenn mill-persekuzzjoni.\nDan il-jedd ma jistax jintuża fil-każ ta’ persekuzzjonijiet fondati tassew fuq ħtija kontra l-liġi komuni jew fuq għemejjel kontra l-għanijiet u\nl-prinċipji tal-Ġnus Magħquda.\nL-Artiklu 15.\nKulħadd għandu l-jedd għan-nazzjonalità.\nĦadd m’għandu jkun imċaħħad għalxejn b’xejn min-nazzjonalità tiegħu, lanqas mid-dritt li jbiddilha.\nL-Artiklu 16.\nL-irġiel u n-nisa li għandom l-età tagħhom taż-żwieġ, għandhom il-jedd jiżżewġu u jwaqqfu familja mingħajr xkiel minħabba r-razza, in-\nnazzjonalità jew ir-reliġjon tagħhom. Huma għandhom jeddijiet indaqs għaż-żwieġ, matul iż-żwieġ u meta dan jinħall.\nIż-żwieġ m’għandux isir mingħajr il-ftehim ħieles u sħiħ taż-żewġ għarajjes.\nIl-familja hi l-element naturali u fondamentali tas-soċjetà u għandha l-jedd għall-protezzjoni mis-soċjetà u mill-Istat.\nL-Artiklu 17.\nKulħadd għandu l-jedd għall-proprjetà, kemm tiegħu waħdu kif ukoll bi sħab m’oħrajn.\nĦadd m’għandu għalxejn b’xejn ikun imċaħħad minn ġidu."
         },
         "3": {
-            "Label": "4",
-            "Index": 3,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
             ],
-            "Text": "L-Artiklu 18.\nKulħadd għandu l-jedd għal-libertà tal-ħsieb, tal-kuxjenza u tar-reliġjon; dan il-jedd iħaddan il-libertà li wieħed ibiddel ir-reliġjon jew il-\nkonvinzjoni tiegħu u li jkun ħieles, kemm waħdu jew m’oħrajn, fil-beraħ jew fil-privat, jistqarr ir-reliġjon jew il-konvinzjoni tiegħu fit-\ntagħlim, fl-għemejjel, fil-qima u fil-ħarsien tiegħu.\nL-Artiklu 19.\nKulħadd għandu l-jedd għal-libertà li jżomm l-opinjoni tiegħu u li jfissirha; dan iħaddan il-jedd li wieħed iżomm opinjonijiet mingħajr\nindħil u li jkun jista’ jfittex jirċievi u jgħaddi tagħrif u ideat bil-mezzi li jidhirlu, irrispettivament mill-fruntieri.\nL-Artiklu 20.\nKulħadd għandu l-jedd għal-libertà li jiltaqa’ u jissieħeb ma’ oħrajn fil-paċi.\nĦadd m’għandu jkun imġiegħel li jissieħeb f’xi għaqda.\nL-Artiklu 21.\nKulħadd għandu l-jedd li jieħu sehem fil-gvern ta’ pajjiżu, direttament jew permezz ta’ rappreżentanti magħżula bil-libertà.\nKulħadd għandu l-jedd ugwali li jidħol għas-servizzi pubbliċi ta’ pajjiżu.\nIr-rieda tal-poplu għandha tkun is-sies tal-awtorità tal-gvern; din ir-rieda għandha tintwera f’elezzjonijiet ġenwini li għandhom isiru minn\nżmien għal żmien li fihom jivvota kulħadd b’vot indaqs u sigriet jew inkella skont proċeduri bħalhom li jiżguraw il-libertà tal-vot.\nL-Artiklu 22.\nKulħadd, bħala membru tas-soċjetà, għandu l-jedd għas-sigurtà soċjali u għandu l-jedd li jissodisfa, permezz tal-isforz nazzjonali u l-\nkoperazzjoni internazzjonali u skont l-organizzazzjoni u r-riżorsi ta’ kull Stat, il-jeddijiet ekonomiċi, soċjali u kulturali li mingħajrhom ma\njistax iżomm id-dinjità tiegħu u jiżviluppa bil-libertà l-personalità tiegħu.\nL-Artiklu 23.\nKulħadd għandu l-jedd għax-xoghol, għall-għażla ħielsa tal-impjieg, għal kondizzjonijiet ta’ xogħol ġusti u favorevoli u għall-protezzjoni\nmill-qgħad.\nKulħadd, bla ebda għażla, għandu l-jedd għal ħlas indaqs għal xoghol indaqs.\nKull min jaħdem għandu l-jedd għal ħlas ġust u favorevoli li jiżgura lilu u lill-familja tiegħu għajxien li jixraq lid-dinjità umana, u li jkun\nmiżjud, jekk jeħtieġ, minn kull mezz ieħor ta’ protezzjoni soċjali.",
-            "Image": "73e88903d41ca5aa66a0556fd5b49e33"
+            "Image": "73e88903d41ca5aa66a0556fd5b49e33",
+            "Index": 3,
+            "Label": "4",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "L-Artiklu 18.\nKulħadd għandu l-jedd għal-libertà tal-ħsieb, tal-kuxjenza u tar-reliġjon; dan il-jedd iħaddan il-libertà li wieħed ibiddel ir-reliġjon jew il-\nkonvinzjoni tiegħu u li jkun ħieles, kemm waħdu jew m’oħrajn, fil-beraħ jew fil-privat, jistqarr ir-reliġjon jew il-konvinzjoni tiegħu fit-\ntagħlim, fl-għemejjel, fil-qima u fil-ħarsien tiegħu.\nL-Artiklu 19.\nKulħadd għandu l-jedd għal-libertà li jżomm l-opinjoni tiegħu u li jfissirha; dan iħaddan il-jedd li wieħed iżomm opinjonijiet mingħajr\nindħil u li jkun jista’ jfittex jirċievi u jgħaddi tagħrif u ideat bil-mezzi li jidhirlu, irrispettivament mill-fruntieri.\nL-Artiklu 20.\nKulħadd għandu l-jedd għal-libertà li jiltaqa’ u jissieħeb ma’ oħrajn fil-paċi.\nĦadd m’għandu jkun imġiegħel li jissieħeb f’xi għaqda.\nL-Artiklu 21.\nKulħadd għandu l-jedd li jieħu sehem fil-gvern ta’ pajjiżu, direttament jew permezz ta’ rappreżentanti magħżula bil-libertà.\nKulħadd għandu l-jedd ugwali li jidħol għas-servizzi pubbliċi ta’ pajjiżu.\nIr-rieda tal-poplu għandha tkun is-sies tal-awtorità tal-gvern; din ir-rieda għandha tintwera f’elezzjonijiet ġenwini li għandhom isiru minn\nżmien għal żmien li fihom jivvota kulħadd b’vot indaqs u sigriet jew inkella skont proċeduri bħalhom li jiżguraw il-libertà tal-vot.\nL-Artiklu 22.\nKulħadd, bħala membru tas-soċjetà, għandu l-jedd għas-sigurtà soċjali u għandu l-jedd li jissodisfa, permezz tal-isforz nazzjonali u l-\nkoperazzjoni internazzjonali u skont l-organizzazzjoni u r-riżorsi ta’ kull Stat, il-jeddijiet ekonomiċi, soċjali u kulturali li mingħajrhom ma\njistax iżomm id-dinjità tiegħu u jiżviluppa bil-libertà l-personalità tiegħu.\nL-Artiklu 23.\nKulħadd għandu l-jedd għax-xoghol, għall-għażla ħielsa tal-impjieg, għal kondizzjonijiet ta’ xogħol ġusti u favorevoli u għall-protezzjoni\nmill-qgħad.\nKulħadd, bla ebda għażla, għandu l-jedd għal ħlas indaqs għal xoghol indaqs.\nKull min jaħdem għandu l-jedd għal ħlas ġust u favorevoli li jiżgura lilu u lill-familja tiegħu għajxien li jixraq lid-dinjità umana, u li jkun\nmiżjud, jekk jeħtieġ, minn kull mezz ieħor ta’ protezzjoni soċjali."
         },
         "4": {
-            "Label": "5",
-            "Index": 4,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
             ],
-            "Text": "Kulħadd għandu l-jedd jifforma trade unions u jissieħeb fihom għall-protezzjoni tal-interessi tiegħu.\nL-Artiklu 24.\nKulħadd għandu l-jedd għall-mistrieħ u għall-btajjel, kif ukoll għal limitazzjoni ta’ ħin raġjonevoli ta’ xogħol u għal vaganzi perjodiċi\nmħallsin.\nL-Artiklu 25.\nKulħadd għandu l-jedd għal livell ta’ ħajja suffiċjenti biex jiżguralu saħħtu, għajxien tajjeb għalih u għall-familja tiegħu, speċjalment\nf’dak li hu ikel, ilbies, dar, kura medika kif ukoll servizzi soċjali meħtieġa; għandu wkoll il-jedd għas-sigurtà f’każ ta’ qgħad, mard,\nmankament, irmulija, xjuħija u fil-każi l-oħra meta minħabba ċirkostanzi li ma jkollux kontroll fuqhom jitlef il-mezzi tal-għajxien.\nL-ommijiet u t-tfal għandhom il-jedd għall-kura u għal għajnuna speċjali. It-tfal kollha, kemm jekk twieldu fiż-żwieġ u kemm barra minnu,\ngħandhom igawdu l-istess protezzjoni speċjali.\nL-Artiklu 26.\nKulħadd għandu l-jedd għall-edukazzjoni. L-edukazzjoni għandha tkun b’xejn, għall-inqas fil-gradi elementari u fondamentali tagħha. L-\nedukazzjoni elementari għandha tkun obbligatorja. L-edukazzjoni teknika u professjonali għandu jkun jista’ jagħmel użu minnha kulħadd; l-\nedukazzjoni universitarja għandha tkun miftuħa b’mod ugwali għal dawk kollha li jistħoqqilhom.\nL-edukazzjoni għandu jkollha bħala għan l-iżvilupp sħiħ tal-personalità umana u li ssaħħaħ ir-rispett għall-jeddijiet u għal-libertajiet\nfondamentali tal-bniedem. Għandha tħeġġeġ il-ftehim, it-tolleranza u l-ħbiberija fost in-nazzjonijiet, ir-razez jew il-gruppi reliġjużi kolha u\ngħandha tmexxi ’l quddiem il-ħidmiet tal-Ġnus Magħquda għaż-żamma tal-paċi.\nIl-ġenituri għandhom l-ewwel jedd li jagħżlu l-għamla ta’ edukazzjoni li tingħata ’l uliedhom.\nL-Artiklu 27.\nKulħadd għandu l-jedd li jieħu sehem bil-libertà fil-ħajja kulturali tal-komunità, li jgawdi l-arti u li jaqsam fil-progress xjentifiku u fil-ġid li\njġib miegħu dan il-jedd.\nKulħadd għandu l-jedd li jkollu l-protezzjoni għall-interessi morali u materjali tiegħu meta jkun l-awtur ta’ produzzjoni xjentifika, letterarja\njew artistika.\nL-Artiklu 28.\nKulħadd hu intitolat għal ordni soċjali u internazzjonali li fih il-jeddijiet u l-libertajiet imxandra f’din l-Istqarrija jkunu jistgħu jitwettqu\ntassew.",
-            "Image": "e14a77f3709033a7b2dd7d98273dd32a"
+            "Image": "e14a77f3709033a7b2dd7d98273dd32a",
+            "Index": 4,
+            "Label": "5",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Kulħadd għandu l-jedd jifforma trade unions u jissieħeb fihom għall-protezzjoni tal-interessi tiegħu.\nL-Artiklu 24.\nKulħadd għandu l-jedd għall-mistrieħ u għall-btajjel, kif ukoll għal limitazzjoni ta’ ħin raġjonevoli ta’ xogħol u għal vaganzi perjodiċi\nmħallsin.\nL-Artiklu 25.\nKulħadd għandu l-jedd għal livell ta’ ħajja suffiċjenti biex jiżguralu saħħtu, għajxien tajjeb għalih u għall-familja tiegħu, speċjalment\nf’dak li hu ikel, ilbies, dar, kura medika kif ukoll servizzi soċjali meħtieġa; għandu wkoll il-jedd għas-sigurtà f’każ ta’ qgħad, mard,\nmankament, irmulija, xjuħija u fil-każi l-oħra meta minħabba ċirkostanzi li ma jkollux kontroll fuqhom jitlef il-mezzi tal-għajxien.\nL-ommijiet u t-tfal għandhom il-jedd għall-kura u għal għajnuna speċjali. It-tfal kollha, kemm jekk twieldu fiż-żwieġ u kemm barra minnu,\ngħandhom igawdu l-istess protezzjoni speċjali.\nL-Artiklu 26.\nKulħadd għandu l-jedd għall-edukazzjoni. L-edukazzjoni għandha tkun b’xejn, għall-inqas fil-gradi elementari u fondamentali tagħha. L-\nedukazzjoni elementari għandha tkun obbligatorja. L-edukazzjoni teknika u professjonali għandu jkun jista’ jagħmel użu minnha kulħadd; l-\nedukazzjoni universitarja għandha tkun miftuħa b’mod ugwali għal dawk kollha li jistħoqqilhom.\nL-edukazzjoni għandu jkollha bħala għan l-iżvilupp sħiħ tal-personalità umana u li ssaħħaħ ir-rispett għall-jeddijiet u għal-libertajiet\nfondamentali tal-bniedem. Għandha tħeġġeġ il-ftehim, it-tolleranza u l-ħbiberija fost in-nazzjonijiet, ir-razez jew il-gruppi reliġjużi kolha u\ngħandha tmexxi ’l quddiem il-ħidmiet tal-Ġnus Magħquda għaż-żamma tal-paċi.\nIl-ġenituri għandhom l-ewwel jedd li jagħżlu l-għamla ta’ edukazzjoni li tingħata ’l uliedhom.\nL-Artiklu 27.\nKulħadd għandu l-jedd li jieħu sehem bil-libertà fil-ħajja kulturali tal-komunità, li jgawdi l-arti u li jaqsam fil-progress xjentifiku u fil-ġid li\njġib miegħu dan il-jedd.\nKulħadd għandu l-jedd li jkollu l-protezzjoni għall-interessi morali u materjali tiegħu meta jkun l-awtur ta’ produzzjoni xjentifika, letterarja\njew artistika.\nL-Artiklu 28.\nKulħadd hu intitolat għal ordni soċjali u internazzjonali li fih il-jeddijiet u l-libertajiet imxandra f’din l-Istqarrija jkunu jistgħu jitwettqu\ntassew."
         },
         "5": {
-            "Label": "6",
-            "Index": 5,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
             ],
-            "Text": "L-Artiklu 29.\nKulħadd għandu dmirijiet lejn il-komunità li fiha biss jista’ jwettaq l-iżvilupp ħieles u sħiħ tal-personalità tiegħu.\nFit-tħaddim tal-jeddijiet u tal-libertajiet tiegħu, kull wieħed għandu jkollu biss dawk il-limitazzjonijiet li jiġu mil-liġi, li għandha biss bħala\ngħan li tiżgura l-għarfien u r-rispett għall-jeddijiet u l-libertajiet tal-oħrajn u li tissodisfa dak li ġustament jitolbu l-morali, l-ordni pubbliku u\nl-ġid komuni f’soċjetà demokratika.\nDawn il-jeddijiet u l-libertajiet ma jistgħu fl-ebda każ jitħaddmu kontra l-għanijiet u l-prinċipji tal-Ġnus Magħquda.\nL-Artiklu 30.\nXejn f’din l-Istqarrija ma jista’ jkun mifhum li jagħti lil xi Stat, għaqda jew persuna l-jedd li tagħmel xi ħidma jew li twettaq xi għemil bil-\ngħan li teqred xi jeddijiet jew libertajiet li huma mxandra hawnhekk.",
-            "Image": "eab46d361e74a12fcbcbac03fb355d83"
+            "Image": "eab46d361e74a12fcbcbac03fb355d83",
+            "Index": 5,
+            "Label": "6",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "L-Artiklu 29.\nKulħadd għandu dmirijiet lejn il-komunità li fiha biss jista’ jwettaq l-iżvilupp ħieles u sħiħ tal-personalità tiegħu.\nFit-tħaddim tal-jeddijiet u tal-libertajiet tiegħu, kull wieħed għandu jkollu biss dawk il-limitazzjonijiet li jiġu mil-liġi, li għandha biss bħala\ngħan li tiżgura l-għarfien u r-rispett għall-jeddijiet u l-libertajiet tal-oħrajn u li tissodisfa dak li ġustament jitolbu l-morali, l-ordni pubbliku u\nl-ġid komuni f’soċjetà demokratika.\nDawn il-jeddijiet u l-libertajiet ma jistgħu fl-ebda każ jitħaddmu kontra l-għanijiet u l-prinċipji tal-Ġnus Magħquda.\nL-Artiklu 30.\nXejn f’din l-Istqarrija ma jista’ jkun mifhum li jagħti lil xi Stat, għaqda jew persuna l-jedd li tagħmel xi ħidma jew li twettaq xi għemil bil-\ngħan li teqred xi jeddijiet jew libertajiet li huma mxandra hawnhekk."
         }
     }
 }

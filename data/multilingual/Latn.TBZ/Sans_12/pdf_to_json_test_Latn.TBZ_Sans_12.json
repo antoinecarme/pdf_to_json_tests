@@ -1,85 +1,85 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581470815,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
-            "Index": 0,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
             ],
-            "Text": "Oniti ba we a kpenniti kutenku yanɖú\nYɛtanfɔtɛ yiɛ yiɛ mɛ\nTi ɖo kɛnyɛ kɛ tú ɖɛɛ te kɛ sɔkɛsɔkɛ yi bo kɛ kutenku naati tipiiti timɔũ, ɖɛ tú omɔũ yi ɖo nkɛ ɖi otɔu muwɛ̃ rimu ŋo kpɛrɛ yĩnkɛ,\nTi ɖo kɛnyɛ̃ kɛ tú isɔkɛ ɔ̃ɔ̃ nyo di pɛitɛ koo mɔũ wee wɛ̃ ntɛ kɛ nɖo bɛɛ itɛ koo wuu, kɛ yɛ̃ ti bo yĩmɛ kɛ nkari kɛ ɖɛ tinaati kɛ ti naa\ntiɖɔti, kɛ ba nɖe ti mɛ mba yo mɛsemmɛ, oniti ti ɖɛ ŋmanti, ɖɛɛ tú ketɛ,\nTi ɖo kɛnyɛ̃ kɛ tú oniti nɛ oniti ŋmɛ, ti tũ mbo nɖe mu titɔbɛ, ociĩri nɖe okperi ko okperi ɖe ociĩri, kɛ yɛ̃ ɖɛmɔsikaanɖɛ kɔ̃ nɖɛ cooti\nyĩnkɛ,\nTi ɖo kɛnyɛ̃ kɛ tú initi wuɔ nyimɔu ɖo kɛnkàri kɛ naati kɛyɛ̃ itɔbɛ kpɛi,\nTi ɖo kɛnyɛ̃ kɛ tú initi wuɔ kutenku yanɖú ɖenɛni ɖipatri kɛparku ɖi myɛ̃ɛ̃ k ɛ nɛ oniti ba we, kó ɖiyetri kɛ tú oniti pokua oniti dɔua, ɔmɔũ\nyi cãã nnɛ otɔu; kɛ ɖɛɛ te kɛ iwuɔ nyimɔũ ɖo nkɛwɛ̃ nnɛ kɛ mpĩ kɛbeu nɛ ɖɛ bo naatimɛ tipiiti timɔũ,\nTi ɖo kɛnyɛ̃ kɛ tú yɛhɛkɛ yɛ mɔũ yɛ kari kɛwɛ̃ nnɛ mu kutenku yanɖú ko ɖitĩnni kɔbɛ kɛtú ti ɖo kɛ nɖɛ mɛnkɛ weti ɖɛɛ cɛ̃ nkɛ tukunɛ\noniti kó mufommu nɛ o borimɛ,\nTi ɖo kɛnyɛ̃ kɛ tú ti bo wɛ̃ nnɛ mɛ dinnu maɖimaa ɖɛɛ tukunɛ oniti kó mufommu byɛɛkɛ ɖɛɛ bo nte kɛ ti baa yetɛ kucɛ,\nIwuɔ nyimɔũ kó ɖitinni ɖiɖyɛɛrɛ piɛɛku kɛ heu kɛtú\nOniti ba we, a kpenni ti kutenku yanda tu:\nIboti imɔũ nɛ itensaakɛ imɔũ ɖo nkɛwɛ̃ nnɛ ɖinuu kɛpĩ nɖipatri ɖii ko tinaanti nɛ i yɛmmɛ kɛpã itɔbɛ itye nɖɛ yĩnkɛ kɛ nyɛ̃ ɖɛɛ túmɛ\noniti ko mufommu yɛhɛkɛ yɛmɔũ ɖwɔmɛ; oniti ba we, a cɛ̃ nkɛ bo ɖil hɛi, a ɖo nkɛ ti nyɛ̃ kɛ ti kpenni.\nƉitanfɔ̃ tri 1\nOniti ti pɛi nɖɛ omɔũ yi kpaatri otɔu, kɛ yɛ̃ oniti ba we, o yi ɖo nnɛ fɛhɔ̃ f ɛ; o mɔkɛmu mɛcii kɛhã mɛyɛmmɛ. Ti tú nɛ ɖo kenyari ti tɔbɛ\nmbɛ kɛ yie mii ba nkwuɔ ko otɔu ɖau.\nƉitanfɔ̃ tri 2\nOniti ba we: oniti sɔua, o pɛia oniti sɔua, oniti pokua, a cɛnkɛ tú wee boti, a feu tɛkotɛ ɖibɔ nɖaa, a dɔu nkuyie mmaku botinkua nkua, a tũ\nŋwee peɖitik boti cɛ̃ n kaa, a kari kɛ yũmpuraa, a ɖo nfɛdawanfɛ nfɛa, a tú kuhɔuku nkua, ɖɛ yi ɖo ŋomɔũ bo ɖa ciitɛ a kpɛrɛ yĩnkɛ.\nKɛ wɛ̃ tikɛ, ba kaa hɛi túɖi kɛ dommɛ, omɔũ yi ɖo kɛ nɖa kɔɔnnɛ kɛ ŋmanti o bo ɖa byɛɛti a yiɛnni mɛɛ kpɛi noyɛɛ nyoo cyɛɛ.\nƉitanfɔ̃ tri 3",
-            "Image": "077099eb7fd429f9bdf34dba5a4b0c97"
+            "Image": "077099eb7fd429f9bdf34dba5a4b0c97",
+            "Index": 0,
+            "Label": "1",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Oniti ba we a kpenniti kutenku yanɖú\nYɛtanfɔtɛ yiɛ yiɛ mɛ\nTi ɖo kɛnyɛ kɛ tú ɖɛɛ te kɛ sɔkɛsɔkɛ yi bo kɛ kutenku naati tipiiti timɔũ, ɖɛ tú omɔũ yi ɖo nkɛ ɖi otɔu muwɛ̃ rimu ŋo kpɛrɛ yĩnkɛ,\nTi ɖo kɛnyɛ̃ kɛ tú isɔkɛ ɔ̃ɔ̃ nyo di pɛitɛ koo mɔũ wee wɛ̃ ntɛ kɛ nɖo bɛɛ itɛ koo wuu, kɛ yɛ̃ ti bo yĩmɛ kɛ nkari kɛ ɖɛ tinaati kɛ ti naa\ntiɖɔti, kɛ ba nɖe ti mɛ mba yo mɛsemmɛ, oniti ti ɖɛ ŋmanti, ɖɛɛ tú ketɛ,\nTi ɖo kɛnyɛ̃ kɛ tú oniti nɛ oniti ŋmɛ, ti tũ mbo nɖe mu titɔbɛ, ociĩri nɖe okperi ko okperi ɖe ociĩri, kɛ yɛ̃ ɖɛmɔsikaanɖɛ kɔ̃ nɖɛ cooti\nyĩnkɛ,\nTi ɖo kɛnyɛ̃ kɛ tú initi wuɔ nyimɔu ɖo kɛnkàri kɛ naati kɛyɛ̃ itɔbɛ kpɛi,\nTi ɖo kɛnyɛ̃ kɛ tú initi wuɔ kutenku yanɖú ɖenɛni ɖipatri kɛparku ɖi myɛ̃ɛ̃ k ɛ nɛ oniti ba we, kó ɖiyetri kɛ tú oniti pokua oniti dɔua, ɔmɔũ\nyi cãã nnɛ otɔu; kɛ ɖɛɛ te kɛ iwuɔ nyimɔũ ɖo nkɛwɛ̃ nnɛ kɛ mpĩ kɛbeu nɛ ɖɛ bo naatimɛ tipiiti timɔũ,\nTi ɖo kɛnyɛ̃ kɛ tú yɛhɛkɛ yɛ mɔũ yɛ kari kɛwɛ̃ nnɛ mu kutenku yanɖú ko ɖitĩnni kɔbɛ kɛtú ti ɖo kɛ nɖɛ mɛnkɛ weti ɖɛɛ cɛ̃ nkɛ tukunɛ\noniti kó mufommu nɛ o borimɛ,\nTi ɖo kɛnyɛ̃ kɛ tú ti bo wɛ̃ nnɛ mɛ dinnu maɖimaa ɖɛɛ tukunɛ oniti kó mufommu byɛɛkɛ ɖɛɛ bo nte kɛ ti baa yetɛ kucɛ,\nIwuɔ nyimɔũ kó ɖitinni ɖiɖyɛɛrɛ piɛɛku kɛ heu kɛtú\nOniti ba we, a kpenni ti kutenku yanda tu:\nIboti imɔũ nɛ itensaakɛ imɔũ ɖo nkɛwɛ̃ nnɛ ɖinuu kɛpĩ nɖipatri ɖii ko tinaanti nɛ i yɛmmɛ kɛpã itɔbɛ itye nɖɛ yĩnkɛ kɛ nyɛ̃ ɖɛɛ túmɛ\noniti ko mufommu yɛhɛkɛ yɛmɔũ ɖwɔmɛ; oniti ba we, a cɛ̃ nkɛ bo ɖil hɛi, a ɖo nkɛ ti nyɛ̃ kɛ ti kpenni.\nƉitanfɔ̃ tri 1\nOniti ti pɛi nɖɛ omɔũ yi kpaatri otɔu, kɛ yɛ̃ oniti ba we, o yi ɖo nnɛ fɛhɔ̃ f ɛ; o mɔkɛmu mɛcii kɛhã mɛyɛmmɛ. Ti tú nɛ ɖo kenyari ti tɔbɛ\nmbɛ kɛ yie mii ba nkwuɔ ko otɔu ɖau.\nƉitanfɔ̃ tri 2\nOniti ba we: oniti sɔua, o pɛia oniti sɔua, oniti pokua, a cɛnkɛ tú wee boti, a feu tɛkotɛ ɖibɔ nɖaa, a dɔu nkuyie mmaku botinkua nkua, a tũ\nŋwee peɖitik boti cɛ̃ n kaa, a kari kɛ yũmpuraa, a ɖo nfɛdawanfɛ nfɛa, a tú kuhɔuku nkua, ɖɛ yi ɖo ŋomɔũ bo ɖa ciitɛ a kpɛrɛ yĩnkɛ.\nKɛ wɛ̃ tikɛ, ba kaa hɛi túɖi kɛ dommɛ, omɔũ yi ɖo kɛ nɖa kɔɔnnɛ kɛ ŋmanti o bo ɖa byɛɛti a yiɛnni mɛɛ kpɛi noyɛɛ nyoo cyɛɛ.\nƉitanfɔ̃ tri 3"
         },
         "1": {
-            "Label": "2",
-            "Index": 1,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
             ],
-            "Text": "Oniti ba we, a niti tɔu yi ɖo nkɛ ɖaa kakii kɛ ŋmanti o bo ɖa tannɛmɛ kufɔ̃ titenniku.\nƉitanfɔ̃ tri 4\nOmɔũ yi ɖo nkɛɖɔɔ otɔu kuɖaaku kɛ ŋo senni; oniti mɛ nyi mɔkɛ muwɛ̃ rimu o bo fitɛmɛ otɔu koo naa nku ɖaaku.\nƉitanfɔ̃ tri 5\nOmɔũ yi ɖo mbɛ ŋo ɖuku sɔ̃ ntikɛ fɛpaãpyefɛ tɛ̃ m ɛ, ŋo mɛ nyi ɖo nkɛ nfɛuri kukpetinkú kɔ̃ mmɛ kɛ cĩrmɛ.\nƉitanfɔ̃ tri 6\nOniti, a cɛ̃ nkɛ bo kɛɛ byɛɛkɛ a ɖo kɛnyɛ̃ ɖɛɛ ci nɛ ɖɛɛ yi ci koomɔũ ba ɖa soutɛ.\nƉitanfɔ̃ tri 7\nƉikotinuu tú timɔũ kó kuɖɔpiku nku. Okoti, ɖɛbirɛ, onitiɖou onitipoku, okpaati, ociiri kuhɔuku, ba wuo, ɖikotinuu ɖii o kãnkɛ.\nƉitanfɔ̃ tri 8\nKoomɔũ sentɛ ɖikotinuu kɛ ɖaa wɛ̃ ntɛ, a baa yĩ hũti hũti; a bo o tɔ tibeenti nti kɛ ɖe kó tinaantii kɛ nkú.\nƉitanfɔ̃ tri 9\nBɛ baa na kɛ sɔ̃ ntɛ kɛpĩ ŋomɔu ko o kpetinɛ yoo ko o ɖennɛ ɖihɛi.\nƉitanfɔ̃ tri 10\nOniti ba we, kɛ be ɖaa yu tibeenti yoo bɛ ɖa pĩ nnɛ timati, ɖibeentĩnni kɔbɛ ɖo nkɛ ɖaa bekɛmu kɛ ya ɖɛɖommɛ kɛ nɛ na kɛ tikwuɔ.\nƉitanfɔ̃ tri 11\nKɛ bɛ tú omɔũ caarɛ kɛ mu nyi o bekɛnɛ kɛya kɛ mɔmmwɔɔ̃ ŋme yoo siyaabisi nsi o tu mmu yi yɛ̃ timati tibeenti ti bo tibatɛ.\nOniti kaa caarɛ ɖɛmarɛ kɛ sɔ nkɛ ɖikotinnu kó ɖipatri yi tú ɖɛ ci, a yi ɖo nkɛta ɖitou; kɛ ɖɛ mɛ mbaa sɔ̃ mbɛ ɖo nkeyetoo kɛywɔɔ̃ ŋa to\nɖɛyĩnkɛ bɛ ɖɔkɛ baa tɔntɛ.\nƉitanfɔ̃ tri 12\nOmɔũ yi ɖo nkɛta we yi te tiinaan ti myɛɛ̃ k ɛ, kɛyɛ̃ , ɖɛ ɔɔ̃ mɛ nyĩ kaa wɛ̃ ntɛ otɔu kɛ ɖɛ yaa naa nnɛ ɖikpanni. Ɖikotipatri mɛ nnaa mmu\nkɛkpa nɖɛyĩnkɛ kɛ ɖɛ you.\nƉitanfɔ̃ tri 13\nOniti ba we, a bo na kɛyitɛ kɛ ncenti a yɛmmɛ ɖɔmɛ kaa pɛɛnsiri ɖii hɛi a kàri.",
-            "Image": "20dcf02a007a1deb30327a5d29693379"
+            "Image": "20dcf02a007a1deb30327a5d29693379",
+            "Index": 1,
+            "Label": "2",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Oniti ba we, a niti tɔu yi ɖo nkɛ ɖaa kakii kɛ ŋmanti o bo ɖa tannɛmɛ kufɔ̃ titenniku.\nƉitanfɔ̃ tri 4\nOmɔũ yi ɖo nkɛɖɔɔ otɔu kuɖaaku kɛ ŋo senni; oniti mɛ nyi mɔkɛ muwɛ̃ rimu o bo fitɛmɛ otɔu koo naa nku ɖaaku.\nƉitanfɔ̃ tri 5\nOmɔũ yi ɖo mbɛ ŋo ɖuku sɔ̃ ntikɛ fɛpaãpyefɛ tɛ̃ m ɛ, ŋo mɛ nyi ɖo nkɛ nfɛuri kukpetinkú kɔ̃ mmɛ kɛ cĩrmɛ.\nƉitanfɔ̃ tri 6\nOniti, a cɛ̃ nkɛ bo kɛɛ byɛɛkɛ a ɖo kɛnyɛ̃ ɖɛɛ ci nɛ ɖɛɛ yi ci koomɔũ ba ɖa soutɛ.\nƉitanfɔ̃ tri 7\nƉikotinuu tú timɔũ kó kuɖɔpiku nku. Okoti, ɖɛbirɛ, onitiɖou onitipoku, okpaati, ociiri kuhɔuku, ba wuo, ɖikotinuu ɖii o kãnkɛ.\nƉitanfɔ̃ tri 8\nKoomɔũ sentɛ ɖikotinuu kɛ ɖaa wɛ̃ ntɛ, a baa yĩ hũti hũti; a bo o tɔ tibeenti nti kɛ ɖe kó tinaantii kɛ nkú.\nƉitanfɔ̃ tri 9\nBɛ baa na kɛ sɔ̃ ntɛ kɛpĩ ŋomɔu ko o kpetinɛ yoo ko o ɖennɛ ɖihɛi.\nƉitanfɔ̃ tri 10\nOniti ba we, kɛ be ɖaa yu tibeenti yoo bɛ ɖa pĩ nnɛ timati, ɖibeentĩnni kɔbɛ ɖo nkɛ ɖaa bekɛmu kɛ ya ɖɛɖommɛ kɛ nɛ na kɛ tikwuɔ.\nƉitanfɔ̃ tri 11\nKɛ bɛ tú omɔũ caarɛ kɛ mu nyi o bekɛnɛ kɛya kɛ mɔmmwɔɔ̃ ŋme yoo siyaabisi nsi o tu mmu yi yɛ̃ timati tibeenti ti bo tibatɛ.\nOniti kaa caarɛ ɖɛmarɛ kɛ sɔ nkɛ ɖikotinnu kó ɖipatri yi tú ɖɛ ci, a yi ɖo nkɛta ɖitou; kɛ ɖɛ mɛ mbaa sɔ̃ mbɛ ɖo nkeyetoo kɛywɔɔ̃ ŋa to\nɖɛyĩnkɛ bɛ ɖɔkɛ baa tɔntɛ.\nƉitanfɔ̃ tri 12\nOmɔũ yi ɖo nkɛta we yi te tiinaan ti myɛɛ̃ k ɛ, kɛyɛ̃ , ɖɛ ɔɔ̃ mɛ nyĩ kaa wɛ̃ ntɛ otɔu kɛ ɖɛ yaa naa nnɛ ɖikpanni. Ɖikotipatri mɛ nnaa mmu\nkɛkpa nɖɛyĩnkɛ kɛ ɖɛ you.\nƉitanfɔ̃ tri 13\nOniti ba we, a bo na kɛyitɛ kɛ ncenti a yɛmmɛ ɖɔmɛ kaa pɛɛnsiri ɖii hɛi a kàri."
         },
         "2": {
-            "Label": "3",
-            "Index": 2,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
             ],
-            "Text": "Kaa mɛ nyitɛ kɛkɔtɛ kɛɛ byɛɛkɛ, ba ɖiihɛi kɛce, nkɛɖɛɛ a bo na kɛkonnimu ŋa cyɛɛ, a ɖo ɖiimɔnni.\nƉitanfɔ̃ tri 14\nKɛ bɛ ɖaa ɖɔ mɛyɛi kɛ ɖaa harinɛ ba a yi mɔkɛ ɖifɔ̃ t ɔɔ̃ a bo na kɛyitɛ kɛkɔtɛ kɛsɔrɛ a mɛ nɖɔ diihɛi; ɖɛ kó ɖihɛi kɔbɛ mɛ nyi ɖo nkɛ\nɖaa bɛti.\nBɛ mɛ nɛ yi yɛ̃ kaa yekɛ kɛ bɛ ɖa kwuɔ nnɛ tipiiti timɔũ, bɛ nɖa wuo kaa ɖɔɔri a ɖɔmɛ.\nƉitanfɔ̃ tri 15\nFɔ̃ ŋɔniti, a ba nfou kɛ bo kɛ yi yɛ̃ a boti tuku.\nOmɔũ yi ɖo nkɛ yetɛnɛ sɔ̃ ntikɛ ŋotɔu o ko kuboti tuku; kɛ weemɛ nnɛ ɖɔ nɛ omaa o bo namu kɛ naannɛ kuboti tɛku.\nƉitanfɔ̃ tri 16\nOniti, kaa cɛ̃ nkɛ baa nkɛdee, a bo na kɛpwokɛ yoo a yenkɛ a mɛ nɖɔwe kɛ ɖi hãnnɛ tɛcyɛɛ̃ t ɛ. Oniti nɛ o poku, omɔũ yi ɖo kɛnsei otɔu\nfɛnɔnfɛ kɛ nkemmunɛ ɖi bo yatɛ ɖiiyie kɛ nsa kɛ ɖiborimɛ yi maa.\nOnitidɔu nɛ oniti poku kɛ bɛ ti nakɛ ti kwuɔ otɔu mɔu tɛnkɛ yi ɖo kɛ nkɔɔ kɛ firi bɛcwookɛ kɛfì kɛ ɖɛ fì.\nNe yaaro tɛcyɛɛ̃ t ɛ tɛɛ baa kóti kɛ tɛcyɛɛ̃ t ɛ yi bo kunaamunku yi bo kuboti mɛ nyi bo.\nƉitanfɔ̃ tri 17\nOniti ba we, a bo amma nɖaa, ɖi sũmaa, omɔu yi ɖo nkɛ nkɔɔnnɛ otɔu o kpɛrɛ yĩnkɛ.\nOmɔũ yi ɖo nkɛ sɔ̃ ntɛ kɛfeetɛ otɔu kpɛrɛ nɛ muwɛ̃ rmu.\nƉitanfɔ̃ tri 18\nOniti ba we, omɔũ yi ɖo nkɛ nɖa kɔɔnnɛ a yɛmmɛ mɛ ŋãti kpɛi; omɔũ ba nɖa kɔɔnnɛ a ɖɔummɛ kuu nyeinku yoo a feumɛ muu ntentaa\nyoo a yi ɖɔummɛ kuyie maku amɛ nyi feumɛ mutaã mamu kpei kaa ɖɔ ketikɛ, a bo youmu kuyienɖɔummu maku kó mɛborimɛ kɛ twotɛ\nmɛtɛmɛ; a bo amaa nɖaa, di sũmaa, ɖikɔ̃ mbɔɔti yi ɖo nkɛ nɖwo ɖi bo nɖɔummɛ ɖikó kuyie ɖiɖɔku yoo ɖi nɖaku mɛkwuɔ nɖi bɔkɛ\nkɛpaã nsikoo bɛcirbɛ, kɛ haa ɖokó yɛbaa nkɛ twonko itye nɖibi, ba oniti kaa bó kɛɛ byɛɛkɛ.\nƉitanfɔ̃ tri 19\nBa we, kaa yɛmmɛ hãti a bo na kɛ ti bɛimmu omɔu mɛ mba na kɛ ɖaa kɔkɛnɛ tiyĩnkɛ; ba we, a bo na kɛbekɛ a ɖɔti ŋa nintɛ kɛɛ byɛɛkɛ,\nkɛ ti two ŋa mɛ nɖɔwe nɛ a nintɛ tii naanti kó kuboti.\nƉitanfɔ̃ tri 20",
-            "Image": "80b7a6ab7fd1b0772549acdcf5711a06"
+            "Image": "80b7a6ab7fd1b0772549acdcf5711a06",
+            "Index": 2,
+            "Label": "3",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Kaa mɛ nyitɛ kɛkɔtɛ kɛɛ byɛɛkɛ, ba ɖiihɛi kɛce, nkɛɖɛɛ a bo na kɛkonnimu ŋa cyɛɛ, a ɖo ɖiimɔnni.\nƉitanfɔ̃ tri 14\nKɛ bɛ ɖaa ɖɔ mɛyɛi kɛ ɖaa harinɛ ba a yi mɔkɛ ɖifɔ̃ t ɔɔ̃ a bo na kɛyitɛ kɛkɔtɛ kɛsɔrɛ a mɛ nɖɔ diihɛi; ɖɛ kó ɖihɛi kɔbɛ mɛ nyi ɖo nkɛ\nɖaa bɛti.\nBɛ mɛ nɛ yi yɛ̃ kaa yekɛ kɛ bɛ ɖa kwuɔ nnɛ tipiiti timɔũ, bɛ nɖa wuo kaa ɖɔɔri a ɖɔmɛ.\nƉitanfɔ̃ tri 15\nFɔ̃ ŋɔniti, a ba nfou kɛ bo kɛ yi yɛ̃ a boti tuku.\nOmɔũ yi ɖo nkɛ yetɛnɛ sɔ̃ ntikɛ ŋotɔu o ko kuboti tuku; kɛ weemɛ nnɛ ɖɔ nɛ omaa o bo namu kɛ naannɛ kuboti tɛku.\nƉitanfɔ̃ tri 16\nOniti, kaa cɛ̃ nkɛ baa nkɛdee, a bo na kɛpwokɛ yoo a yenkɛ a mɛ nɖɔwe kɛ ɖi hãnnɛ tɛcyɛɛ̃ t ɛ. Oniti nɛ o poku, omɔũ yi ɖo kɛnsei otɔu\nfɛnɔnfɛ kɛ nkemmunɛ ɖi bo yatɛ ɖiiyie kɛ nsa kɛ ɖiborimɛ yi maa.\nOnitidɔu nɛ oniti poku kɛ bɛ ti nakɛ ti kwuɔ otɔu mɔu tɛnkɛ yi ɖo kɛ nkɔɔ kɛ firi bɛcwookɛ kɛfì kɛ ɖɛ fì.\nNe yaaro tɛcyɛɛ̃ t ɛ tɛɛ baa kóti kɛ tɛcyɛɛ̃ t ɛ yi bo kunaamunku yi bo kuboti mɛ nyi bo.\nƉitanfɔ̃ tri 17\nOniti ba we, a bo amma nɖaa, ɖi sũmaa, omɔu yi ɖo nkɛ nkɔɔnnɛ otɔu o kpɛrɛ yĩnkɛ.\nOmɔũ yi ɖo nkɛ sɔ̃ ntɛ kɛfeetɛ otɔu kpɛrɛ nɛ muwɛ̃ rmu.\nƉitanfɔ̃ tri 18\nOniti ba we, omɔũ yi ɖo nkɛ nɖa kɔɔnnɛ a yɛmmɛ mɛ ŋãti kpɛi; omɔũ ba nɖa kɔɔnnɛ a ɖɔummɛ kuu nyeinku yoo a feumɛ muu ntentaa\nyoo a yi ɖɔummɛ kuyie maku amɛ nyi feumɛ mutaã mamu kpei kaa ɖɔ ketikɛ, a bo youmu kuyienɖɔummu maku kó mɛborimɛ kɛ twotɛ\nmɛtɛmɛ; a bo amaa nɖaa, di sũmaa, ɖikɔ̃ mbɔɔti yi ɖo nkɛ nɖwo ɖi bo nɖɔummɛ ɖikó kuyie ɖiɖɔku yoo ɖi nɖaku mɛkwuɔ nɖi bɔkɛ\nkɛpaã nsikoo bɛcirbɛ, kɛ haa ɖokó yɛbaa nkɛ twonko itye nɖibi, ba oniti kaa bó kɛɛ byɛɛkɛ.\nƉitanfɔ̃ tri 19\nBa we, kaa yɛmmɛ hãti a bo na kɛ ti bɛimmu omɔu mɛ mba na kɛ ɖaa kɔkɛnɛ tiyĩnkɛ; ba we, a bo na kɛbekɛ a ɖɔti ŋa nintɛ kɛɛ byɛɛkɛ,\nkɛ ti two ŋa mɛ nɖɔwe nɛ a nintɛ tii naanti kó kuboti.\nƉitanfɔ̃ tri 20"
         },
         "3": {
-            "Label": "4",
-            "Index": 3,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
             ],
-            "Text": "Oniti ba we, a bo namu kɛwɛ̃ nnɛ kɛtiinnɛ a kɔbɛ a mɛ nɖɔbɛ kɛ ɖi nakɛ ɖi kpɛti; a bo namu kɛ mbo ɖitinni a mɛ nɖɔri myɛɛ̃ k ɛ, ɖinɖi\nyɛmmɛ cɛ̃ nkɛ ba ŋa tiyɛiti, ɖi cɛ̃ nkɛ ba nɖɔri mɛyɛi.\nOmɔù yi ɖo nkɛ tannɛ otɔu ɖitĩn ni mari myɛɛ̃ k ɛ nɛ muwɛ̃ rimu koo yɛmmɛ yi ɖidɔ.\nƉitanfɔ̃ tri 21\nOniti ba we, a ɖo nkɛ nɖakɛmu a hɛi kó mufommu byɛɛkɛ kó tinaanti ba kaa yi ha ɖitĩnni ɖii tɔ kutenku ɖimyɛɛ̃ k ɛ; a ɖo kɛ ntee n nɛmu\nbɛɛ pĩ nnɛ ɖimɔũ ɖĩ kó ɖiyetri.\nBa we, a bo namu, kɛ nsa kaa kɔbɛ cɛnkɛ ɖaa ɖɛitɛ, kɛmpĩ ŋa hɛi bo ncenti mɛɛ boti kɛ ɖɛ nsiɛ mutɔ̃ mmu yĩnkɛ.\nBɛkpaatibɛ ɖo kɛ nɖɔɔri sihɛikɛmbii ɖɔ mɛɛ borimɛ ɖihɛi myɛɛkɛ; yɛpatɛ yɛɛ tu nɖo nkɛ nii cwɔ̃ weti weti ba bɔkɛbɔkɛ ba mbo, kɛ na\nkɛceetɛ ɖitinni kotri kɛkannɛ ɖipanni. Ɖɛkó mupaticɔ̃ rimu mɔnni, omɔu yi ɖo kɛ nkɔɔnnɛ otɔu kɛ fiinko o yɛmmɛ, kɛyɛ̃ ɖihɛi kó\nmɛborimɛ yi tú omɔumaa kɔ̃ mmɛ, omɔũkoo ŋmɛɛ̃ t ɛ mɛ nyi tú otɔũ kou.\nƉitanfɔ̃ tri 22\nOniti ba we, fɔ̃ tɛhɛikɛmbitɛ a tɛ̃ nkɛ yi ɖo kɛwɛ̃ t ɛ kɛ nsenni ŋacyɛɛ; tiɖawanti yi kpa a nnɛ ɖo nkɛ yetoo kɛmɔɔtɛ a kpɛrɛ kɛpɛtɛ itye\nnyii bo nte kaa na kɛnyɛ ɖɛɛ ci nɛ ɖɛɛ yici; ɖɛmɔũ mɛmmɛ ɖɛɛ bo nte kaa naa ŋoniti kɛyɛ a fɛi yɛkɛkɛ tũ nɖo nkɛ ntee nyɛtɔbɛ\nɖɛɖɛbyɛɛkɛ. Oniti, kaa mɛ nyi cotɛ bɛ ɔɔ̃ yi nɖaa too titɔuti.\nƉitanfɔ̃ tri 23\nBa we, a ɖo nkɛ mmɔkɛ mutɔmmu ŋa pimmu, kɛ waa ŋa ɖɔmu kɛ mpĩ kɛ ɖɛ ɖaa naati; omɔu tu nyi do nkɛ nkpa mutɔ̃ mmu.\nBɛɛ pĩ mmutɔ̃ mmu mamumaa kɛ bɛkuutɛ ma, bɛ tɔ̃ nfeinti ɖo nkɛ mmamu.\nWee cɛ̃ nkɛ pĩmmu mamu, o ɖo nkɛ cu o kɔ̃ nyonku; kɛyɛ̃ ɖɛɛ bo ntemɛ koo na kɛ nfou nɛ o cyɛɛ̃ t ɛ kɔbɛ kɛ ba ŋaari.\nBa we, kaa ɖo a bo namu kɛwɛ̃ nnɛnɛ bɛtɔ̃ mpitibɛ tɔbɛ kɛ ɖi hãnnɛ yɛntɔ̃ ntirɛ kɛ ŋmɛ̃ ndinuu kɛfeetɛ ɖimaa.\nƉitanfɔ̃ tri 24\nOniti ba we, a ɖo nkɛ nii cutɛ mutɔ̃ mmu kɛhompɛ kɛkɔtɛ tikwɛiti; a yi ɖo nkɛ nii mpi mutɔ̃ mmu kukpetinku tɛhomputɛ bɛ mɛ mbaa keetɛ\na ɖiiti.\nƉitanfɔ̃ tri 25\nOniti ba we, a ɖo nkɛ nfou kɛ ɖɛ wenni kaa kɔ̃ ntii nnaati, fɔ̃ nɛ ŋa cyɛɛ̃ t ɛ kɔbɛ; a nɛ bo na kaa fommu ŋmenni kaa yimɔkɛ a yommaa a yi\nmɔkɛ tiyaati, a yi mɔkɛ a ɖɔuɖɛ, kaa mɛ mmɔ ŋa ba na kɛtaa ŋamaa. Wee mɔntɛ mutɔ̃ mmu, wee mɔ, kuhɔuku, okupoku yoo okuɖɔu,\nopokóti yoo oɖakóti, ticitɛ ɖekɛwe, wee cɛnbo mɛsemmɛ myɛɛkɛ bɛ yi ɖo nkó yoo ɖɛmyɛɛ̃ k ɛ koo nfɛ̃ uri.",
-            "Image": "fc0d9d8eb302934770bec151f78c174f"
+            "Image": "fc0d9d8eb302934770bec151f78c174f",
+            "Index": 3,
+            "Label": "4",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Oniti ba we, a bo namu kɛwɛ̃ nnɛ kɛtiinnɛ a kɔbɛ a mɛ nɖɔbɛ kɛ ɖi nakɛ ɖi kpɛti; a bo namu kɛ mbo ɖitinni a mɛ nɖɔri myɛɛ̃ k ɛ, ɖinɖi\nyɛmmɛ cɛ̃ nkɛ ba ŋa tiyɛiti, ɖi cɛ̃ nkɛ ba nɖɔri mɛyɛi.\nOmɔù yi ɖo nkɛ tannɛ otɔu ɖitĩn ni mari myɛɛ̃ k ɛ nɛ muwɛ̃ rimu koo yɛmmɛ yi ɖidɔ.\nƉitanfɔ̃ tri 21\nOniti ba we, a ɖo nkɛ nɖakɛmu a hɛi kó mufommu byɛɛkɛ kó tinaanti ba kaa yi ha ɖitĩnni ɖii tɔ kutenku ɖimyɛɛ̃ k ɛ; a ɖo kɛ ntee n nɛmu\nbɛɛ pĩ nnɛ ɖimɔũ ɖĩ kó ɖiyetri.\nBa we, a bo namu, kɛ nsa kaa kɔbɛ cɛnkɛ ɖaa ɖɛitɛ, kɛmpĩ ŋa hɛi bo ncenti mɛɛ boti kɛ ɖɛ nsiɛ mutɔ̃ mmu yĩnkɛ.\nBɛkpaatibɛ ɖo kɛ nɖɔɔri sihɛikɛmbii ɖɔ mɛɛ borimɛ ɖihɛi myɛɛkɛ; yɛpatɛ yɛɛ tu nɖo nkɛ nii cwɔ̃ weti weti ba bɔkɛbɔkɛ ba mbo, kɛ na\nkɛceetɛ ɖitinni kotri kɛkannɛ ɖipanni. Ɖɛkó mupaticɔ̃ rimu mɔnni, omɔu yi ɖo kɛ nkɔɔnnɛ otɔu kɛ fiinko o yɛmmɛ, kɛyɛ̃ ɖihɛi kó\nmɛborimɛ yi tú omɔumaa kɔ̃ mmɛ, omɔũkoo ŋmɛɛ̃ t ɛ mɛ nyi tú otɔũ kou.\nƉitanfɔ̃ tri 22\nOniti ba we, fɔ̃ tɛhɛikɛmbitɛ a tɛ̃ nkɛ yi ɖo kɛwɛ̃ t ɛ kɛ nsenni ŋacyɛɛ; tiɖawanti yi kpa a nnɛ ɖo nkɛ yetoo kɛmɔɔtɛ a kpɛrɛ kɛpɛtɛ itye\nnyii bo nte kaa na kɛnyɛ ɖɛɛ ci nɛ ɖɛɛ yici; ɖɛmɔũ mɛmmɛ ɖɛɛ bo nte kaa naa ŋoniti kɛyɛ a fɛi yɛkɛkɛ tũ nɖo nkɛ ntee nyɛtɔbɛ\nɖɛɖɛbyɛɛkɛ. Oniti, kaa mɛ nyi cotɛ bɛ ɔɔ̃ yi nɖaa too titɔuti.\nƉitanfɔ̃ tri 23\nBa we, a ɖo nkɛ mmɔkɛ mutɔmmu ŋa pimmu, kɛ waa ŋa ɖɔmu kɛ mpĩ kɛ ɖɛ ɖaa naati; omɔu tu nyi do nkɛ nkpa mutɔ̃ mmu.\nBɛɛ pĩ mmutɔ̃ mmu mamumaa kɛ bɛkuutɛ ma, bɛ tɔ̃ nfeinti ɖo nkɛ mmamu.\nWee cɛ̃ nkɛ pĩmmu mamu, o ɖo nkɛ cu o kɔ̃ nyonku; kɛyɛ̃ ɖɛɛ bo ntemɛ koo na kɛ nfou nɛ o cyɛɛ̃ t ɛ kɔbɛ kɛ ba ŋaari.\nBa we, kaa ɖo a bo namu kɛwɛ̃ nnɛnɛ bɛtɔ̃ mpitibɛ tɔbɛ kɛ ɖi hãnnɛ yɛntɔ̃ ntirɛ kɛ ŋmɛ̃ ndinuu kɛfeetɛ ɖimaa.\nƉitanfɔ̃ tri 24\nOniti ba we, a ɖo nkɛ nii cutɛ mutɔ̃ mmu kɛhompɛ kɛkɔtɛ tikwɛiti; a yi ɖo nkɛ nii mpi mutɔ̃ mmu kukpetinku tɛhomputɛ bɛ mɛ mbaa keetɛ\na ɖiiti.\nƉitanfɔ̃ tri 25\nOniti ba we, a ɖo nkɛ nfou kɛ ɖɛ wenni kaa kɔ̃ ntii nnaati, fɔ̃ nɛ ŋa cyɛɛ̃ t ɛ kɔbɛ; a nɛ bo na kaa fommu ŋmenni kaa yimɔkɛ a yommaa a yi\nmɔkɛ tiyaati, a yi mɔkɛ a ɖɔuɖɛ, kaa mɛ mmɔ ŋa ba na kɛtaa ŋamaa. Wee mɔntɛ mutɔ̃ mmu, wee mɔ, kuhɔuku, okupoku yoo okuɖɔu,\nopokóti yoo oɖakóti, ticitɛ ɖekɛwe, wee cɛnbo mɛsemmɛ myɛɛkɛ bɛ yi ɖo nkó yoo ɖɛmyɛɛ̃ k ɛ koo nfɛ̃ uri."
         },
         "4": {
-            "Label": "5",
-            "Index": 4,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
             ],
-            "Text": "Ti ɖo nkɛ ɖɔ kɛnyɛ tisaponyɔ̃ ti nɛ tibi kpɛi mɛsaaibi imɔu: opopɔ̃ p ɔ̃ ri kpɛia, ipocɔutɛbia, ipocɛ̃ mbia, ba i, i yi ɖo nkɛnsenni.\nƉitanfɔ̃ tri 26\nOniti ba we, a ɖo nkɛntye, kɛ na kɛpɛtɛ mɛcii. Omɔũ yi ɖo nkɛyieeti kɛ na kɛtannɛ o birɛ ɖakɔɔri sampɔu. Ibi imu ɖɛmarɛ yi ɖo nkɛ baa\nta ɖɛkó ɖakɔɔri. Ɖakɔɔribɛ bɛbɛbii bɛɛ myɛɛ̃ k ɛ mutɔ̃ mmu ɖo nkɛpitɛ tipiiti timɔũ nɖi; bɛɛ ko yɛpatɛ kpentɛ kpenkɛ kɛ ɖɔ mbɛɛ ta\nɖakɔɔri oɖyɛɛwe bɛmɔu bɛ bo na kɛtamu kɛ bɛ cɛ̃ nkɛ ɖɔ.\nƉakɔɔri ɖo nkɛtwo nɖɛbirɛ itye nkɛ ɖɛ bɛnkɛ ɖɛ bo ĩmɛ kɛnaa ŋoni ti kɛyɛ̃ oniti ba we, a ɖo nkɛ nkpenni ti mufommu myɛɛ̃ k ɛ. Ɖakɔɔri\nɖo nkɛɖɔɔ kɛ bɛnitibɛ kee bɛtɔbɛ túmu kɛ bonkunɛ bɛyɛmmɛ kɛkwuɔ mbɛtɔbɛ mɛsemmɛ, kɛ iboti imɔũ kutenku yanɖú nɖo itɔbɛ, kɛ\ninitiboti kutenku yanɖu kó ɖitinni ɖidyɛɛri dii mɛ ŋari kɛ ɖɔ kɛpau nyɛkparɛ kɛ ɖii na kɛ yɛpau nkɛ kutenku narkɛ tipiiti timɔũ.\nIbi yɛmbɛ bɛɛ ɖɔkɛ ɖo nkɛnyɛ̃ weti weti bɛbi ɖo nkɛpɛtɛ iitye nɛ i ɖo nkɛbɛbii muutɔ̃ mmú.\nƉitanfɔ̃ tri 27\nOniti ba we, bɛ ɔɔ ɖa bantɛnɛ a ko kuboti kó mɛborimɛ; a ɖo nkɛbaa: ntɛ ɖifɔnni, ntɛ ɖikũtri mɛ nɖommɛ. A ɖo mbɛɛ ɖaatwoɔ mɛcii kaa\nmunkɛɛ mɛtwo mbɛtɔbɛ kɛ kutenku nnaati kɛɖimɔũ ɖipɛtɛ mɛsaa.\nBɛ tú oniti centinɛ ŋo sɔu; obaribenti mɛ nyi yari ohauti. Oniti tú mpĩnnɛ mu o mu nyo nnɛ.\nƉitanfɔ̃ tri 28\nƉipatri ɖiɖyɛɛri ɖii ntú ba we, o ɖo nkɛyetoo mu kɛ bɔkɛbɔkɛ ba mbo kupiku maku; kɛ mɛmmɛ ɖɔkɛ ti ba na kɛpɛtɛ mɛsaa.\nƉitanfɔ̃ tri 29\nOniti ba we, kaa poo ŋaboti yoo ɖitinni a bo ɖii myɛɛ̃ k ɛ a nyɛ̃ kaa poo ŋamaa nɖi.\nOmɔũ yi ɖo nkɛɖɔɔ otɔu o yi ɖɔ kɛ bɛɛ wee ɖɔɔrɛ omɔmmwɔ̃ɔ , kɛyɛ̃ oniti nɛ oniti ŋme kɛ ti ɖo nkɛnvari kɛ wɛ̃ t ɛ kɛɖɛ titɔbɛ.\nFɔ̃ wee yi ɖɔ mɛkɔɔmmɛ a bo ntũ sɛiŋmɛ kutenku yanɖú kó ɖipatri ɖiɖyɛɛri mɛ nyɛ̃ nɖɛ nɖommɛ.\nƉitanfɔ̃ tri 30\nƉipatri ɖi myɛ̃ɛ kɛ, tinaanti mati yibo kɛ nɖonnɛ ɖihɛ i mari, ditĩnni mari yoo oniti ɖɔ o tisenkri, kɛnnau kɛwãa ŋwãa, kɛ faari faari kɛ hati\nbɔkɛbɔkɛ. Oniti ba we, a kpenni ti kutenku yanɖu.",
-            "Image": "f5cd48669ceab7bd776dbddf0bc83074"
+            "Image": "f5cd48669ceab7bd776dbddf0bc83074",
+            "Index": 4,
+            "Label": "5",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Ti ɖo nkɛ ɖɔ kɛnyɛ tisaponyɔ̃ ti nɛ tibi kpɛi mɛsaaibi imɔu: opopɔ̃ p ɔ̃ ri kpɛia, ipocɔutɛbia, ipocɛ̃ mbia, ba i, i yi ɖo nkɛnsenni.\nƉitanfɔ̃ tri 26\nOniti ba we, a ɖo nkɛntye, kɛ na kɛpɛtɛ mɛcii. Omɔũ yi ɖo nkɛyieeti kɛ na kɛtannɛ o birɛ ɖakɔɔri sampɔu. Ibi imu ɖɛmarɛ yi ɖo nkɛ baa\nta ɖɛkó ɖakɔɔri. Ɖakɔɔribɛ bɛbɛbii bɛɛ myɛɛ̃ k ɛ mutɔ̃ mmu ɖo nkɛpitɛ tipiiti timɔũ nɖi; bɛɛ ko yɛpatɛ kpentɛ kpenkɛ kɛ ɖɔ mbɛɛ ta\nɖakɔɔri oɖyɛɛwe bɛmɔu bɛ bo na kɛtamu kɛ bɛ cɛ̃ nkɛ ɖɔ.\nƉakɔɔri ɖo nkɛtwo nɖɛbirɛ itye nkɛ ɖɛ bɛnkɛ ɖɛ bo ĩmɛ kɛnaa ŋoni ti kɛyɛ̃ oniti ba we, a ɖo nkɛ nkpenni ti mufommu myɛɛ̃ k ɛ. Ɖakɔɔri\nɖo nkɛɖɔɔ kɛ bɛnitibɛ kee bɛtɔbɛ túmu kɛ bonkunɛ bɛyɛmmɛ kɛkwuɔ mbɛtɔbɛ mɛsemmɛ, kɛ iboti imɔũ kutenku yanɖú nɖo itɔbɛ, kɛ\ninitiboti kutenku yanɖu kó ɖitinni ɖidyɛɛri dii mɛ ŋari kɛ ɖɔ kɛpau nyɛkparɛ kɛ ɖii na kɛ yɛpau nkɛ kutenku narkɛ tipiiti timɔũ.\nIbi yɛmbɛ bɛɛ ɖɔkɛ ɖo nkɛnyɛ̃ weti weti bɛbi ɖo nkɛpɛtɛ iitye nɛ i ɖo nkɛbɛbii muutɔ̃ mmú.\nƉitanfɔ̃ tri 27\nOniti ba we, bɛ ɔɔ ɖa bantɛnɛ a ko kuboti kó mɛborimɛ; a ɖo nkɛbaa: ntɛ ɖifɔnni, ntɛ ɖikũtri mɛ nɖommɛ. A ɖo mbɛɛ ɖaatwoɔ mɛcii kaa\nmunkɛɛ mɛtwo mbɛtɔbɛ kɛ kutenku nnaati kɛɖimɔũ ɖipɛtɛ mɛsaa.\nBɛ tú oniti centinɛ ŋo sɔu; obaribenti mɛ nyi yari ohauti. Oniti tú mpĩnnɛ mu o mu nyo nnɛ.\nƉitanfɔ̃ tri 28\nƉipatri ɖiɖyɛɛri ɖii ntú ba we, o ɖo nkɛyetoo mu kɛ bɔkɛbɔkɛ ba mbo kupiku maku; kɛ mɛmmɛ ɖɔkɛ ti ba na kɛpɛtɛ mɛsaa.\nƉitanfɔ̃ tri 29\nOniti ba we, kaa poo ŋaboti yoo ɖitinni a bo ɖii myɛɛ̃ k ɛ a nyɛ̃ kaa poo ŋamaa nɖi.\nOmɔũ yi ɖo nkɛɖɔɔ otɔu o yi ɖɔ kɛ bɛɛ wee ɖɔɔrɛ omɔmmwɔ̃ɔ , kɛyɛ̃ oniti nɛ oniti ŋme kɛ ti ɖo nkɛnvari kɛ wɛ̃ t ɛ kɛɖɛ titɔbɛ.\nFɔ̃ wee yi ɖɔ mɛkɔɔmmɛ a bo ntũ sɛiŋmɛ kutenku yanɖú kó ɖipatri ɖiɖyɛɛri mɛ nyɛ̃ nɖɛ nɖommɛ.\nƉitanfɔ̃ tri 30\nƉipatri ɖi myɛ̃ɛ kɛ, tinaanti mati yibo kɛ nɖonnɛ ɖihɛ i mari, ditĩnni mari yoo oniti ɖɔ o tisenkri, kɛnnau kɛwãa ŋwãa, kɛ faari faari kɛ hati\nbɔkɛbɔkɛ. Oniti ba we, a kpenni ti kutenku yanɖu."
         }
     }
 }

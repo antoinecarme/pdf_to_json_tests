@@ -1,113 +1,113 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581470615,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "4547dec6a2a51ef8a4df5ea9575aeca1",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "HAADAMA RENMUM TAQUN DORONDEN DANTAQIYE DUNA NOXO (1948)\nJOPPAADI\nO ga na a faayi nan ti saran xabiilanun doronde do I taqu tinamto ya na du-kiteye, teleŋontaaxun do jamun\ngondoman ŋa duna noxo.\nO ga na a faayi nan ti soron taqun turvinbalaaxun do i roxomaxantaaxun yan ña sababu xonintan gollu\nñanŋen dunasu maxa. Ken ya ni haadama renmum su ga natene do kiyi kurunba be i ga digaamunu, i ga\nbatiini ti i sago, i xannun laabanto kannu do kori su da.\nO ga na a taayi nan ti haadama tenmun taqun nan siri tangeene ti tanka teleŋonte kuudo a nan maxa fiite\nkatta gollu burn ñanŋen do marandi moxo bure.\nO ga na a faayi nan ti mejanŋaaxun nan siri ñaana jamaanun naxa.\nO ga na a faayi nan ti Duna feddi xooren da sigira xerexerente kini haadama renmum taqu i sigindi kayitin\nnoxo, a doronden do seren xanuye, xawancaaxu yugun do yaxarun naxa.\nO ga na a faayi ti jamaanu ku ga kafim i ga da laayidun raga nan ti i wa sikki do haadama renmun taqun\nkoroosinden batte.\nO ga na a faayi nan ti a su nan siri me-mukku taqun do du kiteyen ga ni ke be.\nBatu xooren\nda haadama renmum taqum doronden dantaqiye duna noxon bagandi kuudo saran xabiibanun su, jamaanun\nsu na ña, ken dinman ŋa, sere su ma kafo na ke danteqiye toqo i kiilu kuudo ti xaranŋunden do arayinde\njamaanu na katta soron taqun tangana.\nTonte fana",
-            "Image": "4547dec6a2a51ef8a4df5ea9575aeca1"
+            "Text": "HAADAMA RENMUM TAQUN DORONDEN DANTAQIYE DUNA NOXO (1948)\nJOPPAADI\nO ga na a faayi nan ti saran xabiilanun doronde do I taqu tinamto ya na du-kiteye, teleŋontaaxun do jamun\ngondoman ŋa duna noxo.\nO ga na a faayi nan ti soron taqun turvinbalaaxun do i roxomaxantaaxun yan ña sababu xonintan gollu\nñanŋen dunasu maxa. Ken ya ni haadama renmum su ga natene do kiyi kurunba be i ga digaamunu, i ga\nbatiini ti i sago, i xannun laabanto kannu do kori su da.\nO ga na a taayi nan ti haadama tenmun taqun nan siri tangeene ti tanka teleŋonte kuudo a nan maxa fiite\nkatta gollu burn ñanŋen do marandi moxo bure.\nO ga na a faayi nan ti mejanŋaaxun nan siri ñaana jamaanun naxa.\nO ga na a faayi nan ti Duna feddi xooren da sigira xerexerente kini haadama renmum taqu i sigindi kayitin\nnoxo, a doronden do seren xanuye, xawancaaxu yugun do yaxarun naxa.\nO ga na a faayi ti jamaanu ku ga kafim i ga da laayidun raga nan ti i wa sikki do haadama renmun taqun\nkoroosinden batte.\nO ga na a faayi nan ti a su nan siri me-mukku taqun do du kiteyen ga ni ke be.\nBatu xooren\nda haadama renmum taqum doronden dantaqiye duna noxon bagandi kuudo saran xabiibanun su, jamaanun\nsu na ña, ken dinman ŋa, sere su ma kafo na ke danteqiye toqo i kiilu kuudo ti xaranŋunden do arayinde\njamaanu na katta soron taqun tangana.\nTonte fana"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "0afe63da12f7278bef4f3ec45e8d5217",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Haadama renme su saareyen ŋa an na du-kitten ña, an nta sere komaaxu, an do soron su yan yekka\ndorontaaxu do taqu. Haqilen, wa sere su, a do soro kuttu nan siri terene doome kappalengaaxu kanma.\nTonte 2\nHaadama renme su raawa i taqun su wuttu xo ke danaqiyi kayiti ga da a ko moxo be. Xabiila, fate, yugo ma\nyaxare, xanne, diina, politikin kaara, ma wariyu tana a ga giri a jamaane, a dingira, a kiteyu, a saareye ma\nsigira tana, ku su ra nta a kabana i taqun wuttu.\nPo ra nta bakka sere taqu na a saxu a ga giri jamaane be, dingira be ti ken jamaane ni maranden ya, ma a nta i\nyinme kitte.\nTonte 3\nBireye, du-kiteye do an yinme tangarjen wa kappa haadama renmen taqu.\nTonte 4\nSere su ra nta ñaana kome, komaaxun do komo gaaganden danbe su kabanton ya ni.\nTonte 5\nSere ra nta haadama renme su toorana, na a mamandi kuudo na a roxondi.\nTonte 6\nSere su, noqu su raawa i seraaxun bagandini xo killen ga da a riti moxo be.\nTonte 7\nKillen kaaran ŋa, a su nan yekka, killen na a su tangana moxo baane ke ya. Fo wo fo su do ke dantaqiye ga\nbogu me wure, soron su nan baana i ga i tangana. Katta ken ŋa moxo be.",
-            "Image": "0afe63da12f7278bef4f3ec45e8d5217"
+            "Text": "Haadama renme su saareyen ŋa an na du-kitten ña, an nta sere komaaxu, an do soron su yan yekka\ndorontaaxu do taqu. Haqilen, wa sere su, a do soro kuttu nan siri terene doome kappalengaaxu kanma.\nTonte 2\nHaadama renme su raawa i taqun su wuttu xo ke danaqiyi kayiti ga da a ko moxo be. Xabiila, fate, yugo ma\nyaxare, xanne, diina, politikin kaara, ma wariyu tana a ga giri a jamaane, a dingira, a kiteyu, a saareye ma\nsigira tana, ku su ra nta a kabana i taqun wuttu.\nPo ra nta bakka sere taqu na a saxu a ga giri jamaane be, dingira be ti ken jamaane ni maranden ya, ma a nta i\nyinme kitte.\nTonte 3\nBireye, du-kiteye do an yinme tangarjen wa kappa haadama renmen taqu.\nTonte 4\nSere su ra nta ñaana kome, komaaxun do komo gaaganden danbe su kabanton ya ni.\nTonte 5\nSere ra nta haadama renme su toorana, na a mamandi kuudo na a roxondi.\nTonte 6\nSere su, noqu su raawa i seraaxun bagandini xo killen ga da a riti moxo be.\nTonte 7\nKillen kaaran ŋa, a su nan yekka, killen na a su tangana moxo baane ke ya. Fo wo fo su do ke dantaqiye ga\nbogu me wure, soron su nan baana i ga i tangana. Katta ken ŋa moxo be."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "dcb67d010e7f600ce14d7d80042de496",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Tonte 8\nKillen ma sariyanun saaxaman ga da taqu beenu kini seren ŋa, i ga ñi a mulla i na fo bagu i ya, sere so raawa\ndeemande muurunu kiitiraanu.\nTonte 9\nra nta sere su ragana, na texi kaso ma na a bagandi jamaanen ŋa xafu kanma.\nTonte 10\nI ga na fo tiifi sere ya, a nan siri i xibaaren dantaqini kiitira be ga nta saafandini, soron su jon ŋa, kiitira ke na\na taqun do a waajibinun koyi ma a na ko a ga boxu noqu be.\nTonte 11\nGolli bure su ga tiifi haadama renme ya, in siri a ragana xo a ga ma fo dabari ma I ga na a kiiti bire be jaman\nŋa, fo ga ma bogu a taqun ŋa.\nToŋen ra nta xenne haadama renme su kanma selli gollu ku dabari dinma jamaane ma jaman falle sariyan ga\nma golli bure wari a yi. Fo ra nta kappa killen ga da toŋe be ko.\nTonte 12\nSere su ra nta roono, fo koono an funen bire moxo, a kore, a kan xibaare ma na a bataaxun xara selli a ga ma\nan ñamari, a ra nta a roxondini xadi. Sariyan nan siri sere su tangana katta kun baqe, ken xa wa kappa sere su\ntaqu.\nTonte 13\nSere su raawa terene moxo be gan liŋo a dan ŋa jamaanen noxon ŋa, a raawa i kan sigindini noqu be i ga a\nmulla.",
-            "Image": "dcb67d010e7f600ce14d7d80042de496"
+            "Text": "Tonte 8\nKillen ma sariyanun saaxaman ga da taqu beenu kini seren ŋa, i ga ñi a mulla i na fo bagu i ya, sere so raawa\ndeemande muurunu kiitiraanu.\nTonte 9\nra nta sere su ragana, na texi kaso ma na a bagandi jamaanen ŋa xafu kanma.\nTonte 10\nI ga na fo tiifi sere ya, a nan siri i xibaaren dantaqini kiitira be ga nta saafandini, soron su jon ŋa, kiitira ke na\na taqun do a waajibinun koyi ma a na ko a ga boxu noqu be.\nTonte 11\nGolli bure su ga tiifi haadama renme ya, in siri a ragana xo a ga ma fo dabari ma I ga na a kiiti bire be jaman\nŋa, fo ga ma bogu a taqun ŋa.\nToŋen ra nta xenne haadama renme su kanma selli gollu ku dabari dinma jamaane ma jaman falle sariyan ga\nma golli bure wari a yi. Fo ra nta kappa killen ga da toŋe be ko.\nTonte 12\nSere su ra nta roono, fo koono an funen bire moxo, a kore, a kan xibaare ma na a bataaxun xara selli a ga ma\nan ñamari, a ra nta a roxondini xadi. Sariyan nan siri sere su tangana katta kun baqe, ken xa wa kappa sere su\ntaqu.\nTonte 13\nSere su raawa terene moxo be gan liŋo a dan ŋa jamaanen noxon ŋa, a raawa i kan sigindini noqu be i ga a\nmulla."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "e8fc34ab3a85fecfd4f1d5f3f8510703",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Sere su raawa bakka jamaane, xari a yinme jamaane, a raawa yillene katta i jamaane.\nTonte 14\nI ga da sere su bitta, a raawa telle moole jamaane tana.\nKe taqe ra nta a kisini selli a ga da golli buren ya ña, selli a ga da golle dabari a do Duna Feddi xooren\nsariyan ga bogu me wure.\nTonte 15\nSere su nan siri kappa jamaane soron ŋa.\nI ra nta sere su bakka jamaanen soron ŋa a ga ma soxu fo wo fo su kanma, i ra nta kabana dubakka jamaane\nsoron ŋa katta jamaane tana.\nTonte 16\nYugo do yaxare ga na yexu baga, i raawa yexini me ya, na ka sigindi. I ga nta xabiila, jamaane ma diina\nbaane ra nta ken kabana. Yugo ke do yaxare ke yan baana taqu yexu ke noxon ŋa ma ga na bogu.\nYexun ñaana yugon do yaxaren ñaamariyen kanma.\nKan ya ni jamaaren soron gondoman ŋa fankan nan siri a tangana.\nTonte 17\nSere raawa naabure kitta, a ga ña kafon ŋa ma duran naabure.\nI ra nta sere naabure buusunu a yi xafu kanma.\nTonte 18",
-            "Image": "e8fc34ab3a85fecfd4f1d5f3f8510703"
+            "Text": "Sere su raawa bakka jamaane, xari a yinme jamaane, a raawa yillene katta i jamaane.\nTonte 14\nI ga da sere su bitta, a raawa telle moole jamaane tana.\nKe taqe ra nta a kisini selli a ga da golli buren ya ña, selli a ga da golle dabari a do Duna Feddi xooren\nsariyan ga bogu me wure.\nTonte 15\nSere su nan siri kappa jamaane soron ŋa.\nI ra nta sere su bakka jamaanen soron ŋa a ga ma soxu fo wo fo su kanma, i ra nta kabana dubakka jamaane\nsoron ŋa katta jamaane tana.\nTonte 16\nYugo do yaxare ga na yexu baga, i raawa yexini me ya, na ka sigindi. I ga nta xabiila, jamaane ma diina\nbaane ra nta ken kabana. Yugo ke do yaxare ke yan baana taqu yexu ke noxon ŋa ma ga na bogu.\nYexun ñaana yugon do yaxaren ñaamariyen kanma.\nKan ya ni jamaaren soron gondoman ŋa fankan nan siri a tangana.\nTonte 17\nSere raawa naabure kitta, a ga ña kafon ŋa ma duran naabure.\nI ra nta sere naabure buusunu a yi xafu kanma.\nTonte 18"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "1cfdeafad99a7983a5b6584f01a43bc4",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Sere su raawa sinmene moxo be gan liŋo an dan ŋa, na ro diina. Ken taqe yan sigi, a ga raawa gilli ke diina\nkatta baane tana. A raawa i diina bagandi sellan ŋa, a baane ma a do soro tanani, ma a kan noxo, a raawa a\nxaraŋundini, nan bati.\nTonte 19\nSere su raawa xibaare walla moxo be gan liŋo a dan ŋa, na kun wariyu bagandi sellan ŋa. Ken wure ni ya\nsere su raawa wariyu kitta, na a muuru, ma na a sanqi noqu su, moxo su, i ga nta an tanpindini.\nTonte 20\nSere su raawa soro kappa me man na fedde taaxundi.\nI ra nta sere su rondini fedde ya a ga nta a liŋun ŋa.\nTonte 21\nSere su yinme raawa kappa jamaanen xibaarun ga ku beenu maxa, ma a faari taaxa be a ga a suga.\nJamaanen saare renmun su nan baana taqu kuudo nan golli fankan da.\nJamaanen soron ga ke be mulla ya ni fankan gondoman ŋ. I ga ke be mulla, I nan siri a bangandini ti\nsugandindi laabante.\nTonte 22\nSere su ga kappa jamaanen soro, a nan siri daxa kitta. A gan siri foonu beenu kitta katta kuureye, kuudo fo\nnan maxa bono a saraaxun ŋa, ti jamaane ma jaman falle deemande kun kappa a taqun ya.\nTonte 23\nNa golle kita, na angollen suga, na a dabari xanne liŋe, na an tanga gollinbalaaxu kun su wa kappa sere su",
-            "Image": "1cfdeafad99a7983a5b6584f01a43bc4"
+            "Text": "Sere su raawa sinmene moxo be gan liŋo an dan ŋa, na ro diina. Ken taqe yan sigi, a ga raawa gilli ke diina\nkatta baane tana. A raawa i diina bagandi sellan ŋa, a baane ma a do soro tanani, ma a kan noxo, a raawa a\nxaraŋundini, nan bati.\nTonte 19\nSere su raawa xibaare walla moxo be gan liŋo a dan ŋa, na kun wariyu bagandi sellan ŋa. Ken wure ni ya\nsere su raawa wariyu kitta, na a muuru, ma na a sanqi noqu su, moxo su, i ga nta an tanpindini.\nTonte 20\nSere su raawa soro kappa me man na fedde taaxundi.\nI ra nta sere su rondini fedde ya a ga nta a liŋun ŋa.\nTonte 21\nSere su yinme raawa kappa jamaanen xibaarun ga ku beenu maxa, ma a faari taaxa be a ga a suga.\nJamaanen saare renmun su nan baana taqu kuudo nan golli fankan da.\nJamaanen soron ga ke be mulla ya ni fankan gondoman ŋ. I ga ke be mulla, I nan siri a bangandini ti\nsugandindi laabante.\nTonte 22\nSere su ga kappa jamaanen soro, a nan siri daxa kitta. A gan siri foonu beenu kitta katta kuureye, kuudo fo\nnan maxa bono a saraaxun ŋa, ti jamaane ma jaman falle deemande kun kappa a taqun ya.\nTonte 23\nNa golle kita, na angollen suga, na a dabari xanne liŋe, na an tanga gollinbalaaxu kun su wa kappa sere su"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "63c4aee752cd7bbc22abee9ef0f9b4ec",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "taqu.\nSoro ga na ñi golli baane dabarini, I nta fuŋoono me ya tugaadi.\nSere su ga golliñaŋaana, a nan siri tugaadi kitta ya a do i koren ga katta bireene ti a yi sutura noxo.\nSere su do soro tanani raawa kafiini na golliñan fedde sigindi, ma nan ro golliñan fedde kuudo na i taqun\ntanga.\nTonte 24\nNan tuuma, na an feten bogu me wa kappa seren taqu, na xenpa kita golliñan do tuuma waxitinu a ga nta\nkaara su toorono.\nTonte 25\nNa feere kita kuudo an do an kore na bire moxo sire kita, yonki saha, yigande, feetu fatande, hire noqu, jaare\nnoqu a do koroosindu beenu kan gan siri i kitta. Na a deema selli a ga nta gollini, kaagumen ga na-bono ma\nselli a ga ra ntaxa du birandi a sago ga fe.\nSaareye do lemiñaaxu nan siri koroosindi daritante kitta lemine su a ga saare kacce ma a ga ma saare kacce, i\nsun siri tangene moxo baane ya.\nTonte 26\nSere su nan siri xaranŋa, xaranŋunde ke jonko nta a yi xarankonpo lenmu ki. Haadama renme su nan fatanta\nxarankonpo lenmu ku. .I nan gollen tuwaaxun xaranŋen ntalan wuñini katta haadaman ŋa. Sere su tuwaaxun\nya na an rondini meyisi xooro ku.\nXaranŋunde ke nan siri seraaxun ya wundunu na haadama renmen taqun do i doronden tuwindi. A nan siri\nme-faamunde, yanpanden menjanŋaaxun ya roono jamaanun naxa do saran xabiilanu, diinan kafonu. A nan",
-            "Image": "63c4aee752cd7bbc22abee9ef0f9b4ec"
+            "Text": "taqu.\nSoro ga na ñi golli baane dabarini, I nta fuŋoono me ya tugaadi.\nSere su ga golliñaŋaana, a nan siri tugaadi kitta ya a do i koren ga katta bireene ti a yi sutura noxo.\nSere su do soro tanani raawa kafiini na golliñan fedde sigindi, ma nan ro golliñan fedde kuudo na i taqun\ntanga.\nTonte 24\nNan tuuma, na an feten bogu me wa kappa seren taqu, na xenpa kita golliñan do tuuma waxitinu a ga nta\nkaara su toorono.\nTonte 25\nNa feere kita kuudo an do an kore na bire moxo sire kita, yonki saha, yigande, feetu fatande, hire noqu, jaare\nnoqu a do koroosindu beenu kan gan siri i kitta. Na a deema selli a ga nta gollini, kaagumen ga na-bono ma\nselli a ga ra ntaxa du birandi a sago ga fe.\nSaareye do lemiñaaxu nan siri koroosindi daritante kitta lemine su a ga saare kacce ma a ga ma saare kacce, i\nsun siri tangene moxo baane ya.\nTonte 26\nSere su nan siri xaranŋa, xaranŋunde ke jonko nta a yi xarankonpo lenmu ki. Haadama renme su nan fatanta\nxarankonpo lenmu ku. .I nan gollen tuwaaxun xaranŋen ntalan wuñini katta haadaman ŋa. Sere su tuwaaxun\nya na an rondini meyisi xooro ku.\nXaranŋunde ke nan siri seraaxun ya wundunu na haadama renmen taqun do i doronden tuwindi. A nan siri\nme-faamunde, yanpanden menjanŋaaxun ya roono jamaanun naxa do saran xabiilanu, diinan kafonu. A nan"
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "ad60fab10460bd446a53ae462e9899b3",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "siri Duna feddi xooren gollu katta jamu kuurandini.\nSaaraanon fina yan sugandini lemunun dan ŋa xaranŋen kille.\nTonte 27\nSere su taawa kappa taaxen laadan xibaarun kuurande, nan taawe i bogu dinma su nan kafi i kuurandi\nmunnafa.\nSere su raawa i gollen munnafan tangana, a ga ña safande, laadan xibaare ma fo tana.\nTonte 28\nSere su wa wulla jamu nan ña i jaman noxo do jaman falee kuudo taqun do du-kiteyu beenu ga koŋi ke\ndantanqirji kayiti noxo nan sabati.\nTonte 29\nWaajibinun wa seren da katta jaman ŋa, ken noxon ŋa, a du-kiteyen do a seraaxun kuureyen baane yan katta\nñaana.\nSariyan da xenpa ña kuudo sere su nan maxa dangi i taqun do i du-kiteyu.\nKu taqu do ku du-kiteyu fa nta ñaana selli i do Dun Feddi xooren anniyun ga nta telle doome.\nTonte 30\nKe dantaqiyi kayiti tonto ku ra nta ñaana jamaane, kafo ma sere su dan ŋa kille kuudo na seron taqun do I\ndu-kiteyun bonondi.\nDuna feddi xooren duŋe na dantaqi i batu xoore. Taagumansen ga ni 217 (III), a ga wuti Desamburu 10,\n1948 siine",
-            "Image": "ad60fab10460bd446a53ae462e9899b3"
+            "Text": "siri Duna feddi xooren gollu katta jamu kuurandini.\nSaaraanon fina yan sugandini lemunun dan ŋa xaranŋen kille.\nTonte 27\nSere su taawa kappa taaxen laadan xibaarun kuurande, nan taawe i bogu dinma su nan kafi i kuurandi\nmunnafa.\nSere su raawa i gollen munnafan tangana, a ga ña safande, laadan xibaare ma fo tana.\nTonte 28\nSere su wa wulla jamu nan ña i jaman noxo do jaman falee kuudo taqun do du-kiteyu beenu ga koŋi ke\ndantanqirji kayiti noxo nan sabati.\nTonte 29\nWaajibinun wa seren da katta jaman ŋa, ken noxon ŋa, a du-kiteyen do a seraaxun kuureyen baane yan katta\nñaana.\nSariyan da xenpa ña kuudo sere su nan maxa dangi i taqun do i du-kiteyu.\nKu taqu do ku du-kiteyu fa nta ñaana selli i do Dun Feddi xooren anniyun ga nta telle doome.\nTonte 30\nKe dantaqiyi kayiti tonto ku ra nta ñaana jamaane, kafo ma sere su dan ŋa kille kuudo na seron taqun do I\ndu-kiteyun bonondi.\nDuna feddi xooren duŋe na dantaqi i batu xoore. Taagumansen ga ni 217 (III), a ga wuti Desamburu 10,\n1948 siine"
         }
     }
 }

@@ -1,80 +1,80 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581468088,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "a081b9d0dec84c86e4b5e16034e85e03",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "DURNYAŊ KIKƐ BE KEYILI KPRA TA LAŊƐ DIMEDI KIKƐ BE KUMU SO BE ASHYEŊ NƐ\nMOBE KASHINTEŊ AKPA\nASHEŊFƐSO\nKepin nɛ kemaŋkura, dimedi be eyilikpa nɛ mobe kumu so be asheŋ e la\nmobe kashinteŋ nɛ eyur-wushi be egbel-tulwase.\nKedɔ nɛ kekplaŋ dimedi be kashinteŋ ere so e naa bra barkɔnɛ, a duu\nmfɛra lubi dimedi be kumu to, n naŋ shi nɛ durnyaŋ to dimedi bu kebaa\nmalga yɛlyɛla, ebɔrɛshuŋ, kayeŋi-yeŋi nɛ kanyɛ kii asheŋ kpakpa so\nbebolpo kutɔ.\nKu daga fanɛ awura-sheŋ be mbra ka bee kuŋ dimedi be kashinteŋ n sa maa\nshi nɛ eko maa kini mo barkasa nko a nyaŋ mo.\nA daga keteŋi efuli-ana be kakurwe kelepo so.\nYunatɛd Neshin be baasa sa yɛrda kawol to ta a laŋɛ baasa be kashinteŋ-\nkpra nɛ bumode eyilikpa nɛ bu tiŋ teŋi bumobe kachena nɛ kebawɔtɔ lɛla\nbe akpa so.\nEfuli-ana nɛ a wɔ kɔnɔkoŋwole ere to bɔ ntaŋ fanɛ baŋ pɛ abar be nsher\nto n nya bunyaŋ nɛ kemaŋkur kashinteŋ ere to.\nEkama be kepin kashinteŋ nɛ kumu so be asheŋ ere e la demu kpra nɛ ku\nbeeŋ chɛ to n teŋi ntaŋ ere so. Naniere, kumo so.\nDurnyaŋ kikɛ be nshɛr gboŋ nna yili dimedi kikɛ be kumu so be asheŋ nɛ\nkashinteŋ ere.\nAmuso, Kamalga ere to\nBEE ŊINI FANƐ \"GENERAL ASSEMBLY\" BEE\nKaŋɛ ekama fanɛ kayili nɛ kuwɔ kawol ere to la amo nɛ a beeŋ wɔrɔ\nanfaani nsa ekama mo ne ewɔ efuli nna so. Ekama nta n-ya mata durinya\nkikɛ be mmalga yiliso so. Adaga efuli kikɛ eshuli n sa kamalga mo nɛ\nkuwɔ kawal ere to nta kumo nki kapatɛ nsa anye. Nsa nɛ kamalga ere eluri\nefuli kikɛ nɛnɛ: epeŋi petɛkpa, epeŋi-tɔrkpa, banaso, jisaso kusɔ nɛ\nadaga anye kikɛ ewurɔ nna ela.\nDemu 1\nBu kurwe dimedi kikɛ mobe kumu so, nɛ mobe, eyilikpa, kesheŋ nɛ\nkashinteŋ maŋ kɔr eko peyɛ to. Nyinpela sa dimedi kikɛ lakal nɛ mfɛra\nfanɛ bu chena abarso kelepo so.\nDemu 2\nEkama kɔ ekpa ta a laŋɛ kashinteŋ ere kikɛ nɛ kumu so be asheŋ nɛ a wɔ\nkeyili kpra ere to nɛ nkpiɛto kikɛ maŋ wɔtɔ ashi yiri, kawol be ndu li,\nkenyɛn/keche, ngbar, ebɔrɛ shuŋ, kumu be kekeni nko lakal ko, efuli so\nnko kebawɔtɔ be ekpa so, kapitɛ, kakurwe nko eyililkpa ko be kabaso.\nN naŋ tii so, nkpiɛto kikɛ e sa maŋ wɔtɔ ta a yɔ kumu be kekeni to,",
-            "Image": "a081b9d0dec84c86e4b5e16034e85e03"
+            "Text": "DURNYAŊ KIKƐ BE KEYILI KPRA TA LAŊƐ DIMEDI KIKƐ BE KUMU SO BE ASHYEŊ NƐ\nMOBE KASHINTEŊ AKPA\nASHEŊFƐSO\nKepin nɛ kemaŋkura, dimedi be eyilikpa nɛ mobe kumu so be asheŋ e la\nmobe kashinteŋ nɛ eyur-wushi be egbel-tulwase.\nKedɔ nɛ kekplaŋ dimedi be kashinteŋ ere so e naa bra barkɔnɛ, a duu\nmfɛra lubi dimedi be kumu to, n naŋ shi nɛ durnyaŋ to dimedi bu kebaa\nmalga yɛlyɛla, ebɔrɛshuŋ, kayeŋi-yeŋi nɛ kanyɛ kii asheŋ kpakpa so\nbebolpo kutɔ.\nKu daga fanɛ awura-sheŋ be mbra ka bee kuŋ dimedi be kashinteŋ n sa maa\nshi nɛ eko maa kini mo barkasa nko a nyaŋ mo.\nA daga keteŋi efuli-ana be kakurwe kelepo so.\nYunatɛd Neshin be baasa sa yɛrda kawol to ta a laŋɛ baasa be kashinteŋ-\nkpra nɛ bumode eyilikpa nɛ bu tiŋ teŋi bumobe kachena nɛ kebawɔtɔ lɛla\nbe akpa so.\nEfuli-ana nɛ a wɔ kɔnɔkoŋwole ere to bɔ ntaŋ fanɛ baŋ pɛ abar be nsher\nto n nya bunyaŋ nɛ kemaŋkur kashinteŋ ere to.\nEkama be kepin kashinteŋ nɛ kumu so be asheŋ ere e la demu kpra nɛ ku\nbeeŋ chɛ to n teŋi ntaŋ ere so. Naniere, kumo so.\nDurnyaŋ kikɛ be nshɛr gboŋ nna yili dimedi kikɛ be kumu so be asheŋ nɛ\nkashinteŋ ere.\nAmuso, Kamalga ere to\nBEE ŊINI FANƐ \"GENERAL ASSEMBLY\" BEE\nKaŋɛ ekama fanɛ kayili nɛ kuwɔ kawol ere to la amo nɛ a beeŋ wɔrɔ\nanfaani nsa ekama mo ne ewɔ efuli nna so. Ekama nta n-ya mata durinya\nkikɛ be mmalga yiliso so. Adaga efuli kikɛ eshuli n sa kamalga mo nɛ\nkuwɔ kawal ere to nta kumo nki kapatɛ nsa anye. Nsa nɛ kamalga ere eluri\nefuli kikɛ nɛnɛ: epeŋi petɛkpa, epeŋi-tɔrkpa, banaso, jisaso kusɔ nɛ\nadaga anye kikɛ ewurɔ nna ela.\nDemu 1\nBu kurwe dimedi kikɛ mobe kumu so, nɛ mobe, eyilikpa, kesheŋ nɛ\nkashinteŋ maŋ kɔr eko peyɛ to. Nyinpela sa dimedi kikɛ lakal nɛ mfɛra\nfanɛ bu chena abarso kelepo so.\nDemu 2\nEkama kɔ ekpa ta a laŋɛ kashinteŋ ere kikɛ nɛ kumu so be asheŋ nɛ a wɔ\nkeyili kpra ere to nɛ nkpiɛto kikɛ maŋ wɔtɔ ashi yiri, kawol be ndu li,\nkenyɛn/keche, ngbar, ebɔrɛ shuŋ, kumu be kekeni nko lakal ko, efuli so\nnko kebawɔtɔ be ekpa so, kapitɛ, kakurwe nko eyililkpa ko be kabaso.\nN naŋ tii so, nkpiɛto kikɛ e sa maŋ wɔtɔ ta a yɔ kumu be kekeni to,"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "063eec985d1100c9bae02f301b06298a",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "demu-ji to, nko efuli nɛ fo shi be eyilikpa durnyaŋ to nɛ loŋ be efuli\nnna suwe kumo kumu a keni kumo kumu so, nko efuli ko e naa keni kumu so\nekpa ko so.\nDemu 3\nEkama kɔ kashenteeŋ nɛ mobe efute nɛ mobe kumu be kekuŋ.\nDemu 4\nA maŋ daga nɛ eko e baa wɔ kenyanya nko kanyaŋ to. Kenyaya, kenya-tɔ nɛ\nkenya-fa be ekpa kama so daga ku ju.\nDemu 5\nA maŋ daga bu ka nyaŋ eko nko n wɔtɔ mo ebasa to, nko n gberge mo kusoe.\nDemu 6\nEkama kɔ kashinteŋ, kaplɛ-kama nɛ e wɔ nɛ bu pin fanɛ esa e la mo mbra\nbe ekpa so.\nDemu 7\nEkama na la kukoŋwule nna mbra be ekpa so, a daga nɛ mbra na e kuŋ ekama\nnɛ nkpiɛto maŋ wɔtɔ.\nDemu 8\nEkama kɔ kashinteŋ nɛ bu yolge mo ashi efuli na be demu-ji akpa nɛ e ya\ndɔ kashinteŋ kpra nɛ mbra yili mo nna so.\nDemu 9\nEkama maŋ daga nɛ bu pɛ mo jiga-jiga so, nko nɛ bu tii mo ebu nko n ju\nmo jiga-jiga so.\nDemu 10\nEkama kɔ ekpa nɛ edemu-ji kpa nɛ a wɔ amobe amu so, a maa kpiɛ to na nɛ\na mige mo to nɛnɛ nɛ jama kikɛ e nu ta a laŋɛ mobe kashinteŋ, asheŋ daga\nso nɛ kusoe gberge nɛ baŋ sa mo.\nDemu 11\nEkama nɛ bu fa fo, fo kɔ kashinteŋ nɛ fo keni kefa nna, amɔ bu ji na\nmbri fo mbra be ekpa so jimaa to nɛ fo maŋ tiŋ chɛ fo kɔnɔ.\nA maŋ daga nɛ bu fa ekama nkpal kesheŋ nɛ ku\nashi efuli na nko efuli-ana kikɛ be mbra so,\nna. A maŋ naŋ daga nɛ bu gberge esa kusoe nɛ\njunkpar n sa mo saŋɛ nɛ e wɔrɔ loŋ be kesheŋ\nmaŋ daga kusoe gberge so\nsaŋɛ nɛ e wɔrɔ la be kesheŋ\nku baa chɔ kumo nɛ bu\nnna.\nDemu 12\nA maŋ daga nɛ fo luri fo barkasa be asheŋ to jigajigaso, mo dawule, mobe\nkeyale nko mobe kebɔaya akpa, nko nɛ fo tige fo barkasa be jilma nɛ mobe",
-            "Image": "063eec985d1100c9bae02f301b06298a"
+            "Text": "demu-ji to, nko efuli nɛ fo shi be eyilikpa durnyaŋ to nɛ loŋ be efuli\nnna suwe kumo kumu a keni kumo kumu so, nko efuli ko e naa keni kumu so\nekpa ko so.\nDemu 3\nEkama kɔ kashenteeŋ nɛ mobe efute nɛ mobe kumu be kekuŋ.\nDemu 4\nA maŋ daga nɛ eko e baa wɔ kenyanya nko kanyaŋ to. Kenyaya, kenya-tɔ nɛ\nkenya-fa be ekpa kama so daga ku ju.\nDemu 5\nA maŋ daga bu ka nyaŋ eko nko n wɔtɔ mo ebasa to, nko n gberge mo kusoe.\nDemu 6\nEkama kɔ kashinteŋ, kaplɛ-kama nɛ e wɔ nɛ bu pin fanɛ esa e la mo mbra\nbe ekpa so.\nDemu 7\nEkama na la kukoŋwule nna mbra be ekpa so, a daga nɛ mbra na e kuŋ ekama\nnɛ nkpiɛto maŋ wɔtɔ.\nDemu 8\nEkama kɔ kashinteŋ nɛ bu yolge mo ashi efuli na be demu-ji akpa nɛ e ya\ndɔ kashinteŋ kpra nɛ mbra yili mo nna so.\nDemu 9\nEkama maŋ daga nɛ bu pɛ mo jiga-jiga so, nko nɛ bu tii mo ebu nko n ju\nmo jiga-jiga so.\nDemu 10\nEkama kɔ ekpa nɛ edemu-ji kpa nɛ a wɔ amobe amu so, a maa kpiɛ to na nɛ\na mige mo to nɛnɛ nɛ jama kikɛ e nu ta a laŋɛ mobe kashinteŋ, asheŋ daga\nso nɛ kusoe gberge nɛ baŋ sa mo.\nDemu 11\nEkama nɛ bu fa fo, fo kɔ kashinteŋ nɛ fo keni kefa nna, amɔ bu ji na\nmbri fo mbra be ekpa so jimaa to nɛ fo maŋ tiŋ chɛ fo kɔnɔ.\nA maŋ daga nɛ bu fa ekama nkpal kesheŋ nɛ ku\nashi efuli na nko efuli-ana kikɛ be mbra so,\nna. A maŋ naŋ daga nɛ bu gberge esa kusoe nɛ\njunkpar n sa mo saŋɛ nɛ e wɔrɔ loŋ be kesheŋ\nmaŋ daga kusoe gberge so\nsaŋɛ nɛ e wɔrɔ la be kesheŋ\nku baa chɔ kumo nɛ bu\nnna.\nDemu 12\nA maŋ daga nɛ fo luri fo barkasa be asheŋ to jigajigaso, mo dawule, mobe\nkeyale nko mobe kebɔaya akpa, nko nɛ fo tige fo barkasa be jilma nɛ mobe"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "54505bdff32ed842a7b12e111e9c41ee",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "eyilikpa so. Ekama kɔ kashinteŋ nɛ mbra na e kuŋ mo ashi baasa be kebaa\nluri mobe asheŋ to nɛ ketige nko nduwɛ mobe jilma so.\nDemu 13\nEkama kɔ kashinteŋ nɛ e baa nite mobe kumu so yɛlyɛla n naŋ tiŋ chena\nmobe efuli so.\nEkama kɔ kashinteŋ nɛ e ler efuli kikɛ so, nɛ mobe efuli so gba n naŋ\ntiŋ m bɛta m ba mobe efuli so.\nDemu 14\nEkama kɔ kashinteŋ nɛ e yɔ efuli ko so n ya mɔlwe mobe kumu.\nNɛ bu fa esa kumobe ekpa so nkpal ashuŋ lubi nɛ e maa liɛ efuli na be\nkumu be kekeni be ekpaso nko asheŋ nɛ a bee dɔɔ kɔnɔkoŋwule be mbra na\nso, le be kashinteŋ maŋ wɔtɔ.\nDemu 15\nEkama kɔ kashinteŋ nɛ e shi efuli ko so.\nA maŋ daga kekini eko mobe efuli so be keshi jiga-jiga nko n kini mobe\nkechɛrga efuli nɛ e shi na so.\nDemu 16\nBenyɛn nɛ beche ya bulɔ, bu kɔ kashinteŋ nɛ bu kil n taŋɛ kanaŋ nɛ shɛŋ\nmaa kuŋ bumo fanɛ yiri, efuli nɛ bu shi na so, nko kananɛ baa bunyaŋ\nebɔrɛ. Bu kɔ kashinteŋ koŋwule ashi kakil to nɛ kakil gbeŋi so to.\nPɔɛ nɛ baasa e kil abar, a daga nɛ bumo-wura-ana be kenyi kikɛ e baa wɔ\nkakil na to.\nKanaŋ la ebɔrɛ so be kesheŋ na n naa la baasa to be katuŋ junkpar po nɛ\na daga nɛ jamaa nɛ efuli kikɛ e baa kuŋ kumo.\nDemu 17\nEkama kɔ kashinteŋ nɛ e baa kɔ mobe kumu so be kapitɛ nko mo nɛ mo bra-\nana.\nA maŋ daga kepuni nko m mɔn eko mobe kapitɛ.\nDemu 18\nEkama kɔ mobe kumu so be mfɛra be kashinteŋ, lakal nɛ kananɛ e bee\nbunyaŋ ebɔrɛ. La be kashinteŋ tii mobe kechɛrga kananɛ e bee bunyaŋ\nebɔrɛ nko mobe yɛrda, nɛ mobe kumu so be keshuŋ ebɔrɛ-shuŋ mo nawule nko\nmo nɛ mo bra-ana.\nDemu 19\nEkama kɔ mobe mfɛra nɛ kamalga be kashinteŋ. La be kashinteŋ tii kumu so\nbe mfɛra be kefɛ nɛ shɛŋ maa kuŋ mo, e naa kɔ mobe kashinteŋ nɛ e fin, n\nnya nko n sa kebɔaya nɛ lakal ekpa kikɛ so nɛ mbarga kikɛ maŋ wɔtɔ.",
-            "Image": "54505bdff32ed842a7b12e111e9c41ee"
+            "Text": "eyilikpa so. Ekama kɔ kashinteŋ nɛ mbra na e kuŋ mo ashi baasa be kebaa\nluri mobe asheŋ to nɛ ketige nko nduwɛ mobe jilma so.\nDemu 13\nEkama kɔ kashinteŋ nɛ e baa nite mobe kumu so yɛlyɛla n naŋ tiŋ chena\nmobe efuli so.\nEkama kɔ kashinteŋ nɛ e ler efuli kikɛ so, nɛ mobe efuli so gba n naŋ\ntiŋ m bɛta m ba mobe efuli so.\nDemu 14\nEkama kɔ kashinteŋ nɛ e yɔ efuli ko so n ya mɔlwe mobe kumu.\nNɛ bu fa esa kumobe ekpa so nkpal ashuŋ lubi nɛ e maa liɛ efuli na be\nkumu be kekeni be ekpaso nko asheŋ nɛ a bee dɔɔ kɔnɔkoŋwule be mbra na\nso, le be kashinteŋ maŋ wɔtɔ.\nDemu 15\nEkama kɔ kashinteŋ nɛ e shi efuli ko so.\nA maŋ daga kekini eko mobe efuli so be keshi jiga-jiga nko n kini mobe\nkechɛrga efuli nɛ e shi na so.\nDemu 16\nBenyɛn nɛ beche ya bulɔ, bu kɔ kashinteŋ nɛ bu kil n taŋɛ kanaŋ nɛ shɛŋ\nmaa kuŋ bumo fanɛ yiri, efuli nɛ bu shi na so, nko kananɛ baa bunyaŋ\nebɔrɛ. Bu kɔ kashinteŋ koŋwule ashi kakil to nɛ kakil gbeŋi so to.\nPɔɛ nɛ baasa e kil abar, a daga nɛ bumo-wura-ana be kenyi kikɛ e baa wɔ\nkakil na to.\nKanaŋ la ebɔrɛ so be kesheŋ na n naa la baasa to be katuŋ junkpar po nɛ\na daga nɛ jamaa nɛ efuli kikɛ e baa kuŋ kumo.\nDemu 17\nEkama kɔ kashinteŋ nɛ e baa kɔ mobe kumu so be kapitɛ nko mo nɛ mo bra-\nana.\nA maŋ daga kepuni nko m mɔn eko mobe kapitɛ.\nDemu 18\nEkama kɔ mobe kumu so be mfɛra be kashinteŋ, lakal nɛ kananɛ e bee\nbunyaŋ ebɔrɛ. La be kashinteŋ tii mobe kechɛrga kananɛ e bee bunyaŋ\nebɔrɛ nko mobe yɛrda, nɛ mobe kumu so be keshuŋ ebɔrɛ-shuŋ mo nawule nko\nmo nɛ mo bra-ana.\nDemu 19\nEkama kɔ mobe mfɛra nɛ kamalga be kashinteŋ. La be kashinteŋ tii kumu so\nbe mfɛra be kefɛ nɛ shɛŋ maa kuŋ mo, e naa kɔ mobe kashinteŋ nɛ e fin, n\nnya nko n sa kebɔaya nɛ lakal ekpa kikɛ so nɛ mbarga kikɛ maŋ wɔtɔ."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "381a01eb95352fdc6f6f2cd25fe8654e",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Demu 20\nEkama kɔ mobe kashinteŋ nɛ e ba wɔ kagbenewushi be nshɛr to.\nBu maa nyaŋ eko a wɔtɔ nshɛr ko to.\nDemu 21\nEkama kɔ kashinteŋ nɛ e baa wɔ efuli so be awura-sheŋ to mo gbagba nko\nnɛ bu lara ba sa yɛlyɛla so nɛ bu yili bumo be ntilemu.\nEkama kɔ kashinteŋ nɛ eji mobe efuli so be kusɔnɛ ku la ekama peyɛ be\ntunɔ kananɛ eko gba beeŋ ji kumobe tunɔ nna.\nBaasa be aparsheŋ a daga a ka la awura-sheŋ be egbel tulwase la be\naparsheŋ daga nɛ a shi saŋɛ saŋɛ be kɔnkɔŋ be kelɛ kashinteŋ be ekpa so\nn naa la ekama be kesheŋ nɛ baa lɛ kɔnkɔŋ nna kegblanto nko kumo nɛ ku\nbɛ kɔnkɔŋ be kelɛ be mbra so.\nDemu 22\nFo kama nɛ\nfobe efuli\nkeblase to\nku daga fo\nfo wɔ baasa to, fo kɔ kashinteŋ nɛ baasa e kuŋ fo, a daga nɛ\nso nɛ efuli-ana kikɛ ka pɛ abar be kashɛr to, efuli-ana be\nnɛ amobe kapitɛ be albarka to nɛ fo nya eyilikpa nɛ naŋkur nɛ\ndimedi nɛ dankare be ekpa so.\nDemu 23\nEkama kɔ kashinteŋ nɛ e shuŋ kushuŋ, nɛ e fin mobe kumuso be kepar ke\nKushuŋ n naŋ shuŋ kushuŋ mbra be ekpa so n naŋ kuŋ mobe kumu ashi ketase\nfuloŋ to.\nEkama kɔ kashinteŋ nɛ bu ka mo kakɔka koŋwule nɛ kushuŋ koŋwule nɛ\nnkpiɛto kikɛ maŋ wɔtɔ.\nEkama kɔ kashinteŋ nɛ e ji mobe kushuŋ be tunɔ, mo nawule nko mo nɛ mobe\nkeyale nɛ e naa wɔ kebawɔtɔ nɛ ku daga dimedi, n naŋ fin kechɛto ko nɛ\nku daga ashi baasa kutɔ.\nEkama kɔ kashinteŋ nɛ e baa wɔ beshumpo be kɔnɔkoŋwule to nɛ bu baa kuŋ\nmobe aparsheŋ.\nDemu 24\nEkama kɔ kashinteŋ nɛ e wushi ashi mobe kushuŋ akpa nɛ mobe ketase fuloŋ\nto, kushuŋ na be jemanɛ e sa maŋ pɔɔ eshumpo na so nɛ e naŋ nu ebel ashi\nsaŋɛ saŋɛ be ewushi nɛ ku kɔ kakɔka.\nDemu 25\nEkama kɔ kashinteŋ nɛ e ba wɔ kebawɔtɔ lɛla to, mo nɛ mobe keyale, ta\nalaŋɛ eyur be alemfia, ajibi-ji so, asɔ-buuso, kowu chena so to nɛ kusɔ\nkama nɛ ku la jamaa peyɛ, e naa kɔ kashinteŋ nɛ e kuŋ mobe kumu saŋɛ nɛ\ne maŋ naa wɔ kushuŋ to, nɛ e ka wɔ kulɔ to, nɛ kekulwu to, nɛ kenimu to\nnko kebawɔtɔ ko nɛ ku maŋ duli mo.\nKenio to nɛ kebia to, kikɛ daga kekeni so nɛnɛ n naŋ daga kechɛ to. Mbia",
-            "Image": "381a01eb95352fdc6f6f2cd25fe8654e"
+            "Text": "Demu 20\nEkama kɔ mobe kashinteŋ nɛ e ba wɔ kagbenewushi be nshɛr to.\nBu maa nyaŋ eko a wɔtɔ nshɛr ko to.\nDemu 21\nEkama kɔ kashinteŋ nɛ e baa wɔ efuli so be awura-sheŋ to mo gbagba nko\nnɛ bu lara ba sa yɛlyɛla so nɛ bu yili bumo be ntilemu.\nEkama kɔ kashinteŋ nɛ eji mobe efuli so be kusɔnɛ ku la ekama peyɛ be\ntunɔ kananɛ eko gba beeŋ ji kumobe tunɔ nna.\nBaasa be aparsheŋ a daga a ka la awura-sheŋ be egbel tulwase la be\naparsheŋ daga nɛ a shi saŋɛ saŋɛ be kɔnkɔŋ be kelɛ kashinteŋ be ekpa so\nn naa la ekama be kesheŋ nɛ baa lɛ kɔnkɔŋ nna kegblanto nko kumo nɛ ku\nbɛ kɔnkɔŋ be kelɛ be mbra so.\nDemu 22\nFo kama nɛ\nfobe efuli\nkeblase to\nku daga fo\nfo wɔ baasa to, fo kɔ kashinteŋ nɛ baasa e kuŋ fo, a daga nɛ\nso nɛ efuli-ana kikɛ ka pɛ abar be kashɛr to, efuli-ana be\nnɛ amobe kapitɛ be albarka to nɛ fo nya eyilikpa nɛ naŋkur nɛ\ndimedi nɛ dankare be ekpa so.\nDemu 23\nEkama kɔ kashinteŋ nɛ e shuŋ kushuŋ, nɛ e fin mobe kumuso be kepar ke\nKushuŋ n naŋ shuŋ kushuŋ mbra be ekpa so n naŋ kuŋ mobe kumu ashi ketase\nfuloŋ to.\nEkama kɔ kashinteŋ nɛ bu ka mo kakɔka koŋwule nɛ kushuŋ koŋwule nɛ\nnkpiɛto kikɛ maŋ wɔtɔ.\nEkama kɔ kashinteŋ nɛ e ji mobe kushuŋ be tunɔ, mo nawule nko mo nɛ mobe\nkeyale nɛ e naa wɔ kebawɔtɔ nɛ ku daga dimedi, n naŋ fin kechɛto ko nɛ\nku daga ashi baasa kutɔ.\nEkama kɔ kashinteŋ nɛ e baa wɔ beshumpo be kɔnɔkoŋwule to nɛ bu baa kuŋ\nmobe aparsheŋ.\nDemu 24\nEkama kɔ kashinteŋ nɛ e wushi ashi mobe kushuŋ akpa nɛ mobe ketase fuloŋ\nto, kushuŋ na be jemanɛ e sa maŋ pɔɔ eshumpo na so nɛ e naŋ nu ebel ashi\nsaŋɛ saŋɛ be ewushi nɛ ku kɔ kakɔka.\nDemu 25\nEkama kɔ kashinteŋ nɛ e ba wɔ kebawɔtɔ lɛla to, mo nɛ mobe keyale, ta\nalaŋɛ eyur be alemfia, ajibi-ji so, asɔ-buuso, kowu chena so to nɛ kusɔ\nkama nɛ ku la jamaa peyɛ, e naa kɔ kashinteŋ nɛ e kuŋ mobe kumu saŋɛ nɛ\ne maŋ naa wɔ kushuŋ to, nɛ e ka wɔ kulɔ to, nɛ kekulwu to, nɛ kenimu to\nnko kebawɔtɔ ko nɛ ku maŋ duli mo.\nKenio to nɛ kebia to, kikɛ daga kekeni so nɛnɛ n naŋ daga kechɛ to. Mbia"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "5ec256d7afa82971bb5aa0fc3ef6684f",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "nɛ bu kurwe kakil to nko kejipo to daga kakuŋ koŋwule.\nDemu 26\nEkama kɔ kashinteŋ nɛ e nya kebala nɛ kabii. Kebala nɛ kebii daga nɛ\nbekekarso na e nya kumo yɛlyɛlya. Kebala nɛ kebii kekarso beeŋ ba la\nboshinɛ. A daga ekama ka nya enɔ to nɛ broni be ashuŋ be kebala nɛ\nkebii; benimu malɛ be kebala nɛ kebii malɛ daga nɛ ku bɛ kenyi so.\nKebala nɛ kebii beeŋ liɛ dimedi be eyur kudu-anyɔ kikɛ, n naŋ wɔtɔ eleŋ\nto, jilma ta a laŋɛ dimedi be kashinteŋ nɛ mobe kumu so be asheŋ kpra\nere. Ku beeŋ teŋi kenu-n-sa-abar so, kanyiti nɛ kenakpa efuli-anan to,\nyiri nko ebɔrɛ be beshumpo be ntuŋso-ana to, n naŋ teŋi. Durnyaŋ be\nefuliana be kɔnɔkoŋwule be kebawɔtɔ kikɛ nɛ kaŋbene wushi e baa wɔtɔ.\nBenawura-ana kɔ kashinteŋ nɛ ekpa nɛ bu lara kebala nɛ kebii be ekpa nɛ\nku daga bumobe mbia.\nDemu 27\nEkama kɔ kashinteŋ mobe kumu so nɛ e tiŋ wɔrɔ mobe baasa be adankaresheŋ\nn naŋ tiŋ ji adankare be asɔ lɔŋɛ so nɛ kabre be kachɛ be kinishi buwi\nbe kenyi be tunɔ.\nEkama kɔ kashinteŋ nɛ ekpa nɛ e kuŋ mobe kumu so nɛ kebeleŋ be kushuŋ.\nDemu 28\nA daga nɛ ekama e nya dimedi nɛ efuli-ana kikɛ be kebawɔtɔ, nɛ kashinteŋ\nnɛ kumu so be asheŋ nɛ a wɔ keyili kpra ere to e kurwe ebi lɛla.\nDemu 29\nEkama kɔ mobe kushuŋ baasa to, bumo to nɛ e bee kii esa lɛla.\nNɛ esa bee bo mobe kashinteŋ nɛ kumu so be asheŋ so a daga nɛ e baa de\nmbra so, saŋɛ na so e maaŋ tɔr mo barkasa ko be geshi to, loŋ e beeŋ\nwɔrɔ kusɔnɛ ku daga nɛ asheŋ e bɛ abar so nɛnɛ nɛ yɛ-nɛ-n-yɛ be kebawɔtɔ\ne nya edesekpa baasa to.\nKashinteŋ nɛ kumu so be asheŋ ere maŋ daga ku wɔrɔ amo m foe ekpa kananɛ\ndurnyaŋ be efuli-ana be kɔnɔkoŋwule yili kumo nna.\nDemu 30\nShɛŋ maŋ wɔ kawol ere to a ŋini fanɛ efuli ko pkeleŋ, baasa nko esa ko\ndawule peyɛ nna, amoso eko maŋ kɔ ekpa nɛ e wɔrɔ kesheŋ ko nɛ ku beeŋ\njija kashinteŋ nɛ kumu so be asheŋ nɛ a wɔ kawol ere to.",
-            "Image": "5ec256d7afa82971bb5aa0fc3ef6684f"
+            "Text": "nɛ bu kurwe kakil to nko kejipo to daga kakuŋ koŋwule.\nDemu 26\nEkama kɔ kashinteŋ nɛ e nya kebala nɛ kabii. Kebala nɛ kebii daga nɛ\nbekekarso na e nya kumo yɛlyɛlya. Kebala nɛ kebii kekarso beeŋ ba la\nboshinɛ. A daga ekama ka nya enɔ to nɛ broni be ashuŋ be kebala nɛ\nkebii; benimu malɛ be kebala nɛ kebii malɛ daga nɛ ku bɛ kenyi so.\nKebala nɛ kebii beeŋ liɛ dimedi be eyur kudu-anyɔ kikɛ, n naŋ wɔtɔ eleŋ\nto, jilma ta a laŋɛ dimedi be kashinteŋ nɛ mobe kumu so be asheŋ kpra\nere. Ku beeŋ teŋi kenu-n-sa-abar so, kanyiti nɛ kenakpa efuli-anan to,\nyiri nko ebɔrɛ be beshumpo be ntuŋso-ana to, n naŋ teŋi. Durnyaŋ be\nefuliana be kɔnɔkoŋwule be kebawɔtɔ kikɛ nɛ kaŋbene wushi e baa wɔtɔ.\nBenawura-ana kɔ kashinteŋ nɛ ekpa nɛ bu lara kebala nɛ kebii be ekpa nɛ\nku daga bumobe mbia.\nDemu 27\nEkama kɔ kashinteŋ mobe kumu so nɛ e tiŋ wɔrɔ mobe baasa be adankaresheŋ\nn naŋ tiŋ ji adankare be asɔ lɔŋɛ so nɛ kabre be kachɛ be kinishi buwi\nbe kenyi be tunɔ.\nEkama kɔ kashinteŋ nɛ ekpa nɛ e kuŋ mobe kumu so nɛ kebeleŋ be kushuŋ.\nDemu 28\nA daga nɛ ekama e nya dimedi nɛ efuli-ana kikɛ be kebawɔtɔ, nɛ kashinteŋ\nnɛ kumu so be asheŋ nɛ a wɔ keyili kpra ere to e kurwe ebi lɛla.\nDemu 29\nEkama kɔ mobe kushuŋ baasa to, bumo to nɛ e bee kii esa lɛla.\nNɛ esa bee bo mobe kashinteŋ nɛ kumu so be asheŋ so a daga nɛ e baa de\nmbra so, saŋɛ na so e maaŋ tɔr mo barkasa ko be geshi to, loŋ e beeŋ\nwɔrɔ kusɔnɛ ku daga nɛ asheŋ e bɛ abar so nɛnɛ nɛ yɛ-nɛ-n-yɛ be kebawɔtɔ\ne nya edesekpa baasa to.\nKashinteŋ nɛ kumu so be asheŋ ere maŋ daga ku wɔrɔ amo m foe ekpa kananɛ\ndurnyaŋ be efuli-ana be kɔnɔkoŋwule yili kumo nna.\nDemu 30\nShɛŋ maŋ wɔ kawol ere to a ŋini fanɛ efuli ko pkeleŋ, baasa nko esa ko\ndawule peyɛ nna, amoso eko maŋ kɔ ekpa nɛ e wɔrɔ kesheŋ ko nɛ ku beeŋ\njija kashinteŋ nɛ kumu so be asheŋ nɛ a wɔ kawol ere to."
         }
     }
 }

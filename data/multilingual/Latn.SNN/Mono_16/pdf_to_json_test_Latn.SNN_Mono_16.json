@@ -1,67 +1,67 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581470654,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "af58a5255d5cbf306d77a30bf2ed8e73",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "SIA'YËQUËMACA SIA'BAI GUËOJËÑACAYAYE GUI'NE JËÑA,\nDUÑEREBA SIA'HUE'ÑA CAHUESOSE'E MAI BAI QUËCOBAYE\nCaya jëña tari guë̱\nna ometëcahuë sia'hue'ña sehuojë gu̱\ni'ne cadë̱\nohuë\nsia'ye\nJa̱\n'a̱ huëoco\nCase'bi deo'ye, co̱\nñe gu̱\ni'ne jeoñe ba̱\nyë, ja̱\nje̱ sia'hue'ña ñase'erebare\nsa'nahuë\nJa̱\nje̱ baio̱\nuëreta'a goachayë ñama'ñebi gu̱\ni'ne oima'ñebi baiji sia'bai̱\nre,\njabi ai\nJa̱\nje̱ baise're yure cato ñasicoai'reba bai'yë gu̱\ni'ne o̱\nuëcobacoa'i baiye\nbaiji,\nJa̱\nje̱ bai'macata'a ñese deo'ye saiyë sihuajë gu̱\ni'ne bai'yë yequëhue'ña\nIye yequëhue'ña yijaña cato deo'yereba goachani gu̱\ninaoni cadëohuesëhuë.\nIye goachase'e cato sehuosicoa cadëoja'ñea'e cajë, oiyebi sia'ye\ngoachajë,\nIye cato goachase'a'ë sia'ye jëaye ba'ye, ja̱\nje̱ bai'na iye cato ai\ndeoyereba'ë ti\nTsi'sini jai bai̱ coca caco.\nJëaye cahuesoyë yure .\nSia'ye bai̱ jëaye bai'ye quëahuesosico.\nIcore cato si 'a daribëa gu̱\ni'ne jaihue'ña\nArtículo 1. Te'o aco quëaye.\nSia'bai̱ aideo'yë goa'ye beoye gu̱\ni'ne sia'yë'quë maca\nArtículo 2. Cayaye aco quëaye\nSia'bai̱ bayë tutu gu̱\ni'ne goa'ye beoye, yure ico ai jëaye cahuesosidoire,\nja̱\nje̱\nGu̱\ni'ne yequeje̱ bajacoa'ia'ë caye yequë bai̱ ihua'i goachayebi iyea'ë cajë\nArtículo 3. Cayaye te'o aco quëaye.\nTeo'huaije̱ bayë deo'ye bai'ye, goa'ye beoye\nArtículo 4. Ëjatubë beoye aco quëaye.\nSia'hua'i bai'ye beoji goa'ye jëaye ba'ye\nArtículo 5. Te'jëtë aco quëaye.",
-            "Image": "af58a5255d5cbf306d77a30bf2ed8e73"
+            "Text": "SIA'YËQUËMACA SIA'BAI GUËOJËÑACAYAYE GUI'NE JËÑA,\nDUÑEREBA SIA'HUE'ÑA CAHUESOSE'E MAI BAI QUËCOBAYE\nCaya jëña tari guë̱\nna ometëcahuë sia'hue'ña sehuojë gu̱\ni'ne cadë̱\nohuë\nsia'ye\nJa̱\n'a̱ huëoco\nCase'bi deo'ye, co̱\nñe gu̱\ni'ne jeoñe ba̱\nyë, ja̱\nje̱ sia'hue'ña ñase'erebare\nsa'nahuë\nJa̱\nje̱ baio̱\nuëreta'a goachayë ñama'ñebi gu̱\ni'ne oima'ñebi baiji sia'bai̱\nre,\njabi ai\nJa̱\nje̱ baise're yure cato ñasicoai'reba bai'yë gu̱\ni'ne o̱\nuëcobacoa'i baiye\nbaiji,\nJa̱\nje̱ bai'macata'a ñese deo'ye saiyë sihuajë gu̱\ni'ne bai'yë yequëhue'ña\nIye yequëhue'ña yijaña cato deo'yereba goachani gu̱\ninaoni cadëohuesëhuë.\nIye goachase'e cato sehuosicoa cadëoja'ñea'e cajë, oiyebi sia'ye\ngoachajë,\nIye cato goachase'a'ë sia'ye jëaye ba'ye, ja̱\nje̱ bai'na iye cato ai\ndeoyereba'ë ti\nTsi'sini jai bai̱ coca caco.\nJëaye cahuesoyë yure .\nSia'ye bai̱ jëaye bai'ye quëahuesosico.\nIcore cato si 'a daribëa gu̱\ni'ne jaihue'ña\nArtículo 1. Te'o aco quëaye.\nSia'bai̱ aideo'yë goa'ye beoye gu̱\ni'ne sia'yë'quë maca\nArtículo 2. Cayaye aco quëaye\nSia'bai̱ bayë tutu gu̱\ni'ne goa'ye beoye, yure ico ai jëaye cahuesosidoire,\nja̱\nje̱\nGu̱\ni'ne yequeje̱ bajacoa'ia'ë caye yequë bai̱ ihua'i goachayebi iyea'ë cajë\nArtículo 3. Cayaye te'o aco quëaye.\nTeo'huaije̱ bayë deo'ye bai'ye, goa'ye beoye\nArtículo 4. Ëjatubë beoye aco quëaye.\nSia'hua'i bai'ye beoji goa'ye jëaye ba'ye\nArtículo 5. Te'jëtë aco quëaye."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "a772af6dd8b6a285919a1aa49165bc8c",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Jare sia'ba̱\ni̱ goa'ye yo'go̱\naño̱\nñe beoji, të'caye,\nArtículo 6. Te'e jëtë Ëjatubë aco quëaye.\nSia'bai̱ bayë tutu, sia'hue'ña gu̱\ni'ne\nArtículo 7. Ëjatube quënobe quäye.\nSia'bai̱ bai'yë sia'yë'quëmaca gu̱\ni'ne bayë\nArtículo 8. Cayaye te'ejëtë aco quëaye.\nSia'bai̱ tutu bayë deo'ye bai'yere goa'chajë\nArtículo 9. Te'e jëña Ëjatubë beoye aco quëaye.\nJa̱\nre beoji mai̱ tsea̱ goañoñe do'i\nArtículo 10. Caya jëña aco quëaye.\nSia'bai̱ bayë deo'ye bai'ye, sia'yëquëmaca\nArtículo 11. Cayajëña te'o aco quëaye\nSia'bai̱ goa'ye yo'o sicoa'i bayë tutu, i̱\nhua'i goa'ye yo'se'e ñarebajë ti\nñatia'ñe\nSia'bai̱ beoji goa'ye baiye ba̱\nnije̱ siogo̱\na̱\nño̱\nñe̱ jayuta'a ñatia'ma'ñe, iye\ncato\nArtículo 12. Caya jëña cayaye aco quëaye.\nMai̱ teo'hua'i bai'ye cato beoji caye\nArtículo 13. Caya jëña cayaye te'o aco quëaye.\nSia'bai̱ bayë deo'ye daoye sia'hue'ña gu̱\nine ba'ye yija bëayeje bai'ji.\nSia'bai̱ bayë deo'ye daoye goasia'daribëa, i̱\nbaidaribë, ja̱\nje̱ sani\ndaosiquëta'a\nArtículo 14. Caya jëña Ëjatubë beoco aco quëaye.\nCoe'coa'i bai'to, sia'bai bayë catiye goasia'yijaña, jamaca sihuajë\nbai'ye baiji\nIye ba'ye cato beoji sa'ñe goa'ye neñe goa'ye ba'yena banije sa'ñe\ncayeje̱\nArtículo 15. Caya jëña yequë jëtë aco quëaye.\nSia'bai̱\nje̱ tutu bayë bai̱ baiyereba'ë cajë.\nJare beoji ë̱\nseye i̱ bai'hue'ña yija aquëre, yequeje̱ beoji, caye yëquë\nba'iñeje\nArtículo 16. Caya jëña yequë jëtë aco quëaye.",
-            "Image": "a772af6dd8b6a285919a1aa49165bc8c"
+            "Text": "Jare sia'ba̱\ni̱ goa'ye yo'go̱\naño̱\nñe beoji, të'caye,\nArtículo 6. Te'e jëtë Ëjatubë aco quëaye.\nSia'bai̱ bayë tutu, sia'hue'ña gu̱\ni'ne\nArtículo 7. Ëjatube quënobe quäye.\nSia'bai̱ bai'yë sia'yë'quëmaca gu̱\ni'ne bayë\nArtículo 8. Cayaye te'ejëtë aco quëaye.\nSia'bai̱ tutu bayë deo'ye bai'yere goa'chajë\nArtículo 9. Te'e jëña Ëjatubë beoye aco quëaye.\nJa̱\nre beoji mai̱ tsea̱ goañoñe do'i\nArtículo 10. Caya jëña aco quëaye.\nSia'bai̱ bayë deo'ye bai'ye, sia'yëquëmaca\nArtículo 11. Cayajëña te'o aco quëaye\nSia'bai̱ goa'ye yo'o sicoa'i bayë tutu, i̱\nhua'i goa'ye yo'se'e ñarebajë ti\nñatia'ñe\nSia'bai̱ beoji goa'ye baiye ba̱\nnije̱ siogo̱\na̱\nño̱\nñe̱ jayuta'a ñatia'ma'ñe, iye\ncato\nArtículo 12. Caya jëña cayaye aco quëaye.\nMai̱ teo'hua'i bai'ye cato beoji caye\nArtículo 13. Caya jëña cayaye te'o aco quëaye.\nSia'bai̱ bayë deo'ye daoye sia'hue'ña gu̱\nine ba'ye yija bëayeje bai'ji.\nSia'bai̱ bayë deo'ye daoye goasia'daribëa, i̱\nbaidaribë, ja̱\nje̱ sani\ndaosiquëta'a\nArtículo 14. Caya jëña Ëjatubë beoco aco quëaye.\nCoe'coa'i bai'to, sia'bai bayë catiye goasia'yijaña, jamaca sihuajë\nbai'ye baiji\nIye ba'ye cato beoji sa'ñe goa'ye neñe goa'ye ba'yena banije sa'ñe\ncayeje̱\nArtículo 15. Caya jëña yequë jëtë aco quëaye.\nSia'bai̱\nje̱ tutu bayë bai̱ baiyereba'ë cajë.\nJare beoji ë̱\nseye i̱ bai'hue'ña yija aquëre, yequeje̱ beoji, caye yëquë\nba'iñeje\nArtículo 16. Caya jëña yequë jëtë aco quëaye."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "b2020516034b0abf4633af6de0e9486c",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Ëmëhua'ti gu̱\ni'ne do̱\nmihua'ti, jayuta'a ëañahuëoma'dëbi tsoe bayë tutu,\ncaye\ntei'hua'i deo'ye goachajë baiyebi tia'ñe baiji, gu̱\ni'ne jaje baiquëreta'a\në̱\një̱\nBai̱\n'tsëcabë cato deo'ye baiyereba'ë, ja̱\nje̱ bai'na ñacairebayë sia'hue'ña\nëja\nArtículo 17. Caya jëña yequë jëtëcayaye aco quëaye.\nSia'bai̱ bayë tutu bayë baiye yija, tei'hua'i gu̱\ni'ne deo'tsëcabe bai'ye.\nJare beoji yë'ë tse̱\ncoa yija cajë ë̱\nseye.\nArtículo 18. Caya jëña yequë jëtëcayaye te'o caco.\nSia'bai̱ bayë i̱\nhuai'se'e goachaye, i̱\nhuai bai'ye, iye cato bai'ji sia'ye\nnedehuaye\nArtículo 19. Caya jëña yequë je'tubë beoco aco quëaye.\nTeo'huaije deoye biyë\nArtículo 20. Jëña-je'tu.\nSia'hua'i teo'huai'se'e tsi'sini coca caye bayë goasia'hue'ña.\nJare beoji go̱\nañeñe yéquë tsëcabëna tsioni baiye.\nArtículo 21. Jëña-guëo te'o aco quëaye.\nSia'bai̱ bayë tsiojaiye ëjabai̱ quë'ro, i̱ quë'rorebana te'rebabi ba̱\nnije̱\nyequë\nSia'bai̱ tutubayë siayëquëmaca bai'ye goa'me nedojaye mai̱ bai'yijaña\nquë'ro .\nTidaribëa̱ bai'coa'i cato bayë sia'hue'ña acoa'i cayere, iye cato co̱\ncaiji\nmai̱\nArticulo 22. Jëña-guëo cayaye aco quëaye.\nSia'bai̱ te'e tsëcabëje̱ bai'hua'i bayë cadëohuesose're goasia'ye gu̱\ni'ne\nja̱\nje̱\nArtículo 23. Jëña-guëo cayaye te'o aco quëaye.\nSia'bai̱ bayë goa'me nedojaiye goasia'hue'ña, i̱ huai'yëyebi tia'ñe bai'ji\nSia'bai̱ bayë quëcojë bai'ye, ja̱\nje̱ bai'na goa'meneñe tia'ñe baiji.\nSia'bai̱ goa'me neñe tutu bayë gu̱\ni'ne jaje bai'doi're curi neñe̱\nbai'ji,\nSia'bai̱ bayë tutu i̱ hua'i yëyere goachajë tsi'sini neñe.\nArtículo 24. Jëña-guëo Ëjatubë beoye caco.",
-            "Image": "b2020516034b0abf4633af6de0e9486c"
+            "Text": "Ëmëhua'ti gu̱\ni'ne do̱\nmihua'ti, jayuta'a ëañahuëoma'dëbi tsoe bayë tutu,\ncaye\ntei'hua'i deo'ye goachajë baiyebi tia'ñe baiji, gu̱\ni'ne jaje baiquëreta'a\në̱\një̱\nBai̱\n'tsëcabë cato deo'ye baiyereba'ë, ja̱\nje̱ bai'na ñacairebayë sia'hue'ña\nëja\nArtículo 17. Caya jëña yequë jëtëcayaye aco quëaye.\nSia'bai̱ bayë tutu bayë baiye yija, tei'hua'i gu̱\ni'ne deo'tsëcabe bai'ye.\nJare beoji yë'ë tse̱\ncoa yija cajë ë̱\nseye.\nArtículo 18. Caya jëña yequë jëtëcayaye te'o caco.\nSia'bai̱ bayë i̱\nhuai'se'e goachaye, i̱\nhuai bai'ye, iye cato bai'ji sia'ye\nnedehuaye\nArtículo 19. Caya jëña yequë je'tubë beoco aco quëaye.\nTeo'huaije deoye biyë\nArtículo 20. Jëña-je'tu.\nSia'hua'i teo'huai'se'e tsi'sini coca caye bayë goasia'hue'ña.\nJare beoji go̱\nañeñe yéquë tsëcabëna tsioni baiye.\nArtículo 21. Jëña-guëo te'o aco quëaye.\nSia'bai̱ bayë tsiojaiye ëjabai̱ quë'ro, i̱ quë'rorebana te'rebabi ba̱\nnije̱\nyequë\nSia'bai̱ tutubayë siayëquëmaca bai'ye goa'me nedojaye mai̱ bai'yijaña\nquë'ro .\nTidaribëa̱ bai'coa'i cato bayë sia'hue'ña acoa'i cayere, iye cato co̱\ncaiji\nmai̱\nArticulo 22. Jëña-guëo cayaye aco quëaye.\nSia'bai̱ te'e tsëcabëje̱ bai'hua'i bayë cadëohuesose're goasia'ye gu̱\ni'ne\nja̱\nje̱\nArtículo 23. Jëña-guëo cayaye te'o aco quëaye.\nSia'bai̱ bayë goa'me nedojaiye goasia'hue'ña, i̱ huai'yëyebi tia'ñe bai'ji\nSia'bai̱ bayë quëcojë bai'ye, ja̱\nje̱ bai'na goa'meneñe tia'ñe baiji.\nSia'bai̱ goa'me neñe tutu bayë gu̱\ni'ne jaje bai'doi're curi neñe̱\nbai'ji,\nSia'bai̱ bayë tutu i̱ hua'i yëyere goachajë tsi'sini neñe.\nArtículo 24. Jëña-guëo Ëjatubë beoye caco."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "daadec6ee1172b928bf256671e08e6e2",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Sia'bai̱ bayë tutu goa bëahuajëjë bai'ye, sihuajë bai'ye tigoa'me nese'e\nArtículo 25. Jeña-guëo te'ejëtë aco quëaye.\nSia'bai̱ bayë mai̱ baiye cahuesose're, iye doi're mai̱ bai̱\n, jujucaijë\nbai'yë gu̱\ni'ne\nGu̱\ni'neje ba'ye abë quëihua'i gu̱\ni'ne tsi̱ maña bayë tutu deo'ye co̱\ncai\nja'ñe.\nArtículo 26. Jëña-guëo te'e jëtë te'o aco quëaye.\nSia'ba̱\ni bayë gu̱\ni'neja'ñe toyaja'o ye'yeye. Toyaja'o ye'yeye cato beoji\ndoi'ye\nToyaja'o ye'yeye cato mai̱ bai̱ deo'yereba baija'ñea'ë, ja̱\nje̱ bai'na\ntoyaja'o cato\nBëcaquëbi ñani tse̱\nañe bai'ji toyaja'o ye'yeye i̱ mamaquëna cocaiye\ngoachani.\nArtículo 27. Jëña-guëo te'e jëtë cayaye aco quëaye.\nMai̱ aibë cujë bai'se'e sia'baije̱ bayë cuye mai̱ bai'daribëaquë'ro,\nsihuajë mai̱\nSia'bai̱ bayë i̱\nhua'i yëyebi toyaja'o nesaoye, i̱\nhuai gochayebi, netëjini\njaiye\nArtículo 28. Jëña-guëo te'e jëtë cayaye te'o aco quëaye.\nIye mai̱\nre\nArtículo 29. Jëña-guëo te'e jëtë Ëjatubë beoye caco.\nSia'bai̱ bayë mai̱ goañegoañose'e mai̱ bai'daribë quë'ro, mai̱\nbi deo'ye\nnejëna\nIye neñañe cato mai̱ quëcobayea'ë gu̱\ni'ne sihuajë, bai'ye, cato sia'bai̱\nIye tutuquë'ye cato beoji yecoai'bi cacaiye ti bai'ye gu̱\ni'ne tsoe\nyequëhue'ñaje\nArtículo 30. Jëña-guëo caya jëña aco caco.\nJare iye cahuesosicore beoji yequë",
-            "Image": "daadec6ee1172b928bf256671e08e6e2"
+            "Text": "Sia'bai̱ bayë tutu goa bëahuajëjë bai'ye, sihuajë bai'ye tigoa'me nese'e\nArtículo 25. Jeña-guëo te'ejëtë aco quëaye.\nSia'bai̱ bayë mai̱ baiye cahuesose're, iye doi're mai̱ bai̱\n, jujucaijë\nbai'yë gu̱\ni'ne\nGu̱\ni'neje ba'ye abë quëihua'i gu̱\ni'ne tsi̱ maña bayë tutu deo'ye co̱\ncai\nja'ñe.\nArtículo 26. Jëña-guëo te'e jëtë te'o aco quëaye.\nSia'ba̱\ni bayë gu̱\ni'neja'ñe toyaja'o ye'yeye. Toyaja'o ye'yeye cato beoji\ndoi'ye\nToyaja'o ye'yeye cato mai̱ bai̱ deo'yereba baija'ñea'ë, ja̱\nje̱ bai'na\ntoyaja'o cato\nBëcaquëbi ñani tse̱\nañe bai'ji toyaja'o ye'yeye i̱ mamaquëna cocaiye\ngoachani.\nArtículo 27. Jëña-guëo te'e jëtë cayaye aco quëaye.\nMai̱ aibë cujë bai'se'e sia'baije̱ bayë cuye mai̱ bai'daribëaquë'ro,\nsihuajë mai̱\nSia'bai̱ bayë i̱\nhua'i yëyebi toyaja'o nesaoye, i̱\nhuai gochayebi, netëjini\njaiye\nArtículo 28. Jëña-guëo te'e jëtë cayaye te'o aco quëaye.\nIye mai̱\nre\nArtículo 29. Jëña-guëo te'e jëtë Ëjatubë beoye caco.\nSia'bai̱ bayë mai̱ goañegoañose'e mai̱ bai'daribë quë'ro, mai̱\nbi deo'ye\nnejëna\nIye neñañe cato mai̱ quëcobayea'ë gu̱\ni'ne sihuajë, bai'ye, cato sia'bai̱\nIye tutuquë'ye cato beoji yecoai'bi cacaiye ti bai'ye gu̱\ni'ne tsoe\nyequëhue'ñaje\nArtículo 30. Jëña-guëo caya jëña aco caco.\nJare iye cahuesosicore beoji yequë"
         }
     }
 }

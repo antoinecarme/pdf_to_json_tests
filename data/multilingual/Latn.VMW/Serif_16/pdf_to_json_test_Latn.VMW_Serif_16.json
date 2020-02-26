@@ -1,80 +1,80 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581471434,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "4f30709d2093eb8304b8ee886bff451e",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Edeklarasau ya molumwenku ya Edireito sa Mutthu\nEtthariheliwe Kulaleiya n’Assembleya Geral Nlamulo 217A (III) ya 20 ya Dezembro ya\n1948.\nWOPAJERANI\nOkhala wira osaamiha n’edignidade ya kunla pinatamu n’editeito sawe soolikana ni\nsakhwawe eri variyari wa eliberdade, wa esaria ni murettele mulumwenkuni;\nOkhala wira ohisuwela n’ohisamiha edireito sa mutthu sinniiriha itthu sonanara\nn’ekiiso ya olumwenku onkhala awe pinatamu moota ontthuna awe, ehihasiwaka ni\nmutthu mukhwawe walaa ni osikhini, pihimmwe okhala etthu yulupale enlompwawe\nmutthu;\nOkhala wi itthu yulupale okhaviherya edireito sa mutthu variyari v’regime ya edireito,\nohitthyawele ekhotto wi akhume opuro onihosiwawe;\nOkhala wi v’alupale okhaviherya makhalelo amurettele ni ilapo sikina;\nOkhala wi Mupapheloni Ipovo sa Nações Unidas Sihimmwe wiwelela edireito sa\nmutthu, edignidade ni evalor ya pinatamu. Epaphelo yela en’himya edireito sikhaleke\nsoolikala alopwana n’athiyana ni alipiheraka okhavihera makhalelo oorera, variyari\nv’eliberdade s’elapo soothene;\nOkhala wi ilapo soothene sikhanle membro sa Nações Unidas sohiwanana olalea,\nsikhaviheranaka ni Nações Unidas, ottitthimiha vinjene sa edireito ya mutthu\nn’eliberdade sawe;\nOkhala wi moota onsuwelehu edireito n’eliberdade iya etthu yuplupale wira naakhule\nsaana epaphelo yasinanrehu;\nAssembleia Geral\nAssembleia Geral enalalea ephaphelo ela sa edireto ya mutthu, wi t’etthu yorera\nottharerela wakunla elapo, n’atthu othene akhalanne varohoni itthu ya sihiimwe\nmpapheloni mu, asomihe ni apheele winnuwiha mattitthimihelo sa edireito ni\neliberdade iya, ni alalee okhuma mulaponiwaya, mpaka ilapo sokhopela, wi sisuweliye\nni sittharereliye wakunla elapo.\nARTIKU 1\nAtthu othene aniyaria oolikana ni owilamula moota ontthunaya okhala, variyari\nv’edignidade ni edireito. Akhalanne esaria ni otthokelela, ahaana akhalasaka othene\nsaya vamurettele.\nARTIKU 2\nAtthu othene poti othyawelela edireito n’eliberdade silempwe mupapheloni mu\nahithanliaka yakhala wira atthu ooripa walaa oottela, nnakhala muthiyana walaa\nmulopwana, opuro onkhala’we, oninlompa’we muluku, epoliitika entthara’we,\nmuthajiri walaa musikhini.\nNenna vaa, khavo onrowa othanliwa mwaha wa epoliitika entthara’we, elapo awe,\nwalaa nttetthe oyariwa’we, okhalana ni wihikhalana elapo yupum’we omantariwa\nn’atthu ookhopela.",
-            "Image": "4f30709d2093eb8304b8ee886bff451e"
+            "Text": "Edeklarasau ya molumwenku ya Edireito sa Mutthu\nEtthariheliwe Kulaleiya n’Assembleya Geral Nlamulo 217A (III) ya 20 ya Dezembro ya\n1948.\nWOPAJERANI\nOkhala wira osaamiha n’edignidade ya kunla pinatamu n’editeito sawe soolikana ni\nsakhwawe eri variyari wa eliberdade, wa esaria ni murettele mulumwenkuni;\nOkhala wira ohisuwela n’ohisamiha edireito sa mutthu sinniiriha itthu sonanara\nn’ekiiso ya olumwenku onkhala awe pinatamu moota ontthuna awe, ehihasiwaka ni\nmutthu mukhwawe walaa ni osikhini, pihimmwe okhala etthu yulupale enlompwawe\nmutthu;\nOkhala wi itthu yulupale okhaviherya edireito sa mutthu variyari v’regime ya edireito,\nohitthyawele ekhotto wi akhume opuro onihosiwawe;\nOkhala wi v’alupale okhaviherya makhalelo amurettele ni ilapo sikina;\nOkhala wi Mupapheloni Ipovo sa Nações Unidas Sihimmwe wiwelela edireito sa\nmutthu, edignidade ni evalor ya pinatamu. Epaphelo yela en’himya edireito sikhaleke\nsoolikala alopwana n’athiyana ni alipiheraka okhavihera makhalelo oorera, variyari\nv’eliberdade s’elapo soothene;\nOkhala wi ilapo soothene sikhanle membro sa Nações Unidas sohiwanana olalea,\nsikhaviheranaka ni Nações Unidas, ottitthimiha vinjene sa edireito ya mutthu\nn’eliberdade sawe;\nOkhala wi moota onsuwelehu edireito n’eliberdade iya etthu yuplupale wira naakhule\nsaana epaphelo yasinanrehu;\nAssembleia Geral\nAssembleia Geral enalalea ephaphelo ela sa edireto ya mutthu, wi t’etthu yorera\nottharerela wakunla elapo, n’atthu othene akhalanne varohoni itthu ya sihiimwe\nmpapheloni mu, asomihe ni apheele winnuwiha mattitthimihelo sa edireito ni\neliberdade iya, ni alalee okhuma mulaponiwaya, mpaka ilapo sokhopela, wi sisuweliye\nni sittharereliye wakunla elapo.\nARTIKU 1\nAtthu othene aniyaria oolikana ni owilamula moota ontthunaya okhala, variyari\nv’edignidade ni edireito. Akhalanne esaria ni otthokelela, ahaana akhalasaka othene\nsaya vamurettele.\nARTIKU 2\nAtthu othene poti othyawelela edireito n’eliberdade silempwe mupapheloni mu\nahithanliaka yakhala wira atthu ooripa walaa oottela, nnakhala muthiyana walaa\nmulopwana, opuro onkhala’we, oninlompa’we muluku, epoliitika entthara’we,\nmuthajiri walaa musikhini.\nNenna vaa, khavo onrowa othanliwa mwaha wa epoliitika entthara’we, elapo awe,\nwalaa nttetthe oyariwa’we, okhalana ni wihikhalana elapo yupum’we omantariwa\nn’atthu ookhopela."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "2c567eb02245d6d6efb9b3fc08a4123a",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "ARTIKU 3\nWakunla pinatamu ohaana edireito ya ekumi, eliberdade ni wakiha erutthu awe.\nARTIKU 4\nKhavo onrowa okhalihiwa epottha, makhalelo ya epottha, ni moota owakaliha epottha\natthu enakhottihiya.\nARTIKU 5\nKhavo onrowa ohoosiwa, nnakhala okhalihiwa moota wonanara.\nARTIKU 6\nWakunla mutthu ohaana edireito yosaamihia makhalelo awe wakunla opuro\nonkhala’we.\nARTIKU 7\nAtthu othene t’olikana variyari va elei, n’atthu othene attitthimihiweke n’elei. Atthu\nothene ahaana akhaviheriwaka, mwaha wale ahin’tthuna ottitthimiha edeklarasau ila.\nARTIKU 8\nWakunla mutthu ohaana edireito yotthyawelela elei ya elapo enkhalawe wi akihiwe\nyakhala wira edireito sawe silempwe mwa elei yelapo awe kisettin’he saana.\nARTIKU 9\nKhavo onrowa otthukiwa ni womoliwa mulaponimwawe, yihiwen’he saana etthu\netthenka’we.\nARTIKU 10\nWakunla mutthu ohaana edireito ntoko atthu akina, wi etthu etthenka’we\nenalamuliwa mwa otribunal, moota ansuwelaya atthu othene, van’himwaya edever ni\nedireito sawe, ni mulattu otthukeliwawe.\nARTIKU 11\nWakunla mutthu onihim’mwa wi oottheka, onkhalihiya wira khivo yin’ryawe mpaka\nanamulamula mulattu woneshesha etthu yin’ryawe, ehilialaka okarantiri eproseso ya\nedefesa sawe.\nKhavo onrowa otthukeliwa etthu ehikhalale mulattu mwa elapo enkhala’we nnakhala\nilapo sa okhopela. Nenna va, khavo onrowa winnuwiheriwa epena’we khuvikana ele\nyahimmwa okathi otthenk’awe.\nARTIKU 12\nKhavo onrowa ovehiwa okomantheene owan’nhawe, n’amusi awe, otthukuliwa\niwarakha sawe, nnakhala wihisamihiya moota onkhala’we. Elei yohaana omwakiha\nmutthu onrowa ovehiwa moota yola.\nARTIKU 13",
-            "Image": "2c567eb02245d6d6efb9b3fc08a4123a"
+            "Text": "ARTIKU 3\nWakunla pinatamu ohaana edireito ya ekumi, eliberdade ni wakiha erutthu awe.\nARTIKU 4\nKhavo onrowa okhalihiwa epottha, makhalelo ya epottha, ni moota owakaliha epottha\natthu enakhottihiya.\nARTIKU 5\nKhavo onrowa ohoosiwa, nnakhala okhalihiwa moota wonanara.\nARTIKU 6\nWakunla mutthu ohaana edireito yosaamihia makhalelo awe wakunla opuro\nonkhala’we.\nARTIKU 7\nAtthu othene t’olikana variyari va elei, n’atthu othene attitthimihiweke n’elei. Atthu\nothene ahaana akhaviheriwaka, mwaha wale ahin’tthuna ottitthimiha edeklarasau ila.\nARTIKU 8\nWakunla mutthu ohaana edireito yotthyawelela elei ya elapo enkhalawe wi akihiwe\nyakhala wira edireito sawe silempwe mwa elei yelapo awe kisettin’he saana.\nARTIKU 9\nKhavo onrowa otthukiwa ni womoliwa mulaponimwawe, yihiwen’he saana etthu\netthenka’we.\nARTIKU 10\nWakunla mutthu ohaana edireito ntoko atthu akina, wi etthu etthenka’we\nenalamuliwa mwa otribunal, moota ansuwelaya atthu othene, van’himwaya edever ni\nedireito sawe, ni mulattu otthukeliwawe.\nARTIKU 11\nWakunla mutthu onihim’mwa wi oottheka, onkhalihiya wira khivo yin’ryawe mpaka\nanamulamula mulattu woneshesha etthu yin’ryawe, ehilialaka okarantiri eproseso ya\nedefesa sawe.\nKhavo onrowa otthukeliwa etthu ehikhalale mulattu mwa elapo enkhala’we nnakhala\nilapo sa okhopela. Nenna va, khavo onrowa winnuwiheriwa epena’we khuvikana ele\nyahimmwa okathi otthenk’awe.\nARTIKU 12\nKhavo onrowa ovehiwa okomantheene owan’nhawe, n’amusi awe, otthukuliwa\niwarakha sawe, nnakhala wihisamihiya moota onkhala’we. Elei yohaana omwakiha\nmutthu onrowa ovehiwa moota yola.\nARTIKU 13"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "1999e6a3ec3de67c55f87decccda0813",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Wakunla mutthu ohaana edireito yothanla opuro onphela’we okhala, n’hina mwa\nEstado eri awe.\nWakunla mutthu ohaana edireito yothama elapo eri awe, poti okhala elapo awe, ni\nedireito yotthikela mulaponi mwawe.\nARTIKU 14\nWakunla mutthu onoomoliwa n’autoridade ohaana edireito yoveka ni okhala ilapo sa\nokhopela.\nEdireito ela kahi ya’tthu yinre etthu yonanara variyari v’elei yelapo enkhalaya,\nnnakhala mwamakhalelo a Nações Unidas.\nARTIKU 15\nWakunla mutthu ohaana edireito yokhalana enacionalidade.\nKhavo mutthu onrowa okhottihiwa enacionalidade awe ehinre etthu yonanara,\nnnakhala oveka enacionalidade ekina.\nARTIKU 16\nMulopwana ni muthiyana yennuwakaru ahaana edireto yothelana, akhale ottela ni\nnooriipa, mutthu a mulaponi ni a elapo yokhopela, walaa akhalee s’egreja\nsoovirikana. Okhuma okatthi onthelanaya, mpaka vammwalanaya, edireito saya ti\nsoolikana.\nAtthu anthelana, ooweeli ahaana atthunaka wi athelane.\nEtthoko t’etthu yulupale mulaponi, nenna vaa, yohaana edireito y’eproteção ni\nokhaviheriwa n’Estado.\nARTIKU 17\nWakunla mutthu mekhawe, walaa n’akhwawe ohaana edireito yokhalana etthu awe.\nKhavo onrowa okhottihiwa etthu yawawe.\nARTIKU 18\nWakunla mutthu ohaana edireito yotthokelela etthu entthuna awe, ya makhalelo ni\nmoota oninlopawe muluku. Edireito ela en’himya wira mutthu ula poti ohiya egreja\neri awe khukela entthuna awe, nnakhala moota ontthokekelawe, mekhawe walaa\nonari n’akhwawe, asomihaka walaa amulonpaka muluku.\nARTIKU 19\nWakunla mutthu ohaana edireito y’ohimya enimmwa m’muru mwawe, ehopipihiwaka\nekiiso sa itthu sin’himyawe, ni opheela wakhela ni olalea nuulumo nawe,\nmulaponimwawe ni ilapo sokhopela.\nARTIKU 20\nWakunla mutthu ohaana edireito yothukumana vamurettele n’atthu akhwawe .\nKhavo onkelihiya va muthukumano ehitthunale mwanene.",
-            "Image": "1999e6a3ec3de67c55f87decccda0813"
+            "Text": "Wakunla mutthu ohaana edireito yothanla opuro onphela’we okhala, n’hina mwa\nEstado eri awe.\nWakunla mutthu ohaana edireito yothama elapo eri awe, poti okhala elapo awe, ni\nedireito yotthikela mulaponi mwawe.\nARTIKU 14\nWakunla mutthu onoomoliwa n’autoridade ohaana edireito yoveka ni okhala ilapo sa\nokhopela.\nEdireito ela kahi ya’tthu yinre etthu yonanara variyari v’elei yelapo enkhalaya,\nnnakhala mwamakhalelo a Nações Unidas.\nARTIKU 15\nWakunla mutthu ohaana edireito yokhalana enacionalidade.\nKhavo mutthu onrowa okhottihiwa enacionalidade awe ehinre etthu yonanara,\nnnakhala oveka enacionalidade ekina.\nARTIKU 16\nMulopwana ni muthiyana yennuwakaru ahaana edireto yothelana, akhale ottela ni\nnooriipa, mutthu a mulaponi ni a elapo yokhopela, walaa akhalee s’egreja\nsoovirikana. Okhuma okatthi onthelanaya, mpaka vammwalanaya, edireito saya ti\nsoolikana.\nAtthu anthelana, ooweeli ahaana atthunaka wi athelane.\nEtthoko t’etthu yulupale mulaponi, nenna vaa, yohaana edireito y’eproteção ni\nokhaviheriwa n’Estado.\nARTIKU 17\nWakunla mutthu mekhawe, walaa n’akhwawe ohaana edireito yokhalana etthu awe.\nKhavo onrowa okhottihiwa etthu yawawe.\nARTIKU 18\nWakunla mutthu ohaana edireito yotthokelela etthu entthuna awe, ya makhalelo ni\nmoota oninlopawe muluku. Edireito ela en’himya wira mutthu ula poti ohiya egreja\neri awe khukela entthuna awe, nnakhala moota ontthokekelawe, mekhawe walaa\nonari n’akhwawe, asomihaka walaa amulonpaka muluku.\nARTIKU 19\nWakunla mutthu ohaana edireito y’ohimya enimmwa m’muru mwawe, ehopipihiwaka\nekiiso sa itthu sin’himyawe, ni opheela wakhela ni olalea nuulumo nawe,\nmulaponimwawe ni ilapo sokhopela.\nARTIKU 20\nWakunla mutthu ohaana edireito yothukumana vamurettele n’atthu akhwawe .\nKhavo onkelihiya va muthukumano ehitthunale mwanene."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "8a05c50ddf81293e1e2abeb55a71f17e",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "ARTIKU 21\nWakunla mutthu ohaana edireito yon’holela nakoso okhanle a publico yelapo awe,\nwaala onthanla mutthu onrowa omuholela onpheela wi athanliwe.\nWakunla mutthu ohaana edireito, ni moota wolikana n’atthu akina, itthu siniria\ns’atthu othene a mulaponi mwawe.\nEvontade ya epovo t’enilamula moota oniholela elapo atthu athanliwe. Yaala\naniholela, athanliweke va mpantta wamuthanlo, onrowa atthu othene arina edireito\nyothanla, khiyathanla moota ontthunaya yihoniheraka mutthu oninthanlaya.\nARTIKU 22\nWakunla mutthu okhala wi membro a esociedade, ohaana edireito yokhaviheriwa\nn’estado, n’oveka edireito sawe silempwe muleini siniholela elapo awe ni elapo\nsokhopela, nenna va, itthu iya siveka awe sikhaleke simphwanhanea mulaponi\nmwawe.\nARTIKU 23\nWakunla mutthu ohaana edireito yophwanha muteko, n’othanla muteko ola moota\nwolikana n’akhwawe, ni okhaviheriwa ahikhalane muteko.\nAtthu othene ahaana edireito yowakhela moota onakhela akhwaya anivarana aya\nmuteko mmosa.\nOnivara muteko ohaana edireito yowakhela saana, wi akhale n’amusi awe variyari\nv’edignidade ya mutthu, n’okhaviheriwa ahikhale saana.\nWakunla mutthu ohaana edireito yothukumana n’akhwawe khiyapaka esindicato, ni\nwilepiha mwa mathukumano akina wira alipihere edireito sawe.\nARTIKU 24\nWakunla mutthu ohaana edireito yomumula, n’okathi wamuteko ohivirikanihe elei, ni\nedireito yokhalana ifeeria soolinva.\nARTIKU 25\nWakunla mutthu ohaana edireito sa itthu wi akhale saana n’amusi awe ( ekuwo, yoja,\nenupa,…) ni ekumi, okhaviheriya ahikhalane muteko, awereyaka, apahun’we,\nonakhweliye an’yawe walaa amwara awe, onoluvanle ni sinamwirenle itthu\nsothakhala.\nMuthiyana orupanle nuule oyanre naanano ohaana edireito yokhaviheriwa saana. Ana\nothene ayariwe variyari va mulopwana ni muthiyana ahithelanne arina edireito\nsolikana ni sa anamwane akina.\nARTIKU 26\nWakunla mutthu ohaana edireito yosoma. Osoma ohaana okhalaka wihinlivia mpaka\nomaliha myakha sopajera onisuthiya olepa n’osoma. Myakha sopajera iya atthu\nothene ahaana yilepihaka nnakhala vahasivelaka. Sihaana sipankaka esikola sinjene\nsinakumiha mateekniko. Esikola yulupale yesomi, ehaana otthukuliwa wi atthu\nothene akeleke moota wolikana, ale othene aniweryasa.",
-            "Image": "8a05c50ddf81293e1e2abeb55a71f17e"
+            "Text": "ARTIKU 21\nWakunla mutthu ohaana edireito yon’holela nakoso okhanle a publico yelapo awe,\nwaala onthanla mutthu onrowa omuholela onpheela wi athanliwe.\nWakunla mutthu ohaana edireito, ni moota wolikana n’atthu akina, itthu siniria\ns’atthu othene a mulaponi mwawe.\nEvontade ya epovo t’enilamula moota oniholela elapo atthu athanliwe. Yaala\naniholela, athanliweke va mpantta wamuthanlo, onrowa atthu othene arina edireito\nyothanla, khiyathanla moota ontthunaya yihoniheraka mutthu oninthanlaya.\nARTIKU 22\nWakunla mutthu okhala wi membro a esociedade, ohaana edireito yokhaviheriwa\nn’estado, n’oveka edireito sawe silempwe muleini siniholela elapo awe ni elapo\nsokhopela, nenna va, itthu iya siveka awe sikhaleke simphwanhanea mulaponi\nmwawe.\nARTIKU 23\nWakunla mutthu ohaana edireito yophwanha muteko, n’othanla muteko ola moota\nwolikana n’akhwawe, ni okhaviheriwa ahikhalane muteko.\nAtthu othene ahaana edireito yowakhela moota onakhela akhwaya anivarana aya\nmuteko mmosa.\nOnivara muteko ohaana edireito yowakhela saana, wi akhale n’amusi awe variyari\nv’edignidade ya mutthu, n’okhaviheriwa ahikhale saana.\nWakunla mutthu ohaana edireito yothukumana n’akhwawe khiyapaka esindicato, ni\nwilepiha mwa mathukumano akina wira alipihere edireito sawe.\nARTIKU 24\nWakunla mutthu ohaana edireito yomumula, n’okathi wamuteko ohivirikanihe elei, ni\nedireito yokhalana ifeeria soolinva.\nARTIKU 25\nWakunla mutthu ohaana edireito sa itthu wi akhale saana n’amusi awe ( ekuwo, yoja,\nenupa,…) ni ekumi, okhaviheriya ahikhalane muteko, awereyaka, apahun’we,\nonakhweliye an’yawe walaa amwara awe, onoluvanle ni sinamwirenle itthu\nsothakhala.\nMuthiyana orupanle nuule oyanre naanano ohaana edireito yokhaviheriwa saana. Ana\nothene ayariwe variyari va mulopwana ni muthiyana ahithelanne arina edireito\nsolikana ni sa anamwane akina.\nARTIKU 26\nWakunla mutthu ohaana edireito yosoma. Osoma ohaana okhalaka wihinlivia mpaka\nomaliha myakha sopajera onisuthiya olepa n’osoma. Myakha sopajera iya atthu\nothene ahaana yilepihaka nnakhala vahasivelaka. Sihaana sipankaka esikola sinjene\nsinakumiha mateekniko. Esikola yulupale yesomi, ehaana otthukuliwa wi atthu\nothene akeleke moota wolikana, ale othene aniweryasa."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "4892706e59dabe6d6984be2097115a50",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Esikola ekhale opuro oninnuwiha muru ni murima wa mutthu, eninnuwiha edireito\nn’eliberdade sa mutthu. Esikola ela ehaana yinnuwihaka moota onimoona’hu\npinatamu m’khwahu variyari vamurettele n’atthu othene, niphelaka wi ninnuwihe\nmiteko sa Nações Unidas.\nAsipapa ahaana edireito yopajera othanla moota ontthuna’ya onsomiha mwanaya.\nARTIKU 27\nWakunla mutthu ohaana edireito yotthuna okela mwaneene mmitekoni sinvariya\nmmwannhawe, ni wakhela itthu sinkhumelela mmitekoni sinvara’we.\nAtthu othene ahaana edireito yoprotejeria itthu sothene sinvaraya s’osuela waya wa\nosomi.\nARTIKU 28\nWakunla mutthu ohaana edireito yokhavihera, wi edireito n’eliberdade silempwe\nmuwarakhani mu sihikelihiwe iphiro sonanara.\nARTIKU 29\nPinatamu ohaana idevere mulaponi mwawe, sinrowa omwinnuwiha ni moota\nanaweha’we atthu akhwawe.\nOttharihela idireito n’eliberdade silempwe mu, khavo onrowa ovariwa wi alalee\nedireito ni eliberdade s’atthu akina, wi esariya ni makhalelo a murettele yonaneye\nmulaponi variyari v’edomocracia.\nEdireito n’eliberdade iya sihiraneye sivirikanihaka elei sin’holela makhalelo a Nações\nUnidas.\nARTIKU 30\nKhanivo nlamulo na edeklarasau ila ninrowa otthariheleliwa, n’estado, mathukumano\na’tthu, walaa mutthu, epankaka etthu enrowa ovirikaniha idireito ni eliberdade\nsilempwe mu.",
-            "Image": "4892706e59dabe6d6984be2097115a50"
+            "Text": "Esikola ekhale opuro oninnuwiha muru ni murima wa mutthu, eninnuwiha edireito\nn’eliberdade sa mutthu. Esikola ela ehaana yinnuwihaka moota onimoona’hu\npinatamu m’khwahu variyari vamurettele n’atthu othene, niphelaka wi ninnuwihe\nmiteko sa Nações Unidas.\nAsipapa ahaana edireito yopajera othanla moota ontthuna’ya onsomiha mwanaya.\nARTIKU 27\nWakunla mutthu ohaana edireito yotthuna okela mwaneene mmitekoni sinvariya\nmmwannhawe, ni wakhela itthu sinkhumelela mmitekoni sinvara’we.\nAtthu othene ahaana edireito yoprotejeria itthu sothene sinvaraya s’osuela waya wa\nosomi.\nARTIKU 28\nWakunla mutthu ohaana edireito yokhavihera, wi edireito n’eliberdade silempwe\nmuwarakhani mu sihikelihiwe iphiro sonanara.\nARTIKU 29\nPinatamu ohaana idevere mulaponi mwawe, sinrowa omwinnuwiha ni moota\nanaweha’we atthu akhwawe.\nOttharihela idireito n’eliberdade silempwe mu, khavo onrowa ovariwa wi alalee\nedireito ni eliberdade s’atthu akina, wi esariya ni makhalelo a murettele yonaneye\nmulaponi variyari v’edomocracia.\nEdireito n’eliberdade iya sihiraneye sivirikanihaka elei sin’holela makhalelo a Nações\nUnidas.\nARTIKU 30\nKhanivo nlamulo na edeklarasau ila ninrowa otthariheleliwa, n’estado, mathukumano\na’tthu, walaa mutthu, epankaka etthu enrowa ovirikaniha idireito ni eliberdade\nsilempwe mu."
         }
     }
 }

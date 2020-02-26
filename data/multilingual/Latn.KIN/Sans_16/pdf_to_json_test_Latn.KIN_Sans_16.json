@@ -1,119 +1,119 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581468750,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "720a5cba21684f58ac0551a9b2c4cf9d",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Taliki ya cumi y'ukwa desembri mu mwaka wa 1948, niwo munsi Ikoraniro rusange rya ONU ryemeje\nlikanamenyesha Itangazo ryo kwamamaza hose ibyerekeye agaciro ka Muntu. Ikoraniro rusange ryasabye\nibihugu byose bili muli l'ONU gukora uko bishoboye kugira ngo iryo Tangazo lizatangirwe ku mugaragaro,\nryamamare hose kandi lisobanurwe, cyane cyane mu mashuli, ali amato ali ayisumbuye, mu bihugu byose,\nibyigenga n'ibigitegekwa.\nITANGAZO RYAMAMAZA HOSE AGACIRO K'UMUNTU\nIntangiliro.\nIkoraniro rusange lilibutsa ko:\n- Ugushyira ukizana, ituze n'ubutungane mu bihugu bishingiye ku karusho ka buli muntu, kadasibangana,\ngahamya icyubahiro akwiye n'agaciro twese duhulijeho,\n- Gusuzugura no kwirengagiza ako gaciro n'icyubahiro bya buli muntu nibyo byateye bamwe imigenzereze\nisa n'iy'inyamaswa, umutima w'umuntu utakwihanganira. Nicyogituma twemeza ko icyo umuntu wese\nyimilije imbere y'ibindi al'ugushyira akizana, nta nkomyi mu mvugo no mu bitekerezo, akibera aho nta nduru\nnta butindi,\n- Ali ngombwa ko hashingwa amategeko arengera ako gaciro ka buli muntu, akamulinda ubuja n'agahato,\n- Ikindi ngombwa nu gukomeza umubano w'ibihugu,\n- Ibihugu byunz'ubumwe byiyemeje muli Charte ya l'ONU kuzahora byubaha agaciro k'umuntu wese, yaba\numugore yaba umugabo, bose niko bakwiye kwubahwa kimwe. Ibyo bihugu byiyemeje kandi kuzaharanira\namajyambere mu mibanire m'imibereho y'abantu ku mudendezo,\n- Ibihugu byose byunz'ubumwe byarahiliye gufasha umuryango wa l'ONU kwubahisha hose agaciro",
-            "Image": "720a5cba21684f58ac0551a9b2c4cf9d"
+            "Text": "Taliki ya cumi y'ukwa desembri mu mwaka wa 1948, niwo munsi Ikoraniro rusange rya ONU ryemeje\nlikanamenyesha Itangazo ryo kwamamaza hose ibyerekeye agaciro ka Muntu. Ikoraniro rusange ryasabye\nibihugu byose bili muli l'ONU gukora uko bishoboye kugira ngo iryo Tangazo lizatangirwe ku mugaragaro,\nryamamare hose kandi lisobanurwe, cyane cyane mu mashuli, ali amato ali ayisumbuye, mu bihugu byose,\nibyigenga n'ibigitegekwa.\nITANGAZO RYAMAMAZA HOSE AGACIRO K'UMUNTU\nIntangiliro.\nIkoraniro rusange lilibutsa ko:\n- Ugushyira ukizana, ituze n'ubutungane mu bihugu bishingiye ku karusho ka buli muntu, kadasibangana,\ngahamya icyubahiro akwiye n'agaciro twese duhulijeho,\n- Gusuzugura no kwirengagiza ako gaciro n'icyubahiro bya buli muntu nibyo byateye bamwe imigenzereze\nisa n'iy'inyamaswa, umutima w'umuntu utakwihanganira. Nicyogituma twemeza ko icyo umuntu wese\nyimilije imbere y'ibindi al'ugushyira akizana, nta nkomyi mu mvugo no mu bitekerezo, akibera aho nta nduru\nnta butindi,\n- Ali ngombwa ko hashingwa amategeko arengera ako gaciro ka buli muntu, akamulinda ubuja n'agahato,\n- Ikindi ngombwa nu gukomeza umubano w'ibihugu,\n- Ibihugu byunz'ubumwe byiyemeje muli Charte ya l'ONU kuzahora byubaha agaciro k'umuntu wese, yaba\numugore yaba umugabo, bose niko bakwiye kwubahwa kimwe. Ibyo bihugu byiyemeje kandi kuzaharanira\namajyambere mu mibanire m'imibereho y'abantu ku mudendezo,\n- Ibihugu byose byunz'ubumwe byarahiliye gufasha umuryango wa l'ONU kwubahisha hose agaciro"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "54dd8fcfb91bdd8125ea4e7e6aaa91e5",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "n'uburenganzira bishingiye kuli kamere ya buli muntu,\n- Kugira ngo ibyo twarahiliye tubishyikire, tugomba no guhuza igitekerezo ku byerekeye ako gaciro\nn'uburenganzira bya buli muntu,\n- Ikoraniro rusange ryamamaje ili Tangazo ryerekeye agaciro ka buli muntu, ligomba kuyobora abaturage\nb'ibihugu byose uburyo bwo kwitoza umuco wo kwubaha agaciro n'uburenganzira bw'umuntu. Uwo muco\nniwo amategeko agenga buli gihugu n'atunganya umubano w'igihugu agomba gushishikalira kwinjuza muli\nbyose, ali nu nyigisho z'urubyiruko mu mashuli, ali no mu milirere yose y'abaturage, kugira ngo bose\nhamwe, ali abatuye mu bihugu muli l'ONU, ndetse n'abatarashyikira ubwigenge, uwo muco abe aliwo\nbimiliza imbere.\nArticle 1.\nAbantu bose bavuka aliko bakwiye agaciro no kwubahwa kimwe. Bose bavukana ubwenge n'umutima,\nbagomba kugilirana kivandimwe.\nArticle 2.\nUmuntu wese akwiye kwemererwa kwafite agaciro n'uburenganzira bwose bwahamijwe muli ili Tangazo.\nNta muntu uzongera gucishwa ku wundi ku mpamvu gusa z'ubwoko, ibara ry'umubili, idini yemera cyanga\nse ibitekerezo afite muli politique no mu zindi ngingo, ntawe uzazira igihugu akomokamo, ubworo amavuka\ncyanga se indi mimerere yindi.\nKandi nta muntu uruta undi, ngo kuko baba bakomoka mu bihugu batareshya. Ali abaturage b'ibihugu\nbyigenga cyanga se bigitwarwa, bikiyoborwa n'ibindi, bose ni abantu kimwe.\nArticle 3.\nUmuntu wese agomba kubaho, gushyira akizana no kutarengana.",
-            "Image": "54dd8fcfb91bdd8125ea4e7e6aaa91e5"
+            "Text": "n'uburenganzira bishingiye kuli kamere ya buli muntu,\n- Kugira ngo ibyo twarahiliye tubishyikire, tugomba no guhuza igitekerezo ku byerekeye ako gaciro\nn'uburenganzira bya buli muntu,\n- Ikoraniro rusange ryamamaje ili Tangazo ryerekeye agaciro ka buli muntu, ligomba kuyobora abaturage\nb'ibihugu byose uburyo bwo kwitoza umuco wo kwubaha agaciro n'uburenganzira bw'umuntu. Uwo muco\nniwo amategeko agenga buli gihugu n'atunganya umubano w'igihugu agomba gushishikalira kwinjuza muli\nbyose, ali nu nyigisho z'urubyiruko mu mashuli, ali no mu milirere yose y'abaturage, kugira ngo bose\nhamwe, ali abatuye mu bihugu muli l'ONU, ndetse n'abatarashyikira ubwigenge, uwo muco abe aliwo\nbimiliza imbere.\nArticle 1.\nAbantu bose bavuka aliko bakwiye agaciro no kwubahwa kimwe. Bose bavukana ubwenge n'umutima,\nbagomba kugilirana kivandimwe.\nArticle 2.\nUmuntu wese akwiye kwemererwa kwafite agaciro n'uburenganzira bwose bwahamijwe muli ili Tangazo.\nNta muntu uzongera gucishwa ku wundi ku mpamvu gusa z'ubwoko, ibara ry'umubili, idini yemera cyanga\nse ibitekerezo afite muli politique no mu zindi ngingo, ntawe uzazira igihugu akomokamo, ubworo amavuka\ncyanga se indi mimerere yindi.\nKandi nta muntu uruta undi, ngo kuko baba bakomoka mu bihugu batareshya. Ali abaturage b'ibihugu\nbyigenga cyanga se bigitwarwa, bikiyoborwa n'ibindi, bose ni abantu kimwe.\nArticle 3.\nUmuntu wese agomba kubaho, gushyira akizana no kutarengana."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "8d40996ab21146580a69ecd97ef27e83",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Article 4.\nNta muntu ukwiye guhinduka imbohe cyanga umuja. Kugira abantu abaja cyanga se kubacururuza biraciwe\nrwose.\nArticle 5.\nNta muntu ugomba kugilirwa urugomo, kuzira agashinyaguro, kwicwa urupfu rubi.\nArticle 6.\nAho umuntu ali hose agomba kurengerwa n'amategeko y'igihugu.\nArticle 7.\nAbantu bose ni kimwe ku byerekeye amategeko, kandi bose niki agomba kubarengera kimwe, akabalinda\nakarengane gaciye ukubili n'ili Tangazo, akabalinda ndetse n'ibishobora byose gutera ako karengane.\nArticle 8.\nBuli muntu afite ububasha bwo kuregera inkiko imigenzereze yose iciye ku burenganzira yahawe\nn'amategeko.\nArticle 9.\nNtawe ushobora gufunga umuntu ku karengane cyanga se kumuca mu gihugu.\nArticle 10.\nUrubanza rw'umuntu wese, mbere yo gucibwa, rugomba kwumvikana ku mugaragaro, nta karengane,\nabacamanza bakabona kurukiranura batabera.\nArticle 11.",
-            "Image": "8d40996ab21146580a69ecd97ef27e83"
+            "Text": "Article 4.\nNta muntu ukwiye guhinduka imbohe cyanga umuja. Kugira abantu abaja cyanga se kubacururuza biraciwe\nrwose.\nArticle 5.\nNta muntu ugomba kugilirwa urugomo, kuzira agashinyaguro, kwicwa urupfu rubi.\nArticle 6.\nAho umuntu ali hose agomba kurengerwa n'amategeko y'igihugu.\nArticle 7.\nAbantu bose ni kimwe ku byerekeye amategeko, kandi bose niki agomba kubarengera kimwe, akabalinda\nakarengane gaciye ukubili n'ili Tangazo, akabalinda ndetse n'ibishobora byose gutera ako karengane.\nArticle 8.\nBuli muntu afite ububasha bwo kuregera inkiko imigenzereze yose iciye ku burenganzira yahawe\nn'amategeko.\nArticle 9.\nNtawe ushobora gufunga umuntu ku karengane cyanga se kumuca mu gihugu.\nArticle 10.\nUrubanza rw'umuntu wese, mbere yo gucibwa, rugomba kwumvikana ku mugaragaro, nta karengane,\nabacamanza bakabona kurukiranura batabera.\nArticle 11."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "42295bafd61de758aa58238e8344665b",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Umuntu wese urezwe igicumuro, mu gihe ataracirwa urubanza rukimuhamya, agomba gufatwa nk'intungane\nkugeza igihe ubugiranabi bwe bwemeza n'urukiko kumugaragaro, kandi bamaze kumuha uburyo bwose bwo\nkwiburanira.\nNta muntu ugomba guhanirwa amafuti yigeze gukora, niba mu gihe ayakoze nta tegeko ry'igihugu cyanga\nryerekeye umubano w'igihugu, ryali libibujije. Kandi lero nta n'uzajya acibwa igihano kirenze icyali\ngitegetswe, igihe akoze akabi agomba guhanirwa.\nArticle 12.\nNtawe ugomba kwirohera nta mpamvu mu byerekeye imibereho y'umuntu n'iy'abe, mu rugo rwe no mu\nnzandiko ze, cyanga se ngo amusebye. Muli ibyo byose kandi amategeko y'igihugu agomba kulinda umuntu\nwese akarengane.\nArticle 13.\nUmuntu wese agomba kugenda uko ashaka mu gihugu, no kwihitiramwo aho ashaka gutura.\nUmuntu wese ashobora kuva mu gihugu abishatse, no kugaruka mu gihugu cye kavukire.\nArticle 14.\nUmuntu wese, iyo atotejwe, ashobora guhungira mo kwakirwa mu bindi bihugu.\nUbwo burenganzira aliko ntibwarengera umuntu ukulikiranywe kubera ubugome busanzwe, cyangase\nimigenzereze ye inyuranye n'amaherezo l'ONU yimilije imbere.\nArticle 15.\nBuli muntu agomba kwitilirwa igihugu cye kavukire.\nIcyo kimenyetso cy'ubuturage ntawe ushobora kukinyagwa ku karengane, aliko umuntu ashobora kwiyakira",
-            "Image": "42295bafd61de758aa58238e8344665b"
+            "Text": "Umuntu wese urezwe igicumuro, mu gihe ataracirwa urubanza rukimuhamya, agomba gufatwa nk'intungane\nkugeza igihe ubugiranabi bwe bwemeza n'urukiko kumugaragaro, kandi bamaze kumuha uburyo bwose bwo\nkwiburanira.\nNta muntu ugomba guhanirwa amafuti yigeze gukora, niba mu gihe ayakoze nta tegeko ry'igihugu cyanga\nryerekeye umubano w'igihugu, ryali libibujije. Kandi lero nta n'uzajya acibwa igihano kirenze icyali\ngitegetswe, igihe akoze akabi agomba guhanirwa.\nArticle 12.\nNtawe ugomba kwirohera nta mpamvu mu byerekeye imibereho y'umuntu n'iy'abe, mu rugo rwe no mu\nnzandiko ze, cyanga se ngo amusebye. Muli ibyo byose kandi amategeko y'igihugu agomba kulinda umuntu\nwese akarengane.\nArticle 13.\nUmuntu wese agomba kugenda uko ashaka mu gihugu, no kwihitiramwo aho ashaka gutura.\nUmuntu wese ashobora kuva mu gihugu abishatse, no kugaruka mu gihugu cye kavukire.\nArticle 14.\nUmuntu wese, iyo atotejwe, ashobora guhungira mo kwakirwa mu bindi bihugu.\nUbwo burenganzira aliko ntibwarengera umuntu ukulikiranywe kubera ubugome busanzwe, cyangase\nimigenzereze ye inyuranye n'amaherezo l'ONU yimilije imbere.\nArticle 15.\nBuli muntu agomba kwitilirwa igihugu cye kavukire.\nIcyo kimenyetso cy'ubuturage ntawe ushobora kukinyagwa ku karengane, aliko umuntu ashobora kwiyakira"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "568e93251c5d6672b5b6b7ff37ff7dd7",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "ubuturage bw'aho yihitiyemo.\nArticle 16.\nUmuhungu n'umukobwa bageze mu kigero cyo kwubaka, bashobora gusezerana uko bashaka. Nta nkomyi\nituruka ku bwoko, ku nkomoko cyanga se idini. Mubyerekeye kurongora umugabo n'umugore bahwanije\nagaciro, mbere yo gusezerana, igihe bali kumwe ndetse n'iyo batandukanye.\nNtabagomba gushyingirwa batabyiyemereye ubwabo.\nIshingiro ryambere ry'umubano mu bantu ni murugo, amategeko ya leta agomba kururengera.\nArticle 17.\nUmuntu wese afite ububasha bwo kugira icyo yitungira, ukwe kwa yenyine cyanga se afatanije n'abandi.\nNtawe ushobora kunyagwa ikintu yitungiye ku karengane.\nArticle 18.\nMu bitekerezo by'umuntu, mu bimutunganiye idini, buli muntu agomba gushyira akizana. Nukuvuga ko\nashobora guhindura ibitekezo bye n'idini, kubigaragaza mu ruhame cyanga ahiherereye, kubyigisha na\nkubikulikiza, ku mutima no mu mihango ibigaragaza.\nArticle 19.\nBuli muntu akwiye gutekerza no kuvuga akamuli ku mutima. Nukuvuga ko adakwiye kuzira ibitekerezo bye,\nko ashobora gushaka, guhabwa no kwamamaza hose uko ashaka ibihuje n'icyo atekereza.\nArticle 20.\nAbantu bashobora guterana na kwiremamo amashyaka mu mahoro.",
-            "Image": "568e93251c5d6672b5b6b7ff37ff7dd7"
+            "Text": "ubuturage bw'aho yihitiyemo.\nArticle 16.\nUmuhungu n'umukobwa bageze mu kigero cyo kwubaka, bashobora gusezerana uko bashaka. Nta nkomyi\nituruka ku bwoko, ku nkomoko cyanga se idini. Mubyerekeye kurongora umugabo n'umugore bahwanije\nagaciro, mbere yo gusezerana, igihe bali kumwe ndetse n'iyo batandukanye.\nNtabagomba gushyingirwa batabyiyemereye ubwabo.\nIshingiro ryambere ry'umubano mu bantu ni murugo, amategeko ya leta agomba kururengera.\nArticle 17.\nUmuntu wese afite ububasha bwo kugira icyo yitungira, ukwe kwa yenyine cyanga se afatanije n'abandi.\nNtawe ushobora kunyagwa ikintu yitungiye ku karengane.\nArticle 18.\nMu bitekerezo by'umuntu, mu bimutunganiye idini, buli muntu agomba gushyira akizana. Nukuvuga ko\nashobora guhindura ibitekezo bye n'idini, kubigaragaza mu ruhame cyanga ahiherereye, kubyigisha na\nkubikulikiza, ku mutima no mu mihango ibigaragaza.\nArticle 19.\nBuli muntu akwiye gutekerza no kuvuga akamuli ku mutima. Nukuvuga ko adakwiye kuzira ibitekerezo bye,\nko ashobora gushaka, guhabwa no kwamamaza hose uko ashaka ibihuje n'icyo atekereza.\nArticle 20.\nAbantu bashobora guterana na kwiremamo amashyaka mu mahoro."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "0551dbb819ec68e93aebd2fd22767e97",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Nta muntu ukwiye guhatirwa kwinjira mw'ishyaka atabishaka.\nArticle 21.\nBuli muntu afite uburenganzira bwo guhagurukira ibyerekeye ubutegetsi bw'igihugu cye kavukire, ali\nukubyigiramo ubwe, cyanga se kubishinga intumwa zatowe bitalimo agahato.\nMu byo gukorera leta y'igihugu cyabo, abaturage bose bagomba gucishwa mu kigero kimwe.\nUbutegetsi mu gihugu bukomoka ku bushake bw'abaturage. Ubwo bushake bugaragara uko igihe cy'itora\nkigarutse. Mw'itora abaturage bose bakuze bahwanije ijwe, kandi bitorera uwo bashatse nta gahato.\nArticle 22.\nUmuntu wese mu gihugu niko agizwe n'abandi. Ishyaka ry'abaturage n'ubugobokane bw'igihugu bigomba\ngukiza buli muntu, bikamugeza ku mibereho imukwiye kandi imufasha kujyambere.\nArticle 23.\nUmuntu wese akwiye kubona umulimo yihitiyemo nta gahato. Akawukora mu neza, bitalimo amananiza\nkandi atikanga kubura amulimo.\nAbakora umulimo umwe bose bagomba guhembwa kimwe, nta kubera,\nUmukozi wese agomba guhabwa umushahara umutunze we n'abe, kandi akanarengerwa n'amategeko alinda\nabakozi akarengane,\nUmuntu wese ashobora gufatanya n'abandi gushinga syndicats zimurengera.\nArticle 24.\nBuli muntu ukora agomba kurangiza akazi mu masaha akwiye no guhabwa ibiruhuko, kandi iminsi ahawe",
-            "Image": "0551dbb819ec68e93aebd2fd22767e97"
+            "Text": "Nta muntu ukwiye guhatirwa kwinjira mw'ishyaka atabishaka.\nArticle 21.\nBuli muntu afite uburenganzira bwo guhagurukira ibyerekeye ubutegetsi bw'igihugu cye kavukire, ali\nukubyigiramo ubwe, cyanga se kubishinga intumwa zatowe bitalimo agahato.\nMu byo gukorera leta y'igihugu cyabo, abaturage bose bagomba gucishwa mu kigero kimwe.\nUbutegetsi mu gihugu bukomoka ku bushake bw'abaturage. Ubwo bushake bugaragara uko igihe cy'itora\nkigarutse. Mw'itora abaturage bose bakuze bahwanije ijwe, kandi bitorera uwo bashatse nta gahato.\nArticle 22.\nUmuntu wese mu gihugu niko agizwe n'abandi. Ishyaka ry'abaturage n'ubugobokane bw'igihugu bigomba\ngukiza buli muntu, bikamugeza ku mibereho imukwiye kandi imufasha kujyambere.\nArticle 23.\nUmuntu wese akwiye kubona umulimo yihitiyemo nta gahato. Akawukora mu neza, bitalimo amananiza\nkandi atikanga kubura amulimo.\nAbakora umulimo umwe bose bagomba guhembwa kimwe, nta kubera,\nUmukozi wese agomba guhabwa umushahara umutunze we n'abe, kandi akanarengerwa n'amategeko alinda\nabakozi akarengane,\nUmuntu wese ashobora gufatanya n'abandi gushinga syndicats zimurengera.\nArticle 24.\nBuli muntu ukora agomba kurangiza akazi mu masaha akwiye no guhabwa ibiruhuko, kandi iminsi ahawe"
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "42347c63107895efdbe8bab5e84f1c37",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "y'ibiruhuko agomba nayo kuyihemberwa.\nArticle 25.\nUmuntu wese akwiye ikimubeshaho neza , we n'abo mu rugo, cyane cyane mu byerekeye imyambaro ibyo\nkurya, aho atuye n'ibyo kwivuza, mbese ibya ngombwa byose ngo umuntu ashobore kubaho. Iyo umuntu\nyabuze akazi, igihe c'indwara cyanga ubumuga, mu bupfakazi no mu zabukuru, mbese iyo umuntu atakigira\nikimubeshaho bidaturutse ku bwende bwe, agombwa gutungwa n'integanyo leta yageneye iminsi mibi.\nAbabyeyi n'abana bakwiye cyane gufashwa. Kandi abana bose ndetse n'ibinyandaro, bagomba kurengerwa\nkimwe.\nArticle 26.\nUmuntu wese agomba kurerwa na guhabwa ku busa inyigisho zose z'amashuli yambere. Amashuli\ny'abanyamyuga agomba gukwira hose. Kandi ababishoboye bose bagomba gufashwa kimwe kujya mu\nmashuli makuru.\nImilerere n'yo igomba kugeza abantu ku bugabo buhamye kubongeramo icyubahiro cy'agaciro ka buli muntu\nn'ibyo afitiye uburenganzira byose. Imilerere niyo izatera imbaga z'amoko anyuranye, nako ibihugu byose,\nkwumvikana no kubana bitanduranya nibwo buryo bwo gufatanya na l'ONU gukwiza amahoro hose.\nAbabyeyi bafite uburenganzira bwo gutoraniliza abana babo imilerere ibakwiye.\nArticle 27.\nUmuntu wese akwiye uko ashaka mu gitaramo cyogeza ubutore n'umuco w'igihugu, akwiye kwizihiza\nibinezereje byose no guharanira amajyambere n'ibyiza byose ubuhanga butuma dushyikira.\nAbahanga bahimbye ikintu gishya cyanga se abanditsi b'ibitabo, bishobora kubaviramo inyungu y'ikiguzi cya",
-            "Image": "42347c63107895efdbe8bab5e84f1c37"
+            "Text": "y'ibiruhuko agomba nayo kuyihemberwa.\nArticle 25.\nUmuntu wese akwiye ikimubeshaho neza , we n'abo mu rugo, cyane cyane mu byerekeye imyambaro ibyo\nkurya, aho atuye n'ibyo kwivuza, mbese ibya ngombwa byose ngo umuntu ashobore kubaho. Iyo umuntu\nyabuze akazi, igihe c'indwara cyanga ubumuga, mu bupfakazi no mu zabukuru, mbese iyo umuntu atakigira\nikimubeshaho bidaturutse ku bwende bwe, agombwa gutungwa n'integanyo leta yageneye iminsi mibi.\nAbabyeyi n'abana bakwiye cyane gufashwa. Kandi abana bose ndetse n'ibinyandaro, bagomba kurengerwa\nkimwe.\nArticle 26.\nUmuntu wese agomba kurerwa na guhabwa ku busa inyigisho zose z'amashuli yambere. Amashuli\ny'abanyamyuga agomba gukwira hose. Kandi ababishoboye bose bagomba gufashwa kimwe kujya mu\nmashuli makuru.\nImilerere n'yo igomba kugeza abantu ku bugabo buhamye kubongeramo icyubahiro cy'agaciro ka buli muntu\nn'ibyo afitiye uburenganzira byose. Imilerere niyo izatera imbaga z'amoko anyuranye, nako ibihugu byose,\nkwumvikana no kubana bitanduranya nibwo buryo bwo gufatanya na l'ONU gukwiza amahoro hose.\nAbabyeyi bafite uburenganzira bwo gutoraniliza abana babo imilerere ibakwiye.\nArticle 27.\nUmuntu wese akwiye uko ashaka mu gitaramo cyogeza ubutore n'umuco w'igihugu, akwiye kwizihiza\nibinezereje byose no guharanira amajyambere n'ibyiza byose ubuhanga butuma dushyikira.\nAbahanga bahimbye ikintu gishya cyanga se abanditsi b'ibitabo, bishobora kubaviramo inyungu y'ikiguzi cya"
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "b2ec1e7e06275872191e624cfc8eb76f",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "byo cyanga se y'agaciro bibahesha, nabyo bikarengerwa n'amategeko y'igihugu.\nArticle 28.\nIbyemejwe byose muli ili Tangazo bigomba amahoro mu baturage, ndetse no mu mibanire y'igihugu, kugira\nngo bishobore kugilira umuntu wese akamaro kahageze.\nArticle 29.\nUmuntu nawe agomba kumenya agaciro k'urugaga rw'abo atuyemo,kuko narwo rumufasha kwigeza ku\nbugabo buhamye.\nMu burenganzira bwe bwose n'agaciro afite buli muntu agomba kugarukira ku rubibi yashingiwe\nn'amategeko y'igihugu, kugira ngo n'abandi bagere ku gaciro kabo n'uburenganzira bwabo, mu neza n'ituze\nvy'ingaga y'abadasumbana.\nIbyo byose byahamijwe ntawe ushobora kubyigarulira ku buryo buciye ukubili n'amaherzo l'ONU yimilije\nimbere.\nArticle 30.\nMu magambo yose y'ili Tangazo, nta Leta, nta ngaga, nta n'umuntu ushobora kwibwira ko hali ilimuga\nububasha bwatuma atambuka ku byemejweho uburenganzira muli ili Tangazo.",
-            "Image": "b2ec1e7e06275872191e624cfc8eb76f"
+            "Text": "byo cyanga se y'agaciro bibahesha, nabyo bikarengerwa n'amategeko y'igihugu.\nArticle 28.\nIbyemejwe byose muli ili Tangazo bigomba amahoro mu baturage, ndetse no mu mibanire y'igihugu, kugira\nngo bishobore kugilira umuntu wese akamaro kahageze.\nArticle 29.\nUmuntu nawe agomba kumenya agaciro k'urugaga rw'abo atuyemo,kuko narwo rumufasha kwigeza ku\nbugabo buhamye.\nMu burenganzira bwe bwose n'agaciro afite buli muntu agomba kugarukira ku rubibi yashingiwe\nn'amategeko y'igihugu, kugira ngo n'abandi bagere ku gaciro kabo n'uburenganzira bwabo, mu neza n'ituze\nvy'ingaga y'abadasumbana.\nIbyo byose byahamijwe ntawe ushobora kubyigarulira ku buryo buciye ukubili n'amaherzo l'ONU yimilije\nimbere.\nArticle 30.\nMu magambo yose y'ili Tangazo, nta Leta, nta ngaga, nta n'umuntu ushobora kwibwira ko hali ilimuga\nububasha bwatuma atambuka ku byemejweho uburenganzira muli ili Tangazo."
         }
     }
 }

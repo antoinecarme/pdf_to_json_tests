@@ -1,119 +1,119 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581471460,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "e5292e302e7eb48ee824be6062657f0d",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Mkamulano Wa Ilambo Yoscope Pa Ufulu Wa Chipago Wa Wandu\nMalowe Gandanda\nAga ni maufulu gakasapagwa nago mundu jwalijose gigalembekwe ni chiwanja cha United Nations\nmumkamulano wakolanjikwa Universal Declaration of Human Rights.\nPa 10 December, 1948, chiwanja cha United Nations chajitichisye mitwe ja ufulu wa chipago wa mundu\njwalijose. M'buku aji tugagopolele mchiyao kuti wandu wa chiyao apate upile wakugamanya nambo soni\nkugakamulisya masengo maufulu gakulekanganalekangana ga chipago. Ayi tuyitesile soni kuti wandu\namanyilile mwampaka apatile chikamuchisyo naga ayiweni kuti boma, mundu, kampani, kapena mpingo\nyikumlepekasya kutama ni ufulu wakwe mpela yiwatite pakumpa Mlungu.\nChiwanja cha United Nations chilichitamilisye jele mitweji, chayiwendile yilambo yayili mamembala gakwe\nkuti ijenesye posepose jele mitweji kuti wandu ajimanyilie nikujikamulisya masengo. M'yoyo,\nkugopolelekwa kwa-jele mitweji mchiyao lili litala limpepe lya kamuchisya kwenesya ngani ja ufulu\nwachipago, nambo soni kuti wandu asimichisye kuti ilambo ni iwanja yenjinji yikusosa kuti wandu pa\nchilambo chapasi atameje mwa ufulu usyesyene.\nWandu wosope akwete maufulu gachitatuile gagali gakupagwa nago. Paligongo ali, chiwanja cha United\nnations chilipeleche kugagosa maufulu ga mundu jwalijose. Munkamulano wa Universal Declaration of\nHuman Rights, chiwanjachi chikulongosola ya maufulu ga kupangwa nago ga wandu gakulekangana\nlekangana. Gele maufulu gali getu. Tugamanyilie tugagose, tumanyisyane, ni kugatetela kuti wandu wane\nakatulepelesya kuwanago.\nMkamulanowu wagopolekwe mchiyawo ni chikamuchisyo chakutyochela ku United Nations Office of the\nHigh Commissioner for Human Rights pa kumbuchila yaka 50 yamkamulanowu Tukutogolela kwejinji ku\nchele chiwanjachi nambo soni wandu wosope wiwakamuchisye pa masengo gosope gigakamuchisye kuti",
-            "Image": "e5292e302e7eb48ee824be6062657f0d"
+            "Text": "Mkamulano Wa Ilambo Yoscope Pa Ufulu Wa Chipago Wa Wandu\nMalowe Gandanda\nAga ni maufulu gakasapagwa nago mundu jwalijose gigalembekwe ni chiwanja cha United Nations\nmumkamulano wakolanjikwa Universal Declaration of Human Rights.\nPa 10 December, 1948, chiwanja cha United Nations chajitichisye mitwe ja ufulu wa chipago wa mundu\njwalijose. M'buku aji tugagopolele mchiyao kuti wandu wa chiyao apate upile wakugamanya nambo soni\nkugakamulisya masengo maufulu gakulekanganalekangana ga chipago. Ayi tuyitesile soni kuti wandu\namanyilile mwampaka apatile chikamuchisyo naga ayiweni kuti boma, mundu, kampani, kapena mpingo\nyikumlepekasya kutama ni ufulu wakwe mpela yiwatite pakumpa Mlungu.\nChiwanja cha United Nations chilichitamilisye jele mitweji, chayiwendile yilambo yayili mamembala gakwe\nkuti ijenesye posepose jele mitweji kuti wandu ajimanyilie nikujikamulisya masengo. M'yoyo,\nkugopolelekwa kwa-jele mitweji mchiyao lili litala limpepe lya kamuchisya kwenesya ngani ja ufulu\nwachipago, nambo soni kuti wandu asimichisye kuti ilambo ni iwanja yenjinji yikusosa kuti wandu pa\nchilambo chapasi atameje mwa ufulu usyesyene.\nWandu wosope akwete maufulu gachitatuile gagali gakupagwa nago. Paligongo ali, chiwanja cha United\nnations chilipeleche kugagosa maufulu ga mundu jwalijose. Munkamulano wa Universal Declaration of\nHuman Rights, chiwanjachi chikulongosola ya maufulu ga kupangwa nago ga wandu gakulekangana\nlekangana. Gele maufulu gali getu. Tugamanyilie tugagose, tumanyisyane, ni kugatetela kuti wandu wane\nakatulepelesya kuwanago.\nMkamulanowu wagopolekwe mchiyawo ni chikamuchisyo chakutyochela ku United Nations Office of the\nHigh Commissioner for Human Rights pa kumbuchila yaka 50 yamkamulanowu Tukutogolela kwejinji ku\nchele chiwanjachi nambo soni wandu wosope wiwakamuchisye pa masengo gosope gigakamuchisye kuti"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "4ba13b9c3b4856b8ed368d2b8d16a59e",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "mkamulanowu ugopolelekwe mchiyawo.\nMtwe 1.\nWandu wosope akasapagwa ni ufulu ni uchimbichimbi wakulandana. Asapagwa ni lunda, niwakupakombola\nganisya, m'yoyo kukusosekwa kuti mundu jwalijose am'woneje mundu jwimwe mpela mlongomjakwe.\nMtwe 2.\nMundu jwalijose akwete maufulu galembekwe mmitwe josope jamkamulano awu mwangalola mtundu,\nchiwecheto, mpingo, chipani, nganisyo, chikulupi, ipanje, upagwe, kanga kuti walume kapena wakongwe ni\nyindu ine. Nambo soni pokasipawa kulekanga ligongo lya ndale kapena chilambo chakutyochela mundu.\nMtwe 3.\nMundu jwalijose akwete ufulu wakola umi, kutama mwagopoka nambo soni kola chitetezo chakwanila.\nMtwe 4.\nMundu akasawa kapolo kapena kamulisikwa masengo mpela kapolo. Ukapolo ni malonda ga achikapolo\ngaligakulekasikwa mchilambo chosope chapasi.\nMtwe 5.\nMundu akasasausikwa pakumtimba ni kumtenda kandu kane kalikonse ka ngalwe nambo soni akasapochela\nchilango changam'wajila pa umundu wakwe.\nMtwe 6.\nMundu jwalijose awonekwe mpela mundu pa malamusi ga kwinekulikose.\nMtwe 7.",
-            "Image": "4ba13b9c3b4856b8ed368d2b8d16a59e"
+            "Text": "mkamulanowu ugopolelekwe mchiyawo.\nMtwe 1.\nWandu wosope akasapagwa ni ufulu ni uchimbichimbi wakulandana. Asapagwa ni lunda, niwakupakombola\nganisya, m'yoyo kukusosekwa kuti mundu jwalijose am'woneje mundu jwimwe mpela mlongomjakwe.\nMtwe 2.\nMundu jwalijose akwete maufulu galembekwe mmitwe josope jamkamulano awu mwangalola mtundu,\nchiwecheto, mpingo, chipani, nganisyo, chikulupi, ipanje, upagwe, kanga kuti walume kapena wakongwe ni\nyindu ine. Nambo soni pokasipawa kulekanga ligongo lya ndale kapena chilambo chakutyochela mundu.\nMtwe 3.\nMundu jwalijose akwete ufulu wakola umi, kutama mwagopoka nambo soni kola chitetezo chakwanila.\nMtwe 4.\nMundu akasawa kapolo kapena kamulisikwa masengo mpela kapolo. Ukapolo ni malonda ga achikapolo\ngaligakulekasikwa mchilambo chosope chapasi.\nMtwe 5.\nMundu akasasausikwa pakumtimba ni kumtenda kandu kane kalikonse ka ngalwe nambo soni akasapochela\nchilango changam'wajila pa umundu wakwe.\nMtwe 6.\nMundu jwalijose awonekwe mpela mundu pa malamusi ga kwinekulikose.\nMtwe 7."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "b74949296e0def1ee2a12d2ecd8c20c4",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Wandu wosope ali wakulandana pasi pa malamusi, m'yoyo akwete chitetezo chakulandana mmalamusi\nmwangalola ngope. Wandu wosope akwete chitetezo chakuti pakasipapagwa lusagu ligongo lusagulo luli\nlwakutindana ni mitwe jijikusimanikwa mumkamulano awu.\nMtwe 8.\nMundu jwalijose akwete ufulu wakupata chikamuchisyo kutyochela ku ganya ja kwimba magambo naga\nufulu wakwe wachipago wakusimanikwa mmalamusi ga chilambo, nganiuchimbichikwa ni boma kapena\nwandu wane.\nMtwe 9.\nMundu akasakamulikwa ukaidi pamagongo gangalumbana nambo soni akasatoposyekwa mchilambo pa\nmagongo gangamanyika chenene.\nMtwe 10.\nMundu akwete ufulu wakwimbikwa magambo panganya jijili jakulumbana mwangalola ngope\nmwakuwanjilana ni ufulu wa mundujo, ulemwa wakwe ni yindu yine yakusosekwa kuti mundujo ayigose.\nMtwe 11.\nMundu jwakumganichisya kuti alewile ulemwa wakuwajilwa chilango, awonekwe mpela jwangali ulemwa\nmpaka nganya jakwimba magambo jilijisimichisye kuti mundujo ali jwakulemwa nditu pakuya malamusi,\nmagambogo soni galigajimbikwe panganya jijapele upile wandu wane kupikanila magambogo nambo soni\njijampele upile mundujo wakuliwachetera mwantendere ni mwangali woga.\nMundu akasajimbikwa magambo pa ulemwa wuwatesile malamusi gakwamba ulemwa mpela welewo\nmkanigaichikwe. Nambo soni akasapochela chilango chachikulungwa kupunda chiwawajilwe kuchipochela\npakatema kiwalemwise atamuno malamusi galigasindile.",
-            "Image": "b74949296e0def1ee2a12d2ecd8c20c4"
+            "Text": "Wandu wosope ali wakulandana pasi pa malamusi, m'yoyo akwete chitetezo chakulandana mmalamusi\nmwangalola ngope. Wandu wosope akwete chitetezo chakuti pakasipapagwa lusagu ligongo lusagulo luli\nlwakutindana ni mitwe jijikusimanikwa mumkamulano awu.\nMtwe 8.\nMundu jwalijose akwete ufulu wakupata chikamuchisyo kutyochela ku ganya ja kwimba magambo naga\nufulu wakwe wachipago wakusimanikwa mmalamusi ga chilambo, nganiuchimbichikwa ni boma kapena\nwandu wane.\nMtwe 9.\nMundu akasakamulikwa ukaidi pamagongo gangalumbana nambo soni akasatoposyekwa mchilambo pa\nmagongo gangamanyika chenene.\nMtwe 10.\nMundu akwete ufulu wakwimbikwa magambo panganya jijili jakulumbana mwangalola ngope\nmwakuwanjilana ni ufulu wa mundujo, ulemwa wakwe ni yindu yine yakusosekwa kuti mundujo ayigose.\nMtwe 11.\nMundu jwakumganichisya kuti alewile ulemwa wakuwajilwa chilango, awonekwe mpela jwangali ulemwa\nmpaka nganya jakwimba magambo jilijisimichisye kuti mundujo ali jwakulemwa nditu pakuya malamusi,\nmagambogo soni galigajimbikwe panganya jijapele upile wandu wane kupikanila magambogo nambo soni\njijampele upile mundujo wakuliwachetera mwantendere ni mwangali woga.\nMundu akasajimbikwa magambo pa ulemwa wuwatesile malamusi gakwamba ulemwa mpela welewo\nmkanigaichikwe. Nambo soni akasapochela chilango chachikulungwa kupunda chiwawajilwe kuchipochela\npakatema kiwalemwise atamuno malamusi galigasindile."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "c9d8be78674c9bea1c212b2df28dc760",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Mtwe 12.\nMundu akole ufulu wakutama mwangasokonesyekwa pewasa lyakwe ni panyumba jakwe. Ikalata yakwe\nsoni ikasiiunguligwa ni wandu wane. Mundu amsunjile uchimbichimbi wakwe ndawi syosope, m'yoyo\nmundu atetelekwe ni malamusi kuti yindu yeleyi ikasiyitendekwaga.\nMtwe 13.\nMundu jwalijose akwete ufulu wakwendajenda nambo soni kutama mchilambo chilchose.\nMundu jwalijose akwete ufulu wakutyoka mchilambo chilichose, atamuno chakumangwakwe, nambo soni\nkuujila kumangwakweko.\nMtwe 14.\nMundu jwalijose akwete ufulu wakutilila kuchilambo chilichose naga kumangwakweko kulikwana ipwetesi.\nWele ufulwu ngawamkutyosyekwa pa mundu atamuno ipwetesi yakutila kumangwakweo im'wichile ligongo\nlya ulemwa pa yindu yangawa yandale kapena soni ulemwa wakuti ni wa United Nations whose akuwuwona\nkuti uli ulemwa usyesyene.\nMtwe 15.\nMundu jwalijose akwete ufulu wakuwa jwa mchilambo chilichonse (Mbadwa)\nMundu akasalepelekasikwa kuwa jwamchilambo chilichose, nambo soni kusama kuchilambo\nchakumangwakwecho kuja kutama kuchilambo chine naga ali asachile kuti ajile m'yoyo.\nMtwe 16.\nMundu jwamlume ni jwamkongwe wayikene pamsingu wakulombela, alombane mwangalola mutundu,\nmpingo kapena chilambo chakutyochela. Akulombanawo akwete maufulu gakulandana pewasopo nambo",
-            "Image": "c9d8be78674c9bea1c212b2df28dc760"
+            "Text": "Mtwe 12.\nMundu akole ufulu wakutama mwangasokonesyekwa pewasa lyakwe ni panyumba jakwe. Ikalata yakwe\nsoni ikasiiunguligwa ni wandu wane. Mundu amsunjile uchimbichimbi wakwe ndawi syosope, m'yoyo\nmundu atetelekwe ni malamusi kuti yindu yeleyi ikasiyitendekwaga.\nMtwe 13.\nMundu jwalijose akwete ufulu wakwendajenda nambo soni kutama mchilambo chilchose.\nMundu jwalijose akwete ufulu wakutyoka mchilambo chilichose, atamuno chakumangwakwe, nambo soni\nkuujila kumangwakweko.\nMtwe 14.\nMundu jwalijose akwete ufulu wakutilila kuchilambo chilichose naga kumangwakweko kulikwana ipwetesi.\nWele ufulwu ngawamkutyosyekwa pa mundu atamuno ipwetesi yakutila kumangwakweo im'wichile ligongo\nlya ulemwa pa yindu yangawa yandale kapena soni ulemwa wakuti ni wa United Nations whose akuwuwona\nkuti uli ulemwa usyesyene.\nMtwe 15.\nMundu jwalijose akwete ufulu wakuwa jwa mchilambo chilichonse (Mbadwa)\nMundu akasalepelekasikwa kuwa jwamchilambo chilichose, nambo soni kusama kuchilambo\nchakumangwakwecho kuja kutama kuchilambo chine naga ali asachile kuti ajile m'yoyo.\nMtwe 16.\nMundu jwamlume ni jwamkongwe wayikene pamsingu wakulombela, alombane mwangalola mutundu,\nmpingo kapena chilambo chakutyochela. Akulombanawo akwete maufulu gakulandana pewasopo nambo"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "ad76dd4a6bbcb8d439ca64d11949df20",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "soni pakumala pa liwasalyo.\nWandu alombane mwangachiliswa akulombanawo aliajitichisye kuti ulombelawo akuusaka.\nLiwasa lili ndandililo ja mundu wa wandu, m'yoyo lipocheleje uchimbichimbi ni wandu wosope nambo soni\nboma.\nMtwe 17.\nMundu jwalijose akwete ufulu wakola chipanje mwajika kapena, mwakamulana ni wandu wane.\nMundu akasasumulikwa chipanje chakwe.\nMtwe 18.\nMundu jwalijose akwete ufulu waganisya mwakusachila ni kuwa jwampingo uliwose. Mundu soni akwete\nufulu wakusinda chikulpi chakwe nambo soni mpingo wake. Mundu akwete soni ufulu wakwajiganya wandu\nwane mwajika kapena ni achimjakwe yindu yakwayana ndi chikulupi chakwe kapena mpingo wakwe, kwisa\nsoni kutenda yindu yaliyonse yakwayana nichikulupi chakwecho.\nMtwe 19.\nMundu jwalijose akwete ufulu wakola nganisyo syakwesyakwe kwisa soni ufulu wakuwecheta. Mundu\nakasasokonesyekwa nganisyo syakwe, akole ufulu wakusosasosa ngani ni nganisyo sya wandu wane,\nkusipikana, nambosoni kusisala kwa wandu wane pa wayilesi, m'yikalata ni matala gane mwangalola malile\nga yilambo.\nMtwe 20.\nMundu jwalijose akwete ufulu wakusongana ni achimjakwe mwamtendere nambo soni kwinjira iwanja\nyakulekanganaleangana.",
-            "Image": "ad76dd4a6bbcb8d439ca64d11949df20"
+            "Text": "soni pakumala pa liwasalyo.\nWandu alombane mwangachiliswa akulombanawo aliajitichisye kuti ulombelawo akuusaka.\nLiwasa lili ndandililo ja mundu wa wandu, m'yoyo lipocheleje uchimbichimbi ni wandu wosope nambo soni\nboma.\nMtwe 17.\nMundu jwalijose akwete ufulu wakola chipanje mwajika kapena, mwakamulana ni wandu wane.\nMundu akasasumulikwa chipanje chakwe.\nMtwe 18.\nMundu jwalijose akwete ufulu waganisya mwakusachila ni kuwa jwampingo uliwose. Mundu soni akwete\nufulu wakusinda chikulpi chakwe nambo soni mpingo wake. Mundu akwete soni ufulu wakwajiganya wandu\nwane mwajika kapena ni achimjakwe yindu yakwayana ndi chikulupi chakwe kapena mpingo wakwe, kwisa\nsoni kutenda yindu yaliyonse yakwayana nichikulupi chakwecho.\nMtwe 19.\nMundu jwalijose akwete ufulu wakola nganisyo syakwesyakwe kwisa soni ufulu wakuwecheta. Mundu\nakasasokonesyekwa nganisyo syakwe, akole ufulu wakusosasosa ngani ni nganisyo sya wandu wane,\nkusipikana, nambosoni kusisala kwa wandu wane pa wayilesi, m'yikalata ni matala gane mwangalola malile\nga yilambo.\nMtwe 20.\nMundu jwalijose akwete ufulu wakusongana ni achimjakwe mwamtendere nambo soni kwinjira iwanja\nyakulekanganaleangana."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "50899ec2e9884542c0ebd1a4c2109334",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Mundu akasachisikwa kwinjila mchiwanja chine chilichonse.\nMtwe 21.\nMundu jwalijose akwete ufulu wakwendetsa nawo boma ja chilambo chakumangwakwe, mwanjika kapena\nkupitila mwawandu wane wakusagulikwa pa chisajula.\nMundu jwalijose akwete ufulu wakutumichilikwa ni boma ja mchilambo chakumangwakwe.\nBoma jilamule chilambo naga wandu ali ajijitichisye kuti jijile m'yoyo kupitila mchisagula chakulumbana.\nMtwe 22.\nMundu jwalijose apegwe upile wakuti apate yindu yosope yakum'wajila pa umi wakwe. Boma pampene ni\nmaboma ga ilambo yine, itende yindu yosope yakuti yimtolele mundu ufulu pa yambiya, pa misyungu ja\nmtundu wa mundujo yiyili yakusosekwa mnope kuti mundu akole uchimbichimbi wakwanila nambo soni\nkuti akule chene\nMtwe 23.\nMundu jwalijose akwete ufulu wakamula masego ufulu wakusagula masengo, wakumlemba masengo\nmundujo, amkamulisye masengogo mwachilungamo. Mundo akwete soni ufulu wakutetelekwa kuti akasawa\npa ulova.\nMundu jwalijose, mwangalola ngope apochele malipilo gakulandana ni achimjakwe naga ali akamwile\nmasengo gakulandana.\nMundu jwalijose jwakukamula masengo apocheleje mbiya syakuti simkwanileje jwalakwe ni liwasa lyakwe\nchindu chachili chakumpa mundu uchimbichimbi. Nambo naga mbiyasyo ngasikukwana boma jimpeje\nmbiya sine pa chanya pa syakupochelasyo.",
-            "Image": "50899ec2e9884542c0ebd1a4c2109334"
+            "Text": "Mundu akasachisikwa kwinjila mchiwanja chine chilichonse.\nMtwe 21.\nMundu jwalijose akwete ufulu wakwendetsa nawo boma ja chilambo chakumangwakwe, mwanjika kapena\nkupitila mwawandu wane wakusagulikwa pa chisajula.\nMundu jwalijose akwete ufulu wakutumichilikwa ni boma ja mchilambo chakumangwakwe.\nBoma jilamule chilambo naga wandu ali ajijitichisye kuti jijile m'yoyo kupitila mchisagula chakulumbana.\nMtwe 22.\nMundu jwalijose apegwe upile wakuti apate yindu yosope yakum'wajila pa umi wakwe. Boma pampene ni\nmaboma ga ilambo yine, itende yindu yosope yakuti yimtolele mundu ufulu pa yambiya, pa misyungu ja\nmtundu wa mundujo yiyili yakusosekwa mnope kuti mundu akole uchimbichimbi wakwanila nambo soni\nkuti akule chene\nMtwe 23.\nMundu jwalijose akwete ufulu wakamula masego ufulu wakusagula masengo, wakumlemba masengo\nmundujo, amkamulisye masengogo mwachilungamo. Mundo akwete soni ufulu wakutetelekwa kuti akasawa\npa ulova.\nMundu jwalijose, mwangalola ngope apochele malipilo gakulandana ni achimjakwe naga ali akamwile\nmasengo gakulandana.\nMundu jwalijose jwakukamula masengo apocheleje mbiya syakuti simkwanileje jwalakwe ni liwasa lyakwe\nchindu chachili chakumpa mundu uchimbichimbi. Nambo naga mbiyasyo ngasikukwana boma jimpeje\nmbiya sine pa chanya pa syakupochelasyo."
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "1a4ed78d49ba3a5805512b1ce8bcdb55",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Mundu jwalijose akwete ufulu wakupanganya kapena kwinjila bungwe ja wandu wakamula masengo.\nMtwe 24.\nMundu akwete ufulu wakupumula nambo soni ng'anda. Mundujo soni, akasakamuliskwa masengo ndawi\njajilewu mnope. Akoleje soni ndawi jakupumula jajilewu (Holiday), mundawi jeleji mundujo apocheleje soni\nmalipilo.\nMtwe 25.\nMundu jwalijose akwete ufulu wakutama umi wambone wangalwalalwala kwajwalakwejo nambo soni\nliwasa lyakwe pa kola yakulya, yakuwala, mtela ni yindu yine yakamuchisya pa umi wakwe. Mundujo soni\nakole yindu yakwanila kuti tiyimkamichisye naga masengo gali gammalile, kapena ali alwasile, ali alemele,\nali akalambele, mwine soni ali awililwe.\nUchembele ni uwanache ipochele chikamuchisyo chakwanila. Wanache wosope, wakupagwila mwiwasa\nkapena iyayi, awonekwe mpela wandu wakulandana.\nMtwe 26.\nMundu jwalijose akwete ufulu wakulijinganya. Sukulu siwesyalulele makamaka mmakalasi gaganondi.\nWanache achisikwe kuti alijiganye mmakalasi gamanondiga. Wandu akole upile wakwinjila mmuasukulu\ngakwiganya masengo. Masukulu gane mpela Univesite, wakupambanapewo ni wakuwajilwa kwinjila.\nSukulu jimkamuchisyeje mundu kuti akule ni misyungu jambone mipingo. Sukulu jikamuchisye soni pa\nmasengo ga United Nations gakutamilsya mtendele pa chilambo shesope chapasi.\nAchinangolo akwete ufulu wakwasagulila wanache wawo mtundu wa sukulu jakusaka kuti wanache\nwawewo akalinjiganye.",
-            "Image": "1a4ed78d49ba3a5805512b1ce8bcdb55"
+            "Text": "Mundu jwalijose akwete ufulu wakupanganya kapena kwinjila bungwe ja wandu wakamula masengo.\nMtwe 24.\nMundu akwete ufulu wakupumula nambo soni ng'anda. Mundujo soni, akasakamuliskwa masengo ndawi\njajilewu mnope. Akoleje soni ndawi jakupumula jajilewu (Holiday), mundawi jeleji mundujo apocheleje soni\nmalipilo.\nMtwe 25.\nMundu jwalijose akwete ufulu wakutama umi wambone wangalwalalwala kwajwalakwejo nambo soni\nliwasa lyakwe pa kola yakulya, yakuwala, mtela ni yindu yine yakamuchisya pa umi wakwe. Mundujo soni\nakole yindu yakwanila kuti tiyimkamichisye naga masengo gali gammalile, kapena ali alwasile, ali alemele,\nali akalambele, mwine soni ali awililwe.\nUchembele ni uwanache ipochele chikamuchisyo chakwanila. Wanache wosope, wakupagwila mwiwasa\nkapena iyayi, awonekwe mpela wandu wakulandana.\nMtwe 26.\nMundu jwalijose akwete ufulu wakulijinganya. Sukulu siwesyalulele makamaka mmakalasi gaganondi.\nWanache achisikwe kuti alijiganye mmakalasi gamanondiga. Wandu akole upile wakwinjila mmuasukulu\ngakwiganya masengo. Masukulu gane mpela Univesite, wakupambanapewo ni wakuwajilwa kwinjila.\nSukulu jimkamuchisyeje mundu kuti akule ni misyungu jambone mipingo. Sukulu jikamuchisye soni pa\nmasengo ga United Nations gakutamilsya mtendele pa chilambo shesope chapasi.\nAchinangolo akwete ufulu wakwasagulila wanache wawo mtundu wa sukulu jakusaka kuti wanache\nwawewo akalinjiganye."
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "b9cd9b5f233d1805573abef478d0e1d3",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Mtwe 27.\nMundu jwalijose akwete ufulu wakutenda nawo yindu yakumtundu kwake, kutenda nawo mang'asi,\nyakwambula niyakusepasepa ni yindu yine nambo soni kupata nawo chikamuchisyo chilichonse chakopoka\nmu yinduyo.\nYindu iliyonse yapatile mundu kutyochela mmang'asi, yakwambula yakulembalemba, yakusepasepa, yili\nyakwe. Boma jimpe mundu chitetezo pa yindu yeleyi ligongo yikopweche mulanda lwakwe.\nMtwe 28.\nMundu jwalijose akwete ufulu wakutama mchilambo mwamtendele kuti akomboleche kuwa ni maufulu\ngagali mumkamulano awu.\nMtwe 29.\nMundu akwenela kuchitendela chilambo chakwe yindu yine ni yine. Yinduyi iwe iyoyo yiyili\nyangamlepelekasya mundujo kula ni kola nganisyo ni maufulu gakwe gakwanila chenene.\nMaufulu ga wandu gakole malile mmalamusi ga chilambo kuti ufulu wajwine ukasiusokonesya ufulu\nwamjakwe nambo soni kuti ikamuchisye kusunga misyungu ni mtendele mchilambomo.\nMaufulu gelega gakasigakamulisikwa masengo mwakutindana ni malamusi ga chiwanja cha United Nations.\nMtwe 30.\nMkamulunano awu ngaukupeleka ufulu kwa chilambo chine chilichose, likuga, kapena mundu jwalijose\nwakutenda chindu chine chilichose chimpaka chayochesye wandu maufulu gawo gagali mumkamulanowu.",
-            "Image": "b9cd9b5f233d1805573abef478d0e1d3"
+            "Text": "Mtwe 27.\nMundu jwalijose akwete ufulu wakutenda nawo yindu yakumtundu kwake, kutenda nawo mang'asi,\nyakwambula niyakusepasepa ni yindu yine nambo soni kupata nawo chikamuchisyo chilichonse chakopoka\nmu yinduyo.\nYindu iliyonse yapatile mundu kutyochela mmang'asi, yakwambula yakulembalemba, yakusepasepa, yili\nyakwe. Boma jimpe mundu chitetezo pa yindu yeleyi ligongo yikopweche mulanda lwakwe.\nMtwe 28.\nMundu jwalijose akwete ufulu wakutama mchilambo mwamtendele kuti akomboleche kuwa ni maufulu\ngagali mumkamulano awu.\nMtwe 29.\nMundu akwenela kuchitendela chilambo chakwe yindu yine ni yine. Yinduyi iwe iyoyo yiyili\nyangamlepelekasya mundujo kula ni kola nganisyo ni maufulu gakwe gakwanila chenene.\nMaufulu ga wandu gakole malile mmalamusi ga chilambo kuti ufulu wajwine ukasiusokonesya ufulu\nwamjakwe nambo soni kuti ikamuchisye kusunga misyungu ni mtendele mchilambomo.\nMaufulu gelega gakasigakamulisikwa masengo mwakutindana ni malamusi ga chiwanja cha United Nations.\nMtwe 30.\nMkamulunano awu ngaukupeleka ufulu kwa chilambo chine chilichose, likuga, kapena mundu jwalijose\nwakutenda chindu chine chilichose chimpaka chayochesye wandu maufulu gawo gagali mumkamulanowu."
         }
     }
 }

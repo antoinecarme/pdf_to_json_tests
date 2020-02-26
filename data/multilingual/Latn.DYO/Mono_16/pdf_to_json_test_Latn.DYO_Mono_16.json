@@ -1,80 +1,80 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581467781,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "faf2bc22569e9b506bae507fdcabff32",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "FAJUUMENUMI SIDRUWAAS SATI ANAU\nWANDOMI :\nYíneni aat mati faŋaaf fati anau di sidruwaas soola, san umaje sirere di\nsaasu ban poop sisofut di uceen soo silakom fujuumaf fati di malegenam,\ndi kairaay di dúniaay búrom ;\nYíneni jaat anau nasonsoŋ mati kàmanjaataak di eñoosey sidruwaas sati\nanau soo siŋarulomi màkojiam, ban malegen munkul mujawulojaw di dúniaay\nman Anoosan muŋooleŋoolen usanken man súumimi nusof man súumimi, nupak\ndi màkooleniam di bugaalab ;\nYíneni jaat mati sensen man aakemmi mofam apooy sidruwaas sati anau,\ntakumŋarul anau tuuñool eri manakaan wajakut ;\nYíneni jaat mati kàliŋen bapaalaay bati sísukas jajak;\nYíneni jaat di kabaatak kati dúniaay búrom, bukanak kulanlaañ kúyiisen\nmankusofumi sidruwaas sati anau di faŋaaf fati anau di malegenaam mati\nanan di kare'enak búrom aniine di aseek ban poop kujunjuum burok man\nmati anau mujaw fáculey;\nYíneni jaat mati sísukas sàndomi soo di \"Organisation des Nations Unies\"\nsijunjuum ejuum yati sidruwaas sati anau di dúniaay búrom sikaani.\nYíneni jaat mati sidruwaas sati anau kankaan waaf wáamak wáriiŋe ejuum\nman wasankeniñaa ukaani.\nAsambule Seneraal\nEsosof mati furimaf ufe fujuumenumi sidruwaas sati anau kankaamn waaf\nwajake máamak bee bukanak búrom di sísukas búrom. Moo kaane jajak man\nbukanak di síkafaas kujuum mankuliŋenufo di kúyiisenufo kuñiilak\nñatimkaraŋ mukaanaam moomu búrom eñesey maapi kaanimi man dúniaay búrom\néyinen di ekaan siluwaas soosu nen mansiregumi eeno.\nFujuum 1\nBukanak búrom nan kuwolimi kurere kererer di waafaw búrom. Kubabaj poop\nbúyejet di karampenoor.\nFujuum 2\nAnoosan nababaj sidruwaas soosu búrom; bajut aseek bajut ániine, bajut\nan ati kansanken kúbúto, bajut an ati kapongol kúbuto, bajut paarti\nébuto, bajut an abaji di muceen benen bajut ró kápajul kuceen kati\npó1itik kati luwa mba kati ésuk, yabaje faŋaaf fooliyo mba ebajut.\nFujuum 3\nAnoosan nababaj druwa ebaj fuyiifaf foola, ebaj kapooy kati faŋaaf fool\na di kaano nen man amaŋumi eeno.\nFujuum 4",
-            "Image": "faf2bc22569e9b506bae507fdcabff32"
+            "Text": "FAJUUMENUMI SIDRUWAAS SATI ANAU\nWANDOMI :\nYíneni aat mati faŋaaf fati anau di sidruwaas soola, san umaje sirere di\nsaasu ban poop sisofut di uceen soo silakom fujuumaf fati di malegenam,\ndi kairaay di dúniaay búrom ;\nYíneni jaat anau nasonsoŋ mati kàmanjaataak di eñoosey sidruwaas sati\nanau soo siŋarulomi màkojiam, ban malegen munkul mujawulojaw di dúniaay\nman Anoosan muŋooleŋoolen usanken man súumimi nusof man súumimi, nupak\ndi màkooleniam di bugaalab ;\nYíneni jaat mati sensen man aakemmi mofam apooy sidruwaas sati anau,\ntakumŋarul anau tuuñool eri manakaan wajakut ;\nYíneni jaat mati kàliŋen bapaalaay bati sísukas jajak;\nYíneni jaat di kabaatak kati dúniaay búrom, bukanak kulanlaañ kúyiisen\nmankusofumi sidruwaas sati anau di faŋaaf fati anau di malegenaam mati\nanan di kare'enak búrom aniine di aseek ban poop kujunjuum burok man\nmati anau mujaw fáculey;\nYíneni jaat mati sísukas sàndomi soo di \"Organisation des Nations Unies\"\nsijunjuum ejuum yati sidruwaas sati anau di dúniaay búrom sikaani.\nYíneni jaat mati sidruwaas sati anau kankaan waaf wáamak wáriiŋe ejuum\nman wasankeniñaa ukaani.\nAsambule Seneraal\nEsosof mati furimaf ufe fujuumenumi sidruwaas sati anau kankaamn waaf\nwajake máamak bee bukanak búrom di sísukas búrom. Moo kaane jajak man\nbukanak di síkafaas kujuum mankuliŋenufo di kúyiisenufo kuñiilak\nñatimkaraŋ mukaanaam moomu búrom eñesey maapi kaanimi man dúniaay búrom\néyinen di ekaan siluwaas soosu nen mansiregumi eeno.\nFujuum 1\nBukanak búrom nan kuwolimi kurere kererer di waafaw búrom. Kubabaj poop\nbúyejet di karampenoor.\nFujuum 2\nAnoosan nababaj sidruwaas soosu búrom; bajut aseek bajut ániine, bajut\nan ati kansanken kúbúto, bajut an ati kapongol kúbuto, bajut paarti\nébuto, bajut an abaji di muceen benen bajut ró kápajul kuceen kati\npó1itik kati luwa mba kati ésuk, yabaje faŋaaf fooliyo mba ebajut.\nFujuum 3\nAnoosan nababaj druwa ebaj fuyiifaf foola, ebaj kapooy kati faŋaaf fool\na di kaano nen man amaŋumi eeno.\nFujuum 4"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "6be4ed6a21726fc00eaaa56f950689ae",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "An letalako amiikeel ati akeen, letarok bee akeen; ban poop miikeliyaay\ndi kanoomen kati kumiikeel fírenifiren.\nFujuum 5\nBajut katoorandiŋ an; an létassuutukeni.\nFujuum 6\nAnoosan oomu di druwaay yoola banooban ban ammi.\nFujuum 7\nLuwaay ere'en re'en bukanak búrom anoosan nababaj kapooyak kákonak kati\nluwaay. Anoosan nababaj kapooy mba mukaanaay máluse furimaf ufe.\nFujuum 8\nAnoosan nuŋooleŋoolen ulamandi furim mba mukaanaay máluse sidruwaas\nsoosuña san umanjumi luwaay eseneso.\nFujuum 9\nAn letuŋoolen ulaaf an manusofool, nukulool mba nukesoorool.\nFujuum 10\nAnoosan nubabaj druwa káyiisen di bantabaay wabajimi tiribinaal yan\numanje elaañut di anoosani yooyu eje'em bee efeley.\nFujuum 11\nLuwaay yoone an anoosan kurege oo akaane mátaañiye kulaafoolaaf bee\nfunakaf fati kíitiyey yíiseni jaat wakaanumi mankoone akila akaane oo\nbabajerab kujuumak koola.\nAn leekukulool mati waaf wan umanje nan ukaanumi ulakout wátaañiye di\nluwaay di poop an letakaanool saariyoŋ yawuuje yawarin ekaani.\nFujuum 12\nAn uwarut unoken di mukaanaam mati an, síndaay yati an, mba tan tati an\nmba nuyenten faŋaaf foola mba nukajen kajamaak koola. Luwaay epoopooy\nanau di waafaw búirom.\nFujuum 13\nAn anoosan nababaj druwa ejaw ban súumoomi di ekin ban súumoomi di\nésukey yoola.\nAnoosan nababaj druwa épur mof haani moola di elaañul nan súumool.\nFujuum 14\nNan táañimi anoosan nuŋoolene ujaw úgongoto do mof múbuto.\nLetuŋoolen ubaj kágongoto kukila lako jaat nububuj an.",
-            "Image": "6be4ed6a21726fc00eaaa56f950689ae"
+            "Text": "An letalako amiikeel ati akeen, letarok bee akeen; ban poop miikeliyaay\ndi kanoomen kati kumiikeel fírenifiren.\nFujuum 5\nBajut katoorandiŋ an; an létassuutukeni.\nFujuum 6\nAnoosan oomu di druwaay yoola banooban ban ammi.\nFujuum 7\nLuwaay ere'en re'en bukanak búrom anoosan nababaj kapooyak kákonak kati\nluwaay. Anoosan nababaj kapooy mba mukaanaay máluse furimaf ufe.\nFujuum 8\nAnoosan nuŋooleŋoolen ulamandi furim mba mukaanaay máluse sidruwaas\nsoosuña san umanjumi luwaay eseneso.\nFujuum 9\nAn letuŋoolen ulaaf an manusofool, nukulool mba nukesoorool.\nFujuum 10\nAnoosan nubabaj druwa káyiisen di bantabaay wabajimi tiribinaal yan\numanje elaañut di anoosani yooyu eje'em bee efeley.\nFujuum 11\nLuwaay yoone an anoosan kurege oo akaane mátaañiye kulaafoolaaf bee\nfunakaf fati kíitiyey yíiseni jaat wakaanumi mankoone akila akaane oo\nbabajerab kujuumak koola.\nAn leekukulool mati waaf wan umanje nan ukaanumi ulakout wátaañiye di\nluwaay di poop an letakaanool saariyoŋ yawuuje yawarin ekaani.\nFujuum 12\nAn uwarut unoken di mukaanaam mati an, síndaay yati an, mba tan tati an\nmba nuyenten faŋaaf foola mba nukajen kajamaak koola. Luwaay epoopooy\nanau di waafaw búirom.\nFujuum 13\nAn anoosan nababaj druwa ejaw ban súumoomi di ekin ban súumoomi di\nésukey yoola.\nAnoosan nababaj druwa épur mof haani moola di elaañul nan súumool.\nFujuum 14\nNan táañimi anoosan nuŋoolene ujaw úgongoto do mof múbuto.\nLetuŋoolen ubaj kágongoto kukila lako jaat nububuj an."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "a76d9429ae71cc1a7d7c8cdb984ede35",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Fujuum 15\nAnoosan nubabaj druwa ebaj mof miiya.\nAn letaŋoolen áfiren an mée ebaj mof moola mba épur di moo.\nFujuum 16\nAkambaani di ajaŋa káriiŋe búyebo Kuŋooleŋoolen kuyaboor mankubaj kuñiil\nbápajuloorut sisiiw mba sísuk mba buŋarab. Kurere di kayaboorak di\nbúyebaab di ebaney yoolibo.\nBúyebaab mambukaan, kuyabooraak kujamoor.\nBukanak kakinum di kaakemmi mofam kuwawar kupooy fiilaf falakomi\nfufaaraf fati kalakaak.\nFujuum 17\nAnoosan, nababaj druwa ebaj waaf woola fúko'ol mba wan kunampoore di\nkupaalool.\nAn letuŋoolen ubot fubaj fati ata fo di mée.\nFujuum 18\nAnoosan wuniwun, manubaj kawonoor kiiya, ejuk yiiya di buŋar biiya,\nsúumi jaat nuŋoolene úruuŋ mba núje'etum buŋarab biiya tíyaŋaraay nen\nman bucceŋum eeno.\nFujuum 19\nAnoosan nababaj druwa, ebaj kawonoor kiiya di káyiisen ko nen manumaŋumi\neeno. Yoo elakomi an awarut ajaakali ebaj siwonoor soola. Naŋooleŋoolen\nayab kurim mba siwonoor san aŋoolene afasiken dóo ésukool mba tíyaŋ.\nFujuum 20\nDruwaas ewuwun anoosani manajuumen kámit mba káfa yati kásuumaay.\nAn letuŋoolen unoken an di káfa yanamaŋut.\nFujuum 21\nAnoosan nuŋooleŋoolen ulako di fujuum fati mukaanaam mati mofam miiya\nmba nubaj kan úfojule kaje'e beet ejuumi.\nAnoosan nuŋooleŋoolen ubaj fujuum di mukaanaam mati mofam miiya.\nKamaŋak kati bukanak koo kukiimi sembaay yati kaakemmi mofam. Kamaŋak\nkukila woteey éyiisenemi ko. Moo kaane woteey ekila ewawar ebaj waati di\nwaati.\nFujuum 22\nAnoosan tan ukinumi sensen manubajuto kayeraay yoola. Kayeraay yooyuña\néjowumulojowum di sidruwaas sati fubajaf di sati tan akinumi di sati",
-            "Image": "a76d9429ae71cc1a7d7c8cdb984ede35"
+            "Text": "Fujuum 15\nAnoosan nubabaj druwa ebaj mof miiya.\nAn letaŋoolen áfiren an mée ebaj mof moola mba épur di moo.\nFujuum 16\nAkambaani di ajaŋa káriiŋe búyebo Kuŋooleŋoolen kuyaboor mankubaj kuñiil\nbápajuloorut sisiiw mba sísuk mba buŋarab. Kurere di kayaboorak di\nbúyebaab di ebaney yoolibo.\nBúyebaab mambukaan, kuyabooraak kujamoor.\nBukanak kakinum di kaakemmi mofam kuwawar kupooy fiilaf falakomi\nfufaaraf fati kalakaak.\nFujuum 17\nAnoosan, nababaj druwa ebaj waaf woola fúko'ol mba wan kunampoore di\nkupaalool.\nAn letuŋoolen ubot fubaj fati ata fo di mée.\nFujuum 18\nAnoosan wuniwun, manubaj kawonoor kiiya, ejuk yiiya di buŋar biiya,\nsúumi jaat nuŋoolene úruuŋ mba núje'etum buŋarab biiya tíyaŋaraay nen\nman bucceŋum eeno.\nFujuum 19\nAnoosan nababaj druwa, ebaj kawonoor kiiya di káyiisen ko nen manumaŋumi\neeno. Yoo elakomi an awarut ajaakali ebaj siwonoor soola. Naŋooleŋoolen\nayab kurim mba siwonoor san aŋoolene afasiken dóo ésukool mba tíyaŋ.\nFujuum 20\nDruwaas ewuwun anoosani manajuumen kámit mba káfa yati kásuumaay.\nAn letuŋoolen unoken an di káfa yanamaŋut.\nFujuum 21\nAnoosan nuŋooleŋoolen ulako di fujuum fati mukaanaam mati mofam miiya\nmba nubaj kan úfojule kaje'e beet ejuumi.\nAnoosan nuŋooleŋoolen ubaj fujuum di mukaanaam mati mofam miiya.\nKamaŋak kati bukanak koo kukiimi sembaay yati kaakemmi mofam. Kamaŋak\nkukila woteey éyiisenemi ko. Moo kaane woteey ekila ewawar ebaj waati di\nwaati.\nFujuum 22\nAnoosan tan ukinumi sensen manubajuto kayeraay yoola. Kayeraay yooyuña\néjowumulojowum di sidruwaas sati fubajaf di sati tan akinumi di sati"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "0f00683b60fb0be655b42795e06172d5",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "mukaanaam moola. Kayeraay yooyu an aŋoolent ábajaatiyo; moo kaane ésukoo\nésuk enampoonampoor di sísuk saasu man kayeraay yooyu ekila ebajo.\nFujuum 23\nAnoosan nababaj druwa ebaj burok básuumoo.\nBajut aseek bajut ániine anoosan aroke burok nababaj druwa mankucaamool\nbacaam bare'e nan burokab banakaanumi.\nAnoosan ammi di burok kuwawar kucaamool yaj manaŋoolen acookoor síndaay\nyoola, naŋoolen abaj kayere di faŋaaf foola.\nAnoosan nababaj druwa kajuumen fujum fati kurokaak, naŋooleŋoolen en\npoop ánokendo mankumak aajaay.\nFujuum 24\nAnoosan nababaj druwa ebaj kunak kati kayoolo, kati fúraar. Waatay yati\nburokab ewawar erewoor ban di ebaj waati yati kayoolo ban pankucaam\nbukanak.\nFujuum 25\nAnoosan nababaj druwa wákoyume bee akila, bukanak koola, furiaf wañaw di\ntan akinumi wawar jak. An másuumaati mubaje nen kásumut nen an ataool\nájime mba an eluupool efumoe. Bukanak kuwawar kurampenool.\nMudeenanaam di kuñiilak kuwawar kubaj kákaanum di karampen káamak.\nKuñiilak búrom \"Kabaji di kayaboore mba kayaboorut\" kure'e. Koo búrom\nkuwawar kubaj kacookoor kajake.\nFujuum 26\nAnoosan nababaj druwa kakaraŋ an awarut acaam kakaraŋ. Añiil nawawar\nakaraŋ bacaamut waafowaaf kakaraŋ kati siteginikas di kati burok kuwawar\nkúkambuli di bukanak búrom. Silekoolas sáamakas poop bajut káfajul.\nNafaay yati kakaraŋak yoo eenom majakaam mati anau di faŋaaf foola.\nKakaraŋ kujunjuum fujuum fati epooy sidruwaas sati anau; yoo yákoney\nebenenbenen bapaalaab di mof majuupoe di tutooraay yati mof majuupoe di\nsisiiw sajuupoe di bukan kanaamut di uŋar di wanoosan wakaanimi man\nkayeraay elako di dúniaay.\nKubajaak kati kuñiilak koo koote kanoken kuñooliil di kakaranŋ kan koo\nkumanŋumi.\nFujuum 27\nAnoosan nababaj druwa ekaan mukaanaam mati bukanool, nañes mammujaw\nfàcul mammunafaool.\nAnoosan ajoonene waaf mba naciik waaf, luwaay ewawar eppooyuwo.\nFujuum 28\nAnoosan nababaj druwa man majoone mulako di mofool di dúniaay maje'e bee",
-            "Image": "0f00683b60fb0be655b42795e06172d5"
+            "Text": "mukaanaam moola. Kayeraay yooyu an aŋoolent ábajaatiyo; moo kaane ésukoo\nésuk enampoonampoor di sísuk saasu man kayeraay yooyu ekila ebajo.\nFujuum 23\nAnoosan nababaj druwa ebaj burok básuumoo.\nBajut aseek bajut ániine anoosan aroke burok nababaj druwa mankucaamool\nbacaam bare'e nan burokab banakaanumi.\nAnoosan ammi di burok kuwawar kucaamool yaj manaŋoolen acookoor síndaay\nyoola, naŋoolen abaj kayere di faŋaaf foola.\nAnoosan nababaj druwa kajuumen fujum fati kurokaak, naŋooleŋoolen en\npoop ánokendo mankumak aajaay.\nFujuum 24\nAnoosan nababaj druwa ebaj kunak kati kayoolo, kati fúraar. Waatay yati\nburokab ewawar erewoor ban di ebaj waati yati kayoolo ban pankucaam\nbukanak.\nFujuum 25\nAnoosan nababaj druwa wákoyume bee akila, bukanak koola, furiaf wañaw di\ntan akinumi wawar jak. An másuumaati mubaje nen kásumut nen an ataool\nájime mba an eluupool efumoe. Bukanak kuwawar kurampenool.\nMudeenanaam di kuñiilak kuwawar kubaj kákaanum di karampen káamak.\nKuñiilak búrom \"Kabaji di kayaboore mba kayaboorut\" kure'e. Koo búrom\nkuwawar kubaj kacookoor kajake.\nFujuum 26\nAnoosan nababaj druwa kakaraŋ an awarut acaam kakaraŋ. Añiil nawawar\nakaraŋ bacaamut waafowaaf kakaraŋ kati siteginikas di kati burok kuwawar\nkúkambuli di bukanak búrom. Silekoolas sáamakas poop bajut káfajul.\nNafaay yati kakaraŋak yoo eenom majakaam mati anau di faŋaaf foola.\nKakaraŋ kujunjuum fujuum fati epooy sidruwaas sati anau; yoo yákoney\nebenenbenen bapaalaab di mof majuupoe di tutooraay yati mof majuupoe di\nsisiiw sajuupoe di bukan kanaamut di uŋar di wanoosan wakaanimi man\nkayeraay elako di dúniaay.\nKubajaak kati kuñiilak koo koote kanoken kuñooliil di kakaranŋ kan koo\nkumanŋumi.\nFujuum 27\nAnoosan nababaj druwa ekaan mukaanaam mati bukanool, nañes mammujaw\nfàcul mammunafaool.\nAnoosan ajoonene waaf mba naciik waaf, luwaay ewawar eppooyuwo.\nFujuum 28\nAnoosan nababaj druwa man majoone mulako di mofool di dúniaay maje'e bee"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "888cd1bd420c01979aad09fdaf773b0a",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "ekaan man siluwaas sammi di kaytak uke siŋoolen sirok jak.\nFujuum 29\nAnoosan nawawar anafa kan kukinoorumi, bukoo keb kuŋoolene kurampenool\nman moola mujaw fácul.\nMan kakinoorak kúsuum, babaj luwa yajuumeni mati mati manemat sidruwaas\nsoola di mukaanaam mati bukanak an anoosani sidruwaas soola di majakaam\nmoola murelore tan maamu mati aamu mutooŋumi.\nSidruwaas di siluwaas san ujukulaaña siwarut sípur di wan sísukas sati\n“Nations Unies” sisofumi.\nFujuum 30\nWaaf úleero di kayitak uke wan umanje an mba bukan mba mof muŋooleŋoolen\nmújowum to mammukajen sidruwaas di siluwaas sándomi kayitak asambule\nseneraal yati óni éyinenyinenuko eban di épurenuko di burokab booliyo n°\n217 (III) bati fuleeŋafu fati desambuur nan fubajumi kunak uñen di\nemitey 1948.",
-            "Image": "888cd1bd420c01979aad09fdaf773b0a"
+            "Text": "ekaan man siluwaas sammi di kaytak uke siŋoolen sirok jak.\nFujuum 29\nAnoosan nawawar anafa kan kukinoorumi, bukoo keb kuŋoolene kurampenool\nman moola mujaw fácul.\nMan kakinoorak kúsuum, babaj luwa yajuumeni mati mati manemat sidruwaas\nsoola di mukaanaam mati bukanak an anoosani sidruwaas soola di majakaam\nmoola murelore tan maamu mati aamu mutooŋumi.\nSidruwaas di siluwaas san ujukulaaña siwarut sípur di wan sísukas sati\n“Nations Unies” sisofumi.\nFujuum 30\nWaaf úleero di kayitak uke wan umanje an mba bukan mba mof muŋooleŋoolen\nmújowum to mammukajen sidruwaas di siluwaas sándomi kayitak asambule\nseneraal yati óni éyinenyinenuko eban di épurenuko di burokab booliyo n°\n217 (III) bati fuleeŋafu fati desambuur nan fubajumi kunak uñen di\nemitey 1948."
         }
     }
 }

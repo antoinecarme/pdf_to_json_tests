@@ -1,145 +1,145 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581470882,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "bc32f220cc4cf459ce28b3ffbee147fe",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Noong Disyembre 10, 1948, ang Pangkalahatang Kapulungan ng mga Bansang Nagkakaisa ay nagsagawa at\nnagpahayag ng Pandaigdig na Pahayag ng mga Karapatan ng Tao. Ang buong nilalaman noon ay mababasa\nsa mga susunod na pahina. Kasunod ng makasaysayang gawaing ito, ang Kapulungan ay nanawagan sa lahat\nng mga kagawad ng bansa upang ilathala ang nilalaman ng Pahayag at \"upang ito'y palaganapin, itanghal,\nbasahin, at talakayin lalung-lalo na sa mga paaralan at iba pang institusyong edukasyonal, nang walang\npagtatangi batay sa kalagayang pulitikal ng mga bansa o mga teritoryo.\" Pangwakas na Textong May\nPahintulot na salin sa Pilipino ng Katipunan ng Bagong Pilipina. Ipinaabot ng Punong Pangkaalaman ng mga\nBansang Nagkakaisa para sa Pilipinas ang taus-pusong pasasalamat sa Law Center ng Pamantasan ng\nPilipinas na unang naglimbag ng pahayag na ito na salin sa Pilipino. Ipinalimbag ng Punong Pangkaalaman\nng mga Bansang Nagkakaisa para sa Pilipinas at ng Kagawaran ng Kabatirang Pangmadla ng mga Bansang\nNagkakaisa.\nPANDAIGDIG NA PAGPAPAHAYAG NG MGA KARAPATAN NG TAO\nPANIMULA\nSapagkat ang pagkilala sa katutubong karangalan at sa pantay at di-maikakait na mga karapatan ng lahat ng\nnabibilang sa angkan ng tao ay siyang saligan ng kalayaan, katarungan at kapayapaan sa daigdig.\nSapagkat ang pagwawalang-bahala at paglalapastangan sa mga karapatan ng tao ay nagbunga ng mga\ngawang di-makatao na humamak sa budhi ng sangkatauhan, at ang pagdatal ng isang daigdig na ang mga tao\nay magtatamasa ng kalayaan sa pagsasalita at ng kaligtasan sa pangamba at pagdaralita ay ipinahayag na\npinakamataas na mithiin ng mga karaniwang tao.\nSapagkat mahalaga, kung ang tao ay di-pipiliting manghawakan bilang huling magagawa, sa paghihimagsik\nlaban sa paniniil at pang-aapi, na ang mga karapatan ng tao'y mapangalagaan sa pamamagitan ng paghahari\nng batas.",
-            "Image": "bc32f220cc4cf459ce28b3ffbee147fe"
+            "Text": "Noong Disyembre 10, 1948, ang Pangkalahatang Kapulungan ng mga Bansang Nagkakaisa ay nagsagawa at\nnagpahayag ng Pandaigdig na Pahayag ng mga Karapatan ng Tao. Ang buong nilalaman noon ay mababasa\nsa mga susunod na pahina. Kasunod ng makasaysayang gawaing ito, ang Kapulungan ay nanawagan sa lahat\nng mga kagawad ng bansa upang ilathala ang nilalaman ng Pahayag at \"upang ito'y palaganapin, itanghal,\nbasahin, at talakayin lalung-lalo na sa mga paaralan at iba pang institusyong edukasyonal, nang walang\npagtatangi batay sa kalagayang pulitikal ng mga bansa o mga teritoryo.\" Pangwakas na Textong May\nPahintulot na salin sa Pilipino ng Katipunan ng Bagong Pilipina. Ipinaabot ng Punong Pangkaalaman ng mga\nBansang Nagkakaisa para sa Pilipinas ang taus-pusong pasasalamat sa Law Center ng Pamantasan ng\nPilipinas na unang naglimbag ng pahayag na ito na salin sa Pilipino. Ipinalimbag ng Punong Pangkaalaman\nng mga Bansang Nagkakaisa para sa Pilipinas at ng Kagawaran ng Kabatirang Pangmadla ng mga Bansang\nNagkakaisa.\nPANDAIGDIG NA PAGPAPAHAYAG NG MGA KARAPATAN NG TAO\nPANIMULA\nSapagkat ang pagkilala sa katutubong karangalan at sa pantay at di-maikakait na mga karapatan ng lahat ng\nnabibilang sa angkan ng tao ay siyang saligan ng kalayaan, katarungan at kapayapaan sa daigdig.\nSapagkat ang pagwawalang-bahala at paglalapastangan sa mga karapatan ng tao ay nagbunga ng mga\ngawang di-makatao na humamak sa budhi ng sangkatauhan, at ang pagdatal ng isang daigdig na ang mga tao\nay magtatamasa ng kalayaan sa pagsasalita at ng kaligtasan sa pangamba at pagdaralita ay ipinahayag na\npinakamataas na mithiin ng mga karaniwang tao.\nSapagkat mahalaga, kung ang tao ay di-pipiliting manghawakan bilang huling magagawa, sa paghihimagsik\nlaban sa paniniil at pang-aapi, na ang mga karapatan ng tao'y mapangalagaan sa pamamagitan ng paghahari\nng batas."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "331041cfcc2363dc8ecab2c1ddca905b",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Sapagkat mahalagang itaguyod ang pagpapaunlad ng mabuting pagsasamahan ng mga bansa.\nSapagkat ang mga mamamayan ng Mga Bansang Nagkakaisa ay nagpatibay sa Karta ng kanilang pananalig\nsa mga Saligang karapatan ng tao, sa karangalan at kahalagahan ng pagkatao at sa pantay na mga karapatan\nng mga lalaki at babae at nagpapasiyang itaguyod ang kaunlarang panlipunan at lalong mabubuting\npamantayan ng buhay sa lalong malaking kalayaan.\nSapagkat ang mga Kasaping Estado ay nangako sa kanilang sarili na tamuhin sa pakikipagtulungan sa mga\nBansang Nagkakaisa, ang pagtataguyod ng pandaigdig na paggalang at pagtalima sa mga karapatan ng tao at\nmga saligang kalayaan.\nSapagkat lubhang mahalaga ang pagkakaunawa ng lahat sa mga karapatan at kalayaang ito at lubhang\nmahalaga sa ganap na pagsasakatuparan ng mga pangakong ito.\nNgayon, Samakatuwid,\nAng Pangkalahatang Kapulungan\nay nagpapahayag ng\nPandaigdig na Pagpapahayag na ito\nng mga Karapatan ng Tao\nbilang pangkalahatang pamantayang maisasagawa para sa lahat ng tao at bansa, sa layuning ang bawat tao at\nbawat galamay ng lipunan, na laging nasa isip ang Pahayag na ito, ay magsikap sa pamamagitan ng\npagtuturo at edukasyon na maitaguyod ang paggalang sa mga karapatan at kalayaang ito at sa pamamagitan\nng mga hakbang na pagsulong na pambansa at pandaigdig, ay makamtan ang pangkalahatan at mabisang\npagkilala at pagtalima sa mga ito, maging ng mga mamamayan ng mga Kasaping Estado at ng mga\nmamamayan ng mga teritoryo na nasa ilalim ng kanilang nasasakupan.",
-            "Image": "331041cfcc2363dc8ecab2c1ddca905b"
+            "Text": "Sapagkat mahalagang itaguyod ang pagpapaunlad ng mabuting pagsasamahan ng mga bansa.\nSapagkat ang mga mamamayan ng Mga Bansang Nagkakaisa ay nagpatibay sa Karta ng kanilang pananalig\nsa mga Saligang karapatan ng tao, sa karangalan at kahalagahan ng pagkatao at sa pantay na mga karapatan\nng mga lalaki at babae at nagpapasiyang itaguyod ang kaunlarang panlipunan at lalong mabubuting\npamantayan ng buhay sa lalong malaking kalayaan.\nSapagkat ang mga Kasaping Estado ay nangako sa kanilang sarili na tamuhin sa pakikipagtulungan sa mga\nBansang Nagkakaisa, ang pagtataguyod ng pandaigdig na paggalang at pagtalima sa mga karapatan ng tao at\nmga saligang kalayaan.\nSapagkat lubhang mahalaga ang pagkakaunawa ng lahat sa mga karapatan at kalayaang ito at lubhang\nmahalaga sa ganap na pagsasakatuparan ng mga pangakong ito.\nNgayon, Samakatuwid,\nAng Pangkalahatang Kapulungan\nay nagpapahayag ng\nPandaigdig na Pagpapahayag na ito\nng mga Karapatan ng Tao\nbilang pangkalahatang pamantayang maisasagawa para sa lahat ng tao at bansa, sa layuning ang bawat tao at\nbawat galamay ng lipunan, na laging nasa isip ang Pahayag na ito, ay magsikap sa pamamagitan ng\npagtuturo at edukasyon na maitaguyod ang paggalang sa mga karapatan at kalayaang ito at sa pamamagitan\nng mga hakbang na pagsulong na pambansa at pandaigdig, ay makamtan ang pangkalahatan at mabisang\npagkilala at pagtalima sa mga ito, maging ng mga mamamayan ng mga Kasaping Estado at ng mga\nmamamayan ng mga teritoryo na nasa ilalim ng kanilang nasasakupan."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "34c3cb1431522f1bb3d685744658412a",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Artikulo 1\nAng lahat ng tao'y isinilang na malaya at pantay-pantay sa karangalan at mga karapatan. Sila'y\npinagkalooban ng katwiran at budhi at dapat magpalagayan ang isa't isa sa diwa ng pagkakapatiran.\nArtikulo 2\nAng bawat tao'y karapat-dapat sa lahat ng karapatan at kalayaang nakalahad sa Pahayag na ito, nang walang\nano mang uri ng pagtatangi, gaya ng lahi, kulay, kasarian, wika, relihiyon, kuro-kurong pampulitika o iba pa,\npinagmulang bansa o lipunan, ari-arian, kapanganakan o iba pang katayuan.\nBukod dito, walang pagtatanging gagawin batay sa katayuang pampulitika, hurisdiksiyunal o pandaigdig na\nkalagayan ng bansa o teritoryong kinabibilangan ng isang tao, maging ito ay nagsasarili, itinitiwala, di-\nnakapamamahala sa sarili o nasa ilalim ng ano mang katakdaan ng soberanya.\nArtikulo 3\nAng bawat tao'y may karapatan sa buhay, kalayaan at kapanatagan ng sarili.\nArtikulo 4\nWalang sino mang aalipinin o bubusabusin; ipagbabawal ang ano mang anyo ng pang-aalipin at ang\npangangalakal ng alipin.\nArtikulo 5\nWalang sino mang pahihirapan o lalapatan ng malupit,di-makatao o nakalalait na pakikitungo sa parusa.\nArtikulo 6\nAng bawat tao'y may karapatang kilalanin saan mang dako bilang isang tao sa harap ng batas.",
-            "Image": "34c3cb1431522f1bb3d685744658412a"
+            "Text": "Artikulo 1\nAng lahat ng tao'y isinilang na malaya at pantay-pantay sa karangalan at mga karapatan. Sila'y\npinagkalooban ng katwiran at budhi at dapat magpalagayan ang isa't isa sa diwa ng pagkakapatiran.\nArtikulo 2\nAng bawat tao'y karapat-dapat sa lahat ng karapatan at kalayaang nakalahad sa Pahayag na ito, nang walang\nano mang uri ng pagtatangi, gaya ng lahi, kulay, kasarian, wika, relihiyon, kuro-kurong pampulitika o iba pa,\npinagmulang bansa o lipunan, ari-arian, kapanganakan o iba pang katayuan.\nBukod dito, walang pagtatanging gagawin batay sa katayuang pampulitika, hurisdiksiyunal o pandaigdig na\nkalagayan ng bansa o teritoryong kinabibilangan ng isang tao, maging ito ay nagsasarili, itinitiwala, di-\nnakapamamahala sa sarili o nasa ilalim ng ano mang katakdaan ng soberanya.\nArtikulo 3\nAng bawat tao'y may karapatan sa buhay, kalayaan at kapanatagan ng sarili.\nArtikulo 4\nWalang sino mang aalipinin o bubusabusin; ipagbabawal ang ano mang anyo ng pang-aalipin at ang\npangangalakal ng alipin.\nArtikulo 5\nWalang sino mang pahihirapan o lalapatan ng malupit,di-makatao o nakalalait na pakikitungo sa parusa.\nArtikulo 6\nAng bawat tao'y may karapatang kilalanin saan mang dako bilang isang tao sa harap ng batas."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "a95f74ff163ee48cb4e2385ef52620d4",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Artikulo 7\nAng lahat ay pantay-pantay sa harap ng batas at may karapatan sa walang pagtatangi ng pangangalaga ng\nbatas. Ang lahat ay may karapatan sa pantay na pangangalaga laban sa ano mang pagtatangi-tanging\nnalalabag sa Pahayag na ito at laban sa ano mang pagbubuyo sa gayong pagtatangi-tangi.\nArtikulo 8\nAng bawat tao'y may karapatan sa mabisang lunas ng karampatang mga hukumang pambansa tungkol sa\nmga gawang lumalabag sa pangunahing mga karapatan na ipinagkaloob sa kanya ng saligang batas o ng\nbatas.\nArtikulo 9\nWalang sino mang ipaiilalim sa di-makatwirang pagdakip, pagpigil o pagpapatapon.\nArtikulo 10\nAng bawat tao'y may karapatan sa ganap na pagkakapantay-pantay, sa isang makatarungan at hayag na\npaglilitis ng isang hukumang malaya at walang kinikilingan, sa pagpapasiya ng kanyang mga karapatan at\npanangutan at sa ano mang paratang na kriminal laban sa kanya.\nArtikulo 11\nAng bawat taong pinararatangan ng pagkakasalang pinarurusahan ay may karapatang ituring na walang-sala\nhanggang di-napatutunayang nagkasala alinsunod sa batas sa isang hayag na paglilitis na ipinagkaroon niya\nng lahat ng garantiyang kailangan sa kanyang pagtatanggol.\nWalang taong ituturing na nagkasala ng pagkakasalang pinarurusahan dahil sa ano mang gawa o\npagkukulang na hindi isang pagkakasalang pinarurusahan, sa ilalim ng batas pambansa o pandaigdig, noong",
-            "Image": "a95f74ff163ee48cb4e2385ef52620d4"
+            "Text": "Artikulo 7\nAng lahat ay pantay-pantay sa harap ng batas at may karapatan sa walang pagtatangi ng pangangalaga ng\nbatas. Ang lahat ay may karapatan sa pantay na pangangalaga laban sa ano mang pagtatangi-tanging\nnalalabag sa Pahayag na ito at laban sa ano mang pagbubuyo sa gayong pagtatangi-tangi.\nArtikulo 8\nAng bawat tao'y may karapatan sa mabisang lunas ng karampatang mga hukumang pambansa tungkol sa\nmga gawang lumalabag sa pangunahing mga karapatan na ipinagkaloob sa kanya ng saligang batas o ng\nbatas.\nArtikulo 9\nWalang sino mang ipaiilalim sa di-makatwirang pagdakip, pagpigil o pagpapatapon.\nArtikulo 10\nAng bawat tao'y may karapatan sa ganap na pagkakapantay-pantay, sa isang makatarungan at hayag na\npaglilitis ng isang hukumang malaya at walang kinikilingan, sa pagpapasiya ng kanyang mga karapatan at\npanangutan at sa ano mang paratang na kriminal laban sa kanya.\nArtikulo 11\nAng bawat taong pinararatangan ng pagkakasalang pinarurusahan ay may karapatang ituring na walang-sala\nhanggang di-napatutunayang nagkasala alinsunod sa batas sa isang hayag na paglilitis na ipinagkaroon niya\nng lahat ng garantiyang kailangan sa kanyang pagtatanggol.\nWalang taong ituturing na nagkasala ng pagkakasalang pinarurusahan dahil sa ano mang gawa o\npagkukulang na hindi isang pagkakasalang pinarurusahan, sa ilalim ng batas pambansa o pandaigdig, noong"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "1958bc15751c87c8bb33d8e41e70b5a2",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "panahong ginawa iyon. Hindi rin ipapataw ang parusang lalong mabigat kaysa nararapat nang panahong\nmagawa ang pagkakasalang pinarurusahan.\nArtikulo 12\nWalang taong isasailalim sa di-makatwirang panghihimasok sa kanyang pananhimik, pamilya, tahanan o\npakikipagsulatang ni sa tuligsa sa kanyang karangalan at mabuting pangalan. Ang bawat tao'y may karapatan\nsa pangangalaga ng batas laban sa gayong mga panghihimasok o tuligsa.\nArtikulo 13\nAng bawat tao'y may karapatan sa kalayaan ng pagkilos at paninirahan sa loob ng mga hanggahan ng bawat\nestado.\nAng bawat tao'y may karapatang umalis sa alin mang bansa, pati na sa kanyang sarili, at bumalik sa kanyang\nbansa.\nArtikulo 14\nAng bawat tao'y may karapatang humanap at magtamasa sa ibang bansa ng pagpapakupkop laban sa pag-\nuusig.\nAng karapatang ito'y hindi mahihingi sa mga pag-uusig na tunay na nagbubuhat sa mga pagkakasalang di-\npampulitika o sa mga gawang nasasalungat sa mga layunin at simulain ng mga Bansang Nagkakaisa.\nArtikulo 15\nAng bawat tao'y may karapatan sa isang pagkamamamayan.\nWalang sino mang aalisan ng kanyang pagkamamamayan ng walang katwiran ni pagkakaitan ng karapatang\nmagpalit ng kanyang pagkamamamayan.",
-            "Image": "1958bc15751c87c8bb33d8e41e70b5a2"
+            "Text": "panahong ginawa iyon. Hindi rin ipapataw ang parusang lalong mabigat kaysa nararapat nang panahong\nmagawa ang pagkakasalang pinarurusahan.\nArtikulo 12\nWalang taong isasailalim sa di-makatwirang panghihimasok sa kanyang pananhimik, pamilya, tahanan o\npakikipagsulatang ni sa tuligsa sa kanyang karangalan at mabuting pangalan. Ang bawat tao'y may karapatan\nsa pangangalaga ng batas laban sa gayong mga panghihimasok o tuligsa.\nArtikulo 13\nAng bawat tao'y may karapatan sa kalayaan ng pagkilos at paninirahan sa loob ng mga hanggahan ng bawat\nestado.\nAng bawat tao'y may karapatang umalis sa alin mang bansa, pati na sa kanyang sarili, at bumalik sa kanyang\nbansa.\nArtikulo 14\nAng bawat tao'y may karapatang humanap at magtamasa sa ibang bansa ng pagpapakupkop laban sa pag-\nuusig.\nAng karapatang ito'y hindi mahihingi sa mga pag-uusig na tunay na nagbubuhat sa mga pagkakasalang di-\npampulitika o sa mga gawang nasasalungat sa mga layunin at simulain ng mga Bansang Nagkakaisa.\nArtikulo 15\nAng bawat tao'y may karapatan sa isang pagkamamamayan.\nWalang sino mang aalisan ng kanyang pagkamamamayan ng walang katwiran ni pagkakaitan ng karapatang\nmagpalit ng kanyang pagkamamamayan."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "1f67201415162747457bb68865051e62",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Artikulo 16\nAng mga lalaki't babaeng may sapat na gulang ay may karapatang mag-asawa at magpamilya nang walang\nano mang pagtatakda dahil sa lahi, bansang kinabibilangan o relihiyon. Nararapat sila sa pantay-pantay na\nkarapatan sa pag-aasawa, sa panahong may asawa at pagpapawalang bisa nito.\nAng pag-aasawa'y papasukan lamang sa pamamagitan ng malaya at lubos na pagsang-ayon ng mga\nnagbabalak magkapangasawahan.\nAng pamilya ay likas at pangunahing pangkat sa sangay ng lipunan at karapat-dapat sa pangangalaga ng\nlipunan at ng Estado.\nArtikulo 17\nAng bawat tao'y may karapatang mag-angkin ng ari-arian nang mag-isa gayon din na kasama ng iba.\nWalang sino mang aalisan ng kanyang ari-arian nang walang katwiran.\nArtikulo 18\nAng bawat tao'y may karapatan sa kalayaan ng pag-iisip, budhi at relihiyon; kasama sa karapatang ito ang\nkalayaang magpalit ng kanyang relihiyon o paniniwala maging nag-iisa o kasama ang iba sa pamayanan\nupang ipakilala ang kanyang relihiyon o paniniwala sa pagtuturo, pagsasagawa,pagsamba at pagtalima.\nArtikulo 19\nAng bawat tao'y may karapatan sa kalayaan ng pagkukuro at pagpapahayag; kasama ng karapatang ito ang\nkalayaan at kuru-kuro nang walang panghihimasok at humanap, tumanggap at magbigay ng impormasyon at\nkaisipan sa pamamagitan ng alin mang paraan ng pagkakalat at walang pagsasaalang-alang ng mga\nhanggahan.",
-            "Image": "1f67201415162747457bb68865051e62"
+            "Text": "Artikulo 16\nAng mga lalaki't babaeng may sapat na gulang ay may karapatang mag-asawa at magpamilya nang walang\nano mang pagtatakda dahil sa lahi, bansang kinabibilangan o relihiyon. Nararapat sila sa pantay-pantay na\nkarapatan sa pag-aasawa, sa panahong may asawa at pagpapawalang bisa nito.\nAng pag-aasawa'y papasukan lamang sa pamamagitan ng malaya at lubos na pagsang-ayon ng mga\nnagbabalak magkapangasawahan.\nAng pamilya ay likas at pangunahing pangkat sa sangay ng lipunan at karapat-dapat sa pangangalaga ng\nlipunan at ng Estado.\nArtikulo 17\nAng bawat tao'y may karapatang mag-angkin ng ari-arian nang mag-isa gayon din na kasama ng iba.\nWalang sino mang aalisan ng kanyang ari-arian nang walang katwiran.\nArtikulo 18\nAng bawat tao'y may karapatan sa kalayaan ng pag-iisip, budhi at relihiyon; kasama sa karapatang ito ang\nkalayaang magpalit ng kanyang relihiyon o paniniwala maging nag-iisa o kasama ang iba sa pamayanan\nupang ipakilala ang kanyang relihiyon o paniniwala sa pagtuturo, pagsasagawa,pagsamba at pagtalima.\nArtikulo 19\nAng bawat tao'y may karapatan sa kalayaan ng pagkukuro at pagpapahayag; kasama ng karapatang ito ang\nkalayaan at kuru-kuro nang walang panghihimasok at humanap, tumanggap at magbigay ng impormasyon at\nkaisipan sa pamamagitan ng alin mang paraan ng pagkakalat at walang pagsasaalang-alang ng mga\nhanggahan."
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "23fc37f52f1828cb89cd16f62a446950",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Artikulo 20\nAng bawat tao'y may karapatan sa kalayaan sa mapayapang pagpupulong at pagsasamahan.\nWalang sino mang pipiliting sumapi sa isang kapisanan.\nArtikulo 21\nAng bawat tao'y may karapatang makilahok sa pamahalaan ng kanyang bansa, sa tuwiran o sa pamamagitan\nng mga kinatawang malayang pinili.\nAng bawat tao'y may karapatan sa pantay na pagpasok sa paglilingkod pambayan ng kanyang bansa.\nAng kalooban ng bayan ang magiging saligan ng kapangyarihan ng pamahalaan; ang kaloobang ito'y\nipahahayag sa tunay na mga halalan sa pana-panahon sa pamamagitan ng pangkalahatan at pantay-pantay na\npaghahalal at idaraos sa pamamagitan ng lihim na balota o sa katumbas na pamamaraan ng malayang\npagboto.\nArtikulo 22\nAng bawat tao, bilang kasapi ng lipunan, ay may karapatan sa kapanatagang panlipunan at nararapat na\nmakinabang sa pamamagitan ng pambansang pagsisikap at pakikipagtulungang pandaigdig at alinsunod sa\npagkakabuo at mga mapagkukunan ng bawat Estado, sa mga karapatang pangkabuhayan, panlipunan at\npangkalinangan na lubhang kailangan para sa kanyang karangalan at sa malayang pagpapaunlad ng kanyang\npagkatao.\nArtikulo 23\nAng bawat tao'y may karapatan sa paggawa, sa malayang pagpili ng mapapasukang hanapbuhay, sa\nmakatarungan at kanais-nais na mga kalagayan sa paggawa at sa pangangalaga laban sa kawalang",
-            "Image": "23fc37f52f1828cb89cd16f62a446950"
+            "Text": "Artikulo 20\nAng bawat tao'y may karapatan sa kalayaan sa mapayapang pagpupulong at pagsasamahan.\nWalang sino mang pipiliting sumapi sa isang kapisanan.\nArtikulo 21\nAng bawat tao'y may karapatang makilahok sa pamahalaan ng kanyang bansa, sa tuwiran o sa pamamagitan\nng mga kinatawang malayang pinili.\nAng bawat tao'y may karapatan sa pantay na pagpasok sa paglilingkod pambayan ng kanyang bansa.\nAng kalooban ng bayan ang magiging saligan ng kapangyarihan ng pamahalaan; ang kaloobang ito'y\nipahahayag sa tunay na mga halalan sa pana-panahon sa pamamagitan ng pangkalahatan at pantay-pantay na\npaghahalal at idaraos sa pamamagitan ng lihim na balota o sa katumbas na pamamaraan ng malayang\npagboto.\nArtikulo 22\nAng bawat tao, bilang kasapi ng lipunan, ay may karapatan sa kapanatagang panlipunan at nararapat na\nmakinabang sa pamamagitan ng pambansang pagsisikap at pakikipagtulungang pandaigdig at alinsunod sa\npagkakabuo at mga mapagkukunan ng bawat Estado, sa mga karapatang pangkabuhayan, panlipunan at\npangkalinangan na lubhang kailangan para sa kanyang karangalan at sa malayang pagpapaunlad ng kanyang\npagkatao.\nArtikulo 23\nAng bawat tao'y may karapatan sa paggawa, sa malayang pagpili ng mapapasukang hanapbuhay, sa\nmakatarungan at kanais-nais na mga kalagayan sa paggawa at sa pangangalaga laban sa kawalang"
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "6b6cf73df8d6594f9171458351beba6f",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "mapapasukang hanap-buhay.\nAng bawat tao'y may karapatan sa kapantay na bayad ng kapantay na gawain, nang walang ano mang\npagtatangi.\nAng bawat taong gumagawa ay may karapatan sa makatarungan at nababatay sa kabayarang tumitiyak sa\nkanyang sarili at sa kanyang pamilya ng kabuhayang karapat-dapat sa karangalan ng isang tao, at pupunan,\nkung kailangan, ng iba pang paraan ng pangangalangang panlipunan.\nAng bawat tao'y may karapatang magtatag at umanib sa mga unyon ng manggagawa para sa pangangalaga\nng kanyang mga kapakanan.\nArtikulo 24\nAng bawat tao'y may karapatan sa pamamahinga at paglilibang, kasama ang mga makatwirang pagtatakda ng\nmga oras ng paggawa at may sahod sa mga pana-panahong pista opisyal.\nArtikulo 25\nAng bawat tao'y may karapatan sa isang pamantayan ng pamumuhay na sapat para sa kalusugan at\nkagalingan ng kanyang sarili at ng kanyang pamilya, kasama na ang pagkain, pananamit, paninirahan at\npagpapagamot at kinakailangang mga paglilingkod panlipunan, at ng karapatan sa kapanatagan sa panahong\nwalang gawain, pagkakasakit, pagkabalda, pagkabalo, katandaan at iba pang kakapusan sa ikabubuhay sa\nmga di-maiiwasang pangyayari.\nAng pagkaina at pagkabata ay nararapat sa tanging kalinga at tulong. Ang lahat ng bata, maging anak na\nlehitimo o di-lehitimo, ay magtatamasa ng gayon ding pangangalagang panlipunan.\nArtikulo 26",
-            "Image": "6b6cf73df8d6594f9171458351beba6f"
+            "Text": "mapapasukang hanap-buhay.\nAng bawat tao'y may karapatan sa kapantay na bayad ng kapantay na gawain, nang walang ano mang\npagtatangi.\nAng bawat taong gumagawa ay may karapatan sa makatarungan at nababatay sa kabayarang tumitiyak sa\nkanyang sarili at sa kanyang pamilya ng kabuhayang karapat-dapat sa karangalan ng isang tao, at pupunan,\nkung kailangan, ng iba pang paraan ng pangangalangang panlipunan.\nAng bawat tao'y may karapatang magtatag at umanib sa mga unyon ng manggagawa para sa pangangalaga\nng kanyang mga kapakanan.\nArtikulo 24\nAng bawat tao'y may karapatan sa pamamahinga at paglilibang, kasama ang mga makatwirang pagtatakda ng\nmga oras ng paggawa at may sahod sa mga pana-panahong pista opisyal.\nArtikulo 25\nAng bawat tao'y may karapatan sa isang pamantayan ng pamumuhay na sapat para sa kalusugan at\nkagalingan ng kanyang sarili at ng kanyang pamilya, kasama na ang pagkain, pananamit, paninirahan at\npagpapagamot at kinakailangang mga paglilingkod panlipunan, at ng karapatan sa kapanatagan sa panahong\nwalang gawain, pagkakasakit, pagkabalda, pagkabalo, katandaan at iba pang kakapusan sa ikabubuhay sa\nmga di-maiiwasang pangyayari.\nAng pagkaina at pagkabata ay nararapat sa tanging kalinga at tulong. Ang lahat ng bata, maging anak na\nlehitimo o di-lehitimo, ay magtatamasa ng gayon ding pangangalagang panlipunan.\nArtikulo 26"
         },
         "8": {
-            "Label": "9",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "779e1b1d7793b629b0f93f8bed90f960",
             "Index": 8,
+            "Label": "9",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Ang bawat tao'y may karapatan sa edukasyon. Ang edukasyon ay walang bayad, doon man lamang sa\nelementarya at pangunahing antas. Ang edukasyong elementarya ay magiging sapilitan. Ang edukasyong\nteknikal at propesyonal ay gagawing maabot ng lahat at ang lalong mataas na edukasyon ay ipagkakaloob\nnang pantay-pantay sa lahat batay sa pagiging karapat-dapat.\nAng edukasyon ay itutungo sa ganap na pagpapaunlad ng pagkatao at sa pagpapalakas ng paggalang sa mga\nkarapatan ng tao at mga pangunahing kalayaan. Itataguyod nito ang pagkakaunawaan, pagbibigayan, at\npagkakaibigan ng lahat ng bansa, mga pangkat na panlahi o panrelihiyon, at palawakin ang mga gawain ng\nmga Bansang Nagkakaisa sa ikapapanatili ng kapayapaan.\nAng mga magulang ay may pangunahing karapatang pumili ng uri ng edukasyong ipagkaloob sa kanilang\nmga anak.\nArtikulo 27\nAng bawat tao'y may karapatang makilahok nang malaya sa buhay pangkalinangan ng pamayanan, upang\ntamasahin ang mga sining at makihati sa mga kaunlaran sa siyensiya at sa mga pakinabang dito.\nAng bawat tao'y may karapatan sa pangangalaga ng mga kapakanang moral at materyal bunga ng alin mang\nproduksiyong pang-agham, pampanitikan o pansining na siya ang may-akda.\nArtikulo 28\nAng bawat tao'y may karapatan sa kaayusang panlipunan at pandaigdig na ang mga karapatan at mga\nkalayaang itinakda sa Pahayag na ito ay ganap na maisasakatuparan.\nArtikulo 29\nAng bawat tao'y may mga tungkulin sa pamayanan sa ikaaari lamang ng malaya at ganap na pagkaunlad ng\nkanyang pagkatao.",
-            "Image": "779e1b1d7793b629b0f93f8bed90f960"
+            "Text": "Ang bawat tao'y may karapatan sa edukasyon. Ang edukasyon ay walang bayad, doon man lamang sa\nelementarya at pangunahing antas. Ang edukasyong elementarya ay magiging sapilitan. Ang edukasyong\nteknikal at propesyonal ay gagawing maabot ng lahat at ang lalong mataas na edukasyon ay ipagkakaloob\nnang pantay-pantay sa lahat batay sa pagiging karapat-dapat.\nAng edukasyon ay itutungo sa ganap na pagpapaunlad ng pagkatao at sa pagpapalakas ng paggalang sa mga\nkarapatan ng tao at mga pangunahing kalayaan. Itataguyod nito ang pagkakaunawaan, pagbibigayan, at\npagkakaibigan ng lahat ng bansa, mga pangkat na panlahi o panrelihiyon, at palawakin ang mga gawain ng\nmga Bansang Nagkakaisa sa ikapapanatili ng kapayapaan.\nAng mga magulang ay may pangunahing karapatang pumili ng uri ng edukasyong ipagkaloob sa kanilang\nmga anak.\nArtikulo 27\nAng bawat tao'y may karapatang makilahok nang malaya sa buhay pangkalinangan ng pamayanan, upang\ntamasahin ang mga sining at makihati sa mga kaunlaran sa siyensiya at sa mga pakinabang dito.\nAng bawat tao'y may karapatan sa pangangalaga ng mga kapakanang moral at materyal bunga ng alin mang\nproduksiyong pang-agham, pampanitikan o pansining na siya ang may-akda.\nArtikulo 28\nAng bawat tao'y may karapatan sa kaayusang panlipunan at pandaigdig na ang mga karapatan at mga\nkalayaang itinakda sa Pahayag na ito ay ganap na maisasakatuparan.\nArtikulo 29\nAng bawat tao'y may mga tungkulin sa pamayanan sa ikaaari lamang ng malaya at ganap na pagkaunlad ng\nkanyang pagkatao."
         },
         "9": {
-            "Label": "10",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "b451eb3449c64ab0df35c53498ca12f3",
             "Index": 9,
+            "Label": "10",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Sa paggamit ng kanyang mga karapatan at mga kalayaan, ang bawat tao'y masasaklaw lamang ng mga\nkatakdaan gaya ng ipinapasya ng batas ng tanging sa layunin lamang ng pagtatamo ng kaukulang pagkilala at\npaggalang sa mga karapatan at mga kalayaan ng iba at sa pagtugon sa makatarungang kahilingan ng\nmoralidad, kaayusang pambayan at ng pangkalahatang kagalingan sa isang demokratikong lipunan.\nAng mga karapatan at kalayaang ito ay hindi magagamit sa ano mang pangyayari nang nasasalungat sa mga\nlayunin at mga simulain ng Mga Bansang Nagkakaisa.\nArtikulo 30\nWalang bagay sa Pahayag na ito na mapapakahulugan ang nagbibigay sa alin mang Estado, pangkat o tao ng\nano mang karapatang gumawa ng ano mang kilusan o magsagawa ng ano mang hakbang na naglalayong\nsirain ang nakalahad dito.",
-            "Image": "b451eb3449c64ab0df35c53498ca12f3"
+            "Text": "Sa paggamit ng kanyang mga karapatan at mga kalayaan, ang bawat tao'y masasaklaw lamang ng mga\nkatakdaan gaya ng ipinapasya ng batas ng tanging sa layunin lamang ng pagtatamo ng kaukulang pagkilala at\npaggalang sa mga karapatan at mga kalayaan ng iba at sa pagtugon sa makatarungang kahilingan ng\nmoralidad, kaayusang pambayan at ng pangkalahatang kagalingan sa isang demokratikong lipunan.\nAng mga karapatan at kalayaang ito ay hindi magagamit sa ano mang pangyayari nang nasasalungat sa mga\nlayunin at mga simulain ng Mga Bansang Nagkakaisa.\nArtikulo 30\nWalang bagay sa Pahayag na ito na mapapakahulugan ang nagbibigay sa alin mang Estado, pangkat o tao ng\nano mang karapatang gumawa ng ano mang kilusan o magsagawa ng ano mang hakbang na naglalayong\nsirain ang nakalahad dito."
         }
     }
 }

@@ -1,119 +1,119 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581467868,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "d85a848b667c6aaae23ffd6359c38cb9",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "HEIMSYVIRLÝSING UM MANNARÆTTINDI\nINNGANGUR\nTað verður at viðurkenna, at menniskjuni er virðing íborin, og at allir limir mannaættarinnar eiga somu\nómissiligu rættindi, og hetta er støðið undir frælsi, rættvísi og friði í heiminum.\nHar sum mannarættindini hava verið fyri vanbýti og vanvirðing, hevur tað havt við sær ræðuligar gerðir, sum\nhava skakað samvitsku mannaættarinnar, og ein heimskipan, har sum fólk nýtur talu- og trúarfrælsi og frælsi\nfrá ótta og neyð, hevur verið boðað sum menniskjunar hægsta mið og mál.\nTað varðar almikið um, mannarættindi verða vard við lógum, um fólk ikki skal verða noytt til sum evstu ráð\nat taka til uppreistur móti harðræði og kúgan.\nTað varðar almikið um at elva og stimbra vinalag tióðanna millum.\nÍ sáttmáala sínum hava Sameindu Tjóðirnar av nýggjum váttað trúgv sína á undirstøðulig mannarættindi, á\nsóma menniskjans og virði, og á javnrættindi fyri kvinnur og menn, og tær hava rátt av at fremja framburð í\nalmannamálum og bøta um lívskor manna í alt meiri frælsi.\nLimaríkini hava skyldubundið seg til, í samvinnu við Sameindu Tjóðirnar, at virka fyri at fáa framt, at\nmannarættindini og undirstøðilig frælsisrættindi verða alment vird og hildin.\nTað at allir partar skilja hesi rættindi og frælsi er fremsta treytin fyri, at henda skylda verður framd út í æsur.\nTess vegna bjóðar\nAÐALFUNDURIN\nHesa heimsyvirlýsing um mannarættindi sum felags mið fyri øll fólk og allar tjóðir við tí endamáli, at hvør\neinstakur og hvør samfelagsstovnur alsamt við hesi yvirlýsing í huga skal stremba fyri við frálæru og",
-            "Image": "d85a848b667c6aaae23ffd6359c38cb9"
+            "Text": "HEIMSYVIRLÝSING UM MANNARÆTTINDI\nINNGANGUR\nTað verður at viðurkenna, at menniskjuni er virðing íborin, og at allir limir mannaættarinnar eiga somu\nómissiligu rættindi, og hetta er støðið undir frælsi, rættvísi og friði í heiminum.\nHar sum mannarættindini hava verið fyri vanbýti og vanvirðing, hevur tað havt við sær ræðuligar gerðir, sum\nhava skakað samvitsku mannaættarinnar, og ein heimskipan, har sum fólk nýtur talu- og trúarfrælsi og frælsi\nfrá ótta og neyð, hevur verið boðað sum menniskjunar hægsta mið og mál.\nTað varðar almikið um, mannarættindi verða vard við lógum, um fólk ikki skal verða noytt til sum evstu ráð\nat taka til uppreistur móti harðræði og kúgan.\nTað varðar almikið um at elva og stimbra vinalag tióðanna millum.\nÍ sáttmáala sínum hava Sameindu Tjóðirnar av nýggjum váttað trúgv sína á undirstøðulig mannarættindi, á\nsóma menniskjans og virði, og á javnrættindi fyri kvinnur og menn, og tær hava rátt av at fremja framburð í\nalmannamálum og bøta um lívskor manna í alt meiri frælsi.\nLimaríkini hava skyldubundið seg til, í samvinnu við Sameindu Tjóðirnar, at virka fyri at fáa framt, at\nmannarættindini og undirstøðilig frælsisrættindi verða alment vird og hildin.\nTað at allir partar skilja hesi rættindi og frælsi er fremsta treytin fyri, at henda skylda verður framd út í æsur.\nTess vegna bjóðar\nAÐALFUNDURIN\nHesa heimsyvirlýsing um mannarættindi sum felags mið fyri øll fólk og allar tjóðir við tí endamáli, at hvør\neinstakur og hvør samfelagsstovnur alsamt við hesi yvirlýsing í huga skal stremba fyri við frálæru og"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "960e20d81d0b8c4974cd1c8d6ecb083e",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "uppaling at fremja virðing fyri hesum rættindum og frælsismálum og við framsøknum atgerðum innanlands\nog millumlanda at tryggja, at tey verða viðurkend og hildin allastðni á munagóðan hátt, bæði í fólkinum í\nlimaríkjunum og í fólkinum í teimum londum, sum eru innan løgdømi teirra.\n1. grein\nØll menniskju eru fødd fræls og jøvn til virðingar og mannarættindi. Tey hava skil og samvitsku og eiga at\nfara hvørt um annað í bróðuranda.\n2. grein\nØll hava krav um rættindi og frælsi, sum eru nevdn í hesi yvirlýsing, uttan mun til ættarslag (rasu), húðarlit,\nkyn, mál, átrúnað, politiska ella aðra sannføring, tjóðskaparligan ella samfelagsligan uppruna,\nognarviðurskifti, føðing ella aðra støðu.\nSomuleiðis skal eingin mismunur vera orsakað av politiskari, rættarligari ella millumtjóða støðu hjá tí landi,\nsum ein persónur hoyrir til, sama um landið er sjálvstøðugt, undir tilsjónarvaldi, ella fullveldi tess á annan\nhátt er skert.\n3. grein\nEin og hvør hevur rætt til lív, frælsi og persónliga trygd.\n4. grein\nEingin skal liva í trældómi ella trælkan; trældómur og trælahandil av øllum slag skulu verða bannað.\n5. grein\nEingin skal verða píndur ella harðliga, ómenniskjaliga ella vanæruliga viðfarin ella revsaður.\n6. grein",
-            "Image": "960e20d81d0b8c4974cd1c8d6ecb083e"
+            "Text": "uppaling at fremja virðing fyri hesum rættindum og frælsismálum og við framsøknum atgerðum innanlands\nog millumlanda at tryggja, at tey verða viðurkend og hildin allastðni á munagóðan hátt, bæði í fólkinum í\nlimaríkjunum og í fólkinum í teimum londum, sum eru innan løgdømi teirra.\n1. grein\nØll menniskju eru fødd fræls og jøvn til virðingar og mannarættindi. Tey hava skil og samvitsku og eiga at\nfara hvørt um annað í bróðuranda.\n2. grein\nØll hava krav um rættindi og frælsi, sum eru nevdn í hesi yvirlýsing, uttan mun til ættarslag (rasu), húðarlit,\nkyn, mál, átrúnað, politiska ella aðra sannføring, tjóðskaparligan ella samfelagsligan uppruna,\nognarviðurskifti, føðing ella aðra støðu.\nSomuleiðis skal eingin mismunur vera orsakað av politiskari, rættarligari ella millumtjóða støðu hjá tí landi,\nsum ein persónur hoyrir til, sama um landið er sjálvstøðugt, undir tilsjónarvaldi, ella fullveldi tess á annan\nhátt er skert.\n3. grein\nEin og hvør hevur rætt til lív, frælsi og persónliga trygd.\n4. grein\nEingin skal liva í trældómi ella trælkan; trældómur og trælahandil av øllum slag skulu verða bannað.\n5. grein\nEingin skal verða píndur ella harðliga, ómenniskjaliga ella vanæruliga viðfarin ella revsaður.\n6. grein"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "c3e8b98daab02168bf19f3b7195cd6ec",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Øll hava rætt til, hvar tey ery stødd, at verða viðurkend sum persænar fyri lægini.\n7. grein\nØll eru jøvn fyri lægini hava rætt til somu rættarvernd uttan mismun. Øll hava sama rætt at verða vard fyri\nmismuni, sum er brot mæti hesi samtykt, og at verða vard fyri allari áeggjan til at skapa tílíkan mismun.\n8. grein\nUm onkur fær viðferð, sum er tvørtur 'mæti teimum grundrættindum, sum honum eru tryggjað sambært\ngrundlæg og øðrum landslægum, skal hann hava rætt til at fáa fullar sømdir afturfyri við dæmstælar landsins.\n9. grein\nEingin skal verða tilvildarliga handtikin, settur í varðhald ella gjørdur útlagin.\n10. grein\nØll hava sannan javnrætt till rættvísa og almenna rættarviðgerð fyri æheftum og ævildigum dæmstæli, sum\nskal tka avgerð um rættindi teirra og skyldur, og um øll revsimál, ið verða reist.\n11. grein\nHvør, sum verður ákærdur fyri revsiverda ferð, eigur rætt til al verða mettur æsekur, inntil hann er dømdur\nsekur við almenna rættargongd, har sum hann hevur fingið fulla trygd fyri verju.\nEingin skal verða funnin sekur í revsimáli av nøkrum slag, uttan so at gerð ella ábyrgdarloysi, sum hann var\nákærdur fyri, et at rokna sum brotsgerð sambært landslægum ella lægum, tá ið gerðin varð framd. Ei heldur\nskal strangari revsing verða ásett enn hon, ið var galdandi, tá ið tann revsiverda gerðin varð framd.\n12. grein",
-            "Image": "c3e8b98daab02168bf19f3b7195cd6ec"
+            "Text": "Øll hava rætt til, hvar tey ery stødd, at verða viðurkend sum persænar fyri lægini.\n7. grein\nØll eru jøvn fyri lægini hava rætt til somu rættarvernd uttan mismun. Øll hava sama rætt at verða vard fyri\nmismuni, sum er brot mæti hesi samtykt, og at verða vard fyri allari áeggjan til at skapa tílíkan mismun.\n8. grein\nUm onkur fær viðferð, sum er tvørtur 'mæti teimum grundrættindum, sum honum eru tryggjað sambært\ngrundlæg og øðrum landslægum, skal hann hava rætt til at fáa fullar sømdir afturfyri við dæmstælar landsins.\n9. grein\nEingin skal verða tilvildarliga handtikin, settur í varðhald ella gjørdur útlagin.\n10. grein\nØll hava sannan javnrætt till rættvísa og almenna rættarviðgerð fyri æheftum og ævildigum dæmstæli, sum\nskal tka avgerð um rættindi teirra og skyldur, og um øll revsimál, ið verða reist.\n11. grein\nHvør, sum verður ákærdur fyri revsiverda ferð, eigur rætt til al verða mettur æsekur, inntil hann er dømdur\nsekur við almenna rættargongd, har sum hann hevur fingið fulla trygd fyri verju.\nEingin skal verða funnin sekur í revsimáli av nøkrum slag, uttan so at gerð ella ábyrgdarloysi, sum hann var\nákærdur fyri, et at rokna sum brotsgerð sambært landslægum ella lægum, tá ið gerðin varð framd. Ei heldur\nskal strangari revsing verða ásett enn hon, ið var galdandi, tá ið tann revsiverda gerðin varð framd.\n12. grein"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "82c4d2e6058952e8d1dc37a395aea4a9",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Eingin eigur at vera fyri tilvildarligari uppílegging í persænlig viðurskifti, heimalív ella brævaskifti, ei heldur\nfyri æruskemd ella útspilling. Øll eiga rætt til lægarvernd fyri slíkari uppílegging ella ágangi.\n13. grein\nØll hava rætt til frítt at fara og búsetast innan fyri landamark í hvørjum ríki sær.\nØll hava rætt til at fara av landinum, hvørjum sum er, eisini sínum egna og at fara heim aftur til sítt land.\n14. grein\nØll hava rætt at søkja um og fáa friðskjæl í øðrum londum fyri meinsæknum.\nSlíkan rætt ber ikki til at skjæta seg undir, tá ið ákæran av røttum er fyri æpolitiskar brotsgerðir ella gerðir,\nsum eru ímæti endamálum og grundreglum Sameindu Tjæðanna.\n15. grein\nØll hava tjæðskaparrætt.\nEingin skal tilvildarliga missa sín tjæðskap, og ongum skal verða sýtt fyri at skifta tjæðskap.\n16. grein\nMenn og kvinnur, sum eru komin til lægaldur, skulu uttan mun til ættarslag (rasu), tjæðskap ella átrúnað\nhava rætt at giftast og setast í búgv. Tey hava krav um javnrættindi at giftast, í hjúnalagnum og til\nhjúnaskilnað.\nHjúnaband kann ikki verða bundið, uttan báðir partar samtykkja í tí av fríum vilja.\nHúskið er tann natúrliga frumeindin í samfelagnum og hevur rætt til vernd av samfelag og landi.\n17. grein",
-            "Image": "82c4d2e6058952e8d1dc37a395aea4a9"
+            "Text": "Eingin eigur at vera fyri tilvildarligari uppílegging í persænlig viðurskifti, heimalív ella brævaskifti, ei heldur\nfyri æruskemd ella útspilling. Øll eiga rætt til lægarvernd fyri slíkari uppílegging ella ágangi.\n13. grein\nØll hava rætt til frítt at fara og búsetast innan fyri landamark í hvørjum ríki sær.\nØll hava rætt til at fara av landinum, hvørjum sum er, eisini sínum egna og at fara heim aftur til sítt land.\n14. grein\nØll hava rætt at søkja um og fáa friðskjæl í øðrum londum fyri meinsæknum.\nSlíkan rætt ber ikki til at skjæta seg undir, tá ið ákæran av røttum er fyri æpolitiskar brotsgerðir ella gerðir,\nsum eru ímæti endamálum og grundreglum Sameindu Tjæðanna.\n15. grein\nØll hava tjæðskaparrætt.\nEingin skal tilvildarliga missa sín tjæðskap, og ongum skal verða sýtt fyri at skifta tjæðskap.\n16. grein\nMenn og kvinnur, sum eru komin til lægaldur, skulu uttan mun til ættarslag (rasu), tjæðskap ella átrúnað\nhava rætt at giftast og setast í búgv. Tey hava krav um javnrættindi at giftast, í hjúnalagnum og til\nhjúnaskilnað.\nHjúnaband kann ikki verða bundið, uttan báðir partar samtykkja í tí av fríum vilja.\nHúskið er tann natúrliga frumeindin í samfelagnum og hevur rætt til vernd av samfelag og landi.\n17. grein"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "6302a6177c25d2e18d4406a933905c74",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Øll hava rætt til at eiga ogn, annaðhvørt einsamøll ella ' felag við onnur.\nEingin skal hissini vera fyri ongartøku.\n18. grein\nØll hava rætt til hugsanar-, samvitsku- og trúarfrælsi. Hesi rættur fatar eisini um frælsi at skifta átrúnað ella\ntrúgv, og frælsi til annaðhvørt einsamallur ella í felag við onnur og alment ella einskilt at inna trúgv sína í\nfrálæru, tilbiðing, gudstænastu og halgihaldi.\n19. grein\nØll skulu vera fræls at hava sínar áskoðanir og bera tær fram uttan forðan, og at søkja sær og breiða út vitan\nog hugsanir ígjøgnum hvønn boðmiðil, sum vera skal, og æheft av landamarki.\n20. grein\nØll hava rætt til frítt og á friðarligan hátt at koma saman og taka seg saman í felagsskapir.\nEingin kann verða noyddur at vera limur í felag.\n21. grein\nØll hava rætt til at taka lut í stjærn lands síns, annaðhvørt beinleiðis ella gjøgnum frítt vald umboð.\nØll hava rætt til somu atgongd at embætum og almennum størvum í landi sínum.\nFælksins vilji skal vera støði undir stjærnarinnar valdi; hesin vilji skal verða borin fram við ávísum\nmillumbilum og rættiligum valum við almennum og jøvnum valrætti, og skulu verða framd við loyniligari\natkvøðing ella samsvarandi frælsum valháttum.\n22. grein",
-            "Image": "6302a6177c25d2e18d4406a933905c74"
+            "Text": "Øll hava rætt til at eiga ogn, annaðhvørt einsamøll ella ' felag við onnur.\nEingin skal hissini vera fyri ongartøku.\n18. grein\nØll hava rætt til hugsanar-, samvitsku- og trúarfrælsi. Hesi rættur fatar eisini um frælsi at skifta átrúnað ella\ntrúgv, og frælsi til annaðhvørt einsamallur ella í felag við onnur og alment ella einskilt at inna trúgv sína í\nfrálæru, tilbiðing, gudstænastu og halgihaldi.\n19. grein\nØll skulu vera fræls at hava sínar áskoðanir og bera tær fram uttan forðan, og at søkja sær og breiða út vitan\nog hugsanir ígjøgnum hvønn boðmiðil, sum vera skal, og æheft av landamarki.\n20. grein\nØll hava rætt til frítt og á friðarligan hátt at koma saman og taka seg saman í felagsskapir.\nEingin kann verða noyddur at vera limur í felag.\n21. grein\nØll hava rætt til at taka lut í stjærn lands síns, annaðhvørt beinleiðis ella gjøgnum frítt vald umboð.\nØll hava rætt til somu atgongd at embætum og almennum størvum í landi sínum.\nFælksins vilji skal vera støði undir stjærnarinnar valdi; hesin vilji skal verða borin fram við ávísum\nmillumbilum og rættiligum valum við almennum og jøvnum valrætti, og skulu verða framd við loyniligari\natkvøðing ella samsvarandi frælsum valháttum.\n22. grein"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "b59e7624b089bc64ceb8fe3b2e59de6b",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Øll hava sum samfelagsborgarar rætt til felagsliga trygd og kunnu krevja, at tey búskaparligu, felagsligu og\nmentanarligu rættindi, sum eru neyðug fyri teirra virðing og fría menning av persænleikanum, verða framd\nvið tiltøkum innanlands og í altjæða samstarvi og í samsvari við skipan og tilfeingi í hvørjum landi.\n23. grein\nØll eiga rætt til arbeiði, til frítt at velja starv, til rættvís og hæskandi arbeiðslíkindi og til vernd fyri\narbeiðsloysi.\nØll hava uttan mismun rætt til somu løn fyri sama arebeiði.\nEin og hvør, sum arebeiðir, hevur rætt til rættvísa og hæskandi samsýning, ið tryggjar honum og hansara eina\nmannsømiliga tilveru, og harumframt um neyðugt aðra almenna vernd.\nEin og hvør hevur rætt til at stovna og gerast limur í yrkisfelag til at verja síni áhugamál.\n24. grein\nØll hava rætt til hvíld og frítíð, har uppi í rímiliga avmarking av arbeiðstíðini og frítíð við løn ávísum\nmillumbilum.\n25. grein\nEin og hvør hevur rætt til lívsumsøður, ið tryggja honum og hansara heilsu og vælveru, har uppi í mat, klæði,\nbústað og heilsurøkt og almennar tænastur og rætt til trygd við møguligum arbeiðsloysi, sjúku, æarbeiðsføri,\nmissi av maka, aldri ella aðrari skerjing av vinnumøguleikum orsakað av um støðum, sum hann ikki hevur\nræði á.\nMøður og børn hava krav um serliga umsorgan og hjálp. Øll børn, annaðhvørt tey eru fødd í hjúnalagi ella\nuttan, njæta somu almannavernd.",
-            "Image": "b59e7624b089bc64ceb8fe3b2e59de6b"
+            "Text": "Øll hava sum samfelagsborgarar rætt til felagsliga trygd og kunnu krevja, at tey búskaparligu, felagsligu og\nmentanarligu rættindi, sum eru neyðug fyri teirra virðing og fría menning av persænleikanum, verða framd\nvið tiltøkum innanlands og í altjæða samstarvi og í samsvari við skipan og tilfeingi í hvørjum landi.\n23. grein\nØll eiga rætt til arbeiði, til frítt at velja starv, til rættvís og hæskandi arbeiðslíkindi og til vernd fyri\narbeiðsloysi.\nØll hava uttan mismun rætt til somu løn fyri sama arebeiði.\nEin og hvør, sum arebeiðir, hevur rætt til rættvísa og hæskandi samsýning, ið tryggjar honum og hansara eina\nmannsømiliga tilveru, og harumframt um neyðugt aðra almenna vernd.\nEin og hvør hevur rætt til at stovna og gerast limur í yrkisfelag til at verja síni áhugamál.\n24. grein\nØll hava rætt til hvíld og frítíð, har uppi í rímiliga avmarking av arbeiðstíðini og frítíð við løn ávísum\nmillumbilum.\n25. grein\nEin og hvør hevur rætt til lívsumsøður, ið tryggja honum og hansara heilsu og vælveru, har uppi í mat, klæði,\nbústað og heilsurøkt og almennar tænastur og rætt til trygd við møguligum arbeiðsloysi, sjúku, æarbeiðsføri,\nmissi av maka, aldri ella aðrari skerjing av vinnumøguleikum orsakað av um støðum, sum hann ikki hevur\nræði á.\nMøður og børn hava krav um serliga umsorgan og hjálp. Øll børn, annaðhvørt tey eru fødd í hjúnalagi ella\nuttan, njæta somu almannavernd."
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "6c404da2d77345e290f43c9c11994572",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "26. grein\nØll hava rætt til útbúgving. Útbúgving skal vera ækeypis, íhvussu er á byrjanarstigi skal vera skyldubundin.\nTøknilig og yrkislig útbúgving skal standa øllum í boði, og øll skulu eftir førimuni hava somu atgongd a\nhægri undirvísing.\nUndirvísing skal miða ímæti at fullmenna persænleika einstaklingsins og at stimbra virðingina fyri\nmannarættindum og frælsi. Hon skal fremja fatan, tolsemi og vinalag millum tjæðir, fælkasløg og\ntrúarbælkar, og skal fremja virki Sameindu Tjæðanna fyri at varðveita friðin.\nForeldur hava fyrsta rætt at velja, hvat slag av undirvísing skal verða givin børnum teirra.\n27. grein\nØll hava rætt til frítt at taka lut í mentanarlívi í samfelagnum, at njæta list og eiga lut í framburði vísinda og\nágæðum teirra.\nØll hava rætt til vernd av andaligum og evnisligum áhugamálum í sambandi vidð eitt og hvørt vísindaligt,\nbækmentaligt ella listarligt verk, sum avvarðandi hevur greitt úr hondum.\n28. grein\nØll hava rætt til samfelags- og altjæða skipan, har tey rættindi og frælsi, ið nevnd eru í hesi yvirlýsing, kunnu\nverða framd út í æsir.\n29. grein\nØll hava skyldur fyri samfelagnum; í tí einans er full og fræls menning persænleikans gjørlig.\nSamfelagsborgarar skulu viðvíkjandi rættindum og frælsi einans verða bundnir av avmarkanum, sum eru\nsettar í lægum við tí í hyggju at tryggja viðurkenning av og virðing fyri frælsi og rættindum hjá øðrum og til",
-            "Image": "6c404da2d77345e290f43c9c11994572"
+            "Text": "26. grein\nØll hava rætt til útbúgving. Útbúgving skal vera ækeypis, íhvussu er á byrjanarstigi skal vera skyldubundin.\nTøknilig og yrkislig útbúgving skal standa øllum í boði, og øll skulu eftir førimuni hava somu atgongd a\nhægri undirvísing.\nUndirvísing skal miða ímæti at fullmenna persænleika einstaklingsins og at stimbra virðingina fyri\nmannarættindum og frælsi. Hon skal fremja fatan, tolsemi og vinalag millum tjæðir, fælkasløg og\ntrúarbælkar, og skal fremja virki Sameindu Tjæðanna fyri at varðveita friðin.\nForeldur hava fyrsta rætt at velja, hvat slag av undirvísing skal verða givin børnum teirra.\n27. grein\nØll hava rætt til frítt at taka lut í mentanarlívi í samfelagnum, at njæta list og eiga lut í framburði vísinda og\nágæðum teirra.\nØll hava rætt til vernd av andaligum og evnisligum áhugamálum í sambandi vidð eitt og hvørt vísindaligt,\nbækmentaligt ella listarligt verk, sum avvarðandi hevur greitt úr hondum.\n28. grein\nØll hava rætt til samfelags- og altjæða skipan, har tey rættindi og frælsi, ið nevnd eru í hesi yvirlýsing, kunnu\nverða framd út í æsir.\n29. grein\nØll hava skyldur fyri samfelagnum; í tí einans er full og fræls menning persænleikans gjørlig.\nSamfelagsborgarar skulu viðvíkjandi rættindum og frælsi einans verða bundnir av avmarkanum, sum eru\nsettar í lægum við tí í hyggju at tryggja viðurkenning av og virðing fyri frælsi og rættindum hjá øðrum og til"
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "997fccf31a0448b35ff87ddb4503d5c7",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "tess at lúka rættvís krøv um siðalag, alment skil og vælferð almenningsins í fælkaræðissamfelag.\nHesi rættindi og frælsi mega í ongum føri verða int í mætstøðu við endamál og grundreglur Sameindu\nTjæðanna.\n30. grein\nEinki í hesi yvirlýsing eigur at verða tulkað tann veg, at nøkrum ríki, bælki ella einsaklingi verður loyvt at\ngera nakað, ið miðar ímæti at beina fyri nøkrum av teimun mannarættindum, sum her eru tald.",
-            "Image": "997fccf31a0448b35ff87ddb4503d5c7"
+            "Text": "tess at lúka rættvís krøv um siðalag, alment skil og vælferð almenningsins í fælkaræðissamfelag.\nHesi rættindi og frælsi mega í ongum føri verða int í mætstøðu við endamál og grundreglur Sameindu\nTjæðanna.\n30. grein\nEinki í hesi yvirlýsing eigur at verða tulkað tann veg, at nøkrum ríki, bælki ella einsaklingi verður loyvt at\ngera nakað, ið miðar ímæti at beina fyri nøkrum av teimun mannarættindum, sum her eru tald."
         }
     }
 }

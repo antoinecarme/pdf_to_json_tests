@@ -1,93 +1,93 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581466837,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "dc6009a0d3710b334b0483452782b9ba",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "Kom Mapu Fijke Az Tañi Az Mogeleam\nTuwvlzugun\n(\"Preámbulo\" pi ta wigka)\nKimnieel fij mapu mew tañi kimgen kvme felen kisugvnew felen xvr kvme mvlen. Tvfaci zugu ñi mvleken mvleyem yamvwvn ka xvr kvme\nnor felen kom pu reñmawke ce mew.\nGewenonmu yamuwvn, zuamgewenonmu kvme felen, goymagenmu nor felen mvley re jazkvnkawvn: Fey mew mvley xvrvmzugu kom pu ce\ntañi kvme mogeleam kisuke ñi feyentun mew, kisu ñi rakizuam mew ka ñi wimtun mew ñi mvleal egvn.\nTañi mvlenoam kaiñetuwvn zugu, awkan zugu tvfeyci wezake vbmen egvn mvley tañi xvrvmuwael tvfeyci wvnenkvleci pu ce zugu mew tañi\nyamgeam xvr kvme nor felen.\nKa kimnieel ñi rvf kvme zugugen, wenvykawvn kom pu Xokiñke Ce egvn, nuwkvlelu Kiñe Mapu mew (\"Naciones Unidas\" pi ta wigka): Tvfa\negvn xawvlelu \"Naciones Unidas\" mew nuwtuaygvn tvfaci \"Fvxa Cijka\" mew kvme xvr norkvletuam ñi mogen kom pu wenxu ka pu zomo\nmvlelu ixofij mapu mew feyci, kom xawvci pu ce tañi werkvel ci Pu Xokinke Ce (\"Estados Miembros\" pi ta wigka) mvlelu fij mapu kom pvle\nkejuwayiñ taiñ yamfalafiel xvr kvme felen ka nor felen piwigvn.\nFemueci mvlcy ñi kimniegeael kom mapu mew nor kvme felen ka kisugvnew mvlen tvfaci rakizuam kvzaw mew.\nFey mew Fvxa Xawvn mew (\"Asamblea General\" pi ta wigka)\nWixañpvramgey tvfaci Fvxa Cijka Kom Mapu Fijke Az Ce Tañi Az Mogeleam pigelu.\nRvf kvme zugugelu am fey mew ta mvley tañi kvzawael kom pu ce fij mapu mew, pu fvxake vbmen, kom pu ce wvnenkvlelu cem zugu mew\nrume, pu wenxu ka pu zomo mvley tañi newenmayafiel ka wenuñpvramafiel tvfaci zugu az mogeleam kom pu mogen ce, fey mew ta yamgeay\nxvr felen ka nor felen tvfaci mogen mew.\nKiñe Xoy (1)\nKom pu mogence kisuzuam mvlekey, kom cegeygvn, logkogeygvn ka piwkegeygvn, nieygvn kimvn fey mew mvley tañi yamniewael ka\nepuñpvle kejuwael egvn.\nEpu Xoy (2)\nKIÑE. Kom xipace, fijke mojfvñ ce wixapvraley ñi kvme felen, nor felen tvfaci Fvxa Cijka mew, cumgeay rume ñi zugun, ñi wimtun, cem\nazgeay rume, cem kimvn rume nieay.\nEPU. Kom pu xokiñ ce, cem az mogengeayrume mvlelu fij mapu, ka femueci xvr nvwkvley tvfaci Fvxa Cijka mew.",
-            "Image": "dc6009a0d3710b334b0483452782b9ba"
+            "Text": "Kom Mapu Fijke Az Tañi Az Mogeleam\nTuwvlzugun\n(\"Preámbulo\" pi ta wigka)\nKimnieel fij mapu mew tañi kimgen kvme felen kisugvnew felen xvr kvme mvlen. Tvfaci zugu ñi mvleken mvleyem yamvwvn ka xvr kvme\nnor felen kom pu reñmawke ce mew.\nGewenonmu yamuwvn, zuamgewenonmu kvme felen, goymagenmu nor felen mvley re jazkvnkawvn: Fey mew mvley xvrvmzugu kom pu ce\ntañi kvme mogeleam kisuke ñi feyentun mew, kisu ñi rakizuam mew ka ñi wimtun mew ñi mvleal egvn.\nTañi mvlenoam kaiñetuwvn zugu, awkan zugu tvfeyci wezake vbmen egvn mvley tañi xvrvmuwael tvfeyci wvnenkvleci pu ce zugu mew tañi\nyamgeam xvr kvme nor felen.\nKa kimnieel ñi rvf kvme zugugen, wenvykawvn kom pu Xokiñke Ce egvn, nuwkvlelu Kiñe Mapu mew (\"Naciones Unidas\" pi ta wigka): Tvfa\negvn xawvlelu \"Naciones Unidas\" mew nuwtuaygvn tvfaci \"Fvxa Cijka\" mew kvme xvr norkvletuam ñi mogen kom pu wenxu ka pu zomo\nmvlelu ixofij mapu mew feyci, kom xawvci pu ce tañi werkvel ci Pu Xokinke Ce (\"Estados Miembros\" pi ta wigka) mvlelu fij mapu kom pvle\nkejuwayiñ taiñ yamfalafiel xvr kvme felen ka nor felen piwigvn.\nFemueci mvlcy ñi kimniegeael kom mapu mew nor kvme felen ka kisugvnew mvlen tvfaci rakizuam kvzaw mew.\nFey mew Fvxa Xawvn mew (\"Asamblea General\" pi ta wigka)\nWixañpvramgey tvfaci Fvxa Cijka Kom Mapu Fijke Az Ce Tañi Az Mogeleam pigelu.\nRvf kvme zugugelu am fey mew ta mvley tañi kvzawael kom pu ce fij mapu mew, pu fvxake vbmen, kom pu ce wvnenkvlelu cem zugu mew\nrume, pu wenxu ka pu zomo mvley tañi newenmayafiel ka wenuñpvramafiel tvfaci zugu az mogeleam kom pu mogen ce, fey mew ta yamgeay\nxvr felen ka nor felen tvfaci mogen mew.\nKiñe Xoy (1)\nKom pu mogence kisuzuam mvlekey, kom cegeygvn, logkogeygvn ka piwkegeygvn, nieygvn kimvn fey mew mvley tañi yamniewael ka\nepuñpvle kejuwael egvn.\nEpu Xoy (2)\nKIÑE. Kom xipace, fijke mojfvñ ce wixapvraley ñi kvme felen, nor felen tvfaci Fvxa Cijka mew, cumgeay rume ñi zugun, ñi wimtun, cem\nazgeay rume, cem kimvn rume nieay.\nEPU. Kom pu xokiñ ce, cem az mogengeayrume mvlelu fij mapu, ka femueci xvr nvwkvley tvfaci Fvxa Cijka mew."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "fc1356ef4f31bf9930a74bf9ba1c81ab",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "Kvla Xoy (3)\nKom ce mvley ñi mogeleael, kisugvnew feleael ka yamniegeael.\nMeli Xoy (4)\nIney rume gelay ñi xafkiñtuceael. Gewelayay xafkiñtucen ran mew kuyfi reke.\nKecu Xoy (5)\nCem ce rume wezakamekegelayay, kupafkamekegelayay.\nKayu Xoy (6)\nKom ce fij mapu mew mvley ñi kimgeael, wirintukulelu am ñi vy wigka zugu mew (\"Personalidad Jurídica\" pi ta wigka).\nReqle Xoy (7)\nKom femgey ce wigka ñi wirikon zugu mew (\"Ley\" pi ta wigka) fey mew kom pu ce pepi nvway tvfaci zugu mew. Yamgerumenole cuci sugu\nrume wirintukulelu tvfaci \"Fvxa Cijka\" mew.\nPura Xoy (8)\nPu wigka mew mvley kiñe ruka cew ñi norvmgekemum ixofij wezake zugu; fey mew pepi nvway kom pu ce tañi igkañmageam,\nyamvñmagenole tvfeyci nor zugu wirintukulelu fvta cijka mew \"Constitución\" pigelu, nielu kom pu xokiñke ce fij mapu.\nAyja Xoy (9)\nGelay iney rume ñi koraltukugeael ka wemvnentugeael ka wemvnentugeael tañi mapu mew wezakamekenole.\nMari Xoy (10)\nTvfeyci wigka norvmzuguwe ruka mew, kom pu ce mvley ajkvtuñmageael ñi zugu, tañi kimgeam ñi weza femvn kam femnon ka tañi kimgeam\ncumueci ñi feletuael ragi kakelu pu ce.\nMari Kiñe Xoy (11)\nKIÑE. Cem ce rume kimvñmagenole ñi weza femvn gelay cumuelu tañi zajuñmageael ka mvley ñi eluñmageael tañi igkawam.\nEPU. Kuyfi iney rume weza femfule, feyci mew zajufalnofule tvfeyci zugu gelay cumuelu ñi zajuñmageael fewla. Ka gelay cumuelu ñi zoy\nfvxa zajuñmageael feypilenole fewla tvfeyci nor zugu mew wirintukulelu Fvxa Cijka mew.\nMari Epu Xoy (12)",
-            "Image": "fc1356ef4f31bf9930a74bf9ba1c81ab"
+            "Text": "Kvla Xoy (3)\nKom ce mvley ñi mogeleael, kisugvnew feleael ka yamniegeael.\nMeli Xoy (4)\nIney rume gelay ñi xafkiñtuceael. Gewelayay xafkiñtucen ran mew kuyfi reke.\nKecu Xoy (5)\nCem ce rume wezakamekegelayay, kupafkamekegelayay.\nKayu Xoy (6)\nKom ce fij mapu mew mvley ñi kimgeael, wirintukulelu am ñi vy wigka zugu mew (\"Personalidad Jurídica\" pi ta wigka).\nReqle Xoy (7)\nKom femgey ce wigka ñi wirikon zugu mew (\"Ley\" pi ta wigka) fey mew kom pu ce pepi nvway tvfaci zugu mew. Yamgerumenole cuci sugu\nrume wirintukulelu tvfaci \"Fvxa Cijka\" mew.\nPura Xoy (8)\nPu wigka mew mvley kiñe ruka cew ñi norvmgekemum ixofij wezake zugu; fey mew pepi nvway kom pu ce tañi igkañmageam,\nyamvñmagenole tvfeyci nor zugu wirintukulelu fvta cijka mew \"Constitución\" pigelu, nielu kom pu xokiñke ce fij mapu.\nAyja Xoy (9)\nGelay iney rume ñi koraltukugeael ka wemvnentugeael ka wemvnentugeael tañi mapu mew wezakamekenole.\nMari Xoy (10)\nTvfeyci wigka norvmzuguwe ruka mew, kom pu ce mvley ajkvtuñmageael ñi zugu, tañi kimgeam ñi weza femvn kam femnon ka tañi kimgeam\ncumueci ñi feletuael ragi kakelu pu ce.\nMari Kiñe Xoy (11)\nKIÑE. Cem ce rume kimvñmagenole ñi weza femvn gelay cumuelu tañi zajuñmageael ka mvley ñi eluñmageael tañi igkawam.\nEPU. Kuyfi iney rume weza femfule, feyci mew zajufalnofule tvfeyci zugu gelay cumuelu ñi zajuñmageael fewla. Ka gelay cumuelu ñi zoy\nfvxa zajuñmageael feypilenole fewla tvfeyci nor zugu mew wirintukulelu Fvxa Cijka mew.\nMari Epu Xoy (12)"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "ede61b9a17b5c1f0da565b88e3797817",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "Wigka ñi wirikon zugu mew (\"Ley\" pi ta wigka) nvwkvley kom pu ce ka fey mew mvley ñi igkañmageael egvn kake ce zugukonle ñi mogen\nmew, kam ka ce pekanka lef konle ñi ruka mew, kom tañi felen mew ka wezaka zuguyekañmagele.\nMari Kvla Xoy (13)\nKIÑE. Kom pu ce mvley ñi kisugvnew miyawael xokiñke ce (\"Estados\" pi ta wigka) ñi mapu mew.\nEPU. Kom pu ce pepi xipayay cem xokiñke ce (\"Estado\" pi ta wigka) mew rume ka kisu ñi mvlemum, welu ka pepi wiñotuay.\nMari Meli Xoy (14)\nKIÑE. Cem zugu mew rume inayawgele cem ce rume, tvfa mvley ñi gvnaytuniegeael (\"asilar\" pi ta wigka) cem xokiñ ce mew rume.\nEPU. Welu tvfeyci gvnaytucen kvmelayay, rvf weza femle tvfaci ce, inayawlel (lagvmle, weñele) ka yamnofile tvfaci \"Naciones Unidas\" ñi\nwixañpvramnieel ci zugu.\nMari Kecu Xoy (15)\nKIÑE. Kom pu ce pepi nvwkvleay cem az mogen (\"nacionalidad\" pi ta wigka) mew rume.\nEPU. Iney rume mvntuñmagelayay ñi az mogen (\"nacionalidad\") ka pepi nvway ka konaygvn kake az mogen mew kvpa femle egvn.\nMari Kayu Xoy (16)\nKIÑE. Kom pu zomo ka pu wenxu pepi kureyeway kvpa kvreyewle cem xipacegeaygu rume, kekewme az mogen nieaygu rume. Kvpa niele\nkisu ñi pu fvren egu femaygu mvten. Ka femueci kvme feleaygu: iney rume cumekelayaygu egu kurewenkvlen kam wvzatule egu rume.\nEPU. Tvfaci epu ce re kisuzuam pile egu mvten fey wvla pepi kureyewaygu.\nKVLA. Kom pu fijke ce reñmawengenofule gelayafuy ce kom mapu, fey mew ta pu xokiñ ce (\"Estado\" pi ta wigka) ka kom pu ce mvley tañi\ngvnaytunieael fijke fvrenwen ka reñmawen.\nMari Reqle Xoy (17)\nKIÑE. Kom pu ce mvley kisu ñi gengeael, ka xokiñke ce ñi gengeael cemu rume.\nEPU. Iney rume pekanka mvntuñmagelayay ñi nieel (cemgeay rume).\nMari Pura Xoy (18)\nCem rakizuam rume cem feyentun rume nieay fij pu ce gelayay cumuelu ñi mvntuñmageael ka takuñmageael. Kisuzuam kvpa konle kake\nfeyentun mew femay mvten, kvpa kimelle ñi rakizuam ka feyentun ka pepi kimelafi.\nMari Ayja Xoy (19)",
-            "Image": "ede61b9a17b5c1f0da565b88e3797817"
+            "Text": "Wigka ñi wirikon zugu mew (\"Ley\" pi ta wigka) nvwkvley kom pu ce ka fey mew mvley ñi igkañmageael egvn kake ce zugukonle ñi mogen\nmew, kam ka ce pekanka lef konle ñi ruka mew, kom tañi felen mew ka wezaka zuguyekañmagele.\nMari Kvla Xoy (13)\nKIÑE. Kom pu ce mvley ñi kisugvnew miyawael xokiñke ce (\"Estados\" pi ta wigka) ñi mapu mew.\nEPU. Kom pu ce pepi xipayay cem xokiñke ce (\"Estado\" pi ta wigka) mew rume ka kisu ñi mvlemum, welu ka pepi wiñotuay.\nMari Meli Xoy (14)\nKIÑE. Cem zugu mew rume inayawgele cem ce rume, tvfa mvley ñi gvnaytuniegeael (\"asilar\" pi ta wigka) cem xokiñ ce mew rume.\nEPU. Welu tvfeyci gvnaytucen kvmelayay, rvf weza femle tvfaci ce, inayawlel (lagvmle, weñele) ka yamnofile tvfaci \"Naciones Unidas\" ñi\nwixañpvramnieel ci zugu.\nMari Kecu Xoy (15)\nKIÑE. Kom pu ce pepi nvwkvleay cem az mogen (\"nacionalidad\" pi ta wigka) mew rume.\nEPU. Iney rume mvntuñmagelayay ñi az mogen (\"nacionalidad\") ka pepi nvway ka konaygvn kake az mogen mew kvpa femle egvn.\nMari Kayu Xoy (16)\nKIÑE. Kom pu zomo ka pu wenxu pepi kureyeway kvpa kvreyewle cem xipacegeaygu rume, kekewme az mogen nieaygu rume. Kvpa niele\nkisu ñi pu fvren egu femaygu mvten. Ka femueci kvme feleaygu: iney rume cumekelayaygu egu kurewenkvlen kam wvzatule egu rume.\nEPU. Tvfaci epu ce re kisuzuam pile egu mvten fey wvla pepi kureyewaygu.\nKVLA. Kom pu fijke ce reñmawengenofule gelayafuy ce kom mapu, fey mew ta pu xokiñ ce (\"Estado\" pi ta wigka) ka kom pu ce mvley tañi\ngvnaytunieael fijke fvrenwen ka reñmawen.\nMari Reqle Xoy (17)\nKIÑE. Kom pu ce mvley kisu ñi gengeael, ka xokiñke ce ñi gengeael cemu rume.\nEPU. Iney rume pekanka mvntuñmagelayay ñi nieel (cemgeay rume).\nMari Pura Xoy (18)\nCem rakizuam rume cem feyentun rume nieay fij pu ce gelayay cumuelu ñi mvntuñmageael ka takuñmageael. Kisuzuam kvpa konle kake\nfeyentun mew femay mvten, kvpa kimelle ñi rakizuam ka feyentun ka pepi kimelafi.\nMari Ayja Xoy (19)"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "cdd7feb46ae58c392570f5940a164d1b",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "Kom pu ce pepi entuay ñi rakizuam ka zugu, ka pepi kimellafi kompvle cumueci rume (radiomu, telemu, wirinmu) ka pepi kintuay, ramtuay ka\njoway zugu tañi kvzawkvlenmu. Ka femueci tvfaci zugu pepi kimellafi cew rume.\nEpu Mari Xoy (20)\nKIÑE. Kom pu ce kisu ñi gvnewmu pepi xawvay cem piei xokiñ ce egvn rume.\nEPU. Welu cem ce rume pinole ñi konaeal cem xokiñ ce ñi kvzaw mew rume, gelay cumuelu ñi gagegeael.\nEpu Mari Kiñe Xoy (21)\nKIÑE. Cem ce rume pepi konay logkolealu tvfeyci xokiñ ce mew nvwkvlelu Kiñe Mapu mew (\"País\" pi ta wigka) kam werkvaygvn kiñe ce\nkisu egvn tañi zujiel.\nEPU. Kom pu ce xvr pepi konay tañi kiñe Mapu Xokiñ ce mew ñi cem kvzaw mew rume.\nKVLA. Tvfey ci Kiñe Mapu Xokiñ ce mew logkolelu: Logkogey kom pu ce mvlelu fey ci xokiñmu tañi zuam. Tvfa ci pu ce mvxvmmuway\ntañi zujiam ñi logko egvn, kom xvr pepi feypiaygvn iney tañi zuamniefiel tañi logkogeal.\nEpu Mari Epu Xoy (22)\nTvfey ci logkolelu Kiñe Mapu Xokiñ Ce mew mvley wvlael ixofij keju tañi kvme feleam ka kvme mogeleam kom pu ce mvlelu tvfey ci Xokiñ\nmew. Tvfaci logko kvme pepi kejunole ñi pu ce mvley tañi kejuaetew kake Mapu Xokiñ Ce.\nEpu Mari Kvla Xoy (23)\nKIÑE. Kom pu ce mvley ñi nieael kvzaw, mvley kisu zujiael ñi kvzaw femueci ta xvr feleay ta pu ce. Cem ce rumje penoloe kvzaw mvley tañi\ngvnaytunieaetew wvnenkvleci pu ce ixofij zugu mew, tañi Kiñe Mapu Xokiñ Ce mew.\nEPU. Kom pu ce cumgeay rume mvley ñi kom xvr kujigeael tañi kvzaw mew egvn.\nKVLA. Kom Kvzawci pu ce mvley ñi kvme kujiniegeael; tañi kvme mogeleam ka kvme mogelneam ñi pu fvren. Puwjenole tvfaci mogeam,\nmvley ñi kejugeael tañi Kiñe Mapu Xokiñ Ce mew.\nMELI. Tvfeyci pu kvzawfe rvf kvme felenole, yamvñmagenole ñi zugu egvn pepi xawvluwaygvn tañi kinewvn igkawam egvn.\nEpu Mari Meli Xoy (24)\nKom Kvzawfe pu ce mvley ñi vrkvtuael ñi kvzaw mew, ka tañi zoy kvzawnoam, yamvñmageael ñi orario ka tañi kiñe mufv antv vrkvtuael fij\nxipantu.\nEpu Mari Kecu Xoy (25)",
-            "Image": "cdd7feb46ae58c392570f5940a164d1b"
+            "Text": "Kom pu ce pepi entuay ñi rakizuam ka zugu, ka pepi kimellafi kompvle cumueci rume (radiomu, telemu, wirinmu) ka pepi kintuay, ramtuay ka\njoway zugu tañi kvzawkvlenmu. Ka femueci tvfaci zugu pepi kimellafi cew rume.\nEpu Mari Xoy (20)\nKIÑE. Kom pu ce kisu ñi gvnewmu pepi xawvay cem piei xokiñ ce egvn rume.\nEPU. Welu cem ce rume pinole ñi konaeal cem xokiñ ce ñi kvzaw mew rume, gelay cumuelu ñi gagegeael.\nEpu Mari Kiñe Xoy (21)\nKIÑE. Cem ce rume pepi konay logkolealu tvfeyci xokiñ ce mew nvwkvlelu Kiñe Mapu mew (\"País\" pi ta wigka) kam werkvaygvn kiñe ce\nkisu egvn tañi zujiel.\nEPU. Kom pu ce xvr pepi konay tañi kiñe Mapu Xokiñ ce mew ñi cem kvzaw mew rume.\nKVLA. Tvfey ci Kiñe Mapu Xokiñ ce mew logkolelu: Logkogey kom pu ce mvlelu fey ci xokiñmu tañi zuam. Tvfa ci pu ce mvxvmmuway\ntañi zujiam ñi logko egvn, kom xvr pepi feypiaygvn iney tañi zuamniefiel tañi logkogeal.\nEpu Mari Epu Xoy (22)\nTvfey ci logkolelu Kiñe Mapu Xokiñ Ce mew mvley wvlael ixofij keju tañi kvme feleam ka kvme mogeleam kom pu ce mvlelu tvfey ci Xokiñ\nmew. Tvfaci logko kvme pepi kejunole ñi pu ce mvley tañi kejuaetew kake Mapu Xokiñ Ce.\nEpu Mari Kvla Xoy (23)\nKIÑE. Kom pu ce mvley ñi nieael kvzaw, mvley kisu zujiael ñi kvzaw femueci ta xvr feleay ta pu ce. Cem ce rumje penoloe kvzaw mvley tañi\ngvnaytunieaetew wvnenkvleci pu ce ixofij zugu mew, tañi Kiñe Mapu Xokiñ Ce mew.\nEPU. Kom pu ce cumgeay rume mvley ñi kom xvr kujigeael tañi kvzaw mew egvn.\nKVLA. Kom Kvzawci pu ce mvley ñi kvme kujiniegeael; tañi kvme mogeleam ka kvme mogelneam ñi pu fvren. Puwjenole tvfaci mogeam,\nmvley ñi kejugeael tañi Kiñe Mapu Xokiñ Ce mew.\nMELI. Tvfeyci pu kvzawfe rvf kvme felenole, yamvñmagenole ñi zugu egvn pepi xawvluwaygvn tañi kinewvn igkawam egvn.\nEpu Mari Meli Xoy (24)\nKom Kvzawfe pu ce mvley ñi vrkvtuael ñi kvzaw mew, ka tañi zoy kvzawnoam, yamvñmageael ñi orario ka tañi kiñe mufv antv vrkvtuael fij\nxipantu.\nEpu Mari Kecu Xoy (25)"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "0269206504375e0a4fdfca4b5a9a7278",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "KIÑE. Kom pu ce mvley ñi kvme mogen nieael; kuxanle egvn tañi peael lawen, tañi kvme iyael egvn, kvme tukuluwvn ñi peael, kvme ruka\nmew ñi mvleael, tañi peael lawentufe ce egvn. Tvfa rume falile tañi keju kujigeael. Ka femueci pepi kvzawnole mvley ñi kejuaetew ka\ngvnaytuaetew pu wvnenkvleci pu ce ixofij zugu mew tañi Kiñe Mapu Xokiñ mew.\nEPU. Pvñeñci pu zomo ka mvle-mvlegeci pu picike ce mvley ñi peaetew ka kejuaetew kvmeke lawentucefe ka femueci kom pu picike ce\nmvley ñi gvnaytuniegeael kom pu Xokiñ Ce mew.\nEpu Mari Kayu Xoy (26)\nKIÑE. Kom pu ce pepi kimay fij cijkatun, cem ce rume kujilayay tañi kimam. Welu kom pu ce mvley tañi rvf kimelgeael fij zugu wvneluw\ncijkatukeel tañi kim cegeam. Cem ce rume zoy kvpa cijkatule tañi zoy kimam femay mvten ka kom pu ce cumgeay rume, pepi konay cem\ncijkatun mew rume, tañi ayvnieel ñi inayael.\nEPU. Kom tvfaci cijkatun ka kimeltun mvley ñi kejuael kvme cegeam, kim cegeam, nor vegeam, mvley ñi newenmayafiel ta nor felen ka\nkisugvnew felen tvfaci mogen mew. Mvley tañi kejuael welukon yamniewael mew ka wenvykawael kom pu ce ka fijke Xokiñke Pu Ce, cem az\nmogen rume nieaygvn. Kom tvfaci kimeltun mvley ñi kejukvzawmayafiel ka wixañpvramafiel fij kvmeke zugu \"Naciones Unidas\" mew.\nKVLA. Kom pu kurewen mvley kisu egu ñi piael cem kimvn ka cijkatun nieael tañi pu pvñeñ.\nEpu Mari Reqle Xoy (27)\nKIÑE. Kom pu ce mvley ñi kisuzuam nvwael cem wimtun mew rume mvlele tañi Xokiñ Ce mew, ka tañi kintuael, inakonael, ka nvael cem\nfvtake kimvn rume mvlele.\nEPU. Cem ce rume mvley tañi gvnaytukunieñmageae ka kuñiwtukunieñmageael tañi gvbam ka tañi kimvn niele ka femueci mvley ñi niegeael\ntvfaci zugu cuci ce rume kuwv mew entule cem kvzaw rume.\nEpu Mari Pura Xoy (28)\nFijke Kiñe Mapu Xokiñ Ce mew mvley ñi kvme nor elgeael zugu, femueci ta kom pu ce mvlelu fij mapu yamvñmageay ñi nor az felen.\nEpu Mari Ayja Xoy (29)\nKIÑE. Kom pu ce mvley tañi rvf nieael kvme zugu, kvme rakizuam ka tañi nor cegeael tañi ragi pu Xokiñ Ce mew, fey mew am xemkvlelu ce\nreke ka amulnielu cem kvzaw rume.\nEPU. Tañi nor felenmu ka kisugvnew felenmu kom pu ce nvwkvleay wigka ñi wirikon zugu mew (\"Ley\" pi ta wigka) mvten, fey mew ta\nkakelu pu ce yamvñmageay ñi kvme feleael, kisugvnew felen, ñi nor feleael ka tañi mvleam xvr ka nor mogen kom pu Xokiñke Ce mew.\nKVLA. Kom tvfaci nor zugu cumkaw rume gelay ñi nvgeael weluka ka pekagka amulgeale. \"Naciones Unidas\" ta pekagka amulael mogen,\nwixañpvrammekelay tvfaci \"Fvxa Cijka\".",
-            "Image": "0269206504375e0a4fdfca4b5a9a7278"
+            "Text": "KIÑE. Kom pu ce mvley ñi kvme mogen nieael; kuxanle egvn tañi peael lawen, tañi kvme iyael egvn, kvme tukuluwvn ñi peael, kvme ruka\nmew ñi mvleael, tañi peael lawentufe ce egvn. Tvfa rume falile tañi keju kujigeael. Ka femueci pepi kvzawnole mvley ñi kejuaetew ka\ngvnaytuaetew pu wvnenkvleci pu ce ixofij zugu mew tañi Kiñe Mapu Xokiñ mew.\nEPU. Pvñeñci pu zomo ka mvle-mvlegeci pu picike ce mvley ñi peaetew ka kejuaetew kvmeke lawentucefe ka femueci kom pu picike ce\nmvley ñi gvnaytuniegeael kom pu Xokiñ Ce mew.\nEpu Mari Kayu Xoy (26)\nKIÑE. Kom pu ce pepi kimay fij cijkatun, cem ce rume kujilayay tañi kimam. Welu kom pu ce mvley tañi rvf kimelgeael fij zugu wvneluw\ncijkatukeel tañi kim cegeam. Cem ce rume zoy kvpa cijkatule tañi zoy kimam femay mvten ka kom pu ce cumgeay rume, pepi konay cem\ncijkatun mew rume, tañi ayvnieel ñi inayael.\nEPU. Kom tvfaci cijkatun ka kimeltun mvley ñi kejuael kvme cegeam, kim cegeam, nor vegeam, mvley ñi newenmayafiel ta nor felen ka\nkisugvnew felen tvfaci mogen mew. Mvley tañi kejuael welukon yamniewael mew ka wenvykawael kom pu ce ka fijke Xokiñke Pu Ce, cem az\nmogen rume nieaygvn. Kom tvfaci kimeltun mvley ñi kejukvzawmayafiel ka wixañpvramafiel fij kvmeke zugu \"Naciones Unidas\" mew.\nKVLA. Kom pu kurewen mvley kisu egu ñi piael cem kimvn ka cijkatun nieael tañi pu pvñeñ.\nEpu Mari Reqle Xoy (27)\nKIÑE. Kom pu ce mvley ñi kisuzuam nvwael cem wimtun mew rume mvlele tañi Xokiñ Ce mew, ka tañi kintuael, inakonael, ka nvael cem\nfvtake kimvn rume mvlele.\nEPU. Cem ce rume mvley tañi gvnaytukunieñmageae ka kuñiwtukunieñmageael tañi gvbam ka tañi kimvn niele ka femueci mvley ñi niegeael\ntvfaci zugu cuci ce rume kuwv mew entule cem kvzaw rume.\nEpu Mari Pura Xoy (28)\nFijke Kiñe Mapu Xokiñ Ce mew mvley ñi kvme nor elgeael zugu, femueci ta kom pu ce mvlelu fij mapu yamvñmageay ñi nor az felen.\nEpu Mari Ayja Xoy (29)\nKIÑE. Kom pu ce mvley tañi rvf nieael kvme zugu, kvme rakizuam ka tañi nor cegeael tañi ragi pu Xokiñ Ce mew, fey mew am xemkvlelu ce\nreke ka amulnielu cem kvzaw rume.\nEPU. Tañi nor felenmu ka kisugvnew felenmu kom pu ce nvwkvleay wigka ñi wirikon zugu mew (\"Ley\" pi ta wigka) mvten, fey mew ta\nkakelu pu ce yamvñmageay ñi kvme feleael, kisugvnew felen, ñi nor feleael ka tañi mvleam xvr ka nor mogen kom pu Xokiñke Ce mew.\nKVLA. Kom tvfaci nor zugu cumkaw rume gelay ñi nvgeael weluka ka pekagka amulgeale. \"Naciones Unidas\" ta pekagka amulael mogen,\nwixañpvrammekelay tvfaci \"Fvxa Cijka\"."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "167139f7f1f99ef328cb9e194c01db50",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "Kvla Mari Xoy (30)\nTvfaci \"Fvxa Cijka\", cew tañi kimelgen cumueci ñi mvleael mogen fij mapu, gelay cem xokiñ ce rume ñi nvafiel tañi goymalafiel ka tañi\nkvzawmayafiel tañi ñamvmnaqvmgeam cuci zugu rume pegelgeael tvfaci \"Fvxa Cijka\" mew.",
-            "Image": "167139f7f1f99ef328cb9e194c01db50"
+            "Text": "Kvla Mari Xoy (30)\nTvfaci \"Fvxa Cijka\", cew tañi kimelgen cumueci ñi mvleael mogen fij mapu, gelay cem xokiñ ce rume ñi nvafiel tañi goymalafiel ka tañi\nkvzawmayafiel tañi ñamvmnaqvmgeam cuci zugu rume pegelgeael tvfaci \"Fvxa Cijka\" mew."
         }
     }
 }

@@ -1,127 +1,127 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581469432,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
-            "Index": 0,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Ninsaal yel-segdɩ noy gãnegr sebre (yʊʊmd 1948)\nKeoogre\nB wilgame tɩ ninsaal bʊʊd fãa tara a burkĩndlim la a yel-segdɩ tõod sẽ n pa yɩɩd a to, tɩ b pa tõen n dɩk tõod-\nbãmb n koos bɩ n tek a badawã, n yaa dũni wã bãan gãaga, ned fãa sẽ n so a vɩɩm tɩ yembd kaala, la wẽ g-taab\nkaalem dũni wã pʊgẽ yẽ grã.\nB wilgame tɩ ninsaal sẽ n da tog ne yel-segdɩ ninsã kaalmã waa ne bi-beelem la pãng buud toor-toor sẽ n sãam\ndũni wã zãng sũuri, la b yãkamen moon tɩ dũni ning sẽ n na n wa zĩnd-a tɩ ninsaalbã na n wa so b mense, n\ntõe n gom b sẽ n date, n tẽ b sẽ n date, n wa yi rabeem, yaeesg la far buudã fãa pʊgẽ wã, n yaa ninsaal sẽ n\nbaood ne a sũur fãa n yɩɩdã.\nTɩ sẽ n yɩɩd fãa yaa tɩ ninsaal yel-segdɩ wã tog n paamame tɩ b koglg-b ne noy buud sẽ n na yɩl tɩ ned ra wa\nbao a sẽ n na maan n põs pãn-wõrdem b sẽ n maand-a n kong n wẽ neg n kẽ wẽ nem maan n lebs pʊgẽ wã.\nD sẽ n mi tɩ segdame tɩ d keng tẽ ms ne taab zood yõkr zĩndgrã.\nD sẽ n mi tɩ nasõzini (tẽ msã fãa lagem-n-taar kãsengã) le mooname n wilg b tẽ eb ninsaal burkĩndlem la a\ntɩrlem pãnga, pag la rao yel-segdɩ sẽ n zem taabã, tɩ b le wilgame tɩ b ratame n mao n paas ninsaalbã vɩɩm\nsõmblem tɩ yɩ ned fãa sẽ n so a meng vɩɩmẽ wã tɩ yel kãng pãng yɩɩg a pĩndã.\nD sẽ n mi tɩ tẽ ms nins sẽ n be nasõzini lagem-n-taarã pʊgẽ lagma ne lagem-n-taarã n nk sard n na n sõng tɩ\ndũni wã pʊgẽ bɩ ned fãa tũ ninsaalb yelsegdɩ wã sẽ n gãneg noy ninsã.\nD sẽ n mi tɩ ninsaal yel-segdɩ noy bãmba gãnegr sã n yɩ lagem-n-taarã ne a kẽ edbã n na n naag taab n maan-b\nn na n sõng tɩ b tũubã yɩ sõma wã.\nPipi koɛɛga.",
-            "Image": "68079994701e652cb6aedf6dfda0907b"
+            "Image": "68079994701e652cb6aedf6dfda0907b",
+            "Index": 0,
+            "Label": "1",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Ninsaal yel-segdɩ noy gãnegr sebre (yʊʊmd 1948)\nKeoogre\nB wilgame tɩ ninsaal bʊʊd fãa tara a burkĩndlim la a yel-segdɩ tõod sẽ n pa yɩɩd a to, tɩ b pa tõen n dɩk tõod-\nbãmb n koos bɩ n tek a badawã, n yaa dũni wã bãan gãaga, ned fãa sẽ n so a vɩɩm tɩ yembd kaala, la wẽ g-taab\nkaalem dũni wã pʊgẽ yẽ grã.\nB wilgame tɩ ninsaal sẽ n da tog ne yel-segdɩ ninsã kaalmã waa ne bi-beelem la pãng buud toor-toor sẽ n sãam\ndũni wã zãng sũuri, la b yãkamen moon tɩ dũni ning sẽ n na n wa zĩnd-a tɩ ninsaalbã na n wa so b mense, n\ntõe n gom b sẽ n date, n tẽ b sẽ n date, n wa yi rabeem, yaeesg la far buudã fãa pʊgẽ wã, n yaa ninsaal sẽ n\nbaood ne a sũur fãa n yɩɩdã.\nTɩ sẽ n yɩɩd fãa yaa tɩ ninsaal yel-segdɩ wã tog n paamame tɩ b koglg-b ne noy buud sẽ n na yɩl tɩ ned ra wa\nbao a sẽ n na maan n põs pãn-wõrdem b sẽ n maand-a n kong n wẽ neg n kẽ wẽ nem maan n lebs pʊgẽ wã.\nD sẽ n mi tɩ segdame tɩ d keng tẽ ms ne taab zood yõkr zĩndgrã.\nD sẽ n mi tɩ nasõzini (tẽ msã fãa lagem-n-taar kãsengã) le mooname n wilg b tẽ eb ninsaal burkĩndlem la a\ntɩrlem pãnga, pag la rao yel-segdɩ sẽ n zem taabã, tɩ b le wilgame tɩ b ratame n mao n paas ninsaalbã vɩɩm\nsõmblem tɩ yɩ ned fãa sẽ n so a meng vɩɩmẽ wã tɩ yel kãng pãng yɩɩg a pĩndã.\nD sẽ n mi tɩ tẽ ms nins sẽ n be nasõzini lagem-n-taarã pʊgẽ lagma ne lagem-n-taarã n nk sard n na n sõng tɩ\ndũni wã pʊgẽ bɩ ned fãa tũ ninsaalb yelsegdɩ wã sẽ n gãneg noy ninsã.\nD sẽ n mi tɩ ninsaal yel-segdɩ noy bãmba gãnegr sã n yɩ lagem-n-taarã ne a kẽ edbã n na n naag taab n maan-b\nn na n sõng tɩ b tũubã yɩ sõma wã.\nPipi koɛɛga."
         },
         "1": {
-            "Label": "2",
-            "Index": 1,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Ninsaalbã fãa sã n doge, ned fãa so a menga, ned pa rogd n yaa yamb ye, nebã fãa zema taab b yel-segdɩ la b\nburkĩndlem wɛɛngẽ . Nebã fãa tara yam la tagsgo, ned fãa togame n vɩɩnd ne a to saam-biir pʊgẽ .\nKoɛɛg a 2 soaba.\nNed fãa tara sor n tõe n dɩ seb-kãnga sẽ n gãneg noy ninsã yõodo tɩ bakr buud ka zĩnd ye, pa tũus f sẽ n yaa\nbuud ning ye, f yĩng kõbg sẽ n ya-a soab ye, f yaa pag bɩ rao ye, f wẽ nd-sor sẽ n ya-a soab ye, f sẽ n yãk n tik\npolitik ninga, bɩ tẽ eb buud a to ye, f tarem sẽ n ya-a soab ye, f sẽ n dog ne b rãmb ye, bɩ bũmd buud a taab sẽ n\nbakd ye.\nSẽ n paasde, pa tõe n tik ned tẽ ng politik neng sẽ n ya-a soab n bak a soab noy-bãmbã yõod rɩɩb wɛɛngẽ ye,\npa tũus tẽ ngã sã n so a menga bɩ a sã n be zamaan a to yembdẽ .\nKoɛɛg a 3 soaba.\nNed buud fãa tara sor n tõe n vɩɩnde, n soog a menga la a gũnug a menga.\nKoɛɛg a 4 soaba.\nPa tog n dɩk ninsaal buudã fãa n maan yamb ye bɩ n weoog-a ye. Yembdã ne nebã koosgã gɩdgame, ba sẽ n\nwa n ya yembd buud nin fãa.\nKoɛɛg a 5 soaba.\nPa tog n sɩbg ninsaal buudã fãa ye, pa tog n sɩbg ninsaal tɩ sɩbgrã yɩ toog wʊsgo, tɩ pa sẽ n na maan ninsaal\nye.\nKoɛɛg a 6 soaba.\nNed fãa tara sor tɩ sẽ n wa n ya sĩĩg ning fãa, bɩ b sak n deeg a sẽ n yaa ned ning buud bʊ-kaoor soog taoore.\nKoɛɛg a 7 soaba.",
-            "Image": "4efcdbcbd8f35c383a8ae1a4779ec2d1"
+            "Image": "4efcdbcbd8f35c383a8ae1a4779ec2d1",
+            "Index": 1,
+            "Label": "2",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Ninsaalbã fãa sã n doge, ned fãa so a menga, ned pa rogd n yaa yamb ye, nebã fãa zema taab b yel-segdɩ la b\nburkĩndlem wɛɛngẽ . Nebã fãa tara yam la tagsgo, ned fãa togame n vɩɩnd ne a to saam-biir pʊgẽ .\nKoɛɛg a 2 soaba.\nNed fãa tara sor n tõe n dɩ seb-kãnga sẽ n gãneg noy ninsã yõodo tɩ bakr buud ka zĩnd ye, pa tũus f sẽ n yaa\nbuud ning ye, f yĩng kõbg sẽ n ya-a soab ye, f yaa pag bɩ rao ye, f wẽ nd-sor sẽ n ya-a soab ye, f sẽ n yãk n tik\npolitik ninga, bɩ tẽ eb buud a to ye, f tarem sẽ n ya-a soab ye, f sẽ n dog ne b rãmb ye, bɩ bũmd buud a taab sẽ n\nbakd ye.\nSẽ n paasde, pa tõe n tik ned tẽ ng politik neng sẽ n ya-a soab n bak a soab noy-bãmbã yõod rɩɩb wɛɛngẽ ye,\npa tũus tẽ ngã sã n so a menga bɩ a sã n be zamaan a to yembdẽ .\nKoɛɛg a 3 soaba.\nNed buud fãa tara sor n tõe n vɩɩnde, n soog a menga la a gũnug a menga.\nKoɛɛg a 4 soaba.\nPa tog n dɩk ninsaal buudã fãa n maan yamb ye bɩ n weoog-a ye. Yembdã ne nebã koosgã gɩdgame, ba sẽ n\nwa n ya yembd buud nin fãa.\nKoɛɛg a 5 soaba.\nPa tog n sɩbg ninsaal buudã fãa ye, pa tog n sɩbg ninsaal tɩ sɩbgrã yɩ toog wʊsgo, tɩ pa sẽ n na maan ninsaal\nye.\nKoɛɛg a 6 soaba.\nNed fãa tara sor tɩ sẽ n wa n ya sĩĩg ning fãa, bɩ b sak n deeg a sẽ n yaa ned ning buud bʊ-kaoor soog taoore.\nKoɛɛg a 7 soaba."
         },
         "2": {
-            "Label": "3",
-            "Index": 2,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Ninsaalbã fãa zema taab laloa taoore, b fãa tog n paama laloa wã koglgo tɩ bakr ba a ye pa zĩnd ye. Nebã fãa\ntara sor n tõe n paam tɩ b koglg-b ne bakr buud fãa sẽ n na n wa maan n kɩɩs seb-kãnga noy wã sẽ n gãnegã, ne\nbũmb nins sẽ n na n wa ne bakr-bãmba.\nKoɛɛg a 8 soaba.\nNed buud fãa tara sor n tõe n kẽ ng a tẽ ngẽ bʊʊd soog taoore n tɩ bʊ ne weoogre, sɩbgr buud fãa b sẽ n maan-\na, tɩ ninsaalb yel-segdɩ sebrã gɩdge, tɩ laloa mi tiiri.\nKoɛɛg a 9 soaba.\nPa tar sor n tõe n yõk ned zaalem, n pag-a roogo bɩ n yiis-a a tẽ ngẽ n tɩ ning zĩĩg a to tɩ laloa zɩ tiir ye.\nKoɛɛg 10 soaba.\nNed buud fãa tara sor wa laloa sẽ n wilgã, t'a yell ta bʊ-kaoodb sẽ n so bʊʊdã, n tõe n kao tɩ pãn-dãmb ka lob\nb toogo, la sẽ n bʊʊd sɩd taoore, tɩ b bʊ nin-buiid taoore n wilg a yel-segdɩ bɩ a tɩlae-yɛla, bɩ n wilg b sẽ n yet\ntɩ yẽ nda soabã maana bũmb ningã kongr sẽ n taẽ .\nKoɛɛg 11 soaba.\nB sã n yeel tɩ ned maana bʊmb sẽ n kis n dat n paalg-a, sã n pa b wa n bʊ-a lame tɩ bʊʊdã yɩ neb fãa taoore,\nt'a paam sõangd sẽ n mams n paas a poorẽ fãa, ket n ya wa yẽ nda soabã pa maan bũmbã ye.\nB pa tõe n bʊ ned n paalg-a bũmb a sẽ n maan bɩ a sẽ n pa maan yĩnga, sã n mikame tɩ yellã sẽ n maanã\nwakato, bʊʊd soog nengẽ yel bãmba ra pa kis ye. Sẽ n paasd me, b sã n bʊ yellã, b pa tar sor n tõe n kõ ned\nning sẽ n maan-a yellã sɩbgre tɩ yɩɩg yellã sẽ n maanã sasa laloa sẽ n da gãneg sɩbgr buud nins yel-bãmb\nwɛɛngẽ wã ye.\nKoɛɛg 12 soaba.",
-            "Image": "0bd79492b010b4b4cda3f56ff3adc759"
+            "Image": "0bd79492b010b4b4cda3f56ff3adc759",
+            "Index": 2,
+            "Label": "3",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Ninsaalbã fãa zema taab laloa taoore, b fãa tog n paama laloa wã koglgo tɩ bakr ba a ye pa zĩnd ye. Nebã fãa\ntara sor n tõe n paam tɩ b koglg-b ne bakr buud fãa sẽ n na n wa maan n kɩɩs seb-kãnga noy wã sẽ n gãnegã, ne\nbũmb nins sẽ n na n wa ne bakr-bãmba.\nKoɛɛg a 8 soaba.\nNed buud fãa tara sor n tõe n kẽ ng a tẽ ngẽ bʊʊd soog taoore n tɩ bʊ ne weoogre, sɩbgr buud fãa b sẽ n maan-\na, tɩ ninsaalb yel-segdɩ sebrã gɩdge, tɩ laloa mi tiiri.\nKoɛɛg a 9 soaba.\nPa tar sor n tõe n yõk ned zaalem, n pag-a roogo bɩ n yiis-a a tẽ ngẽ n tɩ ning zĩĩg a to tɩ laloa zɩ tiir ye.\nKoɛɛg 10 soaba.\nNed buud fãa tara sor wa laloa sẽ n wilgã, t'a yell ta bʊ-kaoodb sẽ n so bʊʊdã, n tõe n kao tɩ pãn-dãmb ka lob\nb toogo, la sẽ n bʊʊd sɩd taoore, tɩ b bʊ nin-buiid taoore n wilg a yel-segdɩ bɩ a tɩlae-yɛla, bɩ n wilg b sẽ n yet\ntɩ yẽ nda soabã maana bũmb ningã kongr sẽ n taẽ .\nKoɛɛg 11 soaba.\nB sã n yeel tɩ ned maana bʊmb sẽ n kis n dat n paalg-a, sã n pa b wa n bʊ-a lame tɩ bʊʊdã yɩ neb fãa taoore,\nt'a paam sõangd sẽ n mams n paas a poorẽ fãa, ket n ya wa yẽ nda soabã pa maan bũmbã ye.\nB pa tõe n bʊ ned n paalg-a bũmb a sẽ n maan bɩ a sẽ n pa maan yĩnga, sã n mikame tɩ yellã sẽ n maanã\nwakato, bʊʊd soog nengẽ yel bãmba ra pa kis ye. Sẽ n paasd me, b sã n bʊ yellã, b pa tar sor n tõe n kõ ned\nning sẽ n maan-a yellã sɩbgre tɩ yɩɩg yellã sẽ n maanã sasa laloa sẽ n da gãneg sɩbgr buud nins yel-bãmb\nwɛɛngẽ wã ye.\nKoɛɛg 12 soaba."
         },
         "3": {
-            "Label": "4",
-            "Index": 3,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "[Missing]\nKoɛɛg 13 soaba.\nNed buud fãa tara sor n tõe n gõ a tẽ ngẽ , n kẽ ng zĩĩs nins fãa a sẽ n date, la a yãk a sẽ n dat n zĩndẽ .\nNed buud fãa tara sor n tõe n yi tẽ ngẽ n lebg n wa a meng tẽ ngẽ , a le tara sor n tõe n yi a meng tẽ ngẽ n kẽ ng\ntẽ n-taaga la a le lebg n wa a tẽ ngẽ .\nKoɛɛg 14 soaba.\nNed sã n wa be toog zug tẽ ngẽ tɩ b namsd-a wʊsgo, a soab tara sor n tõe n yi n bao gãag-sobend tẽ ms a\ntaabẽ , a le tara sor n tõe n paam tɩ b reeg-a tẽ n-bãmbẽ .\nLa sã n mikame t'a sẽ n maanã, laloa gɩdgame tɩ b mik tɩ yaa sɩda, bɩ sã n mikame t'a sẽ n maanã pa zems ne\nnasõzini (tẽ msã lagem-n-taar kãsengã) sẽ n gãneg noy ninsã, a pa tar sor-kãng ye.\nKoɛɛg 15 soaba.\nNed buud fãa tara sor n tõe n paam tẽ ng-n-biilim tika.\nB pa tar sor n tõe n wõr ned n menes a tẽ ng-n-biilim ye, b le pa tõe n gɩdg-a t'a ra teem a tẽ ng-n-biilim ye.\nKoɛɛg 16 soaba.\nPag ne rao yʊʊmd sã n ta kãadem b tara sor n tõe n kẽ kãadem la b tilg yir tɩ pa tũus b yiibã buud sẽ n ya-b\nrãmba, b tẽ ng-n-biilim bɩ b wẽ nd sor tũudum. Kãadmã kẽ esg noy pʊgẽ , b yiibã yel-segdɩ yaa a ye, pa yɩɩd to\nye, kãadmã vɩɩm wakato la a kaoob wakat me b yel-segdɩ wã ya a ye.\nKãadem pa tõe n kẽ es tɩ pa tũ ne kãad-ratbã sakr sẽ n pa tũ ne modgr ye.\nZak yaa tẽ ng yẽ gre (tẽ ng bõn-bulli). A yaa tẽ ng vɩɩm sũuri. Tẽ ngã neb togame n koglg-a, goosneerã (leta",
-            "Image": "79180b33268202dbdcc7cdcac204d492"
+            "Image": "79180b33268202dbdcc7cdcac204d492",
+            "Index": 3,
+            "Label": "4",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "[Missing]\nKoɛɛg 13 soaba.\nNed buud fãa tara sor n tõe n gõ a tẽ ngẽ , n kẽ ng zĩĩs nins fãa a sẽ n date, la a yãk a sẽ n dat n zĩndẽ .\nNed buud fãa tara sor n tõe n yi tẽ ngẽ n lebg n wa a meng tẽ ngẽ , a le tara sor n tõe n yi a meng tẽ ngẽ n kẽ ng\ntẽ n-taaga la a le lebg n wa a tẽ ngẽ .\nKoɛɛg 14 soaba.\nNed sã n wa be toog zug tẽ ngẽ tɩ b namsd-a wʊsgo, a soab tara sor n tõe n yi n bao gãag-sobend tẽ ms a\ntaabẽ , a le tara sor n tõe n paam tɩ b reeg-a tẽ n-bãmbẽ .\nLa sã n mikame t'a sẽ n maanã, laloa gɩdgame tɩ b mik tɩ yaa sɩda, bɩ sã n mikame t'a sẽ n maanã pa zems ne\nnasõzini (tẽ msã lagem-n-taar kãsengã) sẽ n gãneg noy ninsã, a pa tar sor-kãng ye.\nKoɛɛg 15 soaba.\nNed buud fãa tara sor n tõe n paam tẽ ng-n-biilim tika.\nB pa tar sor n tõe n wõr ned n menes a tẽ ng-n-biilim ye, b le pa tõe n gɩdg-a t'a ra teem a tẽ ng-n-biilim ye.\nKoɛɛg 16 soaba.\nPag ne rao yʊʊmd sã n ta kãadem b tara sor n tõe n kẽ kãadem la b tilg yir tɩ pa tũus b yiibã buud sẽ n ya-b\nrãmba, b tẽ ng-n-biilim bɩ b wẽ nd sor tũudum. Kãadmã kẽ esg noy pʊgẽ , b yiibã yel-segdɩ yaa a ye, pa yɩɩd to\nye, kãadmã vɩɩm wakato la a kaoob wakat me b yel-segdɩ wã ya a ye.\nKãadem pa tõe n kẽ es tɩ pa tũ ne kãad-ratbã sakr sẽ n pa tũ ne modgr ye.\nZak yaa tẽ ng yẽ gre (tẽ ng bõn-bulli). A yaa tẽ ng vɩɩm sũuri. Tẽ ngã neb togame n koglg-a, goosneerã (leta"
         },
         "4": {
-            "Label": "5",
-            "Index": 4,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "wã) togame n koglg-a.\nKoɛɛg 17 soaba.\nNed buud fãa, f ya f ye bɩ f bee sull pœga, tara sor n so a bũmbu.\nB pa tõe n wõr ned n deeg a sẽ n so ye.\nKoɛɛg 18 soaba.\nNed fãa tara sor n tõe n tags a sẽ n date, n bʊgs a sẽ n date la a tũ wẽ nd-sor ninga a sẽ n date. Sor-kãng a sẽ n\ntarã wɛɛngẽ a tõeeme n teem wẽ nd-sor n tũ bɩ n teem tẽ ebo a le tõeeme n wilg a wẽ nd-sor bɩ a tẽ ebo ne\nkaorengo, maana maanego tɩ yɩ yẽ nda a ye bɩ n naag ne a taaba tɩ yɩ neb sʊka bɩ bãmb bal ne taaba.\nKoɛɛg 19 soaba.\nNed buud fãa tara sor n tõe n tẽ a sẽ n date la a gom a sẽ n date, rẽ nda n kɩt tɩ ned pa tog n zoe rabeem ne a\ntẽ eb wilgri, la a tar sor n tõe n bao n bãng kibay la a paam kibay n tall-b n piuug zĩĩg fãa n pa ges tẽ msã tods\nye, tɩ yɩ ne rabay buud fãa a sẽ n date.\nKoɛɛg 20 soaba.\nNed buud fãa tara sor n tõe n paam n maan tigsga la lagem-n-taar sull sẽ n pa tar yɛla (sẽ n pa na n wa ne\ngudgri).\nB pa tõe n modg ned ab a ye t'a kẽ lagem-n-taar pʊgẽ ye.\nKoɛɛg 21 soaba.\nNed buud fãa tara sor n tõe n ning a toog a tẽ ng vɩɩm tʊʊmẽ , a tõeeme n maan tʊʊmd a toore bɩ tũ ne neb b\nsẽ n yãk tɩ b let lagem-n-taara sull n tʊmdẽ , tɩ nin-bãmb yãkrã yaa sẽ n maan tɩ pa tũ ne modgr ye.",
-            "Image": "c6d12234d251fd5d162ba20b93b1cb52"
+            "Image": "c6d12234d251fd5d162ba20b93b1cb52",
+            "Index": 4,
+            "Label": "5",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "wã) togame n koglg-a.\nKoɛɛg 17 soaba.\nNed buud fãa, f ya f ye bɩ f bee sull pœga, tara sor n so a bũmbu.\nB pa tõe n wõr ned n deeg a sẽ n so ye.\nKoɛɛg 18 soaba.\nNed fãa tara sor n tõe n tags a sẽ n date, n bʊgs a sẽ n date la a tũ wẽ nd-sor ninga a sẽ n date. Sor-kãng a sẽ n\ntarã wɛɛngẽ a tõeeme n teem wẽ nd-sor n tũ bɩ n teem tẽ ebo a le tõeeme n wilg a wẽ nd-sor bɩ a tẽ ebo ne\nkaorengo, maana maanego tɩ yɩ yẽ nda a ye bɩ n naag ne a taaba tɩ yɩ neb sʊka bɩ bãmb bal ne taaba.\nKoɛɛg 19 soaba.\nNed buud fãa tara sor n tõe n tẽ a sẽ n date la a gom a sẽ n date, rẽ nda n kɩt tɩ ned pa tog n zoe rabeem ne a\ntẽ eb wilgri, la a tar sor n tõe n bao n bãng kibay la a paam kibay n tall-b n piuug zĩĩg fãa n pa ges tẽ msã tods\nye, tɩ yɩ ne rabay buud fãa a sẽ n date.\nKoɛɛg 20 soaba.\nNed buud fãa tara sor n tõe n paam n maan tigsga la lagem-n-taar sull sẽ n pa tar yɛla (sẽ n pa na n wa ne\ngudgri).\nB pa tõe n modg ned ab a ye t'a kẽ lagem-n-taar pʊgẽ ye.\nKoɛɛg 21 soaba.\nNed buud fãa tara sor n tõe n ning a toog a tẽ ng vɩɩm tʊʊmẽ , a tõeeme n maan tʊʊmd a toore bɩ tũ ne neb b\nsẽ n yãk tɩ b let lagem-n-taara sull n tʊmdẽ , tɩ nin-bãmb yãkrã yaa sẽ n maan tɩ pa tũ ne modgr ye."
         },
         "5": {
-            "Label": "6",
-            "Index": 5,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Nin-buiidã sẽ n dat bũmb ninga la tẽ ngã zãab tʊʊm tikda.\nNin-buiidã raabã wilgr tog n tũu ne vot sẽ n na n maan tɩ zãmb ka zĩnd ye, votã me tara wakat sõor n tog n le\nmaane, votã tõeeme n maan tɩ yɩ nin-buiid vote, bɩ gʊls n vot buud a to sẽ n wẽ nd wa bãmba sẽ n maand tɩ\nned fãa tõe n yãk a sẽ n dat-a soaba.\nKoɛɛg 22 soaba.\nNe buud fãa, a sẽ n yaa nin-buiidã ned a ye wã yĩnga, a toga ne ninsaalb yel gesg soogã sõngre. Sõngrã yaa\narzɛka, vɩɩm sõmblem la rog-n-mik wɛɛngẽ sẽ n yaa tɩlae ne ninsaal burkĩnd la a tɩrlem baoobo, a mengã\nyidgr yĩnga, sẽ n na n tũ ne tẽ nga meng tʊʊmde n paas tẽ ms ne taab lagem-n-tʊm pãng tɩ zems ne tẽ ng fãa\ntʊʊm yõgeng sẽ n ya to-to la a laog sẽ n zem tɛka.\nKoɛɛg 23 soaba.\nNed buud fãa tara sor n tõe n paam tʊʊmde, n tõe n yãk a sẽ n dat tʊʊmd ninga tɩ tũ ne tʊʊmdã kũun sẽ n na\nn maan tɩ wẽ gb pa zĩnd ye, la b koglg-a ne tʊʊmã kaalem.\nNebã fãa tog n paama yaood sẽ n zems ne b sẽ n maan tʊʊmd ningã tɩ wẽ gb ka ye.\nNed ning fãa sẽ n tʊmd-a toga ne yaood sẽ n zems a sẽ n maane, ti sẽ n paamdã sek yẽ nda ne a zak rãmb vɩɩm\ntɩ yɩ burkĩnd pʊgẽ , tɩ sã n mik tɩ segdame; bɩ a paam tɩ b paas-a sõngr buud a taaba.\nNed buud fãa tara soor n tõe n naag neb a taaba n lulg sẽ ndika sulli (tʊntʊmdb sõngr sulli) sẽ n na kogend\ntʊntʊmdbã nafo.\nKoɛɛg 24 soaba.\nNed buud fãa tara sor n tõe n paam vʊʊsem la yõ-noogre, bũmb zãng la tʊʊmã wakat sõor tɛk wilgri n paas\nvʊʊsem. Vʊʊsmã geendame n tar wakat-wakato, vʊʊsmã sasa b tog n yaoa a soaba.",
-            "Image": "7699ec760688c4fcb26361bc46c72b6c"
+            "Image": "7699ec760688c4fcb26361bc46c72b6c",
+            "Index": 5,
+            "Label": "6",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Nin-buiidã sẽ n dat bũmb ninga la tẽ ngã zãab tʊʊm tikda.\nNin-buiidã raabã wilgr tog n tũu ne vot sẽ n na n maan tɩ zãmb ka zĩnd ye, votã me tara wakat sõor n tog n le\nmaane, votã tõeeme n maan tɩ yɩ nin-buiid vote, bɩ gʊls n vot buud a to sẽ n wẽ nd wa bãmba sẽ n maand tɩ\nned fãa tõe n yãk a sẽ n dat-a soaba.\nKoɛɛg 22 soaba.\nNe buud fãa, a sẽ n yaa nin-buiidã ned a ye wã yĩnga, a toga ne ninsaalb yel gesg soogã sõngre. Sõngrã yaa\narzɛka, vɩɩm sõmblem la rog-n-mik wɛɛngẽ sẽ n yaa tɩlae ne ninsaal burkĩnd la a tɩrlem baoobo, a mengã\nyidgr yĩnga, sẽ n na n tũ ne tẽ nga meng tʊʊmde n paas tẽ ms ne taab lagem-n-tʊm pãng tɩ zems ne tẽ ng fãa\ntʊʊm yõgeng sẽ n ya to-to la a laog sẽ n zem tɛka.\nKoɛɛg 23 soaba.\nNed buud fãa tara sor n tõe n paam tʊʊmde, n tõe n yãk a sẽ n dat tʊʊmd ninga tɩ tũ ne tʊʊmdã kũun sẽ n na\nn maan tɩ wẽ gb pa zĩnd ye, la b koglg-a ne tʊʊmã kaalem.\nNebã fãa tog n paama yaood sẽ n zems ne b sẽ n maan tʊʊmd ningã tɩ wẽ gb ka ye.\nNed ning fãa sẽ n tʊmd-a toga ne yaood sẽ n zems a sẽ n maane, ti sẽ n paamdã sek yẽ nda ne a zak rãmb vɩɩm\ntɩ yɩ burkĩnd pʊgẽ , tɩ sã n mik tɩ segdame; bɩ a paam tɩ b paas-a sõngr buud a taaba.\nNed buud fãa tara soor n tõe n naag neb a taaba n lulg sẽ ndika sulli (tʊntʊmdb sõngr sulli) sẽ n na kogend\ntʊntʊmdbã nafo.\nKoɛɛg 24 soaba.\nNed buud fãa tara sor n tõe n paam vʊʊsem la yõ-noogre, bũmb zãng la tʊʊmã wakat sõor tɛk wilgri n paas\nvʊʊsem. Vʊʊsmã geendame n tar wakat-wakato, vʊʊsmã sasa b tog n yaoa a soaba."
         },
         "6": {
-            "Label": "7",
-            "Index": 6,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Koɛɛg 25 soaba.\nNed buud fãa tara sor n tõe n paam tarem sẽ n na n sek a meng la a zak rãmb laafi la b vɩɩm sõmblem baoobo,\nbũmb zãng la rɩɩbã wɛɛngẽ , yeelgrã (futã), zĩ-gãadgã, tɩbsgã n paas vɩɩmã sõmblem baoob tʊʊm nins sẽ n\nsegd-b ne yẽ wã. A sã n wa pa tar tʊʊmde, a sã n wa bẽ edẽ , a sã n wa lebg kamsa, a sã n wa lebg pʊg-\nkõore bɩ ra-kõore, a sã n wa kʊʊle bɩ bũmb buud a taab sã n wa kɩt t’a pa le tõe n dɩlg la a ges a meng yelle,\ntɩ yaool n pa tũ ne yẽ nda a maan tɩ yellã paam-a, a togame n paam sõngre.\nBiig pʊg sasa la a yãadem wakato, a tara sor n tõe n paam sõngre la koglgo. Kamba fãa, f roga kãadem pʊge\ntɩ b rogame tɩ b ba rãmbã pa kẽ kãadem ne taaba, b fãa segda ne sõngre.\nKoɛɛg 26 soaba.\nNed buud fãa tara sor n tõe n paam kaorengo. Kaorengã tog n yɩɩ zaalem, ba tɩ na yɩ yãadmẽ kaorengã\n(kaoren-sɩngã). Yaa tɩlae tɩ kambã paam kaoren-sɩngã. Tʊʊm-minim la nus tʊʊm zãmsg kaorengã togame n\npiuugi. Karen-do bɛdã kaorengã tog n maaname tɩ neb nins fãa bãngr sẽ n sek be taabã paam n kẽ tɩ zãmb pa\nzĩnd ye.\nKaorengã sẽ n tog n gẽ eg bũmb nins yaa ninsaal mengã yidgri la ninsaal yel-segdɩ noy sebrã tũub pãng\npaasgo. Kaorengã togame n sõng tɩ tẽ msã ne taab wʊm taab moore, buudã toor-toorã bɩ wẽ nd-sor tũudum\ntoay-toayã wʊm taab moore, tɩ sull fãa sak a to sẽ n yala la b yõg taab zoodo. A togame yasa n sõng tɩ\nnasõzini (tẽ msã ne taab lagem-n-tay kãsengã) tʊʊma kẽ ng taoore, sẽ n na yil ti bãana gãand dũni wã pʊgẽ .\nBa rãmbã n yaa pipi n tar sor n tõe n yãk wubr ning buud (kareng ning buud) bãmb sẽ n dat tɩ b kambã\npaame.\nKoɛɛg 27 soaba.\nNed buud fãa tara sor n tõe n ning a meng nin-buiidã rog-n-mik sull tʊʊmẽ (vɩɩmẽ ), n rɩ tʊʊm-minmã bãngr",
-            "Image": "70940995e7d871bb795a76e2928b9f45"
+            "Image": "70940995e7d871bb795a76e2928b9f45",
+            "Index": 6,
+            "Label": "7",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Koɛɛg 25 soaba.\nNed buud fãa tara sor n tõe n paam tarem sẽ n na n sek a meng la a zak rãmb laafi la b vɩɩm sõmblem baoobo,\nbũmb zãng la rɩɩbã wɛɛngẽ , yeelgrã (futã), zĩ-gãadgã, tɩbsgã n paas vɩɩmã sõmblem baoob tʊʊm nins sẽ n\nsegd-b ne yẽ wã. A sã n wa pa tar tʊʊmde, a sã n wa bẽ edẽ , a sã n wa lebg kamsa, a sã n wa lebg pʊg-\nkõore bɩ ra-kõore, a sã n wa kʊʊle bɩ bũmb buud a taab sã n wa kɩt t’a pa le tõe n dɩlg la a ges a meng yelle,\ntɩ yaool n pa tũ ne yẽ nda a maan tɩ yellã paam-a, a togame n paam sõngre.\nBiig pʊg sasa la a yãadem wakato, a tara sor n tõe n paam sõngre la koglgo. Kamba fãa, f roga kãadem pʊge\ntɩ b rogame tɩ b ba rãmbã pa kẽ kãadem ne taaba, b fãa segda ne sõngre.\nKoɛɛg 26 soaba.\nNed buud fãa tara sor n tõe n paam kaorengo. Kaorengã tog n yɩɩ zaalem, ba tɩ na yɩ yãadmẽ kaorengã\n(kaoren-sɩngã). Yaa tɩlae tɩ kambã paam kaoren-sɩngã. Tʊʊm-minim la nus tʊʊm zãmsg kaorengã togame n\npiuugi. Karen-do bɛdã kaorengã tog n maaname tɩ neb nins fãa bãngr sẽ n sek be taabã paam n kẽ tɩ zãmb pa\nzĩnd ye.\nKaorengã sẽ n tog n gẽ eg bũmb nins yaa ninsaal mengã yidgri la ninsaal yel-segdɩ noy sebrã tũub pãng\npaasgo. Kaorengã togame n sõng tɩ tẽ msã ne taab wʊm taab moore, buudã toor-toorã bɩ wẽ nd-sor tũudum\ntoay-toayã wʊm taab moore, tɩ sull fãa sak a to sẽ n yala la b yõg taab zoodo. A togame yasa n sõng tɩ\nnasõzini (tẽ msã ne taab lagem-n-tay kãsengã) tʊʊma kẽ ng taoore, sẽ n na yil ti bãana gãand dũni wã pʊgẽ .\nBa rãmbã n yaa pipi n tar sor n tõe n yãk wubr ning buud (kareng ning buud) bãmb sẽ n dat tɩ b kambã\npaame.\nKoɛɛg 27 soaba.\nNed buud fãa tara sor n tõe n ning a meng nin-buiidã rog-n-mik sull tʊʊmẽ (vɩɩmẽ ), n rɩ tʊʊm-minmã bãngr"
         },
         "7": {
-            "Label": "8",
-            "Index": 7,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "yõodo la a naag n tʊm bãngrã baoob tʊʊmẽ wã la a paam n dɩ tʊʊm bãmba sẽ n wat ne yõod ninsi.\nNed fãa tara sor n tõe tɩ b koglg a bãngr yõodo la a bãngr teedo, tɩ yaa sebr la a gʊls yã, bɩ yaa te-naands la a\nmaan yã.\nKoɛɛg 28 soaba.\nNed buud fãa tara sor n tõe n dat tɩ bãan zĩnd nebã ne taab sʊk tẽ nsẽ wã, la tẽ nsã ne taab sʊka, tɩ seb kãnga\nsẽ n wilg yel-segdɩ ninsã tõog n paam n yɩ sɩda\nKoɛɛg 29 soaba.\nNinsaal tara tɩlae-tʊʊm ne a neba (a nin-buiidu), bala a mengã yidgr pa tõe n maan tɩ pa yɩ na a nebã pʊge\nvɩɩm ye.\nNed yel-segdɩ tũub pʊgẽ , la a sẽ n tar sor n tõe n maan a sẽ n datã wɛɛngã, ned fãa toaag sẽ n tekẽ yaa laloa\nsẽ n wilg bũmb ninsa, sẽ n na yɩl n sõng tɩ ned fãa bãng a to yel-segdɩ la a sẽ n tar sor n tõe n maan a yam. Sẽ n\npaasd me, yaa sẽ n na yɩl tɩ b tõog n tũ ninsaal vɩɩm sõmblem noy wã, ninbuiidã vɩɩm noy wã tũubu la nebã\nfãa vɩɩm sõmblem baoobo, sã n yaa tẽ ng zãab buud ning sẽ n ya nin-buiid naam n zãad-a wã.\nYel-segdɩ bãmbã la maan-m-yam bãmbã pa tõe n dɩk n maan tɩ pa yɩ wa nasõzini sẽ n gãneg noy ninsã sẽ n\ndatã ye.\nKoɛɛg 30 soaba.\nSeb-kãngã gomd ba a ye pa tõe n wa rɩk t’a yɩ wa tẽ ng a ye, goosneer a ye bɩ ned a ye yell ye, t’a soab tik\nrẽ nda n dat n maan bũmb sẽ n na yɩl n sãam yel-segdɩ la maan-m-yam nins sebrã sẽ n gomd-b rãmb yellã ye.",
-            "Image": "1d41ba30ce070bed98440074b6d1f61b"
+            "Image": "1d41ba30ce070bed98440074b6d1f61b",
+            "Index": 7,
+            "Label": "8",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "yõodo la a naag n tʊm bãngrã baoob tʊʊmẽ wã la a paam n dɩ tʊʊm bãmba sẽ n wat ne yõod ninsi.\nNed fãa tara sor n tõe tɩ b koglg a bãngr yõodo la a bãngr teedo, tɩ yaa sebr la a gʊls yã, bɩ yaa te-naands la a\nmaan yã.\nKoɛɛg 28 soaba.\nNed buud fãa tara sor n tõe n dat tɩ bãan zĩnd nebã ne taab sʊk tẽ nsẽ wã, la tẽ nsã ne taab sʊka, tɩ seb kãnga\nsẽ n wilg yel-segdɩ ninsã tõog n paam n yɩ sɩda\nKoɛɛg 29 soaba.\nNinsaal tara tɩlae-tʊʊm ne a neba (a nin-buiidu), bala a mengã yidgr pa tõe n maan tɩ pa yɩ na a nebã pʊge\nvɩɩm ye.\nNed yel-segdɩ tũub pʊgẽ , la a sẽ n tar sor n tõe n maan a sẽ n datã wɛɛngã, ned fãa toaag sẽ n tekẽ yaa laloa\nsẽ n wilg bũmb ninsa, sẽ n na yɩl n sõng tɩ ned fãa bãng a to yel-segdɩ la a sẽ n tar sor n tõe n maan a yam. Sẽ n\npaasd me, yaa sẽ n na yɩl tɩ b tõog n tũ ninsaal vɩɩm sõmblem noy wã, ninbuiidã vɩɩm noy wã tũubu la nebã\nfãa vɩɩm sõmblem baoobo, sã n yaa tẽ ng zãab buud ning sẽ n ya nin-buiid naam n zãad-a wã.\nYel-segdɩ bãmbã la maan-m-yam bãmbã pa tõe n dɩk n maan tɩ pa yɩ wa nasõzini sẽ n gãneg noy ninsã sẽ n\ndatã ye.\nKoɛɛg 30 soaba.\nSeb-kãngã gomd ba a ye pa tõe n wa rɩk t’a yɩ wa tẽ ng a ye, goosneer a ye bɩ ned a ye yell ye, t’a soab tik\nrẽ nda n dat n maan bũmb sẽ n na yɩl n sãam yel-segdɩ la maan-m-yam nins sebrã sẽ n gomd-b rãmb yellã ye."
         }
     }
 }

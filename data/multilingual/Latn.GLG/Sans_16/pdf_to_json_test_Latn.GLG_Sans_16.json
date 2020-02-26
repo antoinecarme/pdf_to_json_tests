@@ -1,132 +1,132 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581468096,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "ce9a15e161286e9bda2a2aa028f7274d",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Declaración Universal dos Dereitos das Persoas\nPreámbulo\nA liberdade, a xustiza e a paz no mundo teñen por base o recoñecemento da dignidade intrínseca e dos\ndereitos iguais e inalienables de tódolos membros da familia humana;\nO descoñecemento e o menosprezo dos dereitos da persoa orixinaron actos de barbarie aldraxantes para a\nconciencia da humanidade; proclamouse, como a aspiración máis elevada da persoa, o advento dun mundo\nno que os seres humanos, liberados do temor e da miseria, disfruten da liberdade de palabra e da liberdade de\ncrenzas;\nEsencial que os dereitos da persoa sexan protexidos por un ríxime de dereito, co fin de que a persoa non se\nvexa compelida ó supremo recurso da rebelión contra a tiranía e a opresión;\nTamén esencial promover o desenvolvemento de relacións amigables entre as nacións;\nOs pobos das Nacións Unidas reafirmaron na Carta a súa fe nos dereitos fundamentais da persoa, na\ndignidade e o valor do ser humano e na igualdade de dereitos de homes e mulleres; declaráronse resoltos a\npromover o progreso social e a elevar o nivel de vida dentro dun concepto máis amplo de liberdade;\nOs estados membros comprometíronse a asegurar, en cooperación coa Organización das Nacións Unidas, o\nrespecto universal e efectivo ós dereitos e liberdades fundamentais da persoa; e\nUnha concepción común destes dereitos e liberdades ó da maior importancia para o pleno cumprimento de\ndito compromiso;\nA Asemblea Xeral proclama a presente Declaración Universal dos Dereitos da Persoa como ideal común\npolo que tódolos pobos e nacións se deben esforzar, para que tanto os individuos coma as institucións,",
-            "Image": "ce9a15e161286e9bda2a2aa028f7274d"
+            "Text": "Declaración Universal dos Dereitos das Persoas\nPreámbulo\nA liberdade, a xustiza e a paz no mundo teñen por base o recoñecemento da dignidade intrínseca e dos\ndereitos iguais e inalienables de tódolos membros da familia humana;\nO descoñecemento e o menosprezo dos dereitos da persoa orixinaron actos de barbarie aldraxantes para a\nconciencia da humanidade; proclamouse, como a aspiración máis elevada da persoa, o advento dun mundo\nno que os seres humanos, liberados do temor e da miseria, disfruten da liberdade de palabra e da liberdade de\ncrenzas;\nEsencial que os dereitos da persoa sexan protexidos por un ríxime de dereito, co fin de que a persoa non se\nvexa compelida ó supremo recurso da rebelión contra a tiranía e a opresión;\nTamén esencial promover o desenvolvemento de relacións amigables entre as nacións;\nOs pobos das Nacións Unidas reafirmaron na Carta a súa fe nos dereitos fundamentais da persoa, na\ndignidade e o valor do ser humano e na igualdade de dereitos de homes e mulleres; declaráronse resoltos a\npromover o progreso social e a elevar o nivel de vida dentro dun concepto máis amplo de liberdade;\nOs estados membros comprometíronse a asegurar, en cooperación coa Organización das Nacións Unidas, o\nrespecto universal e efectivo ós dereitos e liberdades fundamentais da persoa; e\nUnha concepción común destes dereitos e liberdades ó da maior importancia para o pleno cumprimento de\ndito compromiso;\nA Asemblea Xeral proclama a presente Declaración Universal dos Dereitos da Persoa como ideal común\npolo que tódolos pobos e nacións se deben esforzar, para que tanto os individuos coma as institucións,"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "0dd650301aa023a0f053afdbb3470995",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "inspirándose constantemente nela, promovan, mediante o ensino e a educación, o respecto a estes dereitos e\nliberdades, e aseguren, por medidas progresivas de carácter nacional e internacional, o seu recoñecemento e\naplicación universais e efectivos, tanto entre os pobos dos estados membros coma entre os dos territorios\ncolocados baixo a súa xurisdicción.\nArtigo 1ª.\nTódolos seres humanos nacen libres e iguais en dignidade e dereitos e, dotados como están de razón e\nconciencia, díbense comportar fraternalmente uns cos outros.\nArtigo 2ª.\nToda persoa ten os dereitos e liberdades proclamados nesta Declaración, sen distinción ningunha de raza,\ncor, sexo, idioma, relixión, opinión política ou de calquera outra índole, orixe nacional ou social, posición\neconómica, nacemento ou calquera outra condición.\nAdemais, non se fará ningunha distinción baseado na condición política, xurídica ou internacional do país ou\nterritoiro da xurisdicción do cal dependa unha persoa, tanto se se trata dun país independente coma dun\nterritorio baixo administración fiduciaria, non autónomo ou sometido a calquera outra limitación de\nsoberanía.\nArtigo 3ª.\nTodo individuo ten dereito á vida, á liberdade e á seguridade da súa persoa.\nArtigo 4ª.\nNinguín estará sometido á escravitude nin a servidume; a escravitude e a trata de escravos está prohibida en\ntódalas súas maneiras.",
-            "Image": "0dd650301aa023a0f053afdbb3470995"
+            "Text": "inspirándose constantemente nela, promovan, mediante o ensino e a educación, o respecto a estes dereitos e\nliberdades, e aseguren, por medidas progresivas de carácter nacional e internacional, o seu recoñecemento e\naplicación universais e efectivos, tanto entre os pobos dos estados membros coma entre os dos territorios\ncolocados baixo a súa xurisdicción.\nArtigo 1ª.\nTódolos seres humanos nacen libres e iguais en dignidade e dereitos e, dotados como están de razón e\nconciencia, díbense comportar fraternalmente uns cos outros.\nArtigo 2ª.\nToda persoa ten os dereitos e liberdades proclamados nesta Declaración, sen distinción ningunha de raza,\ncor, sexo, idioma, relixión, opinión política ou de calquera outra índole, orixe nacional ou social, posición\neconómica, nacemento ou calquera outra condición.\nAdemais, non se fará ningunha distinción baseado na condición política, xurídica ou internacional do país ou\nterritoiro da xurisdicción do cal dependa unha persoa, tanto se se trata dun país independente coma dun\nterritorio baixo administración fiduciaria, non autónomo ou sometido a calquera outra limitación de\nsoberanía.\nArtigo 3ª.\nTodo individuo ten dereito á vida, á liberdade e á seguridade da súa persoa.\nArtigo 4ª.\nNinguín estará sometido á escravitude nin a servidume; a escravitude e a trata de escravos está prohibida en\ntódalas súas maneiras."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "669e55887bd71d65407bfaa0cce7d228",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Artigo 5ª.\nNinguín será sometido a torturas nin a penas ou tratos crueis, inhumanos e aldraxantes.\nArtigo 6ª.\nTodo ser humano ten dereito, en tódalas partes, ó reconecemento da súa persoalidade.\nArtigo 7ª.\nTodos son iguais perante a lei e teñen, sen distincin, dereito á igual protección da lei. Todos teñen dereito á\nigual protección contra todo acto discriminatorio que infrinxa esta Declaración e contra toda provocación a\ntal acto.\nArtigo 8ª.\nToda persoa ten dereito a un recurso efectivo, perante os tribunais nacionais competentes, que a ampare\ncontra os actos que violen os seus dereitos fundamentais recoñecidos pola constitución ou pola lei.\nArtigo 9ª.\nNinguín poderá ser arbitrariamente detido, preso nin desterrado.\nArtigo 10ª.\nToda persoa ten dereito, en condicións de plena igualdade, a ser oída publicamente e con xustiza por un\ntribunal independente e imparcial, para determinar os seus dereitos e obrigas ou para o exame de calquera\nacusación contra ela en materia penal.\nArtigo 11ª.\nToda persoa acusada de delicto ten o dereito a que se presuma a súa inocencia mentres non se probe a súa",
-            "Image": "669e55887bd71d65407bfaa0cce7d228"
+            "Text": "Artigo 5ª.\nNinguín será sometido a torturas nin a penas ou tratos crueis, inhumanos e aldraxantes.\nArtigo 6ª.\nTodo ser humano ten dereito, en tódalas partes, ó reconecemento da súa persoalidade.\nArtigo 7ª.\nTodos son iguais perante a lei e teñen, sen distincin, dereito á igual protección da lei. Todos teñen dereito á\nigual protección contra todo acto discriminatorio que infrinxa esta Declaración e contra toda provocación a\ntal acto.\nArtigo 8ª.\nToda persoa ten dereito a un recurso efectivo, perante os tribunais nacionais competentes, que a ampare\ncontra os actos que violen os seus dereitos fundamentais recoñecidos pola constitución ou pola lei.\nArtigo 9ª.\nNinguín poderá ser arbitrariamente detido, preso nin desterrado.\nArtigo 10ª.\nToda persoa ten dereito, en condicións de plena igualdade, a ser oída publicamente e con xustiza por un\ntribunal independente e imparcial, para determinar os seus dereitos e obrigas ou para o exame de calquera\nacusación contra ela en materia penal.\nArtigo 11ª.\nToda persoa acusada de delicto ten o dereito a que se presuma a súa inocencia mentres non se probe a súa"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "f7437593401daae3993acf27b49b6116",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "culpabilidade, conforme á lei e en xuízo público no que se lle asegurasen tódalas garantías precisas para a súa\ndefensa.\nNinguín será condenado por actos ou omisións que no momento de se cometer non fosen delictivos segundo\no dereito nacional ou internacional. Tampouco se imporá pena máis grave que a aplicable no momento de\ncometer o delicto.\nArtigo 12ª.\nNinguín será obxecto de inxerencias arbitrarias na súa vida privada, a súa familia, o seu domicilio ou a súa\ncorrespondencia, nin de ataques á súa honra ou á súa reputación. Toda persoa ten dereito á protección da lei\ncontra estas inxerencias ou ataques.\nArtigo 13ª.\nToda persoa ten dereito a circular libremente e a elixir a súa residencia no territorio dun estado.\nToda persoa ten dereito a saír de calquera país, incluso do propio, e a voltar ó seu país.\nArtigo 14ª.\nEn caso de persecución, toda persoa ten dereito a buscar asilo, e a disfrutar del, en calquera país.\nEste dereito non poderá ser invocado contra unha acción xudicial realmente orixinada por delictos comúns\nou por actos opostos ós propósitos e principios das Nacións Unidas.\nArtigo 15ª.\nToda persoa ten dereito a unha nacionalidade.\nNinguín será privado arbitrariamente da súa nacionalidade nin do dereito a cambiar de nacionalidade.",
-            "Image": "f7437593401daae3993acf27b49b6116"
+            "Text": "culpabilidade, conforme á lei e en xuízo público no que se lle asegurasen tódalas garantías precisas para a súa\ndefensa.\nNinguín será condenado por actos ou omisións que no momento de se cometer non fosen delictivos segundo\no dereito nacional ou internacional. Tampouco se imporá pena máis grave que a aplicable no momento de\ncometer o delicto.\nArtigo 12ª.\nNinguín será obxecto de inxerencias arbitrarias na súa vida privada, a súa familia, o seu domicilio ou a súa\ncorrespondencia, nin de ataques á súa honra ou á súa reputación. Toda persoa ten dereito á protección da lei\ncontra estas inxerencias ou ataques.\nArtigo 13ª.\nToda persoa ten dereito a circular libremente e a elixir a súa residencia no territorio dun estado.\nToda persoa ten dereito a saír de calquera país, incluso do propio, e a voltar ó seu país.\nArtigo 14ª.\nEn caso de persecución, toda persoa ten dereito a buscar asilo, e a disfrutar del, en calquera país.\nEste dereito non poderá ser invocado contra unha acción xudicial realmente orixinada por delictos comúns\nou por actos opostos ós propósitos e principios das Nacións Unidas.\nArtigo 15ª.\nToda persoa ten dereito a unha nacionalidade.\nNinguín será privado arbitrariamente da súa nacionalidade nin do dereito a cambiar de nacionalidade."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "33d0b867e2cc95ce60e139b6b309353b",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Artigo 16ª.\nOs homes e as mulleres, a partir da idade núbil, teñen dereito, sen ningunha restricción por motivos de raza,\nnacionalidade ou relixión, a casar e fundar unha familia; disfrutarán de iguais dereitos en canto ó\nmatrimonio, durante o matrimonio e no caso de disolución do matrimonio.\nSó mediante libre e pleno consentimento dos futuros cónxuxes se poderá contraer o matrimonio.\nA familia é o elemento natural e fundamental da sociedade e ten dereito á protección da sociedade e do\nestado.\nArtigo 17ª.\nToda persoa ten dereito á propiedade, individual e colectivamente.\nNinguín será privado arbitrariamente da súa propiedade.\nArtigo 18ª.\nToda persoa ten dereito á liberdade de pensamento, de conciencia e de relixión; este dereito inclúe a\nliberdade de cambiar de relixión ou de crenza, así como a liberdade de manifestar a súa relixión ou a súa\ncrenza, individual e colectivamente, tanto en público coma en privado, polo ensino, a práctica, o culto e a\nobservancia.\nArtigo 19ª.\nTodo individuo ten dereito á liberdade de opinión e de expresión; este dereito inclúe o de non ser molestado\npor mor das súas opinións, o de investigar e recibir informacións e opinións e o de difundilas, sen limitación\nde fronteiras, por calquera medio de expresión.\nArtigo 20ª.",
-            "Image": "33d0b867e2cc95ce60e139b6b309353b"
+            "Text": "Artigo 16ª.\nOs homes e as mulleres, a partir da idade núbil, teñen dereito, sen ningunha restricción por motivos de raza,\nnacionalidade ou relixión, a casar e fundar unha familia; disfrutarán de iguais dereitos en canto ó\nmatrimonio, durante o matrimonio e no caso de disolución do matrimonio.\nSó mediante libre e pleno consentimento dos futuros cónxuxes se poderá contraer o matrimonio.\nA familia é o elemento natural e fundamental da sociedade e ten dereito á protección da sociedade e do\nestado.\nArtigo 17ª.\nToda persoa ten dereito á propiedade, individual e colectivamente.\nNinguín será privado arbitrariamente da súa propiedade.\nArtigo 18ª.\nToda persoa ten dereito á liberdade de pensamento, de conciencia e de relixión; este dereito inclúe a\nliberdade de cambiar de relixión ou de crenza, así como a liberdade de manifestar a súa relixión ou a súa\ncrenza, individual e colectivamente, tanto en público coma en privado, polo ensino, a práctica, o culto e a\nobservancia.\nArtigo 19ª.\nTodo individuo ten dereito á liberdade de opinión e de expresión; este dereito inclúe o de non ser molestado\npor mor das súas opinións, o de investigar e recibir informacións e opinións e o de difundilas, sen limitación\nde fronteiras, por calquera medio de expresión.\nArtigo 20ª."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "fe523f08d3320f4516a30eb1cc8b4c04",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Toda persoa ten dereito á liberdade de reunión e de asociación pacíficas.\nNinguín poderá ser obrigado a pertencer a unha asociación.\nArtigo 21ª.\nToda persoa ten dereito a participar no goberno do seu país, directamente ou por medio de representantes\nlibremente escollidos.\nToda persoa ten dereito de acceso, en condicións de igualdade, ás funcións públicas do seu país.\nA vontade do pobo ó a base da autoridade do poder público; esta vontade expresarase mediante eleccións\nauténticas que se haberán de celebrar periodicamente, por sufraxio universal e igual e por voto secreto ou\noutro procedemento equivalente que garanta a liberdade de voto.\nArtigo 22ª.\nToda persoa, como membro da sociedade, ten dereito á seguridade social e a obter, mediante o esforzo\nnacional e a cooperación internacional, habida conta da organización e os recursos de cada estado, a\nsatisfacción dos dereitos económicos, sociais e culturais indispensables á súa dignidade e ó libre\ndesenvolvemento da súa personalidade.\nArtigo 23.\nToda persoa ten dereito ó traballo, á libre elección do seu traballo, a condicións equitativas e satisfactorias de\ntraballo e á protección contra o desemprego.\nToda persoa ten dereito, sen ningunha discrminación, a igual salario por igual traballo.\nToda persoa que traballa ten dereito a unha remuneración equitativa e satisfactoria, que lle asegure, así como\ná súa familia, unha existencia conforme á dignidade humana e que será completada, en caso necesario, por",
-            "Image": "fe523f08d3320f4516a30eb1cc8b4c04"
+            "Text": "Toda persoa ten dereito á liberdade de reunión e de asociación pacíficas.\nNinguín poderá ser obrigado a pertencer a unha asociación.\nArtigo 21ª.\nToda persoa ten dereito a participar no goberno do seu país, directamente ou por medio de representantes\nlibremente escollidos.\nToda persoa ten dereito de acceso, en condicións de igualdade, ás funcións públicas do seu país.\nA vontade do pobo ó a base da autoridade do poder público; esta vontade expresarase mediante eleccións\nauténticas que se haberán de celebrar periodicamente, por sufraxio universal e igual e por voto secreto ou\noutro procedemento equivalente que garanta a liberdade de voto.\nArtigo 22ª.\nToda persoa, como membro da sociedade, ten dereito á seguridade social e a obter, mediante o esforzo\nnacional e a cooperación internacional, habida conta da organización e os recursos de cada estado, a\nsatisfacción dos dereitos económicos, sociais e culturais indispensables á súa dignidade e ó libre\ndesenvolvemento da súa personalidade.\nArtigo 23.\nToda persoa ten dereito ó traballo, á libre elección do seu traballo, a condicións equitativas e satisfactorias de\ntraballo e á protección contra o desemprego.\nToda persoa ten dereito, sen ningunha discrminación, a igual salario por igual traballo.\nToda persoa que traballa ten dereito a unha remuneración equitativa e satisfactoria, que lle asegure, así como\ná súa familia, unha existencia conforme á dignidade humana e que será completada, en caso necesario, por"
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "82b8da2165feec43a0b06b040b22f59b",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "calquera outro medio de protección social.\nToda persoa ten dereito a fundar sindicatos e a sindicarse para a defensa dos seus intereses.\nArtigo 24ª.\nToda persoa ten dereito ó descanso, ó gozo do tempo libre, a unha limitación razoable da duración do\ntraballo e a vacacións periódicas pagadas.\nArtigo 25ª.\nToda persoa ten dereito a un nivel de vida axeitado que lle asegure, así como á súa familia, a saúde e o\nbenestar, e en especial a alimentación, o vestido, a vivenda, a asistencia médica e os servicios sociais\nprecisos; ten tamén dereito ós seguros en caso de desemprego, enfermidade, invalidez, viúvez e vellez ou\noutros casos de perda dos seus medios de subsistencia por circunstancias independentes da súa vontade.\nA maternidade e a infancia teñen dereito a coidados e asistencia especiais. Tódolos nenos e nenas, nacidos de\nmatrimonio ou fóra do matrimonio, teñen dereito á mesma protección social.\nArtigo 26ª.\nToda persoa ten dereito á educación. A educación debe ser de balde, polo menos no que atinxe á instrucción\nelemental e fundamental. A instrucción elemental será obrigatoria. A instrucción técnica e profesional haberá\nde ser xeneralizada; o acceso ós estudios superiores será igual para todos, en función dos méritos respectivos.\nA educación terá como obxectivo o pleno desenvolvemento da personalidade humana e o fortalecemento do\nrespecto ós dereitos da persoa e ás liberdades fundamentais; favorecerá a comprensión, a tolerancia e a\namizade entre as nacións e tódolos grupos étnicos ou relixiosos; promoverá o desenvolvemento das\nactividades das Nacións Unidas para o mantemento da paz.",
-            "Image": "82b8da2165feec43a0b06b040b22f59b"
+            "Text": "calquera outro medio de protección social.\nToda persoa ten dereito a fundar sindicatos e a sindicarse para a defensa dos seus intereses.\nArtigo 24ª.\nToda persoa ten dereito ó descanso, ó gozo do tempo libre, a unha limitación razoable da duración do\ntraballo e a vacacións periódicas pagadas.\nArtigo 25ª.\nToda persoa ten dereito a un nivel de vida axeitado que lle asegure, así como á súa familia, a saúde e o\nbenestar, e en especial a alimentación, o vestido, a vivenda, a asistencia médica e os servicios sociais\nprecisos; ten tamén dereito ós seguros en caso de desemprego, enfermidade, invalidez, viúvez e vellez ou\noutros casos de perda dos seus medios de subsistencia por circunstancias independentes da súa vontade.\nA maternidade e a infancia teñen dereito a coidados e asistencia especiais. Tódolos nenos e nenas, nacidos de\nmatrimonio ou fóra do matrimonio, teñen dereito á mesma protección social.\nArtigo 26ª.\nToda persoa ten dereito á educación. A educación debe ser de balde, polo menos no que atinxe á instrucción\nelemental e fundamental. A instrucción elemental será obrigatoria. A instrucción técnica e profesional haberá\nde ser xeneralizada; o acceso ós estudios superiores será igual para todos, en función dos méritos respectivos.\nA educación terá como obxectivo o pleno desenvolvemento da personalidade humana e o fortalecemento do\nrespecto ós dereitos da persoa e ás liberdades fundamentais; favorecerá a comprensión, a tolerancia e a\namizade entre as nacións e tódolos grupos étnicos ou relixiosos; promoverá o desenvolvemento das\nactividades das Nacións Unidas para o mantemento da paz."
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "374e190dadac057860f88df775c72a2d",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Os pais teñen dereito preferente a escoller o tipo de educación que se haberá de dar ós seus fillos.\nArtigo 27ª.\nToda persoa ten dereito a tomar parte libremente na vida cultural da comunidade, a gozar das artes e a\nparticipar no progreso científico e nos beneficios que del resulten.\nToda persoa ten dereito á protección dos intereses morais e materiais que lle correspondan por razóns das\nproduccións científicas, literarias ou artísticas das que sexa autor.\nArtigo 28ª.\nToda persoa ten dereito a que se estableza unha orde social e internacional na que os dereitos e liberdades\nproclamados nesta Declaración se fagan plenamente efectivos.\nArtigo 29ª.\nToda persoa ten deberes respecto á comunidade, xa que só nela pode desenvolver libre e plenamente a súa\npersonalidade.\nNo exercicio dos seus dereitos e no disfrute das súas liberdades, toda persoa estará soamente suxeita ás\nlimitacións establecidas pola lei co único fin de asegurar o recoñecemento e o respecto dos dereitos e\nliberdades dos demais, e de satisfacer as xustas esixencias da moral, da orde pública e do benestar xeral\nnunha sociedade democrática.\nEstes dereitos e liberdades non poderán ser, en ningún caso, exercidos en oposición ós propósitos e\nprincipios das Nacións Unidas.\nArtigo 30ª.\nNada na presente Declaración poderá ser interpretado no sentido de que confire algún dereito ó estado, a un",
-            "Image": "374e190dadac057860f88df775c72a2d"
+            "Text": "Os pais teñen dereito preferente a escoller o tipo de educación que se haberá de dar ós seus fillos.\nArtigo 27ª.\nToda persoa ten dereito a tomar parte libremente na vida cultural da comunidade, a gozar das artes e a\nparticipar no progreso científico e nos beneficios que del resulten.\nToda persoa ten dereito á protección dos intereses morais e materiais que lle correspondan por razóns das\nproduccións científicas, literarias ou artísticas das que sexa autor.\nArtigo 28ª.\nToda persoa ten dereito a que se estableza unha orde social e internacional na que os dereitos e liberdades\nproclamados nesta Declaración se fagan plenamente efectivos.\nArtigo 29ª.\nToda persoa ten deberes respecto á comunidade, xa que só nela pode desenvolver libre e plenamente a súa\npersonalidade.\nNo exercicio dos seus dereitos e no disfrute das súas liberdades, toda persoa estará soamente suxeita ás\nlimitacións establecidas pola lei co único fin de asegurar o recoñecemento e o respecto dos dereitos e\nliberdades dos demais, e de satisfacer as xustas esixencias da moral, da orde pública e do benestar xeral\nnunha sociedade democrática.\nEstes dereitos e liberdades non poderán ser, en ningún caso, exercidos en oposición ós propósitos e\nprincipios das Nacións Unidas.\nArtigo 30ª.\nNada na presente Declaración poderá ser interpretado no sentido de que confire algún dereito ó estado, a un"
         },
         "8": {
-            "Label": "9",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "bdb616cdeaa68627e1aadc938b4effd5",
             "Index": 8,
+            "Label": "9",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "grupo ou a unha persoa, para emprender e desenvolver actividades ou realizar actos tendentes á supresión de\ncalquera dos dereitos e liberdades proclamadas nesta Declaración.",
-            "Image": "bdb616cdeaa68627e1aadc938b4effd5"
+            "Text": "grupo ou a unha persoa, para emprender e desenvolver actividades ou realizar actos tendentes á supresión de\ncalquera dos dereitos e liberdades proclamadas nesta Declaración."
         }
     }
 }

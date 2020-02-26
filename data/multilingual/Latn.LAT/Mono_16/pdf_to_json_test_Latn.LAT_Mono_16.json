@@ -1,93 +1,93 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581469060,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "b5bde7e176afa2feb6708c91e31df555",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "UNIVERSALIS DE JURE HOMINUM DECLARATIO\nquae, decreto CCXVII A (III), a Communi Conventu probata et edicta est,\nAnno Domini MCMIIL, a.d.IV Idus Decembres.\nPraefatio\nCum dignitatis infixae omnibus humanae familiae partibus et eorum jurum\naequalium, quae abalienari non possunt, agnitio constituat et in orbe\nterrarum libertatis et justitiae et pacis fundamentum,\nCum hominis jurum mala cognitio contemptioque barbariae facta, quae\nhumanitatis conscientiam ad rebellionem incitant, adduxerint, cumque\nmundi initium in quo homines, liberati a terrore et miseria, loquendi\ncredendique libertatem habebunt, renuntiatum sit ut hominis altissima\naffectatio,\nCum praecipuum sit hominum jura civitatis forma quae justa est tegi, ne\nhomo cogatur, ultimo perfugio, ut rebellionem faciat in tyranniam\noppressionemque,\nCum praecipuum sit progressionem amicitiarum inter nationes incitari,\nCum in Carta gentes Conjunctarum Nationum rursus pronuntiaverint suam\nfidem in juribus praecipuis hominum, in dignitate et virtute hominis, in\naequabilitate jurum virorum et feminarum, et se dixerint prompti ad\nfavendum progressui civili et ad gignendum meliores conditiones vitae in\nmajore libertate,\nCum sociae civitates pollicitae sint se affirmaturas esse verecundiam\nuniversam veramque jurum hominis et libertatum praecipuarum,\ntemperatione Nationum Conjunctarum adjuvante,\nCum quaedam communis conceptio horum jurum et libertatum gravissima sit,\nut obligatio haec plane expleatur,\nCommunis Conventus jurum hominis praesentem universalem Declarationem\npronuntiat ut communis perfectus qui petatur ab omnibus populis et\nomnibus nationibus, ut societatis singuli homines et omnes partes,\nhabentes hanc declarationem constanter in mente, institutione et\neducatione conantur ut horum jurum libertatumque respectus evolvatur, et\nfirmentur ordinis nationalis et internationalis consiliorum incessu\ngratia et universalis veraque admotio tam in ipsarum sociarum civitatum\npopulationibus quam in finium populationibus quae eorum jurisdictioni\nsubactae sunt.\nUniversalis de hominis juribus declaratio\nI\nOmnes homines liberi aequique dignitate atque juribus nascuntur. Ratione\nconscientiaque praediti sunt et alii erga alios cum fraternitate se\ngerere debent.\nII",
-            "Image": "b5bde7e176afa2feb6708c91e31df555"
+            "Text": "UNIVERSALIS DE JURE HOMINUM DECLARATIO\nquae, decreto CCXVII A (III), a Communi Conventu probata et edicta est,\nAnno Domini MCMIIL, a.d.IV Idus Decembres.\nPraefatio\nCum dignitatis infixae omnibus humanae familiae partibus et eorum jurum\naequalium, quae abalienari non possunt, agnitio constituat et in orbe\nterrarum libertatis et justitiae et pacis fundamentum,\nCum hominis jurum mala cognitio contemptioque barbariae facta, quae\nhumanitatis conscientiam ad rebellionem incitant, adduxerint, cumque\nmundi initium in quo homines, liberati a terrore et miseria, loquendi\ncredendique libertatem habebunt, renuntiatum sit ut hominis altissima\naffectatio,\nCum praecipuum sit hominum jura civitatis forma quae justa est tegi, ne\nhomo cogatur, ultimo perfugio, ut rebellionem faciat in tyranniam\noppressionemque,\nCum praecipuum sit progressionem amicitiarum inter nationes incitari,\nCum in Carta gentes Conjunctarum Nationum rursus pronuntiaverint suam\nfidem in juribus praecipuis hominum, in dignitate et virtute hominis, in\naequabilitate jurum virorum et feminarum, et se dixerint prompti ad\nfavendum progressui civili et ad gignendum meliores conditiones vitae in\nmajore libertate,\nCum sociae civitates pollicitae sint se affirmaturas esse verecundiam\nuniversam veramque jurum hominis et libertatum praecipuarum,\ntemperatione Nationum Conjunctarum adjuvante,\nCum quaedam communis conceptio horum jurum et libertatum gravissima sit,\nut obligatio haec plane expleatur,\nCommunis Conventus jurum hominis praesentem universalem Declarationem\npronuntiat ut communis perfectus qui petatur ab omnibus populis et\nomnibus nationibus, ut societatis singuli homines et omnes partes,\nhabentes hanc declarationem constanter in mente, institutione et\neducatione conantur ut horum jurum libertatumque respectus evolvatur, et\nfirmentur ordinis nationalis et internationalis consiliorum incessu\ngratia et universalis veraque admotio tam in ipsarum sociarum civitatum\npopulationibus quam in finium populationibus quae eorum jurisdictioni\nsubactae sunt.\nUniversalis de hominis juribus declaratio\nI\nOmnes homines liberi aequique dignitate atque juribus nascuntur. Ratione\nconscientiaque praediti sunt et alii erga alios cum fraternitate se\ngerere debent.\nII"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "6b0980a2c611a1eaabfa729c62ef9a0f",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Quisque potest sibi assumere libertates omnes omnesque jures in hac\ndeclaratione pronuntiatos, sine ulla distinctione gentis, coloris,\nsexus, linguae, religionis, politicae sententiae aut omnis generis\nsententiae, nationis originis aut civitatis, divitiarum aut ortus aut\nomnis generis situs.\nPraeterea fietur nulla distinctio condita in civili decreto, juridico\naut internationali gentis aut finium cujus est aliquis, sive gens aut\nfines liberi sunt, sive sub tutella, sive non suae potestatis sive\nsubacti termino aliquo sui imperii.\nIII\nQuisque jus habet vivere, liber esse et in tuto vivere.\nIV\nNemo servitudine tenebitur. Omnes servitudines omnibus modis\nprohibentur.\nV\nNullus cruciabitur neque poenis nec tractationibus, quae humanae sunt,\nobjicietur.\nVI\nQuisque jus habet suam juridicam personam in omnibus locis accipi.\nVII\nOmnes ante legem aequi sunt et sine ulla distinctione jus habent aequum\npraesidium legis habere. Omnes jus habent praesidio aequo contra omnem\ndiscrimen qui hanc Declarationem violet et contra omnem incitationem ad\ntalem discrimen.\nVIII\nOmnis jus habet recurrere pro idoneo judice gentis contra facta\nviolantia jures suffundatos quae sibi recognescuntur a constitutione aut\nlege.\nIX\nNullus ex libidine apprehendi in vinculis esse, exsulari potest.\nX\nOmnes jus habent in tota aequitate suam causam recte et publice a\njudicibus liberis aequabilibusque audiri, qui statuunt vel de juribus\nobligationibusque, vel de veritate omnis criminis contra se.\nXI\nQuisquis accusatus delicto innocens est dum noxa sua jure statuata est\npublico judicio ubi obsides omnes necessariae ad se defendendum\naffirmatae erunt.",
-            "Image": "6b0980a2c611a1eaabfa729c62ef9a0f"
+            "Text": "Quisque potest sibi assumere libertates omnes omnesque jures in hac\ndeclaratione pronuntiatos, sine ulla distinctione gentis, coloris,\nsexus, linguae, religionis, politicae sententiae aut omnis generis\nsententiae, nationis originis aut civitatis, divitiarum aut ortus aut\nomnis generis situs.\nPraeterea fietur nulla distinctio condita in civili decreto, juridico\naut internationali gentis aut finium cujus est aliquis, sive gens aut\nfines liberi sunt, sive sub tutella, sive non suae potestatis sive\nsubacti termino aliquo sui imperii.\nIII\nQuisque jus habet vivere, liber esse et in tuto vivere.\nIV\nNemo servitudine tenebitur. Omnes servitudines omnibus modis\nprohibentur.\nV\nNullus cruciabitur neque poenis nec tractationibus, quae humanae sunt,\nobjicietur.\nVI\nQuisque jus habet suam juridicam personam in omnibus locis accipi.\nVII\nOmnes ante legem aequi sunt et sine ulla distinctione jus habent aequum\npraesidium legis habere. Omnes jus habent praesidio aequo contra omnem\ndiscrimen qui hanc Declarationem violet et contra omnem incitationem ad\ntalem discrimen.\nVIII\nOmnis jus habet recurrere pro idoneo judice gentis contra facta\nviolantia jures suffundatos quae sibi recognescuntur a constitutione aut\nlege.\nIX\nNullus ex libidine apprehendi in vinculis esse, exsulari potest.\nX\nOmnes jus habent in tota aequitate suam causam recte et publice a\njudicibus liberis aequabilibusque audiri, qui statuunt vel de juribus\nobligationibusque, vel de veritate omnis criminis contra se.\nXI\nQuisquis accusatus delicto innocens est dum noxa sua jure statuata est\npublico judicio ubi obsides omnes necessariae ad se defendendum\naffirmatae erunt."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "f2e5d8e3113a7a49055ea8df00143198",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Nemo damnabitur propter acta vel praetermissiones quae, cum commitata\nsunt, non constituebant delictum ex jure suae gentis vel universarum\ngentium. Item nulla gravior culpa irrogabitur quam illa quae applicari\npotuit cum delictum factum est.\nXII\nNemo patibitur intercessiones ab arbitrio in rebus privatis, in familia,\ndomo aut in epistularum consuetudine, nec ictus contra honorem famamque.\nOmnis jus habet lege protegi contra tales intercessiones aut talia\nvulnera.\nXIII\nQuisque jus habet libenter iter facere et in civitate suam domum\neligere.\nOmnis jus habet ex omni et sua patria abire et in suam patriam redire.\nXIV\nIn vexatione omnis jus habet perfugium quaerere et perfugium ab aliis\nregionibus impetrare.\nHoc jus non invocari potest in casu actionum vere constitutarum in\ncommunis juris scelere aut in factis adversus metas principiaque\nConjunctarum Nationum.\nXV\nOmnis jus habet nationis esse.\nNemo ex libidine a sua gente privari potest neque gentis mutandae a jure\nprivari.\nXVI\nEx matrimonio se jugendi aetate, vir mulierque jus habent, nullo genere,\nnulla gente aut religione id nequaquam impediente, matrimonio se jungere\net familiam constituere. Jura equalia habent pro matrimonio, per\nmatrimonium et per divortium.\nMatrimonium confici non potest sine conjugum pleno liberoque consensu.\nFamilia societatis naturale praecipuumque elementum est et jus habet a\nsocietate et rei publica muniri.\nXVII\nOmnis, vel solus vel conjucte, mancipii jus habet.\nNemo potest ab arbitrio a mancipio privatus esse.\nXVIII\nOmnis jus sentientae, conscientiae religionisque libertati habet. Hoc\njus religionem aut conscientiam mutandi libertatem atque libertatem",
-            "Image": "f2e5d8e3113a7a49055ea8df00143198"
+            "Text": "Nemo damnabitur propter acta vel praetermissiones quae, cum commitata\nsunt, non constituebant delictum ex jure suae gentis vel universarum\ngentium. Item nulla gravior culpa irrogabitur quam illa quae applicari\npotuit cum delictum factum est.\nXII\nNemo patibitur intercessiones ab arbitrio in rebus privatis, in familia,\ndomo aut in epistularum consuetudine, nec ictus contra honorem famamque.\nOmnis jus habet lege protegi contra tales intercessiones aut talia\nvulnera.\nXIII\nQuisque jus habet libenter iter facere et in civitate suam domum\neligere.\nOmnis jus habet ex omni et sua patria abire et in suam patriam redire.\nXIV\nIn vexatione omnis jus habet perfugium quaerere et perfugium ab aliis\nregionibus impetrare.\nHoc jus non invocari potest in casu actionum vere constitutarum in\ncommunis juris scelere aut in factis adversus metas principiaque\nConjunctarum Nationum.\nXV\nOmnis jus habet nationis esse.\nNemo ex libidine a sua gente privari potest neque gentis mutandae a jure\nprivari.\nXVI\nEx matrimonio se jugendi aetate, vir mulierque jus habent, nullo genere,\nnulla gente aut religione id nequaquam impediente, matrimonio se jungere\net familiam constituere. Jura equalia habent pro matrimonio, per\nmatrimonium et per divortium.\nMatrimonium confici non potest sine conjugum pleno liberoque consensu.\nFamilia societatis naturale praecipuumque elementum est et jus habet a\nsocietate et rei publica muniri.\nXVII\nOmnis, vel solus vel conjucte, mancipii jus habet.\nNemo potest ab arbitrio a mancipio privatus esse.\nXVIII\nOmnis jus sentientae, conscientiae religionisque libertati habet. Hoc\njus religionem aut conscientiam mutandi libertatem atque libertatem"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "8e869307692914234075d8716fc25e4a",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "religionem aut fidem solam aut communem manifestam faciendi implicat,\ntam publice quam private, doctrina, religionibus, sacris ritorum\neffectuque.\nXIX\nOmnis jus opinionis et verba dicendi libertati habet; quod jus non ob\nopiniones suas inquietari implicat, atque jus petendi, recipiendi\ndivulgandique sine finium considerationibus percontationes\ncogitationesque quacumque elocutione\nXX\nOmnis homo jus habet libertati pacificae consociationis conventusque\nNemo potest coagi ut consociationi intersit.\nXXI\nOmnis homo jus habet suae gentis rerum publicarum administrationi\ninteresse, vel directo, vel per repraesentes libere lectos.\nOmnis homo jus habet conditione aequa ad suae patriae officia publica\naccedere.\nPopuli voluntas publicorum imperiorum auctoritatis fundamentum est; illa\nvoluntas creatione honesta exprimi debet, quae statis diebus fieri\ndebent, universali aequo suffragio secretaque tabella vel secundum\naequalem judiciorum formulam suffragii libertatem in tuto collocantem.\nXXII\nOmnis homo, ut rei publicae socius, sociali securitati jus habet; hic\nhomo jus habet satisfactionem impetrare jurum publicorum, sociorum\nhumanorumque quae necessaria ad suam dignitatem et progressum liberum\nsui est, per laborem suae patriae et operam aliarum gentium, pro\ntemperatione et divitiis omnis gentis.\nXXIII\nOmnis homo, labori, liberae optioni laboris, conditionibus aequis\nidoneisque laboris et tutelae adversus inopiam laboris jus habet.\nUniversi, sine discrimine,aequo praemio aequo labore jus habent.\nQuiscumque laborat, jus habet aequae remunerationi idoneaeque quae sibi\nfamiliaeque confirmat vitam consentaneam humanae dignitati et, si\noportet, completae omnibus ceteribus rationibus sociae tutelae.\nOmnis homo cum aliis hominibus consociationes condere et\nconsociationibus socios sibi adjungere ad commoda defendenda jus habet.\nXXIV\nOmnes jus habent cum quieti et otiis tum circumscriptioni modicae\ntemporis laboris et commeatibus statis quae pecunia soluuntur",
-            "Image": "8e869307692914234075d8716fc25e4a"
+            "Text": "religionem aut fidem solam aut communem manifestam faciendi implicat,\ntam publice quam private, doctrina, religionibus, sacris ritorum\neffectuque.\nXIX\nOmnis jus opinionis et verba dicendi libertati habet; quod jus non ob\nopiniones suas inquietari implicat, atque jus petendi, recipiendi\ndivulgandique sine finium considerationibus percontationes\ncogitationesque quacumque elocutione\nXX\nOmnis homo jus habet libertati pacificae consociationis conventusque\nNemo potest coagi ut consociationi intersit.\nXXI\nOmnis homo jus habet suae gentis rerum publicarum administrationi\ninteresse, vel directo, vel per repraesentes libere lectos.\nOmnis homo jus habet conditione aequa ad suae patriae officia publica\naccedere.\nPopuli voluntas publicorum imperiorum auctoritatis fundamentum est; illa\nvoluntas creatione honesta exprimi debet, quae statis diebus fieri\ndebent, universali aequo suffragio secretaque tabella vel secundum\naequalem judiciorum formulam suffragii libertatem in tuto collocantem.\nXXII\nOmnis homo, ut rei publicae socius, sociali securitati jus habet; hic\nhomo jus habet satisfactionem impetrare jurum publicorum, sociorum\nhumanorumque quae necessaria ad suam dignitatem et progressum liberum\nsui est, per laborem suae patriae et operam aliarum gentium, pro\ntemperatione et divitiis omnis gentis.\nXXIII\nOmnis homo, labori, liberae optioni laboris, conditionibus aequis\nidoneisque laboris et tutelae adversus inopiam laboris jus habet.\nUniversi, sine discrimine,aequo praemio aequo labore jus habent.\nQuiscumque laborat, jus habet aequae remunerationi idoneaeque quae sibi\nfamiliaeque confirmat vitam consentaneam humanae dignitati et, si\noportet, completae omnibus ceteribus rationibus sociae tutelae.\nOmnis homo cum aliis hominibus consociationes condere et\nconsociationibus socios sibi adjungere ad commoda defendenda jus habet.\nXXIV\nOmnes jus habent cum quieti et otiis tum circumscriptioni modicae\ntemporis laboris et commeatibus statis quae pecunia soluuntur"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "4e551c46cc269508bc515a34180b167e",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "XXV\nOmnes jus habent satis altae vitae ut suam valetudinem et suae familiae\net suam voluptatem confirmet, praesertim quod pertinet ad cibum, vestem,\ndomum, medicinales curas et beneficia socialia quae necesseria sunt.\nOmnes jus habent securitati in penuria laboris aut in morbo aut in\ninfirmitate aut in viduitate aut in senectute aut in aliis casibus in\nquibus copia vivendi esse non potest, temporibus voluntatem non\nsequentibus.\nMater et infans jus habent auxilio et praesentiae propriae. Omnes pueri,\nsive in matrmonio sive extra matrimonium nati sunt, eodem sociali\npraesidio fruuntur.\nXXVI\nOmnis jus habet educationi. Educatio debet gratuita esse, quod saltem\npertinet ad primas praecipuasque litteras. Primae litterae sunt\nnecessariae. Doctrinae ad scientiam et ad professionem pertinentes\nmultis exponenda est; oportet aditum studiis superis in tota aequalitate\nomnibus secundum meritum patere.\nOportet educationem spectare ad totam hominum beatitudinem et ad\nrespectus jurum hominis et libertatum primarum confirmationem.Oportet\neducationem favere cogitationi, patientiae amicitiaeque inter omnes\ngentes, omnia generum aut religionum globos; oportet educationem favere\nprogressioni operarum nationum sociatarum ad pacis conservationem.\nParentes in primis jus habent eligere genus educationis quod interest\ndare liberis suis.\nXXVII\nOmnis homo jus habet libere interesse culturae societatis, et frui\nartibus, et interesse profectibus scientiae et beneficiis quae id\nsequuntur.\nOmnis jus habet tutelae beneficiorum moralium et materialium generatorum\nomni procreatione scientiae, litterarum aut artium quorum auctor est.\nXXVIII\nOmnis jus habet in socialibus et externis rebus ordinem regnari, ut jura\net libertates enuntiatae in hac Declaratione fieri possint.\nXXIX\nCuique officia sunt erga societatem, in qua solum liberum plenumque\nincrementum ingenii fieri potest.\nIn usu jurium et fructu libertatum, quisque subjicitur solum finibus\nlege conditis, ut solum firmet gratiam et respectum jurium libertatumque\nalieni, et satisfaciat rectis expostulationibus honesti, reipublicae\nconcordiae et universae in sociatate populari valetudinis.\nHaec jura libertatesque nullo modo exerceri poterunt adversus proposita",
-            "Image": "4e551c46cc269508bc515a34180b167e"
+            "Text": "XXV\nOmnes jus habent satis altae vitae ut suam valetudinem et suae familiae\net suam voluptatem confirmet, praesertim quod pertinet ad cibum, vestem,\ndomum, medicinales curas et beneficia socialia quae necesseria sunt.\nOmnes jus habent securitati in penuria laboris aut in morbo aut in\ninfirmitate aut in viduitate aut in senectute aut in aliis casibus in\nquibus copia vivendi esse non potest, temporibus voluntatem non\nsequentibus.\nMater et infans jus habent auxilio et praesentiae propriae. Omnes pueri,\nsive in matrmonio sive extra matrimonium nati sunt, eodem sociali\npraesidio fruuntur.\nXXVI\nOmnis jus habet educationi. Educatio debet gratuita esse, quod saltem\npertinet ad primas praecipuasque litteras. Primae litterae sunt\nnecessariae. Doctrinae ad scientiam et ad professionem pertinentes\nmultis exponenda est; oportet aditum studiis superis in tota aequalitate\nomnibus secundum meritum patere.\nOportet educationem spectare ad totam hominum beatitudinem et ad\nrespectus jurum hominis et libertatum primarum confirmationem.Oportet\neducationem favere cogitationi, patientiae amicitiaeque inter omnes\ngentes, omnia generum aut religionum globos; oportet educationem favere\nprogressioni operarum nationum sociatarum ad pacis conservationem.\nParentes in primis jus habent eligere genus educationis quod interest\ndare liberis suis.\nXXVII\nOmnis homo jus habet libere interesse culturae societatis, et frui\nartibus, et interesse profectibus scientiae et beneficiis quae id\nsequuntur.\nOmnis jus habet tutelae beneficiorum moralium et materialium generatorum\nomni procreatione scientiae, litterarum aut artium quorum auctor est.\nXXVIII\nOmnis jus habet in socialibus et externis rebus ordinem regnari, ut jura\net libertates enuntiatae in hac Declaratione fieri possint.\nXXIX\nCuique officia sunt erga societatem, in qua solum liberum plenumque\nincrementum ingenii fieri potest.\nIn usu jurium et fructu libertatum, quisque subjicitur solum finibus\nlege conditis, ut solum firmet gratiam et respectum jurium libertatumque\nalieni, et satisfaciat rectis expostulationibus honesti, reipublicae\nconcordiae et universae in sociatate populari valetudinis.\nHaec jura libertatesque nullo modo exerceri poterunt adversus proposita"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "77578aa0d84dc4dda2229fba82d7026c",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "et principia Nationum Conjunctorum.\nXXX\nNullum decretum hujus Declarationis interpretari potest quasi civitati,\nsocietati aut cuidam homini jus aliquid implicans se dedendi alicui\nfacinori aut aliquid faciendi ad libertates et jura evertenda, quae hoc\nloco enuntiata sunt.",
-            "Image": "77578aa0d84dc4dda2229fba82d7026c"
+            "Text": "et principia Nationum Conjunctorum.\nXXX\nNullum decretum hujus Declarationis interpretari potest quasi civitati,\nsocietati aut cuidam homini jus aliquid implicans se dedendi alicui\nfacinori aut aliquid faciendi ad libertates et jura evertenda, quae hoc\nloco enuntiata sunt."
         }
     }
 }

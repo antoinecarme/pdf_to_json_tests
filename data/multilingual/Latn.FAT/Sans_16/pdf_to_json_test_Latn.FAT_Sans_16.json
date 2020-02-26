@@ -1,127 +1,127 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581466793,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
-            "Index": 0,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
             ],
-            "Text": "ADASA NDZINOA HO DAWURBƆ\nNYIENYIM\nƆnam dɛ adasa hɔn enyimnyam yɛ pɛr na ndzinoa a obi nngye mmfi hɔn nsamu a wɔwɔ no ngyetomu nye\nwiadze yi mu fahodzi, pɛrpɛrdzi, ntsɛntsenenee na asomdwee ne fapem;\nƆnam dɛ tsia a yetsiatsia nyimpa ne ndzinoa do no dze ewurkadze nwenwen a obiara tsia aba, na afei so\nwɔabɔ wiadze a ɔreba a no mu nyimpa benya fahodzi wɔ kasa, gyedzi, suro na ohia ho dawur dɛ\nnyimpapem nyina hɔn ahwehwɛdze tsitsir,\nƆnam dɛ ohia pɛpɛɛpɛ dɛ yɛmmpɛ dɛ yɛyɛ adasa ndzinoa ho mbra,\nƆnam dɛ ohia dɛ wotu aman na aman ntamu anyɛnkoyɛ nkitahodzi mpon,\nƆnam dɛ Amanaman Nkabɔmu Kuw mu nyimpa nyina edua Farbaa Nwoma no do agye hɔn gyedzi a ɔwɔ\nadasa awose ndzinoa, nyimpa n'enyimnyam na nyimpa no bo a ɔsom, na mbanyin na mbaa hɔn ndzinoa a\nɔyɛ pɛr ato mu na wɔabɔ hɔn enyim biriw dɛ wobotu asetsena mu kankɔ na atseyie mpon,\nƆnam dɛ aman a wɔdɔm Amanaman Nkabɔmu Kuw no abɔ ɔdabaa dɛ wɔnye Kuw no bɛyɛ ahwehwɛ\namansuon nyina enyiedzi ama adasa ndzinoa na awose fahodzi ntsi.\nKUW NO BAGUA KƐSE NO\nPaa mu kã dɛ:\nAfei,\nNHYIAMU KƐSE NO YI ADASA NDZINOA HO DAWURBƆ no kyerɛ dɛ: ɔno nye nhwhɛdodze tsitsir a\nɔwɔ hɔ ma nyimpa na aman nyina, ama ankorankor biara na nyimpa kuw biara, sɛ wɔdze dɛm dawurbɔ yi\nsi hɔn enyim a, wɔaabɔ mbɔdzen edua nkyerɛ na adzesua do ama nkorɔfo eedzi ndzinoa na fahoazi ahorow",
-            "Image": "4075db1fb21df9c10e3f12d65c6ad27d"
+            "Image": "4075db1fb21df9c10e3f12d65c6ad27d",
+            "Index": 0,
+            "Label": "1",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "ADASA NDZINOA HO DAWURBƆ\nNYIENYIM\nƆnam dɛ adasa hɔn enyimnyam yɛ pɛr na ndzinoa a obi nngye mmfi hɔn nsamu a wɔwɔ no ngyetomu nye\nwiadze yi mu fahodzi, pɛrpɛrdzi, ntsɛntsenenee na asomdwee ne fapem;\nƆnam dɛ tsia a yetsiatsia nyimpa ne ndzinoa do no dze ewurkadze nwenwen a obiara tsia aba, na afei so\nwɔabɔ wiadze a ɔreba a no mu nyimpa benya fahodzi wɔ kasa, gyedzi, suro na ohia ho dawur dɛ\nnyimpapem nyina hɔn ahwehwɛdze tsitsir,\nƆnam dɛ ohia pɛpɛɛpɛ dɛ yɛmmpɛ dɛ yɛyɛ adasa ndzinoa ho mbra,\nƆnam dɛ ohia dɛ wotu aman na aman ntamu anyɛnkoyɛ nkitahodzi mpon,\nƆnam dɛ Amanaman Nkabɔmu Kuw mu nyimpa nyina edua Farbaa Nwoma no do agye hɔn gyedzi a ɔwɔ\nadasa awose ndzinoa, nyimpa n'enyimnyam na nyimpa no bo a ɔsom, na mbanyin na mbaa hɔn ndzinoa a\nɔyɛ pɛr ato mu na wɔabɔ hɔn enyim biriw dɛ wobotu asetsena mu kankɔ na atseyie mpon,\nƆnam dɛ aman a wɔdɔm Amanaman Nkabɔmu Kuw no abɔ ɔdabaa dɛ wɔnye Kuw no bɛyɛ ahwehwɛ\namansuon nyina enyiedzi ama adasa ndzinoa na awose fahodzi ntsi.\nKUW NO BAGUA KƐSE NO\nPaa mu kã dɛ:\nAfei,\nNHYIAMU KƐSE NO YI ADASA NDZINOA HO DAWURBƆ no kyerɛ dɛ: ɔno nye nhwhɛdodze tsitsir a\nɔwɔ hɔ ma nyimpa na aman nyina, ama ankorankor biara na nyimpa kuw biara, sɛ wɔdze dɛm dawurbɔ yi\nsi hɔn enyim a, wɔaabɔ mbɔdzen edua nkyerɛ na adzesua do ama nkorɔfo eedzi ndzinoa na fahoazi ahorow"
         },
         "1": {
-            "Label": "2",
-            "Index": 1,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
             ],
-            "Text": "no nyi; na wɔaatɔa do afa hɔnara hɔn man na amanaman nhyehyɛɛ do wɔama wɔaagye dawurbɔ yi ato mu\nna woeedzi do wɔ Aman a wɔdɔm Nkabɔmu Kuw no mu biara mu nye asaase biara a wɔhyɛ hɔn ase no so\ndo.\nAsɛmpɔw 1\nWɔwo adasa nyina to fahodzi mu, na hɔn nyina yɛ pɛr wɔ enyimnyam na ndzinoa mu. Wɔmaa hɔn nyina\nadwen na tsibowa, na ɔwɔ dɛ hɔn nkitahodzi mu ndzeyɛɛ da no edzi dɛ wɔyɛ enuanom.\nAsɛmpɔw 2\nObiara wɔ ndizona na fahodzi a wɔada no edzi wɔ Dawurbɔ yi mu no ho kwan a nyiyimu biara nnyi mu a\nɔfa no obi n'awosu anaa no honamenyi ngyegyee mbrɛ ɔtse, dɛ ɔyɛ banyin anaa ɔyɛ basia, ne kasaa a ɔkã,\nne nyamesom mbrɛ ɔtse, amanyɛ ho adwen a ɔwɔ, ne man anaa asetsena mu gyinabew a ofi mu, egyapadze\na ɔwɔ, n'awofo hɔn gyinabew anaa gyinabew fofor biara so a ɔwɔ ho.\nBio, onnyi dɛ wogyina ɔman a obi fi mu no n'amanyɛ kwan, ne mbra anaa n'amanandze gyinabew do-dɛ\nɔman no dzi ne mansin, dɛ ɔhyɛ ɔman bi no nhwɛdo ase, anaadɛ onnyi fahodzi, yɛ nyiyimu tsia nyimpa no.\nAsɛmpɔw 3\nNyimpadua no nkwa, ne fahodzi, na no tɔtrɔtɔ yɛ obiara ne ndzinoa.\nAsɛmpɔw 4\nOnnyi dɛ wɔdze obiara to nkowaasom mu anaadɛ wɔma ɔsom ɔsomhun; ɔwɔ dɛ wogu nkowaasom na\nndɔnkɔgua korakora.\nAsɛmpɔw 5\nOnnyi dɛ wɔyɛ obiara ayakayakadze, etsiɔdzendze anaa enyinyandze anaa wɔtsea no anaa wɔma no asotwe",
-            "Image": "9c1db88ed2c41580f2556e356bdf9241"
+            "Image": "9c1db88ed2c41580f2556e356bdf9241",
+            "Index": 1,
+            "Label": "2",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "no nyi; na wɔaatɔa do afa hɔnara hɔn man na amanaman nhyehyɛɛ do wɔama wɔaagye dawurbɔ yi ato mu\nna woeedzi do wɔ Aman a wɔdɔm Nkabɔmu Kuw no mu biara mu nye asaase biara a wɔhyɛ hɔn ase no so\ndo.\nAsɛmpɔw 1\nWɔwo adasa nyina to fahodzi mu, na hɔn nyina yɛ pɛr wɔ enyimnyam na ndzinoa mu. Wɔmaa hɔn nyina\nadwen na tsibowa, na ɔwɔ dɛ hɔn nkitahodzi mu ndzeyɛɛ da no edzi dɛ wɔyɛ enuanom.\nAsɛmpɔw 2\nObiara wɔ ndizona na fahodzi a wɔada no edzi wɔ Dawurbɔ yi mu no ho kwan a nyiyimu biara nnyi mu a\nɔfa no obi n'awosu anaa no honamenyi ngyegyee mbrɛ ɔtse, dɛ ɔyɛ banyin anaa ɔyɛ basia, ne kasaa a ɔkã,\nne nyamesom mbrɛ ɔtse, amanyɛ ho adwen a ɔwɔ, ne man anaa asetsena mu gyinabew a ofi mu, egyapadze\na ɔwɔ, n'awofo hɔn gyinabew anaa gyinabew fofor biara so a ɔwɔ ho.\nBio, onnyi dɛ wogyina ɔman a obi fi mu no n'amanyɛ kwan, ne mbra anaa n'amanandze gyinabew do-dɛ\nɔman no dzi ne mansin, dɛ ɔhyɛ ɔman bi no nhwɛdo ase, anaadɛ onnyi fahodzi, yɛ nyiyimu tsia nyimpa no.\nAsɛmpɔw 3\nNyimpadua no nkwa, ne fahodzi, na no tɔtrɔtɔ yɛ obiara ne ndzinoa.\nAsɛmpɔw 4\nOnnyi dɛ wɔdze obiara to nkowaasom mu anaadɛ wɔma ɔsom ɔsomhun; ɔwɔ dɛ wogu nkowaasom na\nndɔnkɔgua korakora.\nAsɛmpɔw 5\nOnnyi dɛ wɔyɛ obiara ayakayakadze, etsiɔdzendze anaa enyinyandze anaa wɔtsea no anaa wɔma no asotwe"
         },
         "2": {
-            "Label": "3",
-            "Index": 2,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
             ],
-            "Text": "biara a ɔsɛɛ dasanyi n'enyimnyam.\nAsɛmpɔw 6\nƆyɛ obiara ne ndzinoa dɛ, mbra mu, wobu no dɛ nyimpa wɔ beebiara.\nAsɛmpɔw 7\nNyimpa nyina yɛ pɛr wɔ mbra no enyim, na hɔn nyina fata mbra no ne ntwitwagye a nyiyimu nnyi mu.\nObiara wɔ ho kwan dɛ mbra no bɔ no ho ban tsia nyiyimu a obu Dawurbɔ yi mu nsɛmpɔw no mu biara do\nno, nye nunu biara a wonunu nyimpa ma ɔyɛ ma ɔyɛ nyiyimu no.\nAsɛmpɔw 8\nObiara a wɔayɛ bɔn etsia ne ndzinoa a mbra na amambu ho mbra ma no ho kwan no, wɔ ho kwan dɛ odua\nasɛndzi baguafo do gye nsiesie anaa mpata a ɔfata.\nAsɛmpɔw 9\nOnnyi dɛ abɔtsirmu ara wɔkyer obi, wɔdze no sie, anaa wotwa no esu.\nAsɛmpɔw 10\nObiara wɔ ho kwan dɛ bagua asɛndzifo a wɔnntɔn hɔn asowa nndzi tsena hwehwɛ n'asɛm mu pefee wɔ ne\nndzinoa, n'asadze anaa ewudzisɛm ho sombo bi a wɔdze abɔ no ho.\nAsɛmpɔw 11\nObiara a wɔabɔ no sombo bi a ɔdze ntsea nam no wɔ ndzinoa dɛ wobu no dɛ odzi bem kesi dɛ, woedzi\nn'asɛm ama no kwan biara a ohia dɛ ɔdze tstsew no ho, na woebu no fɔ dɛ mbrɛ mbra kyerɛ.\nOnnyi dɛ wobu obiara fɔ na wɔtsea no wɔ ndzeyɛɛ bi a ɔnnye ntsea nam ase. Na eso onnyi dɛ wɔma obi",
-            "Image": "aaec66234a4df84725eef0f4017586c2"
+            "Image": "aaec66234a4df84725eef0f4017586c2",
+            "Index": 2,
+            "Label": "3",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "biara a ɔsɛɛ dasanyi n'enyimnyam.\nAsɛmpɔw 6\nƆyɛ obiara ne ndzinoa dɛ, mbra mu, wobu no dɛ nyimpa wɔ beebiara.\nAsɛmpɔw 7\nNyimpa nyina yɛ pɛr wɔ mbra no enyim, na hɔn nyina fata mbra no ne ntwitwagye a nyiyimu nnyi mu.\nObiara wɔ ho kwan dɛ mbra no bɔ no ho ban tsia nyiyimu a obu Dawurbɔ yi mu nsɛmpɔw no mu biara do\nno, nye nunu biara a wonunu nyimpa ma ɔyɛ ma ɔyɛ nyiyimu no.\nAsɛmpɔw 8\nObiara a wɔayɛ bɔn etsia ne ndzinoa a mbra na amambu ho mbra ma no ho kwan no, wɔ ho kwan dɛ odua\nasɛndzi baguafo do gye nsiesie anaa mpata a ɔfata.\nAsɛmpɔw 9\nOnnyi dɛ abɔtsirmu ara wɔkyer obi, wɔdze no sie, anaa wotwa no esu.\nAsɛmpɔw 10\nObiara wɔ ho kwan dɛ bagua asɛndzifo a wɔnntɔn hɔn asowa nndzi tsena hwehwɛ n'asɛm mu pefee wɔ ne\nndzinoa, n'asadze anaa ewudzisɛm ho sombo bi a wɔdze abɔ no ho.\nAsɛmpɔw 11\nObiara a wɔabɔ no sombo bi a ɔdze ntsea nam no wɔ ndzinoa dɛ wobu no dɛ odzi bem kesi dɛ, woedzi\nn'asɛm ama no kwan biara a ohia dɛ ɔdze tstsew no ho, na woebu no fɔ dɛ mbrɛ mbra kyerɛ.\nOnnyi dɛ wobu obiara fɔ na wɔtsea no wɔ ndzeyɛɛ bi a ɔnnye ntsea nam ase. Na eso onnyi dɛ wɔma obi"
         },
         "3": {
-            "Label": "4",
-            "Index": 3,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
             ],
-            "Text": "ntsea a ɔbor no mfomdo a ɔayɛ no ho ntsea do.\nAsɛmpɔw 12\nOnnyi dɛ abɔtsirmu ara wɔdze ɔho hyehyɛ obi no kɔkoamunsɛm, n'ebusuasɛm anaa n'efisɛm mu; anaadɛ\nwogu n'enyimnyam na ne dzin ho fi. Ɔyɛ obiara ne ndzinoa dɛ mbra bɔ no ho ban tsia ndzeyɛɛ a ɔtsetse\ndɛm yi.\nAsɛmpɔw 13\nƆyɛ obiara ne ndzinoa dɛ okyinkyin na ɔtsena ɔman bi n'asaase do bea biara a ɔpɛ.\nƆyɛ obiara ne ndzinoa dɛ ofi ɔman biara mu (noara ne man kã ho) na ɔsan ba ne man mu bio.\nAsɛmpɔw 14\nObiara wɔ ndzinoa dɛ ɔhwehwɛ na onya guansuma wɔ ɔman bi do fi atseetsee ho.\nOnnyi dɛ dɛm ndzinoa yi wobisa wɔ bɔn bi a ɔmmfa manyɛ ho anaa otsia Amanaman Nkabɔmu Kuw no ne\nnhyehyɛɛ a onyia no ayɛ ma woridzi n'asɛm wɔ ho biara ho.\nAsɛmpɔw 15\nObiara wɔ ndzinoa dɛ ɔyɛ ɔman bi ba.\nOnnyi dɛ abɔtsirmu ara wɔma obi hwer n'amambayɛ, anaadɛ wɔmma no kwan mma ɔnnsesa n'amambayɛ.\nAsɛmpɔw 16\nƆyɛ mbanyin na mbaa a hɔn enyi efifir hɔn ndzinoa dɛ wɔwar na wɔwo mba, na awosu, amambayɛ anaa\nnyamesom nnsiw iyi ho kwan. Mbanyin na mbaa nyina hɔn ndzinoa a wɔwɔ no awar ho no yɛ pɛr wɔ awar\nber no mu nye awar no ngui no mu so.",
-            "Image": "9cf906ca8f8462375070bc4f853f7310"
+            "Image": "9cf906ca8f8462375070bc4f853f7310",
+            "Index": 3,
+            "Label": "4",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "ntsea a ɔbor no mfomdo a ɔayɛ no ho ntsea do.\nAsɛmpɔw 12\nOnnyi dɛ abɔtsirmu ara wɔdze ɔho hyehyɛ obi no kɔkoamunsɛm, n'ebusuasɛm anaa n'efisɛm mu; anaadɛ\nwogu n'enyimnyam na ne dzin ho fi. Ɔyɛ obiara ne ndzinoa dɛ mbra bɔ no ho ban tsia ndzeyɛɛ a ɔtsetse\ndɛm yi.\nAsɛmpɔw 13\nƆyɛ obiara ne ndzinoa dɛ okyinkyin na ɔtsena ɔman bi n'asaase do bea biara a ɔpɛ.\nƆyɛ obiara ne ndzinoa dɛ ofi ɔman biara mu (noara ne man kã ho) na ɔsan ba ne man mu bio.\nAsɛmpɔw 14\nObiara wɔ ndzinoa dɛ ɔhwehwɛ na onya guansuma wɔ ɔman bi do fi atseetsee ho.\nOnnyi dɛ dɛm ndzinoa yi wobisa wɔ bɔn bi a ɔmmfa manyɛ ho anaa otsia Amanaman Nkabɔmu Kuw no ne\nnhyehyɛɛ a onyia no ayɛ ma woridzi n'asɛm wɔ ho biara ho.\nAsɛmpɔw 15\nObiara wɔ ndzinoa dɛ ɔyɛ ɔman bi ba.\nOnnyi dɛ abɔtsirmu ara wɔma obi hwer n'amambayɛ, anaadɛ wɔmma no kwan mma ɔnnsesa n'amambayɛ.\nAsɛmpɔw 16\nƆyɛ mbanyin na mbaa a hɔn enyi efifir hɔn ndzinoa dɛ wɔwar na wɔwo mba, na awosu, amambayɛ anaa\nnyamesom nnsiw iyi ho kwan. Mbanyin na mbaa nyina hɔn ndzinoa a wɔwɔ no awar ho no yɛ pɛr wɔ awar\nber no mu nye awar no ngui no mu so."
         },
         "4": {
-            "Label": "5",
-            "Index": 4,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
             ],
-            "Text": "Adze ara a ɔwɔ dɛ awar no gyina do nye asakuw ebien a wɔrowar no hɔn pɛ a nhyɛ nnyi mu.\nOkun, ɔyer na mba bɔ mu kor dɛ abɔasee kuw a nyimpa kuw biara ne farbaa fi mu wɔ adasa mu, na ɔyɛ\nhɔn ndzinoa dɛ nyimpakuw no na ɔman no bɔ hɔn ho ban.\nAsɛmpɔw 17\nObiara wɔ ndzinoa dɛ onya egyapadze a ɔyɛ no nko nedze, anaadɛ ɔnye nkorɔfo bi bɔ mu nya dɛm\negyapadze no.\nOnnyi dɛ abɔtsirmu ara wɔgye obi n'egyapadze fi ne nsamu.\nAsɛmpɔw 18\nObiara wɔ ndzinoa dɛ ɔyɛ n'adwen, ɔsoa noara ne tsibowa, ɔfa nyamesom biara a ɔpɛ. Dɛm ndzinoa yi ne\nfã bi nye kwan a obiara wɔ dɛ ɔsesa ne nyamesom anaa ne gyedzi na kwan so a ɔfa do dze ma ne gyedzi no\nda edzi wɔ bagua mu anaa nsumaa mu, dɛ ɔno nko anaadɛ nyimpa binom kã ho wɔ iyi mu.\nAsɛmpɔw 19\nObiara wɔ ho kwan dɛ ɔkyerɛ n'adwen wɔ biribi ho. Dza ɔkã dɛm ndzinoa yi ho nye dɛ obiara botum ayɛ\nn'adwen wɔ biribi ho a ntotoananmu biara nnyi mu. Dza ɔkã ho bio so nye dɛ otum anaa otsie asɛm nye\nnsusui biara a ɔnam kwan biara do na efi mbea nyina, na ɔma nyimpa binom so tse.\nAsɛmpɔw 20\nObiara wɔ kwan dɛ ɔkɔ nhyiamu a ɔyɛ asomdwee ase, na ɔdɔm fɛkuw biara.\nOnnyi dɛ wɔhyɛ obiara ma ɔdɔm fɛkuw bi.\nAsɛmpɔw 21",
-            "Image": "e234c99d367718822be96eb0837d04ae"
+            "Image": "e234c99d367718822be96eb0837d04ae",
+            "Index": 4,
+            "Label": "5",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Adze ara a ɔwɔ dɛ awar no gyina do nye asakuw ebien a wɔrowar no hɔn pɛ a nhyɛ nnyi mu.\nOkun, ɔyer na mba bɔ mu kor dɛ abɔasee kuw a nyimpa kuw biara ne farbaa fi mu wɔ adasa mu, na ɔyɛ\nhɔn ndzinoa dɛ nyimpakuw no na ɔman no bɔ hɔn ho ban.\nAsɛmpɔw 17\nObiara wɔ ndzinoa dɛ onya egyapadze a ɔyɛ no nko nedze, anaadɛ ɔnye nkorɔfo bi bɔ mu nya dɛm\negyapadze no.\nOnnyi dɛ abɔtsirmu ara wɔgye obi n'egyapadze fi ne nsamu.\nAsɛmpɔw 18\nObiara wɔ ndzinoa dɛ ɔyɛ n'adwen, ɔsoa noara ne tsibowa, ɔfa nyamesom biara a ɔpɛ. Dɛm ndzinoa yi ne\nfã bi nye kwan a obiara wɔ dɛ ɔsesa ne nyamesom anaa ne gyedzi na kwan so a ɔfa do dze ma ne gyedzi no\nda edzi wɔ bagua mu anaa nsumaa mu, dɛ ɔno nko anaadɛ nyimpa binom kã ho wɔ iyi mu.\nAsɛmpɔw 19\nObiara wɔ ho kwan dɛ ɔkyerɛ n'adwen wɔ biribi ho. Dza ɔkã dɛm ndzinoa yi ho nye dɛ obiara botum ayɛ\nn'adwen wɔ biribi ho a ntotoananmu biara nnyi mu. Dza ɔkã ho bio so nye dɛ otum anaa otsie asɛm nye\nnsusui biara a ɔnam kwan biara do na efi mbea nyina, na ɔma nyimpa binom so tse.\nAsɛmpɔw 20\nObiara wɔ kwan dɛ ɔkɔ nhyiamu a ɔyɛ asomdwee ase, na ɔdɔm fɛkuw biara.\nOnnyi dɛ wɔhyɛ obiara ma ɔdɔm fɛkuw bi.\nAsɛmpɔw 21"
         },
         "5": {
-            "Label": "6",
-            "Index": 5,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
             ],
-            "Text": "Ɔyɛ obiara ne ndzinoa dɛ osuo mu ma wobu ne man dɛ ɔnoara dzi bano wɔ mu, anaadɛ obosuo mu ma\nwoeeyi ananmusifo.\nƆyɛ obiara ne ndzinoa dɛ onya kyɛfa wɔ ɔman adɔdɔdze biara a ɔwɔ ne man mu no mu.\nƆwɔ dɛ aban no tum gyina ɔmamfo hɔn pɛ do. Dɛm pɛ yi wɔnam ambatow a no mu da hɔ a wɔtow no ne\nber ano do da no edzi, akorɔfo a wɔasõ ambatow no wɔ dɛ wɔma wɔtow amba wɔ nsumaa mu a nhyɛ biara\nnnyi mu.\nAsɛmpɔw 22\nAnkorankor biara, dɛ ɔyɛ ɔmamba bo, wɔ ndzinoa dɛ ɔman no bɔ n'eyiedzi ho ban. Ɔwɔ dɛ wɔfa ɔman no\nno mbɔdzen do, anaa bataboa bi a dɛm ɔman no nye ɔman fofor bi yɛ do ma ɔmamba biara n'eyiedzi ba mu\ndɛ mbrɛ ɔman kor no ne sikasɛm, n'asetsena na n'amambra no tum a ɔma n'enyimnyam dzi mu no tse.\nAsɛmpɔw 23\nObiara wɔ ndzinoa dɛ ɔyɛ edwuma. ɔyɛ ne ndzinoa dɛ ɔfa edwuma a ɔpɛ dɛ ɔyɛ, na ɔyɛ ne ndzinoa dɛ\nwɔma no edwumayɛ mu nhyehyɛɛ pa, na wɔbɔ noho ban fi fietsena ho.\nƆyɛ obiara ne ndzinoa dɛ wɔma no akatua a ɔfata n'edwuma a ɔyɛ a, nyimpa nyiyimu biarannyi mu.\nObiara a ɔyɛ edwuma no wɔ ndzinoa dɛ onya akatua a ɔsɛ na ɔtsen a ɔbɛma ɔnye n'ebusuafo enya asetsena\na ɔfata nyimpa n'enyimnyam, na sɛ ohia mpo a, ɔwɔ dɛ wɔdze asetsena mu nhyehyɛɛ ho ekyigyina bi foa\nakatua no do.\nƆyɛ obiara ne ndzinoa dɛ ɔtsew anaa ɔdɔm edwumayɛfo kuw bi dua do dze bɔ n'eyiedzi ho ban.\nAsɛmpɔw 24\nObiara wɔ ahomgye na bɔndɔdziber ho kyɛfa; mber a wɔahyehyɛ a ɔmma edwumayɛ mmbor do, na",
-            "Image": "3a9dde98606a8053329eb046abc09e02"
+            "Image": "3a9dde98606a8053329eb046abc09e02",
+            "Index": 5,
+            "Label": "6",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Ɔyɛ obiara ne ndzinoa dɛ osuo mu ma wobu ne man dɛ ɔnoara dzi bano wɔ mu, anaadɛ obosuo mu ma\nwoeeyi ananmusifo.\nƆyɛ obiara ne ndzinoa dɛ onya kyɛfa wɔ ɔman adɔdɔdze biara a ɔwɔ ne man mu no mu.\nƆwɔ dɛ aban no tum gyina ɔmamfo hɔn pɛ do. Dɛm pɛ yi wɔnam ambatow a no mu da hɔ a wɔtow no ne\nber ano do da no edzi, akorɔfo a wɔasõ ambatow no wɔ dɛ wɔma wɔtow amba wɔ nsumaa mu a nhyɛ biara\nnnyi mu.\nAsɛmpɔw 22\nAnkorankor biara, dɛ ɔyɛ ɔmamba bo, wɔ ndzinoa dɛ ɔman no bɔ n'eyiedzi ho ban. Ɔwɔ dɛ wɔfa ɔman no\nno mbɔdzen do, anaa bataboa bi a dɛm ɔman no nye ɔman fofor bi yɛ do ma ɔmamba biara n'eyiedzi ba mu\ndɛ mbrɛ ɔman kor no ne sikasɛm, n'asetsena na n'amambra no tum a ɔma n'enyimnyam dzi mu no tse.\nAsɛmpɔw 23\nObiara wɔ ndzinoa dɛ ɔyɛ edwuma. ɔyɛ ne ndzinoa dɛ ɔfa edwuma a ɔpɛ dɛ ɔyɛ, na ɔyɛ ne ndzinoa dɛ\nwɔma no edwumayɛ mu nhyehyɛɛ pa, na wɔbɔ noho ban fi fietsena ho.\nƆyɛ obiara ne ndzinoa dɛ wɔma no akatua a ɔfata n'edwuma a ɔyɛ a, nyimpa nyiyimu biarannyi mu.\nObiara a ɔyɛ edwuma no wɔ ndzinoa dɛ onya akatua a ɔsɛ na ɔtsen a ɔbɛma ɔnye n'ebusuafo enya asetsena\na ɔfata nyimpa n'enyimnyam, na sɛ ohia mpo a, ɔwɔ dɛ wɔdze asetsena mu nhyehyɛɛ ho ekyigyina bi foa\nakatua no do.\nƆyɛ obiara ne ndzinoa dɛ ɔtsew anaa ɔdɔm edwumayɛfo kuw bi dua do dze bɔ n'eyiedzi ho ban.\nAsɛmpɔw 24\nObiara wɔ ahomgye na bɔndɔdziber ho kyɛfa; mber a wɔahyehyɛ a ɔmma edwumayɛ mmbor do, na"
         },
         "6": {
-            "Label": "7",
-            "Index": 6,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
             ],
-            "Text": "akwanma ber a wotua odwumayɛnyi no kaw so kã iyi ho.\nAsɛmpɔw 25\nObiara wɔ ndzinoa dɛ ɔnye n'ebusuafo nya asetsena yi mu eyiedzi a ɔbɛma woeenya ahoɔdzen nye asetsena\npa, edziban, akataho, tsenabew, eduyɛ na asetsena mu nhyehyɛɛ pa.\nƆyɛ obiara ne ndzinoa so dɛ, zɛ ɔhwer n'edwuma, ɔyar, onya dzɛmdzi bi, no hokafo wu, mpanyinyɛ ma\nɔyɛ mberɛw, anaadɛ biribi ama ma onntum nnhwɛ noho a, onya asetsena mu ekyigyina. Ɔwɔ dɛ mbasiafo a\nwotur mba na mbofra nyina wɔma hɔn mboa soronko. Mbofra nyina, dɛ wɔwoo hɔn wɔ awar ase, anaadɛ\nwɔwoo hɔn wɔ sɔnmu, wɔ dɛ wɔma hɔn asetsena mu bambɔ pɛr.\nAsɛmpɔw 26\nƆyɛ obiara ne ndzinoa dɛ ohu nwoma. Mbofraber mu nwomasua na ahyɛse nwomasua a ɔtse dɛm no nnyi\ndɛ wɔgye ho sika. Ɔyɛ nhyɛ dɛ abofra biara nya mbofraber mu nwomasua. Ɔwɔ dɛ wɔma mfirdwuma, na\nnsaanodwuma ho adzesua nye dwumadzi horow ho nwomasua yɛ beberee. Suapɔn mu nwomasua so wɔ dɛ\nɔyɛ beberee na obiara a no mbɔdzembɔ fata no wɔma no ho kwan.\nƆwɔ dɛ nwomasua nyina no botae yɛ dɛ ɔhwehwɛ nyimpa dasanyi no mu nyina no mpontu nye enyidzi\nkɛse a ɔbɛba nyimpa mu wɔ adasa hɔn ndzinoa ahorow a wɔwɔ no ho. Ɔwɔ dɛ otu ntsease, gyaamu-ma-\nɔnka na anyɛnkoyɛ mpon wɔ aman, nyimpakuw na nyamesom ho ekuw nyina mu; na ɔbɔboa atow\nAmanaman Nkabɔmu Kuw no dwumadzi akɔ kan dze ama asomdwee eetsim.\nAwofo wɔ ndzinoa dɛ wɔbɛkyerɛ nwomasua kor a ɔwɔ dɛ hɔn mba nya.\nAsɛmpɔw 27\nObiara wɔ ndzinoa dɛ ɔdze noho fora ne man m'amambra mu na onya enyigye fi ɔman no n'amandze\nnsaanodwuma mu na onya kyɛfa wɔ abɔdze nyansapɛ na mfaso a ɔdze ba no mu so.",
-            "Image": "c8cb9c3984288e13d7a123f0394cb267"
+            "Image": "c8cb9c3984288e13d7a123f0394cb267",
+            "Index": 6,
+            "Label": "7",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "akwanma ber a wotua odwumayɛnyi no kaw so kã iyi ho.\nAsɛmpɔw 25\nObiara wɔ ndzinoa dɛ ɔnye n'ebusuafo nya asetsena yi mu eyiedzi a ɔbɛma woeenya ahoɔdzen nye asetsena\npa, edziban, akataho, tsenabew, eduyɛ na asetsena mu nhyehyɛɛ pa.\nƆyɛ obiara ne ndzinoa so dɛ, zɛ ɔhwer n'edwuma, ɔyar, onya dzɛmdzi bi, no hokafo wu, mpanyinyɛ ma\nɔyɛ mberɛw, anaadɛ biribi ama ma onntum nnhwɛ noho a, onya asetsena mu ekyigyina. Ɔwɔ dɛ mbasiafo a\nwotur mba na mbofra nyina wɔma hɔn mboa soronko. Mbofra nyina, dɛ wɔwoo hɔn wɔ awar ase, anaadɛ\nwɔwoo hɔn wɔ sɔnmu, wɔ dɛ wɔma hɔn asetsena mu bambɔ pɛr.\nAsɛmpɔw 26\nƆyɛ obiara ne ndzinoa dɛ ohu nwoma. Mbofraber mu nwomasua na ahyɛse nwomasua a ɔtse dɛm no nnyi\ndɛ wɔgye ho sika. Ɔyɛ nhyɛ dɛ abofra biara nya mbofraber mu nwomasua. Ɔwɔ dɛ wɔma mfirdwuma, na\nnsaanodwuma ho adzesua nye dwumadzi horow ho nwomasua yɛ beberee. Suapɔn mu nwomasua so wɔ dɛ\nɔyɛ beberee na obiara a no mbɔdzembɔ fata no wɔma no ho kwan.\nƆwɔ dɛ nwomasua nyina no botae yɛ dɛ ɔhwehwɛ nyimpa dasanyi no mu nyina no mpontu nye enyidzi\nkɛse a ɔbɛba nyimpa mu wɔ adasa hɔn ndzinoa ahorow a wɔwɔ no ho. Ɔwɔ dɛ otu ntsease, gyaamu-ma-\nɔnka na anyɛnkoyɛ mpon wɔ aman, nyimpakuw na nyamesom ho ekuw nyina mu; na ɔbɔboa atow\nAmanaman Nkabɔmu Kuw no dwumadzi akɔ kan dze ama asomdwee eetsim.\nAwofo wɔ ndzinoa dɛ wɔbɛkyerɛ nwomasua kor a ɔwɔ dɛ hɔn mba nya.\nAsɛmpɔw 27\nObiara wɔ ndzinoa dɛ ɔdze noho fora ne man m'amambra mu na onya enyigye fi ɔman no n'amandze\nnsaanodwuma mu na onya kyɛfa wɔ abɔdze nyansapɛ na mfaso a ɔdze ba no mu so."
         },
         "7": {
-            "Label": "8",
-            "Index": 7,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
             ],
-            "Text": "Obiara wɔ ndzinoa a ofi abɔdzenyansapɛ, nwomasua anaa amandze, nsaanodwuma adzeyɛ bi a noara dze\nbɔbɔɔ adze no mu ba no ne bambɔ no mu.\nAsɛmpɔw 28\nObiara wɔ ho kwan dɛ onya kyɛfa wɔ asetsena anaa amanaman nhyehyɛɛ a okitsa ndzinoa na fahodzi\nhorow a wɔada no edzi wɔ dɛm Dawurbɔ wɔ Mpaamukã yi mu no mu.\nAsɛmpɔw 29\nObiara wɔ asodzi wɔ nyimpa kuw a ɔtse hɔn mu no mu; hɔ nko ara nye bea a no mpontu a odzi mu botum\naba a akwansiwdze bi nnyi ho.\nBer a obi dze ne ndzinoa na ne fahodzi ridzi dwuma no, ɔwɔ dɛ ɔyɛ dza mbra hwehwɛ wɔ no hɔ ama\nbinom so eenya hɔn kyɛfa nye hɔn fahodzi. Ɔwɔ dɛ onya no bɔ bra tsenenee na ɔyɛ guadoadzeyɛ dɛ mbrɛ\nɔdodow amambu mu eyiedzi adzeyɛ ho ntsetsee tse.\nOnnyi dɛ wɔfa kwan biara a otsia Amanaman Nkabɔmu Kuw no ne nhyehyɛɛ do dze hwehwɛ ndzinoa na\nfahodzi ahorow yi.\nAsɛmpɔw 30\nOnnyi dɛ nyimpa biara ma nkyerɛase wɔ Dawurbɔ yi mu nsɛm yi ho a ɔbɛma ɔman, nyimpakuw anaa\nankorankor bi tum ma ɔaayɛ biribi a ɔbɛsɛɛ ndzinoa na fahodzi ahorow a wɔada no edzi wɔ nwoma yi mu\nno.",
-            "Image": "7e68b82147b1a693fae84add57e7601f"
+            "Image": "7e68b82147b1a693fae84add57e7601f",
+            "Index": 7,
+            "Label": "8",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Obiara wɔ ndzinoa a ofi abɔdzenyansapɛ, nwomasua anaa amandze, nsaanodwuma adzeyɛ bi a noara dze\nbɔbɔɔ adze no mu ba no ne bambɔ no mu.\nAsɛmpɔw 28\nObiara wɔ ho kwan dɛ onya kyɛfa wɔ asetsena anaa amanaman nhyehyɛɛ a okitsa ndzinoa na fahodzi\nhorow a wɔada no edzi wɔ dɛm Dawurbɔ wɔ Mpaamukã yi mu no mu.\nAsɛmpɔw 29\nObiara wɔ asodzi wɔ nyimpa kuw a ɔtse hɔn mu no mu; hɔ nko ara nye bea a no mpontu a odzi mu botum\naba a akwansiwdze bi nnyi ho.\nBer a obi dze ne ndzinoa na ne fahodzi ridzi dwuma no, ɔwɔ dɛ ɔyɛ dza mbra hwehwɛ wɔ no hɔ ama\nbinom so eenya hɔn kyɛfa nye hɔn fahodzi. Ɔwɔ dɛ onya no bɔ bra tsenenee na ɔyɛ guadoadzeyɛ dɛ mbrɛ\nɔdodow amambu mu eyiedzi adzeyɛ ho ntsetsee tse.\nOnnyi dɛ wɔfa kwan biara a otsia Amanaman Nkabɔmu Kuw no ne nhyehyɛɛ do dze hwehwɛ ndzinoa na\nfahodzi ahorow yi.\nAsɛmpɔw 30\nOnnyi dɛ nyimpa biara ma nkyerɛase wɔ Dawurbɔ yi mu nsɛm yi ho a ɔbɛma ɔman, nyimpakuw anaa\nankorankor bi tum ma ɔaayɛ biribi a ɔbɛsɛɛ ndzinoa na fahodzi ahorow a wɔada no edzi wɔ nwoma yi mu\nno."
         }
     }
 }

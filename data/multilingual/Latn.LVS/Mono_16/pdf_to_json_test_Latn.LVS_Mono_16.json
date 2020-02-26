@@ -1,93 +1,93 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581469078,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "3a7497c0585740a58830c742a302bb13",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "VISPĀRĒJĀ CILVĒKA TIESĪBU DEKLARĀCIJA\nANO Ģenerālā Asambleja pieņēmusi 1948. gada 10. decembrī\nPREAMBULA\nIevērojot, ka visiem cilvēku sabiedrības locekļiem piemītošās pašcieņas\nun viņu vienlīdzīgu un neatņemamu tiesību atzīšana ir brīvības,\ntaisnīguma un vispārēja miera pamats, un\nievērojot, ka cilvēku tiesību necienīšana un nicināšana noved pie\nbarbariskiem aktiem, kas izraisa sašutumu cilvēces apziņā, un ka tādas\npasaules radīšana pasludināta kā cilvēku augstākie centieni, kurā\ncilvēkiem būs vārda un pārliecības brīvība un tie būs brīvi no bailēm un\ntrūkuma, un\nievērojot, ka nepieciešams, lai cilvēka tiesības aizsargātu likuma spēks\nun cilvēks nebūtu spiests izmantot kā pēdējo līdzekli sacelšanos pret\ntirāniju un apspiestību, un\nievērojot, ka nepieciešams veicināt draudzīgu attiecību attīstību starp\ntautām, un\nievērojot, ka Apvienoto Nāciju tautas Statūtos apliecināja savu ticību\ncilvēka pamattiesībām, cilvēka personības pašcieņai un vērtībai un\nvīriešu un sieviešu līdztiesībai un apņēmās sekmēt sociālo progresu un\nlabākus dzīves apstākļus vislielākās brīvības apstākļos, un\nievērojot, ka Dalībvalstis ir apņēmušās panākt, sadarbojoties ar\nApvienoto Nāciju Organizāciju, sekmēt cilvēka tiesību un pamatbrīvību\nvispārēju cienīšanu un ievērošanu, un\nievērojot, ka šo tiesību un brīvību vispārējai izpratnei ir milzīga\nnozīme šīs apņemšanās pilnīgai īstenošanai,\ntāpēc Ģenerālā Asambleja\npasludina šo Vispārējo cilvēka tiesību deklarāciju par visu tautu un\nnāciju sasniegumu kopējo standartu, lai katrs cilvēks un katra\nsabiedrības institūcija, pastāvīgi paturot prātā šo Deklarāciju, censtos\nar apmācību un izglītošanu veicināt šo tiesību un brīvības respektēšanu\nun, īstenojot progresīvus nacionālos un starptautiskos pasākumus,\nnodrošinātu to vispārēju un efektīvu atzīšanu un ievērošanu kā pašu\nOrganizācijas dalībvalstu starpā, tā arī to jurisdikcijā esošo\nteritoriju tautās.\n1. pants\nVisi cilvēki piedzimst brīvi un vienlīdzīgi savā pašcieņā un tiesībās.\nViņi ir apveltīti ar saprātu un sirdsapziņu, un viņiem jāizturas citam\npret citu brālības garā.\n2. pants\nIkvienam ir tiesības uz visām šajā Deklarācijā pasludinātajām tiesībām",
-            "Image": "3a7497c0585740a58830c742a302bb13"
+            "Text": "VISPĀRĒJĀ CILVĒKA TIESĪBU DEKLARĀCIJA\nANO Ģenerālā Asambleja pieņēmusi 1948. gada 10. decembrī\nPREAMBULA\nIevērojot, ka visiem cilvēku sabiedrības locekļiem piemītošās pašcieņas\nun viņu vienlīdzīgu un neatņemamu tiesību atzīšana ir brīvības,\ntaisnīguma un vispārēja miera pamats, un\nievērojot, ka cilvēku tiesību necienīšana un nicināšana noved pie\nbarbariskiem aktiem, kas izraisa sašutumu cilvēces apziņā, un ka tādas\npasaules radīšana pasludināta kā cilvēku augstākie centieni, kurā\ncilvēkiem būs vārda un pārliecības brīvība un tie būs brīvi no bailēm un\ntrūkuma, un\nievērojot, ka nepieciešams, lai cilvēka tiesības aizsargātu likuma spēks\nun cilvēks nebūtu spiests izmantot kā pēdējo līdzekli sacelšanos pret\ntirāniju un apspiestību, un\nievērojot, ka nepieciešams veicināt draudzīgu attiecību attīstību starp\ntautām, un\nievērojot, ka Apvienoto Nāciju tautas Statūtos apliecināja savu ticību\ncilvēka pamattiesībām, cilvēka personības pašcieņai un vērtībai un\nvīriešu un sieviešu līdztiesībai un apņēmās sekmēt sociālo progresu un\nlabākus dzīves apstākļus vislielākās brīvības apstākļos, un\nievērojot, ka Dalībvalstis ir apņēmušās panākt, sadarbojoties ar\nApvienoto Nāciju Organizāciju, sekmēt cilvēka tiesību un pamatbrīvību\nvispārēju cienīšanu un ievērošanu, un\nievērojot, ka šo tiesību un brīvību vispārējai izpratnei ir milzīga\nnozīme šīs apņemšanās pilnīgai īstenošanai,\ntāpēc Ģenerālā Asambleja\npasludina šo Vispārējo cilvēka tiesību deklarāciju par visu tautu un\nnāciju sasniegumu kopējo standartu, lai katrs cilvēks un katra\nsabiedrības institūcija, pastāvīgi paturot prātā šo Deklarāciju, censtos\nar apmācību un izglītošanu veicināt šo tiesību un brīvības respektēšanu\nun, īstenojot progresīvus nacionālos un starptautiskos pasākumus,\nnodrošinātu to vispārēju un efektīvu atzīšanu un ievērošanu kā pašu\nOrganizācijas dalībvalstu starpā, tā arī to jurisdikcijā esošo\nteritoriju tautās.\n1. pants\nVisi cilvēki piedzimst brīvi un vienlīdzīgi savā pašcieņā un tiesībās.\nViņi ir apveltīti ar saprātu un sirdsapziņu, un viņiem jāizturas citam\npret citu brālības garā.\n2. pants\nIkvienam ir tiesības uz visām šajā Deklarācijā pasludinātajām tiesībām"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "2ccd6aa0215dee844efa8cb4b3026c9d",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "un brīvībām, bez jebkāda veida atšķirības pēc rases, ādas krāsas,\ndzimuma, valodas, reliģijas, politiskās vai citas pārliecības,\nnacionālās vai sociālās izcelsmes, mantiskā stāvokļa, dzimšanas vai cita\nstatusa.\nTurklāt nedrīkst noteikt nekādu atšķirību pēc tās valsts vai\nteritorijas, politiskā, tiesiskā vai starptautiskā statusa, pie kuras\ncilvēks pieder neatkarīgi no tā, vai šī teritorija ir neatkarīga,\naizbildnībā esoša, bez pašpārvaldes vai kaut kā citādi ierobežota savā\nsuverenitātē.\n3. pants\nIkvienam ir tiesības uz dzīvību, brīvību un personas neaizskaramību.\n4. pants\nNevienu nedrīkst turēt verdzībā vai dzimtbūtniecībā; visa veida verdzība\nun vergu tirdzniecība ir jāaizliedz.\n5. pants\nNevienu nedrīkst pakļaut spīdzināšanai vai cietsirdīgi, necilvēcīgi ar\nviņu apieties vai sodīt, pazemojot viņa cilvēcisko cieņu.\n6. pants\nIkvienam, visur, ir tiesības būt atzītam par personu likuma priekšā.\n7. pants\nVisi ir vienlīdzīgi likuma priekšā un viņiem ir tiesības, bez jebkādas\ndiskriminācijas, uz vienādu likuma aizsardzību. Visiem ir tiesības uz\nvienādu aizsardzību pret jebkādu diskrimināciju, pārkāpjot šo\nDeklarāciju, un pret jebkuru kūdīšanu uz tādu diskrimināciju.\n8. pants\nIkvienam ir tiesības uz efektīvu viņa tiesību atjaunošanu kompetentās\nnacionālajās tiesās gadījumos, par nodarījumiem, kas pārkāpj viņa\npamattiesības, kas garantētas konstitūcijā vai likumā.\n9. pants\nNevienu nedrīkst patvaļīgi arestēt, aizturēt vai pakļaut izraidīšanai.\n10. pants\nIkvienam viņa tiesību un pienākumu noskaidrošanai, kā arī viņam\nizvirzītās kriminālās apsūdzības pamatotības noteikšanai, ir tiesības,\nlai viņu lietu atklāti un, ievērojot visas taisnīguma prasības, uz\npilnīgas līdztiesības pamata izskatītu neatkarīga un objektīva tiesa.\n11. pants\nKatram, kas ir apsūdzēts kriminālnoziegumā, ir tiesības tikt uzskatītam\npar nevainīgu, kamēr viņa vaina nav pierādīta saskaņā ar likumu atklātā",
-            "Image": "2ccd6aa0215dee844efa8cb4b3026c9d"
+            "Text": "un brīvībām, bez jebkāda veida atšķirības pēc rases, ādas krāsas,\ndzimuma, valodas, reliģijas, politiskās vai citas pārliecības,\nnacionālās vai sociālās izcelsmes, mantiskā stāvokļa, dzimšanas vai cita\nstatusa.\nTurklāt nedrīkst noteikt nekādu atšķirību pēc tās valsts vai\nteritorijas, politiskā, tiesiskā vai starptautiskā statusa, pie kuras\ncilvēks pieder neatkarīgi no tā, vai šī teritorija ir neatkarīga,\naizbildnībā esoša, bez pašpārvaldes vai kaut kā citādi ierobežota savā\nsuverenitātē.\n3. pants\nIkvienam ir tiesības uz dzīvību, brīvību un personas neaizskaramību.\n4. pants\nNevienu nedrīkst turēt verdzībā vai dzimtbūtniecībā; visa veida verdzība\nun vergu tirdzniecība ir jāaizliedz.\n5. pants\nNevienu nedrīkst pakļaut spīdzināšanai vai cietsirdīgi, necilvēcīgi ar\nviņu apieties vai sodīt, pazemojot viņa cilvēcisko cieņu.\n6. pants\nIkvienam, visur, ir tiesības būt atzītam par personu likuma priekšā.\n7. pants\nVisi ir vienlīdzīgi likuma priekšā un viņiem ir tiesības, bez jebkādas\ndiskriminācijas, uz vienādu likuma aizsardzību. Visiem ir tiesības uz\nvienādu aizsardzību pret jebkādu diskrimināciju, pārkāpjot šo\nDeklarāciju, un pret jebkuru kūdīšanu uz tādu diskrimināciju.\n8. pants\nIkvienam ir tiesības uz efektīvu viņa tiesību atjaunošanu kompetentās\nnacionālajās tiesās gadījumos, par nodarījumiem, kas pārkāpj viņa\npamattiesības, kas garantētas konstitūcijā vai likumā.\n9. pants\nNevienu nedrīkst patvaļīgi arestēt, aizturēt vai pakļaut izraidīšanai.\n10. pants\nIkvienam viņa tiesību un pienākumu noskaidrošanai, kā arī viņam\nizvirzītās kriminālās apsūdzības pamatotības noteikšanai, ir tiesības,\nlai viņu lietu atklāti un, ievērojot visas taisnīguma prasības, uz\npilnīgas līdztiesības pamata izskatītu neatkarīga un objektīva tiesa.\n11. pants\nKatram, kas ir apsūdzēts kriminālnoziegumā, ir tiesības tikt uzskatītam\npar nevainīgu, kamēr viņa vaina nav pierādīta saskaņā ar likumu atklātā"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "da832cf28f6cc29f44b83590485e01b7",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "tiesas procesā, kurā viņam ir bijušas nodrošinātas visas savai\naizstāvībai nepieciešamās garantijas.\nNevienu nedrīkst notiesāt par sodāmu tiesībpārkāpumu tādas darbības vai\nbezdarbības dēļ, kas saskaņā ar izdarīšanas brīdī spēkā bijušajiem\nnacionālajiem likumiem vai starptautiskajām tiesībām nebija sodāms\ntiesībpārkāpums. Tāpat nedrīkst piespriest smagāku sodu nekā tas, kas\nbija jāpiemēro laikā, kad tika izdarīts sodāmais tiesībpārkākums.\n12. pants\nNedrīkst patvaļīgi iejaukties neviena personiskajā un ģimenes dzīvē,\npatvaļīgi pārkāpt viņa dzīvokļa vai korespondences neaizskaramību vai\napdraudēt viņa godu un reputāciju. Katram ir tiesības uz likuma\naizsardzību pret šādu iejaukšanos vai apdraudējumiem.\n13. pants\nIkvienam ir tiesības brīvi pārvietoties un izvēlēties sev dzīvesvietu\nikvienā valstī.\nIkvienam ir tiesības atstāt jebkuru, arī savu valsti un atgriezties savā\nvalstī.\n14. pants\nIkvienam ir tiesības meklēt un izmantot patvērumu no vajāšanas citās\nvalstīs. Šīs tiesības nevar tikt izmantotas tādas vajāšanas gadījumā,\nkas īstenībā nav saistīta ar politiskiem noziegumiem vai ar darbībām,\nkas ir pretrunā ar Apvienoto\nNāciju Organizācijas mērķiem un principiem.\n15. pants\nIkvienam ir tiesības uz pilsonību.\nNevienam patvaļīgi nedrīkst atņemt tā pilsonību vai atteikt tiesības\nmainīt savu pilsonību.\n16. pants\nPilngadīgajiem vīriešiem un sievietēm ir tiesības bez jebkādiem ar rasi,\nnacionalitāti vai reliģiju saistītiem ierobežojumiem stāties laulībā un\nnodibināt ģimeni. Viņiem ir vienlīdzīgas tiesības, stāties laulībā,\nlaulības laikā un šķirot laulību.\nLaulība var tikt slēgta tikai ar abu personu, kas stājas laulībā, brīvu\nun pilnīgu piekrišanu.\nĢimene ir dabiska sabiedrības pamatvienība, un tai ir tiesības uz\nsabiedrības un valsts aizsardzību.\n17. pants\nIkvienam ir tiesības uz īpašumu kā vienam, tā arī kopīgi ar citiem.",
-            "Image": "da832cf28f6cc29f44b83590485e01b7"
+            "Text": "tiesas procesā, kurā viņam ir bijušas nodrošinātas visas savai\naizstāvībai nepieciešamās garantijas.\nNevienu nedrīkst notiesāt par sodāmu tiesībpārkāpumu tādas darbības vai\nbezdarbības dēļ, kas saskaņā ar izdarīšanas brīdī spēkā bijušajiem\nnacionālajiem likumiem vai starptautiskajām tiesībām nebija sodāms\ntiesībpārkāpums. Tāpat nedrīkst piespriest smagāku sodu nekā tas, kas\nbija jāpiemēro laikā, kad tika izdarīts sodāmais tiesībpārkākums.\n12. pants\nNedrīkst patvaļīgi iejaukties neviena personiskajā un ģimenes dzīvē,\npatvaļīgi pārkāpt viņa dzīvokļa vai korespondences neaizskaramību vai\napdraudēt viņa godu un reputāciju. Katram ir tiesības uz likuma\naizsardzību pret šādu iejaukšanos vai apdraudējumiem.\n13. pants\nIkvienam ir tiesības brīvi pārvietoties un izvēlēties sev dzīvesvietu\nikvienā valstī.\nIkvienam ir tiesības atstāt jebkuru, arī savu valsti un atgriezties savā\nvalstī.\n14. pants\nIkvienam ir tiesības meklēt un izmantot patvērumu no vajāšanas citās\nvalstīs. Šīs tiesības nevar tikt izmantotas tādas vajāšanas gadījumā,\nkas īstenībā nav saistīta ar politiskiem noziegumiem vai ar darbībām,\nkas ir pretrunā ar Apvienoto\nNāciju Organizācijas mērķiem un principiem.\n15. pants\nIkvienam ir tiesības uz pilsonību.\nNevienam patvaļīgi nedrīkst atņemt tā pilsonību vai atteikt tiesības\nmainīt savu pilsonību.\n16. pants\nPilngadīgajiem vīriešiem un sievietēm ir tiesības bez jebkādiem ar rasi,\nnacionalitāti vai reliģiju saistītiem ierobežojumiem stāties laulībā un\nnodibināt ģimeni. Viņiem ir vienlīdzīgas tiesības, stāties laulībā,\nlaulības laikā un šķirot laulību.\nLaulība var tikt slēgta tikai ar abu personu, kas stājas laulībā, brīvu\nun pilnīgu piekrišanu.\nĢimene ir dabiska sabiedrības pamatvienība, un tai ir tiesības uz\nsabiedrības un valsts aizsardzību.\n17. pants\nIkvienam ir tiesības uz īpašumu kā vienam, tā arī kopīgi ar citiem."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "3a25c7a28109af2e0caceedbdbd3969c",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Nevienam patvaļīgi nedrīkst atņemt viņa īpašumu.\n18. pants\nIkvienam ir tiesības uz domu, apziņas un reliģijas brīvību; brīvību\nmainīt reliģiju vai pārliecību, brīvību nodoties savai reliģijai un\npārliecībai tiklab vienatnē, kā arī kopā ar citiem publiski vai\nnošķirti, piekopt reliģiju vai ticību, sludinot mācību, izpildot,\npielūdzot un ievērojot to.\n19. pants\nIkvienam ir tiesības uz pārliecības un izteiksmes brīvību; šīs tiesības\nietver brīvību bez iejaukšanās palikt pie saviem uzskatiem un meklēt,\nsaņemt un izplatīt informāciju un idejas ar jebkuriem informācijas\nlīdzekļiem neatkarīgi no valstu robežām.\n20. pants\nIkvienam ir tiesības uz miermīlīgu sapulču un asociācijas brīvību.\nNevienu nedrīkst piespiest piederēt kādai asociācijai.\n21. pants\nIkvienam ir tiesības piedalīties savas valsts pārvaldē tieši vai ar\nbrīvi izvēlētu pārstāvju starpniecību.\nIkvienam ir tiesības uz līdztiesīgu pieejamību valsts dienestam savā\nzemē.\nTautas gribai ir jābūt valdības varas pamatam; šai gribai jāizpaužas\nperiodiskās un nefalsificētās vēlēšanās, kam jānotiek uz vispārēju un\nvienlīdzīgu vēlēšanu tiesību pamata, aizklāti balsojot vai arī citās\nlīdzvērtīgās brīvās balsošanas procedūrās.\n22. pants\nKatram kā sabiedrības loceklim ir tiesības uz sociālo drošību un viņam\nir tiesības īstenot ar nacionālo centienu palīdzību un starptautiskās\nsadarbības ceļā, un atbilstoši katras valsts struktūrai un resursiem,\nviņa pašcieņai un personības brīvai attīstībai nepieciešamās\nekonomiskās, sociālās un kultūras tiesības.\n23. pants\nIkvienam ir tiesības uz darbu, uz brīvu darba izvēli, uz taisnīgiem un\nlabvēlīgiem darba apstākļiem un uz aizsardzību pret bezdarbu.\nIkvienam, bez jebkādas diskriminācijas, ir tiesības uz vienādu atlīdzību\npar līdzvērtīgu darbu.\nKatram strādājošam ir tiesības uz taisnīgu un pienācīgu darba algu, kas\nnodrošina cilvēka cienīgu dzīvi viņam un viņa ģimenei. Nepieciešamības\ngadījumā tā jāpapildina ar citiem sociālās nodrošināšanas līdzekļiem.\nKatram ir tiesības dibināt arodbiedrības un iestāties tajās savu",
-            "Image": "3a25c7a28109af2e0caceedbdbd3969c"
+            "Text": "Nevienam patvaļīgi nedrīkst atņemt viņa īpašumu.\n18. pants\nIkvienam ir tiesības uz domu, apziņas un reliģijas brīvību; brīvību\nmainīt reliģiju vai pārliecību, brīvību nodoties savai reliģijai un\npārliecībai tiklab vienatnē, kā arī kopā ar citiem publiski vai\nnošķirti, piekopt reliģiju vai ticību, sludinot mācību, izpildot,\npielūdzot un ievērojot to.\n19. pants\nIkvienam ir tiesības uz pārliecības un izteiksmes brīvību; šīs tiesības\nietver brīvību bez iejaukšanās palikt pie saviem uzskatiem un meklēt,\nsaņemt un izplatīt informāciju un idejas ar jebkuriem informācijas\nlīdzekļiem neatkarīgi no valstu robežām.\n20. pants\nIkvienam ir tiesības uz miermīlīgu sapulču un asociācijas brīvību.\nNevienu nedrīkst piespiest piederēt kādai asociācijai.\n21. pants\nIkvienam ir tiesības piedalīties savas valsts pārvaldē tieši vai ar\nbrīvi izvēlētu pārstāvju starpniecību.\nIkvienam ir tiesības uz līdztiesīgu pieejamību valsts dienestam savā\nzemē.\nTautas gribai ir jābūt valdības varas pamatam; šai gribai jāizpaužas\nperiodiskās un nefalsificētās vēlēšanās, kam jānotiek uz vispārēju un\nvienlīdzīgu vēlēšanu tiesību pamata, aizklāti balsojot vai arī citās\nlīdzvērtīgās brīvās balsošanas procedūrās.\n22. pants\nKatram kā sabiedrības loceklim ir tiesības uz sociālo drošību un viņam\nir tiesības īstenot ar nacionālo centienu palīdzību un starptautiskās\nsadarbības ceļā, un atbilstoši katras valsts struktūrai un resursiem,\nviņa pašcieņai un personības brīvai attīstībai nepieciešamās\nekonomiskās, sociālās un kultūras tiesības.\n23. pants\nIkvienam ir tiesības uz darbu, uz brīvu darba izvēli, uz taisnīgiem un\nlabvēlīgiem darba apstākļiem un uz aizsardzību pret bezdarbu.\nIkvienam, bez jebkādas diskriminācijas, ir tiesības uz vienādu atlīdzību\npar līdzvērtīgu darbu.\nKatram strādājošam ir tiesības uz taisnīgu un pienācīgu darba algu, kas\nnodrošina cilvēka cienīgu dzīvi viņam un viņa ģimenei. Nepieciešamības\ngadījumā tā jāpapildina ar citiem sociālās nodrošināšanas līdzekļiem.\nKatram ir tiesības dibināt arodbiedrības un iestāties tajās savu"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "e0ba4787c4a83241cbbe2bca492402b1",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "interešu aizsardzībai.\n24. pants\nIkvienam ir tiesības uz atpūtu un brīvo laiku, ieskaitot saprātīgu\ndarbadienas ierobežojumu un apmaksātu periodisku atvaļinājumu.\n25. pants\nIkvienam ir tiesības uz viņa un viņa ģimenes veselības uzturēšanai un\nlabklājībai atbilstošu dzīves līmeni, ieskaitot uzturu, apģērbu,\nmājokli, medicīniskos pakalpojumus un nepieciešamo sociālo apkalpošanu,\nun tiesības uz nodrošinājumu bezdarba, slimības, darba nespējas,\natraitnības, vecuma vai citos iztikas līdzekļu zaudējumu gadījumos, kas\nradušies no viņa neatkarīgu apstākļu dēļ.\nMātēm un bērniem ir tiesības uz īpašu aizsardzību un palīdzību. Visiem\nbērniem, laulībā un ārlaulībā dzimušajiem, ir jābauda vienāda sociālā\naizsardzība.\n26. pants\nIkvienam ir tiesības uz izglītību. Izglītībai, vismaz pamata un\nvispārējai izglītībai, ir jābūt bezmaksas. Pamatizglītībai ir jābūt\nobligātai. Tehniskajai un profesionālajai izglītībai ir jābūt vispār\npieejamai, un augstākajai izglītībai jābūt vienādi pieejamai visiem\natbilstoši spējām.\nIzglītības mērķim jābūt pilnīgai personības attīstībai, kā arī cilvēka\ntiesību un pamatbrīvību respektēšanas stiprināšanai.\nIzglītībai ir jāsekmē saprašanās, iecietība un draudzība starp visām\ntautām, rasu vai reliģiskajām grupām un jāsekmē Apvienoto Nāciju\nOrganizācijas miera uzturēšanas pasākumi.\n27. pants\nIkvienam ir tiesības brīvi piedalīties sabiedrības kultūras dzīvē,\nbaudīt mākslu, piedalīties zinātnes progresā un izmantot tā labumus.\nIkvienam ir tiesības uz morālo un materiālo interešu aizsardzību, kas\nizriet no zinātniskajiem, literārajiem vai mākslas darbiem, kuru autors\nviņš ir.\n28. pants\nIkvienam ir tiesības uz sociālo un starptautisko kārtību, kurā var tikt\npilnībā īstenotas šajā Deklarācijā izklāstītās tiesības un brīvības.\n29. pants\nIkvienam ir pienākumi pret sabiedrību, kurā vienīgi ir iespējama viņa\npersonības brīva un pilnīga attīstība.\nIzmantojot savas tiesības un brīvības, katram cilvēkam ir jāpakļaujas\ntikai tādiem ierobežojumiem, kas ir noteikti ar likumu, vienīgi ar mērķi\nnodrošināt citu cilvēku tiesību un brīvību pienācīgu atzīšanu un",
-            "Image": "e0ba4787c4a83241cbbe2bca492402b1"
+            "Text": "interešu aizsardzībai.\n24. pants\nIkvienam ir tiesības uz atpūtu un brīvo laiku, ieskaitot saprātīgu\ndarbadienas ierobežojumu un apmaksātu periodisku atvaļinājumu.\n25. pants\nIkvienam ir tiesības uz viņa un viņa ģimenes veselības uzturēšanai un\nlabklājībai atbilstošu dzīves līmeni, ieskaitot uzturu, apģērbu,\nmājokli, medicīniskos pakalpojumus un nepieciešamo sociālo apkalpošanu,\nun tiesības uz nodrošinājumu bezdarba, slimības, darba nespējas,\natraitnības, vecuma vai citos iztikas līdzekļu zaudējumu gadījumos, kas\nradušies no viņa neatkarīgu apstākļu dēļ.\nMātēm un bērniem ir tiesības uz īpašu aizsardzību un palīdzību. Visiem\nbērniem, laulībā un ārlaulībā dzimušajiem, ir jābauda vienāda sociālā\naizsardzība.\n26. pants\nIkvienam ir tiesības uz izglītību. Izglītībai, vismaz pamata un\nvispārējai izglītībai, ir jābūt bezmaksas. Pamatizglītībai ir jābūt\nobligātai. Tehniskajai un profesionālajai izglītībai ir jābūt vispār\npieejamai, un augstākajai izglītībai jābūt vienādi pieejamai visiem\natbilstoši spējām.\nIzglītības mērķim jābūt pilnīgai personības attīstībai, kā arī cilvēka\ntiesību un pamatbrīvību respektēšanas stiprināšanai.\nIzglītībai ir jāsekmē saprašanās, iecietība un draudzība starp visām\ntautām, rasu vai reliģiskajām grupām un jāsekmē Apvienoto Nāciju\nOrganizācijas miera uzturēšanas pasākumi.\n27. pants\nIkvienam ir tiesības brīvi piedalīties sabiedrības kultūras dzīvē,\nbaudīt mākslu, piedalīties zinātnes progresā un izmantot tā labumus.\nIkvienam ir tiesības uz morālo un materiālo interešu aizsardzību, kas\nizriet no zinātniskajiem, literārajiem vai mākslas darbiem, kuru autors\nviņš ir.\n28. pants\nIkvienam ir tiesības uz sociālo un starptautisko kārtību, kurā var tikt\npilnībā īstenotas šajā Deklarācijā izklāstītās tiesības un brīvības.\n29. pants\nIkvienam ir pienākumi pret sabiedrību, kurā vienīgi ir iespējama viņa\npersonības brīva un pilnīga attīstība.\nIzmantojot savas tiesības un brīvības, katram cilvēkam ir jāpakļaujas\ntikai tādiem ierobežojumiem, kas ir noteikti ar likumu, vienīgi ar mērķi\nnodrošināt citu cilvēku tiesību un brīvību pienācīgu atzīšanu un"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "b82c1e8f0f8411a971ac3777842c4990",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "cienīšanu un morāles, sabiedriskās kārtības un vispārējas labklājības\ntaisnīgu prasību apmierināšanu demokrātiskā sabiedrībā.\nŠīs tiesības un brīvības nekādā ziņā nedrīkst izmantot pretrunā ar\nApvienoto Nāciju Organizācijas mērķiem un principiem.\n30. pants\nNeko šajā Deklarācijā nedrīkst tulkot tādējādi, lai kādai valstij,\npersonu grupai vai atsevišķām personām būtu tiesības iesaistīties\njebkādā pasākumā vai veikt jebkuru darbību, kuru mērķis ir iznīcināt\nšajā Deklarācijā izklāstītās tiesības un brīvības.",
-            "Image": "b82c1e8f0f8411a971ac3777842c4990"
+            "Text": "cienīšanu un morāles, sabiedriskās kārtības un vispārējas labklājības\ntaisnīgu prasību apmierināšanu demokrātiskā sabiedrībā.\nŠīs tiesības un brīvības nekādā ziņā nedrīkst izmantot pretrunā ar\nApvienoto Nāciju Organizācijas mērķiem un principiem.\n30. pants\nNeko šajā Deklarācijā nedrīkst tulkot tādējādi, lai kādai valstij,\npersonu grupai vai atsevišķām personām būtu tiesības iesaistīties\njebkādā pasākumā vai veikt jebkuru darbību, kuru mērķis ir iznīcināt\nšajā Deklarācijā izklāstītās tiesības un brīvības."
         }
     }
 }

@@ -1,80 +1,80 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581466688,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "781995684dc9e4c592c7f279c0a1560d",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Declaraçón Universal di Dirêtu di Hómé\nCu Assembleia Geral ploclamá ni resoluçón di 217 (III) di 10 di Dezemblo\ndi 1948\nPleâmbulo\nPunda dignidade di tudo nguê di mundu e dirêtu d'inem igual e andeji cu\na na pô bêndê fa sá stê di liberdade, di justiça e di paz ni mundu;\nPunda fata di conheximentu e displêzu di dirêtu di hómé plovocá atu di\nmalvadez cu ca revoltá cunxença di tudu hómé di mundu e punda ua mundu\ncu tudu nguê ca pô sa livli, pê pô flá e pê pô quêlê ni cuá cuê mêssê,\nsê mendu e sê miséria, fô ploclamadu cuma cuá maxi importanti cu hómé\ninventá;\nPunda ploteçón di dirêtu di hómé baseado ni ua ligime di dirêtu sá\nimportante lumadu, pa hómé na sá obligado utilizá, cuma ultimu recurso,\nlivolta contla tirania e opressón;\nPunda ê sá importante lumadu conselhá disenvolvimentu di amizade entre\ntudu téla;\nPunda ni Cata, tudu pôvô di Naçón Unida ploclamá ôtlô vê, fé d'inen ni\ndirêtu di hómé cu di muala e nen declará cuma nen sá lesovido melhorá\nploglesso social pa tudu nguê tê milhó vida ni ua liberdade maxi\nnglandji;\nPunda tudu Estado memblu xiná complomissu cuma nen ca ba plomovê, ni\ncooperaçón cu Organizaçón di Naçón Unida, lispêtu universal e efetivo di\ndirêtu di hómé e di liberdade maxi importanti;\nPunda ua mêma conceçón di nen dirêtu cu liberdade sé sa importanti\nlumadu pa pô cumpli complomisso sé:\nAssembleia Geral\nCa ploclamá Declaraçón Universal di Dirêtu di Hómé sé cuma ua cuá buá pa\ntudu pôvô cu téla di mundu pô fé, pa tudu nguê cu tudu organizaçón di\ntéla, pô na txilé ni cabeça fa, fé tudu cuá cu nen cá pôji, pá melhorá\nensino cu educaçón, disenvolvê lispêtu di dirêtu cu liberdade, tlabá pa\npô concê e pa pô platicá tudu cuá sé ni tudu Estado memblu e ni téla cu\nnaxi tê dependenxa fa.\nArtigo 1º\nTudu nguê di mundu ca nancê livli e igual ni dignidade e ni dirêtu.\nPunda nen ca pensá e nen tê cunxensa, selá nen fé tudu cuá cu tençón de\nlumón.\nArtigo 2º\nTudu nguê ca pô flá ni dirêtu cu liberdade cu sa ploclamadu ni\nDeclaraçón sé, sê distinçón, mó fala di laça, di côlô, di sexo, di\nlungua, di religiôn, di pensamento político ô ôtlo, di natureza di téla",
-            "Image": "781995684dc9e4c592c7f279c0a1560d"
+            "Text": "Declaraçón Universal di Dirêtu di Hómé\nCu Assembleia Geral ploclamá ni resoluçón di 217 (III) di 10 di Dezemblo\ndi 1948\nPleâmbulo\nPunda dignidade di tudo nguê di mundu e dirêtu d'inem igual e andeji cu\na na pô bêndê fa sá stê di liberdade, di justiça e di paz ni mundu;\nPunda fata di conheximentu e displêzu di dirêtu di hómé plovocá atu di\nmalvadez cu ca revoltá cunxença di tudu hómé di mundu e punda ua mundu\ncu tudu nguê ca pô sa livli, pê pô flá e pê pô quêlê ni cuá cuê mêssê,\nsê mendu e sê miséria, fô ploclamadu cuma cuá maxi importanti cu hómé\ninventá;\nPunda ploteçón di dirêtu di hómé baseado ni ua ligime di dirêtu sá\nimportante lumadu, pa hómé na sá obligado utilizá, cuma ultimu recurso,\nlivolta contla tirania e opressón;\nPunda ê sá importante lumadu conselhá disenvolvimentu di amizade entre\ntudu téla;\nPunda ni Cata, tudu pôvô di Naçón Unida ploclamá ôtlô vê, fé d'inen ni\ndirêtu di hómé cu di muala e nen declará cuma nen sá lesovido melhorá\nploglesso social pa tudu nguê tê milhó vida ni ua liberdade maxi\nnglandji;\nPunda tudu Estado memblu xiná complomissu cuma nen ca ba plomovê, ni\ncooperaçón cu Organizaçón di Naçón Unida, lispêtu universal e efetivo di\ndirêtu di hómé e di liberdade maxi importanti;\nPunda ua mêma conceçón di nen dirêtu cu liberdade sé sa importanti\nlumadu pa pô cumpli complomisso sé:\nAssembleia Geral\nCa ploclamá Declaraçón Universal di Dirêtu di Hómé sé cuma ua cuá buá pa\ntudu pôvô cu téla di mundu pô fé, pa tudu nguê cu tudu organizaçón di\ntéla, pô na txilé ni cabeça fa, fé tudu cuá cu nen cá pôji, pá melhorá\nensino cu educaçón, disenvolvê lispêtu di dirêtu cu liberdade, tlabá pa\npô concê e pa pô platicá tudu cuá sé ni tudu Estado memblu e ni téla cu\nnaxi tê dependenxa fa.\nArtigo 1º\nTudu nguê di mundu ca nancê livli e igual ni dignidade e ni dirêtu.\nPunda nen ca pensá e nen tê cunxensa, selá nen fé tudu cuá cu tençón de\nlumón.\nArtigo 2º\nTudu nguê ca pô flá ni dirêtu cu liberdade cu sa ploclamadu ni\nDeclaraçón sé, sê distinçón, mó fala di laça, di côlô, di sexo, di\nlungua, di religiôn, di pensamento político ô ôtlo, di natureza di téla"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "6c18708fca2b656096b47e82e7ff5536",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "ô di sociedade, di liqueza, di naximentu ô qualqué ôtlo situaçón.\nAlén di cuá sé, a na ca pô fé nê ua separaçón baseado ni estatuto\npolítico, jurídico ô di téla di qualqué nguê, mêmu xi téla sé conquistá\ndependenxa zá ô xi ê naxi tê fa.\nArtigo 3º\nTudu nguê tê dirêtu di vida, di liberdade e di segurança pessoal.\nArtigo 4º\nNê ua nguê ca pô vivê ni esclavatura fa; esclavatura cu bendê ô coplá\nesclavo sá ploibido.\nArtigo 5º\nNê ua nguê na ca pô sê tlatadu cu clueldade e sê cloçón fa.\nArtigo 6º\nTudu nguê tê dirêtu pa tlaté cu justiça ni tudu lugué\nArtigo 7º\nTudu ngué sá igual pê cumpli lei di téla e selá lei sé plotêgê tudu nguê\nsê fé distinçón. Selá tudu nguê sá plotegido sê distinçón contla qualqué\ncuá cu sá contla Declaraçón sé e contla tudu cuá cu cá plovocá mali sé.\nArtigo 8º\nTudu nguê tê dirêtu di lecolê ni stluviçu di téla dê, contla qualqué\nsituaçón cu ca violá dirêtu maxi importanti cu sá ni Constituiçón e ni\nlei.\nArtigo 9º\nNê ua nguê na ca pô sá plesu fa e a na ca pô mandá ni ua nguê ba ôtlo\ntéla sê motivo fa.\nArtigo 10º\nTudu nguê tê mêmu dirêtu ni tlibunal, cu tocá tlatá tudu cuá di nguê sé\ncu justiça, sê plijudiqué di qualqué modo.\nArtigo 11º\nTudu nguê cu sá cusado di fé qualqué cuá sá nôcentxi antê cu a ca julgué\npublicamente ni tlibunal e selá a dé possibilidade pê pô dêfêndê ubuê dê\ncontla cusaçón sé.\nA na ca pô condená ua nguê fa, xi ni momento cuê fé mali, pena cu ca\ncastigá mali sé na sá esclito ni livlu di justiça di telá dê ô ni livlu\ndi justiça internacional. A na ca pô dé ua castigo maxi pesado fa, xi ni\ndjá cuê fé mali, pena sé maxi pesado na tava sén fa.\nArtigo 12º",
-            "Image": "6c18708fca2b656096b47e82e7ff5536"
+            "Text": "ô di sociedade, di liqueza, di naximentu ô qualqué ôtlo situaçón.\nAlén di cuá sé, a na ca pô fé nê ua separaçón baseado ni estatuto\npolítico, jurídico ô di téla di qualqué nguê, mêmu xi téla sé conquistá\ndependenxa zá ô xi ê naxi tê fa.\nArtigo 3º\nTudu nguê tê dirêtu di vida, di liberdade e di segurança pessoal.\nArtigo 4º\nNê ua nguê ca pô vivê ni esclavatura fa; esclavatura cu bendê ô coplá\nesclavo sá ploibido.\nArtigo 5º\nNê ua nguê na ca pô sê tlatadu cu clueldade e sê cloçón fa.\nArtigo 6º\nTudu nguê tê dirêtu pa tlaté cu justiça ni tudu lugué\nArtigo 7º\nTudu ngué sá igual pê cumpli lei di téla e selá lei sé plotêgê tudu nguê\nsê fé distinçón. Selá tudu nguê sá plotegido sê distinçón contla qualqué\ncuá cu sá contla Declaraçón sé e contla tudu cuá cu cá plovocá mali sé.\nArtigo 8º\nTudu nguê tê dirêtu di lecolê ni stluviçu di téla dê, contla qualqué\nsituaçón cu ca violá dirêtu maxi importanti cu sá ni Constituiçón e ni\nlei.\nArtigo 9º\nNê ua nguê na ca pô sá plesu fa e a na ca pô mandá ni ua nguê ba ôtlo\ntéla sê motivo fa.\nArtigo 10º\nTudu nguê tê mêmu dirêtu ni tlibunal, cu tocá tlatá tudu cuá di nguê sé\ncu justiça, sê plijudiqué di qualqué modo.\nArtigo 11º\nTudu nguê cu sá cusado di fé qualqué cuá sá nôcentxi antê cu a ca julgué\npublicamente ni tlibunal e selá a dé possibilidade pê pô dêfêndê ubuê dê\ncontla cusaçón sé.\nA na ca pô condená ua nguê fa, xi ni momento cuê fé mali, pena cu ca\ncastigá mali sé na sá esclito ni livlu di justiça di telá dê ô ni livlu\ndi justiça internacional. A na ca pô dé ua castigo maxi pesado fa, xi ni\ndjá cuê fé mali, pena sé maxi pesado na tava sén fa.\nArtigo 12º"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "5879fe4f119541dd08ddd4c98194a44c",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "A na ca pô incomodá sê motivo ua nguê ni vida dê fa, ni familia dê fa,\nni ké dê fa, ni cata dê fa, e a na ca pô toqué ni honra nê reputaçón dê\nfa. Selá lei di telá dê plotegê contla tudu mali sé.\nArtigo 13º\nTudu nguê tê dirêtu di ndá e coiê ké dê n'dentlu di téla dê.\nTudu nguê tê dirêtu di xê di téla andji ê sá nê, di téla dê tudaxi, e ê\ntê dirêtu di bilá ba téla dê ola ê mêssê.\nArtigo 14º\nTudu nguê cu sá plesseguido ni ua téla ê tê dirêtu di ploculá ploteçón\nni ôtlo téla, e ê sá obligado pa dé ploteçón.\nMaji dirêtu sé na ca valê fa xi qualqué nguê cometê ua clime ô xi ê na\nlispetá tudu mandamento di Naçón Unida fa.\nArtigo 15º\nTudu nguê tê dirêtu di tê ua nacionalidade.\nA na ca pô txilá ua nguê nacionalidade dê fa nê obligué mudá\nnacionalidade dê fa.\nArtigo 16º\nTudu hómé cu muala tê dirêtu di casá e di flomá familia, ola cu nen ca\ntê daji, sê piá laça, nacionalidade ô religión. Tudu nen tê mêmu dirêtu,\nola nen sá casadu e ola casá ca blagá.\nA na ca pô obligá hómé cu muala casá fa.\nFamilia sá base di tudu sociedade e ê tê dirêtu di ploteçón di sociedade\ne di Estado.\nArtigo 17º\nTudu nguê, xi ê sá êlê tan ô zuntadu cu ôtlo nguê, tê dirêtu di\npropriedade.\nA na ca pô txilá sê motivo qualqué bén di ua nguê fa.\nArtigo 18º\nTudu nguê tê dirêtu di pensamento, di cunxença e di religión; dirêtu sé\nca implicá liberdade di mudá di religión ô di conviçón, liberdade di\nmanifestá religión ô conviçón, ua nguê tan ô zuntado cu ôtlo nguê,\npublicamente ô non, ni tudu cuá di telá.\nArtigo 19º\nTudu nguê tê dirêtu di liberdade di opinión e di flá. A na ca pô\nplijudicá nê ua nguê fa punda ê manifestá opinión dê e ê ca pô goló,\nlêcêbê e uangá , ni qualqué xitu cuê mêssê, tudu pensamentu dê, tudu\nideia dê, modo cu ê mêssê.",
-            "Image": "5879fe4f119541dd08ddd4c98194a44c"
+            "Text": "A na ca pô incomodá sê motivo ua nguê ni vida dê fa, ni familia dê fa,\nni ké dê fa, ni cata dê fa, e a na ca pô toqué ni honra nê reputaçón dê\nfa. Selá lei di telá dê plotegê contla tudu mali sé.\nArtigo 13º\nTudu nguê tê dirêtu di ndá e coiê ké dê n'dentlu di téla dê.\nTudu nguê tê dirêtu di xê di téla andji ê sá nê, di téla dê tudaxi, e ê\ntê dirêtu di bilá ba téla dê ola ê mêssê.\nArtigo 14º\nTudu nguê cu sá plesseguido ni ua téla ê tê dirêtu di ploculá ploteçón\nni ôtlo téla, e ê sá obligado pa dé ploteçón.\nMaji dirêtu sé na ca valê fa xi qualqué nguê cometê ua clime ô xi ê na\nlispetá tudu mandamento di Naçón Unida fa.\nArtigo 15º\nTudu nguê tê dirêtu di tê ua nacionalidade.\nA na ca pô txilá ua nguê nacionalidade dê fa nê obligué mudá\nnacionalidade dê fa.\nArtigo 16º\nTudu hómé cu muala tê dirêtu di casá e di flomá familia, ola cu nen ca\ntê daji, sê piá laça, nacionalidade ô religión. Tudu nen tê mêmu dirêtu,\nola nen sá casadu e ola casá ca blagá.\nA na ca pô obligá hómé cu muala casá fa.\nFamilia sá base di tudu sociedade e ê tê dirêtu di ploteçón di sociedade\ne di Estado.\nArtigo 17º\nTudu nguê, xi ê sá êlê tan ô zuntadu cu ôtlo nguê, tê dirêtu di\npropriedade.\nA na ca pô txilá sê motivo qualqué bén di ua nguê fa.\nArtigo 18º\nTudu nguê tê dirêtu di pensamento, di cunxença e di religión; dirêtu sé\nca implicá liberdade di mudá di religión ô di conviçón, liberdade di\nmanifestá religión ô conviçón, ua nguê tan ô zuntado cu ôtlo nguê,\npublicamente ô non, ni tudu cuá di telá.\nArtigo 19º\nTudu nguê tê dirêtu di liberdade di opinión e di flá. A na ca pô\nplijudicá nê ua nguê fa punda ê manifestá opinión dê e ê ca pô goló,\nlêcêbê e uangá , ni qualqué xitu cuê mêssê, tudu pensamentu dê, tudu\nideia dê, modo cu ê mêssê."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "8c2b1a542562d99c44410a1cbf4c1bb6",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Artigo 20º\nTudu nguê tê dirêtu di liberdade di reunión e di associaçón.\nA na ca pô obligá ne ua nguê di fé patxi de ua associaçón fá.\nArtigo 21º\nTudu nguê tê dirêtu di participá ni tudu assunto di tela dê, ê pô sa êlê\nmé ô ê ca pô mandá ua nguê cuê mêssê.\nTudu nguê tê dirêtu di lutá ni tudu situaçón di estado di téla dê.\nVonté di povo sá base de autoridade di podê di Estado, vonté sé ca\nmanifestá ni elêçón livli e justu cu ca realizá cu data mlacado zá ni\nlei baseado ni voto secleto e cu tudu nguê tê liberdade di voto.\nArtigo 22º\nTudu nguê, cuma ê sá memblo di sociedade, ê tê dirêtu di tê segurança\nsocial. Andeji ê tê dirêtu di pidji pê gózá di dirêtu económico, social\ne cultural glaça a saclifiçu di tudu nguê di téla dê, e di coperaçón\ninternacional.\nArtigo 23º\nTudu nguê tê dirêtu di tlabá, di côiê tlabá cuê mêssê e di tudu ploteçon\npa na txilé di sluviçu fa.\nTudu nguê sê discliminaçón cu cá fé ua casta di stluviçu, tudu nguê sé,\ntê ua migida di gêlo sé mé.\nTudu nguê cu ca tlabá selá ê lêcêbê gêlu cu ca dá pê vivê baleladu cu\nfamilia dê sê passá afliçón.\nTudu nguê cu mêssê, tê dirêtu di juntá glupu cu otlô nguê pá fundá\nsindicato di dêfendê interesse di glupo sé.\nArtigo 24º.\nTudu nguê tê dirêtu di descanso, e gozá félia tudu anu, e óla cu é ca\nlentlá félia sé, selá patlón ô estado pagué vencimento.\nArtigo 25º.\nTudu nguê tê dirêtu di tê vida baleladu pê pô gozá di saôji êlê cu\nfamilia dê, tê cumé, lôpa, ké, dôtôlô cu minjan. Ê tê dirêtu di\nsegurança social, óla ê sá sê stluviçu, ni duentxi, xi ê sôflê acidente,\nxi ê bilá vé ô n'ôtlô situaçón cu na ca dé meio pê pô vivê, contla vonté\ndê.\nMaternidade cu mina piquina tê dirêtu di zuda cu assistência. Tudu mina\npiquina mêmu cu na sá mina di hómé ô muala casadu fa, tê dirêtu di\nploteçón social.\nArtigo 26º.",
-            "Image": "8c2b1a542562d99c44410a1cbf4c1bb6"
+            "Text": "Artigo 20º\nTudu nguê tê dirêtu di liberdade di reunión e di associaçón.\nA na ca pô obligá ne ua nguê di fé patxi de ua associaçón fá.\nArtigo 21º\nTudu nguê tê dirêtu di participá ni tudu assunto di tela dê, ê pô sa êlê\nmé ô ê ca pô mandá ua nguê cuê mêssê.\nTudu nguê tê dirêtu di lutá ni tudu situaçón di estado di téla dê.\nVonté di povo sá base de autoridade di podê di Estado, vonté sé ca\nmanifestá ni elêçón livli e justu cu ca realizá cu data mlacado zá ni\nlei baseado ni voto secleto e cu tudu nguê tê liberdade di voto.\nArtigo 22º\nTudu nguê, cuma ê sá memblo di sociedade, ê tê dirêtu di tê segurança\nsocial. Andeji ê tê dirêtu di pidji pê gózá di dirêtu económico, social\ne cultural glaça a saclifiçu di tudu nguê di téla dê, e di coperaçón\ninternacional.\nArtigo 23º\nTudu nguê tê dirêtu di tlabá, di côiê tlabá cuê mêssê e di tudu ploteçon\npa na txilé di sluviçu fa.\nTudu nguê sê discliminaçón cu cá fé ua casta di stluviçu, tudu nguê sé,\ntê ua migida di gêlo sé mé.\nTudu nguê cu ca tlabá selá ê lêcêbê gêlu cu ca dá pê vivê baleladu cu\nfamilia dê sê passá afliçón.\nTudu nguê cu mêssê, tê dirêtu di juntá glupu cu otlô nguê pá fundá\nsindicato di dêfendê interesse di glupo sé.\nArtigo 24º.\nTudu nguê tê dirêtu di descanso, e gozá félia tudu anu, e óla cu é ca\nlentlá félia sé, selá patlón ô estado pagué vencimento.\nArtigo 25º.\nTudu nguê tê dirêtu di tê vida baleladu pê pô gozá di saôji êlê cu\nfamilia dê, tê cumé, lôpa, ké, dôtôlô cu minjan. Ê tê dirêtu di\nsegurança social, óla ê sá sê stluviçu, ni duentxi, xi ê sôflê acidente,\nxi ê bilá vé ô n'ôtlô situaçón cu na ca dé meio pê pô vivê, contla vonté\ndê.\nMaternidade cu mina piquina tê dirêtu di zuda cu assistência. Tudu mina\npiquina mêmu cu na sá mina di hómé ô muala casadu fa, tê dirêtu di\nploteçón social.\nArtigo 26º."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "b0e904caf0d1766978449954cc6943f7",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Tudu nguê tê dirêtu di educaçón. Estado tocá pagá ensino básico da tudu\nnguê. Ensino básico sá obligatório. Ensino técnico cu profissional tocá\nzisti ni tudu xitu e tudu nguê cu mêssê fé cursu superior selá déssé xi\nê tê condiçón pê fê.\nSelá educaçón contribui pa desenvolvimento di hómé, lefoçá dirêtu cu\nliberdade maxi importanti di hómé sé. Andeji ê tocá fé tudu cuá pa zisti\ncomplençón, tolerância cu amizade entre tudu naçón cu tudu laça ô\nreligión, e desenvolvimento di tudu cuá cu Naçón Unida ca fé pa tudu\nnguê tê paz.\nTudu pé só ca coiê quê tipu de educaçón cu sa milhó pa mina dê.\nArtigo 27º\nTudu nguê tê dirêtu di participá ni cultura di región dê, ni\ndesenvolvimento científico e luclá cuê.\nTudu nguê tê dirêtu di proteçón di interesse moral e material di tudu\ntlabá científico, literário e artístico cuê fé.\nArtigo 28º\nTudu nguê tê dirêtu di fé pa zisti, ni plano social cu ni plano\ninternacional, ua modo di dirêtu e liberdade cu sá ni Declaraçón sé, sá\ncuá vedé.\nArtigo 29º\nQualqué ngué tê obligaçón ni glupu dê, e xi ê na sa ni glupu sé fa, ê na\nca desenvolvê fa.\nÓla qualqué nguê ca gozá dirêtu cu liberdade, selá ê cumpli lei pa\nplomovê lispêtu di dirêtu cu di liberdade d'ôtlo nguê, pa moral, lei di\ngovenu e gozo geral ni democracia sá cuá vedé.\nTudu dirêtu cu liberdade sé na ca pô zisti contla vonté di Naçón Unida.\nArtigo 30º\nTudu cuá cu sá ni Declaraçón sé na ca pô plimiti qualqué Estado, glupu ô\nnguê di fé qualqué cuá cu ca pô plijudicá tudu dirêtu cu liberdade cu sá\nni ducumento sé.",
-            "Image": "b0e904caf0d1766978449954cc6943f7"
+            "Text": "Tudu nguê tê dirêtu di educaçón. Estado tocá pagá ensino básico da tudu\nnguê. Ensino básico sá obligatório. Ensino técnico cu profissional tocá\nzisti ni tudu xitu e tudu nguê cu mêssê fé cursu superior selá déssé xi\nê tê condiçón pê fê.\nSelá educaçón contribui pa desenvolvimento di hómé, lefoçá dirêtu cu\nliberdade maxi importanti di hómé sé. Andeji ê tocá fé tudu cuá pa zisti\ncomplençón, tolerância cu amizade entre tudu naçón cu tudu laça ô\nreligión, e desenvolvimento di tudu cuá cu Naçón Unida ca fé pa tudu\nnguê tê paz.\nTudu pé só ca coiê quê tipu de educaçón cu sa milhó pa mina dê.\nArtigo 27º\nTudu nguê tê dirêtu di participá ni cultura di región dê, ni\ndesenvolvimento científico e luclá cuê.\nTudu nguê tê dirêtu di proteçón di interesse moral e material di tudu\ntlabá científico, literário e artístico cuê fé.\nArtigo 28º\nTudu nguê tê dirêtu di fé pa zisti, ni plano social cu ni plano\ninternacional, ua modo di dirêtu e liberdade cu sá ni Declaraçón sé, sá\ncuá vedé.\nArtigo 29º\nQualqué ngué tê obligaçón ni glupu dê, e xi ê na sa ni glupu sé fa, ê na\nca desenvolvê fa.\nÓla qualqué nguê ca gozá dirêtu cu liberdade, selá ê cumpli lei pa\nplomovê lispêtu di dirêtu cu di liberdade d'ôtlo nguê, pa moral, lei di\ngovenu e gozo geral ni democracia sá cuá vedé.\nTudu dirêtu cu liberdade sé na ca pô zisti contla vonté di Naçón Unida.\nArtigo 30º\nTudu cuá cu sá ni Declaraçón sé na ca pô plimiti qualqué Estado, glupu ô\nnguê di fé qualqué cuá cu ca pô plijudicá tudu dirêtu cu liberdade cu sá\nni ducumento sé."
         }
     }
 }

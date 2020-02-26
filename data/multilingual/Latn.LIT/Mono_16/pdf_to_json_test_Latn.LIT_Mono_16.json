@@ -1,93 +1,93 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581469104,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "dcd2af2e3f641b24d432308666f5bbe1",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "VISUOTINĖ ŽMOGAUS TEISIŲ DEKLARACIJA\nPREAMBULĖ\nAtsižvelgdama į tai, kad visiems žmonių giminės nariams būdingo orumo ir\nlygių bei neatimamų teisių pripainimas yra laisvės, teisingumo ir taikos\npasaulyje pagrindas;\natsižvelgdama į tai, kad žmogaus teisių visiškas nepaisymas ir\nniekinimas pastūméjo vykdyti barbariškus aktus, piktinančius žmonijos\nsąžinę, o sukūrimas pasaulio, kuriame žmonės turės žodžio ir įsitikinimų\nlaisvę ir bus išlaisvinti iš baimės ir skurdo pančių, paskelbtas kaip\nkilniausias žmogaus siekimas;\natsižvelgdama į tai, jog būtinai reikia, kad žmogaus teises saugotų\nįstaymo galia, dėl to, kad jis nebūtų priverstas imtis, kaip kraštutinės\npriemonės, sukilimo prieš tironiją ir priespaudą;\natsižvelgdama į tai, jog būtinai reikia remti draugiškų santykių tarp\ntautų vystymą;\natsižvelgdama į tai, kad Suvienytųjų Nacijų Organizacijos įstatuose\ntautos vėl įtvirtino savo tikėjimą pagrindinėmis žmogaus teisėmis,\nžmogaus, kaip asmenybės, orumu ir vertingumu, lygiomis vyrų ir moterų\nteisėmis ir pareiškė, jog esančios pasiryžusios skatinti visuomenės\npažangą ir sukurti geresnes gyvenimo sąlygas, didesnę laisvę;\natsižvelgdama į tai, kad valstybės narės, bendradarbiaudamos su\nSuvienytųjų Nacijų Organizacija, įsipareigojo garantuoti visuotinį ir\ntikrą žmogaus teisių ir pagrindinių laisvių laikymąsi;\natsižvelgdama į tai, jog bendras visiems žmonėms šių teisių ir laisvių\nsupratimas turi didžiausią reikm, kad būtų visiškai įvydytas šis\nįsipareigojimas,\nGeneralinė Asamblėja\nskelbia ią Visuotinę žmogaus teisių deklaraciją, kaip visuotinį idealą,\nkurio turi siekti visos tautos ir visos valstybės dėl to, kad kiekvienas\nžmogus ir kiekvienas visuomenės organas, nuolat turėdami galvoj šią\nDeklaraciją, pasitelkę švietimą ir mokslą, stengtųsi prisidėti prie to,\nkad šios teisės ir laisvės būtų gerbiamos ir kad būtų garantuota,\nimantis nacionalinių ir tarptautiniu pažangių priemonių, kad jos bus\nvisuotinai ir tikrai pripažįtamos ir taikomos tiek valstybių narių\ngyventojams, tiek gyventojams teritorijų, esančių jų jurisdikcijoje.\n1 straipsnis\nVisi žmonės gimsta laisvi ir lygūs savo orumu ir teisėmis. Jiems\nsuteiktas protas ir sąžinė ir jie turi elgtis vienas kito atžvilgiu kaip\nbroliai.\n2 straipsnis\nKiekvienas žmogus gali naudotis visomis teisėmis ir laisvėmis,",
-            "Image": "dcd2af2e3f641b24d432308666f5bbe1"
+            "Text": "VISUOTINĖ ŽMOGAUS TEISIŲ DEKLARACIJA\nPREAMBULĖ\nAtsižvelgdama į tai, kad visiems žmonių giminės nariams būdingo orumo ir\nlygių bei neatimamų teisių pripainimas yra laisvės, teisingumo ir taikos\npasaulyje pagrindas;\natsižvelgdama į tai, kad žmogaus teisių visiškas nepaisymas ir\nniekinimas pastūméjo vykdyti barbariškus aktus, piktinančius žmonijos\nsąžinę, o sukūrimas pasaulio, kuriame žmonės turės žodžio ir įsitikinimų\nlaisvę ir bus išlaisvinti iš baimės ir skurdo pančių, paskelbtas kaip\nkilniausias žmogaus siekimas;\natsižvelgdama į tai, jog būtinai reikia, kad žmogaus teises saugotų\nįstaymo galia, dėl to, kad jis nebūtų priverstas imtis, kaip kraštutinės\npriemonės, sukilimo prieš tironiją ir priespaudą;\natsižvelgdama į tai, jog būtinai reikia remti draugiškų santykių tarp\ntautų vystymą;\natsižvelgdama į tai, kad Suvienytųjų Nacijų Organizacijos įstatuose\ntautos vėl įtvirtino savo tikėjimą pagrindinėmis žmogaus teisėmis,\nžmogaus, kaip asmenybės, orumu ir vertingumu, lygiomis vyrų ir moterų\nteisėmis ir pareiškė, jog esančios pasiryžusios skatinti visuomenės\npažangą ir sukurti geresnes gyvenimo sąlygas, didesnę laisvę;\natsižvelgdama į tai, kad valstybės narės, bendradarbiaudamos su\nSuvienytųjų Nacijų Organizacija, įsipareigojo garantuoti visuotinį ir\ntikrą žmogaus teisių ir pagrindinių laisvių laikymąsi;\natsižvelgdama į tai, jog bendras visiems žmonėms šių teisių ir laisvių\nsupratimas turi didžiausią reikm, kad būtų visiškai įvydytas šis\nįsipareigojimas,\nGeneralinė Asamblėja\nskelbia ią Visuotinę žmogaus teisių deklaraciją, kaip visuotinį idealą,\nkurio turi siekti visos tautos ir visos valstybės dėl to, kad kiekvienas\nžmogus ir kiekvienas visuomenės organas, nuolat turėdami galvoj šią\nDeklaraciją, pasitelkę švietimą ir mokslą, stengtųsi prisidėti prie to,\nkad šios teisės ir laisvės būtų gerbiamos ir kad būtų garantuota,\nimantis nacionalinių ir tarptautiniu pažangių priemonių, kad jos bus\nvisuotinai ir tikrai pripažįtamos ir taikomos tiek valstybių narių\ngyventojams, tiek gyventojams teritorijų, esančių jų jurisdikcijoje.\n1 straipsnis\nVisi žmonės gimsta laisvi ir lygūs savo orumu ir teisėmis. Jiems\nsuteiktas protas ir sąžinė ir jie turi elgtis vienas kito atžvilgiu kaip\nbroliai.\n2 straipsnis\nKiekvienas žmogus gali naudotis visomis teisėmis ir laisvėmis,"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "c3c0cc2ac3d38cb7c1a471b3d02f8edd",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "paskelbtomis šioje Deklaracijoje, be jokių skirtumų, tokių kaip rasė,\nodos spalva, lytis, kalba, religija, politiniai ar kitokie įsitikinimai,\nnacionalinė ar socialinė kilmė, turtinė, jo gimimo ar kokia nors kitokia\npadėtis.\nBe to, neturi būti daroma jokių skirtumų remiantis šalies ar\nteritorijos, kuriai priklauso žmogus, politiniu, teisiniu ar\ntarptautiniu statusu, dėl to, kad ši šalis ar teritorija yra\nnepriklausoma, globojama, nesavavaldi ar kaip nors kitaip apribotas jos\nsuverenitetas.\n3 straipsnis\nKiekvienas žmogus turi teisę į gyvybę, laisvę ir asmens neliečiamybę.\n4 straipsnis\nNiekas negali būti laikomas vergijoje ar nelaisvas: visų formų vergija\nir prekyba vergais draudžiama.\n5 straipsnis\nNiekas negali būti kankinamas arba žiauriai, nežmoniškai žeminant jo\norumą su juo elgiamasi ir jis baudžiamas.\n6 straipsnis\nKiekvienas žmogus, kad ir kur jis būtų turi teisę būti pripažintas\nteisinių santykių subjektu.\n7 straipsnis\nVisi lygūs prieš įstatymą ir turi teisę, be jokio skirtumo, į lygią\nįstatymo aspaugą. Visi turi teisę į lygią apsaugą nuo visokios\ndiskriminacijos, pažeidžianėios šią Deklaraciją ir nuo visokio kurstymo\ntokiai diskriminacijai.\n8 straipsnis\nKiekvienas žmogus turi teisė pasinaudoti kompetentingais nacionalinais\nteismais savo teisėms atgauti, kai jo pagrindinės teisės, pripažįstamos\njam konstitucijos ar įstatymo, buvo pažeistos.\n9 straipsnis\nNiekas negali būti savavališkai areštuotas, suimtas ar ištretmas.\n10 straipsnis\nKiekvienas žmogus, remdamasis visika lygybe, turi teisę į tai, kad jo\nbylą viešai ir teisingai išnagrinėtų nepriklausomas ir bešališkas\nteismas, kuris nustatytų jo teises ir pareigas ar jam pareikšto\nbaudžiamojo kaltinimo pagrįstuma.\n11 straipsnis\nKiekvienas žmogus, kaltinamas nusikaltimo padarymu, laikomas nekaltu",
-            "Image": "c3c0cc2ac3d38cb7c1a471b3d02f8edd"
+            "Text": "paskelbtomis šioje Deklaracijoje, be jokių skirtumų, tokių kaip rasė,\nodos spalva, lytis, kalba, religija, politiniai ar kitokie įsitikinimai,\nnacionalinė ar socialinė kilmė, turtinė, jo gimimo ar kokia nors kitokia\npadėtis.\nBe to, neturi būti daroma jokių skirtumų remiantis šalies ar\nteritorijos, kuriai priklauso žmogus, politiniu, teisiniu ar\ntarptautiniu statusu, dėl to, kad ši šalis ar teritorija yra\nnepriklausoma, globojama, nesavavaldi ar kaip nors kitaip apribotas jos\nsuverenitetas.\n3 straipsnis\nKiekvienas žmogus turi teisę į gyvybę, laisvę ir asmens neliečiamybę.\n4 straipsnis\nNiekas negali būti laikomas vergijoje ar nelaisvas: visų formų vergija\nir prekyba vergais draudžiama.\n5 straipsnis\nNiekas negali būti kankinamas arba žiauriai, nežmoniškai žeminant jo\norumą su juo elgiamasi ir jis baudžiamas.\n6 straipsnis\nKiekvienas žmogus, kad ir kur jis būtų turi teisę būti pripažintas\nteisinių santykių subjektu.\n7 straipsnis\nVisi lygūs prieš įstatymą ir turi teisę, be jokio skirtumo, į lygią\nįstatymo aspaugą. Visi turi teisę į lygią apsaugą nuo visokios\ndiskriminacijos, pažeidžianėios šią Deklaraciją ir nuo visokio kurstymo\ntokiai diskriminacijai.\n8 straipsnis\nKiekvienas žmogus turi teisė pasinaudoti kompetentingais nacionalinais\nteismais savo teisėms atgauti, kai jo pagrindinės teisės, pripažįstamos\njam konstitucijos ar įstatymo, buvo pažeistos.\n9 straipsnis\nNiekas negali būti savavališkai areštuotas, suimtas ar ištretmas.\n10 straipsnis\nKiekvienas žmogus, remdamasis visika lygybe, turi teisę į tai, kad jo\nbylą viešai ir teisingai išnagrinėtų nepriklausomas ir bešališkas\nteismas, kuris nustatytų jo teises ir pareigas ar jam pareikšto\nbaudžiamojo kaltinimo pagrįstuma.\n11 straipsnis\nKiekvienas žmogus, kaltinamas nusikaltimo padarymu, laikomas nekaltu"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "9de596356edf750b9d829af939a4741f",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "tol, kol jo kaltumas bus nustatytas įstatymo tvarka viešo teisminio\nnagrinėjimo metu, kur jam bus sudaromos visos būtinos gynybos\ngarantijos.\nNiekas negali būti nuteistas už veiksmus ar neveikimą, kurie jų įvykdymo\nmetu nebuvo laikomi nusikaltimais pagal valstybės vidaus įstatymus arba\ntarptautinę teisę. Taip pat negali būti skiriama sunkesnė bausmė už tą,\nkuri buvo taikoma nusikaltimo padarymo momentu.\n12 straipsnis\nNiekas neturi patirti savavališko kišmosi į jo asmeninį ir šeiminį\ngyvenimą jo buto neliečiamybę susirašinėjimo slaptuiną kėsinimosi į jo\ngarbę ir orumą. Kiekvienas žmogus turi teisę į įstatymo apsaugą nuo\ntokio kišimosi arba tokių pasikėsinimų.\n13 straipsnis\nKiekvienas žmogus turi teisę laisvai kilnotis ir laisvai pasirinkti\ngyvenamąją vietą kiekvienoje valstybėje.\nKiekvienas žmogus turi teisę išvažiuoti iš kiekvienos šalies, įskaitant\nsavąją, ir grįžti į savo šatį.\n14 straipsnis\nPersekiojamas kiekvienas žmogus turi teisę ieškoti prieglobsčio kitose\nšalyse ir juo naudotis.\nia teise negali būti pasinaudota, kai persekiojimas tikrai pagrįstas\npadarymu kriminalinio nusikaltimo ar veiksmų, prieštaraujančių\nSuvienytųjų Nacijų Organizacijos tikslams ir principams.\n15 straipsnas\nKiekvienas žmogus turi teisę į pilietybę.\nNiekam negali būti savavališkai atimta jo pilietybė ar teisė ją\npakeisti.\n16 straipsnis\nVyrai ir moterys, pasiekę brandos amžių, turi teisę be jokių apriboiimu\ndėl rasės, tautybės ar religijos sudaryti santuoką it sukurti šeima. Jie\nturi lygias teises tiek santuokos sudarymo bei jos trukmės, tiek\nsantuokos nutraukimo metu.\nSantuoka gali būti sudaryta tik tasa, kai susituokiantieji duoda laisva\nir visišką sutikimą.\neima yra natūrali ir pagrindinė visuomenės ląstelė ir ji turi teisę į\nvisuomenės ir valstybės apsaugą.\n17 straipsnis\nKiekvienas žmogus turi teisę turėti nuosąvybę tiek vienas, tiek kartu su\nkitais.",
-            "Image": "9de596356edf750b9d829af939a4741f"
+            "Text": "tol, kol jo kaltumas bus nustatytas įstatymo tvarka viešo teisminio\nnagrinėjimo metu, kur jam bus sudaromos visos būtinos gynybos\ngarantijos.\nNiekas negali būti nuteistas už veiksmus ar neveikimą, kurie jų įvykdymo\nmetu nebuvo laikomi nusikaltimais pagal valstybės vidaus įstatymus arba\ntarptautinę teisę. Taip pat negali būti skiriama sunkesnė bausmė už tą,\nkuri buvo taikoma nusikaltimo padarymo momentu.\n12 straipsnis\nNiekas neturi patirti savavališko kišmosi į jo asmeninį ir šeiminį\ngyvenimą jo buto neliečiamybę susirašinėjimo slaptuiną kėsinimosi į jo\ngarbę ir orumą. Kiekvienas žmogus turi teisę į įstatymo apsaugą nuo\ntokio kišimosi arba tokių pasikėsinimų.\n13 straipsnis\nKiekvienas žmogus turi teisę laisvai kilnotis ir laisvai pasirinkti\ngyvenamąją vietą kiekvienoje valstybėje.\nKiekvienas žmogus turi teisę išvažiuoti iš kiekvienos šalies, įskaitant\nsavąją, ir grįžti į savo šatį.\n14 straipsnis\nPersekiojamas kiekvienas žmogus turi teisę ieškoti prieglobsčio kitose\nšalyse ir juo naudotis.\nia teise negali būti pasinaudota, kai persekiojimas tikrai pagrįstas\npadarymu kriminalinio nusikaltimo ar veiksmų, prieštaraujančių\nSuvienytųjų Nacijų Organizacijos tikslams ir principams.\n15 straipsnas\nKiekvienas žmogus turi teisę į pilietybę.\nNiekam negali būti savavališkai atimta jo pilietybė ar teisė ją\npakeisti.\n16 straipsnis\nVyrai ir moterys, pasiekę brandos amžių, turi teisę be jokių apriboiimu\ndėl rasės, tautybės ar religijos sudaryti santuoką it sukurti šeima. Jie\nturi lygias teises tiek santuokos sudarymo bei jos trukmės, tiek\nsantuokos nutraukimo metu.\nSantuoka gali būti sudaryta tik tasa, kai susituokiantieji duoda laisva\nir visišką sutikimą.\neima yra natūrali ir pagrindinė visuomenės ląstelė ir ji turi teisę į\nvisuomenės ir valstybės apsaugą.\n17 straipsnis\nKiekvienas žmogus turi teisę turėti nuosąvybę tiek vienas, tiek kartu su\nkitais."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "443cda6c0cd09b843920a6092dcef518",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "I nieko negali būti svavališkai atimta jo nuosavybė.\n18 straipsnis\nKiekvienas žmogus turi teisę į minties, sąžinės ir religijos laisvę. Si\nteisė apima laisvę pakeisti religiją artikėjimą, taip pat laisvę skelbti\nsavo religiją ar tikėjimą tiek vienam, tiek kartu su kitais, viešai ar\nprivačiai, mokant, praktikuojant tikėjimą, laikant pamaldas bei\natliekant apeigas.\n19 straipsnis\nKeikvienas žmogus turi teisę į įsitikinimų ir jų reiškimo laisvę, kuri\napima teisę nekliudomai laikytis savo įsitikinimų ir teisę ieškoti,\ngauti ir skleisti informaciją ir idėjas nepriklausomai nuo valstybių\nsienų, ir nesvarbu, kokiomis priemonėmis jos būtų išreikštos.\n20 straipnis\nKiekvienas žmogus turi teisę į taikių susirinkimų ir asociacijų laisvę.\nNiekas negali būti verčiamas priklausyti kokiai nors asociacijai.\n21 straipsnis\nKiekvienas žmogus turi teisę dalyvauti valdant savo šalį tiek\ntiesiogiai, tiek per laisvai išrinktus atstovus.\nKiekvienas žmogus turi teisę lygybęs sąlygomis stoti į savo šalies\nvalstybinę tarnybą.\nLiaudies valia yra valstybinės valdžios pagrindas; ši valis turi būti\nišreiškiama teisinguose rinkimouse, kurie turi vykti periodiškai, kai\nyra visuotinė ir lygi rinkimų teisę ir slaptas balsavimas arba kitos\nlygiavertės procedūros, garantuojančios balsavimo laisvę.\n22 straipsnis\nKiekvienas žmogus, kaip visuomenęs narys, turi teisę į socialinį\naprūpinimą, kuris skirtas būtinoms jo orumui ir laisvam asmenybės\nvystymuisi ekonominėms, socialinėms ir kultūrinėms teisėms igyvendinti\nnacionalinemis pastangomis ir per tarptautinį bendradarbiavimą ir pagal\nkiekvienos šalies vidinš struktūrą bei išteklius.\n23 straipsnis\nKiekvienas žmogus turi teisę į darbą, į laisvą darbo pasirinkimą, į\nteisingas ir tinkamas darbo sąlygas ir į apsaugą nuo nedarbo.\nVisi žmonės, be jokios diskriminacijos, turi teisę į lygų apmokėjimą už\nlygiavertį darbą.\nKiekvienas darbo žmogus turi teisę į teisingą ir patenkinamą atlyginimą,\ngarantuojantį žmogaus orumo vertą egzistavimą jam pačiam ir jo šeimai,\nir papildomą, kai reikia, visomis kitomis socialinės apsaugos lėšomis.\nKiekvienas žmogus turi teisę kartu su kitais steigti profesines sąjungas",
-            "Image": "443cda6c0cd09b843920a6092dcef518"
+            "Text": "I nieko negali būti svavališkai atimta jo nuosavybė.\n18 straipsnis\nKiekvienas žmogus turi teisę į minties, sąžinės ir religijos laisvę. Si\nteisė apima laisvę pakeisti religiją artikėjimą, taip pat laisvę skelbti\nsavo religiją ar tikėjimą tiek vienam, tiek kartu su kitais, viešai ar\nprivačiai, mokant, praktikuojant tikėjimą, laikant pamaldas bei\natliekant apeigas.\n19 straipsnis\nKeikvienas žmogus turi teisę į įsitikinimų ir jų reiškimo laisvę, kuri\napima teisę nekliudomai laikytis savo įsitikinimų ir teisę ieškoti,\ngauti ir skleisti informaciją ir idėjas nepriklausomai nuo valstybių\nsienų, ir nesvarbu, kokiomis priemonėmis jos būtų išreikštos.\n20 straipnis\nKiekvienas žmogus turi teisę į taikių susirinkimų ir asociacijų laisvę.\nNiekas negali būti verčiamas priklausyti kokiai nors asociacijai.\n21 straipsnis\nKiekvienas žmogus turi teisę dalyvauti valdant savo šalį tiek\ntiesiogiai, tiek per laisvai išrinktus atstovus.\nKiekvienas žmogus turi teisę lygybęs sąlygomis stoti į savo šalies\nvalstybinę tarnybą.\nLiaudies valia yra valstybinės valdžios pagrindas; ši valis turi būti\nišreiškiama teisinguose rinkimouse, kurie turi vykti periodiškai, kai\nyra visuotinė ir lygi rinkimų teisę ir slaptas balsavimas arba kitos\nlygiavertės procedūros, garantuojančios balsavimo laisvę.\n22 straipsnis\nKiekvienas žmogus, kaip visuomenęs narys, turi teisę į socialinį\naprūpinimą, kuris skirtas būtinoms jo orumui ir laisvam asmenybės\nvystymuisi ekonominėms, socialinėms ir kultūrinėms teisėms igyvendinti\nnacionalinemis pastangomis ir per tarptautinį bendradarbiavimą ir pagal\nkiekvienos šalies vidinš struktūrą bei išteklius.\n23 straipsnis\nKiekvienas žmogus turi teisę į darbą, į laisvą darbo pasirinkimą, į\nteisingas ir tinkamas darbo sąlygas ir į apsaugą nuo nedarbo.\nVisi žmonės, be jokios diskriminacijos, turi teisę į lygų apmokėjimą už\nlygiavertį darbą.\nKiekvienas darbo žmogus turi teisę į teisingą ir patenkinamą atlyginimą,\ngarantuojantį žmogaus orumo vertą egzistavimą jam pačiam ir jo šeimai,\nir papildomą, kai reikia, visomis kitomis socialinės apsaugos lėšomis.\nKiekvienas žmogus turi teisę kartu su kitais steigti profesines sąjungas"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "47d7102fac014e430c82915cc98376f7",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "ar stoti į jas savo interesams ginti.\n24 straipsnis\nKiekvienas žmogus turi teisę į poilsį ir laisvalaikį ir ypač teisę į\npagrįstą darbo laiko apribojimą ir periodines apmokamas atostogas.\n25 straipsnis\nKiekvienas žmogus turi teisę į pakankamą gyvenimo lygį, kuris garantuotų\njo ir jo šeimos sveikatą ir gerovę, ir ypač į maistą, drabužius, būstą,\nmedicininę priežiūrą ir būtiną socialinį aptarnavimą: jis turi teisę į\naprūpinimą nedarbo, ligos, invalidumo, našlystės, senatvės ar kitokio\npragyvenimo šaltinių netekimo atveju dėl nepriklausančių nuo jo\naplinkybių.\nMotinystė ir kūdikystė turi būti itin globojamos ir remiamos. Visi\nvakai, tiek gimę santuokoje, tiek nesantuokiniai, naudojasi vienoda\nsocialine apsauga.\n26 straipsnis\nKiekvienas žmogus turi teisę į mokslą. Mokslas turi būti nemokamas -\nbent jau pradinis ir bendrasis lavinimas. Pradinis lavinimas yra\nprivalomas. Profesinis techninis mokymas turi būti visuotinai\nprieinamas; aukštasis mokslas turi būti vienodai prieinamas visiems\npagal kiekvieno žmogus sugebėjimus.\nMokslas turi būti skirtas tam, kad visi škai suklestėtų žmogaus asmenybė\nir kad būtų vis labiau gerbiamos žmogaus teisės ir pagrindinės laisvės.\nJis turi padėti ugdyti savitarpio supratimą, pakantumą ir draugystę tarp\nvisų tautu, rasinių, ir religinių grupių, taip pat turi skatini\nSuvienytųjų Nacijų Organizacijos vykdomą taikos išsaugojimo beiklą.\nTėvai turi primenybės teisę parenkant savo vaikų mokymą.\n27 straipsnis\nKiekvienas žmogus turi teisę laisvai dalyvauti visuomenės kultūriniame\ngyvenime, gėrėtis menu, dalyvauti mokslinėje pažangoje ir naudotis jos\ngėrybėmis.\nKiekvienas žmogus turi teisę į apsaugą jo dvasinių ir materialinių\ninteresų, atsirandančių ryšium su mokslo, literatūros ar meno kūrinių,\nkurių jis yra autorius, sukūrimu.\n28 straipsnis\nKiekvienas žmogus turi teisę į tai, kad visuomenėje ir tapr tautų\nįsiviešpatautų tokia tvarka, kurioje galėtų būti visiškai įgyvendintos\nteisės ir laisvės, išdėstytos šioje Deklaracijoje.\n29 straipsnis\nKiekvienas žmogus turi pareigas visuomenei, kurioje tik ir gali laisvai\nir visiškai vystytis jo asmenybė.",
-            "Image": "47d7102fac014e430c82915cc98376f7"
+            "Text": "ar stoti į jas savo interesams ginti.\n24 straipsnis\nKiekvienas žmogus turi teisę į poilsį ir laisvalaikį ir ypač teisę į\npagrįstą darbo laiko apribojimą ir periodines apmokamas atostogas.\n25 straipsnis\nKiekvienas žmogus turi teisę į pakankamą gyvenimo lygį, kuris garantuotų\njo ir jo šeimos sveikatą ir gerovę, ir ypač į maistą, drabužius, būstą,\nmedicininę priežiūrą ir būtiną socialinį aptarnavimą: jis turi teisę į\naprūpinimą nedarbo, ligos, invalidumo, našlystės, senatvės ar kitokio\npragyvenimo šaltinių netekimo atveju dėl nepriklausančių nuo jo\naplinkybių.\nMotinystė ir kūdikystė turi būti itin globojamos ir remiamos. Visi\nvakai, tiek gimę santuokoje, tiek nesantuokiniai, naudojasi vienoda\nsocialine apsauga.\n26 straipsnis\nKiekvienas žmogus turi teisę į mokslą. Mokslas turi būti nemokamas -\nbent jau pradinis ir bendrasis lavinimas. Pradinis lavinimas yra\nprivalomas. Profesinis techninis mokymas turi būti visuotinai\nprieinamas; aukštasis mokslas turi būti vienodai prieinamas visiems\npagal kiekvieno žmogus sugebėjimus.\nMokslas turi būti skirtas tam, kad visi škai suklestėtų žmogaus asmenybė\nir kad būtų vis labiau gerbiamos žmogaus teisės ir pagrindinės laisvės.\nJis turi padėti ugdyti savitarpio supratimą, pakantumą ir draugystę tarp\nvisų tautu, rasinių, ir religinių grupių, taip pat turi skatini\nSuvienytųjų Nacijų Organizacijos vykdomą taikos išsaugojimo beiklą.\nTėvai turi primenybės teisę parenkant savo vaikų mokymą.\n27 straipsnis\nKiekvienas žmogus turi teisę laisvai dalyvauti visuomenės kultūriniame\ngyvenime, gėrėtis menu, dalyvauti mokslinėje pažangoje ir naudotis jos\ngėrybėmis.\nKiekvienas žmogus turi teisę į apsaugą jo dvasinių ir materialinių\ninteresų, atsirandančių ryšium su mokslo, literatūros ar meno kūrinių,\nkurių jis yra autorius, sukūrimu.\n28 straipsnis\nKiekvienas žmogus turi teisę į tai, kad visuomenėje ir tapr tautų\nįsiviešpatautų tokia tvarka, kurioje galėtų būti visiškai įgyvendintos\nteisės ir laisvės, išdėstytos šioje Deklaracijoje.\n29 straipsnis\nKiekvienas žmogus turi pareigas visuomenei, kurioje tik ir gali laisvai\nir visiškai vystytis jo asmenybė."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "30b6c5f5c5227840365ece140e3811f7",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Įgyvendindamas savo teises ir nauadodamasis savo laisvėmis, kiekvienas\nžmogus negali patirti kitokių apribojimų kaip įstatymo numatyti vien tik\ntam, kad garantuotų kitų žmonių teisių ir laisvių deramą pripažinimą ir\ngerbimą siekiant patenkinti teisingus moralės, viešosios tvarkos ir\nvisuotinės gerovės reikalavimus demokratinėje visuomenėje.\nŠios teisės ir laisvės jokiu būdu negali būti jgyvendinamos, jeigu tai\nprieštarauja Suvientųjų Nacijų Organizacijos tikslams ir principams.\n30 straipsnis\nJokia šios Deklaracijos nuostata negali būti aiškinama kaip suteikianti\nkuriai nors valstybei, grupei ar asmeniui teisę vykdyti kokią nors\nveiklą ar atlikti veiksmus, skirtus joje išdėstytoms teisėms ir laisvėms\npanaikinti.",
-            "Image": "30b6c5f5c5227840365ece140e3811f7"
+            "Text": "Įgyvendindamas savo teises ir nauadodamasis savo laisvėmis, kiekvienas\nžmogus negali patirti kitokių apribojimų kaip įstatymo numatyti vien tik\ntam, kad garantuotų kitų žmonių teisių ir laisvių deramą pripažinimą ir\ngerbimą siekiant patenkinti teisingus moralės, viešosios tvarkos ir\nvisuotinės gerovės reikalavimus demokratinėje visuomenėje.\nŠios teisės ir laisvės jokiu būdu negali būti jgyvendinamos, jeigu tai\nprieštarauja Suvientųjų Nacijų Organizacijos tikslams ir principams.\n30 straipsnis\nJokia šios Deklaracijos nuostata negali būti aiškinama kaip suteikianti\nkuriai nors valstybei, grupei ar asmeniui teisę vykdyti kokią nors\nveiklą ar atlikti veiksmus, skirtus joje išdėstytoms teisėms ir laisvėms\npanaikinti."
         }
     }
 }

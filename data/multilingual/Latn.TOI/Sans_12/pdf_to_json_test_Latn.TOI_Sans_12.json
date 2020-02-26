@@ -1,93 +1,93 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581470970,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "32a0608245894fc42bfee8b58d67f162",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "CAAMBILIZYO CA MULAWO WA MASI OONSE WA LWAANGULUKO LWA MUNTU MATALIKO\n[Preamble]\nMbuli mbokunga kulemeka muntu oonse ncizyalilwa ca lwaanguluko lwa mikwasyi yoonse kuba matalikilo akuliiba, kukwabililwa amulawo\nalimwi aluumuno munyika:\nKakuli kutalemeka alimwi akutyola milawo ya lwaanguluko lwa muntu kuleta micito yabujayi mibyaabi kulanyemya akutakkazyika kabotu\nbantu alimwi kwazungaanya nyika kuti ijane nzila yakwaangulula bantu kuti kabaliiba kukanana zyobayanda alimwi akutobela zyobasyoma\nalimwi akwaanguluka kwakutayoowa kwakaambilizyigwa kuba nenzila mpati veelede kuyumya muntu.\nKakuli ncintu cipati, kuti muntu tasungilizyi kulomba lugwasyo kuba nenzila ilikke yamamanino, ulakonzya kucita zyintu zyimbi zyibyaabi\nzyakulikwabilila kudyaamininwa, kuti buumi bwa muntu weelede kukwabililwa amulawo.\nKakuli ncintu cipati kusumpula lumvwano akati kamasi, kakuli bantu bamasi aali mu mbunga ya United Nations mu milawo ya malembo\namumbunga eeyi akasyomenzya lusyomo mu milawo ya lwaanguluko lwa muntu, kubulemu alimwi abuvubi bwamuntu alimwi alwanguluko\nlweelene ku basankwa abakaintu alimwi akuba amakanze akusumpula bukkale bwabuumi bwabo mukuliiba kunji.\nKakuli masi aali ma memba ambunga eeyi akasyomezya kuya kuzwidilila, mukubelekela antoomwe ambunga ya United Nationes, kusumpula\nakucita kulemeka mulawo wa lwaanguluko lwa muntu alimwi akulekela bantu kuliiba, kakuli kumvwa kwa lwaanguluko oolu alimwi akuliiba\nnkupati mukubona kuti kusyomezya ooku kwabeleka.\nLino aboobo, Muswaangano Mupati (Generl Assembly) waambili zya zyeezyi: Eeci cizumino ca kwaambilizya lwaanguluko lwa muntu kuba\nnenzila ngubauba yabantu boonse alimwi amasi oonse kujana, kumasimpilo kuti muntu oonse alimwi azyibeela zya buleya, kuyeeya\ncisyomezyo eeci lyoonse mu myoyo, ciya kusola mbocikonzya kuyiisya alimwi akusumpula kulemeka lwaanguluko alimwi akuliiba alimwi\nkwiinda munzila isumpukide, masi alimwi akubantu bamumasi aali mubweendelezi bwa bantu bambi.\nCIZUMINANO CA MULAWO UJATIKIZYA MASI OONSE CAKULESYA BUTUNDULUZI BWA MUNTU\nKapango 1\nBantu boonse balazyalwa kabaangulukide alimwi kabeelene alimwi akwaanguluka kucita zyobayanda. Balazyalwa amaanu akuyeeya, aakusala\nalimwi beelede kulanga bambi mbuli banabokwabo.\nKapango 2\nMukuya ambele, kunyina kusalaula kweelede kucitwa akaambo katwaambo twacisi, bweendelezi bwa milawo antela bulemekwa cisi nkwazwa\nmuntu, cibe cisi cakalilela kale, citaninga kulilela nokuba kuba amweele wakutaindilizya.\nMuntu oonse ulaangulukide ku zyintu zyoonse zyili mucizuminano, kakunyina kusalaula mbuli kwakusiyana cikanda, musyobo, buzyale,",
-            "Image": "32a0608245894fc42bfee8b58d67f162"
+            "Text": "CAAMBILIZYO CA MULAWO WA MASI OONSE WA LWAANGULUKO LWA MUNTU MATALIKO\n[Preamble]\nMbuli mbokunga kulemeka muntu oonse ncizyalilwa ca lwaanguluko lwa mikwasyi yoonse kuba matalikilo akuliiba, kukwabililwa amulawo\nalimwi aluumuno munyika:\nKakuli kutalemeka alimwi akutyola milawo ya lwaanguluko lwa muntu kuleta micito yabujayi mibyaabi kulanyemya akutakkazyika kabotu\nbantu alimwi kwazungaanya nyika kuti ijane nzila yakwaangulula bantu kuti kabaliiba kukanana zyobayanda alimwi akutobela zyobasyoma\nalimwi akwaanguluka kwakutayoowa kwakaambilizyigwa kuba nenzila mpati veelede kuyumya muntu.\nKakuli ncintu cipati, kuti muntu tasungilizyi kulomba lugwasyo kuba nenzila ilikke yamamanino, ulakonzya kucita zyintu zyimbi zyibyaabi\nzyakulikwabilila kudyaamininwa, kuti buumi bwa muntu weelede kukwabililwa amulawo.\nKakuli ncintu cipati kusumpula lumvwano akati kamasi, kakuli bantu bamasi aali mu mbunga ya United Nations mu milawo ya malembo\namumbunga eeyi akasyomenzya lusyomo mu milawo ya lwaanguluko lwa muntu, kubulemu alimwi abuvubi bwamuntu alimwi alwanguluko\nlweelene ku basankwa abakaintu alimwi akuba amakanze akusumpula bukkale bwabuumi bwabo mukuliiba kunji.\nKakuli masi aali ma memba ambunga eeyi akasyomezya kuya kuzwidilila, mukubelekela antoomwe ambunga ya United Nationes, kusumpula\nakucita kulemeka mulawo wa lwaanguluko lwa muntu alimwi akulekela bantu kuliiba, kakuli kumvwa kwa lwaanguluko oolu alimwi akuliiba\nnkupati mukubona kuti kusyomezya ooku kwabeleka.\nLino aboobo, Muswaangano Mupati (Generl Assembly) waambili zya zyeezyi: Eeci cizumino ca kwaambilizya lwaanguluko lwa muntu kuba\nnenzila ngubauba yabantu boonse alimwi amasi oonse kujana, kumasimpilo kuti muntu oonse alimwi azyibeela zya buleya, kuyeeya\ncisyomezyo eeci lyoonse mu myoyo, ciya kusola mbocikonzya kuyiisya alimwi akusumpula kulemeka lwaanguluko alimwi akuliiba alimwi\nkwiinda munzila isumpukide, masi alimwi akubantu bamumasi aali mubweendelezi bwa bantu bambi.\nCIZUMINANO CA MULAWO UJATIKIZYA MASI OONSE CAKULESYA BUTUNDULUZI BWA MUNTU\nKapango 1\nBantu boonse balazyalwa kabaangulukide alimwi kabeelene alimwi akwaanguluka kucita zyobayanda. Balazyalwa amaanu akuyeeya, aakusala\nalimwi beelede kulanga bambi mbuli banabokwabo.\nKapango 2\nMukuya ambele, kunyina kusalaula kweelede kucitwa akaambo katwaambo twacisi, bweendelezi bwa milawo antela bulemekwa cisi nkwazwa\nmuntu, cibe cisi cakalilela kale, citaninga kulilela nokuba kuba amweele wakutaindilizya.\nMuntu oonse ulaangulukide ku zyintu zyoonse zyili mucizuminano, kakunyina kusalaula mbuli kwakusiyana cikanda, musyobo, buzyale,"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "72f5200edbba06d83fdf0c6af0597fc9",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "cikombelo, makani a twaambo twacisi antela kwiimpana kwakuyeeya, busicisi antela bukkale, buvubi, nkokazyalilwa antela kwiimpana kumbi.\nKapango 3\nMuntu oonse ulaangulukide kubukkale bwabuumi, lwaanguluko alimwi akukwabililwa.\nKapango 4\nKunyina weelede kuba muzike antela cibelesyo, buzike alimwi amakwebo aabuzike zyeelede kukasyigwa munzila zyoonse.\nKapango 5\nKunyina weelede kupezyegwa, kutalanganyizyigwa mbuli muntu antela kubelesyegwa mbuli cibbalo antela kupegwa cisubulo.\nKapango 6\nMuntu oonse ulaangulukide kulemekwa koonse nkwabede kuba muntu kubusyu bwa mulawo.\nKapango 7\nBantu boonse baleelene kubusyu bwa mulawo alimwi balizumizyidwe kakunyina kusalaula kubukwabilizi bwa mulawo bweelene. Boonse\nbalaangulukide kukwabililwa kweelene kumicito yakusalaula mukutyola cizuminano eeci alimwi akumicito ya kubisya zyintu zyikonzya kuleta\nkusalaula.\nKapango 8\nMuntu oonse ulaangulukide kwiimininwa ambunga ya bantu basalwa mucisi kubona kaambo kakwe nkasinkilwa kulwaanguluko lwakucita\nncayanda ncazumizyilwe amulawo.\nKapango 9\nKunyina muntu weelede kwaangwa, kuyobolwa muntolongo kakunyina mulandu antela kutija kuya kukkala kucisi cimbi.\nKapango 10\nMuntu oonse ulaangulukide kakunyina kwaandana kubetekwa ambunga yasalwa inyina nkoilikumbtizya alimi isitikene kulanga kukwabililwa\nku lwaanguluko ndwajisi alimwi ayimwi milandu njakonzya kupegwa.\nKapango 11\nOonse wapegwa mulandu ulaangulukide kwiitwa kuti ucisalalakusikila akaianwe amulandu mu nkuta mbuli bwaamba mulawo libetekwa\nalimwi ulizumizyilwe kujmana bamwiimiminina libetekwa mulandu wakwe.\nKunyina ukonzya kujanwa mulandu kuti kakuli cintu comwe cicaala citakonzyi kupa kuti ube mulandu, kwiinda mu milawo ya cisi antela",
-            "Image": "72f5200edbba06d83fdf0c6af0597fc9"
+            "Text": "cikombelo, makani a twaambo twacisi antela kwiimpana kwakuyeeya, busicisi antela bukkale, buvubi, nkokazyalilwa antela kwiimpana kumbi.\nKapango 3\nMuntu oonse ulaangulukide kubukkale bwabuumi, lwaanguluko alimwi akukwabililwa.\nKapango 4\nKunyina weelede kuba muzike antela cibelesyo, buzike alimwi amakwebo aabuzike zyeelede kukasyigwa munzila zyoonse.\nKapango 5\nKunyina weelede kupezyegwa, kutalanganyizyigwa mbuli muntu antela kubelesyegwa mbuli cibbalo antela kupegwa cisubulo.\nKapango 6\nMuntu oonse ulaangulukide kulemekwa koonse nkwabede kuba muntu kubusyu bwa mulawo.\nKapango 7\nBantu boonse baleelene kubusyu bwa mulawo alimwi balizumizyidwe kakunyina kusalaula kubukwabilizi bwa mulawo bweelene. Boonse\nbalaangulukide kukwabililwa kweelene kumicito yakusalaula mukutyola cizuminano eeci alimwi akumicito ya kubisya zyintu zyikonzya kuleta\nkusalaula.\nKapango 8\nMuntu oonse ulaangulukide kwiimininwa ambunga ya bantu basalwa mucisi kubona kaambo kakwe nkasinkilwa kulwaanguluko lwakucita\nncayanda ncazumizyilwe amulawo.\nKapango 9\nKunyina muntu weelede kwaangwa, kuyobolwa muntolongo kakunyina mulandu antela kutija kuya kukkala kucisi cimbi.\nKapango 10\nMuntu oonse ulaangulukide kakunyina kwaandana kubetekwa ambunga yasalwa inyina nkoilikumbtizya alimi isitikene kulanga kukwabililwa\nku lwaanguluko ndwajisi alimwi ayimwi milandu njakonzya kupegwa.\nKapango 11\nOonse wapegwa mulandu ulaangulukide kwiitwa kuti ucisalalakusikila akaianwe amulandu mu nkuta mbuli bwaamba mulawo libetekwa\nalimwi ulizumizyilwe kujmana bamwiimiminina libetekwa mulandu wakwe.\nKunyina ukonzya kujanwa mulandu kuti kakuli cintu comwe cicaala citakonzyi kupa kuti ube mulandu, kwiinda mu milawo ya cisi antela"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "6b868e74d63a73df4266d18740f7b07a",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "ijatikizya masi oonse, ciindi mulandu ooyu niwakacitika. Lyalo kunyina cisubulo cipati ceelede kupegwa kunze aacisubulo ceendelana\namulawo ciindi mulandu niwakacitwa.\nKapango 12\nKunyina muntu weelede kunyonganyizyigwa kutayelede kuzyintu zyakwe, mukwasyi, munzi antela magwalo, antela kumutalika akaambo\nkabulemu bwakwe. Oonse ulaangulukide kukwabililwa amulawo kukunyonganyizyigwa antela kutalikwa ooku.\nKapango 13\nOonse muntu ulaangulukide kweenda mbwayanda alimwi akukkala kufumbwa mucisi.\nOonse muntu ulaangulukide kuzwa kufumbwa mucisi, kusanganizya acisi cokwabo, alimwi akupiluka kucisi cokwabo.\nKapango 14\nOonse muntu ulaangulukide kulomba kukkala akuliiba mucisi cimbi mwaatijila kuyuba kwaangwa antela kupezyegwa musi mwazwa.\nKukwabililwa kulwaanguluko oolu kulakozya kutyolwa kubantu batija kubetekwa milandu isalala kabotu itali mbuli ya makani atwaambo\ntwacisi antela itayendelani anzila alimwi amilawo ya mbunga ya manyika oonse (United Nations).\nKapango 15\nOonse muntu ulaangulukide kuba munacisi wacisi ncayanda kukkala.\nKunyina uyedele kukasyigwa kucinca busicisi antela kukasyigwa kutacinca.\nKapango 16\nBasankwa abakaintu bakakomena, kakunyina kubakasya akaambo kacikanda cabo, cisi ncobazwa antela cikombelo, balangulukide kukwata\nkufumbwa ngobayanda alimwi akubamba mukwasyi. Balangulukide kuba alwaanguluko lweelene lwa bakwetene ciindi nobacikwetene alimwi\nanobalekana.\nKukwatana kuya kulembezyegwa abaabo basikuyandana bobile kakunyina kuyoowa.\nMukwasyi ncilenga cabuleya kukkala antoomwe alimwi mukwasyi weelede kukwabililwa ku buleya alimwi akucisi.\nKapango 17\nOonse muntu ulaangulukide kuba alubono alikke antela kubeleka aatomwe abamwi.\nKunyina weelede kunyonganizyigwa antela kunyangwa lubono lwakwe.\nKapango 18",
-            "Image": "6b868e74d63a73df4266d18740f7b07a"
+            "Text": "ijatikizya masi oonse, ciindi mulandu ooyu niwakacitika. Lyalo kunyina cisubulo cipati ceelede kupegwa kunze aacisubulo ceendelana\namulawo ciindi mulandu niwakacitwa.\nKapango 12\nKunyina muntu weelede kunyonganyizyigwa kutayelede kuzyintu zyakwe, mukwasyi, munzi antela magwalo, antela kumutalika akaambo\nkabulemu bwakwe. Oonse ulaangulukide kukwabililwa amulawo kukunyonganyizyigwa antela kutalikwa ooku.\nKapango 13\nOonse muntu ulaangulukide kweenda mbwayanda alimwi akukkala kufumbwa mucisi.\nOonse muntu ulaangulukide kuzwa kufumbwa mucisi, kusanganizya acisi cokwabo, alimwi akupiluka kucisi cokwabo.\nKapango 14\nOonse muntu ulaangulukide kulomba kukkala akuliiba mucisi cimbi mwaatijila kuyuba kwaangwa antela kupezyegwa musi mwazwa.\nKukwabililwa kulwaanguluko oolu kulakozya kutyolwa kubantu batija kubetekwa milandu isalala kabotu itali mbuli ya makani atwaambo\ntwacisi antela itayendelani anzila alimwi amilawo ya mbunga ya manyika oonse (United Nations).\nKapango 15\nOonse muntu ulaangulukide kuba munacisi wacisi ncayanda kukkala.\nKunyina uyedele kukasyigwa kucinca busicisi antela kukasyigwa kutacinca.\nKapango 16\nBasankwa abakaintu bakakomena, kakunyina kubakasya akaambo kacikanda cabo, cisi ncobazwa antela cikombelo, balangulukide kukwata\nkufumbwa ngobayanda alimwi akubamba mukwasyi. Balangulukide kuba alwaanguluko lweelene lwa bakwetene ciindi nobacikwetene alimwi\nanobalekana.\nKukwatana kuya kulembezyegwa abaabo basikuyandana bobile kakunyina kuyoowa.\nMukwasyi ncilenga cabuleya kukkala antoomwe alimwi mukwasyi weelede kukwabililwa ku buleya alimwi akucisi.\nKapango 17\nOonse muntu ulaangulukide kuba alubono alikke antela kubeleka aatomwe abamwi.\nKunyina weelede kunyonganizyigwa antela kunyangwa lubono lwakwe.\nKapango 18"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "b00899c9f34e3d11f89923cd82a279d7",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "Muntu oonse ulaangulukide kuliyeeyela, kulisalila cikombelo ncayanda; lwaanguluko oolu lulajatikizya alusyomo ndwajisi alikke antela mu\nmbunga ya bana maleya nokuba kuliiba alikke, kutobela buyiisya cikombelo antela walo kuyyiisya, alimwi akukomba.\nKapango 19\nMuntu oonse ulaangulukide kwaamba zyili kumoyo; kwaanguluka ooku kulajatikizya akubuzya, kulaigwa alimwi akupa mizeezo kwiinda\nmumapepa antela mulisikapepele kakunyina munyinza.\nKapango 20\nMuntu oonse ulaangulukide kuba mukabunga antela kubungana kwaluumuno.\nKunyina weelede kusungilizyigwa kuba mukabunga nkatayandi.\nKapango 21\nMuntu oonse ulaangulukide kutola lubazu mubweendelezi bwa mfulumende mucisi cokwabo antela kwiinda kumuntu usalwa biya abana\nmaleya antela lwakwe mukamwini.\nMuntu oonse ulaangulukide kupegwa lugwasyo lweelene alugwasyigwa bana maleya mucisi.\nKuyanda kwabantu kweelede kuba ciiminizyo ca mfulumende; kuyanda ooku kweelede kutondezyegwa kwainda ciindi alimwi akusala\nkwamasimpe kweelede kucitwa abana maleya bamucisi bazumizyigwa amulawo kusala alimwi akuzumizyigwa kusala ngwayanda kakunyina\nkunyonganyizyigwa.\nKapango 22\nMuntu oonse, muna maleya, ulaangulukide kuyobwedwa mali ngakoswedwa ku mali ngavwola ku nkampani yakabambwa mucisi antela\nkwiinda mukumvwana acisi cimbi kweelene amulawo wacisi. Alimwi ulaangulukide kulyeezyela buvubi, kuba abukkale alimwi akucita\nzyilengwa zyacisi zyitakonzyi kumusala akaambo ka ciimo cakwe alimwi alwaanguluko lwa kusumpula bukkale bwakwe.\nKapango 23\nMuntu oonse ulaangulukide kujana mulimo, kulisalila mulimo ngwayanda, kububotu bujanwa amulimo ooyo alimwi akukwabililwa kupenzi\nlyakubula milimo.\nOonse, kakunyina kusalaula, ulakwabililwa kuvwozyegwa mali ayelene amulimo ngwabeleka.\nOonse ubeleka ulaangulukide kupegwa mali abikkilwa atala antela bbonasi alimwi akukwabililwa buumi bwakwe alimwi abwamukwasyi\nwakwe azyintu zyimbi zyeelede kukwabililwa.\nMuntu oonse ulaangulukide kunjila antela kutalika mbunga ilwanina akukwabilila babelesi.",
-            "Image": "b00899c9f34e3d11f89923cd82a279d7"
+            "Text": "Muntu oonse ulaangulukide kuliyeeyela, kulisalila cikombelo ncayanda; lwaanguluko oolu lulajatikizya alusyomo ndwajisi alikke antela mu\nmbunga ya bana maleya nokuba kuliiba alikke, kutobela buyiisya cikombelo antela walo kuyyiisya, alimwi akukomba.\nKapango 19\nMuntu oonse ulaangulukide kwaamba zyili kumoyo; kwaanguluka ooku kulajatikizya akubuzya, kulaigwa alimwi akupa mizeezo kwiinda\nmumapepa antela mulisikapepele kakunyina munyinza.\nKapango 20\nMuntu oonse ulaangulukide kuba mukabunga antela kubungana kwaluumuno.\nKunyina weelede kusungilizyigwa kuba mukabunga nkatayandi.\nKapango 21\nMuntu oonse ulaangulukide kutola lubazu mubweendelezi bwa mfulumende mucisi cokwabo antela kwiinda kumuntu usalwa biya abana\nmaleya antela lwakwe mukamwini.\nMuntu oonse ulaangulukide kupegwa lugwasyo lweelene alugwasyigwa bana maleya mucisi.\nKuyanda kwabantu kweelede kuba ciiminizyo ca mfulumende; kuyanda ooku kweelede kutondezyegwa kwainda ciindi alimwi akusala\nkwamasimpe kweelede kucitwa abana maleya bamucisi bazumizyigwa amulawo kusala alimwi akuzumizyigwa kusala ngwayanda kakunyina\nkunyonganyizyigwa.\nKapango 22\nMuntu oonse, muna maleya, ulaangulukide kuyobwedwa mali ngakoswedwa ku mali ngavwola ku nkampani yakabambwa mucisi antela\nkwiinda mukumvwana acisi cimbi kweelene amulawo wacisi. Alimwi ulaangulukide kulyeezyela buvubi, kuba abukkale alimwi akucita\nzyilengwa zyacisi zyitakonzyi kumusala akaambo ka ciimo cakwe alimwi alwaanguluko lwa kusumpula bukkale bwakwe.\nKapango 23\nMuntu oonse ulaangulukide kujana mulimo, kulisalila mulimo ngwayanda, kububotu bujanwa amulimo ooyo alimwi akukwabililwa kupenzi\nlyakubula milimo.\nOonse, kakunyina kusalaula, ulakwabililwa kuvwozyegwa mali ayelene amulimo ngwabeleka.\nOonse ubeleka ulaangulukide kupegwa mali abikkilwa atala antela bbonasi alimwi akukwabililwa buumi bwakwe alimwi abwamukwasyi\nwakwe azyintu zyimbi zyeelede kukwabililwa.\nMuntu oonse ulaangulukide kunjila antela kutalika mbunga ilwanina akukwabilila babelesi."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "61e972ae0ea9955442c26d3690bf4e1e",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "Kapango 24\nMuntu oonse ulaangulukide kupumuna akulyookezya kubeleka, kusanganizya kupegwa mawoolo ayelede ciindi cakubeleka alimwi\nakubbadelwa mali waunka kukupumuna kwa mazuba manji.\nKapango 25\nMuntu oonse ulaangulukide ku buumi abukkale bubotu antoomwe amukwasyi wakwe, mbuli kuli cakulya, zyakusama, ng'anda yakukkala\nalimwi amicelo yakusilikwa azyintu zyimbi ziyandika kumuntu, alimwi akukwabililwa buumi bwakwe wani kubeleka, kukwabililwa\nkumalwazi, bulema, kufwidwa, kucembaala alimwi azyimbi zyikonzya kusinkila muntu kubuumi zyatakonzyi kucita akaambo kakubula nzila\nyakuzyicita.\nBamatumbu alimwi abana balaangulukide kulugwasyo luyandika. Bana boonse, abe wamung'anda antela wamusyokwe, beelede kulangwa\nkabotu alimwi akukwabililwa kweelene.\nKapango 26\nMuntu oonse ulaangulukide kuyiya, lwiiyo lweelede kupegwa biyo kakunyina kubbadela, kapati muma giledi akutalisya masyoonto alimwi\naakati-kati. Kunjila cikolo kumagiledi akutalisya weelede kuba mulawo natayandi nayanda mwana. Lwiiyo lwa milimo ya maanza alimwi\naiyandika kuba haanzyibwene wa mulimo umwi lweelede kuti lyoonse kaluliko alimwi lwiiyo lwa mabbuku mapati alwalo lweelede kupegwa\nkuli baabo bajisi maanu.\nLwiiyo lweelede kuba lwakusumpula bukkale bwa muntu alimwi akuyumya lwaanguluko alimwi akusala ciyanda muntu. Lupa bantu\nkumvwisisya, kuba sicamba alimwi akusumpula lumvwanoakati kamasi, kakunyina kusalaula cikanda, cikombelo alimwi akuyumya milimo ya\nmbunga ya masi oonse munyika ya United Nations kutontozya luumuno munyika.\nBazyali balaangulukile kusala lwiiyo ndobayanda antela ndobayeeyela kuba lubotu kubana babo.\nKapango 27\nOonse muntu ulaangulukide kakunyina kukasyigwa kutola lubazu mubuumi bukkala bana maleya, kuyiya zyilenwa zyacisi alimwi akwaabana\nbusongo.\nOonse muntu ulaangulukide kukwabililwa ku zyintu zyayanda mbuli zya kulyaanzila, nyimbo azyisobano zyalilembela mukamwini.\nKapango 28\nOonse muntu ulizumizyilwe Kuba mumakamu alimwi amunkamu zyijatikizya masi manji oomo mujanwa lwaanguluko lwakazuminanwa\nakwaambilizyigwa amilawo ya mbunga eeyi.\nKapango 29",
-            "Image": "61e972ae0ea9955442c26d3690bf4e1e"
+            "Text": "Kapango 24\nMuntu oonse ulaangulukide kupumuna akulyookezya kubeleka, kusanganizya kupegwa mawoolo ayelede ciindi cakubeleka alimwi\nakubbadelwa mali waunka kukupumuna kwa mazuba manji.\nKapango 25\nMuntu oonse ulaangulukide ku buumi abukkale bubotu antoomwe amukwasyi wakwe, mbuli kuli cakulya, zyakusama, ng'anda yakukkala\nalimwi amicelo yakusilikwa azyintu zyimbi ziyandika kumuntu, alimwi akukwabililwa buumi bwakwe wani kubeleka, kukwabililwa\nkumalwazi, bulema, kufwidwa, kucembaala alimwi azyimbi zyikonzya kusinkila muntu kubuumi zyatakonzyi kucita akaambo kakubula nzila\nyakuzyicita.\nBamatumbu alimwi abana balaangulukide kulugwasyo luyandika. Bana boonse, abe wamung'anda antela wamusyokwe, beelede kulangwa\nkabotu alimwi akukwabililwa kweelene.\nKapango 26\nMuntu oonse ulaangulukide kuyiya, lwiiyo lweelede kupegwa biyo kakunyina kubbadela, kapati muma giledi akutalisya masyoonto alimwi\naakati-kati. Kunjila cikolo kumagiledi akutalisya weelede kuba mulawo natayandi nayanda mwana. Lwiiyo lwa milimo ya maanza alimwi\naiyandika kuba haanzyibwene wa mulimo umwi lweelede kuti lyoonse kaluliko alimwi lwiiyo lwa mabbuku mapati alwalo lweelede kupegwa\nkuli baabo bajisi maanu.\nLwiiyo lweelede kuba lwakusumpula bukkale bwa muntu alimwi akuyumya lwaanguluko alimwi akusala ciyanda muntu. Lupa bantu\nkumvwisisya, kuba sicamba alimwi akusumpula lumvwanoakati kamasi, kakunyina kusalaula cikanda, cikombelo alimwi akuyumya milimo ya\nmbunga ya masi oonse munyika ya United Nations kutontozya luumuno munyika.\nBazyali balaangulukile kusala lwiiyo ndobayanda antela ndobayeeyela kuba lubotu kubana babo.\nKapango 27\nOonse muntu ulaangulukide kakunyina kukasyigwa kutola lubazu mubuumi bukkala bana maleya, kuyiya zyilenwa zyacisi alimwi akwaabana\nbusongo.\nOonse muntu ulaangulukide kukwabililwa ku zyintu zyayanda mbuli zya kulyaanzila, nyimbo azyisobano zyalilembela mukamwini.\nKapango 28\nOonse muntu ulizumizyilwe Kuba mumakamu alimwi amunkamu zyijatikizya masi manji oomo mujanwa lwaanguluko lwakazuminanwa\nakwaambilizyigwa amilawo ya mbunga eeyi.\nKapango 29"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "ff40510cfea38773fb7d369c6b15491a",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "Muntu oonse ujisi mulimo kubuleya ooko nkwaangulukide kuliiba akusumpula buntu bwakwe.\nMukubelesya lwaanguluko anguzu zyapedwe, muntu oonse ulaangulukide kulikkalila kwakutaindilizya ku lwaanguluko ndwapedwe amulawo\nkutegwa awalo kalemeka lwaanguluko lwa bantu bambi alimwi abulemu buyandika kumuntu alimwi akuliiba kwa bana maleya.\nLwaanguluko alimwi akuliiba takweelede kwiindilizyigwa ku mizeezo yakabambwa ambunga ya masi oonse aamunyika ya United Nations.\nKapango 30\nKunyina cili mucizuminano eeci ceelede kwendelezyegwa amasi aambi, mbunga ya bantu antela muntu biyo, kuba anguzu zyakucita zyilengwa\nzyimbi zyikonzya kutyola milawo ya lwaanguluko lupedwe ku bantu lwapandulwa kale.",
-            "Image": "ff40510cfea38773fb7d369c6b15491a"
+            "Text": "Muntu oonse ujisi mulimo kubuleya ooko nkwaangulukide kuliiba akusumpula buntu bwakwe.\nMukubelesya lwaanguluko anguzu zyapedwe, muntu oonse ulaangulukide kulikkalila kwakutaindilizya ku lwaanguluko ndwapedwe amulawo\nkutegwa awalo kalemeka lwaanguluko lwa bantu bambi alimwi abulemu buyandika kumuntu alimwi akuliiba kwa bana maleya.\nLwaanguluko alimwi akuliiba takweelede kwiindilizyigwa ku mizeezo yakabambwa ambunga ya masi oonse aamunyika ya United Nations.\nKapango 30\nKunyina cili mucizuminano eeci ceelede kwendelezyegwa amasi aambi, mbunga ya bantu antela muntu biyo, kuba anguzu zyakucita zyilengwa\nzyimbi zyikonzya kutyola milawo ya lwaanguluko lupedwe ku bantu lwapandulwa kale."
         }
     }
 }

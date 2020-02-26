@@ -1,132 +1,132 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581469123,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "6c335282055a2094b0054aab0d73c3e3",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "UNIVERSAL - DEKLARATIOUN VUN DE MËNSCHERECHTER\nPRÄAMBEL\nWell d'Unerkennong vun der Dignitéit, déi all Mêmber vun der Mënschefamill gebuer as, a vu sénge\ngläichen an onersetzleche Rechter de Fëllement vun der Fräiheet, der Gerechtegkeet an dem Fridden an der\nWelt as,\nWell et do, wou d'Mënscherechter nët unerkannt an nët respektéiert gin, zu barbareschen Akte koum, déi\nd'Gewësse vun der ganzer Mënschheet revoltéieren a well d'Schafe vun enger Welt, an deer d'Mënschen\nd'Fräiheet vum Wuert a vum Glaf hun, an deer se fräi si vu Fuurcht an Nout, als dem Mënsch säin héchst\nStriewe proklaméiert gouf,\nWell et haaptsächlech drëm geet fir duerch e Rechtssystem Hand iwwer d'Mënscherechter ze halen an datt de\nMënsch doduerch nët forcéiert gët fir säi leschten Auswee an der Revolt géint d'Tyrannei an\nd'Ënnerdrécktgin ze sichen,\nWell et haaptsächlech drëm geet fir d'Entwécklong vun de frëndschaaftleche Relatiounen tëscht den\nNatiounen z'encouragéieren,\nWell an der Charta d'Vëlleker vun de Vereenten Natiounen op en Neits hire Glaf an d'Grondrechter vum\nMënsch, an d'Dignitéit an an de Wäert vun der mënschlecher Persoun, an d'Gläichheet vun de Rechter vu\nMann a Fra proklaméiert a sech dofir entscheed hu fir dem zoziale Fortschrëtt de Virzock ze gin a besser\nLieweskonditiounen a méi enger grousser Fräiheet ze schafen,\nWell d'Mëmberstate sech verflicht hu fir an Zesummenaarbecht mat der Organisatioun vun de Vereenten\nNatiounen dofir ze suergen, datt d'Mënscherechter an d'Grondfräiheten allgemeng respektéiert a realiséiert\ngin,",
-            "Image": "6c335282055a2094b0054aab0d73c3e3"
+            "Text": "UNIVERSAL - DEKLARATIOUN VUN DE MËNSCHERECHTER\nPRÄAMBEL\nWell d'Unerkennong vun der Dignitéit, déi all Mêmber vun der Mënschefamill gebuer as, a vu sénge\ngläichen an onersetzleche Rechter de Fëllement vun der Fräiheet, der Gerechtegkeet an dem Fridden an der\nWelt as,\nWell et do, wou d'Mënscherechter nët unerkannt an nët respektéiert gin, zu barbareschen Akte koum, déi\nd'Gewësse vun der ganzer Mënschheet revoltéieren a well d'Schafe vun enger Welt, an deer d'Mënschen\nd'Fräiheet vum Wuert a vum Glaf hun, an deer se fräi si vu Fuurcht an Nout, als dem Mënsch säin héchst\nStriewe proklaméiert gouf,\nWell et haaptsächlech drëm geet fir duerch e Rechtssystem Hand iwwer d'Mënscherechter ze halen an datt de\nMënsch doduerch nët forcéiert gët fir säi leschten Auswee an der Revolt géint d'Tyrannei an\nd'Ënnerdrécktgin ze sichen,\nWell et haaptsächlech drëm geet fir d'Entwécklong vun de frëndschaaftleche Relatiounen tëscht den\nNatiounen z'encouragéieren,\nWell an der Charta d'Vëlleker vun de Vereenten Natiounen op en Neits hire Glaf an d'Grondrechter vum\nMënsch, an d'Dignitéit an an de Wäert vun der mënschlecher Persoun, an d'Gläichheet vun de Rechter vu\nMann a Fra proklaméiert a sech dofir entscheed hu fir dem zoziale Fortschrëtt de Virzock ze gin a besser\nLieweskonditiounen a méi enger grousser Fräiheet ze schafen,\nWell d'Mëmberstate sech verflicht hu fir an Zesummenaarbecht mat der Organisatioun vun de Vereenten\nNatiounen dofir ze suergen, datt d'Mënscherechter an d'Grondfräiheten allgemeng respektéiert a realiséiert\ngin,"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "2cc981a657a11f5691a694e3bd37d286",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Well eng an déi selwecht Opfaassong iwwer dës Rechter a Fräiheten aus der Mooss wichteg as fir dëst\nEngagement voll a ganz kënnen duerchzeféieren,\nPROKLAMÉIERT D'GENEROLVERSAMMLONG:\nDës UNIVERSAL-DEKLARATIOUN VUN DE MËNSCHERECHTER, déi als en allgemengt Ideal vun all\nVollek an all Natioun soll ugestrieft gin aus deem Grond, datt all eenzele Mënsch an all Organ vun der\nGesellschaft, ëmmer am Geescht vun dëser Deklaratioun, sech ustrenge fir duerch den Unterrécht an\nd'Erzéiong de Respekt vun dëse Rechter a Fräiheten z'entwécklen an no an no duerch Mesüren um nationalen\nan internationale Plang hir Unerkennong ze sécheren, datt d'Populatiounen aus de Mêmberstate selwer an déi\naus Gebitter, déi ënner hirer Geriichtsbarkeet stin, en allgemengen a gudde Gebrauch dervu kënnen maachen.\nArtikel 1\nAll Mënsch kënnt fräi a mat deer selwechter Dignitéit an dene selwechte Rechter op d'Welt. Jiddereen huet\nsäi Verstand a säi Gewësse krut an soll an engem Geescht vu Bridderlechkeet denen anere géintiwwer\nhandelen.\nArtikel 2\nJidderee kann all déi Rechter an all déi Fräiheten, déi an dëser Deklaratioun proklaméiert sin, fir sech\nverlaangen an dat ouni Ënnerscheed sief et vu Rass, Hautfaarf, Geschlecht, Sprooch, Relioun, politesche\nodder anerer Iwwerzegong, nationalem odder zozialem Urspronk, Verméigen, Gebuurt odder soss enger\nSituatioun.\nEt duerf do dernieft och keen Ennerscheed gemat gin, dee mam politeschen, rechtlechen odder internationale\nstatut vun deem Land odder deem Gebitt begrënnt gët, aus deem eng Persoun hierstaamt, egal ob dëst Land\nodder dëst Gebitt onofhängeg, ënner engem Mandat, nët autonom odder séng Souveränitéit an irgendenger\nForm begrenzt as.",
-            "Image": "2cc981a657a11f5691a694e3bd37d286"
+            "Text": "Well eng an déi selwecht Opfaassong iwwer dës Rechter a Fräiheten aus der Mooss wichteg as fir dëst\nEngagement voll a ganz kënnen duerchzeféieren,\nPROKLAMÉIERT D'GENEROLVERSAMMLONG:\nDës UNIVERSAL-DEKLARATIOUN VUN DE MËNSCHERECHTER, déi als en allgemengt Ideal vun all\nVollek an all Natioun soll ugestrieft gin aus deem Grond, datt all eenzele Mënsch an all Organ vun der\nGesellschaft, ëmmer am Geescht vun dëser Deklaratioun, sech ustrenge fir duerch den Unterrécht an\nd'Erzéiong de Respekt vun dëse Rechter a Fräiheten z'entwécklen an no an no duerch Mesüren um nationalen\nan internationale Plang hir Unerkennong ze sécheren, datt d'Populatiounen aus de Mêmberstate selwer an déi\naus Gebitter, déi ënner hirer Geriichtsbarkeet stin, en allgemengen a gudde Gebrauch dervu kënnen maachen.\nArtikel 1\nAll Mënsch kënnt fräi a mat deer selwechter Dignitéit an dene selwechte Rechter op d'Welt. Jiddereen huet\nsäi Verstand a säi Gewësse krut an soll an engem Geescht vu Bridderlechkeet denen anere géintiwwer\nhandelen.\nArtikel 2\nJidderee kann all déi Rechter an all déi Fräiheten, déi an dëser Deklaratioun proklaméiert sin, fir sech\nverlaangen an dat ouni Ënnerscheed sief et vu Rass, Hautfaarf, Geschlecht, Sprooch, Relioun, politesche\nodder anerer Iwwerzegong, nationalem odder zozialem Urspronk, Verméigen, Gebuurt odder soss enger\nSituatioun.\nEt duerf do dernieft och keen Ennerscheed gemat gin, dee mam politeschen, rechtlechen odder internationale\nstatut vun deem Land odder deem Gebitt begrënnt gët, aus deem eng Persoun hierstaamt, egal ob dëst Land\nodder dëst Gebitt onofhängeg, ënner engem Mandat, nët autonom odder séng Souveränitéit an irgendenger\nForm begrenzt as."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "c3c306b68c51facc72cd53d582507d2d",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Artikel 3\nAll Mësch huet Recht op d'Liewen, op d'Fräiheet an op d'Secherheet vu sénger Persoun.\nArtikel 4\nKee Mënsch daarf a Sklaverei odder a Kniechtschaaft gehal gin; d'Sklaverei an de Sklavenhandel sin an all\nhire Forme verbueden.\nArtikel 5\nKeen duerf gefoltert an och kee grausam, onmënschlech, onwiirdeg bestrooft a behandelt gin.\nArtikel 6\nJiddereen huet iwwerall d'Recht op Unerkennong vu sénger juristescher Perséinlechkeet.\nArtikel 7\nD'Mënsche sin alleguer gläich virum Gesetz a si hun ouni Ënnerscheed Recht op dee selwechte Schutz vum\nGesetz. Alleguer hu se Recht op dee selwechte Schutz géint all Diskriminatioun, déi dës Deklaratioun géing\nverletzen a géint all Provokatioun zu esou enger Diskriminatioun.\nArtikel 8\nAll Mënsch huet d'Recht fir bei denen zoustännegen nationale Geriichter en effektive Recours géint déi\nAkten ze man, déi d'fundamental Rechter, déi him duerch d'Konstitutioun odder duerch d'Gesetz zoustin,\nverletzen.\nArtikel 9\nKee Mënsch duerf arbiträr verhaft, agesat odder ausgewise gin.",
-            "Image": "c3c306b68c51facc72cd53d582507d2d"
+            "Text": "Artikel 3\nAll Mësch huet Recht op d'Liewen, op d'Fräiheet an op d'Secherheet vu sénger Persoun.\nArtikel 4\nKee Mënsch daarf a Sklaverei odder a Kniechtschaaft gehal gin; d'Sklaverei an de Sklavenhandel sin an all\nhire Forme verbueden.\nArtikel 5\nKeen duerf gefoltert an och kee grausam, onmënschlech, onwiirdeg bestrooft a behandelt gin.\nArtikel 6\nJiddereen huet iwwerall d'Recht op Unerkennong vu sénger juristescher Perséinlechkeet.\nArtikel 7\nD'Mënsche sin alleguer gläich virum Gesetz a si hun ouni Ënnerscheed Recht op dee selwechte Schutz vum\nGesetz. Alleguer hu se Recht op dee selwechte Schutz géint all Diskriminatioun, déi dës Deklaratioun géing\nverletzen a géint all Provokatioun zu esou enger Diskriminatioun.\nArtikel 8\nAll Mënsch huet d'Recht fir bei denen zoustännegen nationale Geriichter en effektive Recours géint déi\nAkten ze man, déi d'fundamental Rechter, déi him duerch d'Konstitutioun odder duerch d'Gesetz zoustin,\nverletzen.\nArtikel 9\nKee Mënsch duerf arbiträr verhaft, agesat odder ausgewise gin."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "823ca76fd13e47820e8cb043052bb846",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Artikel 10\nAll Mënsch huet d'Recht, a voller Gläichheet, datt séng Saach, säin Uleies gerecht an öffentlech virun engem\nonofhängegen an onparteiesche Geriicht zur Sprooch kënnt, dat iwwer séng Rechter a Flichten an iwwer\nd'Berechtegong vun all Uklo, déi a Strofsaache géint e gefouert gët, entscheet.\nArtikel 11\nAll Mënsch, dee wéinst engem strofbaren Akt ugeklot gët as esou laang als onschëlleg unzegesinn, bis séng\nSchold gesetzlech an am Verlaf vun engem öffentleche Prozess nogewisen as, an deem e mat Sécherheet op\nall néideg Garantië fir séng Verdedegong konnt rechnen.\nKeen duerf veruurtelt gi fir Saachen, déi e gemat odder ënnerlooss huet, déi an deem Ament, wou dat\ngeschitt as, no nationalem an internationalem Recht keng strofbar Akte woren. Och duerf kee méi eng héich\nStrof kréie wi déi, déi an deem Ament applizéiert gouf, an deem de strofbaren Akt geschitt as.\nArtikel 12\nAn enger Persoun hiirt Privatliewen, hir Famill, hir Wunnéng odder hir Korrespondenz duerf sech nët\narbiträr agemëscht, an hir Éier an hire gudde Ruff och nët ugetaascht gin. All Mënsch huet d'Recht op de\nSchutz vum Gesetz géint esou en Amëschen an Untaaschten.\nArtikel 13\nAll Mënsch huet d'Recht fir fräi bannent de Grenze vun all Stat ze zirkuléieren a séng Residenz ze wielen.\nAll Mënsch huet d'Recht fir all Land ze verloossen, och säin egent, an nees a säi Land heemzekommen.\nArtikel 14\nAll Mënsch huet d'Recht fir, wann e verfollegt gët, Asyl an anere Länner ze sichen a Gebrauch dovunner ze",
-            "Image": "823ca76fd13e47820e8cb043052bb846"
+            "Text": "Artikel 10\nAll Mënsch huet d'Recht, a voller Gläichheet, datt séng Saach, säin Uleies gerecht an öffentlech virun engem\nonofhängegen an onparteiesche Geriicht zur Sprooch kënnt, dat iwwer séng Rechter a Flichten an iwwer\nd'Berechtegong vun all Uklo, déi a Strofsaache géint e gefouert gët, entscheet.\nArtikel 11\nAll Mënsch, dee wéinst engem strofbaren Akt ugeklot gët as esou laang als onschëlleg unzegesinn, bis séng\nSchold gesetzlech an am Verlaf vun engem öffentleche Prozess nogewisen as, an deem e mat Sécherheet op\nall néideg Garantië fir séng Verdedegong konnt rechnen.\nKeen duerf veruurtelt gi fir Saachen, déi e gemat odder ënnerlooss huet, déi an deem Ament, wou dat\ngeschitt as, no nationalem an internationalem Recht keng strofbar Akte woren. Och duerf kee méi eng héich\nStrof kréie wi déi, déi an deem Ament applizéiert gouf, an deem de strofbaren Akt geschitt as.\nArtikel 12\nAn enger Persoun hiirt Privatliewen, hir Famill, hir Wunnéng odder hir Korrespondenz duerf sech nët\narbiträr agemëscht, an hir Éier an hire gudde Ruff och nët ugetaascht gin. All Mënsch huet d'Recht op de\nSchutz vum Gesetz géint esou en Amëschen an Untaaschten.\nArtikel 13\nAll Mënsch huet d'Recht fir fräi bannent de Grenze vun all Stat ze zirkuléieren a séng Residenz ze wielen.\nAll Mënsch huet d'Recht fir all Land ze verloossen, och säin egent, an nees a säi Land heemzekommen.\nArtikel 14\nAll Mënsch huet d'Recht fir, wann e verfollegt gët, Asyl an anere Länner ze sichen a Gebrauch dovunner ze"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "5270ef60e145d9ef4e5f29c7ae081312",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "maachen.\nOp dëst Recht ka sech nët beruff gin am Fall vun Ukloen, déi reell op engem Verbrieche vum allgemenge\nRecht an op Handlonge fundéieren, déi géint d'Ziler an d'Grondsätz vun de Vereenten Natioune verstoussen.\nArtikel 15\nAll Mënsch huet d'Recht op eng Nationalitéit.\nSéng Nationalitéit duerf kengem Mënsch arbiträr entzu gin, och nët dat Recht fir séng Nationalitéit ze\nchangéieren.\nArtikel 16\nWa Mann a Fra am Alter si fir sech ze bestueden, hu se d'Recht fir dat ze maachen an eng Famill ze grënnen\nouni iirgendeng Restriktioun wat d'Rass, d'Nationalitéit odder d'Relioun ugeet. Si hu beim Bestiednes, am\nBestiednes a bei sénger Opléisong déi selwecht Rechter.\nD'Bestiednes duerf nëmme mat der fräier a voller Awëllegong vum Brautpuer geschloss gin.\nD'Famill as dat natiirlecht a fundamentaalt Element vun der Gesellschaft a si huet d'Recht op de Schutz vu\nGesellschaft a Stat.\nArtikel 17\nAll Mënsch huet d'Recht, eleng an och mat aneren zesummen, op Egentom.\nSäin Egentom duerf kengem Mënsch arbiträr entzu gin.\nArtikel 18\nAll Mënsch huet d'Recht op Gedanke-, Gewëssens- a Reliounsfräiheet; an dësem Recht mat dran as",
-            "Image": "5270ef60e145d9ef4e5f29c7ae081312"
+            "Text": "maachen.\nOp dëst Recht ka sech nët beruff gin am Fall vun Ukloen, déi reell op engem Verbrieche vum allgemenge\nRecht an op Handlonge fundéieren, déi géint d'Ziler an d'Grondsätz vun de Vereenten Natioune verstoussen.\nArtikel 15\nAll Mënsch huet d'Recht op eng Nationalitéit.\nSéng Nationalitéit duerf kengem Mënsch arbiträr entzu gin, och nët dat Recht fir séng Nationalitéit ze\nchangéieren.\nArtikel 16\nWa Mann a Fra am Alter si fir sech ze bestueden, hu se d'Recht fir dat ze maachen an eng Famill ze grënnen\nouni iirgendeng Restriktioun wat d'Rass, d'Nationalitéit odder d'Relioun ugeet. Si hu beim Bestiednes, am\nBestiednes a bei sénger Opléisong déi selwecht Rechter.\nD'Bestiednes duerf nëmme mat der fräier a voller Awëllegong vum Brautpuer geschloss gin.\nD'Famill as dat natiirlecht a fundamentaalt Element vun der Gesellschaft a si huet d'Recht op de Schutz vu\nGesellschaft a Stat.\nArtikel 17\nAll Mënsch huet d'Recht, eleng an och mat aneren zesummen, op Egentom.\nSäin Egentom duerf kengem Mënsch arbiträr entzu gin.\nArtikel 18\nAll Mënsch huet d'Recht op Gedanke-, Gewëssens- a Reliounsfräiheet; an dësem Recht mat dran as"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "25bae4c2898261acb88834815ee1bab6",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "d'Fräiheet fir séng Relioun odder séng Iwwerzegong ze änneren, grad esou wéi d'Fräiheet fir séng Relioun a\nséng lwwerzegong eleng odder mat aneren ze manifestéieren, sief et an der Öffentlechkeet odder privat,\nduerch den Unterrécht, d'Praktizéieren, de Kultus an d'Feiere vu Riten.\nArtikel 19\nAll Mënsch huet d'Recht op eng fräi Menong a fir se fräi auszedrécken, an deem och d'Recht mat dran as op\neng Menong fräi vu Fuurcht an dat Recht fir Informatiounen an Iddiën ze sichen, ze kréien an ze verbrede\nmat all dene Mëttele fir sech auszedrécken, déi et gët an ouni sech mussen u Grenze vu Länner ze halen.\nArtikel 20\nAll Mënsch huet d'Recht op Versammlungs- a Verenegongsfräiheet am friddleche Sënn.\nKeen duerf an eng Verenegong gezwong gin.\nArtikel 21\nAll Mënsch huet d'Recht fir un den öffentlechen Ugeleënhete vu séngem Land matzewiirken, sief et direkt\nodder duerch fräi gewielt Vertrieder.\nAll Mënsch huet d'Recht fir ënner gläiche Konditiounen an d'öffentlech Fonktioune vu séngem Land\neranzekommen.\nDe Vollekswëllen as d'Grondlag vun der Öffentlecher Gewalt hirer Autoritéit; dee Wëlle muss sech an\néierleche Walen, déi periodesch ofzehale sin no engem gläichen an allgemenge Walrecht, a geheime Walen\nodder an enger gläichwäerteger Prozedur, déi fräi Wale garantéiert, auszedrécken.\nArtikel 22\nAll Mënsch huet als Mêmber vun der Gesellschaft d'Recht op zozial Sécherheet; en as berechtegt fir an de",
-            "Image": "25bae4c2898261acb88834815ee1bab6"
+            "Text": "d'Fräiheet fir séng Relioun odder séng Iwwerzegong ze änneren, grad esou wéi d'Fräiheet fir séng Relioun a\nséng lwwerzegong eleng odder mat aneren ze manifestéieren, sief et an der Öffentlechkeet odder privat,\nduerch den Unterrécht, d'Praktizéieren, de Kultus an d'Feiere vu Riten.\nArtikel 19\nAll Mënsch huet d'Recht op eng fräi Menong a fir se fräi auszedrécken, an deem och d'Recht mat dran as op\neng Menong fräi vu Fuurcht an dat Recht fir Informatiounen an Iddiën ze sichen, ze kréien an ze verbrede\nmat all dene Mëttele fir sech auszedrécken, déi et gët an ouni sech mussen u Grenze vu Länner ze halen.\nArtikel 20\nAll Mënsch huet d'Recht op Versammlungs- a Verenegongsfräiheet am friddleche Sënn.\nKeen duerf an eng Verenegong gezwong gin.\nArtikel 21\nAll Mënsch huet d'Recht fir un den öffentlechen Ugeleënhete vu séngem Land matzewiirken, sief et direkt\nodder duerch fräi gewielt Vertrieder.\nAll Mënsch huet d'Recht fir ënner gläiche Konditiounen an d'öffentlech Fonktioune vu séngem Land\neranzekommen.\nDe Vollekswëllen as d'Grondlag vun der Öffentlecher Gewalt hirer Autoritéit; dee Wëlle muss sech an\néierleche Walen, déi periodesch ofzehale sin no engem gläichen an allgemenge Walrecht, a geheime Walen\nodder an enger gläichwäerteger Prozedur, déi fräi Wale garantéiert, auszedrécken.\nArtikel 22\nAll Mënsch huet als Mêmber vun der Gesellschaft d'Recht op zozial Sécherheet; en as berechtegt fir an de"
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "0abf87ae1401f4a4feba1d9e8bd6ed89",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Genoss vun de wirtschaftlechen, zozialen a kulturelle Rechter ze kommen, déi fir séng Dignitéit an d'fräi\nEntwécklong vu sénger Perséinlechkeet néideg sin, dat alles duerch en nationalen Effort an eng international\nZesummenaarbecht an an engem Mooss, wéi d'Organisatioun an d'Ressource vun all Land et ausweisen.\nArtikel 23\nAll Mënsch huet d'Recht op Aarbecht, op d'fräi Wiel vu sénger Aarbecht, op Aarbechtskonditiounen, déi\ngerecht sin an zefridde stellen an op de Schutz géint de Chômage.\nJiddereen huet ouni Diskriminatioun d'Recht op de selwechte Loun fir déi selwecht Aarbecht.\nJiddereen, dee schafft, huet d'Recht op e gerechten an ordentleche Loun, deen him selwer a sénger Famill\neng Existenz op der Basis vun der mënschlëcher Dignitéit séchert an deen, wann néideg, duerch all aner\nzozial Mesüre gestäipt gët.\nAll Mënsch huet d'Recht fir mat anere Leit Beruffsorganisatiounen ze grënnen a fir séng Intressen ze\nverdedegen dranzegoen.\nArtikel 24\nAll Mënsch huet d'Recht op Rou a Fräizäit a besonnesch op eng räsonnabel begrenzten Dauer vun der\nAarbechtszäit an op periodeschen a bezuelte Congé.\nArtikel 25\nAll Mënsch huet d'Recht op e Liewesniveau, deen duergeet fir him selwer a sénger Famill d'Gesondheet an\nd'Gutt-Ergoen, besonnesch d'Narong, d'Kleder, d'Wunneng, d'medezinesch Fleg an déi néideg zozial\nDéngschter ze garantéieren; en huet d'Recht op Sécherheet am Fall vu Chômage, Krankheet, Invaliditéit, als\nWitfra odder Witmann, am Alter an an anere Fäll, wou en d'Mëttele fir säi Liewesënnerhalt nët méi huet\nduerch Ëmstänn, déi onofhängeg si vu séngem Wëllen.",
-            "Image": "0abf87ae1401f4a4feba1d9e8bd6ed89"
+            "Text": "Genoss vun de wirtschaftlechen, zozialen a kulturelle Rechter ze kommen, déi fir séng Dignitéit an d'fräi\nEntwécklong vu sénger Perséinlechkeet néideg sin, dat alles duerch en nationalen Effort an eng international\nZesummenaarbecht an an engem Mooss, wéi d'Organisatioun an d'Ressource vun all Land et ausweisen.\nArtikel 23\nAll Mënsch huet d'Recht op Aarbecht, op d'fräi Wiel vu sénger Aarbecht, op Aarbechtskonditiounen, déi\ngerecht sin an zefridde stellen an op de Schutz géint de Chômage.\nJiddereen huet ouni Diskriminatioun d'Recht op de selwechte Loun fir déi selwecht Aarbecht.\nJiddereen, dee schafft, huet d'Recht op e gerechten an ordentleche Loun, deen him selwer a sénger Famill\neng Existenz op der Basis vun der mënschlëcher Dignitéit séchert an deen, wann néideg, duerch all aner\nzozial Mesüre gestäipt gët.\nAll Mënsch huet d'Recht fir mat anere Leit Beruffsorganisatiounen ze grënnen a fir séng Intressen ze\nverdedegen dranzegoen.\nArtikel 24\nAll Mënsch huet d'Recht op Rou a Fräizäit a besonnesch op eng räsonnabel begrenzten Dauer vun der\nAarbechtszäit an op periodeschen a bezuelte Congé.\nArtikel 25\nAll Mënsch huet d'Recht op e Liewesniveau, deen duergeet fir him selwer a sénger Famill d'Gesondheet an\nd'Gutt-Ergoen, besonnesch d'Narong, d'Kleder, d'Wunneng, d'medezinesch Fleg an déi néideg zozial\nDéngschter ze garantéieren; en huet d'Recht op Sécherheet am Fall vu Chômage, Krankheet, Invaliditéit, als\nWitfra odder Witmann, am Alter an an anere Fäll, wou en d'Mëttele fir säi Liewesënnerhalt nët méi huet\nduerch Ëmstänn, déi onofhängeg si vu séngem Wëllen."
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "e3bb59a405b39a66ff651eef01a74683",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Mamm a Kand hun d'Recht op speziell Hëllef a Bäistand. D'Kanner alleguer, ob se am odder nët am\nBestiednes gebuer gin, kommen an de Genoss vun deem selwechten zoziale Schutz.\nArtikel 26\nAll Mënsch huet d'Recht op Bildung. Den Unterrécht muss op d'mannst fir d'Elementar- an d'Grondschoule\ngratis sin. Den Elementarunterrécht as obligatoresch. Den techneschen an de Beruffsunterécht musse\nverallgemengert sin. Den héiere Studium muss jidderengem mat dene selwechte Rechter an op der Basis vu\nsénge Leeschtungen opstoen.\nD'Bildung soll déi voll Entwécklong vun der mënschlecher Perséinlechkeet a méi e grousse Respekt vun de\nMënscherechter an de Grondfräiheten uviséieren. Si soll de Versteesdemech, d'Toleranz an d'Frëndschaaft\ntëscht allen Natiounen an alle Gruppe vu Rassen a Relioune grad esou favoriséiere wéi d'Entwécklong vun\nde Vereenten Natiounen hiren Aktivitéite fir d'Erhale vum Fridden.\nD'Elteren hu virewech d'Recht fir de Genre vun de Kanner hirer Bildung ze wielen.\nArtikel 27\nAll Mënsch huet d'Recht fir fräi un der Kommunotéit hirem kulturelle Liewen deelzehuelen, an de Genoss\nvun der Konscht ze kommen a vum wësseschaaftleche Fortschrëtt a vun allem, wat sech doraus u Guddem\nergët, ze profitéieren.\nJiddereen huet d'Recht op de Schutz vun de moraleschen a materiellen Intressen, déi aus jidfer\nwësseschaaftlecher, literarescher odder artistescher Produktioun entstin, vun deer hien den Auteur as.\nArtikel 28\nAll Mënsch huet d'Recht op eng zozial an international Uerdnong, an deer sech déi Rechter a Fräiheten, déi\nan dëser Deklaratioun opgezielt gin, voll kënnen auswiirken.",
-            "Image": "e3bb59a405b39a66ff651eef01a74683"
+            "Text": "Mamm a Kand hun d'Recht op speziell Hëllef a Bäistand. D'Kanner alleguer, ob se am odder nët am\nBestiednes gebuer gin, kommen an de Genoss vun deem selwechten zoziale Schutz.\nArtikel 26\nAll Mënsch huet d'Recht op Bildung. Den Unterrécht muss op d'mannst fir d'Elementar- an d'Grondschoule\ngratis sin. Den Elementarunterrécht as obligatoresch. Den techneschen an de Beruffsunterécht musse\nverallgemengert sin. Den héiere Studium muss jidderengem mat dene selwechte Rechter an op der Basis vu\nsénge Leeschtungen opstoen.\nD'Bildung soll déi voll Entwécklong vun der mënschlecher Perséinlechkeet a méi e grousse Respekt vun de\nMënscherechter an de Grondfräiheten uviséieren. Si soll de Versteesdemech, d'Toleranz an d'Frëndschaaft\ntëscht allen Natiounen an alle Gruppe vu Rassen a Relioune grad esou favoriséiere wéi d'Entwécklong vun\nde Vereenten Natiounen hiren Aktivitéite fir d'Erhale vum Fridden.\nD'Elteren hu virewech d'Recht fir de Genre vun de Kanner hirer Bildung ze wielen.\nArtikel 27\nAll Mënsch huet d'Recht fir fräi un der Kommunotéit hirem kulturelle Liewen deelzehuelen, an de Genoss\nvun der Konscht ze kommen a vum wësseschaaftleche Fortschrëtt a vun allem, wat sech doraus u Guddem\nergët, ze profitéieren.\nJiddereen huet d'Recht op de Schutz vun de moraleschen a materiellen Intressen, déi aus jidfer\nwësseschaaftlecher, literarescher odder artistescher Produktioun entstin, vun deer hien den Auteur as.\nArtikel 28\nAll Mënsch huet d'Recht op eng zozial an international Uerdnong, an deer sech déi Rechter a Fräiheten, déi\nan dëser Deklaratioun opgezielt gin, voll kënnen auswiirken."
         },
         "8": {
-            "Label": "9",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "204dc55ef8f78d82863e541e0142fb21",
             "Index": 8,
+            "Label": "9",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Artikel 29\nAll Mënsch huet Flichte vis-à-vis vun der Kommunotéit, an deer eleng déi fräi a voll Entwécklong vu sénger\nPerséinlechkeet méiglech as.\nAm Gebrauch vu sénge Rechter an am Genoss vu sénge Fräiheten as jiddereen nëmmen dene Limiten\nënnerworf, déi d'Gesetz eenzeg an eleng dofir virgesäit, datt d'Unerkennong an de Respekt vun aneren hire\nRechter a Fräihete gesechert sin a fir engem gerechten Usproch op Moral, op öffentlech Uerdnong an op en\nallgemengt Wuel an enger demokratescher Gesellschaft z'entspriechen.\nDës Rechter a Fräiheten duerfen a kengem Fall am Widdersproch mat de Vereenten Natiounen hiren Ziler a\nPrinzippie stoen.\nArtikel 30\nKeng Bestëmmong vun dëser Deklaratioun duerf esou ausgeluegt gin, datt e Recht fir e Stat, eng Grupp\nodder en eenzele Mënsch dra wär fir sech un Aktivitéiten ze gin odder Akten duerchzeféieren, déi drop\nerauslafe fir d'Rechter an d'Fräiheten, déi dra genannt sin, ëmzestoussen.",
-            "Image": "204dc55ef8f78d82863e541e0142fb21"
+            "Text": "Artikel 29\nAll Mënsch huet Flichte vis-à-vis vun der Kommunotéit, an deer eleng déi fräi a voll Entwécklong vu sénger\nPerséinlechkeet méiglech as.\nAm Gebrauch vu sénge Rechter an am Genoss vu sénge Fräiheten as jiddereen nëmmen dene Limiten\nënnerworf, déi d'Gesetz eenzeg an eleng dofir virgesäit, datt d'Unerkennong an de Respekt vun aneren hire\nRechter a Fräihete gesechert sin a fir engem gerechten Usproch op Moral, op öffentlech Uerdnong an op en\nallgemengt Wuel an enger demokratescher Gesellschaft z'entspriechen.\nDës Rechter a Fräiheten duerfen a kengem Fall am Widdersproch mat de Vereenten Natiounen hiren Ziler a\nPrinzippie stoen.\nArtikel 30\nKeng Bestëmmong vun dëser Deklaratioun duerf esou ausgeluegt gin, datt e Recht fir e Stat, eng Grupp\nodder en eenzele Mënsch dra wär fir sech un Aktivitéiten ze gin odder Akten duerchzeféieren, déi drop\nerauslafe fir d'Rechter an d'Fräiheten, déi dra genannt sin, ëmzestoussen."
         }
     }
 }

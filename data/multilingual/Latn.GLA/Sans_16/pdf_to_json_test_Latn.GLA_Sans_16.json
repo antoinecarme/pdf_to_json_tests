@@ -1,145 +1,145 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581468064,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "ecf283ec59b0f0f68e2923f00261dab6",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Teacs Ughdarrasail na Iomlanachd\nDUTHCHANNAN AONAICHTE\nOIFIS AN FHIOSRACHAIDH PHOBLAICH\nGAIRM CHOITCHEANN AIR COIRICHEAN A' CHINNE-DAONNA\nROI-RADH\nDo bhrìgh 's gu bheil e air aideachadh gu bheil dualchas nàdarra agus còirichean neo-sgaraichte uile bhuill a'\nchinne-daonna na stèidh airson saorsa, ceartas agus sìth an t-saoghail,\nDo bhrìgh 's gun do dh' adhbharaich a bhith a' cur còirichean dhaoine ann an suarachas gnìomhan borba a\nshàraich cogaisean, a bhith air an cleachdadh, agus gum bheil an latha air teachd anns am bi saor-labhartas,\nsaor chreideamh agus saorsa bho eagal agus dìth air a ghairm mar àrd-mhiann an t-sluaigh choitcheann,\nDo bhrìgh 's gu bheil e uile do-sheachanta feumail - mas e nach bi an duine air a cho-èigneachadh mu\ndheireadh gu ceannairc a dhèanamh an aghaidh ain-tighearnas agus fòirneart gum bi còirichean an duine air\nan dìon tro riaghladh an lagha,\nDo bhrìgh 's gu bheil e do-sheachanta feumail cleamhnasan càirdeil a stèidheachadh eadar dùthchannan,\nDo bhrìgh 's gun do chuir sluagh nan Dùthchannan Aonaichte an creideamh as ùr ann an còirichean fhear is\nmhnathan agus mar an ceudna gun do chuir iad romhpa adhartas sòisealta agus ìrean beatha nas fhèarr ann\nam barrachd saorsa a dhaingneachadh,\nDo bhrìgh 's gun do gheall gach Ball Stàite, ann an co-luib ris na Dùthchannan Aonaichte, gum\nbrosnaicheadh iad uile-spèis agus aire do chòirichean agus saorsa an t-sluaigh,\nDo bhrìgh 's gu bheil tuigse choitcheann a thaobh còirichean agus saorsaidhean uile gu lèir do-sheachanta",
-            "Image": "ecf283ec59b0f0f68e2923f00261dab6"
+            "Text": "Teacs Ughdarrasail na Iomlanachd\nDUTHCHANNAN AONAICHTE\nOIFIS AN FHIOSRACHAIDH PHOBLAICH\nGAIRM CHOITCHEANN AIR COIRICHEAN A' CHINNE-DAONNA\nROI-RADH\nDo bhrìgh 's gu bheil e air aideachadh gu bheil dualchas nàdarra agus còirichean neo-sgaraichte uile bhuill a'\nchinne-daonna na stèidh airson saorsa, ceartas agus sìth an t-saoghail,\nDo bhrìgh 's gun do dh' adhbharaich a bhith a' cur còirichean dhaoine ann an suarachas gnìomhan borba a\nshàraich cogaisean, a bhith air an cleachdadh, agus gum bheil an latha air teachd anns am bi saor-labhartas,\nsaor chreideamh agus saorsa bho eagal agus dìth air a ghairm mar àrd-mhiann an t-sluaigh choitcheann,\nDo bhrìgh 's gu bheil e uile do-sheachanta feumail - mas e nach bi an duine air a cho-èigneachadh mu\ndheireadh gu ceannairc a dhèanamh an aghaidh ain-tighearnas agus fòirneart gum bi còirichean an duine air\nan dìon tro riaghladh an lagha,\nDo bhrìgh 's gu bheil e do-sheachanta feumail cleamhnasan càirdeil a stèidheachadh eadar dùthchannan,\nDo bhrìgh 's gun do chuir sluagh nan Dùthchannan Aonaichte an creideamh as ùr ann an còirichean fhear is\nmhnathan agus mar an ceudna gun do chuir iad romhpa adhartas sòisealta agus ìrean beatha nas fhèarr ann\nam barrachd saorsa a dhaingneachadh,\nDo bhrìgh 's gun do gheall gach Ball Stàite, ann an co-luib ris na Dùthchannan Aonaichte, gum\nbrosnaicheadh iad uile-spèis agus aire do chòirichean agus saorsa an t-sluaigh,\nDo bhrìgh 's gu bheil tuigse choitcheann a thaobh còirichean agus saorsaidhean uile gu lèir do-sheachanta"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "cfbe8d4d7f60551c4b37b6b23b51796f",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "airson an gealladh seo a thoirt gu buil,\nMar sin, a nis,\nTha A' CHOMHDHAIL CHOITCHEANN\na' cur an cèill\nNA GAIRM CHOITCHEANN AIR COIRICHEAN A' CHINNE-DAONNA seo na bhun-tomhais do gach\nsluagh is dùthaich a chum na crìche gun dèan gach neach is gach dùthaich (a' cumail na Gairm seo nan\nsealladh) strì gu bhith a' brosnachadh nan còirichean agus nan saorsaidhean sin tro theagasg is tro fhoghlam\nagus tro cheuman adhartach - nàiseanta agus eadar-nàiseanta - a' daingneachadh an cleachdaidhean am\nmeasg nan dùthaich dem bheil iad fhein nam buill agus cuideachd anns na tìrean a tha fon ughdarras.\nBonn 1.\nTha gach uile dhuine air a bhreth saor agus co-ionnan ann an urram 's ann an còirichean. Tha iad air am breth\nle reusan is le cogais agus mar sin bu chòir dhaibh a bhith beò nam measg fhein ann an spiorad bràthaireil,\nBonn 2.\nTha gach neach fa leth airidh air gach còir is saorsa a tha sgrìobhte anns A' Ghairm seo a dh' aindeoin gnè\nsam bith, mar tha cinneadh, dath craicinn, gnè-cinneil, cànan, creideamh, beachdan poiliticeach, tùsachd\nnàiseanta neo sòisealta, sealbhachd, gin neo inbhe air bith eile.\nA thuilleadh, chan fhaod deifir a bhith air a dhèanamh air bonn inbhe phoiliticeach, uachdaranail neo eadar-\nnàiseanta a tha ceangailte ri dùthaich dom buin neach co-dhiù tha an dùthaich sin neo-eiseimeileach, fo urras,\nfon rìaghladh neo fo bhacadh dùthcha eile.\nBonn 3.",
-            "Image": "cfbe8d4d7f60551c4b37b6b23b51796f"
+            "Text": "airson an gealladh seo a thoirt gu buil,\nMar sin, a nis,\nTha A' CHOMHDHAIL CHOITCHEANN\na' cur an cèill\nNA GAIRM CHOITCHEANN AIR COIRICHEAN A' CHINNE-DAONNA seo na bhun-tomhais do gach\nsluagh is dùthaich a chum na crìche gun dèan gach neach is gach dùthaich (a' cumail na Gairm seo nan\nsealladh) strì gu bhith a' brosnachadh nan còirichean agus nan saorsaidhean sin tro theagasg is tro fhoghlam\nagus tro cheuman adhartach - nàiseanta agus eadar-nàiseanta - a' daingneachadh an cleachdaidhean am\nmeasg nan dùthaich dem bheil iad fhein nam buill agus cuideachd anns na tìrean a tha fon ughdarras.\nBonn 1.\nTha gach uile dhuine air a bhreth saor agus co-ionnan ann an urram 's ann an còirichean. Tha iad air am breth\nle reusan is le cogais agus mar sin bu chòir dhaibh a bhith beò nam measg fhein ann an spiorad bràthaireil,\nBonn 2.\nTha gach neach fa leth airidh air gach còir is saorsa a tha sgrìobhte anns A' Ghairm seo a dh' aindeoin gnè\nsam bith, mar tha cinneadh, dath craicinn, gnè-cinneil, cànan, creideamh, beachdan poiliticeach, tùsachd\nnàiseanta neo sòisealta, sealbhachd, gin neo inbhe air bith eile.\nA thuilleadh, chan fhaod deifir a bhith air a dhèanamh air bonn inbhe phoiliticeach, uachdaranail neo eadar-\nnàiseanta a tha ceangailte ri dùthaich dom buin neach co-dhiù tha an dùthaich sin neo-eiseimeileach, fo urras,\nfon rìaghladh neo fo bhacadh dùthcha eile.\nBonn 3."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "b13b8778dd940847d04a127044cfb7d7",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Tha còir aig gach neach air beatha, saorsa agus tearainteachd.\nBonn 4.\nCha bhi neach air a chumail fo thràilleachd neo fo dhaorsa. Bithidh tràilleachd agus tràill-mhalairt air a\nthoirmeasg na uile chruth.\nBonn 5.\nCha bhi neach air a smachdachadh gu pian neo gu dèiligidhean an-iochdmhor, mi-dhaonna neo truaillidh.\nBonn 6.\nTha còir aig gach neach a bhith air a choimhead mar bhall den chinne-daonna ann an sealladh an lagha.\nBonn 7.\nTha na h-uile co-ionnan fa chomhair, agus mar sin airidh air dìonachd an lagha. Tha gach neach airidh air an\naon dìon ann an aghaidh eadar-dhealachaidh sam bith a bhriseas a' Ghairm seo agus an aghaidh brosnachaidh\nsam bith a chuirear air chois airson eadar-dhealachadh a dhèanamh.\nBonn 8.\nTha còir aig gach neach air furtachd èifeachdach bho na cùirtean nàiseanta airson gnìomhan a tha briseadh\nnan còirichean dleasdanach a tha air an toirt seachad tron lagh.\nBonn 9.\nCha bhi neach air a chur an sàs neo ann an grèim neo air fhògarrachadh gu mi-laghail.\nBonn 10.\nTha còir aig gach neach gum faigh e èisdeachd phoblach ann an làn-cheartas bho chùirtean neo-eiseimeileach",
-            "Image": "b13b8778dd940847d04a127044cfb7d7"
+            "Text": "Tha còir aig gach neach air beatha, saorsa agus tearainteachd.\nBonn 4.\nCha bhi neach air a chumail fo thràilleachd neo fo dhaorsa. Bithidh tràilleachd agus tràill-mhalairt air a\nthoirmeasg na uile chruth.\nBonn 5.\nCha bhi neach air a smachdachadh gu pian neo gu dèiligidhean an-iochdmhor, mi-dhaonna neo truaillidh.\nBonn 6.\nTha còir aig gach neach a bhith air a choimhead mar bhall den chinne-daonna ann an sealladh an lagha.\nBonn 7.\nTha na h-uile co-ionnan fa chomhair, agus mar sin airidh air dìonachd an lagha. Tha gach neach airidh air an\naon dìon ann an aghaidh eadar-dhealachaidh sam bith a bhriseas a' Ghairm seo agus an aghaidh brosnachaidh\nsam bith a chuirear air chois airson eadar-dhealachadh a dhèanamh.\nBonn 8.\nTha còir aig gach neach air furtachd èifeachdach bho na cùirtean nàiseanta airson gnìomhan a tha briseadh\nnan còirichean dleasdanach a tha air an toirt seachad tron lagh.\nBonn 9.\nCha bhi neach air a chur an sàs neo ann an grèim neo air fhògarrachadh gu mi-laghail.\nBonn 10.\nTha còir aig gach neach gum faigh e èisdeachd phoblach ann an làn-cheartas bho chùirtean neo-eiseimeileach"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "61cfa6b4227f7c2dae4d20c10c825e2b",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "agus neo-leththromach nuair a tha a chòirichean air an ceasnachadh agus nuair a tha gnìomhan eucorach air a\nchur às a leth.\nBonn 11.\nTha còir aig gach neach aig a bheil eucoir dhioghaltach air a chur as a leth a bhith air a mheas neo-ciontach\ngus an teid a chionta a dhearbhadh a-rèir an lagha aig deuchainn phoblach far am bheil gach barrantas a tha\nfeumail saor dha airson a dhìonachd.\nChan fhaod neach a bhith air a mheas ciontach mar thoradh air gnìomh neo dearmad nach robh na chionta\ndhioghaltach fo laghan nàiseanta neo eadar-nàiseanta aig an àm san deach an gnìomhachadh. Ni mo na sin\nchan fhaodar càin nas truime a chur air neach na bha freagarrach aig an àm san deachaidh an eucoir a\ndhèanamh.\nBonn 12.\nChan fhaodar neach sam bith a cheannsachadh le bhith a' buintinn ri phearsantachd, ri theaghlach, ri\ndhachaidh neo tro sgrìobhadh agus ni mò a dh' fhaodar buintinn ri onair neo ri chliù. Tha uile chòir aig gach\nneach air dìon bhon lagh an aghaidh ionnsaighean den t-seòrsa sin.\nBonn 13.\nTha còir aig gach neach air saorsa gluasaid agus saorsa còmhnaidh an taobh a-staigh crìoch gach stàit.\nTha còir aig gach neach cead a bhith aige dùthaich sam bith, eadhon a dhùthaich fhein, fhàgail agus\ncuideachd cead gu tilleadh gu a dhùthaich fhein.\nBonn 14.\nTha còir aig a h-uile neach dìdean bho gheur-leanmhain a shireadh agus sìtheachd fhaotainn ann an",
-            "Image": "61cfa6b4227f7c2dae4d20c10c825e2b"
+            "Text": "agus neo-leththromach nuair a tha a chòirichean air an ceasnachadh agus nuair a tha gnìomhan eucorach air a\nchur às a leth.\nBonn 11.\nTha còir aig gach neach aig a bheil eucoir dhioghaltach air a chur as a leth a bhith air a mheas neo-ciontach\ngus an teid a chionta a dhearbhadh a-rèir an lagha aig deuchainn phoblach far am bheil gach barrantas a tha\nfeumail saor dha airson a dhìonachd.\nChan fhaod neach a bhith air a mheas ciontach mar thoradh air gnìomh neo dearmad nach robh na chionta\ndhioghaltach fo laghan nàiseanta neo eadar-nàiseanta aig an àm san deach an gnìomhachadh. Ni mo na sin\nchan fhaodar càin nas truime a chur air neach na bha freagarrach aig an àm san deachaidh an eucoir a\ndhèanamh.\nBonn 12.\nChan fhaodar neach sam bith a cheannsachadh le bhith a' buintinn ri phearsantachd, ri theaghlach, ri\ndhachaidh neo tro sgrìobhadh agus ni mò a dh' fhaodar buintinn ri onair neo ri chliù. Tha uile chòir aig gach\nneach air dìon bhon lagh an aghaidh ionnsaighean den t-seòrsa sin.\nBonn 13.\nTha còir aig gach neach air saorsa gluasaid agus saorsa còmhnaidh an taobh a-staigh crìoch gach stàit.\nTha còir aig gach neach cead a bhith aige dùthaich sam bith, eadhon a dhùthaich fhein, fhàgail agus\ncuideachd cead gu tilleadh gu a dhùthaich fhein.\nBonn 14.\nTha còir aig a h-uile neach dìdean bho gheur-leanmhain a shireadh agus sìtheachd fhaotainn ann an"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "62c4458eb5caefb33cdefca93d961b02",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "dùthchannan eile.\nChan fhaodar a' chòir seo a chleachdadh a thaobh thagraidhean nach eil poiliticeach neo a thaobh ghnìomhan\na tha an aghaidh thograidhean agus phrionnsabalan nan dùthchannan Aonaichte.\nBonn 15.\nTha còir aig gach neach a bhith air ainmeachadh gu nàiseanta.\nChan fhaodar a dhùthchas nàiseanta, neo a chòir air a dhùthchas nàiseanta atharrachadh, àicheadh air neach\nair bith.\nBonn 16.\nTha e na chòir aig gach fireannach is boireannach, a dh' aindeoin cinnidh is a tha air teachd gu aois, pòsadh\nagus teaghlach a stèidheachadh. Tha iad dligheach air còirichean co-ionnan nam pòsadh rè ùine am pòsaidh\nagus ann an sgaoileadh a' phòsaidh.\nChan fhaodar pòsadh a bhith air a chompàirteachadh ach a mhàin le saor-thoil gach cèile.\n'S e an teaghlach aonad nàdarra agus bunaiteach gach sluaigh agus mar sin airidh air a bhith air a dhìon leis\nan t-sluagh agus an Stàit.\nBonn 17.\nTha e na chòir aig gach neach sealbhachd a bhith aige fhein a thuilleadh air sealbhachd ann an co-chomunn\ndhaoine eile.\nChan fhaodar a shealbhachd a thoirt bho neach gu mi-riaghailteach.\nBonn 18.",
-            "Image": "62c4458eb5caefb33cdefca93d961b02"
+            "Text": "dùthchannan eile.\nChan fhaodar a' chòir seo a chleachdadh a thaobh thagraidhean nach eil poiliticeach neo a thaobh ghnìomhan\na tha an aghaidh thograidhean agus phrionnsabalan nan dùthchannan Aonaichte.\nBonn 15.\nTha còir aig gach neach a bhith air ainmeachadh gu nàiseanta.\nChan fhaodar a dhùthchas nàiseanta, neo a chòir air a dhùthchas nàiseanta atharrachadh, àicheadh air neach\nair bith.\nBonn 16.\nTha e na chòir aig gach fireannach is boireannach, a dh' aindeoin cinnidh is a tha air teachd gu aois, pòsadh\nagus teaghlach a stèidheachadh. Tha iad dligheach air còirichean co-ionnan nam pòsadh rè ùine am pòsaidh\nagus ann an sgaoileadh a' phòsaidh.\nChan fhaodar pòsadh a bhith air a chompàirteachadh ach a mhàin le saor-thoil gach cèile.\n'S e an teaghlach aonad nàdarra agus bunaiteach gach sluaigh agus mar sin airidh air a bhith air a dhìon leis\nan t-sluagh agus an Stàit.\nBonn 17.\nTha e na chòir aig gach neach sealbhachd a bhith aige fhein a thuilleadh air sealbhachd ann an co-chomunn\ndhaoine eile.\nChan fhaodar a shealbhachd a thoirt bho neach gu mi-riaghailteach.\nBonn 18."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "4f74bb8b167d896ebe17a52a30e13a36",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Tha e na chòir aig gach neach saorsa smuain, saorsa cogais agus saorsa creidimh a bhith aige; tha a' chòir seo\na' gabhail a-steach saorsa airson a chreidimh 's a chreud atharrachadh, na aonar neo ann an còmhlan dhaoine\neile ann am follais neo gu dìomhair agus am foillseachadh tre theagasg, tre aoradh agus tre bhith gan\ncleachdadh.\nBonn 19.\nTha còir aig gach neach air saorsa beachd agus labhairt; tha a' chòir seo a' gabhail a-steach a bhith ag altruim\nbheachdan gun bhacadh sam bith agus a bhith a' sireadh agus a' toirt seachad eòlais tro mheadhan sam bith a\ndh' aindeoin cnapan-starraidh a dh' fhaodadh a bhith anns an rathad.\nBonn 20.\nTha còir aig na h-uile saorsa a bhith aca airson co-chruinneachadh agus co-chomunn.\nChan fhaodar neach a cho-èigneachadh gu bhith na bhall de cho-chomunn sam bith.\nBonn 21.\n'S e còir neach sam bith co-phàirt a ghabhail ann an riaghaltas a dhùthcha gu pearsanta neo tro thaghadh\nriochdairean.\nTha còir aig na h-uile slighe fhosgailte a bhith aca airson seirbhis phoblach a dhèanamh dhan dùthaich.\nBithidh toil an t-sluaigh na bhunait airson barantas riaghlaidh agus bithidh seo air a dhèanamh follaiseach\nann a bhith a' cumail thaghaidhean tro bhòtadh coitcheann a bhitheas air a chumail ann an dìomhaireachd aig\namannan àiridh neo tro dhòighean saor-thaghach eile.\nBonn 22.\nTha còir aig gach neach, mar bhall den phoball air tearainteachd sòisealta agus tha e airidh, tro oidhirpean",
-            "Image": "4f74bb8b167d896ebe17a52a30e13a36"
+            "Text": "Tha e na chòir aig gach neach saorsa smuain, saorsa cogais agus saorsa creidimh a bhith aige; tha a' chòir seo\na' gabhail a-steach saorsa airson a chreidimh 's a chreud atharrachadh, na aonar neo ann an còmhlan dhaoine\neile ann am follais neo gu dìomhair agus am foillseachadh tre theagasg, tre aoradh agus tre bhith gan\ncleachdadh.\nBonn 19.\nTha còir aig gach neach air saorsa beachd agus labhairt; tha a' chòir seo a' gabhail a-steach a bhith ag altruim\nbheachdan gun bhacadh sam bith agus a bhith a' sireadh agus a' toirt seachad eòlais tro mheadhan sam bith a\ndh' aindeoin cnapan-starraidh a dh' fhaodadh a bhith anns an rathad.\nBonn 20.\nTha còir aig na h-uile saorsa a bhith aca airson co-chruinneachadh agus co-chomunn.\nChan fhaodar neach a cho-èigneachadh gu bhith na bhall de cho-chomunn sam bith.\nBonn 21.\n'S e còir neach sam bith co-phàirt a ghabhail ann an riaghaltas a dhùthcha gu pearsanta neo tro thaghadh\nriochdairean.\nTha còir aig na h-uile slighe fhosgailte a bhith aca airson seirbhis phoblach a dhèanamh dhan dùthaich.\nBithidh toil an t-sluaigh na bhunait airson barantas riaghlaidh agus bithidh seo air a dhèanamh follaiseach\nann a bhith a' cumail thaghaidhean tro bhòtadh coitcheann a bhitheas air a chumail ann an dìomhaireachd aig\namannan àiridh neo tro dhòighean saor-thaghach eile.\nBonn 22.\nTha còir aig gach neach, mar bhall den phoball air tearainteachd sòisealta agus tha e airidh, tro oidhirpean"
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "729af525235b4883dadb010ac2c9bc9d",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "nàiseanta agus co-oidhirpean eadar-nàiseanta a-rèir eagrachadh is seilbh gach Stàit, air gach còir\neaconomaigeach, shòisealta agus chultarail a tha do-sheachanta feumail a chum urram agus saor-leasachadh\na phearsantachd.\nBonn 23.\n'S e còir gach neach a bhith ri obair, ri saorsa airson obair a thaghadh, ri cùmhnantan obrach a tha ceart agus\nfàbharach agus ri dìon an aghaidh a bhith gun obair.\nTha còir aig gach neach, gun leth-bhreth sam bith, air pàigheadh co-ionnan airson obrach cho-ionnan.\nTha còir aig gach neach a tha anns an obair air tuarasdal freagarrach a bheireadh dha fhein 's dha theaghlach\nbi-beò a bhiodh a-rèir luach agus inbhe an duine eadhon ged a dh' fheumte leasachadh a dhèanamh tro\nmheadhanan eile airson dìon sòisealta a bhith aige.\nTha còir aig gach neach air cèaird-chomainn a dhealbh agus e fhein a cheangal riutha airson dìon a\nchòirichean.\nBonn 24.\nTha còir aig gach neach air fois agus saor-thìde còmhla ri cunbhalachadh reusanta air uairean obrach maille\nri làithean saora le pàigheadh bho àm gu àm.\nBonn 25.\nTha còir aig na h-uile air àite còmhnaidh a tha iomchaidh airson an slàinte fhein is slàinte an teaghlaich - sin\na' gabhail na ghlacan biadh, aodach, taigheadas, lèigh-aire agus seirbhisean sòisealta - agus a thuilleadh air\nsin tha còir aca air dìon ann an aghaidh call-obrach, tinneas, eu-cothrom, banntrachd, seann aois agus gainne\nbeò-shlaint ann an suidhichean a tha thar an comais.",
-            "Image": "729af525235b4883dadb010ac2c9bc9d"
+            "Text": "nàiseanta agus co-oidhirpean eadar-nàiseanta a-rèir eagrachadh is seilbh gach Stàit, air gach còir\neaconomaigeach, shòisealta agus chultarail a tha do-sheachanta feumail a chum urram agus saor-leasachadh\na phearsantachd.\nBonn 23.\n'S e còir gach neach a bhith ri obair, ri saorsa airson obair a thaghadh, ri cùmhnantan obrach a tha ceart agus\nfàbharach agus ri dìon an aghaidh a bhith gun obair.\nTha còir aig gach neach, gun leth-bhreth sam bith, air pàigheadh co-ionnan airson obrach cho-ionnan.\nTha còir aig gach neach a tha anns an obair air tuarasdal freagarrach a bheireadh dha fhein 's dha theaghlach\nbi-beò a bhiodh a-rèir luach agus inbhe an duine eadhon ged a dh' fheumte leasachadh a dhèanamh tro\nmheadhanan eile airson dìon sòisealta a bhith aige.\nTha còir aig gach neach air cèaird-chomainn a dhealbh agus e fhein a cheangal riutha airson dìon a\nchòirichean.\nBonn 24.\nTha còir aig gach neach air fois agus saor-thìde còmhla ri cunbhalachadh reusanta air uairean obrach maille\nri làithean saora le pàigheadh bho àm gu àm.\nBonn 25.\nTha còir aig na h-uile air àite còmhnaidh a tha iomchaidh airson an slàinte fhein is slàinte an teaghlaich - sin\na' gabhail na ghlacan biadh, aodach, taigheadas, lèigh-aire agus seirbhisean sòisealta - agus a thuilleadh air\nsin tha còir aca air dìon ann an aghaidh call-obrach, tinneas, eu-cothrom, banntrachd, seann aois agus gainne\nbeò-shlaint ann an suidhichean a tha thar an comais."
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "c7280e3f0fd1c2e474d3a533b9496940",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Tha màthaireachd agus leanabachd airidh air aire agus cuideachadh air leth. Tha gach leanabh, dìolain neo a\nchaochladh, airidh air an dìon shòisealta cheudna.\nBonn 26.\nTha foghlam na chòir do gach neach. Bithidh foghlam an asgaidh, co-dhiù aig na h-ìrean bunaiteil. Bithidh\nfoghlam bunasach sparraichte air gach neach. Bithidh foghlam teicneachail, proifeiseanta agus àrd fhoghlam\nair bonn airidheachd, co-ionnan fosgailte do na h-uile neach.\nBithidh foghlam ag amas air làn-leasachadh pearsa an duine agus a chum neartachaidh tlachd ann an\ncòirichean agus saorsan daonna. Bithidh foghlam a' brosnachadh tuigseachd, foighidinn agus càirdeas am\nmeasg dhùthchannan, am measg bhuidhnean cinneadail is cràbhach, còmhla ri a bhith a' cur air adhart\noidhirpean nan Dùthchannan Aonaichte a thaobh cumail na sìthe.\nTha còir o thùs aig pàrantan roghainn a dhèanamh den t-seòrsa foghlaim a tha freagarrach don cloinn.\nBonn 27.\n'S e còir nan uile compàirt a bhith aca ann am beatha chultarail an coimhearsnachd fhein, a bhith sòlasach\nanns na h-ealain is roinn a bhith aca anns gach maitheas a shruthas bho gach adhartas saidheansail.\nTha gach neach còireach air dìon a bhith air na sochairean moralta agus saoghalta a tha a' sruthadh bho obair\nsaidheansail, litreachail neo dealbhach ris am bheil e fhein.\nBonn 28.\nTha còir aig gach neach air òrdugh sòisealta agus eadar-nàiseanta anns am bi còirichean agus saorsaidhean a'\nGhairm seo air an toirt gu buil.\nBonn 29.",
-            "Image": "c7280e3f0fd1c2e474d3a533b9496940"
+            "Text": "Tha màthaireachd agus leanabachd airidh air aire agus cuideachadh air leth. Tha gach leanabh, dìolain neo a\nchaochladh, airidh air an dìon shòisealta cheudna.\nBonn 26.\nTha foghlam na chòir do gach neach. Bithidh foghlam an asgaidh, co-dhiù aig na h-ìrean bunaiteil. Bithidh\nfoghlam bunasach sparraichte air gach neach. Bithidh foghlam teicneachail, proifeiseanta agus àrd fhoghlam\nair bonn airidheachd, co-ionnan fosgailte do na h-uile neach.\nBithidh foghlam ag amas air làn-leasachadh pearsa an duine agus a chum neartachaidh tlachd ann an\ncòirichean agus saorsan daonna. Bithidh foghlam a' brosnachadh tuigseachd, foighidinn agus càirdeas am\nmeasg dhùthchannan, am measg bhuidhnean cinneadail is cràbhach, còmhla ri a bhith a' cur air adhart\noidhirpean nan Dùthchannan Aonaichte a thaobh cumail na sìthe.\nTha còir o thùs aig pàrantan roghainn a dhèanamh den t-seòrsa foghlaim a tha freagarrach don cloinn.\nBonn 27.\n'S e còir nan uile compàirt a bhith aca ann am beatha chultarail an coimhearsnachd fhein, a bhith sòlasach\nanns na h-ealain is roinn a bhith aca anns gach maitheas a shruthas bho gach adhartas saidheansail.\nTha gach neach còireach air dìon a bhith air na sochairean moralta agus saoghalta a tha a' sruthadh bho obair\nsaidheansail, litreachail neo dealbhach ris am bheil e fhein.\nBonn 28.\nTha còir aig gach neach air òrdugh sòisealta agus eadar-nàiseanta anns am bi còirichean agus saorsaidhean a'\nGhairm seo air an toirt gu buil.\nBonn 29."
         },
         "8": {
-            "Label": "9",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "ceb65fb64fa4f56ac96a94ba0c3536aa",
             "Index": 8,
+            "Label": "9",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Tha dleasdanasan an crochadh air gach neach don choimhearsnachd sin a-mhàin anns am bheil e comasach\ndha a mhiannan pearsanta a choilionadh.\nAnn an cleachdadh a chòirichean is a shaorsaidhean bithidh gach neach umhail do gach crìch a chuireas an\nlagh air chois airson a bhith a' dèanamh cinnteach gum bi còirichean agus saorsaidhean dhaoine eile air an\ncoimhead agus bithidh e leagte ri na riatanais a tha moraltachd, rian pobaill agus maitheas coitcheann a'\ntagradh ann am poball deamocraiteach sam bith.\nChan fhaodar na còirichean agus na saorsaidhean sin a bhith air an cleachdadh air dhòigh sam bith ma tha iad\na' ruith calg-dhìreach an aghaidh thograidhean agus phrionnsabalan nan Dùthchannan Aonaichte.\nBonn 30.\nChan fhaod ni anns a' Ghairm seo a bhith air a thuigsinn mar gum biodh e a' toirt cothroim do Stàit, do\nchòmhlan neo do dhuine, còir air pàirt a ghabhail ann an gnìomh sam bith a chur an cèill, a tha a'\ncuimseachadh air a bhith a' cur à bith aon de na còirichean neo na saorsaidhean a tha sgrìobhte sìos anns a'\nGhairm seo.\nGAIRM CHOITCHEANN\nA THAOBH\nCOIRICHEAN A' CHINNE DAONNA\nAir an deicheamh latha den Dùbhlachd 1948 ghabh Comhdhail Choitcheann nan Dùthchannan Aonaichte ri,\nagus chuir iad an cèill, \"Gairm Choitcheann air còirichean A' Chinne-daonna\" aig a bheil a bhrìgh gu\nmionaideach ri fhaicinn anns na duilleagan a leanas. Mar thoradh air an achd seo chuir a' Chomhdhail\nChoitcheann impidh air gach dùthaich anns a' bhallrachd brìgh na Gairm seo \"a sgaoileadh, fhoillseachadh, a\nleughadh is a theagasg, gu h-àraidh ann an sgoiltean agus ann an àitean ionnsachaidh eile, gun eadar-",
-            "Image": "ceb65fb64fa4f56ac96a94ba0c3536aa"
+            "Text": "Tha dleasdanasan an crochadh air gach neach don choimhearsnachd sin a-mhàin anns am bheil e comasach\ndha a mhiannan pearsanta a choilionadh.\nAnn an cleachdadh a chòirichean is a shaorsaidhean bithidh gach neach umhail do gach crìch a chuireas an\nlagh air chois airson a bhith a' dèanamh cinnteach gum bi còirichean agus saorsaidhean dhaoine eile air an\ncoimhead agus bithidh e leagte ri na riatanais a tha moraltachd, rian pobaill agus maitheas coitcheann a'\ntagradh ann am poball deamocraiteach sam bith.\nChan fhaodar na còirichean agus na saorsaidhean sin a bhith air an cleachdadh air dhòigh sam bith ma tha iad\na' ruith calg-dhìreach an aghaidh thograidhean agus phrionnsabalan nan Dùthchannan Aonaichte.\nBonn 30.\nChan fhaod ni anns a' Ghairm seo a bhith air a thuigsinn mar gum biodh e a' toirt cothroim do Stàit, do\nchòmhlan neo do dhuine, còir air pàirt a ghabhail ann an gnìomh sam bith a chur an cèill, a tha a'\ncuimseachadh air a bhith a' cur à bith aon de na còirichean neo na saorsaidhean a tha sgrìobhte sìos anns a'\nGhairm seo.\nGAIRM CHOITCHEANN\nA THAOBH\nCOIRICHEAN A' CHINNE DAONNA\nAir an deicheamh latha den Dùbhlachd 1948 ghabh Comhdhail Choitcheann nan Dùthchannan Aonaichte ri,\nagus chuir iad an cèill, \"Gairm Choitcheann air còirichean A' Chinne-daonna\" aig a bheil a bhrìgh gu\nmionaideach ri fhaicinn anns na duilleagan a leanas. Mar thoradh air an achd seo chuir a' Chomhdhail\nChoitcheann impidh air gach dùthaich anns a' bhallrachd brìgh na Gairm seo \"a sgaoileadh, fhoillseachadh, a\nleughadh is a theagasg, gu h-àraidh ann an sgoiltean agus ann an àitean ionnsachaidh eile, gun eadar-"
         },
         "9": {
-            "Label": "10",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "6c1764cfedddee9e64e8c2927028dd82",
             "Index": 9,
+            "Label": "10",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "dhealachadh a bhith air a dhèanamh air bonn inbhe phoiliticeach dhùthchannan neo thìrean sam bith.",
-            "Image": "6c1764cfedddee9e64e8c2927028dd82"
+            "Text": "dhealachadh a bhith air a dhèanamh air bonn inbhe phoiliticeach dhùthchannan neo thìrean sam bith."
         }
     }
 }

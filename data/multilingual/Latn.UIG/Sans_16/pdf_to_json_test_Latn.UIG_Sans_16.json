@@ -1,133 +1,133 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581471214,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "050970e3911415b60759a62ddf2ebbfd",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "dunya kishilik hoquqi xitabnamisi\nsöz béshi\ninsanlar ailisining barliq ezalirining özige xas izzet-hörmitini shuningdek ularning barwer we tewrenmes\nhoquqini etrap qilishning dunyawi erkinlik, heqqaniyet we tinchliqning asasi ikenliki.\nkixilik hoquqigha étibarsiz qarash we haqaret kelturush ewj élip kixilerning wijdanini bulghaydighan yawuz\nzorawanliqqa aylan'ghanliqi, hemme adem söz erkinliki we étikad erkinlikidin behrimen bolidighan hemde\nwehime we namratliqtin xaliy bolidighan dunyaning yetip kélishi addiy xelqning aliy arzusi dep élan\nqilin'ghanliqi.\ninsanlarning ilajisizliqtin zorawanliq we zulum ustide isyan köturimiz dep tewekkulige heriket qilip\nyurmesliki üchün, kishilik hoquqini qanun arqiliq idare qilish yoli bilen qoghdash zörür bolghanliqi,\ndöletler ara dosttluq munasiwetning tereqqiyatini algha sürüsh zörürluki.\nbirleshken döletler teshkilatigha eza döletler xelqining birleshken döletler xartiyiside özlirining asasiy\nkishilik hoquqi, insaniy izzet-hörmiti we qedir-qimmiti shuningdek er-ayallarning barawerlik hoquqi\ntoghrisidiki eqidisini qayta tekitligenliki hemde bir qeder chong erkinlik asasida jem'iyetning yuksilishi we\nturmush derijisining yaxshilinishini algha sürüshke bel baghlighanliqi.\neza döletlerning birleshken döletler teshkilati bilen hemkarliship, kishilik hoquqi we asasiy erkinlikning\nomumyuzluq hörmetlinishi we emelge qoyulushini algha sürüsh yolida qet'iy iradige kelgenliki.\nashu hoquq we erkinlikni omumyüzlük chushinishning shu qet'iy iradining toluq emelge ashurulushigha\nmuhim tesir körsitidighanliqi.\nközde tutulghachqa, hazir",
-            "Image": "050970e3911415b60759a62ddf2ebbfd"
+            "Text": "dunya kishilik hoquqi xitabnamisi\nsöz béshi\ninsanlar ailisining barliq ezalirining özige xas izzet-hörmitini shuningdek ularning barwer we tewrenmes\nhoquqini etrap qilishning dunyawi erkinlik, heqqaniyet we tinchliqning asasi ikenliki.\nkixilik hoquqigha étibarsiz qarash we haqaret kelturush ewj élip kixilerning wijdanini bulghaydighan yawuz\nzorawanliqqa aylan'ghanliqi, hemme adem söz erkinliki we étikad erkinlikidin behrimen bolidighan hemde\nwehime we namratliqtin xaliy bolidighan dunyaning yetip kélishi addiy xelqning aliy arzusi dep élan\nqilin'ghanliqi.\ninsanlarning ilajisizliqtin zorawanliq we zulum ustide isyan köturimiz dep tewekkulige heriket qilip\nyurmesliki üchün, kishilik hoquqini qanun arqiliq idare qilish yoli bilen qoghdash zörür bolghanliqi,\ndöletler ara dosttluq munasiwetning tereqqiyatini algha sürüsh zörürluki.\nbirleshken döletler teshkilatigha eza döletler xelqining birleshken döletler xartiyiside özlirining asasiy\nkishilik hoquqi, insaniy izzet-hörmiti we qedir-qimmiti shuningdek er-ayallarning barawerlik hoquqi\ntoghrisidiki eqidisini qayta tekitligenliki hemde bir qeder chong erkinlik asasida jem'iyetning yuksilishi we\nturmush derijisining yaxshilinishini algha sürüshke bel baghlighanliqi.\neza döletlerning birleshken döletler teshkilati bilen hemkarliship, kishilik hoquqi we asasiy erkinlikning\nomumyuzluq hörmetlinishi we emelge qoyulushini algha sürüsh yolida qet'iy iradige kelgenliki.\nashu hoquq we erkinlikni omumyüzlük chushinishning shu qet'iy iradining toluq emelge ashurulushigha\nmuhim tesir körsitidighanliqi.\nközde tutulghachqa, hazir"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "57d4e3e2445c8c50d785da3d26892d6d",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "yighin,\nbarliq xelq we barliq dölet tiriship emelge ashuridighan ortaq ölchem süpitide mushu dunya kishilik hoquqi\nxitabnamisini élan qilidu. her bir adem we ijtima’iy apparatning mushu xitabnamini her daim este ching\nsaqlap, telim we terbiye arqiliq hoquq we erkinlikning hörmetlinishni tiriship algha sürüshi hemde\ndöletlerning we xelq'araning tedrijiy ilgirilesh tedbirliri arqiliq ashu hoquq we erkinlikning eza döletlerning\nözidiki xelq arisida shuningdek shu döletlerning bashqurush tewelikidiki zéminida yasaydighan xelq arisida\nomumyüzlük we unumluk étirap qilinishi we emelge qoyulushini umid qilidu:\n1-madda\nhemme adem zatidinla erkin, izzet-hörmet we hoquqta babbarawer bolup tughulghan. ular eqilghe we\nwijdan'gha ige hemde bir-birige qérindashliq munasiwitige xas roh bilen muamile qilishi kérek.\n2-madda\nhemme adem mushu xitabnamide qeyt qilin'ghan barliq hoquq we erkinliktin behrimen bolush salahiyitige\nige. ular irqi, renggi, jinsi, tili, dini, siyasiy qarishi yaki bashqa qarishi, dölet teweliki yaki ijtimaiy kélip\nchiqishi, mülki, tughulushi yaki bashqa salahiyiti jehettin qilche perqlenmeydu.\nuning ustige hemme adem ozi tewe dölet yaki zéminning siyasiy, memuriy yaki xelq'ara ornining oxshash\nbolmasliqi bilen perqlenmeydu. Bu zéminning musteqil zémin, wakaliten bashquruluwatqan zémin.\naptonomiyisiz zémin yaki bashqa herqandaq igilik hoquqigha chek qoyulghan halettiki zémin bolushidin\nqet'iynezer.\n3-madda\nhemme adem hayatliqtin, erkinliktin we jismaniy bixeterliktin behrimen bolushqa hoquqluq.\n4-madda",
-            "Image": "57d4e3e2445c8c50d785da3d26892d6d"
+            "Text": "yighin,\nbarliq xelq we barliq dölet tiriship emelge ashuridighan ortaq ölchem süpitide mushu dunya kishilik hoquqi\nxitabnamisini élan qilidu. her bir adem we ijtima’iy apparatning mushu xitabnamini her daim este ching\nsaqlap, telim we terbiye arqiliq hoquq we erkinlikning hörmetlinishni tiriship algha sürüshi hemde\ndöletlerning we xelq'araning tedrijiy ilgirilesh tedbirliri arqiliq ashu hoquq we erkinlikning eza döletlerning\nözidiki xelq arisida shuningdek shu döletlerning bashqurush tewelikidiki zéminida yasaydighan xelq arisida\nomumyüzlük we unumluk étirap qilinishi we emelge qoyulushini umid qilidu:\n1-madda\nhemme adem zatidinla erkin, izzet-hörmet we hoquqta babbarawer bolup tughulghan. ular eqilghe we\nwijdan'gha ige hemde bir-birige qérindashliq munasiwitige xas roh bilen muamile qilishi kérek.\n2-madda\nhemme adem mushu xitabnamide qeyt qilin'ghan barliq hoquq we erkinliktin behrimen bolush salahiyitige\nige. ular irqi, renggi, jinsi, tili, dini, siyasiy qarishi yaki bashqa qarishi, dölet teweliki yaki ijtimaiy kélip\nchiqishi, mülki, tughulushi yaki bashqa salahiyiti jehettin qilche perqlenmeydu.\nuning ustige hemme adem ozi tewe dölet yaki zéminning siyasiy, memuriy yaki xelq'ara ornining oxshash\nbolmasliqi bilen perqlenmeydu. Bu zéminning musteqil zémin, wakaliten bashquruluwatqan zémin.\naptonomiyisiz zémin yaki bashqa herqandaq igilik hoquqigha chek qoyulghan halettiki zémin bolushidin\nqet'iynezer.\n3-madda\nhemme adem hayatliqtin, erkinliktin we jismaniy bixeterliktin behrimen bolushqa hoquqluq.\n4-madda"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "27f24601f6a73c8c4ef3964e92a7742f",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "herqandaq ademni qul qilishqa yaki qul qatarida ishlitishke bolmaydu. herqandaq shekildiki qulluq\ntozumnimu, qullarni élip-sétishnimu men'i qilish kérek.\n5-madda\nherqandaq ademni rehimsizlik bilen qiynashqa yaki wehshiy, insaniyetsiz yaki jaqaret xaraktérlik muamilige\nyaki jazagha duchar qilishqa bolmaydu.\n6-madda\nhemme adem herqandaq jayda qanun aldidiki kishilik izzitini étirap qildurushqa hoquqluq.\n7-madda\nhemme adem qanun aldida babbarawer hemde qilche kemsitilmey, qanunning barawer qoghdishidin\nbehrimen bolushqa hoquqluq. Hemme adem mushu xitabnamige xilap herqandaq kemsitishtin we\nmushundaq kemsitishke turtke bolidighan herqandaq qilmishning ziyankeshlikdin saqlinish üchün, barawer\nqoghdashtin behrimen bolushqa hoquqluq.\n8-madda\nherqandaq adem ozining asasiy qanun yaki qanunlar bexsh etken asasiy hoquqi ziyankeshlikke uchrighanda,\nlayaqetlik dölet soti arqiliq bundaq ziyankeshlik herikitidinunumluk qutulup qélishqa hoquqluq.\n9-madda\nherqandaq ademini herqandaq shekilde qolgha élishqa, nezer bent qilishqa yaki sürgün qilishqa bolmaydu.\n10-madda\nhemme adem musteqil hem xalis sotning adil we ochuq soraq qilish bilen özining hoquqi we mejburiyitini\nmueyyenleshturushke hemde özige qoyulghan herqandaq jinayi eyibni éniqliwélishqa pütünley teng",
-            "Image": "27f24601f6a73c8c4ef3964e92a7742f"
+            "Text": "herqandaq ademni qul qilishqa yaki qul qatarida ishlitishke bolmaydu. herqandaq shekildiki qulluq\ntozumnimu, qullarni élip-sétishnimu men'i qilish kérek.\n5-madda\nherqandaq ademni rehimsizlik bilen qiynashqa yaki wehshiy, insaniyetsiz yaki jaqaret xaraktérlik muamilige\nyaki jazagha duchar qilishqa bolmaydu.\n6-madda\nhemme adem herqandaq jayda qanun aldidiki kishilik izzitini étirap qildurushqa hoquqluq.\n7-madda\nhemme adem qanun aldida babbarawer hemde qilche kemsitilmey, qanunning barawer qoghdishidin\nbehrimen bolushqa hoquqluq. Hemme adem mushu xitabnamige xilap herqandaq kemsitishtin we\nmushundaq kemsitishke turtke bolidighan herqandaq qilmishning ziyankeshlikdin saqlinish üchün, barawer\nqoghdashtin behrimen bolushqa hoquqluq.\n8-madda\nherqandaq adem ozining asasiy qanun yaki qanunlar bexsh etken asasiy hoquqi ziyankeshlikke uchrighanda,\nlayaqetlik dölet soti arqiliq bundaq ziyankeshlik herikitidinunumluk qutulup qélishqa hoquqluq.\n9-madda\nherqandaq ademini herqandaq shekilde qolgha élishqa, nezer bent qilishqa yaki sürgün qilishqa bolmaydu.\n10-madda\nhemme adem musteqil hem xalis sotning adil we ochuq soraq qilish bilen özining hoquqi we mejburiyitini\nmueyyenleshturushke hemde özige qoyulghan herqandaq jinayi eyibni éniqliwélishqa pütünley teng"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "406731070847f16935d85e0938798e7e",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "hoquqluq.\n11-madda\njinayi ishlar bilen erz qilin'ghanliki adem aqlash jehette lazimliq barliq kapaletke érishken ashkara sotta\njinayiti barliqi qanun boyiche delillengiche gunahsiz dep qarilisqa hoquqluq.\nherqandaq ademning herqandaq qilmishi yaki qilmishsizliqi sadir bolghan waqtida dölet qanuni yaki xelq'ara\nqanun boyiche jinayi ishlar jinayitini shekillendurmigen bolsa, jinayi ishlar jinayitini ötküzgen dep höküm\nchiqirishqa bolmaydu. jinayi jaza jinayet ötküzgende tetbiq qilindighan qanundiki belgilimilerdikidin\néghirlitiwétilse bolmaydu.\n12-madda\nherqandaq ademning xususiy turmushigha, ailisige, turalghu jayigha we xet-alaqisige xalighanche\narilishiwélishqa bolmaydu. Uning sheni we shöhritige hujum qilishqa bolmaydu. bundaq arilishishtin yaki\nhujumdin saqlinish üchün, hemme adem qanunning qoghdishidin behrimen bolushqa hoquqluq.\n13-madda\nhemme adem herqaysi döletlerning zéminida erkin kochushke we olturaqlishishqa hoquqluq.\nhemme adem herqandaq dölettin kétishke, jomlidin öz döletidin kétishke hoquqluq hemde özining dölitige\nqaytip kélishke hoquqluq.\n14-madda\nhemme adem ziyankeshliktin saqlinish üchün, bashqa döletlerde panah tileshke we panahlinishqa hoquqluq.\nheqiqeten gheyriy siyasiy jinayet yaki birleshken döletler teshkilatning asasiy meqsiti we prinsipigha xilap\nqilmish bilen eyiblengen ehwal astida, bundaq hoquqtin paydilinishqa bolmaydu.",
-            "Image": "406731070847f16935d85e0938798e7e"
+            "Text": "hoquqluq.\n11-madda\njinayi ishlar bilen erz qilin'ghanliki adem aqlash jehette lazimliq barliq kapaletke érishken ashkara sotta\njinayiti barliqi qanun boyiche delillengiche gunahsiz dep qarilisqa hoquqluq.\nherqandaq ademning herqandaq qilmishi yaki qilmishsizliqi sadir bolghan waqtida dölet qanuni yaki xelq'ara\nqanun boyiche jinayi ishlar jinayitini shekillendurmigen bolsa, jinayi ishlar jinayitini ötküzgen dep höküm\nchiqirishqa bolmaydu. jinayi jaza jinayet ötküzgende tetbiq qilindighan qanundiki belgilimilerdikidin\néghirlitiwétilse bolmaydu.\n12-madda\nherqandaq ademning xususiy turmushigha, ailisige, turalghu jayigha we xet-alaqisige xalighanche\narilishiwélishqa bolmaydu. Uning sheni we shöhritige hujum qilishqa bolmaydu. bundaq arilishishtin yaki\nhujumdin saqlinish üchün, hemme adem qanunning qoghdishidin behrimen bolushqa hoquqluq.\n13-madda\nhemme adem herqaysi döletlerning zéminida erkin kochushke we olturaqlishishqa hoquqluq.\nhemme adem herqandaq dölettin kétishke, jomlidin öz döletidin kétishke hoquqluq hemde özining dölitige\nqaytip kélishke hoquqluq.\n14-madda\nhemme adem ziyankeshliktin saqlinish üchün, bashqa döletlerde panah tileshke we panahlinishqa hoquqluq.\nheqiqeten gheyriy siyasiy jinayet yaki birleshken döletler teshkilatning asasiy meqsiti we prinsipigha xilap\nqilmish bilen eyiblengen ehwal astida, bundaq hoquqtin paydilinishqa bolmaydu."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "e8e371a50e807eb3275ea140dc364540",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "15-madda\nhemme adem dölet tewelikidin behrimen bolushqa hoquqluq.\nherqandaq ademni dölet tewelikidin xalighanche mehrum qilishqa bolmaydu. uning dölet tewelikini\nözgertish hoquqini inkar qilishqimu bolmaydu.\n16-madda\nyash qoramigha yetken er-ayallar irq. dölet teweliki we din jehettin herqandaq cheklimige uchrimay,\ntoylishishqa we öy tutushqa hoquqluq. Ular nikah jehette, toy qilghan mezgilde we nikah toxtimi bikar\nqilin'ghanda, barawer hoquqqa ige bolushi kérek.\ner terep bilen ayal terepning ixtiyar qilishi we tamamen maqul bolushi arqisidila toy qilishqa bolidu.\naile tebiiy we asasiy ijtimaiy birlik, u jem'iyet we dölet terpidin qoghdilishqa tégishlik.\n17-madda\nhemme ademning mülükke ongche igidarliq qilish hoquqi shuningdek bashqilar bilen shérikliship igidarliq\nqilish hoquqi bolushi kérek.\nherqandaq ademni mal-mülükidin xalighanche mehrum qilishqa bolmaydu.\n18-madda\nhemme adem idiyiwi, wijdaniy we diniy erkinlik hoquqigha ige: bu hoquq shu ademning özining dinini yaki\nétiqadini özgertish erkinlikni shuningdek özining dini yaki étiqadini diniy éqide, emeliyet, namaz-ibadet we\nemrimerup arqiliq yalghuz yaki öm, ashkara yaki mexpiy ipadilesh erkinlikni öz ichige alidu.\n19-madda",
-            "Image": "e8e371a50e807eb3275ea140dc364540"
+            "Text": "15-madda\nhemme adem dölet tewelikidin behrimen bolushqa hoquqluq.\nherqandaq ademni dölet tewelikidin xalighanche mehrum qilishqa bolmaydu. uning dölet tewelikini\nözgertish hoquqini inkar qilishqimu bolmaydu.\n16-madda\nyash qoramigha yetken er-ayallar irq. dölet teweliki we din jehettin herqandaq cheklimige uchrimay,\ntoylishishqa we öy tutushqa hoquqluq. Ular nikah jehette, toy qilghan mezgilde we nikah toxtimi bikar\nqilin'ghanda, barawer hoquqqa ige bolushi kérek.\ner terep bilen ayal terepning ixtiyar qilishi we tamamen maqul bolushi arqisidila toy qilishqa bolidu.\naile tebiiy we asasiy ijtimaiy birlik, u jem'iyet we dölet terpidin qoghdilishqa tégishlik.\n17-madda\nhemme ademning mülükke ongche igidarliq qilish hoquqi shuningdek bashqilar bilen shérikliship igidarliq\nqilish hoquqi bolushi kérek.\nherqandaq ademni mal-mülükidin xalighanche mehrum qilishqa bolmaydu.\n18-madda\nhemme adem idiyiwi, wijdaniy we diniy erkinlik hoquqigha ige: bu hoquq shu ademning özining dinini yaki\nétiqadini özgertish erkinlikni shuningdek özining dini yaki étiqadini diniy éqide, emeliyet, namaz-ibadet we\nemrimerup arqiliq yalghuz yaki öm, ashkara yaki mexpiy ipadilesh erkinlikni öz ichige alidu.\n19-madda"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "0e23f4bb2900d6bc8bd1b5d9c32650dc",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "hemme adem öz teshebbusini bildrush we pikir bayan qilish erkinlikidin behrimen bolushqa hoquqluq: bu\nhoquq mudaxilige uchrimay öz teshebbusini saqlap qélish erkinlikini we uchur hem pikirlerni herqandaq\nwaste arqiliq we dölet ayrimisigha qarimay izdesh, qobul qilish we tarqitish erkinlikini öz ichige alidu.\n20-madda\nhemme adem tinch yol bilen yighin ötküzüsh we teshkilatlargha oyushush erkinlikidin behrimen bolushqa\nhoquqluq.\nherqandaq ademni melum bir teshkilatning tewelikige otushke zorlashqa bolmaydu.\n21-madda\nhemme adem döletni idare qilishqa özi biwaste qatnishish yaki özi erkin tallighan wekili arqiliq qatnishish\nhoquqigha ige.\nhemme adem öz dölitining hökümet ishlirigha barawer purset bilen qatnishish hoquqigha ige.\nxelqning iradisi hökümet hoquqining asasi: bu irade qerellik we heqiqiy saylam bilen ipadilinishi kérek.\nsaylam omumyüzlük we barawer awaz bérish hoquqigha asaslinishi hemde yoshurun awaz bérish yaki\nobdanla erkin awaz bérish boyiche élip bérilishi kérek.\n22-madda\nher bir adem jem'iyetning bir ezasi bolush süpiti bilen, ijtimaiy kapalettin behrimen bolushqa hoquqluq\nhemde özining shexsiy izzet-hörmiti we kishilik ghururining erkin rawajlinishi üchün zörür bolghan\niqtisadiy, ijtimaiy jehettiki we medeniyet jehettiki her xil hoquqlardin behrimen bolushni emelge ashurushqa\nhoquqluq. bu emelge ashurush döletning tirishchanliqi we xelq'ara hemkarliq arqiliq hemde herqaysi\ndöletlerning teshkilati we bayliq ehwali boyiche bolidu.",
-            "Image": "0e23f4bb2900d6bc8bd1b5d9c32650dc"
+            "Text": "hemme adem öz teshebbusini bildrush we pikir bayan qilish erkinlikidin behrimen bolushqa hoquqluq: bu\nhoquq mudaxilige uchrimay öz teshebbusini saqlap qélish erkinlikini we uchur hem pikirlerni herqandaq\nwaste arqiliq we dölet ayrimisigha qarimay izdesh, qobul qilish we tarqitish erkinlikini öz ichige alidu.\n20-madda\nhemme adem tinch yol bilen yighin ötküzüsh we teshkilatlargha oyushush erkinlikidin behrimen bolushqa\nhoquqluq.\nherqandaq ademni melum bir teshkilatning tewelikige otushke zorlashqa bolmaydu.\n21-madda\nhemme adem döletni idare qilishqa özi biwaste qatnishish yaki özi erkin tallighan wekili arqiliq qatnishish\nhoquqigha ige.\nhemme adem öz dölitining hökümet ishlirigha barawer purset bilen qatnishish hoquqigha ige.\nxelqning iradisi hökümet hoquqining asasi: bu irade qerellik we heqiqiy saylam bilen ipadilinishi kérek.\nsaylam omumyüzlük we barawer awaz bérish hoquqigha asaslinishi hemde yoshurun awaz bérish yaki\nobdanla erkin awaz bérish boyiche élip bérilishi kérek.\n22-madda\nher bir adem jem'iyetning bir ezasi bolush süpiti bilen, ijtimaiy kapalettin behrimen bolushqa hoquqluq\nhemde özining shexsiy izzet-hörmiti we kishilik ghururining erkin rawajlinishi üchün zörür bolghan\niqtisadiy, ijtimaiy jehettiki we medeniyet jehettiki her xil hoquqlardin behrimen bolushni emelge ashurushqa\nhoquqluq. bu emelge ashurush döletning tirishchanliqi we xelq'ara hemkarliq arqiliq hemde herqaysi\ndöletlerning teshkilati we bayliq ehwali boyiche bolidu."
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "116bb8006f85e941a4cfa0fd25933472",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "23-madda\nhemme adem ishleshke, erkinkesip tallashqa, adil we muwapiq xizmet sharaitidin behrimen bolushqa hemde\nishsiz qélishtin saqlinish kapalitidin behrimen bolushqa hoquqluq.\nhemme adem herqandaq shekilde kemsitilmey, oxshash ish üchün oxshash heq élish hoquqigha ige.\nishligen ademning her biri adil we muwapiq heqtin behrimen bolushqa, özining we aile tawabiatining insaniy\nizzet-hörmetke layiq turmush sharaitigha ige bolushini kapaletke ige qilishqa, zörür tepilghanda. uninggha\nbashqa ijtimaiy kapaletni qoshumche qilishqa hoquqluq.\nhemme adem özining menpeitini qoghdash üchün, ishchilar uyushmisini teshkillesh we uninggha qatnishish\nhoquqigha ige.\n24-madda\nhemme adem dem élish we bikar yürüsh hoquqidin, jumlidin ish waqtining chekini eqilge\nmuwapiqlashturush hemde qerellik, maashliq dem élish hoquqidin behrimen bolidu.\n25-madda\nhemme adem ozining we aile tawabiatining salametliki we parawanliqini kapaletke ige qilish üchün zörür\nbolghan turmush sewiyisidin, jumlidin yémeklik, kiyim-kéchek, turalghu öy, dawalinishtin we zörür ijtimaiy\nmulazimetchiliktinbehrimen bolush hoquqigha ige: ishsiz qalghanda, késel bolup qalghanda, mejruh bolup\nqalghanda, tul qalghanda, qerighanda yaki tizginligili bolmaydighan bashqa ehwal bilen tirikchilik iqtidarini\nyoqatqanda, kapalettin behrimen bolushqa hoquqluq.\nanilar we balilar alahide étibardin we yardemdin behrimen bolushqa hoquqluq. barliq balilar nikahliq yaki\nnikahsiz tughulghanliqigha qarimay, okhshash ijtimaiy muhapizettin behrimen bolushqa tégishlik.",
-            "Image": "116bb8006f85e941a4cfa0fd25933472"
+            "Text": "23-madda\nhemme adem ishleshke, erkinkesip tallashqa, adil we muwapiq xizmet sharaitidin behrimen bolushqa hemde\nishsiz qélishtin saqlinish kapalitidin behrimen bolushqa hoquqluq.\nhemme adem herqandaq shekilde kemsitilmey, oxshash ish üchün oxshash heq élish hoquqigha ige.\nishligen ademning her biri adil we muwapiq heqtin behrimen bolushqa, özining we aile tawabiatining insaniy\nizzet-hörmetke layiq turmush sharaitigha ige bolushini kapaletke ige qilishqa, zörür tepilghanda. uninggha\nbashqa ijtimaiy kapaletni qoshumche qilishqa hoquqluq.\nhemme adem özining menpeitini qoghdash üchün, ishchilar uyushmisini teshkillesh we uninggha qatnishish\nhoquqigha ige.\n24-madda\nhemme adem dem élish we bikar yürüsh hoquqidin, jumlidin ish waqtining chekini eqilge\nmuwapiqlashturush hemde qerellik, maashliq dem élish hoquqidin behrimen bolidu.\n25-madda\nhemme adem ozining we aile tawabiatining salametliki we parawanliqini kapaletke ige qilish üchün zörür\nbolghan turmush sewiyisidin, jumlidin yémeklik, kiyim-kéchek, turalghu öy, dawalinishtin we zörür ijtimaiy\nmulazimetchiliktinbehrimen bolush hoquqigha ige: ishsiz qalghanda, késel bolup qalghanda, mejruh bolup\nqalghanda, tul qalghanda, qerighanda yaki tizginligili bolmaydighan bashqa ehwal bilen tirikchilik iqtidarini\nyoqatqanda, kapalettin behrimen bolushqa hoquqluq.\nanilar we balilar alahide étibardin we yardemdin behrimen bolushqa hoquqluq. barliq balilar nikahliq yaki\nnikahsiz tughulghanliqigha qarimay, okhshash ijtimaiy muhapizettin behrimen bolushqa tégishlik."
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "c2ddb866c8ec33e4be078b7b84e8b198",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "26-madda\nhemme adem bilim élish hoquqigha ige. bilim élish heqsiz bolushi kérek. héch bolmighanda, bashlan'ghuch\nwe asasiy basquchta shundaq bolushi kérek. bashlanghuch ma'arip mejburiyet xaraktérida bolushi kérek.\ntéxnika ma'aripi we kespiy ma'aripni omumyüzlük tesis qilish kérek. aliy ma'aripning ishikini netijige qarap\nbarliq kishilerge teng echiwétish kérek.\nma'aripning meqsiti ademning xasliqini toluq yétildurush hemde kishilik hoquqi we asasiy erkinlikke\nbolghan hörmetni kücheytish. ma'arip herqaysi döletler, irqlar, yaki herqaysi diniy guruhlar ara chushinishni,\nyol qoyushni we dostluqtin ilgiri sürüshi hemde birleshken döletler teshkilatining tinchliqni qoghdash\nyolidiki turluk paaliyetlirini algha sürüshi kérek.\nata-anilar perzentlirining élishqa tégishlik bilim turlirini awwal tallash hoquqigha ige.\n27-madda\nhemme adem jem'iyetning medeniy turmushigha erkin qatniship, sen'ettin behrimen bolushqa hemde ilim-\npen tereqqiyatidin we uningdin hasil bolghan parawanliqtin teng behrimen bolushqa hoquqluq.\nhemme adem özi ijad qilghan ilmiy, bed'iy eserlerdin we guzel sen'et eserliridin hasil bolghan meniwi we\nmaddiy menpe'et munasiwiti bilen, qoghdilish hoquqigha ige.\n28-madda\nhemme adem mushu xitabnamide qeyt qilinghan hoquq we erkinlikning toluq ré'allishishigha imkan\nbéridighan bir xil ijtimaiy we xelq'ara tertipni telep qilishqa hoquqluq.\n29-madda\nhemme adem jem'iyet aldida mejburiyetni üstige alghan bolidu. chünki, ularning xasliqi jem'iyet ichidila",
-            "Image": "c2ddb866c8ec33e4be078b7b84e8b198"
+            "Text": "26-madda\nhemme adem bilim élish hoquqigha ige. bilim élish heqsiz bolushi kérek. héch bolmighanda, bashlan'ghuch\nwe asasiy basquchta shundaq bolushi kérek. bashlanghuch ma'arip mejburiyet xaraktérida bolushi kérek.\ntéxnika ma'aripi we kespiy ma'aripni omumyüzlük tesis qilish kérek. aliy ma'aripning ishikini netijige qarap\nbarliq kishilerge teng echiwétish kérek.\nma'aripning meqsiti ademning xasliqini toluq yétildurush hemde kishilik hoquqi we asasiy erkinlikke\nbolghan hörmetni kücheytish. ma'arip herqaysi döletler, irqlar, yaki herqaysi diniy guruhlar ara chushinishni,\nyol qoyushni we dostluqtin ilgiri sürüshi hemde birleshken döletler teshkilatining tinchliqni qoghdash\nyolidiki turluk paaliyetlirini algha sürüshi kérek.\nata-anilar perzentlirining élishqa tégishlik bilim turlirini awwal tallash hoquqigha ige.\n27-madda\nhemme adem jem'iyetning medeniy turmushigha erkin qatniship, sen'ettin behrimen bolushqa hemde ilim-\npen tereqqiyatidin we uningdin hasil bolghan parawanliqtin teng behrimen bolushqa hoquqluq.\nhemme adem özi ijad qilghan ilmiy, bed'iy eserlerdin we guzel sen'et eserliridin hasil bolghan meniwi we\nmaddiy menpe'et munasiwiti bilen, qoghdilish hoquqigha ige.\n28-madda\nhemme adem mushu xitabnamide qeyt qilinghan hoquq we erkinlikning toluq ré'allishishigha imkan\nbéridighan bir xil ijtimaiy we xelq'ara tertipni telep qilishqa hoquqluq.\n29-madda\nhemme adem jem'iyet aldida mejburiyetni üstige alghan bolidu. chünki, ularning xasliqi jem'iyet ichidila"
         },
         "8": {
-            "Label": "9",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "ef57734e9fa18cc02b31b6d03e67514f",
             "Index": 8,
+            "Label": "9",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "erkin we toluq rawaj tapalaydu.\nhemme adem özining hoquqi we erkinlikini yürgüzgende, qanunda belgilengen cheklimigila uchraydu.\nbundaq cheklimini belgileshtiki birdinbir meqset bashqilarning hoquqi we erkinlikining tégishlik derijide\nétirap qilinishi we hörmet qilinishigha kapaletlik qilish hemde demokratik jem'iyette exlaq. jamaet tertipi we\nomumiy parawanliqning orunluq éhtiyajigha layqlishish.\nashu hoquq we erkinliklerni yürgüzgende, herqandaq ehwalda birleshken döletler teshkilatning asasiy\nmeqsiti we prinsipigha xilapliq qilishqa bolmaydu.\n30-madda\nbu xitabnamining herqandaq bir maddisini herqandaq dölet, guruh yaki shexs mushu xitabnamide qeyt\nqilinghan herqandaq hoquq we erkinlikni buzush meqsitidiki pa'aliyet yaki heriketlerni élip bérishqa\nhoquqluq dep sukut qilidighan menide chushendurushke bolmaydu.",
-            "Image": "ef57734e9fa18cc02b31b6d03e67514f"
+            "Text": "erkin we toluq rawaj tapalaydu.\nhemme adem özining hoquqi we erkinlikini yürgüzgende, qanunda belgilengen cheklimigila uchraydu.\nbundaq cheklimini belgileshtiki birdinbir meqset bashqilarning hoquqi we erkinlikining tégishlik derijide\nétirap qilinishi we hörmet qilinishigha kapaletlik qilish hemde demokratik jem'iyette exlaq. jamaet tertipi we\nomumiy parawanliqning orunluq éhtiyajigha layqlishish.\nashu hoquq we erkinliklerni yürgüzgende, herqandaq ehwalda birleshken döletler teshkilatning asasiy\nmeqsiti we prinsipigha xilapliq qilishqa bolmaydu.\n30-madda\nbu xitabnamining herqandaq bir maddisini herqandaq dölet, guruh yaki shexs mushu xitabnamide qeyt\nqilinghan herqandaq hoquq we erkinlikni buzush meqsitidiki pa'aliyet yaki heriketlerni élip bérishqa\nhoquqluq dep sukut qilidighan menide chushendurushke bolmaydu."
         }
     }
 }

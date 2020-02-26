@@ -1,158 +1,158 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581469550,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "a544a724a9a4f833dec142a8a49bb35c",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "SAN SEJKAJ TLALI TLAKAMEJ MOPALEUIAJ\nIpan majtlaktli itekij diciembre meetstli tlen naui tsontli, kaxtoli uan ome pouali uan chikueyi xiuitl (1948) ni\nUeyi Nechikolistli tlen San Sejkaj Tlalnechikoli Tlakamej Mopaleuianij kinemilij uan kiixneextij ni\nTLAJTOLNEMILISTLI TLEN MOIJTOJTOK PARA MA KUALI TIMOUIKAKAJ IPAN NI\nTLALTIPAKTLI. Ni Ueyi Nechikolistli kinijlij nochi ni tlali tlen tlatskitokej ipan ni\nTLAJTOLNEMILISTLI ma mosesemoyaua para ma kimatikaj nochi tlakamej uan nochi siuamej ni\nTLAJTOLNEMILISTLI, ma kiixpouakaj uan ma kipouakaj ika ininuampoyouaj ne kaltlamachtiloyaj iuan\nnojkia san kampa ueli monechikouaj.\nTLAJTOLNEMILISTLI TLEN MOIJTOJTOK PARA MA KUALI TIMOUIKAKAJ IPAN NI\nTLALTIPAKTLI\nKENKE YOLKI NI TLAJTOLI\nYolki, pampa ni tlatepanitalotl, ni tlasenkauajkayotl iuan ni kuali nemilistli ipan ni tlalpan, yaya ni moneki\nmoixmatis uan monemilis, ijkinoj nochi kuali tiitstosej ika touampoyouaj.\nPampa tlaj amo tikixmatij tlatepanitalistli uan tlen kuali nemilistli ipan ni tlalpan, yeka onkatok kualantli,\nonkatok tlateuilistli, onkatok majmajtli uan sekinok tlamantli teixpanolistli; yeka moneki ma kuali\ntimouikakaj ika nochi touampoyouaj, ma amo onkaj majmajyotl uan teixpanolistli; moneki ma onkaj\nyejyektlalistli, ma titlajtlajtokaj uan ma tijneltokakaj tlen tojuantij tijnekij tijneltokasej uan amo tlen ma\ntopanti, kenke, pampa tijnekij ma onkaj tlatepanitalistli.\nPampa ni tlatepanitalotl moneki ma tiyejyekokaj, ma tijchiuakaj uan ma tijmanauikaj; ma nojkia kiixmatikaj\ntekiuajtinij, uejueyij tekiuajtinij, ijkinoj amo onkas nopeka se akajya touampoj san tlen ueli kinekis\ntechchiuilis, technauatis, kinekis technauatis ma tijchiuakaj se tlamantli tlen amo kuali; yeka ni tlatepanitalotl\ntlauel moneki ipan tonemilis ni tlalpan.",
-            "Image": "a544a724a9a4f833dec142a8a49bb35c"
+            "Text": "SAN SEJKAJ TLALI TLAKAMEJ MOPALEUIAJ\nIpan majtlaktli itekij diciembre meetstli tlen naui tsontli, kaxtoli uan ome pouali uan chikueyi xiuitl (1948) ni\nUeyi Nechikolistli tlen San Sejkaj Tlalnechikoli Tlakamej Mopaleuianij kinemilij uan kiixneextij ni\nTLAJTOLNEMILISTLI TLEN MOIJTOJTOK PARA MA KUALI TIMOUIKAKAJ IPAN NI\nTLALTIPAKTLI. Ni Ueyi Nechikolistli kinijlij nochi ni tlali tlen tlatskitokej ipan ni\nTLAJTOLNEMILISTLI ma mosesemoyaua para ma kimatikaj nochi tlakamej uan nochi siuamej ni\nTLAJTOLNEMILISTLI, ma kiixpouakaj uan ma kipouakaj ika ininuampoyouaj ne kaltlamachtiloyaj iuan\nnojkia san kampa ueli monechikouaj.\nTLAJTOLNEMILISTLI TLEN MOIJTOJTOK PARA MA KUALI TIMOUIKAKAJ IPAN NI\nTLALTIPAKTLI\nKENKE YOLKI NI TLAJTOLI\nYolki, pampa ni tlatepanitalotl, ni tlasenkauajkayotl iuan ni kuali nemilistli ipan ni tlalpan, yaya ni moneki\nmoixmatis uan monemilis, ijkinoj nochi kuali tiitstosej ika touampoyouaj.\nPampa tlaj amo tikixmatij tlatepanitalistli uan tlen kuali nemilistli ipan ni tlalpan, yeka onkatok kualantli,\nonkatok tlateuilistli, onkatok majmajtli uan sekinok tlamantli teixpanolistli; yeka moneki ma kuali\ntimouikakaj ika nochi touampoyouaj, ma amo onkaj majmajyotl uan teixpanolistli; moneki ma onkaj\nyejyektlalistli, ma titlajtlajtokaj uan ma tijneltokakaj tlen tojuantij tijnekij tijneltokasej uan amo tlen ma\ntopanti, kenke, pampa tijnekij ma onkaj tlatepanitalistli.\nPampa ni tlatepanitalotl moneki ma tiyejyekokaj, ma tijchiuakaj uan ma tijmanauikaj; ma nojkia kiixmatikaj\ntekiuajtinij, uejueyij tekiuajtinij, ijkinoj amo onkas nopeka se akajya touampoj san tlen ueli kinekis\ntechchiuilis, technauatis, kinekis technauatis ma tijchiuakaj se tlamantli tlen amo kuali; yeka ni tlatepanitalotl\ntlauel moneki ipan tonemilis ni tlalpan."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "214839493a8b6d4cfc136d7697a1b4f5",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Pampa nojkia tlauel moneki ma kuali timouikakaj, ma tielikaj keuak tiiknimej, nochi tlen tlakamej uan\nsiuamej tlen tiitstokej ni tlalpan.\nPampa ni Ueyi Nechikolistli tlen San Sejkaj Tlalnechikoli Tlakamej Mopaleuianij ijkinoj kiijtojtokej ipan ni\nUeyi Amatlanauatilnemilistli, melauak ueli onkaj ni tlatepanitalotl ika nochi touampoyouaj, yeka\nmonelsemakatokej kiixnextisej para ma momati ni tlajtoli, ijkinoj nelia mostla uiptla kuali tiitstosej ika nochi\ntouampoyouaj ni tlalpan.\nPampa ni Tlajtolnemilistli kimatij nochi tlaltipaktli tlakamej uan siuamej tlen san sejko monejchikojtokej\nmopaleuisej, uan yeka tlauel kuali ma nochi touampoyouaj ma kimatikaj tlen totechpoui tijchiuasej uan\ntijnemilisej ni tlalpan.\nPampa ni Ueyi tlanauatili moneki ma melauak moneltoka uan ma mochiua.\nNI UEYI NECHIKOLISTLI\nKiijtoua ma monemili uan ma mochiua ni TLALTOLNEMILISTLI TLEN MOIJTOJTOK PARA MA\nKUALI TIMOUIKAKAJ IPAN NI TLALTIPAKTLI kampa nochi tlakamej uan siuamej ni tlalpan ma\nkineltokakaj tlatepanitalistli, nojkia tekiuajtinij ma tlatepanitakaj; tlaj kej ni timouikasej uan kej ni\ntijnemilijtiasej kuali titekitisej ika nochi touampoyouaj ipan ni tlaltipaktli, uaajka kuali tiitstosej ika pakilistli.\n1. Tlen se tlanauatili kiijtoua:\nNochi tlakamej uan siuamej kipiaj manoj kuali tlakatisej, nochi san se totlatechpouiltilis uan\ntitlatepanitalojkej, yeka moneki kuali ma timouikakaj, ma timoiknelikaj, ma timotlasojtlakaj uan ma\ntimotlepanitakaj.\n2. Tlen ome tlanauatili kiijtoua:\nNochi tlakamej uan siuamej miak tlamantli intechpoui tlen moneki kiixmatisej uan kinemilisej; maseualmej",
-            "Image": "214839493a8b6d4cfc136d7697a1b4f5"
+            "Text": "Pampa nojkia tlauel moneki ma kuali timouikakaj, ma tielikaj keuak tiiknimej, nochi tlen tlakamej uan\nsiuamej tlen tiitstokej ni tlalpan.\nPampa ni Ueyi Nechikolistli tlen San Sejkaj Tlalnechikoli Tlakamej Mopaleuianij ijkinoj kiijtojtokej ipan ni\nUeyi Amatlanauatilnemilistli, melauak ueli onkaj ni tlatepanitalotl ika nochi touampoyouaj, yeka\nmonelsemakatokej kiixnextisej para ma momati ni tlajtoli, ijkinoj nelia mostla uiptla kuali tiitstosej ika nochi\ntouampoyouaj ni tlalpan.\nPampa ni Tlajtolnemilistli kimatij nochi tlaltipaktli tlakamej uan siuamej tlen san sejko monejchikojtokej\nmopaleuisej, uan yeka tlauel kuali ma nochi touampoyouaj ma kimatikaj tlen totechpoui tijchiuasej uan\ntijnemilisej ni tlalpan.\nPampa ni Ueyi tlanauatili moneki ma melauak moneltoka uan ma mochiua.\nNI UEYI NECHIKOLISTLI\nKiijtoua ma monemili uan ma mochiua ni TLALTOLNEMILISTLI TLEN MOIJTOJTOK PARA MA\nKUALI TIMOUIKAKAJ IPAN NI TLALTIPAKTLI kampa nochi tlakamej uan siuamej ni tlalpan ma\nkineltokakaj tlatepanitalistli, nojkia tekiuajtinij ma tlatepanitakaj; tlaj kej ni timouikasej uan kej ni\ntijnemilijtiasej kuali titekitisej ika nochi touampoyouaj ipan ni tlaltipaktli, uaajka kuali tiitstosej ika pakilistli.\n1. Tlen se tlanauatili kiijtoua:\nNochi tlakamej uan siuamej kipiaj manoj kuali tlakatisej, nochi san se totlatechpouiltilis uan\ntitlatepanitalojkej, yeka moneki kuali ma timouikakaj, ma timoiknelikaj, ma timotlasojtlakaj uan ma\ntimotlepanitakaj.\n2. Tlen ome tlanauatili kiijtoua:\nNochi tlakamej uan siuamej miak tlamantli intechpoui tlen moneki kiixmatisej uan kinemilisej; maseualmej"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "bec2f82f87fd113c0eeff32d35e583a0",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "uan koyomej tlen nikaj euanij uan tlen anali uejka euanij, nojkia kipiaj tlamantli tlen intechpoui, mejkatsaj\ntlajtlajtouaj seyok sanili, mejkatsaj ipan seyok tlamantli toteotsij ipan tlatskitokej, seyok tlajtolkuamachilistli\nipan tlatskitokej o seyok tlamantli tlajlamikilistli ipan tlatskitokej; kipiaj o axkipiaj tomij, nochi\ntitlatepanitalojkej; nochi moneki timotlepanitasej, timoiknelisej uan timotlasojtlasej.\n3.Tlen eyi tlanauatili kiijtoua:\nNochi tlakamej uan siuamej kipiaj manoj kuali itstosej, amo akaj ma se kinixpano, kipiaj manoj nemisej\nkampa inijuantij kinekisej uan amo uelis tlen impantis.\n4.Tlen naui tlanauatili kiijtoua:\nAmo onkaj manoj ma se akajya tomimpixketl tlanauatijketl techtekiuis ipan se tekitl uan axtechtlaxtlauis, ni\ntlamantli uejkaya polijki, xolejki. Tlaj kej ni topanti, ma nimantsij tijtlateiluikaj nopa tepasolojketl ika\nuejueyij tekiuajtinij tlen kampa tochinanko o topilaltepej ontlatskitok. Uan tlaj nikaj amo techchiuaj kuentaj,\nuaajka ma tiomoteiluikaj ika sekinok achi mas uejueyij tlanauatianij.\n5. Tlen makuili tlanauatili kiijtoua:\nAmo onkaj manoj ma se akajya techtlatsakuilti para ma tikijtokaj o ma tijchiuakaj se tleueli tlamantli tlen\namo tijnekij tikijtosej pampa amo melauak.\n6. Tlen chikuasej tlanauatili kiijtoua:\nNochi tojuantij tijpiaj manoj, san kampa tijnekisej uelis tiasej, uelis tipaxalotij san kampa tojuantij tijnekisej,\npampa kenke, pampa timajkajtokej; axonkaj manoj nopeka se akajya techtilanas, techitskis uan techtsakuas,\npampa nopeka tiompaxalouaj; yeka moneki ma techtlepanitakaj uan nojkia tojuantij titlatepanitasej kampa\ntinemij.\n7. Tlen chikome tlanauatili kiijtoua:",
-            "Image": "bec2f82f87fd113c0eeff32d35e583a0"
+            "Text": "uan koyomej tlen nikaj euanij uan tlen anali uejka euanij, nojkia kipiaj tlamantli tlen intechpoui, mejkatsaj\ntlajtlajtouaj seyok sanili, mejkatsaj ipan seyok tlamantli toteotsij ipan tlatskitokej, seyok tlajtolkuamachilistli\nipan tlatskitokej o seyok tlamantli tlajlamikilistli ipan tlatskitokej; kipiaj o axkipiaj tomij, nochi\ntitlatepanitalojkej; nochi moneki timotlepanitasej, timoiknelisej uan timotlasojtlasej.\n3.Tlen eyi tlanauatili kiijtoua:\nNochi tlakamej uan siuamej kipiaj manoj kuali itstosej, amo akaj ma se kinixpano, kipiaj manoj nemisej\nkampa inijuantij kinekisej uan amo uelis tlen impantis.\n4.Tlen naui tlanauatili kiijtoua:\nAmo onkaj manoj ma se akajya tomimpixketl tlanauatijketl techtekiuis ipan se tekitl uan axtechtlaxtlauis, ni\ntlamantli uejkaya polijki, xolejki. Tlaj kej ni topanti, ma nimantsij tijtlateiluikaj nopa tepasolojketl ika\nuejueyij tekiuajtinij tlen kampa tochinanko o topilaltepej ontlatskitok. Uan tlaj nikaj amo techchiuaj kuentaj,\nuaajka ma tiomoteiluikaj ika sekinok achi mas uejueyij tlanauatianij.\n5. Tlen makuili tlanauatili kiijtoua:\nAmo onkaj manoj ma se akajya techtlatsakuilti para ma tikijtokaj o ma tijchiuakaj se tleueli tlamantli tlen\namo tijnekij tikijtosej pampa amo melauak.\n6. Tlen chikuasej tlanauatili kiijtoua:\nNochi tojuantij tijpiaj manoj, san kampa tijnekisej uelis tiasej, uelis tipaxalotij san kampa tojuantij tijnekisej,\npampa kenke, pampa timajkajtokej; axonkaj manoj nopeka se akajya techtilanas, techitskis uan techtsakuas,\npampa nopeka tiompaxalouaj; yeka moneki ma techtlepanitakaj uan nojkia tojuantij titlatepanitasej kampa\ntinemij.\n7. Tlen chikome tlanauatili kiijtoua:"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "5de69b48f2fe00201381d9b1c4da57de",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Nochi tijpiaj manoj ma techpaleui uan ma tijtlepanitakaj tlanauatili. Tlaj se akajya tijtlepanitaj uan ya amo\ntechtlepanita, moneki ma tijmatiltikaj totekiuaj para ma kikualtlali nopa tekipacholi.\n8. Tlen chikueyi tlanauatili kiijtoua:\nNochi tlakamej o siuamej kipiaj manoj ma kimpaleuikaj tekiuajtinij kemaj kintlakuapechiliaj ika se tlajtoli,\nika se istlakayotl sekinokej touampoyouaj, Amatlanauatili yaya ni nojkia kiixtlaltok.\n9. Tlen chiknaui tlanauatili kiijtoua:\nAmo onkaj manoj ma se kitsakuilikaj, kiitskikaj ipan ichaj o ma kitotokakaj kampa ya eua o tlakatki; tlaj\namo kiyolmelauaj kenke ika se amatekiuajtlajkuiloli.\n10. Tlen majtlaktli tlanauatili kiijtoua:\nNochi tijpiaj manoj ma techkakikaj uan ma kuali techsenkauakaj tekiuajtinij kemaj tijpiaj se kualantli o\ntekipacholi iuaya seyok touampoj.\n11. Tlen majtlaktli uan se tlanauatili kiijtoua:\nTlaj se akajya touampoj kiteiluijtokej ika se tekiuaj, pampa moijtoua kipia se tlajtlakoli, nopa tlajtlakolej\nkipia manoj momanauis ya asta kemaj melauak kiasisej itlajtlakol uaajka kena kitlatsakuiltis tekiuaj ika tlen\ntlamantli kiijtoua Amatlanauatili.\nNojkia, axuelis namaj se touampoj kitlatsakuiltisej tlaj nopa tlajtlakoli tlen kichijki panojka uejkajkia uan\nnopa Amatlanauatili tlen namaj moijita yankuik uan yeka amo kiixneuiyaya nopa tlajtoli ipan nopa kauitl (\ntiempo) kemaj kichijki nopa tlajtlakoli.\n12. Tlen majtlaktli uan ome tlanauatili kiijtoua:\nAmo ueli se akajya techixpanos, techtlamantliijlis ika tlajtoli tlen amo kuali; axonkaj manoj ma se akajya",
-            "Image": "5de69b48f2fe00201381d9b1c4da57de"
+            "Text": "Nochi tijpiaj manoj ma techpaleui uan ma tijtlepanitakaj tlanauatili. Tlaj se akajya tijtlepanitaj uan ya amo\ntechtlepanita, moneki ma tijmatiltikaj totekiuaj para ma kikualtlali nopa tekipacholi.\n8. Tlen chikueyi tlanauatili kiijtoua:\nNochi tlakamej o siuamej kipiaj manoj ma kimpaleuikaj tekiuajtinij kemaj kintlakuapechiliaj ika se tlajtoli,\nika se istlakayotl sekinokej touampoyouaj, Amatlanauatili yaya ni nojkia kiixtlaltok.\n9. Tlen chiknaui tlanauatili kiijtoua:\nAmo onkaj manoj ma se kitsakuilikaj, kiitskikaj ipan ichaj o ma kitotokakaj kampa ya eua o tlakatki; tlaj\namo kiyolmelauaj kenke ika se amatekiuajtlajkuiloli.\n10. Tlen majtlaktli tlanauatili kiijtoua:\nNochi tijpiaj manoj ma techkakikaj uan ma kuali techsenkauakaj tekiuajtinij kemaj tijpiaj se kualantli o\ntekipacholi iuaya seyok touampoj.\n11. Tlen majtlaktli uan se tlanauatili kiijtoua:\nTlaj se akajya touampoj kiteiluijtokej ika se tekiuaj, pampa moijtoua kipia se tlajtlakoli, nopa tlajtlakolej\nkipia manoj momanauis ya asta kemaj melauak kiasisej itlajtlakol uaajka kena kitlatsakuiltis tekiuaj ika tlen\ntlamantli kiijtoua Amatlanauatili.\nNojkia, axuelis namaj se touampoj kitlatsakuiltisej tlaj nopa tlajtlakoli tlen kichijki panojka uejkajkia uan\nnopa Amatlanauatili tlen namaj moijita yankuik uan yeka amo kiixneuiyaya nopa tlajtoli ipan nopa kauitl (\ntiempo) kemaj kichijki nopa tlajtlakoli.\n12. Tlen majtlaktli uan ome tlanauatili kiijtoua:\nAmo ueli se akajya techixpanos, techtlamantliijlis ika tlajtoli tlen amo kuali; axonkaj manoj ma se akajya"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "a389826610353e1881c049e88f863245",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "techtsajtsiliti kampa timochantlaliaj, uan axonkaj manoj se akajya kiixtlapos se amatlajkuiloli tlen amo iaxka\nuan tlaj amo ualaj para ya kipouas, tlaj amo ualaj para ya ika itookaj imako asiki. Tlaj se akajya kej ni\nmomakas manoj kichiuas, axtlatepanitas, uaajka ma tijteiluikaj ika tekiuaj para ma kitlatsakuiltikaj.\n13. Tlen majtlaktli uan eyi tlanauatili kiijtoua:\nNochi tojuantij tijpiaj manoj tipaxalosej san kampa tijnekij, tiasej uajka para titlaixmatitij tipaxalotij, uan tlaj\ntijnekij ika totlaxtlauil uelis timochantlalitij san kampa tojuantij tijkualitaj. Uan tlaj tijnekij sampa\ntimokuapasej kampa titlakatijkej ueli tijchiuaj.\nAmo akaj uelis techtotoka, san kena melauak ma tikinmatiltikaj tekiuajtinij para timokuapkejya uan\ntikinijlisej kuali tiitstosej ika nochi touampoyouaj uan amo tikinixpanosej.\n14. Tlen majtlaktli uan naui tlanauatili kiijtoua:\nTlaj se akajya tlajtlakolchijtejki kampa itstoya o kampa nemiyaya uan kiteemouaj tekiuajmej kinekij\nkiitskisej, uelis mochololtis, yas uejka; pero kipia manoj tlajtlanis kampa asiti ma kimanauikaj nopa sekinok\ntekiuajtinij tlen anali euanij tlen nopa seyok tlali (otro país) .\nTlaj amo tlauel ueyi tlajtlakoli kichijteejki, amo onkaj manoj kinotsasej o kikuitij tekiuajtinij kampa itstok,\npara kitlatsakuiltisej.\n15. Tlen kaxtoli tlanauatili kiijtoua:\nNochi tojuantij tijpiaj manoj tijpiasej se amatl kampa ixnesis itookaj tochinanko o topilaltepej kampa\ntitlakatijkej. Ni toamaj amo akaj ueli techkuilia.\nNojkia tijpiaj manoj tijpatlasej toamaj tlaj tijnekij tikijtosej titlakatinij ipan seyok anali tlali ( otro país), pero\nnopa amatl moneki tijkixtitij ipan nopa anali tlali.",
-            "Image": "a389826610353e1881c049e88f863245"
+            "Text": "techtsajtsiliti kampa timochantlaliaj, uan axonkaj manoj se akajya kiixtlapos se amatlajkuiloli tlen amo iaxka\nuan tlaj amo ualaj para ya kipouas, tlaj amo ualaj para ya ika itookaj imako asiki. Tlaj se akajya kej ni\nmomakas manoj kichiuas, axtlatepanitas, uaajka ma tijteiluikaj ika tekiuaj para ma kitlatsakuiltikaj.\n13. Tlen majtlaktli uan eyi tlanauatili kiijtoua:\nNochi tojuantij tijpiaj manoj tipaxalosej san kampa tijnekij, tiasej uajka para titlaixmatitij tipaxalotij, uan tlaj\ntijnekij ika totlaxtlauil uelis timochantlalitij san kampa tojuantij tijkualitaj. Uan tlaj tijnekij sampa\ntimokuapasej kampa titlakatijkej ueli tijchiuaj.\nAmo akaj uelis techtotoka, san kena melauak ma tikinmatiltikaj tekiuajtinij para timokuapkejya uan\ntikinijlisej kuali tiitstosej ika nochi touampoyouaj uan amo tikinixpanosej.\n14. Tlen majtlaktli uan naui tlanauatili kiijtoua:\nTlaj se akajya tlajtlakolchijtejki kampa itstoya o kampa nemiyaya uan kiteemouaj tekiuajmej kinekij\nkiitskisej, uelis mochololtis, yas uejka; pero kipia manoj tlajtlanis kampa asiti ma kimanauikaj nopa sekinok\ntekiuajtinij tlen anali euanij tlen nopa seyok tlali (otro país) .\nTlaj amo tlauel ueyi tlajtlakoli kichijteejki, amo onkaj manoj kinotsasej o kikuitij tekiuajtinij kampa itstok,\npara kitlatsakuiltisej.\n15. Tlen kaxtoli tlanauatili kiijtoua:\nNochi tojuantij tijpiaj manoj tijpiasej se amatl kampa ixnesis itookaj tochinanko o topilaltepej kampa\ntitlakatijkej. Ni toamaj amo akaj ueli techkuilia.\nNojkia tijpiaj manoj tijpatlasej toamaj tlaj tijnekij tikijtosej titlakatinij ipan seyok anali tlali ( otro país), pero\nnopa amatl moneki tijkixtitij ipan nopa anali tlali."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "67358e9f0f61e7419c4060eebb4719fa",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "16. Tlen kaxtoli uan se tlanauatili kiijtoua:\nNochi touampoyouaj tlaj tlakamejya o siuamejya, kipiaj manoj ma monamiktikajya iuan ma\nmochantlalikajya; amatlanauatili kimpaleuia ma kuali mouikakaj ipan ininchaj, ipan intekij uan sekijnok\ntlamantli. Amatlanauatili nojkia kimpaleuia tlaj kinekij mopasolmanasej o mokauasnekij pampa onkaj se\nueyi tekipacholi.\nUelis monamiktisej tlaj tlakatl uan siuatl ika iniyolo kinekij san sejko itstosej uan motekitilisej, amo onkaj\nmanoj ma se akajya kinnauati ma monamiktikaj.\nKemaj monamiktiaj, nopa tlakatl uan nopa siuatl kipiaj manoj ma kintlachili uan ma kinonmajto nopa\ntekiuajkemej kampa altepetl ontlatskitokej, pampa kemaj onkaj se tekipacholi ipan nopa altepetl,\ntekiuajkemej kinnotsa para ma yakaj tlapaleuitij.\n17. Tlen kaxtoli uan ome tlanauatili kiijtoua:\nNochi tijpiaj manoj tijpiasej se tleueli uan tikijtosej toaxka, uan nojkia tijpiaj manoj tikijtosej se tleueli\nkomonaxkatl.\nAmo onkaj manoj se akajya ma techkuili o techkixtilis se tleueli tlen amo iaxka.\n18. Tlen kaxtoli uan eyi tlanauatili kiijtoua:\nNochi tijpiaj manoj ma tijpiakaj uan ma tikijtokaj totlajlamikilis, uan nojkia tijpiaj manoj tijneltokasej\ntoteotsitsij san tlen tojuantij tijnekisej uan tlaj tijnekisej tijpatlaj totlaneltokayo ika seyok toteotsij o\ntoteotsitsij nojkia tijpiaj manoj tijchiuaj. Uan nojkia tijpiaj manoj tijneextisej o titemachtisej toseselti o ika\ntimiakij nopa tlen toteotsij totlaneltokayo. San moneki amo ma tikinixpanokaj nopa sekijnok touampoyouaj.\nYeka tlauel moneki ma timotlepanitakaj, para ijkinoj kuali tiitstosej uan tinemisej ipan ni tlaltipaktli.\n19. Tlen kaxtoli uan naui tlanauatili kiijtoua:",
-            "Image": "67358e9f0f61e7419c4060eebb4719fa"
+            "Text": "16. Tlen kaxtoli uan se tlanauatili kiijtoua:\nNochi touampoyouaj tlaj tlakamejya o siuamejya, kipiaj manoj ma monamiktikajya iuan ma\nmochantlalikajya; amatlanauatili kimpaleuia ma kuali mouikakaj ipan ininchaj, ipan intekij uan sekijnok\ntlamantli. Amatlanauatili nojkia kimpaleuia tlaj kinekij mopasolmanasej o mokauasnekij pampa onkaj se\nueyi tekipacholi.\nUelis monamiktisej tlaj tlakatl uan siuatl ika iniyolo kinekij san sejko itstosej uan motekitilisej, amo onkaj\nmanoj ma se akajya kinnauati ma monamiktikaj.\nKemaj monamiktiaj, nopa tlakatl uan nopa siuatl kipiaj manoj ma kintlachili uan ma kinonmajto nopa\ntekiuajkemej kampa altepetl ontlatskitokej, pampa kemaj onkaj se tekipacholi ipan nopa altepetl,\ntekiuajkemej kinnotsa para ma yakaj tlapaleuitij.\n17. Tlen kaxtoli uan ome tlanauatili kiijtoua:\nNochi tijpiaj manoj tijpiasej se tleueli uan tikijtosej toaxka, uan nojkia tijpiaj manoj tikijtosej se tleueli\nkomonaxkatl.\nAmo onkaj manoj se akajya ma techkuili o techkixtilis se tleueli tlen amo iaxka.\n18. Tlen kaxtoli uan eyi tlanauatili kiijtoua:\nNochi tijpiaj manoj ma tijpiakaj uan ma tikijtokaj totlajlamikilis, uan nojkia tijpiaj manoj tijneltokasej\ntoteotsitsij san tlen tojuantij tijnekisej uan tlaj tijnekisej tijpatlaj totlaneltokayo ika seyok toteotsij o\ntoteotsitsij nojkia tijpiaj manoj tijchiuaj. Uan nojkia tijpiaj manoj tijneextisej o titemachtisej toseselti o ika\ntimiakij nopa tlen toteotsij totlaneltokayo. San moneki amo ma tikinixpanokaj nopa sekijnok touampoyouaj.\nYeka tlauel moneki ma timotlepanitakaj, para ijkinoj kuali tiitstosej uan tinemisej ipan ni tlaltipaktli.\n19. Tlen kaxtoli uan naui tlanauatili kiijtoua:"
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "5f6d272e980a6306c61ef6ecc19cc358",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Amo akaj uelis techkamatsakuas, para amo tlen ma tikijtokaj, nochi tojuantij tijpiaj manoj tikonijtosej nojkia\nse tlajtoli ipan tochaj o ipan se nechikolistli, tekiuaj axuelis techtlatsakuiltis pampa tikonijtojkej se tlajtoli\ntlen sekinokej amo kikualitaj. Uan axonkaj manoj nopeka se akajya ma techijlamiktiaj o techistlakatitiaj ika\nsekinokej tlen tlajtoli tikonijtojkej. Yeka moneki ma ika kuali tikonijtokaj nopa tlajtoli, para ijkinoj amo\ntimokualankateemosej.\n20. Tlen sempouali tlanauatili kiijtoua:\nNochi tijpiaj manoj timonechikosej para timoijlisej se tlajtoli, uan nojkia tijpiaj manoj tijyolitisej se\nNechikolistli kampa onkas tlajtoli uan tekitl; san moneki amo ma titeixpanokaj ika sekinokej touampoyouaj,\nmoneki nochipaj ma titlatepanitakaj.\nAmo onkaj manoj se akajya touampoj technauatis ma titlatskikaj o ma tikalakikaj kampa se Nechikolistli tlen\namo tijkualitaj.\n21.Tlen sempouali uan se tlanauatili kiijtoua:\nNochi tojuantij tijpiaj manoj tijpaleuisej toueyi tekiuaj Mexijko eua o tlaj axtle, uelis tijteemosej se akajya\npara ya ma techixneexti tijpaleuiaj.\nNochi tojuantij timaseualmej tijpiaj manoj nojkia tiasitij, kej sekij koyomej onasij, ipan se ueyi\ntlanauatijkayotl para titekitisej.\nTlaj se akajya onneli tekiuaj, nopa pampa nochi tlakamej uan siuamej tlen se chinanko o pilaltepetsij\nkitekimakakej; yeka nochipaj kemaj se akajya motekiuajtlalis, moneki nochi tlen nopa pilaltepetsij euanij ma\nkiijtokaj tlaj melauak yaya inoj touampoj technauatis ika tlajtoli uan ika tekitl ma tijchiuakaj. Ma kiijtokaj\ntlaj nelia yaya nopa touampoj kuali techuikatias uan techyekantias; tlaj kuali tlakatl, tlaj tekitiketl uan tlaj\ntlatepanitaketl.",
-            "Image": "5f6d272e980a6306c61ef6ecc19cc358"
+            "Text": "Amo akaj uelis techkamatsakuas, para amo tlen ma tikijtokaj, nochi tojuantij tijpiaj manoj tikonijtosej nojkia\nse tlajtoli ipan tochaj o ipan se nechikolistli, tekiuaj axuelis techtlatsakuiltis pampa tikonijtojkej se tlajtoli\ntlen sekinokej amo kikualitaj. Uan axonkaj manoj nopeka se akajya ma techijlamiktiaj o techistlakatitiaj ika\nsekinokej tlen tlajtoli tikonijtojkej. Yeka moneki ma ika kuali tikonijtokaj nopa tlajtoli, para ijkinoj amo\ntimokualankateemosej.\n20. Tlen sempouali tlanauatili kiijtoua:\nNochi tijpiaj manoj timonechikosej para timoijlisej se tlajtoli, uan nojkia tijpiaj manoj tijyolitisej se\nNechikolistli kampa onkas tlajtoli uan tekitl; san moneki amo ma titeixpanokaj ika sekinokej touampoyouaj,\nmoneki nochipaj ma titlatepanitakaj.\nAmo onkaj manoj se akajya touampoj technauatis ma titlatskikaj o ma tikalakikaj kampa se Nechikolistli tlen\namo tijkualitaj.\n21.Tlen sempouali uan se tlanauatili kiijtoua:\nNochi tojuantij tijpiaj manoj tijpaleuisej toueyi tekiuaj Mexijko eua o tlaj axtle, uelis tijteemosej se akajya\npara ya ma techixneexti tijpaleuiaj.\nNochi tojuantij timaseualmej tijpiaj manoj nojkia tiasitij, kej sekij koyomej onasij, ipan se ueyi\ntlanauatijkayotl para titekitisej.\nTlaj se akajya onneli tekiuaj, nopa pampa nochi tlakamej uan siuamej tlen se chinanko o pilaltepetsij\nkitekimakakej; yeka nochipaj kemaj se akajya motekiuajtlalis, moneki nochi tlen nopa pilaltepetsij euanij ma\nkiijtokaj tlaj melauak yaya inoj touampoj technauatis ika tlajtoli uan ika tekitl ma tijchiuakaj. Ma kiijtokaj\ntlaj nelia yaya nopa touampoj kuali techuikatias uan techyekantias; tlaj kuali tlakatl, tlaj tekitiketl uan tlaj\ntlatepanitaketl."
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "57c20fa4cc7f5b09682bef8941bd2e6f",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "22. Tlen sempouali uan ome tlanauatili kiijtoua:\nNochi tijpiaj manoj ma timomokuitlauikaj uan nopeka tlaj tijchiua se tekitl tlen amo totechpoui o\nmotechpoui, moneki ma techtlaxtlauikaj, uejueyij tekiuajtinij tlanauatianij intechpoui techpaleuisej, para\ntokoneuaj ma kipiakaj tlen kikuasej, tlen mokentisej yoyomitl uan tlen ika mopajtisej tlaj nopeka se\nkokolistli; ijkinoj nelia kuali moiskaltisej uan ika itekiyo kiueyitilisej ni toMexijko tlali.\n23. Tlen sempouali uan eyi tlanauatili kiijtoua:\nNochi tojuantij tijpiaj manoj titekitisej, nojkia tijpiaj manoj timoteemolisej se tekitl tlen tijkualitaj tijchiuasej.\nUan kemaj amo onkaj tekitl, uelis tikitatij toueyi tekiuaj kampa tlatskitok tochinanko o topilaltepej para ma\ntechpaleui techteemolis tekitl, ijkinoj onkas tlen mokentisej, kikuasej uan mopajtisej topilkoneuaj.\nNochi tijpiaj manoj ma kuali techtlaxtlauikaj kemaj titechiuiliaj se tekitl, amo pampa timaseualmej san tlen\nkinekisej techchiuilisej koyomej o sekijnok touampoyouaj tominpianij. Yeka moneki ma tikijtokaj ika\ntetilistli, ... ma kuali techtlaxtlauikaj.\nKemaj akajya tikompaleuiaj ika se tekitl, moneki ma kuali techtlaxtlaui, para kuali kiaxilis tikintlamakasej,\ntikinyoyonkouisej uan tikimpajtisej tokoneuaj uan totiskaj tonamik.\nNochi titekitinij tijpiaj manoj tijyolitisej se Nechikolistli, para uelis sansejko timomanauiaj kemaj Tekojtli\nkinekis techixpetlas, kinekis techkajkayauas uan amo kinekis kuali techtlaxtlauis.\n24. Tlen sempouali uan naui tlanauatili kiijtoua:\nNochi tijpiaj manoj timosiajkauasej kemaj titlankejya tijchiuaj se tekitl, kemaj tisemiluitijkejya; uan tlaj\ntitekitij ika se ueyi tekojtli, moneki nojkia techtlaxtlauis kemaj timosiajkauasej axtitekitij se ome tonatij\n(vacaciones).\n25. Tlen sempouali uan makuili tlanauatili kiijtoua:",
-            "Image": "57c20fa4cc7f5b09682bef8941bd2e6f"
+            "Text": "22. Tlen sempouali uan ome tlanauatili kiijtoua:\nNochi tijpiaj manoj ma timomokuitlauikaj uan nopeka tlaj tijchiua se tekitl tlen amo totechpoui o\nmotechpoui, moneki ma techtlaxtlauikaj, uejueyij tekiuajtinij tlanauatianij intechpoui techpaleuisej, para\ntokoneuaj ma kipiakaj tlen kikuasej, tlen mokentisej yoyomitl uan tlen ika mopajtisej tlaj nopeka se\nkokolistli; ijkinoj nelia kuali moiskaltisej uan ika itekiyo kiueyitilisej ni toMexijko tlali.\n23. Tlen sempouali uan eyi tlanauatili kiijtoua:\nNochi tojuantij tijpiaj manoj titekitisej, nojkia tijpiaj manoj timoteemolisej se tekitl tlen tijkualitaj tijchiuasej.\nUan kemaj amo onkaj tekitl, uelis tikitatij toueyi tekiuaj kampa tlatskitok tochinanko o topilaltepej para ma\ntechpaleui techteemolis tekitl, ijkinoj onkas tlen mokentisej, kikuasej uan mopajtisej topilkoneuaj.\nNochi tijpiaj manoj ma kuali techtlaxtlauikaj kemaj titechiuiliaj se tekitl, amo pampa timaseualmej san tlen\nkinekisej techchiuilisej koyomej o sekijnok touampoyouaj tominpianij. Yeka moneki ma tikijtokaj ika\ntetilistli, ... ma kuali techtlaxtlauikaj.\nKemaj akajya tikompaleuiaj ika se tekitl, moneki ma kuali techtlaxtlaui, para kuali kiaxilis tikintlamakasej,\ntikinyoyonkouisej uan tikimpajtisej tokoneuaj uan totiskaj tonamik.\nNochi titekitinij tijpiaj manoj tijyolitisej se Nechikolistli, para uelis sansejko timomanauiaj kemaj Tekojtli\nkinekis techixpetlas, kinekis techkajkayauas uan amo kinekis kuali techtlaxtlauis.\n24. Tlen sempouali uan naui tlanauatili kiijtoua:\nNochi tijpiaj manoj timosiajkauasej kemaj titlankejya tijchiuaj se tekitl, kemaj tisemiluitijkejya; uan tlaj\ntitekitij ika se ueyi tekojtli, moneki nojkia techtlaxtlauis kemaj timosiajkauasej axtitekitij se ome tonatij\n(vacaciones).\n25. Tlen sempouali uan makuili tlanauatili kiijtoua:"
         },
         "8": {
-            "Label": "9",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "e1f3ef25caa08118deed2f5da3300de4",
             "Index": 8,
+            "Label": "9",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Nochi tijpiaj manoj totekiuaj tlen kampa ontlatskitok tochinanko o toaltepej, ma kinejnemili ika sekijnok\nuejueyij tlanauatianij para ma tijpiakaj tojuantij tlapaleuilistli; ma nojkia techijlikaj kenijkatsaj timouikatiasej\nika iuaya tonamik, iniuaya tokoneuaj, kenijkatsaj timopajtisej kemaj onkaj se kokolistli, ajkia ixtlamatijketl\ntepajtiani uelis techpajtis uan techkaxanis para kuali tichikajtosej tiyoltosej; kenijkatsaj timotlakualtisej,\ntimotlakentisej, timochantisej uan sekijnok tlamantli tlen tlauel moneki totekiuajkaj ma nojkia kinemilikaj\ntechpaleuiaj. Uan nojkia ma techpaleuikaj kemaj amo tijpiaj ika tlen timopanoltisej, kemaj tlauel\ntimokokouaj, kemaj ayok ueli titekitij pampa tijpolojkej ika tekitl se tomaj o ome tomaj, se toikxi, se toixtiol\no seyok tlamantli tlen totlakayo; tekiuajmej kipiaj manoj ma kitejteemolikaj kenijkatsaj uelis techpaleuisej\nkemaj ayok ueli titekitij uan ayok ueli timopanoltiaj, nojkia ma techpaleuikaj uejueyij tekiuajmej\ntimopanoltisej kemaj ayok tijpiaj tonamik, nojkia kemaj ayok tiuelij titekitij pampa tiueuenkalajkejya o\ntitenankalajkejya ma techpaleui totekiuaj timopanoltijtiasej.\nKemaj se siuatl konepia, kipia manoj totekiuaj ma kipaleui nopa siuatl uan nopa ipilkonej, ma kititlani\ntekiuaj nopa siuatl kampa uelis kipaleuisej kuali konepiati uan no kiijlisej kenijkatsaj kimokuitlauis ipilkonej.\nNochi konemej kipiaj manoj toueyi tekiuaj kimpaleuis para ma kuali moskaltikaj.\n26. Tlen sempouali uan chikuasej tlanauatili kiijtoua:\nNochi tijpiaj manoj tiasej timomachtitij kaltlamachtiloyaj. Ni tlamachtilistli tlauel moneki para ma yakaj\ntokoneuaj ma momachtitij. Kemaj tokoneuaj uelijya kuali tlaixpouaj uan tlajkuilouaj, uan kentsij\nixtlamatijya, tlaj intatauaj uelij kimpaleuiaj para achi kentsij mas ma momachtikaj, uelis kintitlanisej ipan\nseyok kaltlamachtiloyan kampa achi tlejkotok tlamachtilistli para ma uejueyij ixtlamatinij mochiuakaj; pero\nkena nojkia uelis intatauaj kitlajtlanisej ueyi tekiuaj ma kimpaleui ika tlaxtlauili para ma kuali kitokilikaj\ntlamachtilistli nopa telpokamej o ichpokamej.\nTlaj tikinixpouaj amochtinij ( libros ), tlaj timomachtiaj, uaajka tijkuij tlajlamikilistli, para tiixtlaposej,\nijkinoj uelis, titlatepanitasej uan titetlasojtlasej san kampa ueli tiasej uan nojkia techtlepanitasej uan",
-            "Image": "e1f3ef25caa08118deed2f5da3300de4"
+            "Text": "Nochi tijpiaj manoj totekiuaj tlen kampa ontlatskitok tochinanko o toaltepej, ma kinejnemili ika sekijnok\nuejueyij tlanauatianij para ma tijpiakaj tojuantij tlapaleuilistli; ma nojkia techijlikaj kenijkatsaj timouikatiasej\nika iuaya tonamik, iniuaya tokoneuaj, kenijkatsaj timopajtisej kemaj onkaj se kokolistli, ajkia ixtlamatijketl\ntepajtiani uelis techpajtis uan techkaxanis para kuali tichikajtosej tiyoltosej; kenijkatsaj timotlakualtisej,\ntimotlakentisej, timochantisej uan sekijnok tlamantli tlen tlauel moneki totekiuajkaj ma nojkia kinemilikaj\ntechpaleuiaj. Uan nojkia ma techpaleuikaj kemaj amo tijpiaj ika tlen timopanoltisej, kemaj tlauel\ntimokokouaj, kemaj ayok ueli titekitij pampa tijpolojkej ika tekitl se tomaj o ome tomaj, se toikxi, se toixtiol\no seyok tlamantli tlen totlakayo; tekiuajmej kipiaj manoj ma kitejteemolikaj kenijkatsaj uelis techpaleuisej\nkemaj ayok ueli titekitij uan ayok ueli timopanoltiaj, nojkia ma techpaleuikaj uejueyij tekiuajmej\ntimopanoltisej kemaj ayok tijpiaj tonamik, nojkia kemaj ayok tiuelij titekitij pampa tiueuenkalajkejya o\ntitenankalajkejya ma techpaleui totekiuaj timopanoltijtiasej.\nKemaj se siuatl konepia, kipia manoj totekiuaj ma kipaleui nopa siuatl uan nopa ipilkonej, ma kititlani\ntekiuaj nopa siuatl kampa uelis kipaleuisej kuali konepiati uan no kiijlisej kenijkatsaj kimokuitlauis ipilkonej.\nNochi konemej kipiaj manoj toueyi tekiuaj kimpaleuis para ma kuali moskaltikaj.\n26. Tlen sempouali uan chikuasej tlanauatili kiijtoua:\nNochi tijpiaj manoj tiasej timomachtitij kaltlamachtiloyaj. Ni tlamachtilistli tlauel moneki para ma yakaj\ntokoneuaj ma momachtitij. Kemaj tokoneuaj uelijya kuali tlaixpouaj uan tlajkuilouaj, uan kentsij\nixtlamatijya, tlaj intatauaj uelij kimpaleuiaj para achi kentsij mas ma momachtikaj, uelis kintitlanisej ipan\nseyok kaltlamachtiloyan kampa achi tlejkotok tlamachtilistli para ma uejueyij ixtlamatinij mochiuakaj; pero\nkena nojkia uelis intatauaj kitlajtlanisej ueyi tekiuaj ma kimpaleui ika tlaxtlauili para ma kuali kitokilikaj\ntlamachtilistli nopa telpokamej o ichpokamej.\nTlaj tikinixpouaj amochtinij ( libros ), tlaj timomachtiaj, uaajka tijkuij tlajlamikilistli, para tiixtlaposej,\nijkinoj uelis, titlatepanitasej uan titetlasojtlasej san kampa ueli tiasej uan nojkia techtlepanitasej uan"
         },
         "9": {
-            "Label": "10",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "aa7c27ad379a46b9d6ece08fc7de8066",
             "Index": 9,
+            "Label": "10",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "techtlesojtlasej touampoyouaj tlen nikaj uan tlen sejkanok tlali anali euanij; ijkinoj kuali uan san\ntiyolpaktosej tiitstosej ni tlalpan.\nKonemej intatauaj kipiaj manoj kintlajlamiktisej inkojkoneuaj kenijkatsaj ma momachtikaj uan kenijkatsaj\ntlatepanitasej uan tetlasojtlasej.\n27. Tlen sempouali uan chikome tlanauatili kiijtoua:\nNochi tojuantij tijpiaj manoj ma tiyejyektlalikaj tochinanko o topilaltepej ika kuali tlamachtilistli, kampa\nnochi tiuelisej se tleueli tiyejyekosej tijchiuasej, para tijkualtilisej uan tijkualtlalisej tochinanko o topilaltepej.\nNochi tojuantij tijpiaj manoj titekitisej para tijkualtilisej uan tijkualtlalisej tochinanko o topilaltepej kampa\ntieuanij. Tlaj se tleueli yankuik tlajtoli, nemilistli o tlachiualistli tijyolitiaj, nopa tlen tijyolitijtokej toaxka,\naxkanaj ueli se akajya techkuilia, axkanaj ueli se akajya tlen amo kiyolitijtok ueli moaxkatia. Yeka se tleueli\nkuanejnemilistli tlen moyolitia ipan tochinanko o topilaltepej, nopa inaxka ankij tekitikej kiyolitisej.\n28. Tlen sempouali uan chikueyi tlanauatili kiijtoua:\nNochi tojuantij tijpiaj manoj ma tikinmatiltikaj nochi tlen ni Mexijko tlali euanij uan tlen anali tlali euanij\n(otros países), para nojuaj tiitstokej, nojuaj tiyoltokej, ni timaseualmej tinauatlajtouanij; uan yeka moneki\nmelauak ma techtlepanitakaj para ijkinoj tojuantij nojkia titletepanitasej uan tikintlasojtlasej sekijnok\ntouampoyouaj.\n29. Tlen sempouali uan chiknaui tlanauatili kiijtoua:\nNochi tojuantij tijpiaj manoj uan totechpoui tijkualtlalisej uan tiyejyektlalisej tochinanko o topilaltepej\nkampa mojmostlaj tiitstokej, pampa nopa tekitl tlen tijchiuasej techixneextis tlaj melauak titekitinij uan tlaj\nmelauak tijpiaj kuali toyolo ika touampoyouaj tlen nopaya nojkia tlaijyouiaj.\nNochi tlajtoli kipia kampa peua uan kipia kampa tlami, axueli se akajya san tlauel mokajkalakis ika se tleueli",
-            "Image": "aa7c27ad379a46b9d6ece08fc7de8066"
+            "Text": "techtlesojtlasej touampoyouaj tlen nikaj uan tlen sejkanok tlali anali euanij; ijkinoj kuali uan san\ntiyolpaktosej tiitstosej ni tlalpan.\nKonemej intatauaj kipiaj manoj kintlajlamiktisej inkojkoneuaj kenijkatsaj ma momachtikaj uan kenijkatsaj\ntlatepanitasej uan tetlasojtlasej.\n27. Tlen sempouali uan chikome tlanauatili kiijtoua:\nNochi tojuantij tijpiaj manoj ma tiyejyektlalikaj tochinanko o topilaltepej ika kuali tlamachtilistli, kampa\nnochi tiuelisej se tleueli tiyejyekosej tijchiuasej, para tijkualtilisej uan tijkualtlalisej tochinanko o topilaltepej.\nNochi tojuantij tijpiaj manoj titekitisej para tijkualtilisej uan tijkualtlalisej tochinanko o topilaltepej kampa\ntieuanij. Tlaj se tleueli yankuik tlajtoli, nemilistli o tlachiualistli tijyolitiaj, nopa tlen tijyolitijtokej toaxka,\naxkanaj ueli se akajya techkuilia, axkanaj ueli se akajya tlen amo kiyolitijtok ueli moaxkatia. Yeka se tleueli\nkuanejnemilistli tlen moyolitia ipan tochinanko o topilaltepej, nopa inaxka ankij tekitikej kiyolitisej.\n28. Tlen sempouali uan chikueyi tlanauatili kiijtoua:\nNochi tojuantij tijpiaj manoj ma tikinmatiltikaj nochi tlen ni Mexijko tlali euanij uan tlen anali tlali euanij\n(otros países), para nojuaj tiitstokej, nojuaj tiyoltokej, ni timaseualmej tinauatlajtouanij; uan yeka moneki\nmelauak ma techtlepanitakaj para ijkinoj tojuantij nojkia titletepanitasej uan tikintlasojtlasej sekijnok\ntouampoyouaj.\n29. Tlen sempouali uan chiknaui tlanauatili kiijtoua:\nNochi tojuantij tijpiaj manoj uan totechpoui tijkualtlalisej uan tiyejyektlalisej tochinanko o topilaltepej\nkampa mojmostlaj tiitstokej, pampa nopa tekitl tlen tijchiuasej techixneextis tlaj melauak titekitinij uan tlaj\nmelauak tijpiaj kuali toyolo ika touampoyouaj tlen nopaya nojkia tlaijyouiaj.\nNochi tlajtoli kipia kampa peua uan kipia kampa tlami, axueli se akajya san tlauel mokajkalakis ika se tleueli"
         },
         "10": {
-            "Label": "11",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "84fb4c7de98d20f728277dd6c1008a92",
             "Index": 10,
+            "Label": "11",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "tlamantli, yeka onkaj tekiuaj para ya ma tlakualtlali. Ijkinoj nesis para melauak titlatepanitaj uan melauak\nnojkia titetlasojtlaj.\nYeka moneki ma kuali tikixpouakaj uan ma kuali tijkuamachilikaj ni Ueyi Amatlanauatili tlen itookaj:\"\nTLAJTOLNEMILISTLI TLEN MOIJTOJTOK PARA MA KUALI TIMOUIKAKAJ IPAN NI\nTLALTIPAKTLI\"\n30. Tlen sempouali uan majtlaktli tlanauatili kiijtoua:\nNochi tlen moijtojtok ipan ni Ueyi Amatlanauatili tlen ni \"TLAJTOLNEMILISTLI TLEN MOIJTOJTOK\nPARA MA KUALI TIMOUIKAKAJ IPAN NI TLALTIPAKTLI\", amo akaj uelis kixoleuas, amo akaj uelis\nkitlaatis, amo akaj uelis kiixpolos. Moneki ma mochiua uan ma monemili ni Ueyi Tlanauatili, pampa tlaj\nmelauak tijchiuasej uan tijnemilisej ika totlajtol, ika totekij uan ika toyolo ni Ueyi Tlanauatili, uaajka kena\nkuali uan yejyektsij tiitstosej, san tiyolpaktosej tiitstosej; pampa melauak timotlepanitasejya, timoiknelisejya\nuan timotlasojtlasejya ipan ni ikuitlapankotsij uan ikuaxankotsij ni toueyi nana tonantsij tlaltipaktli.",
-            "Image": "84fb4c7de98d20f728277dd6c1008a92"
+            "Text": "tlamantli, yeka onkaj tekiuaj para ya ma tlakualtlali. Ijkinoj nesis para melauak titlatepanitaj uan melauak\nnojkia titetlasojtlaj.\nYeka moneki ma kuali tikixpouakaj uan ma kuali tijkuamachilikaj ni Ueyi Amatlanauatili tlen itookaj:\"\nTLAJTOLNEMILISTLI TLEN MOIJTOJTOK PARA MA KUALI TIMOUIKAKAJ IPAN NI\nTLALTIPAKTLI\"\n30. Tlen sempouali uan majtlaktli tlanauatili kiijtoua:\nNochi tlen moijtojtok ipan ni Ueyi Amatlanauatili tlen ni \"TLAJTOLNEMILISTLI TLEN MOIJTOJTOK\nPARA MA KUALI TIMOUIKAKAJ IPAN NI TLALTIPAKTLI\", amo akaj uelis kixoleuas, amo akaj uelis\nkitlaatis, amo akaj uelis kiixpolos. Moneki ma mochiua uan ma monemili ni Ueyi Tlanauatili, pampa tlaj\nmelauak tijchiuasej uan tijnemilisej ika totlajtol, ika totekij uan ika toyolo ni Ueyi Tlanauatili, uaajka kena\nkuali uan yejyektsij tiitstosej, san tiyolpaktosej tiitstosej; pampa melauak timotlepanitasejya, timoiknelisejya\nuan timotlasojtlasejya ipan ni ikuitlapankotsij uan ikuaxankotsij ni toueyi nana tonantsij tlaltipaktli."
         }
     }
 }

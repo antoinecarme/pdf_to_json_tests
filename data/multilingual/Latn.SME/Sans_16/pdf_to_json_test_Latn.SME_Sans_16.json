@@ -1,141 +1,141 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581470576,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
-            "Index": 0,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "OLMMOŠVUOIGATVUOĐAID OPPAMÁILMMÁLAS JULGAŠTUS\nDanne go friddjavuođa, vanhurskkisvuođa ja ráfi vuođđu máilmmis lea buot olmmošgoddái gullevaččaid\nlunddolaš olmmošárvvu dovddiidus ja sin dássásaš ja massemeahttun vuoigatvuođaid dovddiidus,\ndanne go olgguštus olmmošvuoigatvuođain ja badjelgeahččanvuohta daid hárrái lea mielddisbuktán\nveahkájoaš daguid, mat leat suorggahan olmmošgotti oamedovddu, ja danne go álbmogiid alimus\njoksanmearrin lea dovddastuvvon dakkáraš máilmmi ovdašaddu, gos lea sárdnun- ja oskufriddjavuohta ja\ngos lea balus ja heađis friddjavuohta,\ndanne go lea vealtameahttun dárbbašlaš suodjalit olmmošvuoigatvuođaid lága bokte, amaset olbmot fertet\nmanimuš heađisteaset stuimádaga noastit bággoválddi ja soardu vuostá,\ndanne go lea deaŧalaš ovddidit ustitlaš gaskavuođaid gárgedusa náššuvnnaid gaskkas,\ndanne go Ovttastuvvon Naššuvnnaid álbmogat lihtu bokte ođđasis duođaštit sin oskkuset olbmo\nvuođđovuoigatvuođaide, olmmošoktagasa árvui ja mávssolašvuhtii, olmmáiolbmo ja nissonolbmo dássásaš\nvuoigatvuođaide, ja leat soahpan ovddidit sosiálalaš ovdáneami ja buorránaddit eallineavttuid stuorit\nfriddjavuođa siste,\ndanne go miellahttostádat leat geatnegahttán iežaset, Ovttastuvvon Náššuvnllaiguin ovttasbarggadettiin,\nváfistit olmmošvuoigatvuođaid oppalaš gudnejahttojumi ja doahttaleami,\ndanne go dáid vuoigatvuođaid ja friddjavuođaid oktasaš ipmárdusas lea stuorimus mávssolašvuohta dan\nfertemuša duohtandahkamis,\nde danne\nOAIVEČOAHKKIN",
-            "Image": "a93ad96f72cf3dd1e629ff47674ea18c"
+            "Image": "a93ad96f72cf3dd1e629ff47674ea18c",
+            "Index": 0,
+            "Label": "1",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "OLMMOŠVUOIGATVUOĐAID OPPAMÁILMMÁLAS JULGAŠTUS\nDanne go friddjavuođa, vanhurskkisvuođa ja ráfi vuođđu máilmmis lea buot olmmošgoddái gullevaččaid\nlunddolaš olmmošárvvu dovddiidus ja sin dássásaš ja massemeahttun vuoigatvuođaid dovddiidus,\ndanne go olgguštus olmmošvuoigatvuođain ja badjelgeahččanvuohta daid hárrái lea mielddisbuktán\nveahkájoaš daguid, mat leat suorggahan olmmošgotti oamedovddu, ja danne go álbmogiid alimus\njoksanmearrin lea dovddastuvvon dakkáraš máilmmi ovdašaddu, gos lea sárdnun- ja oskufriddjavuohta ja\ngos lea balus ja heađis friddjavuohta,\ndanne go lea vealtameahttun dárbbašlaš suodjalit olmmošvuoigatvuođaid lága bokte, amaset olbmot fertet\nmanimuš heađisteaset stuimádaga noastit bággoválddi ja soardu vuostá,\ndanne go lea deaŧalaš ovddidit ustitlaš gaskavuođaid gárgedusa náššuvnnaid gaskkas,\ndanne go Ovttastuvvon Naššuvnnaid álbmogat lihtu bokte ođđasis duođaštit sin oskkuset olbmo\nvuođđovuoigatvuođaide, olmmošoktagasa árvui ja mávssolašvuhtii, olmmáiolbmo ja nissonolbmo dássásaš\nvuoigatvuođaide, ja leat soahpan ovddidit sosiálalaš ovdáneami ja buorránaddit eallineavttuid stuorit\nfriddjavuođa siste,\ndanne go miellahttostádat leat geatnegahttán iežaset, Ovttastuvvon Náššuvnllaiguin ovttasbarggadettiin,\nváfistit olmmošvuoigatvuođaid oppalaš gudnejahttojumi ja doahttaleami,\ndanne go dáid vuoigatvuođaid ja friddjavuođaid oktasaš ipmárdusas lea stuorimus mávssolašvuohta dan\nfertemuša duohtandahkamis,\nde danne\nOAIVEČOAHKKIN"
         },
         "1": {
-            "Label": "2",
-            "Index": 1,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "dákko bokte almmuha\ndán olmmošvuoigatvuođaid oppamáilmmálaš julggaštusa oktasaš joksanmearrin buot álbmogiidda ja buot\nnaššuvnnaide vai juohke olmmošoktagas ja juohke servodateisseváldi, álo muittus anedettiin dán\njulggaštusa, vikkašii oahpahusa ja bajásgeassima bokte ovddidit gudnejahttojumi dáid vuoigatvuođaid ja\nfriddjavuođaid hárrái, ja naššuvnnalaš ja internaššuvnnalaš doaibmabijuid bokte váfistit ahte dat šaddet\noppalaččat ja fámolaččat dovddastuvvot ja doahttaluvvot sihke miellahttostáhtaid iežas álbmoga siste ja\ndaid lágaváldi vuolde orru rádjosiid álbmogiid siste.\nArtihkkal 1.\nBuot olbmot leat riegádan friddjan ja olmmošárvvu ja olmmošvuoigatvuođaid dáfus dássásaččat,\nArtihkkal 2.\nJuohkehaš lea vuoigaduvvon buot daid vuoigatvuođaide ja friddjavuođaide, mat dán julggaštusas leat\nnamahuvvon, almmá mange vealahaga, náli, ivnni, sohkabeali, giela, oskku, politihkalaš dahje eará\nmiellaguottu, naššuvnnalaš dahje sosiálalaš surggiideami, opmodaga, riegádeami dahje eará dilálašvuođa\ndáfus.\nOrruneatnama dahje -guovllu politihkalaš, lágaválddálaš dahje internaššuvnnalaš dilli maiddá ii galgga\nváikkuhit vealahusa, lehkos dat eanan dahje guovlu iešstivrejeaddji dahje earáid geahču vuolde dahje muđui\nmange láhkái earáid hálddus stivrra dáfus.\nArtihkkal 3.\nJuohke olbmos lea vuoigatvuohta eallimii, friddjavuhtii ja persovnnalaš oadjebasvuhtii.\nArtihkkal 4.",
-            "Image": "5267116a47d107892fcbabe576556165"
+            "Image": "5267116a47d107892fcbabe576556165",
+            "Index": 1,
+            "Label": "2",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "dákko bokte almmuha\ndán olmmošvuoigatvuođaid oppamáilmmálaš julggaštusa oktasaš joksanmearrin buot álbmogiidda ja buot\nnaššuvnnaide vai juohke olmmošoktagas ja juohke servodateisseváldi, álo muittus anedettiin dán\njulggaštusa, vikkašii oahpahusa ja bajásgeassima bokte ovddidit gudnejahttojumi dáid vuoigatvuođaid ja\nfriddjavuođaid hárrái, ja naššuvnnalaš ja internaššuvnnalaš doaibmabijuid bokte váfistit ahte dat šaddet\noppalaččat ja fámolaččat dovddastuvvot ja doahttaluvvot sihke miellahttostáhtaid iežas álbmoga siste ja\ndaid lágaváldi vuolde orru rádjosiid álbmogiid siste.\nArtihkkal 1.\nBuot olbmot leat riegádan friddjan ja olmmošárvvu ja olmmošvuoigatvuođaid dáfus dássásaččat,\nArtihkkal 2.\nJuohkehaš lea vuoigaduvvon buot daid vuoigatvuođaide ja friddjavuođaide, mat dán julggaštusas leat\nnamahuvvon, almmá mange vealahaga, náli, ivnni, sohkabeali, giela, oskku, politihkalaš dahje eará\nmiellaguottu, naššuvnnalaš dahje sosiálalaš surggiideami, opmodaga, riegádeami dahje eará dilálašvuođa\ndáfus.\nOrruneatnama dahje -guovllu politihkalaš, lágaválddálaš dahje internaššuvnnalaš dilli maiddá ii galgga\nváikkuhit vealahusa, lehkos dat eanan dahje guovlu iešstivrejeaddji dahje earáid geahču vuolde dahje muđui\nmange láhkái earáid hálddus stivrra dáfus.\nArtihkkal 3.\nJuohke olbmos lea vuoigatvuohta eallimii, friddjavuhtii ja persovnnalaš oadjebasvuhtii.\nArtihkkal 4."
         },
         "2": {
-            "Label": "3",
-            "Index": 2,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Ii oktage galgga dollojuvvot šlávvan dahje bággu bálvalusas. Šlávvavuohta ja šlávvagávppi joraheapmi,\nvaikko guđege vuogi mielde, galgá leat gildojuvvon.\nArtihkkal 5.\nIi oktage galgga illastusa vuollái dagahuvvot dahje goaves, olmmošmeahttun dahje vuolideaddji\ngieđahallama dahje ráŋggáštusa vuollái.\nArtihkkal 6.\nJuohke olbmos lea juohke sajis vuoigatvuohta dasa, ahte son galgá dovddastuvvot olmmošoktagassan lága\novddas.\nArtihkkal 7.\nBuohkat leat lága ovddas dássásaččat ja almmá mangelágán vealahusa haga lea buohkain vuoigatvuohta\noažžut seammá láhkasuodjalusa. Buohkain lea dássásaš vuoigatvuohta oažžut lága suodjalusa buotlágán\nvealahusa vuostá, man bokte dát julggaštus rihkkojuvvo, ja juohkelágán ávžžullusa vuostá danlágán\nvealahusa dahkamii.\nArtihkkal 8.\nJuohkehaččas lea vuoigatvuohta oažžut ulmmálaš veahki dohkálaš naššuvnnalaš duopmostuoluin\ndakkáraš daguid vuostá mat rihkkot daid vuođđodahkki vuoigatvuođaid, mat leat sutnje addon\nvuođđoásahusa dahje lága bokte.\nArtihkkal 9.\nIi oktage galgga sahte sivas gitta váldojuvvot, giddagassii biddjojuvvot dahje riikkabáhtarussii áddjojuvvot.\nArtihkkal 10",
-            "Image": "e4f6407bc00ac9576cae2231cd7fb179"
+            "Image": "e4f6407bc00ac9576cae2231cd7fb179",
+            "Index": 2,
+            "Label": "3",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Ii oktage galgga dollojuvvot šlávvan dahje bággu bálvalusas. Šlávvavuohta ja šlávvagávppi joraheapmi,\nvaikko guđege vuogi mielde, galgá leat gildojuvvon.\nArtihkkal 5.\nIi oktage galgga illastusa vuollái dagahuvvot dahje goaves, olmmošmeahttun dahje vuolideaddji\ngieđahallama dahje ráŋggáštusa vuollái.\nArtihkkal 6.\nJuohke olbmos lea juohke sajis vuoigatvuohta dasa, ahte son galgá dovddastuvvot olmmošoktagassan lága\novddas.\nArtihkkal 7.\nBuohkat leat lága ovddas dássásaččat ja almmá mangelágán vealahusa haga lea buohkain vuoigatvuohta\noažžut seammá láhkasuodjalusa. Buohkain lea dássásaš vuoigatvuohta oažžut lága suodjalusa buotlágán\nvealahusa vuostá, man bokte dát julggaštus rihkkojuvvo, ja juohkelágán ávžžullusa vuostá danlágán\nvealahusa dahkamii.\nArtihkkal 8.\nJuohkehaččas lea vuoigatvuohta oažžut ulmmálaš veahki dohkálaš naššuvnnalaš duopmostuoluin\ndakkáraš daguid vuostá mat rihkkot daid vuođđodahkki vuoigatvuođaid, mat leat sutnje addon\nvuođđoásahusa dahje lága bokte.\nArtihkkal 9.\nIi oktage galgga sahte sivas gitta váldojuvvot, giddagassii biddjojuvvot dahje riikkabáhtarussii áddjojuvvot.\nArtihkkal 10"
         },
         "3": {
-            "Label": "4",
-            "Index": 3,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Go geange vuoigatvuođat ja geatnegasvuođat galget mearriduvvot, ja go su vuostá nostojuvvon\nráŋggáštuslivahis galgá merrejuvvot, de juohke olbmos lea ollislaš dássásaš vuoigatvuohta oažžut\nvánhurskkis ja almmolaš ášševuodjima sorjjasmeahttun ja bealátgeahtes duopmostuolo ovddas.\nArtihkkal 11.\nJuohke olbmos guhte ráŋggáštusvuloš daguin sivahuvvo, lea vuoigatvuohta lohkkojuvvot vigiheapmin gitta\ndasságo su sivalašvuohta lea nanuduvvon almmolaš duopmostuolu riektemeanuin, main sus leat leamaš\nbuot dat dáhkádusat mat leat dárbbašlaččat iežas bealuštussii.\nIi oktage galgga dubmejuvvot ráŋggáštussii dakkár dagu dahje šláibmahusa ovddas, mii dahkuáiggi ii lean\nráŋggáštusvuloš naššuvnnalaš lága mielde dahje álbmotrievtti mielde. Iige galgga garraset duomu sáhttit\ncealkit go dan mii lágas leai mearriduvvon dalle go ráŋggáštusvuloš dahku dáhpáhuvai.\nArtihkkal 12.\nIi oktage galgga gillát evttolaš seaguheami iežas olitahašeallimii, bearrašii, ruktui dahje reivelonohallamii,\niige alageavvama gudni dahje máinnolmasvuođa ala. Juohkeilaš lea vuoigaduvvon lága suodjalussii dakkár\nseaguheami dahje alageavvama vuostá.\nArtihkkal 13.\nJuohkehaččas lea vuoigatvuohta friddja johtalit ja friddja válljet alccesis orrunsaji stáhta rájiid siskkobealde.\nJuohkehaččas lea vuoigatvuohta vuolgit riikkas eret, maiddái iežas riikkas, ja máhccat ruoktot su iežas riikii.\nArtihkkal 14.\nJuohkehaččas lea vuoigatvuohta vierroriikkain ohcat ja oažžut dorvobáikki doarrádallama sivas.\nDát vuoigatvuohta ii sáhte čurvojuvvot doarjjan go riektedoarrádallama duođalaš vuođđun leat",
-            "Image": "a4ee1bf17476c947d020edd45f797612"
+            "Image": "a4ee1bf17476c947d020edd45f797612",
+            "Index": 3,
+            "Label": "4",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Go geange vuoigatvuođat ja geatnegasvuođat galget mearriduvvot, ja go su vuostá nostojuvvon\nráŋggáštuslivahis galgá merrejuvvot, de juohke olbmos lea ollislaš dássásaš vuoigatvuohta oažžut\nvánhurskkis ja almmolaš ášševuodjima sorjjasmeahttun ja bealátgeahtes duopmostuolo ovddas.\nArtihkkal 11.\nJuohke olbmos guhte ráŋggáštusvuloš daguin sivahuvvo, lea vuoigatvuohta lohkkojuvvot vigiheapmin gitta\ndasságo su sivalašvuohta lea nanuduvvon almmolaš duopmostuolu riektemeanuin, main sus leat leamaš\nbuot dat dáhkádusat mat leat dárbbašlaččat iežas bealuštussii.\nIi oktage galgga dubmejuvvot ráŋggáštussii dakkár dagu dahje šláibmahusa ovddas, mii dahkuáiggi ii lean\nráŋggáštusvuloš naššuvnnalaš lága mielde dahje álbmotrievtti mielde. Iige galgga garraset duomu sáhttit\ncealkit go dan mii lágas leai mearriduvvon dalle go ráŋggáštusvuloš dahku dáhpáhuvai.\nArtihkkal 12.\nIi oktage galgga gillát evttolaš seaguheami iežas olitahašeallimii, bearrašii, ruktui dahje reivelonohallamii,\niige alageavvama gudni dahje máinnolmasvuođa ala. Juohkeilaš lea vuoigaduvvon lága suodjalussii dakkár\nseaguheami dahje alageavvama vuostá.\nArtihkkal 13.\nJuohkehaččas lea vuoigatvuohta friddja johtalit ja friddja válljet alccesis orrunsaji stáhta rájiid siskkobealde.\nJuohkehaččas lea vuoigatvuohta vuolgit riikkas eret, maiddái iežas riikkas, ja máhccat ruoktot su iežas riikii.\nArtihkkal 14.\nJuohkehaččas lea vuoigatvuohta vierroriikkain ohcat ja oažžut dorvobáikki doarrádallama sivas.\nDát vuoigatvuohta ii sáhte čurvojuvvot doarjjan go riektedoarrádallama duođalaš vuođđun leat"
         },
         "4": {
-            "Label": "5",
-            "Index": 4,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "eahpepolitihkalaš rihkkosat dahje dagut, mat leat Ovttastuvvon Náššuvnnaid ulbmiliid ja vuođđojurdagiid\nvuostá.\nArtihkkal 15.\nJuohkehaččas lea vuoigatvuohta stáhtaboargárvuhtii.\nIi ovttasge galgga evttolaččat váldojuvvot eret stáhtaboargárvuohta, dahje biehttaluvvot vuoigatvuohta\nmolsut stáhtaboargarvuođa.\nArtihkkal 16.\nDievasahkásaš olmmáiolbmuin ja nissonolbmuin lea vuoigatvuohta náitalit ja vuođđudit bearraša almmá\nmange ráddjehusailaga mii boahtá nális, náššuvnnalašvuođas dahje oskkus. Sis lea gáibádus dássásaš\nvuoigatvuođaide náitosa dáfus, náitosa áiggi ja náitosa háddjehusa maŋŋá.\nNáittosvuhtii mannan galgá dušše dalle dáhpáhuvvat go friddja ja ollislaš mieđáhus guktuid saddi\nbeallelačcaid bealis lea duođaštuvvon.\nBearaš lea servodaga lunddolas vuođđooktavuohta ja servodat ja stáhta galgá dan suodjalit.\nArtihkkal 17.\nJuolliieilaččas lea vuoigatvuohta opmodaga eaiggáduššat, okto dahje earrásiiguin searválagaid.\nIi ovttasge galgga su opmodaga evttolaččat eret váldojuvvot.\nArtihkkal 18.\nJuohkehaččas lea vuoigatvuohta jurddašan-, oamedovddu- ja oskufriddjavuhtii. Dát vuoigatvuohta\nsisttisdoallá friddjavuođa religiovnna dahje oskku ovdandoallamii juogo okto dahje earrásiiguin\nsearválagaid, almmolaččat dahje oktasaččat, oallpalleami bokte, meanuid bokte, bálvalusa bokte ja",
-            "Image": "fe7a5d4410665c90521522c1adcde19f"
+            "Image": "fe7a5d4410665c90521522c1adcde19f",
+            "Index": 4,
+            "Label": "5",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "eahpepolitihkalaš rihkkosat dahje dagut, mat leat Ovttastuvvon Náššuvnnaid ulbmiliid ja vuođđojurdagiid\nvuostá.\nArtihkkal 15.\nJuohkehaččas lea vuoigatvuohta stáhtaboargárvuhtii.\nIi ovttasge galgga evttolaččat váldojuvvot eret stáhtaboargárvuohta, dahje biehttaluvvot vuoigatvuohta\nmolsut stáhtaboargarvuođa.\nArtihkkal 16.\nDievasahkásaš olmmáiolbmuin ja nissonolbmuin lea vuoigatvuohta náitalit ja vuođđudit bearraša almmá\nmange ráddjehusailaga mii boahtá nális, náššuvnnalašvuođas dahje oskkus. Sis lea gáibádus dássásaš\nvuoigatvuođaide náitosa dáfus, náitosa áiggi ja náitosa háddjehusa maŋŋá.\nNáittosvuhtii mannan galgá dušše dalle dáhpáhuvvat go friddja ja ollislaš mieđáhus guktuid saddi\nbeallelačcaid bealis lea duođaštuvvon.\nBearaš lea servodaga lunddolas vuođđooktavuohta ja servodat ja stáhta galgá dan suodjalit.\nArtihkkal 17.\nJuolliieilaččas lea vuoigatvuohta opmodaga eaiggáduššat, okto dahje earrásiiguin searválagaid.\nIi ovttasge galgga su opmodaga evttolaččat eret váldojuvvot.\nArtihkkal 18.\nJuohkehaččas lea vuoigatvuohta jurddašan-, oamedovddu- ja oskufriddjavuhtii. Dát vuoigatvuohta\nsisttisdoallá friddjavuođa religiovnna dahje oskku ovdandoallamii juogo okto dahje earrásiiguin\nsearválagaid, almmolaččat dahje oktasaččat, oallpalleami bokte, meanuid bokte, bálvalusa bokte ja"
         },
         "5": {
-            "Label": "6",
-            "Index": 5,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "religiovnnalaš vieruid basuhemiin.\nArtihkkal 19.\nJuohkehaččas lea vuoigatvuohta oaivil- ja sátnefriddjavuhtii. Dát vuoigatvuohta sisttisdoallá friddjavuođa\nčuoččuhit oaiviliid almmá earrásiid seaguhushága, ja friddjavuođa ohcat, vuostáváldit ja almmuhit dieđuid\nja oainnuid juohkelágán almmuhusgaskomiid čađa, beroškeahttá riikarájiin.\nArtihkkal 20\nJuohkehaččas lea vuoigatvuohta ráfálaš čoahkkimiin ja ovttastumiin friddja oassádallat.\nIi oktage galgga bággejuvvot searvat makkárge ovttastupmái.\nArtihkkal 21\nJuohkehaččas lea vuoigatvuohta lea osolaš iežas riikka stivrejumis, juogo vuigestaga dahje friddja\nválljejuvvon ovddasteddjiid bokte.\nJuohkehaččas lea dássásaš vuoigatvuohta beassat iežas riikka almmolaš doaimmaide.\nÁlbmoga dáhttu lea almmolaš válddi vuođđu. Dát dáhttu galgá dovdosii boahtit mearreáigásaš ja duođalaš\nválggain main oppalaš ja dássásaš jienastanvuoigatvuohta čiegus jienasteapmi dahje eará ovttaárvosaš\nfriddja jienastanvuohki.\nArtihkkal 22\nServodatmiellahttun lea juohkehaččas vuoigatvuohta sosiálalaš oadjebasvuhtii ja juohkehaš sáhttá gáibidit\nahte dat ekonomalaš, sosiálalaš ja kultuvrralaš buorit, mat leat vealtameahttun dárbbašlaččat olbmo árvui ja\nsu persovnnalaš friddja ovdáneapmái, duohtandahkkojuvvojit naššuvnnalaš doaibmabijuid bokte ja\ninternaššuvnnalaš ovttasbarggu bokte vuhtiiválddedettiin juohke sierralaš stáhta organisašuvnna ja",
-            "Image": "72cc02b508d906d03fb428ad6eae6a2d"
+            "Image": "72cc02b508d906d03fb428ad6eae6a2d",
+            "Index": 5,
+            "Label": "6",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "religiovnnalaš vieruid basuhemiin.\nArtihkkal 19.\nJuohkehaččas lea vuoigatvuohta oaivil- ja sátnefriddjavuhtii. Dát vuoigatvuohta sisttisdoallá friddjavuođa\nčuoččuhit oaiviliid almmá earrásiid seaguhushága, ja friddjavuođa ohcat, vuostáváldit ja almmuhit dieđuid\nja oainnuid juohkelágán almmuhusgaskomiid čađa, beroškeahttá riikarájiin.\nArtihkkal 20\nJuohkehaččas lea vuoigatvuohta ráfálaš čoahkkimiin ja ovttastumiin friddja oassádallat.\nIi oktage galgga bággejuvvot searvat makkárge ovttastupmái.\nArtihkkal 21\nJuohkehaččas lea vuoigatvuohta lea osolaš iežas riikka stivrejumis, juogo vuigestaga dahje friddja\nválljejuvvon ovddasteddjiid bokte.\nJuohkehaččas lea dássásaš vuoigatvuohta beassat iežas riikka almmolaš doaimmaide.\nÁlbmoga dáhttu lea almmolaš válddi vuođđu. Dát dáhttu galgá dovdosii boahtit mearreáigásaš ja duođalaš\nválggain main oppalaš ja dássásaš jienastanvuoigatvuohta čiegus jienasteapmi dahje eará ovttaárvosaš\nfriddja jienastanvuohki.\nArtihkkal 22\nServodatmiellahttun lea juohkehaččas vuoigatvuohta sosiálalaš oadjebasvuhtii ja juohkehaš sáhttá gáibidit\nahte dat ekonomalaš, sosiálalaš ja kultuvrralaš buorit, mat leat vealtameahttun dárbbašlaččat olbmo árvui ja\nsu persovnnalaš friddja ovdáneapmái, duohtandahkkojuvvojit naššuvnnalaš doaibmabijuid bokte ja\ninternaššuvnnalaš ovttasbarggu bokte vuhtiiválddedettiin juohke sierralaš stáhta organisašuvnna ja"
         },
         "6": {
-            "Label": "7",
-            "Index": 6,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "veahkkeváriid.\nArtihkkal 23\nJuohkehaččas lea dássásaš vuoigatvuohta oažžut barggu, beassat friddja válljet alccesis fitnu, oažžut\nvánhurskkis ja buriid bargoeavttuid ja oažžut suodjalusa bargguhisvuođa vuostá.\nAlmmá mange vealahusahaga lea juohkehaččas vuoigatvuohta oažžut seammá bálkká seammá barggu\novddas.\nJuohke barggolaččas lea vuoigatvuohta oažžut vánhurskkis ja govttolaš mávssu, mii dáhkida sutnje alccesis\nja su bearrašii olmmošárvvolaš áigáboađu, ja mii, juos dárbbašlažžan čájehuvvo, ollistuvvo eará sosiálalaš\nsuodjalusa bokte.\nJuohkehaččas lea vuoigatvuohta vuođđudit fágaservviid, ja miellahttun searvat dakkáriidda, suodjalan dihte\niežas beroštumiid.\nArtihkkal 24\nJuohkehaččas lea vuoigatvuohta vuoigatvuohta vuoiŋŋadussii ja luopmoáigái: dan vuoigatvuođa vuollái\ngullá maiddái bargoáiggi govttolaš ráddjehus ja mearreáigásaš bálkkáhuvvon luopmu.\nArtihkkal 25\nJuohkehaččas lea vuoigatvuohta dan muddosaš eallindássái, ahte dat dáhkida su ja su bearraša\ndearvvašvuođa ja buorredili borramuša, biktasiid, ásodaga ja dearvvašfuola dáfus, ja maiddái dárbbašlaš\nsosiálalaš addosiid dáfus ja velá lassin oadjebasvuođa dáfus go bargguhisvuohta , buohcuvuođa,\nbargolámisvuohta, leaskavuohta, boarisvuohta dahjege muđui birgenvádjitvuohta deaivida, masa olmmoš\nieš ii leat sivalaš.",
-            "Image": "d4bb989bf0e4463ea671188ac8014e9a"
+            "Image": "d4bb989bf0e4463ea671188ac8014e9a",
+            "Index": 6,
+            "Label": "7",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "veahkkeváriid.\nArtihkkal 23\nJuohkehaččas lea dássásaš vuoigatvuohta oažžut barggu, beassat friddja válljet alccesis fitnu, oažžut\nvánhurskkis ja buriid bargoeavttuid ja oažžut suodjalusa bargguhisvuođa vuostá.\nAlmmá mange vealahusahaga lea juohkehaččas vuoigatvuohta oažžut seammá bálkká seammá barggu\novddas.\nJuohke barggolaččas lea vuoigatvuohta oažžut vánhurskkis ja govttolaš mávssu, mii dáhkida sutnje alccesis\nja su bearrašii olmmošárvvolaš áigáboađu, ja mii, juos dárbbašlažžan čájehuvvo, ollistuvvo eará sosiálalaš\nsuodjalusa bokte.\nJuohkehaččas lea vuoigatvuohta vuođđudit fágaservviid, ja miellahttun searvat dakkáriidda, suodjalan dihte\niežas beroštumiid.\nArtihkkal 24\nJuohkehaččas lea vuoigatvuohta vuoigatvuohta vuoiŋŋadussii ja luopmoáigái: dan vuoigatvuođa vuollái\ngullá maiddái bargoáiggi govttolaš ráddjehus ja mearreáigásaš bálkkáhuvvon luopmu.\nArtihkkal 25\nJuohkehaččas lea vuoigatvuohta dan muddosaš eallindássái, ahte dat dáhkida su ja su bearraša\ndearvvašvuođa ja buorredili borramuša, biktasiid, ásodaga ja dearvvašfuola dáfus, ja maiddái dárbbašlaš\nsosiálalaš addosiid dáfus ja velá lassin oadjebasvuođa dáfus go bargguhisvuohta , buohcuvuođa,\nbargolámisvuohta, leaskavuohta, boarisvuohta dahjege muđui birgenvádjitvuohta deaivida, masa olmmoš\nieš ii leat sivalaš."
         },
         "7": {
-            "Label": "8",
-            "Index": 7,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Etniin ja mánáin lea vuoigatvuohta sierralaš ovddasmorrašii ja veahkkái. Buot mánáin, lehkoset sii dal\nriegádan náittosvuođa siskkobealde dahje olggobealde, galgá lea seammá sosiálalaš suodjalus.\nArtihkkal 26.\nJuohkehaččas lea vuoigatvuohta oahpahussii. Oahpahus galgá addojuvvot almmá mávssushága, goit álgo- ja\nvuođđooahpahusa dáfus. Álgooahpahus galgá leat bákkolaš. Buohkain galgá leat vejolašvuohta\nfidnooahpahusa oažžut ja buohkaide galgá leat dássásaš vejolašvuohta váldit alit oahpahusa veajuideaset\nmielde.\nOahpahus galgá atnit joksanmearrin gárgedit olmmošlaš persovnnalašvuođa ja nannudit\nolmmošvuoigatvuođaid ja vuođđodahkki friddjavuođaid gudnejahttojumi. Dat galgá ovddidit ipmárdusa,\nsubálašvuođa ja ustitvuođa buot naššuvnnaid, buot nállejuhkosiid ja buot religiovnna juhkosiid gaskkas ja\ndat galgá ovdánahttit Ovttastuvvon Naššuvnnaid barggu bisuhan dihte ráfi.\nVánhemiin lea vuosttassadjásaš vuoigatvuohta válljet sin mánáideaset várás oahpahusvuogi.\nArtihkkal 27.\nJuohkehaččas lea vuoigatvuohta friddja oassádallat servodaga kultuvrralaš eallimis, návddašit máhttádiin ja\nšaddat osolažžan dieđalaš ovdáneapmái ja daid buriide, mat das čuvvot.\nJuohkehačcas lea vuoigatvuohta oažžut daidda vuoiŋŋalaš ja ávnnaslaš beroštumiide suodjalusa, mat\nčuvvot boađusin vaikko guđelágán dieđalas, girjjálaš dahje máhtolaš dahkosis, maid guhtege ieš lea\návdnen.\nArtihkkal 28.\nJuohkehaš sáhttá gáibidit dakkár sosiálalaš ja internašuvnnalaš ortnega mii ollislaččat sáhttá duohtandahkat\ndaid vuoigatvuođaid ja friddjavuođaid , mat dán julggaštusas leat namuhuvvon.",
-            "Image": "71265088151d92dc07175dcf1a145bf6"
+            "Image": "71265088151d92dc07175dcf1a145bf6",
+            "Index": 7,
+            "Label": "8",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Etniin ja mánáin lea vuoigatvuohta sierralaš ovddasmorrašii ja veahkkái. Buot mánáin, lehkoset sii dal\nriegádan náittosvuođa siskkobealde dahje olggobealde, galgá lea seammá sosiálalaš suodjalus.\nArtihkkal 26.\nJuohkehaččas lea vuoigatvuohta oahpahussii. Oahpahus galgá addojuvvot almmá mávssushága, goit álgo- ja\nvuođđooahpahusa dáfus. Álgooahpahus galgá leat bákkolaš. Buohkain galgá leat vejolašvuohta\nfidnooahpahusa oažžut ja buohkaide galgá leat dássásaš vejolašvuohta váldit alit oahpahusa veajuideaset\nmielde.\nOahpahus galgá atnit joksanmearrin gárgedit olmmošlaš persovnnalašvuođa ja nannudit\nolmmošvuoigatvuođaid ja vuođđodahkki friddjavuođaid gudnejahttojumi. Dat galgá ovddidit ipmárdusa,\nsubálašvuođa ja ustitvuođa buot naššuvnnaid, buot nállejuhkosiid ja buot religiovnna juhkosiid gaskkas ja\ndat galgá ovdánahttit Ovttastuvvon Naššuvnnaid barggu bisuhan dihte ráfi.\nVánhemiin lea vuosttassadjásaš vuoigatvuohta válljet sin mánáideaset várás oahpahusvuogi.\nArtihkkal 27.\nJuohkehaččas lea vuoigatvuohta friddja oassádallat servodaga kultuvrralaš eallimis, návddašit máhttádiin ja\nšaddat osolažžan dieđalaš ovdáneapmái ja daid buriide, mat das čuvvot.\nJuohkehačcas lea vuoigatvuohta oažžut daidda vuoiŋŋalaš ja ávnnaslaš beroštumiide suodjalusa, mat\nčuvvot boađusin vaikko guđelágán dieđalas, girjjálaš dahje máhtolaš dahkosis, maid guhtege ieš lea\návdnen.\nArtihkkal 28.\nJuohkehaš sáhttá gáibidit dakkár sosiálalaš ja internašuvnnalaš ortnega mii ollislaččat sáhttá duohtandahkat\ndaid vuoigatvuođaid ja friddjavuođaid , mat dán julggaštusas leat namuhuvvon."
         },
         "8": {
-            "Label": "9",
-            "Index": 8,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Artihkkal 29.\nJuohkellaččas leat dat geatnegasvuođat servodaga guovdu, mat aittonassii dahket vejolažžan\npersovnnalašvuođa friddja ja dievaslaš ovdáneami.\nGeavahettiin vuoigatvuođaidis ja návddašettiin friddjavuođaidis ii leat oktage earálágán ráddjehusa vuloš,\ngo dakkáriid mat lága bokte leat mearriduvvon aittonassii dáhkidan dihte earrásiid vuoigatvuođaid ja\nfriddjavuođaid dárbbašlaš dovdiidusa ja gudnejahttojumi ja deavdin dihte daid gáibádusaid maid morála,\nalmmolaš ortnet ja oppalaš buorredilli demokráhtalaš servodagas rievttuid mielde ovdandivvu.\nDiet vuoigatvuođat ja friddjavuođat eai guđege dáhpáhusas sáhte adnojuvvot vuostá Ovttastuvvon\nNáššsuvnnaid ulbmiliid ja vuođđojurdagiid.\nArtihkkal 30.\nIi mihkkige dán julggaštusas sáhte nu dulkojuvvot ahte dat vuoigada ovttage stáhta, juhkosa dahje\nolmmošoktagasa oassádallat dakkár doaimmas, dahje dahkat dakkár dagu, mii duššindagašii ovttage dain\nvuoigatvuođain dahje friddjavuođain mat leat namahuvvon Julggaštusas.",
-            "Image": "a9f927db65508198638c31faf462d0a6"
+            "Image": "a9f927db65508198638c31faf462d0a6",
+            "Index": 8,
+            "Label": "9",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Artihkkal 29.\nJuohkellaččas leat dat geatnegasvuođat servodaga guovdu, mat aittonassii dahket vejolažžan\npersovnnalašvuođa friddja ja dievaslaš ovdáneami.\nGeavahettiin vuoigatvuođaidis ja návddašettiin friddjavuođaidis ii leat oktage earálágán ráddjehusa vuloš,\ngo dakkáriid mat lága bokte leat mearriduvvon aittonassii dáhkidan dihte earrásiid vuoigatvuođaid ja\nfriddjavuođaid dárbbašlaš dovdiidusa ja gudnejahttojumi ja deavdin dihte daid gáibádusaid maid morála,\nalmmolaš ortnet ja oppalaš buorredilli demokráhtalaš servodagas rievttuid mielde ovdandivvu.\nDiet vuoigatvuođat ja friddjavuođat eai guđege dáhpáhusas sáhte adnojuvvot vuostá Ovttastuvvon\nNáššsuvnnaid ulbmiliid ja vuođđojurdagiid.\nArtihkkal 30.\nIi mihkkige dán julggaštusas sáhte nu dulkojuvvot ahte dat vuoigada ovttage stáhta, juhkosa dahje\nolmmošoktagasa oassádallat dakkár doaimmas, dahje dahkat dakkár dagu, mii duššindagašii ovttage dain\nvuoigatvuođain dahje friddjavuođain mat leat namahuvvon Julggaštusas."
         }
     }
 }

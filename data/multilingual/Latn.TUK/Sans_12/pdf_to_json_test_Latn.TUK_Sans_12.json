@@ -1,99 +1,99 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581471070,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
-            "Index": 0,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
             ],
-            "Text": "ADAM HUKUKLARYNYŇ ÄHLUMUMY JARNAMASY\n1948‐nji ýylyň 10‐njy dekabrynda Birleşen Milletler Guramasynyň Baş Assambleýasy Adam hukuklarynyň ählumumy jarnamasyny\ntassyklady. Bu taryhy ähmiýetli karary kabul edip, Assambleýa Guramanyň ähli agza‐döwletlerine Deklarasiýanyň tekstini jar etmek we ony\nýurtlaryň hem‐de territoriýalaryň syýasy durumyna parh goýmazdan ýaýratmak, yglan etmek, esasan‐da mekdeplerde we beýleki okuw\njaýlarynda düşündirmek islegi bilen ýüz tutdy.\nGIRIŞ\nAdamzat kowmunyň agzalaryna deň derejede degişli mertebäniň we olaryň deň we aýrylmaz hukuklarynyň ykrar edilmeginiň azatlygyň,\nadalatyň hem‐de ählumumy dynçlygyň esasy bolup durýandygyny göz öňünde tutup; we\nAdam hukuklarynyň äsgerilmezliginiň we ýigrenilmeginiň adamzat ynsabyny haýykdyrýan wagşyçylyk aktlaryna getirendigini hem‐de\nadamlaryň söz we wyždan azatlygyna ýe we gorkudyr mätäçlikden azat boljak dünýäsiniň döredilmeginiň adamlaryň belent ymtylyşy diýlip\nyglan edilendigini göz öňünde tutup; we\nZulmuň we sütemiň garşysyna iň soňky serişde hökmünde adamynyň gozgalaňa baş götermek zerurlygyny aradan aýyrmak maksady bilen\nadam hukuklarynyň kanunyň häkimligi tarapyndan goralmagyny göz öňünde tutup; we\nHalklaryň arasyndaky dostlukly gatnaşyklaryň ösmegine ýardam etmek zerurlygyny göz öňünde tutup; we\nBirleşen Milletleriň halklarynyň esasy adam hukuklaryna, adam şahsyýetiniň mertebesine we gymmatyna, erkegiňdir aýalyň\ndeňhukuklylygyna öz ynamlaryny Düzgünnamada tassyklandyklaryny we sosial ösüşedir ýaşaýyş şertleriniň gowulanmagyna has erkinlikde\nýardam etmegi ýüreklerine düwendiklerini göz öňünde tutup; we\nAgza‐döwletleriň Birleşen Milletler Guramasy bilen hyzmatdaşlykda adam hukuklaryna we esasy azatlyklaryna hemmeleriň sarpa\ngoýmagyny we berjaý etmegini goldamaga borçlanandyklaryny göz öňünde tutup; we\nBu hukuklaryň we azatlyklaryň häsiýetine hemmeleriň düşünmeginiň olaryň doly ýerine ýetirilmegi üçin ägirt uly ähmiýetiniň bardygyny\ngöz öňünde tutup;\nBAŞ ASSAMBLEÝA\nADAM HUKUKLARYNYŇ BU ÄHLUMUMY DEKLARASIÝASYNY ähli halklaryň we döwletleriň ýerine ýetirmäge çalyşmaly wezipesi\nhökmünde jar edýär\nHer bir adam, jemgyýetiň her bir guramasy bu Deklarasiýany gündelik göz öňünde tutup, aň‐düşünje ýaýratmak we ylym‐bilim bermek\narkaly bu hukuklara we azatlyklara sarpa goýulmagyna ýardam etmäge milli we halkara progressiw çäreler arkaly, olaryň ählumumy we\ndegerli ykrar edilmegini hem‐de olaryň agza‐döwletler tarapyndan we şonuň ýaly‐da öz garamagyndaky halklaryň we territoriýalaryň içinde",
-            "Image": "77a7881b1e2ebef88e681311706e7341"
+            "Image": "77a7881b1e2ebef88e681311706e7341",
+            "Index": 0,
+            "Label": "1",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "ADAM HUKUKLARYNYŇ ÄHLUMUMY JARNAMASY\n1948‐nji ýylyň 10‐njy dekabrynda Birleşen Milletler Guramasynyň Baş Assambleýasy Adam hukuklarynyň ählumumy jarnamasyny\ntassyklady. Bu taryhy ähmiýetli karary kabul edip, Assambleýa Guramanyň ähli agza‐döwletlerine Deklarasiýanyň tekstini jar etmek we ony\nýurtlaryň hem‐de territoriýalaryň syýasy durumyna parh goýmazdan ýaýratmak, yglan etmek, esasan‐da mekdeplerde we beýleki okuw\njaýlarynda düşündirmek islegi bilen ýüz tutdy.\nGIRIŞ\nAdamzat kowmunyň agzalaryna deň derejede degişli mertebäniň we olaryň deň we aýrylmaz hukuklarynyň ykrar edilmeginiň azatlygyň,\nadalatyň hem‐de ählumumy dynçlygyň esasy bolup durýandygyny göz öňünde tutup; we\nAdam hukuklarynyň äsgerilmezliginiň we ýigrenilmeginiň adamzat ynsabyny haýykdyrýan wagşyçylyk aktlaryna getirendigini hem‐de\nadamlaryň söz we wyždan azatlygyna ýe we gorkudyr mätäçlikden azat boljak dünýäsiniň döredilmeginiň adamlaryň belent ymtylyşy diýlip\nyglan edilendigini göz öňünde tutup; we\nZulmuň we sütemiň garşysyna iň soňky serişde hökmünde adamynyň gozgalaňa baş götermek zerurlygyny aradan aýyrmak maksady bilen\nadam hukuklarynyň kanunyň häkimligi tarapyndan goralmagyny göz öňünde tutup; we\nHalklaryň arasyndaky dostlukly gatnaşyklaryň ösmegine ýardam etmek zerurlygyny göz öňünde tutup; we\nBirleşen Milletleriň halklarynyň esasy adam hukuklaryna, adam şahsyýetiniň mertebesine we gymmatyna, erkegiňdir aýalyň\ndeňhukuklylygyna öz ynamlaryny Düzgünnamada tassyklandyklaryny we sosial ösüşedir ýaşaýyş şertleriniň gowulanmagyna has erkinlikde\nýardam etmegi ýüreklerine düwendiklerini göz öňünde tutup; we\nAgza‐döwletleriň Birleşen Milletler Guramasy bilen hyzmatdaşlykda adam hukuklaryna we esasy azatlyklaryna hemmeleriň sarpa\ngoýmagyny we berjaý etmegini goldamaga borçlanandyklaryny göz öňünde tutup; we\nBu hukuklaryň we azatlyklaryň häsiýetine hemmeleriň düşünmeginiň olaryň doly ýerine ýetirilmegi üçin ägirt uly ähmiýetiniň bardygyny\ngöz öňünde tutup;\nBAŞ ASSAMBLEÝA\nADAM HUKUKLARYNYŇ BU ÄHLUMUMY DEKLARASIÝASYNY ähli halklaryň we döwletleriň ýerine ýetirmäge çalyşmaly wezipesi\nhökmünde jar edýär\nHer bir adam, jemgyýetiň her bir guramasy bu Deklarasiýany gündelik göz öňünde tutup, aň‐düşünje ýaýratmak we ylym‐bilim bermek\narkaly bu hukuklara we azatlyklara sarpa goýulmagyna ýardam etmäge milli we halkara progressiw çäreler arkaly, olaryň ählumumy we\ndegerli ykrar edilmegini hem‐de olaryň agza‐döwletler tarapyndan we şonuň ýaly‐da öz garamagyndaky halklaryň we territoriýalaryň içinde"
         },
         "1": {
-            "Label": "2",
-            "Index": 1,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
             ],
-            "Text": "ykrar edilmegini gazanmaga jan etmelidirler.\n1‐nji madda:\nAdamlaryň hemmesi azat dogulýarlar we öz mertebesi hem‐de hukuklary boýunça ilkibaşdan deňdirler. Olara ozal‐başdan aň, ynsap\nberlendir we biri‐birine özara doganlyk ruhunda çemeleşmek olaryň ýaraşygydyr.\n2‐nji madda:\nHer bir adam jynsyna, derisiniň reňkine, aýal‐ erkekligine, diline, dinine, syýasy ýa‐da beýleki ynamlaryna, milli we sosial gelip çykyşyna,\nemläk ýagdaýyna, haýsy gatlakdandygyna ýa‐da gaýry tapawutlaryna garamazdan, bu Deklarasiýada jar edilen ähli hukuklara we ähli\nazatlyklara ýedir.\nMundan başga‐da, adamynyň ýerliginiň, ýurdunyň ýa‐da gelip çykan territoriýasynyň syýasy, hukuk ýa‐da halkara durumy esasynda, ol\nterritoriýanyň bakna ýa bakna däldigine, garaşsyzlygyna ýa‐da haýsydyr bir görnüşde özbaşdaklygynyň çäklendirilendigine esaslanan hiç bir\ntapawutlandyrma bolmaly däldir.\n3‐nji madda:\nHer bir adam ýaşaýyşa, azatlyga we şahsy eldegrilmezlige haklydyr.\n4‐nji madda:\nHiç kim gulçulykda ýa‐da baknalykda saklanyp bilinmez; gulçulygyň we gul söwdasynyň ähli görnüşleri gadagan edilýär.\n5‐nji madda:\nHiç kim öz adamçylyk mertebesini depeleýän, kemsidiji gatnaşyga we rehimsiz jeza çäresine duçar edilmeli däldir.\n6‐njy madda:\nHer bir adam, nirededigine garamazdan, özüniň hukuk subýekti hökmünde ykrar edilmegine haklydyr.\n7‐nji madda:\nAdamlaryň hemmesi kanunyň öňünde deňdirler we kanunyň goragyndan peýdalanmaga deň derejede haklydyrlar. Adamlaryň hemmesi bu\nDeklarasiýany bozýan her bir diskriminasiýadan we şeýle diskriminasiýa öjükdirmeden goralmaga deň derejede haklydyr.\n8‐nji madda:\nHer bir adam konstitusiýanyň ýa‐da kanunyň özüne beren esasy hukuklary bozulan ýagdaýynda öz hukuklaryny başarnykly milli sudlar arkaly\nnetijeli dikeltmäge haklydyr.",
-            "Image": "9bce87dafce2801a917bd3529c4bfdb3"
+            "Image": "9bce87dafce2801a917bd3529c4bfdb3",
+            "Index": 1,
+            "Label": "2",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "ykrar edilmegini gazanmaga jan etmelidirler.\n1‐nji madda:\nAdamlaryň hemmesi azat dogulýarlar we öz mertebesi hem‐de hukuklary boýunça ilkibaşdan deňdirler. Olara ozal‐başdan aň, ynsap\nberlendir we biri‐birine özara doganlyk ruhunda çemeleşmek olaryň ýaraşygydyr.\n2‐nji madda:\nHer bir adam jynsyna, derisiniň reňkine, aýal‐ erkekligine, diline, dinine, syýasy ýa‐da beýleki ynamlaryna, milli we sosial gelip çykyşyna,\nemläk ýagdaýyna, haýsy gatlakdandygyna ýa‐da gaýry tapawutlaryna garamazdan, bu Deklarasiýada jar edilen ähli hukuklara we ähli\nazatlyklara ýedir.\nMundan başga‐da, adamynyň ýerliginiň, ýurdunyň ýa‐da gelip çykan territoriýasynyň syýasy, hukuk ýa‐da halkara durumy esasynda, ol\nterritoriýanyň bakna ýa bakna däldigine, garaşsyzlygyna ýa‐da haýsydyr bir görnüşde özbaşdaklygynyň çäklendirilendigine esaslanan hiç bir\ntapawutlandyrma bolmaly däldir.\n3‐nji madda:\nHer bir adam ýaşaýyşa, azatlyga we şahsy eldegrilmezlige haklydyr.\n4‐nji madda:\nHiç kim gulçulykda ýa‐da baknalykda saklanyp bilinmez; gulçulygyň we gul söwdasynyň ähli görnüşleri gadagan edilýär.\n5‐nji madda:\nHiç kim öz adamçylyk mertebesini depeleýän, kemsidiji gatnaşyga we rehimsiz jeza çäresine duçar edilmeli däldir.\n6‐njy madda:\nHer bir adam, nirededigine garamazdan, özüniň hukuk subýekti hökmünde ykrar edilmegine haklydyr.\n7‐nji madda:\nAdamlaryň hemmesi kanunyň öňünde deňdirler we kanunyň goragyndan peýdalanmaga deň derejede haklydyrlar. Adamlaryň hemmesi bu\nDeklarasiýany bozýan her bir diskriminasiýadan we şeýle diskriminasiýa öjükdirmeden goralmaga deň derejede haklydyr.\n8‐nji madda:\nHer bir adam konstitusiýanyň ýa‐da kanunyň özüne beren esasy hukuklary bozulan ýagdaýynda öz hukuklaryny başarnykly milli sudlar arkaly\nnetijeli dikeltmäge haklydyr."
         },
         "2": {
-            "Label": "3",
-            "Index": 2,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
             ],
-            "Text": "9‐njy madda:\nHiç kim eden‐ýtdilikli tussag edilmäge, saklanylmaga ýa‐da ýurdundan kowulmaga duçar edilip bilinmez.\n10‐njy madda:\nHer bir adam öz hukuklarynyň we borçlarynyň kesgitlenmegi we özüne bildirilen jenaýat aýyplamasynyň esaslydygyny anyklamak üçin doly\ndeňhukuklylyk esasynda öz işiniň açyk we adalatyň ähli talaplaryna laýyklykda garaşsyz we bitarap sudda seredilmegine haklydyr.\n11‐nji madda:\nJenaýat edenlikde aýyp bildirilýän her bir adam tä oňa goranmaga ähli mümkinçilikler döredilen açyk sud prosesinde ýazyklydygy kanuny ýol\nbilen boýnuna goýulýança günäsiz hasaplanmaga haklydyr.\nIlki edilen wagtynda milli kanunlara we halkara kanunçylygyna görä jenaýaty emele getirmedik haýsydyr bir hereketi edenligi ýa‐da etmänligi\nesasynda hiç kim ýazgarylyp bilinmez. Şeýle‐de, jenaýat edilen wagtynda bu babatda ulanylmagy mümkin bolan jeza çäresinden agyr çäre\ngörlüp bilinmez.\n12‐nji madda:\nHiç kim öz şahsy we maşgala durmuşyna eden‐ýtdilikli gatyşylmagyna, öz ýaşaýyş jaýynyň eldegrilmezliginiň, hat‐habar\naragatnaşyklarynyň gizlinliginiň ýa‐da öz at‐abraýynyň we mertebesiniň garawsyz bozulmagyna duçar edilip bilinmez. Her bir adam öz\ndurmuşyna beýle gatyşmalardan ýa‐da kastdan kanun arkaly goranmaga haklydyr.\n13‐nji madda:\nHer bir adam her bir döwletiň çäginde erkin hereket etmäge we özüne ýaşamaga ýer gözlemäge haklydyr.\nHer bir adam islendik ýurtdan, şol sanda öz ýurdundan‐da, çykyp gitmäge we öz ýurduna ýene‐de dolanmaga haklydyr.\n14‐nji madda:\nHer bir adam ýanalmalardan gaýry ýurtlarda gaçybatalga gözlemäge we ol gaçybatalgadan peýdalanmaga haklydyr.\nBu hukuk iş ýüzünde syýasy däl sebäplere görä edilen jenaýat ýa‐da Birleşen Milletler Guramasynyň maksatlaryna we prinsiplerine garşy\ngelýän etmişler sebäpli yzarlanylanda, ulanylyp bilinmez.\n15‐nji madda:\nHer bir adam graždan bolmaga haklydyr.\nHiç kim öz graždanlygyndan ýa‐da graždanlygyny üýtgetmek hukugyndan eden‐ýtdilikli kesilip bilinmez.",
-            "Image": "7c1f2674c4a369eeec10fddf7ccb4d38"
+            "Image": "7c1f2674c4a369eeec10fddf7ccb4d38",
+            "Index": 2,
+            "Label": "3",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "9‐njy madda:\nHiç kim eden‐ýtdilikli tussag edilmäge, saklanylmaga ýa‐da ýurdundan kowulmaga duçar edilip bilinmez.\n10‐njy madda:\nHer bir adam öz hukuklarynyň we borçlarynyň kesgitlenmegi we özüne bildirilen jenaýat aýyplamasynyň esaslydygyny anyklamak üçin doly\ndeňhukuklylyk esasynda öz işiniň açyk we adalatyň ähli talaplaryna laýyklykda garaşsyz we bitarap sudda seredilmegine haklydyr.\n11‐nji madda:\nJenaýat edenlikde aýyp bildirilýän her bir adam tä oňa goranmaga ähli mümkinçilikler döredilen açyk sud prosesinde ýazyklydygy kanuny ýol\nbilen boýnuna goýulýança günäsiz hasaplanmaga haklydyr.\nIlki edilen wagtynda milli kanunlara we halkara kanunçylygyna görä jenaýaty emele getirmedik haýsydyr bir hereketi edenligi ýa‐da etmänligi\nesasynda hiç kim ýazgarylyp bilinmez. Şeýle‐de, jenaýat edilen wagtynda bu babatda ulanylmagy mümkin bolan jeza çäresinden agyr çäre\ngörlüp bilinmez.\n12‐nji madda:\nHiç kim öz şahsy we maşgala durmuşyna eden‐ýtdilikli gatyşylmagyna, öz ýaşaýyş jaýynyň eldegrilmezliginiň, hat‐habar\naragatnaşyklarynyň gizlinliginiň ýa‐da öz at‐abraýynyň we mertebesiniň garawsyz bozulmagyna duçar edilip bilinmez. Her bir adam öz\ndurmuşyna beýle gatyşmalardan ýa‐da kastdan kanun arkaly goranmaga haklydyr.\n13‐nji madda:\nHer bir adam her bir döwletiň çäginde erkin hereket etmäge we özüne ýaşamaga ýer gözlemäge haklydyr.\nHer bir adam islendik ýurtdan, şol sanda öz ýurdundan‐da, çykyp gitmäge we öz ýurduna ýene‐de dolanmaga haklydyr.\n14‐nji madda:\nHer bir adam ýanalmalardan gaýry ýurtlarda gaçybatalga gözlemäge we ol gaçybatalgadan peýdalanmaga haklydyr.\nBu hukuk iş ýüzünde syýasy däl sebäplere görä edilen jenaýat ýa‐da Birleşen Milletler Guramasynyň maksatlaryna we prinsiplerine garşy\ngelýän etmişler sebäpli yzarlanylanda, ulanylyp bilinmez.\n15‐nji madda:\nHer bir adam graždan bolmaga haklydyr.\nHiç kim öz graždanlygyndan ýa‐da graždanlygyny üýtgetmek hukugyndan eden‐ýtdilikli kesilip bilinmez."
         },
         "3": {
-            "Label": "4",
-            "Index": 3,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
             ],
-            "Text": "16‐njy madda:\nKämillik ýaşyna ýeten erkekler we aýallar jyns, milli we dini aýratynlyklara görä hiç hili çäklendirilmezden öýlenmäge we maşgala gurmaga\nhaklydyrlar. Olar nikalaşylanda, nikada durlanda we nika bozulanda deň hukuklardan peýdalanýarlar.\nNika ‐ durmuş gurýanlaryň ikisiniň‐de öz erkine we diňe doly razylygyna görä gyýlyp bilner.\nMaşgala jemgyýetiň tebigy hem‐de esasy öýjügidir we jemgyýetiň we döwletiň goragyna daýanmaga haklydyr.\n17‐nji madda:\nHer bir adam ýekebara ýa‐da beýlekiler bilen umumy emlägi edinmäge haklydyr.\nHiç kim öz emläginden esassyz el üzdürilmeli däldir.\n18‐nji madda:\nHer bir adam pikir, ynam we din azatlygyna haklydyr; bu hukuk diniňi ýa‐da ynamyňy üýtgetmek azatlygyny we öz diniňe ýa‐da ynamyňa\nuýmak hem‐de oňa ýeke özüň we il bilen bile hususy tertipde, şeýle‐de köpçülikde sežde etmek, ýörelge, hudaýa çokunmak we dini ritual\ndessurlaryň azatlygyny öz içine alýar.\n19‐njy madda:\nHer bir adam ynam azatlygyna we ynamyny erkin beýan etmäge haklydyr; bu hukuk öz ynamyňa päsgelsiz uýmak hem‐de informasiýany we\nideýalary islendik serişdeler arkaly we döwletleriň çäklerinden garaşsyz gözlemek hem‐de ýaýratmak azatlygyny öz içine alýar.\n20‐nji madda:\nHer bir adam parahat ýygnanyşyklar we birleşmeler azatlygyna haklydyr.\nHiç kim haýsydyr bir birleşmä girmäge mejbur edilip bilinmez.\n21‐nji madda:\nHer bir adam gönüden‐göni ýa‐da erkin saýlanan wekilleriň üsti bilen öz döwletini dolandyrmaga gatnaşmaga haklydyr.\nHer bir adam öz ýurdunda döwlet gullugynda durmaga deň haklydyr.\nHalkyň erk‐islegi hökümetiň ygtyýarynyň esasy bolmalydyr; bu erk wagtly‐wagtynda we ählumumy deňhukukly saýlawlaryň üpjün edilen\nýagdaýynda we galplaşdyrylmadyk saýlawlarda gizlin ýa‐da saýlaw hukuklarynyň azatlygyny doly üpjün edýän beýleki deň ähmiýetli\ngörnüşdäki ses berişlikde öz beýanyny tapmalydyr.\n22‐nji madda:",
-            "Image": "d0f293eb18eb70839b2667e970ce2819"
+            "Image": "d0f293eb18eb70839b2667e970ce2819",
+            "Index": 3,
+            "Label": "4",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "16‐njy madda:\nKämillik ýaşyna ýeten erkekler we aýallar jyns, milli we dini aýratynlyklara görä hiç hili çäklendirilmezden öýlenmäge we maşgala gurmaga\nhaklydyrlar. Olar nikalaşylanda, nikada durlanda we nika bozulanda deň hukuklardan peýdalanýarlar.\nNika ‐ durmuş gurýanlaryň ikisiniň‐de öz erkine we diňe doly razylygyna görä gyýlyp bilner.\nMaşgala jemgyýetiň tebigy hem‐de esasy öýjügidir we jemgyýetiň we döwletiň goragyna daýanmaga haklydyr.\n17‐nji madda:\nHer bir adam ýekebara ýa‐da beýlekiler bilen umumy emlägi edinmäge haklydyr.\nHiç kim öz emläginden esassyz el üzdürilmeli däldir.\n18‐nji madda:\nHer bir adam pikir, ynam we din azatlygyna haklydyr; bu hukuk diniňi ýa‐da ynamyňy üýtgetmek azatlygyny we öz diniňe ýa‐da ynamyňa\nuýmak hem‐de oňa ýeke özüň we il bilen bile hususy tertipde, şeýle‐de köpçülikde sežde etmek, ýörelge, hudaýa çokunmak we dini ritual\ndessurlaryň azatlygyny öz içine alýar.\n19‐njy madda:\nHer bir adam ynam azatlygyna we ynamyny erkin beýan etmäge haklydyr; bu hukuk öz ynamyňa päsgelsiz uýmak hem‐de informasiýany we\nideýalary islendik serişdeler arkaly we döwletleriň çäklerinden garaşsyz gözlemek hem‐de ýaýratmak azatlygyny öz içine alýar.\n20‐nji madda:\nHer bir adam parahat ýygnanyşyklar we birleşmeler azatlygyna haklydyr.\nHiç kim haýsydyr bir birleşmä girmäge mejbur edilip bilinmez.\n21‐nji madda:\nHer bir adam gönüden‐göni ýa‐da erkin saýlanan wekilleriň üsti bilen öz döwletini dolandyrmaga gatnaşmaga haklydyr.\nHer bir adam öz ýurdunda döwlet gullugynda durmaga deň haklydyr.\nHalkyň erk‐islegi hökümetiň ygtyýarynyň esasy bolmalydyr; bu erk wagtly‐wagtynda we ählumumy deňhukukly saýlawlaryň üpjün edilen\nýagdaýynda we galplaşdyrylmadyk saýlawlarda gizlin ýa‐da saýlaw hukuklarynyň azatlygyny doly üpjün edýän beýleki deň ähmiýetli\ngörnüşdäki ses berişlikde öz beýanyny tapmalydyr.\n22‐nji madda:"
         },
         "4": {
-            "Label": "5",
-            "Index": 4,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
             ],
-            "Text": "Her bir adam, jemgyýetiň agzasy hökmünde, sosial üpjünçilige hem‐de öz mertebesini saklamak we şahsyýetiniň azat ösüşini üpjün etmek\nüçin ykdysady, sosial we medeni ugurlarda zerur bolan hukuklaryny milli tagallalar we halkara hyzmatdaşlygy arkaly hem‐de her döwletiň öz\ndüzümine we resurslaryna laýyklykda amala aşyrmaga haklydyr.\n23‐nji madda:\nHer bir adam zähmet çekmäge, iş saýlamak azatlygyna, adalatly we oňaýly zähmet şertlerine hem‐de işsizlikden goralmaga haklydyr.\nHer bir adam deň zähmet üçin, hiç hili kemsidilmä duçar edilmezden, deň gazanja haklydyr.\nHer bir işleýän adam özüniň we maşgalasynyň ynsana mynasyp ýaşaýyşyny üpjün edýän we zerur ýagdaýda sosial üpjünçiligiň goşmaça\nserişdeleri bilen üsti ýetirilýän adalatly we kanagatlanarly töleg almaga haklydyr.\nHer bir adam professional arkadaşlygy döretmäge we öz bähbitlerini goramak üçin professional arkadaşlyklara girmäge haklydyr.\n24‐nji madda:\nHer bir adam iş gününiň göwnejaý çäklendirilmeginiň hasabyna wagtly‐wagtyna we tölegli zähmet rugsadyna çykmaga hem‐de dynç\nwagtynyň bolmagyna haklydyr.\n25‐nji madda:\nHer bir adam iýmiti, geýim‐gejimi, ýaşaýyş jaýyny, medisina kömegini öz içine alýan hem‐de onuň özüniň we maşgalasynyň saglygynydyr\nmaddy hal‐ýagdaýyny, şeýle‐de işsiz galan, ýarawsyz, maýyp bolan, dul galan, garran ýa‐da özüne bagly bolmazdan, ýaşaýyş serişdeleriniň\nýitirilmegine getiren beýleki ýagdaýlarda zerur sosial hyzmatlary we üpjünçiligi göz öňünde tutýan ýaşaýyş derejesine haklydyr.\nEneler we çagalar aýratyn idege hem‐de ýardama haklydyrlar. Nikada doglanlygyna ýa‐da däldigine garamazdan, ähli çagalar deň sosial\ngoragdan peýdalanmalydyrlar.\n26‐njy madda:\nHer bir adam bilim almaga haklydyr. Iň bärkisi başlangyç we umumy bilim mugt bolmalydyr. Başlangyç bilim hökmany bolmalydyr. Tehniki\nwe professional bilim umumy elýeterli we ýokary bilim her kimiň ukybyna baglylykda hemmeler üçin elýeterli bolmalydyr.\nBilim adam şahsyýetiniň doly ösüşine hem‐de adam hukuklaryna we esasy azatlyklaryna sarpa goýluşynyň ýokarlanmagyna ugrukdyrylan\nbolmalydyr. Bilim ähli halklaryň, jynsy ýa‐da dini toparlaryň arasynda özara düşünişmäge, çydamlylyga we dostluga hem‐de Birleşen\nMilletler Guramasynyň parahatçylygy goramak işine ýardam etmelidir.\nKiçi ýaşly çagalary üçin bilimiň görnüşini saýlamaga gezek gelende, ene‐atalar artykmaç hukukdan peýdalanýarlar.\n27‐nji madda:",
-            "Image": "523f4d02578491a4e45c08ab3de1ff47"
+            "Image": "523f4d02578491a4e45c08ab3de1ff47",
+            "Index": 4,
+            "Label": "5",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Her bir adam, jemgyýetiň agzasy hökmünde, sosial üpjünçilige hem‐de öz mertebesini saklamak we şahsyýetiniň azat ösüşini üpjün etmek\nüçin ykdysady, sosial we medeni ugurlarda zerur bolan hukuklaryny milli tagallalar we halkara hyzmatdaşlygy arkaly hem‐de her döwletiň öz\ndüzümine we resurslaryna laýyklykda amala aşyrmaga haklydyr.\n23‐nji madda:\nHer bir adam zähmet çekmäge, iş saýlamak azatlygyna, adalatly we oňaýly zähmet şertlerine hem‐de işsizlikden goralmaga haklydyr.\nHer bir adam deň zähmet üçin, hiç hili kemsidilmä duçar edilmezden, deň gazanja haklydyr.\nHer bir işleýän adam özüniň we maşgalasynyň ynsana mynasyp ýaşaýyşyny üpjün edýän we zerur ýagdaýda sosial üpjünçiligiň goşmaça\nserişdeleri bilen üsti ýetirilýän adalatly we kanagatlanarly töleg almaga haklydyr.\nHer bir adam professional arkadaşlygy döretmäge we öz bähbitlerini goramak üçin professional arkadaşlyklara girmäge haklydyr.\n24‐nji madda:\nHer bir adam iş gününiň göwnejaý çäklendirilmeginiň hasabyna wagtly‐wagtyna we tölegli zähmet rugsadyna çykmaga hem‐de dynç\nwagtynyň bolmagyna haklydyr.\n25‐nji madda:\nHer bir adam iýmiti, geýim‐gejimi, ýaşaýyş jaýyny, medisina kömegini öz içine alýan hem‐de onuň özüniň we maşgalasynyň saglygynydyr\nmaddy hal‐ýagdaýyny, şeýle‐de işsiz galan, ýarawsyz, maýyp bolan, dul galan, garran ýa‐da özüne bagly bolmazdan, ýaşaýyş serişdeleriniň\nýitirilmegine getiren beýleki ýagdaýlarda zerur sosial hyzmatlary we üpjünçiligi göz öňünde tutýan ýaşaýyş derejesine haklydyr.\nEneler we çagalar aýratyn idege hem‐de ýardama haklydyrlar. Nikada doglanlygyna ýa‐da däldigine garamazdan, ähli çagalar deň sosial\ngoragdan peýdalanmalydyrlar.\n26‐njy madda:\nHer bir adam bilim almaga haklydyr. Iň bärkisi başlangyç we umumy bilim mugt bolmalydyr. Başlangyç bilim hökmany bolmalydyr. Tehniki\nwe professional bilim umumy elýeterli we ýokary bilim her kimiň ukybyna baglylykda hemmeler üçin elýeterli bolmalydyr.\nBilim adam şahsyýetiniň doly ösüşine hem‐de adam hukuklaryna we esasy azatlyklaryna sarpa goýluşynyň ýokarlanmagyna ugrukdyrylan\nbolmalydyr. Bilim ähli halklaryň, jynsy ýa‐da dini toparlaryň arasynda özara düşünişmäge, çydamlylyga we dostluga hem‐de Birleşen\nMilletler Guramasynyň parahatçylygy goramak işine ýardam etmelidir.\nKiçi ýaşly çagalary üçin bilimiň görnüşini saýlamaga gezek gelende, ene‐atalar artykmaç hukukdan peýdalanýarlar.\n27‐nji madda:"
         },
         "5": {
-            "Label": "6",
-            "Index": 5,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
             ],
-            "Text": "Her bir adam jemgyýetiň medeni‐kultur durmuşyna erkin gatnaşmaga, sungatdan lezzet almaga, ylmy progrese gatnaşmaga we onuň\neşretlerinden peýdalanmaga haklydyr.\nHer bir adam awtor hökmünde öz ylmy, edebi‐çeper zähmetiniň netijesi bolup durýan ahlak we maddy bähbitleriniň goralmagyna haklydyr.\n28‐nji madda:\nHer bir adam bu Deklarasiýada beýan edilen hukuklaryň we azatlyklaryň doly dabaralanyp biljek sosial hem‐de halkara gurluşyna haklydyr.\n29‐njy madda:\nHer bir adamynyň onuň şahsyýet taýdan azat we doly ösüşiniň ýeke‐täk mümkin bolan ýeri ‐ jemgyýetiň öňünde borçlary bardyr.\nÖz hak‐hukuklarynydan we azatlyklaryndan peýdalanan wagtynda her bir adam kanun boýunça göz öňünde tutulan we diňe özgeleriň hak‐\nhukuklaryny we azatlyklaryny ýeterlik ykrar etmek we hormatlamak zerurlygyndan hem‐de demokratik jemgyýetçilik düzgünlerini, ahlagyň\nadalatly we jemgyýetiň umumy maddy hal‐ýagdaýynyň talaplaryny kanagatlandyrmakdan gelip çykýan çäklendirmelere duçar edilmelidir.\nBu hak‐hukuklar we azatlyklar durmuşa geçirilende, Birleşen Milletler Guramasynyň maksatlaryna we prinsiplerine ters gelmeli däldir.\n30‐njy madda:\nBu Deklarasiýanyň hiç bir bölümi belli bir döwlete, adamlar toparyna ýa‐da aýratyn adamlara Deklarasiýada beýan edilen hak‐hukuklaryň we\nazatlyklaryň ýoguna ýanmaga gönükdirilen haýsydyr bir işleri ýa‐da hereketleri etmäge hukuk berýär diýen manyda düşündirilip bilinmez.",
-            "Image": "e042bb9b5f66ab7f9d713ec2a99a880b"
+            "Image": "e042bb9b5f66ab7f9d713ec2a99a880b",
+            "Index": 5,
+            "Label": "6",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Her bir adam jemgyýetiň medeni‐kultur durmuşyna erkin gatnaşmaga, sungatdan lezzet almaga, ylmy progrese gatnaşmaga we onuň\neşretlerinden peýdalanmaga haklydyr.\nHer bir adam awtor hökmünde öz ylmy, edebi‐çeper zähmetiniň netijesi bolup durýan ahlak we maddy bähbitleriniň goralmagyna haklydyr.\n28‐nji madda:\nHer bir adam bu Deklarasiýada beýan edilen hukuklaryň we azatlyklaryň doly dabaralanyp biljek sosial hem‐de halkara gurluşyna haklydyr.\n29‐njy madda:\nHer bir adamynyň onuň şahsyýet taýdan azat we doly ösüşiniň ýeke‐täk mümkin bolan ýeri ‐ jemgyýetiň öňünde borçlary bardyr.\nÖz hak‐hukuklarynydan we azatlyklaryndan peýdalanan wagtynda her bir adam kanun boýunça göz öňünde tutulan we diňe özgeleriň hak‐\nhukuklaryny we azatlyklaryny ýeterlik ykrar etmek we hormatlamak zerurlygyndan hem‐de demokratik jemgyýetçilik düzgünlerini, ahlagyň\nadalatly we jemgyýetiň umumy maddy hal‐ýagdaýynyň talaplaryny kanagatlandyrmakdan gelip çykýan çäklendirmelere duçar edilmelidir.\nBu hak‐hukuklar we azatlyklar durmuşa geçirilende, Birleşen Milletler Guramasynyň maksatlaryna we prinsiplerine ters gelmeli däldir.\n30‐njy madda:\nBu Deklarasiýanyň hiç bir bölümi belli bir döwlete, adamlar toparyna ýa‐da aýratyn adamlara Deklarasiýada beýan edilen hak‐hukuklaryň we\nazatlyklaryň ýoguna ýanmaga gönükdirilen haýsydyr bir işleri ýa‐da hereketleri etmäge hukuk berýär diýen manyda düşündirilip bilinmez."
         }
     }
 }

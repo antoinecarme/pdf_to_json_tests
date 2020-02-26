@@ -1,80 +1,80 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581468289,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
+            ],
+            "Image": "40e075372478990762be0649625162ce",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
-            ],
-            "Text": "[missing]\n[missing]\n[missing]\n1.\nOpakatu ava yoro’a nda’ei tembigwaigwa oyoyatupri, sekotupri, vaëra, imboeteisara,\noikatu ipi’a yemoñeta, imbaekua, ndiyai yurekorairai ñepëi pëi ambua rese.\n2.\nOpakatu ava vireko yemboeteisa, iyavei ndaei ambua ava povri ve narä sekoira aipoëi ko\nikwachia pri imombeu, ndayayeavi avei ambua ava rese, yepe virekora, oñee, gwekosa\nviroya ambua tüpa, ipirer moröchi, sü, kuña, kuimbae ipia yemoñeta ambua ke ambua mbae\nrese, sekoise rumo ñepei tekwave, yepe vireko atira gwarepochi o ambua mbae.\nIyavei ndayamboyea viichira opakatu pia ñemoñeta sa inungar ambua tekwa gwasuve osose\nmborokwaita, inungar tupriavei imboetei-sara, ndaeichira sokendapri nungar yaikora.\n3.\nOpakatu ava vireko yemboeteisa gvvekove agwa ndaei vaëra tembigwaigwa sekoi iyavei\nvirekora pisikora mbae, mbae tei sui.\n4.\nNdiyai ete avapovrire yaiko tembigwaigwa tëi iyavei ndiyai eté yande reko rai, raira\nambua ava rese.\n5.\nNidayai eté vireko rai, raira inungar okwara sese, oinupara, ae ndipotasairi.\n6.\nOpakatu ava vireko yemboeteisa opakatu rupi, iyavei vireko vaëra kuachiar gwerer pipe.\n7.\nOpakatu oyoyatupri yaiko, iyavei ndaya yeavii mborokwaita gwasu pipe inungar avei ko\nmborokwaita yande pisirora yande repira tekoai-sui ndiyai avei ndaseroyasai ko\nimombeupri akoi oimera, ñepei ava ndayande mboetei chira ko mborokwaita gwasu\nomboyapisakara.\n8.\nOpakatu ava oikatuite opakatu mbae virekoägwa mborerekwar rembiepiave viroya vaëra\noimese mbaembae teï o virokwapota mose ke imbae yureko ichui oikuase rumo mborerekuar\nosepira ko oime vae mborokwaita gwasu pipe.\n9.\nNdiyai été ñepei ava sokendasañotei o omondora ambua tekwave yureko.",
-            "Image": "40e075372478990762be0649625162ce"
+            "Text": "[missing]\n[missing]\n[missing]\n1.\nOpakatu ava yoro’a nda’ei tembigwaigwa oyoyatupri, sekotupri, vaëra, imboeteisara,\noikatu ipi’a yemoñeta, imbaekua, ndiyai yurekorairai ñepëi pëi ambua rese.\n2.\nOpakatu ava vireko yemboeteisa, iyavei ndaei ambua ava povri ve narä sekoira aipoëi ko\nikwachia pri imombeu, ndayayeavi avei ambua ava rese, yepe virekora, oñee, gwekosa\nviroya ambua tüpa, ipirer moröchi, sü, kuña, kuimbae ipia yemoñeta ambua ke ambua mbae\nrese, sekoise rumo ñepei tekwave, yepe vireko atira gwarepochi o ambua mbae.\nIyavei ndayamboyea viichira opakatu pia ñemoñeta sa inungar ambua tekwa gwasuve osose\nmborokwaita, inungar tupriavei imboetei-sara, ndaeichira sokendapri nungar yaikora.\n3.\nOpakatu ava vireko yemboeteisa gvvekove agwa ndaei vaëra tembigwaigwa sekoi iyavei\nvirekora pisikora mbae, mbae tei sui.\n4.\nNdiyai ete avapovrire yaiko tembigwaigwa tëi iyavei ndiyai eté yande reko rai, raira\nambua ava rese.\n5.\nNidayai eté vireko rai, raira inungar okwara sese, oinupara, ae ndipotasairi.\n6.\nOpakatu ava vireko yemboeteisa opakatu rupi, iyavei vireko vaëra kuachiar gwerer pipe.\n7.\nOpakatu oyoyatupri yaiko, iyavei ndaya yeavii mborokwaita gwasu pipe inungar avei ko\nmborokwaita yande pisirora yande repira tekoai-sui ndiyai avei ndaseroyasai ko\nimombeupri akoi oimera, ñepei ava ndayande mboetei chira ko mborokwaita gwasu\nomboyapisakara.\n8.\nOpakatu ava oikatuite opakatu mbae virekoägwa mborerekwar rembiepiave viroya vaëra\noimese mbaembae teï o virokwapota mose ke imbae yureko ichui oikuase rumo mborerekuar\nosepira ko oime vae mborokwaita gwasu pipe.\n9.\nNdiyai été ñepei ava sokendasañotei o omondora ambua tekwave yureko."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
+            ],
+            "Image": "edd790576b55c4b8180624d3c85f1042",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
-            ],
-            "Text": "10.\nOpakatu ava oyoyatupri vireko oñeëagwa, sendusara iyavei mborerekuar ndaeichira neoeiño\noipitiviïra mbae omoingatu vaëra oyavise mbae sembiapo yureko.\n11.\nOpakatu ava maechiroi pipe suitëi osokenda pota vae yureko, oikatu ñoite öse evokoi\nnungar sui ndipoise sepiasar, imnbeusar, ndoikuaukaise mbae sembiapo yureko.\nÑepëi ava ndiyaiete ke mbae rai oyapo vae ipare koiye tëi imaenduara sese yureko ko ité\nïviëi kwese suive oiko eira, ipare sererpipe mbae oime remo vae oñoma gwasura yamondo\nñoite mborerekuar po ve oyasa ve tëi. Mbae oyapo vae yipive ndayaikatuiri yambyoa ipare\ntëi, ndiyaiavei mbae mi sui sokendasara.\n12.\nÑepëi ava ndiyai oñe’e yande reer pipe, ndiyai avei oñe’e yandereko rese, yande reta\nrese o kuachiar ou vae yande rerpiipe ndiyai avei aerane ñotëi aipo ei ko ipia ñemoñeta\neira. Opakatu ava imboeteisara iyavei oipisirora ko mborokwaita aipo nungar sui.\n13.\nOpakatu ava oikatu ogwata gwembimbotar rupi iyavei osekara gwekosagwä. Ko yande ivi\ngwasu pipe.\nOpakatu ava oikatu avei öse gwekwa sui ambua ava rekua ve ipare ikerise oyeviri gwekwa\nve avei.\n14.\nAkoi pitase sasavi oikatu oseka oi aeve ava otiäro vaerese iañeko yureko ke ambua\ntekura rupi.\nKo ikwachiapri yanderepi vaëra ndoikatuichira yanderepi yayapose mbae, mbae tëi opakatu\nrembiepiave.\n15.\nOpakatu ava vireko poromboeteisa ikwachiapri vaëra ñepei tekwa gwasuve.\nÑepëi ava upe ndiyaete ani yaera oyekwachia potase ambua tekwa gwasuve osekuñarö potase\ngwekwa.\n16.\nKuña, kuimbae akoi oyepotase iaraviter omendagwä nomaëichira sepiaka rese, ipirer rese,\ntüpa viroya vaerese o ambua tekwa pendarse inungar ñoite oikatu omenda, iyavei\nndaechiria ichi o tu tëi ko aipota nemer gwä o nde rembireko gwä eira chupe yureko.\nAkoi omenda potavae oyemoñeta itera yureko aeite oye mongerëira yureko aeseramo iyesupa\noipitivira. Yorekoi tupri vaëra koyekatu ambua ava päu ve, iyavei imboetepri yurekoira\ninangar ambua ava tekwa ve ikwai vae vireko aveira propisïrosa. Mborokwaita spipe.\n17.\nOpakatu ava oikatu virekora. Mbae gwerer pipe o oñomara opakatu rer pipe aveino.",
-            "Image": "edd790576b55c4b8180624d3c85f1042"
+            "Text": "10.\nOpakatu ava oyoyatupri vireko oñeëagwa, sendusara iyavei mborerekuar ndaeichira neoeiño\noipitiviïra mbae omoingatu vaëra oyavise mbae sembiapo yureko.\n11.\nOpakatu ava maechiroi pipe suitëi osokenda pota vae yureko, oikatu ñoite öse evokoi\nnungar sui ndipoise sepiasar, imnbeusar, ndoikuaukaise mbae sembiapo yureko.\nÑepëi ava ndiyaiete ke mbae rai oyapo vae ipare koiye tëi imaenduara sese yureko ko ité\nïviëi kwese suive oiko eira, ipare sererpipe mbae oime remo vae oñoma gwasura yamondo\nñoite mborerekuar po ve oyasa ve tëi. Mbae oyapo vae yipive ndayaikatuiri yambyoa ipare\ntëi, ndiyaiavei mbae mi sui sokendasara.\n12.\nÑepëi ava ndiyai oñe’e yande reer pipe, ndiyai avei oñe’e yandereko rese, yande reta\nrese o kuachiar ou vae yande rerpiipe ndiyai avei aerane ñotëi aipo ei ko ipia ñemoñeta\neira. Opakatu ava imboeteisara iyavei oipisirora ko mborokwaita aipo nungar sui.\n13.\nOpakatu ava oikatu ogwata gwembimbotar rupi iyavei osekara gwekosagwä. Ko yande ivi\ngwasu pipe.\nOpakatu ava oikatu avei öse gwekwa sui ambua ava rekua ve ipare ikerise oyeviri gwekwa\nve avei.\n14.\nAkoi pitase sasavi oikatu oseka oi aeve ava otiäro vaerese iañeko yureko ke ambua\ntekura rupi.\nKo ikwachiapri yanderepi vaëra ndoikatuichira yanderepi yayapose mbae, mbae tëi opakatu\nrembiepiave.\n15.\nOpakatu ava vireko poromboeteisa ikwachiapri vaëra ñepei tekwa gwasuve.\nÑepëi ava upe ndiyaete ani yaera oyekwachia potase ambua tekwa gwasuve osekuñarö potase\ngwekwa.\n16.\nKuña, kuimbae akoi oyepotase iaraviter omendagwä nomaëichira sepiaka rese, ipirer rese,\ntüpa viroya vaerese o ambua tekwa pendarse inungar ñoite oikatu omenda, iyavei\nndaechiria ichi o tu tëi ko aipota nemer gwä o nde rembireko gwä eira chupe yureko.\nAkoi omenda potavae oyemoñeta itera yureko aeite oye mongerëira yureko aeseramo iyesupa\noipitivira. Yorekoi tupri vaëra koyekatu ambua ava päu ve, iyavei imboetepri yurekoira\ninangar ambua ava tekwa ve ikwai vae vireko aveira propisïrosa. Mborokwaita spipe.\n17.\nOpakatu ava oikatu virekora. Mbae gwerer pipe o oñomara opakatu rer pipe aveino."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
+            ],
+            "Image": "3cd70b2879da413d0cc62394d3358286",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
-            ],
-            "Text": "Ñepëi ava ndoikatuichira ani ei vaera chupe.\n18.\nOpakatu ava virekose opiañemo~etaza oyapopota vae gwembimbotar rupi, osopotase ambua\ntüparo rupi, ova potase ambua tüparove, oikatuile a’ea oyapo o setase inungar avei\noikatu okar rupi o gweta pipevemi, yemboesave, opakaturupi inungar ñoite oikatura,\nyapo.\n19.\nOpakatu ava oikatu pia ñemoñeta osenduka. Ndiyai iñee suitëi imoñapri sekoira oikatu\navei mbae taikwa oya oporandura oipisira ambua piañemoñetasa oikatu avei senduka,\nndipoichitiera aiponderei tene ei väera chupe omondora opakatu ñeërendukasarupi. O\nikuachiapri pipe.\n20.\nOpakatu ava oikatu oyemboati yureko gwenbimbotar rupi. Ndipoichira ava omoañei-añeira\nvae che piri tasekoi oyapavetëi. Chupe.\n21.\nOpakatu ava oikatuñoite oike mborerekwargwä gwewa gwasu pipe osenoise yureko.\nOpakatu ava oikatu yuraso oyoyatupri ambua avarese. Mborerekwar taiko tekwa pipe eise.\nTekwa oipotase gwembimbotar omondo mborerekwar gwekwa pipe narä yureko ko mboerekwar\ngwä ndoikatuichietera gwambimbotar ño tëi oike.\n22.\nOpakatu ava, Tekwa pipendat virekora poropisirösa ava päuve, oikatuaveira mbae vireko\nmborerekwar vaëra semimongana ari yakatu nara opakatu sembimboyesu pe aveino.\n23.\nOpakatu ava oikatu vyireko vaëra opaeavikisa, gwembimbotar rupi oiporavora mboraviki\noyoyatuprira aviye vae, iyavei oimera pisirösa mboraviki oimeyoño vaëra. Chupe\nOpakatu ava ndiyaeiete yakapri tëi sekoira, imboravikirepri inungar amibua.\nOpakatu ava oparaviki vae ndiyaiete ndasepii pii chupe iyavei osupitira opakatu mbae\nrepirä sembimboyesu upe inungar ambua ikwai, iyavei oimese ambua poropitiviisa\noikatuite mbae mondo chupe akoi ipanese mbae chupe.\nOpakatu ava oikatu omoime yemboatisa oike vaëra ïpauve oyepiägwa o oporandu vaëra mbae\noipotavae, yureko.\n24.\nNdoviröpituichira, ambuano virekoaveira, pitu’usa mboraviki pauve inungar aveirumo\nsepira chupe.\n25.\nOpakatu ava viorekora oikotupri vaëra, iyavei sëta pendar no, mberasi sui, virekora",
-            "Image": "3cd70b2879da413d0cc62394d3358286"
+            "Text": "Ñepëi ava ndoikatuichira ani ei vaera chupe.\n18.\nOpakatu ava virekose opiañemo~etaza oyapopota vae gwembimbotar rupi, osopotase ambua\ntüparo rupi, ova potase ambua tüparove, oikatuile a’ea oyapo o setase inungar avei\noikatu okar rupi o gweta pipevemi, yemboesave, opakaturupi inungar ñoite oikatura,\nyapo.\n19.\nOpakatu ava oikatu pia ñemoñeta osenduka. Ndiyai iñee suitëi imoñapri sekoira oikatu\navei mbae taikwa oya oporandura oipisira ambua piañemoñetasa oikatu avei senduka,\nndipoichitiera aiponderei tene ei väera chupe omondora opakatu ñeërendukasarupi. O\nikuachiapri pipe.\n20.\nOpakatu ava oikatu oyemboati yureko gwenbimbotar rupi. Ndipoichira ava omoañei-añeira\nvae che piri tasekoi oyapavetëi. Chupe.\n21.\nOpakatu ava oikatuñoite oike mborerekwargwä gwewa gwasu pipe osenoise yureko.\nOpakatu ava oikatu yuraso oyoyatupri ambua avarese. Mborerekwar taiko tekwa pipe eise.\nTekwa oipotase gwembimbotar omondo mborerekwar gwekwa pipe narä yureko ko mboerekwar\ngwä ndoikatuichietera gwambimbotar ño tëi oike.\n22.\nOpakatu ava, Tekwa pipendat virekora poropisirösa ava päuve, oikatuaveira mbae vireko\nmborerekwar vaëra semimongana ari yakatu nara opakatu sembimboyesu pe aveino.\n23.\nOpakatu ava oikatu vyireko vaëra opaeavikisa, gwembimbotar rupi oiporavora mboraviki\noyoyatuprira aviye vae, iyavei oimera pisirösa mboraviki oimeyoño vaëra. Chupe\nOpakatu ava ndiyaeiete yakapri tëi sekoira, imboravikirepri inungar amibua.\nOpakatu ava oparaviki vae ndiyaiete ndasepii pii chupe iyavei osupitira opakatu mbae\nrepirä sembimboyesu upe inungar ambua ikwai, iyavei oimese ambua poropitiviisa\noikatuite mbae mondo chupe akoi ipanese mbae chupe.\nOpakatu ava oikatu omoime yemboatisa oike vaëra ïpauve oyepiägwa o oporandu vaëra mbae\noipotavae, yureko.\n24.\nNdoviröpituichira, ambuano virekoaveira, pitu’usa mboraviki pauve inungar aveirumo\nsepira chupe.\n25.\nOpakatu ava viorekora oikotupri vaëra, iyavei sëta pendar no, mberasi sui, virekora"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
+            ],
+            "Image": "f771320eba78361c351258ebe9a4c0c1",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
-            ],
-            "Text": "karuasa aviye vae, nipënei chira turukwar chupe, sëta gwano, ke oporoposano vae tekwa\npipe, ipanese inungar ko ndoparavikiise vireko ño aveira ava oikwavëe vaër chupe\ninungar ko, imbaeasise, ndogwatairise oime yandeu yepi.\nYande si inungar avei chïvae virekoaveira iañeko vaëra sese yureko. Opakatu chïvae\nyoroa vae mendosa pipe o ani vae inungar avei virekora propisirosa tekwa pipe.\n26.\nOpakatu ava iya oyemboe yureko, yemboesa mdiyai sepi, esa ae ndiyaiete ipane\nsupiramoite yaikatu mbae rerogwatatupri, ko yemboesa, ndiyaiete ava ipone sese yande\nkwaitatie. Akoi oyemboe pota vite vae ivate katu aeño katu yemboe rekokwer rupi revo\nsepimira ndo yande rumo yaikatuavei yaike yaikatuse ndipoichietera ava ani\nndereikeitene ei vaëra yandeu.\nYemboesa virekora pia yemoñeta yaiko tupri vaera oime vaëra poromboeteisa ava päuve\nambua no oikwaiaka veira yandeu ndaei vaëra tembigwaigwa yaiko.\nYayendukwa vaëra, yayeparaisu reko vaëra, oimo vaera poropitiviisa ambua tekwa\ngwasurese opakatu ambua tekwatekwa mi rese iyavei ambua ava rese yepe ke ndaerchira\nyande ke ambua vae ïtupa inungar ño aveino.\nYande si, yande ru oikatu oseka vaëra mbae rese o mbae nungar yemboesa oipota ae yureko\nyandeu narä.\n27.\nOpakatu ava oikatu ikerise sekoi inungar ambua ava reko yureko sembiapo, sekokwer,\nñepëi tekwa ve oikatu avei vireko vaëra mbae aviyese sekokwer tekwa rembiepiave.\nOpakatu ava mbae oyapo vae vireko avei poropisirosa inungar ke ambua ava teiko che\nayapo eise, che aikwachia eise, evokoi nungar sui, ndiyai yayembombae ñotei ava\nrenbiapo rese.\n28.\nOpakatu ava oikatu oñeë ko ikwachia pri rese. Taseroyasite katu eira yavei toimeite ke\nambua tekwave. Opakatu viroya vaera yureko.\n29.\nOpakatu ava omboeteira tekwa esa aeve ramoite ae oyemboe ava mboetei inungar avaei ae\nimboeteisano.\nAkoi ko mborokwaito gwasu seroya sase, opakatu ava yerekoira gwembimbotar rupi\nndaeichira rumo yureko rai rai vaëra mborokwaita omombeu vae rupiño, ko ikwachiapri\nopakatu penarä. Tekwarerekwar, oime vaera avei tekwa pipe poromboeteisa opakatu ava\nñepëi pëi ava rese.\nKo mborokwaita yaikotupriägwa ndipoichira ava napörai ko ei vaera chupe, ko ikwachiasa\nopakatu tekwa gwasu gwe rupi ko uvi aramo yayu vae.\n30.\nNiyai ko ikwachiapri sui ösera pia ñemoñenta ñepëi tekwa peño rumoko ei vaëra, o evokoi\nko oyemonua o oyamboati gwasu-gwasu vae pendaraño rumo ko year o ndiyaiavei evokoi ava\nrepiägwa tëi ko oikwachia yureko yaera ko oikyachia vae yureko opakatu ava mborerekwar",
-            "Image": "f771320eba78361c351258ebe9a4c0c1"
+            "Text": "karuasa aviye vae, nipënei chira turukwar chupe, sëta gwano, ke oporoposano vae tekwa\npipe, ipanese inungar ko ndoparavikiise vireko ño aveira ava oikwavëe vaër chupe\ninungar ko, imbaeasise, ndogwatairise oime yandeu yepi.\nYande si inungar avei chïvae virekoaveira iañeko vaëra sese yureko. Opakatu chïvae\nyoroa vae mendosa pipe o ani vae inungar avei virekora propisirosa tekwa pipe.\n26.\nOpakatu ava iya oyemboe yureko, yemboesa mdiyai sepi, esa ae ndiyaiete ipane\nsupiramoite yaikatu mbae rerogwatatupri, ko yemboesa, ndiyaiete ava ipone sese yande\nkwaitatie. Akoi oyemboe pota vite vae ivate katu aeño katu yemboe rekokwer rupi revo\nsepimira ndo yande rumo yaikatuavei yaike yaikatuse ndipoichietera ava ani\nndereikeitene ei vaëra yandeu.\nYemboesa virekora pia yemoñeta yaiko tupri vaera oime vaëra poromboeteisa ava päuve\nambua no oikwaiaka veira yandeu ndaei vaëra tembigwaigwa yaiko.\nYayendukwa vaëra, yayeparaisu reko vaëra, oimo vaera poropitiviisa ambua tekwa\ngwasurese opakatu ambua tekwatekwa mi rese iyavei ambua ava rese yepe ke ndaerchira\nyande ke ambua vae ïtupa inungar ño aveino.\nYande si, yande ru oikatu oseka vaëra mbae rese o mbae nungar yemboesa oipota ae yureko\nyandeu narä.\n27.\nOpakatu ava oikatu ikerise sekoi inungar ambua ava reko yureko sembiapo, sekokwer,\nñepëi tekwa ve oikatu avei vireko vaëra mbae aviyese sekokwer tekwa rembiepiave.\nOpakatu ava mbae oyapo vae vireko avei poropisirosa inungar ke ambua ava teiko che\nayapo eise, che aikwachia eise, evokoi nungar sui, ndiyai yayembombae ñotei ava\nrenbiapo rese.\n28.\nOpakatu ava oikatu oñeë ko ikwachia pri rese. Taseroyasite katu eira yavei toimeite ke\nambua tekwave. Opakatu viroya vaera yureko.\n29.\nOpakatu ava omboeteira tekwa esa aeve ramoite ae oyemboe ava mboetei inungar avaei ae\nimboeteisano.\nAkoi ko mborokwaito gwasu seroya sase, opakatu ava yerekoira gwembimbotar rupi\nndaeichira rumo yureko rai rai vaëra mborokwaita omombeu vae rupiño, ko ikwachiapri\nopakatu penarä. Tekwarerekwar, oime vaera avei tekwa pipe poromboeteisa opakatu ava\nñepëi pëi ava rese.\nKo mborokwaita yaikotupriägwa ndipoichira ava napörai ko ei vaera chupe, ko ikwachiasa\nopakatu tekwa gwasu gwe rupi ko uvi aramo yayu vae.\n30.\nNiyai ko ikwachiapri sui ösera pia ñemoñenta ñepëi tekwa peño rumoko ei vaëra, o evokoi\nko oyemonua o oyamboati gwasu-gwasu vae pendaraño rumo ko year o ndiyaiavei evokoi ava\nrepiägwa tëi ko oikwachia yureko yaera ko oikyachia vae yureko opakatu ava mborerekwar"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
+            ],
+            "Image": "83ca5ed6a77627f65ba6900a00008bd6",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
-            ],
-            "Text": "gwasukwe ke ambua ivi rese yogweru vae inungar tupri avei ko inungar vireko yureko sese\nambua ava ñee aipoei ko upe.",
-            "Image": "83ca5ed6a77627f65ba6900a00008bd6"
+            "Text": "gwasukwe ke ambua ivi rese yogweru vae inungar tupri avei ko inungar vireko yureko sese\nambua ava ñee aipoei ko upe."
         }
     }
 }

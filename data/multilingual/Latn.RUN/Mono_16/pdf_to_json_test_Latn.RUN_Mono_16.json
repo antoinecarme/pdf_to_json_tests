@@ -1,93 +1,93 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581470473,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "c7468432b5aefe522da8f75fc6c31760",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "7IBIMENYESHEJWE N'AMAKUNGU KU NGINGO ZUBAHIRIZA ZINA MUNTU WESE\nIntangamarara\nIbonye ko kwemera ko abantu bose bategerezwa guhabwa agateka\nn'ukubahirizwa kimwe, ari ryo shingiro ryukwishira n'ukwizana,\nubutungane n'amahoro kw'isi.\nIbonye ko kutemera n'ukudakwirikiza ingingo zubahiriza zina muntu\nvyatumye hakorwa amabi atagira uko avugwa kandi ko isi izira ubwicanyi\nn'amaganya, abantu bose bakavuga kandi bakemera uko bavyifuza ari yo\nyemejwe ko zina muntu wese anyotewe imbere ya vyose.\nIbonye ko ari nkenerwa ko ingingo zubahiriza zina muntu zubahirizwa\nn'amategeko atomoye kugira ngo umuntu, aburaniwe, ntaruhire kwiyamiriza\nagahotoro n'akarenganyo,\nIsanze ko mu Masezerano y'Ishirahamwe Mpuzamakungu, amakungu yongeye\nkwemeza ko ashigikiye ingingo ngenderwako zubahiriza zina muntu wese,\nagateka n'agaciro twiwe; ko abantu bose bangana ata kuraba umuhungu\nn'umukobwa, kandi ko biyemeje gushigikira iterambere ry'abanyagihugu\nbakarushiriza kwishira n'ukwizana,\nIbonye ko ari nkenerwa gushigikira iterambere ry'imigenderanire\ny'ubucuti mu makungu,\nIsanze ko ibihugu buhurikiye mw'Ishirahamwe Mpuzamakungu vyiyemeje,\nbifadikanije n'Ishirahamwe Mpuzamakungu, kwubahiriza hose ingingo\nzubahiriza zina muntu wese,\nIbonye ko gutomorera hamwe izo ngingo zubahiriza zina muntu biri\nn'akamaro ntangere mu kurangura neza iryo banga vyishinze,\nInama Nkuru y'Ibihugu bihirikiye mw'Ishirahamwe Mpuzamakungu:\nIrememje ko ibi bimenyeshejwe n'amakungu ku ngingo zubahiriza zina muntu\nwese ari yo ntambwe abanyagihugu bose n'amakungu yose bategerezwa\ngushikako kugirango abantu n'inzego zose, bamije ku mutima izo ngingo,\nbiteho, mu nyigisho no mu ndero, gusasagaza iryubahirizwa ryazo, bongere\nbatume zemerwa kandi zikwirikizwa hose mu bihugu bihurikiye\nmw'ishirahamwe mpuzamakungu no mu ntara bitegeka.\nIngingo ya 1.\nAbantu bose bavuka bishira bakizana kandi bangana mu gateka no mu ngingo\nzibubahiriza. Bafise ubwenge n'umutima kandi bategerezwa kwubahana\nnk'abavandimwe.\nIngingo ya 2.\nUmuntu wese arashobora kwishimikiza ingingo zose zubahiriza zina muntu\nzemejwe muri ibi bimenyeshejwe, ata kuraba ubwoko, urukoba, umuhungu\nn'umukobwa, ururimi avuga, ivyiyumviro vyiwe muri politike, igihugu\naturukamwo, ivyo atunze, amavuko yiwe canke ibindi.",
-            "Image": "c7468432b5aefe522da8f75fc6c31760"
+            "Text": "7IBIMENYESHEJWE N'AMAKUNGU KU NGINGO ZUBAHIRIZA ZINA MUNTU WESE\nIntangamarara\nIbonye ko kwemera ko abantu bose bategerezwa guhabwa agateka\nn'ukubahirizwa kimwe, ari ryo shingiro ryukwishira n'ukwizana,\nubutungane n'amahoro kw'isi.\nIbonye ko kutemera n'ukudakwirikiza ingingo zubahiriza zina muntu\nvyatumye hakorwa amabi atagira uko avugwa kandi ko isi izira ubwicanyi\nn'amaganya, abantu bose bakavuga kandi bakemera uko bavyifuza ari yo\nyemejwe ko zina muntu wese anyotewe imbere ya vyose.\nIbonye ko ari nkenerwa ko ingingo zubahiriza zina muntu zubahirizwa\nn'amategeko atomoye kugira ngo umuntu, aburaniwe, ntaruhire kwiyamiriza\nagahotoro n'akarenganyo,\nIsanze ko mu Masezerano y'Ishirahamwe Mpuzamakungu, amakungu yongeye\nkwemeza ko ashigikiye ingingo ngenderwako zubahiriza zina muntu wese,\nagateka n'agaciro twiwe; ko abantu bose bangana ata kuraba umuhungu\nn'umukobwa, kandi ko biyemeje gushigikira iterambere ry'abanyagihugu\nbakarushiriza kwishira n'ukwizana,\nIbonye ko ari nkenerwa gushigikira iterambere ry'imigenderanire\ny'ubucuti mu makungu,\nIsanze ko ibihugu buhurikiye mw'Ishirahamwe Mpuzamakungu vyiyemeje,\nbifadikanije n'Ishirahamwe Mpuzamakungu, kwubahiriza hose ingingo\nzubahiriza zina muntu wese,\nIbonye ko gutomorera hamwe izo ngingo zubahiriza zina muntu biri\nn'akamaro ntangere mu kurangura neza iryo banga vyishinze,\nInama Nkuru y'Ibihugu bihirikiye mw'Ishirahamwe Mpuzamakungu:\nIrememje ko ibi bimenyeshejwe n'amakungu ku ngingo zubahiriza zina muntu\nwese ari yo ntambwe abanyagihugu bose n'amakungu yose bategerezwa\ngushikako kugirango abantu n'inzego zose, bamije ku mutima izo ngingo,\nbiteho, mu nyigisho no mu ndero, gusasagaza iryubahirizwa ryazo, bongere\nbatume zemerwa kandi zikwirikizwa hose mu bihugu bihurikiye\nmw'ishirahamwe mpuzamakungu no mu ntara bitegeka.\nIngingo ya 1.\nAbantu bose bavuka bishira bakizana kandi bangana mu gateka no mu ngingo\nzibubahiriza. Bafise ubwenge n'umutima kandi bategerezwa kwubahana\nnk'abavandimwe.\nIngingo ya 2.\nUmuntu wese arashobora kwishimikiza ingingo zose zubahiriza zina muntu\nzemejwe muri ibi bimenyeshejwe, ata kuraba ubwoko, urukoba, umuhungu\nn'umukobwa, ururimi avuga, ivyiyumviro vyiwe muri politike, igihugu\naturukamwo, ivyo atunze, amavuko yiwe canke ibindi."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "b969deef5efd2d5916db374928d9ff1b",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Vyongeye, nta macakubiri namwe azogirwa ashimikiye ku buryo igihugu\ncanke intara umuntu avamwo gitunganijwe, ico gihugu canke iyo ntara\nvyaba vyishira bikizana, bishinzwe n'Ishirahamwe Mpuzamakungu bititegeka\ncanke hari ikindi kibibuza kwishira bikizana.\nIngingo ya 3.\nUmuntu wese ategerezwa kwubahirizwa n'ugukingirwa mu buzima bwiwe,\nakishira akizana.\nIngingo ya 4.\nNta muntu n'umwe azogirwa umushumba canke ngo akoreshwe buja. Ubushumba\nn'ukugurisha abashumba, mu buryo ubwo ari bwo bwose, birabujijwe.\nIngingo ya 5.\nNta muntu n'umwe azokubagurwa canke ngo acurwe bufuni na buhoro.\nIngingo ya 6.\nUmuntu wese ategerezwa kwubahwa akubahirizwa aho ari hose.\nIngingo ya 7.\nAbantu bose barangana imbere y'amategeko kandi bategerezwa kwubahirizwa\nkimwe kugirango ntihagire uwurengnwa canke ngo ahirahire atume hari\nuwurenga izi ngingo zimenyeshejwe.\nIngingo ya 8.\nIyo hari uwurenganijwe mu ngingo ngenderwako zimwubahiriza nk'uko\nbitegekanijwe mw'ibwirizwa nshingiro canke mu mategeko y'igihugu, umuntu\nwese arashobora kwitwara imbere y'amasentare yose abifitiye ububasha\nkandi akumvirwa.\nIngingo ya 9.\nNta muntu n'umwe ashobora gufatwa, gutabwa mw'ibohero canke kwangazwa\nbidaciye mu mategeko.\nIngingo ya 10.\nUmuntu wese arashobora gusaba ko urubanza rwiwe ruja imbere ya sentare\nitagira aho yegamiye kandi itaraba nkunzi, izoheza igatomora ari ingingo\nzimwubahiriza n'ivyajejwe, canke ko ivyo yagirizwa hari aho bifatiye.\nIngingo ya 11\nUmuntu wese yagirizwa icaha abameze nkuwuhorwa ubusa gushika bakimwemeje\nmu rubanza ruciwe icese kandi yarekuriwe kwiburanira uko bikwiye.\nNta muntu n'umwe ashobora guhanirwa ivyo yakoze canke atakoze kandi\nbitari ivyaha igihe yabikora canke atabikora hishimikijwe amategeko\ny'ubutungane akurikizwa mu gihugu arimwo canke mu makungu. Vyongeye, nta\ngihano kiruta icari gutangwa igihe icaha cakorwa kizotangwa.",
-            "Image": "b969deef5efd2d5916db374928d9ff1b"
+            "Text": "Vyongeye, nta macakubiri namwe azogirwa ashimikiye ku buryo igihugu\ncanke intara umuntu avamwo gitunganijwe, ico gihugu canke iyo ntara\nvyaba vyishira bikizana, bishinzwe n'Ishirahamwe Mpuzamakungu bititegeka\ncanke hari ikindi kibibuza kwishira bikizana.\nIngingo ya 3.\nUmuntu wese ategerezwa kwubahirizwa n'ugukingirwa mu buzima bwiwe,\nakishira akizana.\nIngingo ya 4.\nNta muntu n'umwe azogirwa umushumba canke ngo akoreshwe buja. Ubushumba\nn'ukugurisha abashumba, mu buryo ubwo ari bwo bwose, birabujijwe.\nIngingo ya 5.\nNta muntu n'umwe azokubagurwa canke ngo acurwe bufuni na buhoro.\nIngingo ya 6.\nUmuntu wese ategerezwa kwubahwa akubahirizwa aho ari hose.\nIngingo ya 7.\nAbantu bose barangana imbere y'amategeko kandi bategerezwa kwubahirizwa\nkimwe kugirango ntihagire uwurengnwa canke ngo ahirahire atume hari\nuwurenga izi ngingo zimenyeshejwe.\nIngingo ya 8.\nIyo hari uwurenganijwe mu ngingo ngenderwako zimwubahiriza nk'uko\nbitegekanijwe mw'ibwirizwa nshingiro canke mu mategeko y'igihugu, umuntu\nwese arashobora kwitwara imbere y'amasentare yose abifitiye ububasha\nkandi akumvirwa.\nIngingo ya 9.\nNta muntu n'umwe ashobora gufatwa, gutabwa mw'ibohero canke kwangazwa\nbidaciye mu mategeko.\nIngingo ya 10.\nUmuntu wese arashobora gusaba ko urubanza rwiwe ruja imbere ya sentare\nitagira aho yegamiye kandi itaraba nkunzi, izoheza igatomora ari ingingo\nzimwubahiriza n'ivyajejwe, canke ko ivyo yagirizwa hari aho bifatiye.\nIngingo ya 11\nUmuntu wese yagirizwa icaha abameze nkuwuhorwa ubusa gushika bakimwemeje\nmu rubanza ruciwe icese kandi yarekuriwe kwiburanira uko bikwiye.\nNta muntu n'umwe ashobora guhanirwa ivyo yakoze canke atakoze kandi\nbitari ivyaha igihe yabikora canke atabikora hishimikijwe amategeko\ny'ubutungane akurikizwa mu gihugu arimwo canke mu makungu. Vyongeye, nta\ngihano kiruta icari gutangwa igihe icaha cakorwa kizotangwa."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "9a2c03ecbbca2991e13d5a134b87130d",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Ingingo ya 12.\nBidaciye mu mategeko, nta muntu n'umwe azoterwa mu vyerekeye ubuzima\nbwiwe, umuryango wiwe, urugo rwiwe canke kwaburirwa amakete arungika\ncanke aronka, canke ngo artyozwe mw'iteka n'akabanga vyiwe. Hategerezwa\nkuba amategeko yubahiriza umuntu wese muri ubwo buryo.\nIngingo ya 13.\nUmuntu wese ashobora kugenda aho ashatse kandi agashinga urugo aho\nashimye mu gihugu.\nUmuntu wese ararekuriwe kuva mu gihugu ico ari co cose, na rwiwe ndetse,\nakagaruka mu gihugu c'amavukiro.\nIngingo ya 14.\nUmuntu wese, igihe acurwa bufuni na buhoro, ararekuriwe kwaka agatako\nakaronka indaro mu bindi bihugu.\nAriko iyi ngingo ntishobora kuba icitwazo iyo umuntu akwirikiranwa\nbikwiye ku kibi yakoze canke yigenjeje kubiri n'imigambi n'ingingo\nvy'Ishirahamwe Mupuzamakungu.\nIngingo ya 15.\nUmuntu wese ategerezwa kugira igihugu akukira.\nNta muntu n'umwe ashobora kwonkorwa ku gihugu akukira canke ngo yamburwe\nububasha bw'uguhindura igihugu ashaka gukukira, bidaciye mu mategeko.\nIngingo ya 16.\nKuva bageze mu bigero, umuhungu n'umukobwa barashobora kwabirana\nbagashinga urwabo, ata ntambamyi n'imwe yerekeye ubwoko, amamuko canke\nidini. Barangana kuvyerekeye ukwabirana, igihe bubatse n'igihe\nbatandukanye.\nAbashaka kwabirana bategerezwa kumvyumvikanamwo ubwabo ata gahato.\nUmuryango ni wo nkomoko y'abantu n'inkingi y'abanyagihugu. Utegerezwa\ngukingirwa n'abantu be n'igihugu.\nIngingo ya 17.\nUmuntu wese aba wenyene canke afatanije n'abandi arashobora kwitungira\nivyiwe.\nNta n'umwe ashobora kunyagwa ivyo yitungiye bidaciye mu mategeko.\nIngingo ya 18.\nUmuntu wese arashobora kugira ivyiyumviro vyiwe n'ugukwirikira idini\nashatse n'ukuvuga rero ko ashobora kuja mu rindi dini n'ukwemera ibindi\nagashobora n'ugukwirikiza idini ashimye n'ivyo nyene yemera, ari wenyene\ncanke afadikanije n'abandi, iwe canke icese, mu kuvyigisha, mu\nkubigendera icese, mu gusenga no mu gukwirikiza ibindi bijana na vyo.",
-            "Image": "9a2c03ecbbca2991e13d5a134b87130d"
+            "Text": "Ingingo ya 12.\nBidaciye mu mategeko, nta muntu n'umwe azoterwa mu vyerekeye ubuzima\nbwiwe, umuryango wiwe, urugo rwiwe canke kwaburirwa amakete arungika\ncanke aronka, canke ngo artyozwe mw'iteka n'akabanga vyiwe. Hategerezwa\nkuba amategeko yubahiriza umuntu wese muri ubwo buryo.\nIngingo ya 13.\nUmuntu wese ashobora kugenda aho ashatse kandi agashinga urugo aho\nashimye mu gihugu.\nUmuntu wese ararekuriwe kuva mu gihugu ico ari co cose, na rwiwe ndetse,\nakagaruka mu gihugu c'amavukiro.\nIngingo ya 14.\nUmuntu wese, igihe acurwa bufuni na buhoro, ararekuriwe kwaka agatako\nakaronka indaro mu bindi bihugu.\nAriko iyi ngingo ntishobora kuba icitwazo iyo umuntu akwirikiranwa\nbikwiye ku kibi yakoze canke yigenjeje kubiri n'imigambi n'ingingo\nvy'Ishirahamwe Mupuzamakungu.\nIngingo ya 15.\nUmuntu wese ategerezwa kugira igihugu akukira.\nNta muntu n'umwe ashobora kwonkorwa ku gihugu akukira canke ngo yamburwe\nububasha bw'uguhindura igihugu ashaka gukukira, bidaciye mu mategeko.\nIngingo ya 16.\nKuva bageze mu bigero, umuhungu n'umukobwa barashobora kwabirana\nbagashinga urwabo, ata ntambamyi n'imwe yerekeye ubwoko, amamuko canke\nidini. Barangana kuvyerekeye ukwabirana, igihe bubatse n'igihe\nbatandukanye.\nAbashaka kwabirana bategerezwa kumvyumvikanamwo ubwabo ata gahato.\nUmuryango ni wo nkomoko y'abantu n'inkingi y'abanyagihugu. Utegerezwa\ngukingirwa n'abantu be n'igihugu.\nIngingo ya 17.\nUmuntu wese aba wenyene canke afatanije n'abandi arashobora kwitungira\nivyiwe.\nNta n'umwe ashobora kunyagwa ivyo yitungiye bidaciye mu mategeko.\nIngingo ya 18.\nUmuntu wese arashobora kugira ivyiyumviro vyiwe n'ugukwirikira idini\nashatse n'ukuvuga rero ko ashobora kuja mu rindi dini n'ukwemera ibindi\nagashobora n'ugukwirikiza idini ashimye n'ivyo nyene yemera, ari wenyene\ncanke afadikanije n'abandi, iwe canke icese, mu kuvyigisha, mu\nkubigendera icese, mu gusenga no mu gukwirikiza ibindi bijana na vyo."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "960042397ce46d79c2f71769f1284150",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Ingingo ya 19.\nUmuntu wese arashobora guserura ivyiyumviro vyiwe, n'ukuvuga ko\nadashobora kugira umutima uhagaze kuvyerekeye ivyiyumviro vyiwe, ko\nashobora kurondera, kuronka n'ukumenyesha amakuru n'ivyiyumviro mu\nmihingo yose, mu buryo ubwo ari bwo bwose.\nIngingo ya 20.\nUmuntu wese arashobora kugira inama hamwe n'abandi, n'ugushinga\namashirahamwe, ariko bidahungabanya amahoro.\nNta n'umwe ategetswe kuja mw'ishirahamwe ku gahato.\nIngingo ya 21\nUmuntu wese arafise ijambo mu ntwaro y'igihugu ciwe, akabigira\nyiserukiye wenyene canke abicishije kubamuserukira batowe ata gahato.\nUmuntu arashobora, hatarabwe nkunzi, gushingwa amabanga mu ntwaro\ny'igihugu ciwe.\nIshaka ry'abanyagihugu ni ryo ritegerezwa kuba ishingiro ry'ububasha\nbwabarongora igihugu, iryo shaka ritegerezwa kugararagarizwa mw'itora\nnyakuri ritegerezwa kwama riringanizwa uko ikiringo cashinzwe kigeze\natawukumiriwe, biherereye canke bakwirikije ubundi buryo butuma batora\nuko bavyipfuza.\nIngingo ya 22.\nUmuntu wese ategerezwa gukingirwa. Ategerezwa gushimishwa mu vyerekeye\nubutunzi, imibano n'imico kama, ivyo bikaba ari vyo shimikiro ry'agateka\nn'iterambere ryiwe, bivuye ku mwete w'igihugu no kugufashanya\nkw'amakungu bigashimikira kw'itunganywa n'amatungo vy'igihugu kimwe\nkimwe.\nIngingo ya 23.\nUmuntu wese ategerezwa kuronka akazi, gukora akazi ashatse we nyene,\ngukora mu buryo buzira akarenganyo kandi nyabwo.\nAbantu bose bakoze bimwe bategerezwa kuronka agahembo kamwe ata nkunzi.\nUmukozi wese ategerezwa kuronka agahembo gakwiranye n'imirimo arangura\nkandi nyako, komutunga we n'abiwe bakibeshaho mw'iteka, kakongezwa,\nmbere bishobotse bakamuha n'utundi tujana n'amategeko amwubahiriza.\nUmuntu wese arashobora kwiyungunganya n'abandi kugira bashinge\namashirahamwe y'abakozi. Arashobora kandi kuba umunywanyi wayo kugira\naharanire ineza yiwe.\nIngingo ya 24.\nUmuntu wese akeneye kuruhuka n'ivyo vyose bimuruhurira, ntakore ikiringo\nc'umurengera, akama aronka akaruhuko kandi akaguma ahembwa.\nIngingo ya 25.",
-            "Image": "960042397ce46d79c2f71769f1284150"
+            "Text": "Ingingo ya 19.\nUmuntu wese arashobora guserura ivyiyumviro vyiwe, n'ukuvuga ko\nadashobora kugira umutima uhagaze kuvyerekeye ivyiyumviro vyiwe, ko\nashobora kurondera, kuronka n'ukumenyesha amakuru n'ivyiyumviro mu\nmihingo yose, mu buryo ubwo ari bwo bwose.\nIngingo ya 20.\nUmuntu wese arashobora kugira inama hamwe n'abandi, n'ugushinga\namashirahamwe, ariko bidahungabanya amahoro.\nNta n'umwe ategetswe kuja mw'ishirahamwe ku gahato.\nIngingo ya 21\nUmuntu wese arafise ijambo mu ntwaro y'igihugu ciwe, akabigira\nyiserukiye wenyene canke abicishije kubamuserukira batowe ata gahato.\nUmuntu arashobora, hatarabwe nkunzi, gushingwa amabanga mu ntwaro\ny'igihugu ciwe.\nIshaka ry'abanyagihugu ni ryo ritegerezwa kuba ishingiro ry'ububasha\nbwabarongora igihugu, iryo shaka ritegerezwa kugararagarizwa mw'itora\nnyakuri ritegerezwa kwama riringanizwa uko ikiringo cashinzwe kigeze\natawukumiriwe, biherereye canke bakwirikije ubundi buryo butuma batora\nuko bavyipfuza.\nIngingo ya 22.\nUmuntu wese ategerezwa gukingirwa. Ategerezwa gushimishwa mu vyerekeye\nubutunzi, imibano n'imico kama, ivyo bikaba ari vyo shimikiro ry'agateka\nn'iterambere ryiwe, bivuye ku mwete w'igihugu no kugufashanya\nkw'amakungu bigashimikira kw'itunganywa n'amatungo vy'igihugu kimwe\nkimwe.\nIngingo ya 23.\nUmuntu wese ategerezwa kuronka akazi, gukora akazi ashatse we nyene,\ngukora mu buryo buzira akarenganyo kandi nyabwo.\nAbantu bose bakoze bimwe bategerezwa kuronka agahembo kamwe ata nkunzi.\nUmukozi wese ategerezwa kuronka agahembo gakwiranye n'imirimo arangura\nkandi nyako, komutunga we n'abiwe bakibeshaho mw'iteka, kakongezwa,\nmbere bishobotse bakamuha n'utundi tujana n'amategeko amwubahiriza.\nUmuntu wese arashobora kwiyungunganya n'abandi kugira bashinge\namashirahamwe y'abakozi. Arashobora kandi kuba umunywanyi wayo kugira\naharanire ineza yiwe.\nIngingo ya 24.\nUmuntu wese akeneye kuruhuka n'ivyo vyose bimuruhurira, ntakore ikiringo\nc'umurengera, akama aronka akaruhuko kandi akaguma ahembwa.\nIngingo ya 25."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "150d6e83f9a97534cfeee447aff5e729",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Umuntu wese ategerezwa kuronka ibikwiye bimufasha kubungabunga neza\namagara yiwe n'ay'umuryango, mu ngaburo, mu vyambarwa, mu buraro, mu\nkwivuza n'ibindi nkenerwa ku muntu; ategerezwa kubungabungwa mu gihe\natagira akazi, arwaye, amugaye, apfakaye, mu gihe atagishobora gukora\nkubera ubusaza, no mu bindi bihe atagishobora gukora kubera ubusaza, no\nmu bindi bihe atagishobora kwitunga kandi bitamuturutseko.\nUmuvyeyi yibarutse n'umwana bategerezwa kwitabwaho kurushiriza. Abana\nbose bavutse ku babiranye canke kubatabiranye bategerzwa kwitabwaho\nkimwe.\nIngingo ya 26.\nUmuntu wese akwiye kuronka inyigisho ataco atanze, cane cane mu\ny'intango ari yo ngenderwako. Inyigisho y'intango itegerezwa gutangwa\nvyanse bikunze. Inyigisho yerekeye ubuhinga n'imyuga itegerezwa gukwizwa\nhose, inyigisho yo mu mashule yisumbuye itegerezwa guhabwa ababishoboye\nbose, ata nkunzi.\nIntambwe inyigisho itegerezwa kwitwararika gushikako n'uko zina muntu\nashikira iterambere nyakuri n'uko ingingo zimwubahiriza zirushirizaho\nkwubahirizwa. Itegerezwa gufasha amakungu yose amoko n'amadini yose\nkwumbikana, kwihanganiranira n'ugucudika, ikongera igafasha Ishirahamwe\nMpuzamakungu mu vyo irangura kugirango ibungabunge amahoro.\nAbavyeyi ni bo bategerezwa kwitorera indero abana babo bakwiye kuronka.\nIngingo ya 27\nUmuntu wese arashobora gukwirikirana ata nkomanzi ivyerekeye imico\nn'utugenegene vy'aho aba be no guteza imbere ubuhinga akagira n'ico\navyungukako.\n2. Umuntu wese ategerezwa kwubahirizwa kavyavuye mu bwenge bwiwe ari\nivy'ubuhinga, ibitabu yanditse canke ivy'utugenegene.\nIngingo ya 28\nUmuntu wese arakeneye ko mu gihugu abamwo no mu makungu hasasagara\namahoro kugirango ingingo zubahiriza zina muntu wese zitegekanijwe mu\nbimenyeshejwe zubahirizwe hose.\nIngingo ya 29.\nUmuntu wese ari n'ivyo ajejwe aho aba, ari naho honyene ashobora\ngushikira iterambere nyakuri yipfuza.\nNta muntu n'umwe ashobora kwitwaza ingingo zimwubahirirza mu gihe ashaka\nkurenganya abandi, gurtyoza imigenzo mwiza, kudurumbanya umutekano\nn'ineza biranga intwaro rusangi.\nIzo ngingo zubahiriza zina muntu wese ntizishobora gukwirikizwa mu buryo\nbudurumbanya imigambi n'ingingo vy'Ishirahamwe Mpuzamakungu.\nIngingo ya 30.",
-            "Image": "150d6e83f9a97534cfeee447aff5e729"
+            "Text": "Umuntu wese ategerezwa kuronka ibikwiye bimufasha kubungabunga neza\namagara yiwe n'ay'umuryango, mu ngaburo, mu vyambarwa, mu buraro, mu\nkwivuza n'ibindi nkenerwa ku muntu; ategerezwa kubungabungwa mu gihe\natagira akazi, arwaye, amugaye, apfakaye, mu gihe atagishobora gukora\nkubera ubusaza, no mu bindi bihe atagishobora gukora kubera ubusaza, no\nmu bindi bihe atagishobora kwitunga kandi bitamuturutseko.\nUmuvyeyi yibarutse n'umwana bategerezwa kwitabwaho kurushiriza. Abana\nbose bavutse ku babiranye canke kubatabiranye bategerzwa kwitabwaho\nkimwe.\nIngingo ya 26.\nUmuntu wese akwiye kuronka inyigisho ataco atanze, cane cane mu\ny'intango ari yo ngenderwako. Inyigisho y'intango itegerezwa gutangwa\nvyanse bikunze. Inyigisho yerekeye ubuhinga n'imyuga itegerezwa gukwizwa\nhose, inyigisho yo mu mashule yisumbuye itegerezwa guhabwa ababishoboye\nbose, ata nkunzi.\nIntambwe inyigisho itegerezwa kwitwararika gushikako n'uko zina muntu\nashikira iterambere nyakuri n'uko ingingo zimwubahiriza zirushirizaho\nkwubahirizwa. Itegerezwa gufasha amakungu yose amoko n'amadini yose\nkwumbikana, kwihanganiranira n'ugucudika, ikongera igafasha Ishirahamwe\nMpuzamakungu mu vyo irangura kugirango ibungabunge amahoro.\nAbavyeyi ni bo bategerezwa kwitorera indero abana babo bakwiye kuronka.\nIngingo ya 27\nUmuntu wese arashobora gukwirikirana ata nkomanzi ivyerekeye imico\nn'utugenegene vy'aho aba be no guteza imbere ubuhinga akagira n'ico\navyungukako.\n2. Umuntu wese ategerezwa kwubahirizwa kavyavuye mu bwenge bwiwe ari\nivy'ubuhinga, ibitabu yanditse canke ivy'utugenegene.\nIngingo ya 28\nUmuntu wese arakeneye ko mu gihugu abamwo no mu makungu hasasagara\namahoro kugirango ingingo zubahiriza zina muntu wese zitegekanijwe mu\nbimenyeshejwe zubahirizwe hose.\nIngingo ya 29.\nUmuntu wese ari n'ivyo ajejwe aho aba, ari naho honyene ashobora\ngushikira iterambere nyakuri yipfuza.\nNta muntu n'umwe ashobora kwitwaza ingingo zimwubahirirza mu gihe ashaka\nkurenganya abandi, gurtyoza imigenzo mwiza, kudurumbanya umutekano\nn'ineza biranga intwaro rusangi.\nIzo ngingo zubahiriza zina muntu wese ntizishobora gukwirikizwa mu buryo\nbudurumbanya imigambi n'ingingo vy'Ishirahamwe Mpuzamakungu.\nIngingo ya 30."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "a3943586e26af50fc12ed024cb4d790f",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Nta ngingo n'imwe y'ibi bimenyeshejwe ishobora gufatwako icitwazo\nn'igihugu, umurwi w'abantu canke umuntu mugukora ibisambura izi ngingo\nzubahiriza zina muntu wese.",
-            "Image": "a3943586e26af50fc12ed024cb4d790f"
+            "Text": "Nta ngingo n'imwe y'ibi bimenyeshejwe ishobora gufatwako icitwazo\nn'igihugu, umurwi w'abantu canke umuntu mugukora ibisambura izi ngingo\nzubahiriza zina muntu wese."
         }
     }
 }

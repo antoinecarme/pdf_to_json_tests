@@ -1,93 +1,93 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581469091,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "f4417fd04abc6596fa431dc0875ffd56",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "LISAKOLI YA MOLƆ́\nNGƆ́ YA MAKOKÍ YA MOTO\nMALOBA YA YAMBO\nNa botáláká ’te kondima limɛmya ya bato nyɔ́\nnsɔ ya molɔ́\nngɔ́ mpé makokí ma\nbangó óyo ezalí ndéngé mɔ̌\nkɔ́ mpé bakokí kopímela moto tɛ́ ezalí ntína ya\nbonsɔ́\nmí, bosémbo mpé kímyá káti ya molɔ́\nngɔ́\n. Na botáláká ’te komɔ́\nna\nmpámba mpé kobóya kotósa esengeli ya moto ebátelama na bokonzi ya\nbosémbo mpɔ̂ ’te, na sima yangó, moto ákóma na botɔmbɔki esóngó na\nminyɔ́\nkɔli tɛ́\n,\nNa botáláká ’te esengélí koléndisa boyókani na káti ya bikólo,\nNa botáláká ’te na káti ya Mokandá ya Mibéko ya Lisangá ya Bikólo ya\nMolɔ́\nngɔ́\n, bato ya molɔ́\nngɔ́ bayébísí lisúsu loléngé bandimí malɔki ya ntína\nya moto, limɛmya mpé lokúmú ya moto, bokokani ya makokí ya bǎsí mpé\nbabáli mpé na botáláká ’te bangó bayébísí ’te bazwí mokáno ya kobɔngisa\nezalélí ya moto mpé kosála ’te moto azwa bomɔi malámu mpenzá na káti ya\nbonsɔ́\nmí ya monɛ́\nnɛ mpenzá,\nNa botáláká ’te kozala bato nyɔ́\nnsɔ na makanisi ndéngé mɔ̌\nkɔ́ mpɔ̂ na makokí\nmpé bonsɔ́\nmí yangó, ezalí na ntína monɛ́\nnɛ mpɔ̂ ’te óyo bakáni elónga,\nLikita monɛ́\nnɛ ezalí koyébisa Lisakoli ya molɔ́\nngɔ́ óyo ya makoki ya moto\nlokóla elɔ́\nkɔ óyo bato mpé bikólo nyɔ́\nnsɔ balingí bazwa, mpɔ̂ ’te bato mpé\nmangómbá nyɔ́\nnsɔ, na bobátelaka ntángo nyɔ́\nnsɔ Lisakoli yangó na motéma,\nbasála makási na botéyi mpé bokólísí bwányá, mpɔ̂ ’te makokí mpé bonsɔ́\nmí\nyangó etósama mpé basála ’te bandima mpé basálélí yangó na bosɔ̂\nlɔ́ mpenzá\nna molɔ́\nngɔ́ mobimba, ezala na káti ya bato ya Bikólo ya Lisangá bangó\nmɔ̌\nkɔ́ tǒ na káti ya ekólo mpé molɔ́\nngɔ́ mobimba.\nETÉNI YAMBO (1)\nBato nyɔ́\nnsɔ na mbótama bazalí nsɔ́\nmí mpé bakókání na limɛmya mpé makokí.\nBazalí na mayɛ́\nlɛ mpé basengélí kovánda na bondeko o káti na bangó.\nETÉNI YA 2\nMoto nyɔ́\nnsɔ azalí na makokí mpé bonsɔ́\nmí nyɔ́\nnsɔ óyo elimbólámí na káti ya\nLisakoli óyo, bokɛsɛni atá mokɛ́ tɛ́\n, na mambí matálí lomposo ya nzóto,\nbomwǎsí tǒ bobáli, lokóta, lingómba ya nzámbe, makanisi ya politiki tǒ\nya ndéngé mosúsu, ekólo tǒ lingómba ya bato, bokulaka, mbótama tǒ\nmakambo mosúsu.\nEpái mosúsu, na botálaka elɔ́\nkɔ ya moto, epikísámí kosála bokɛsɛni na\nmambí matálí mibéko ya politiki, mibéko ya bosámbisi tǒ ya boyókani na\nmikili mosúsu, ezala ekólo tǒ mabelé ya nsɔ́\nmí tǒ óyo eyángélémání na\nbaúta, tǒ óyo ezwí bonsɔ́\nmí ya síkísíkí tɛ́\n.\nETÉNI YA 3\nMoto nyɔ́\nnsɔ azalí na likokí ya kozala na bomɔi, na kozala nsɔ́\nmí mpé\nkozala motéma nsɛi na bomoto na yě.\nETÉNI YA 4",
-            "Image": "f4417fd04abc6596fa431dc0875ffd56"
+            "Text": "LISAKOLI YA MOLƆ́\nNGƆ́ YA MAKOKÍ YA MOTO\nMALOBA YA YAMBO\nNa botáláká ’te kondima limɛmya ya bato nyɔ́\nnsɔ ya molɔ́\nngɔ́ mpé makokí ma\nbangó óyo ezalí ndéngé mɔ̌\nkɔ́ mpé bakokí kopímela moto tɛ́ ezalí ntína ya\nbonsɔ́\nmí, bosémbo mpé kímyá káti ya molɔ́\nngɔ́\n. Na botáláká ’te komɔ́\nna\nmpámba mpé kobóya kotósa esengeli ya moto ebátelama na bokonzi ya\nbosémbo mpɔ̂ ’te, na sima yangó, moto ákóma na botɔmbɔki esóngó na\nminyɔ́\nkɔli tɛ́\n,\nNa botáláká ’te esengélí koléndisa boyókani na káti ya bikólo,\nNa botáláká ’te na káti ya Mokandá ya Mibéko ya Lisangá ya Bikólo ya\nMolɔ́\nngɔ́\n, bato ya molɔ́\nngɔ́ bayébísí lisúsu loléngé bandimí malɔki ya ntína\nya moto, limɛmya mpé lokúmú ya moto, bokokani ya makokí ya bǎsí mpé\nbabáli mpé na botáláká ’te bangó bayébísí ’te bazwí mokáno ya kobɔngisa\nezalélí ya moto mpé kosála ’te moto azwa bomɔi malámu mpenzá na káti ya\nbonsɔ́\nmí ya monɛ́\nnɛ mpenzá,\nNa botáláká ’te kozala bato nyɔ́\nnsɔ na makanisi ndéngé mɔ̌\nkɔ́ mpɔ̂ na makokí\nmpé bonsɔ́\nmí yangó, ezalí na ntína monɛ́\nnɛ mpɔ̂ ’te óyo bakáni elónga,\nLikita monɛ́\nnɛ ezalí koyébisa Lisakoli ya molɔ́\nngɔ́ óyo ya makoki ya moto\nlokóla elɔ́\nkɔ óyo bato mpé bikólo nyɔ́\nnsɔ balingí bazwa, mpɔ̂ ’te bato mpé\nmangómbá nyɔ́\nnsɔ, na bobátelaka ntángo nyɔ́\nnsɔ Lisakoli yangó na motéma,\nbasála makási na botéyi mpé bokólísí bwányá, mpɔ̂ ’te makokí mpé bonsɔ́\nmí\nyangó etósama mpé basála ’te bandima mpé basálélí yangó na bosɔ̂\nlɔ́ mpenzá\nna molɔ́\nngɔ́ mobimba, ezala na káti ya bato ya Bikólo ya Lisangá bangó\nmɔ̌\nkɔ́ tǒ na káti ya ekólo mpé molɔ́\nngɔ́ mobimba.\nETÉNI YAMBO (1)\nBato nyɔ́\nnsɔ na mbótama bazalí nsɔ́\nmí mpé bakókání na limɛmya mpé makokí.\nBazalí na mayɛ́\nlɛ mpé basengélí kovánda na bondeko o káti na bangó.\nETÉNI YA 2\nMoto nyɔ́\nnsɔ azalí na makokí mpé bonsɔ́\nmí nyɔ́\nnsɔ óyo elimbólámí na káti ya\nLisakoli óyo, bokɛsɛni atá mokɛ́ tɛ́\n, na mambí matálí lomposo ya nzóto,\nbomwǎsí tǒ bobáli, lokóta, lingómba ya nzámbe, makanisi ya politiki tǒ\nya ndéngé mosúsu, ekólo tǒ lingómba ya bato, bokulaka, mbótama tǒ\nmakambo mosúsu.\nEpái mosúsu, na botálaka elɔ́\nkɔ ya moto, epikísámí kosála bokɛsɛni na\nmambí matálí mibéko ya politiki, mibéko ya bosámbisi tǒ ya boyókani na\nmikili mosúsu, ezala ekólo tǒ mabelé ya nsɔ́\nmí tǒ óyo eyángélémání na\nbaúta, tǒ óyo ezwí bonsɔ́\nmí ya síkísíkí tɛ́\n.\nETÉNI YA 3\nMoto nyɔ́\nnsɔ azalí na likokí ya kozala na bomɔi, na kozala nsɔ́\nmí mpé\nkozala motéma nsɛi na bomoto na yě.\nETÉNI YA 4"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "2cafcad703f0454aa08daf5458132e6d",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Moto atá mokɛ́ tɛ́ asengélí kozala moúmbu; boúmbu mpé botɛ́\nki baúmbu\nepikísámí na ndéngé nyɔ́\nnsɔ.\nETÉNI YA 5\nMoto atá mokɛ́ tɛ́ asengélí konyɔ́\nkama mpé kosalelama makambo ya bonyama\nmpé óyo ezanga bomoto na lokúmú.\nETÉNI YA 6\nMoto nyɔ́\nnsɔ azalí na likokí ’te bayéba makokí na yě bipái nyɔ́\nnsɔ.\nETÉNI YA 7\nBato nyɔ́\nnsɔ bakokání libosó ya mobéko mpé bazalí na likokí ya kobátelama\nna mobéko sé ndéngé mɔ̌\nkɔ́\n. Bánsɔ bazalí na likokí ya kobátelama sé ndéngé\nmɔ̌\nkɔ́ esóngó na bikelá nyɔ́\nnsɔ ya bokɛsɛnisi elongobani tɛ́ na Lisakoli óyo\nmpé esóngó na bikelá nyɔ́\nnsɔ óyo ekobota bokɛsɛnisi yangó.\nETÉNI YA 8\nMoto nyɔ́\nnsɔ azalí na likokí ya koluka lisálisi ya nsɔ́\nlɔ́ mpenzá na libosó\nya mangómbá ya bosámbisi ya ekólo óyo ezalí na bwányá esóngó na bikelá\nóyo ekotángola malɔki ya ntína endimámí na mibéko mpɔ̂ na yě.\nETÉNI YA 9\nMoto mɔ̌\nkɔ́ tɛ́ akokí kokangama tǒ kobengisama ntína tɛ́\n.\nETÉNI YA 10\nMoto nyɔ́\nnsɔ azalí na likokí ’te likambo na yě lokóla ya bato nyɔ́\nnsɔ,\nesámbisama na bosémbo mpé na mǐso ya bato nyɔ́\nnsɔ na esámbiselo ya nsɔ́\nmi\nmpé ya epái mɔ̌\nkɔ́ tɛ́\n, óyo ekozwa mikáno ɛngɛ́\nbɛ́\nnɛ́ na makokí mpé masɛ́\nnginyá\nyě tǒ ɛngɛ́\nbɛ́\nnɛ́ na bosɔ̂\nlɔ́ ya likambo yě afúndámí.\nETÉNI YA 11\nMoto nyɔ́\nnsɔ óyo afúndámí na likambo azalí naíno mabɔ́\nkɔ mpɛ́\nmbɛ́ téé ntángo\nbakotatola ɛngɛ́\nbɛ́\nnɛ́ na mobéko, mabé yě asálí, na libánza óyo ekosalama\nna mǐso ya bato nyɔ́\nnsɔ, epái wápi mánsɔ esengélí kosalama mpɔ̂ te\nmofúndami azwa na yě.\nMoto atá mɔ̌\nkɔ́ tɛ́ asengélí kozwa etúmbu mpɔ̂ na makambo tǒ botíki óyo,\nntángo esálámákí, ezalákí naíno mbéba tɛ́\n, ɛngɛ́\nbɛ́\nnɛ́ na mibéko ya ekólo tǒ\nya molɔ́\nngɔ́\n. Soo loléngé yangó, bakokí tɛ́ kopɛ́\nsa moto etúmbu koleka óyo\nezalaka kopɛ́\nsama na ntángo likambo esalámákí.\nETÉNI YA 12\nMoto atâ mɔ̌\nkɔ́ tɛ̂ akokí kokɔ́\nta mpámba na makambo etálí ezaleli, libótá,\nndáko mpé mikandá ya nganda tǒ mpé kobébisa lokúmú na yě. Moto nyɔ́\nnsɔ\nazalí na likokí ya kobátelama na mobéko esóngó na bikɔ́\nta‐kɔ́\nta yangó.\nETÉNI YA 13\nMoto nyɔ́\nnsɔ azalí na makokí ya kotámbola ndéngé alingí mpé kopɔna esíká",
-            "Image": "2cafcad703f0454aa08daf5458132e6d"
+            "Text": "Moto atá mokɛ́ tɛ́ asengélí kozala moúmbu; boúmbu mpé botɛ́\nki baúmbu\nepikísámí na ndéngé nyɔ́\nnsɔ.\nETÉNI YA 5\nMoto atá mokɛ́ tɛ́ asengélí konyɔ́\nkama mpé kosalelama makambo ya bonyama\nmpé óyo ezanga bomoto na lokúmú.\nETÉNI YA 6\nMoto nyɔ́\nnsɔ azalí na likokí ’te bayéba makokí na yě bipái nyɔ́\nnsɔ.\nETÉNI YA 7\nBato nyɔ́\nnsɔ bakokání libosó ya mobéko mpé bazalí na likokí ya kobátelama\nna mobéko sé ndéngé mɔ̌\nkɔ́\n. Bánsɔ bazalí na likokí ya kobátelama sé ndéngé\nmɔ̌\nkɔ́ esóngó na bikelá nyɔ́\nnsɔ ya bokɛsɛnisi elongobani tɛ́ na Lisakoli óyo\nmpé esóngó na bikelá nyɔ́\nnsɔ óyo ekobota bokɛsɛnisi yangó.\nETÉNI YA 8\nMoto nyɔ́\nnsɔ azalí na likokí ya koluka lisálisi ya nsɔ́\nlɔ́ mpenzá na libosó\nya mangómbá ya bosámbisi ya ekólo óyo ezalí na bwányá esóngó na bikelá\nóyo ekotángola malɔki ya ntína endimámí na mibéko mpɔ̂ na yě.\nETÉNI YA 9\nMoto mɔ̌\nkɔ́ tɛ́ akokí kokangama tǒ kobengisama ntína tɛ́\n.\nETÉNI YA 10\nMoto nyɔ́\nnsɔ azalí na likokí ’te likambo na yě lokóla ya bato nyɔ́\nnsɔ,\nesámbisama na bosémbo mpé na mǐso ya bato nyɔ́\nnsɔ na esámbiselo ya nsɔ́\nmi\nmpé ya epái mɔ̌\nkɔ́ tɛ́\n, óyo ekozwa mikáno ɛngɛ́\nbɛ́\nnɛ́ na makokí mpé masɛ́\nnginyá\nyě tǒ ɛngɛ́\nbɛ́\nnɛ́ na bosɔ̂\nlɔ́ ya likambo yě afúndámí.\nETÉNI YA 11\nMoto nyɔ́\nnsɔ óyo afúndámí na likambo azalí naíno mabɔ́\nkɔ mpɛ́\nmbɛ́ téé ntángo\nbakotatola ɛngɛ́\nbɛ́\nnɛ́ na mobéko, mabé yě asálí, na libánza óyo ekosalama\nna mǐso ya bato nyɔ́\nnsɔ, epái wápi mánsɔ esengélí kosalama mpɔ̂ te\nmofúndami azwa na yě.\nMoto atá mɔ̌\nkɔ́ tɛ́ asengélí kozwa etúmbu mpɔ̂ na makambo tǒ botíki óyo,\nntángo esálámákí, ezalákí naíno mbéba tɛ́\n, ɛngɛ́\nbɛ́\nnɛ́ na mibéko ya ekólo tǒ\nya molɔ́\nngɔ́\n. Soo loléngé yangó, bakokí tɛ́ kopɛ́\nsa moto etúmbu koleka óyo\nezalaka kopɛ́\nsama na ntángo likambo esalámákí.\nETÉNI YA 12\nMoto atâ mɔ̌\nkɔ́ tɛ̂ akokí kokɔ́\nta mpámba na makambo etálí ezaleli, libótá,\nndáko mpé mikandá ya nganda tǒ mpé kobébisa lokúmú na yě. Moto nyɔ́\nnsɔ\nazalí na likokí ya kobátelama na mobéko esóngó na bikɔ́\nta‐kɔ́\nta yangó.\nETÉNI YA 13\nMoto nyɔ́\nnsɔ azalí na makokí ya kotámbola ndéngé alingí mpé kopɔna esíká"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "1d69d23edfdcd76b9180a5265f105eb2",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "ya kovánda káti ya ekólo.\nMoto nyɔ́\nnsɔ azalí na makokí ya kotíka ekólo nyɔ́\nnsɔ atá ya yě mɔ̌\nkɔ́ mpɔ̂ na\nkokɛnda na ekólo mosúsu; yě akokí mpé kozónga na ekólo na yě.\nETÉNI YA 14\nNa libosó ya monyɔ́\nkɔli, moto nyɔ́\nnsɔ azalí na likokí ya koluka mpé kozwa\nesíká ya kobómba nzóto na bikólo mosúsu.\nLikokí yangó likopɛ́\nsama tɛ́ na moto afúndámí na likambo ya makási tǒ na\nbikelá óyo elongobani tɛ́ na mibéko ya Lisangá ya Bikólo ya Molɔ́\nngɔ́\n.\nETÉNI YA 15\nMoto nyɔ́\nnsɔ azalí na likokí ya koyébana mosí‐ekólo.\nBakokí tɛ́ kopímela moto likokí ya kozala mosí‐ekólo tǒ ya kokóma moto ya\nekólo mosúsu.\nETÉNI YA 16\nSɔ́\nkí mobú ya kobálana ekokí, mobali mpé mwâsí bakokí kokwêlana mpé\nkotónga libóta mpé masímbisi ezala tɛ́ na makambo etálí lomposo, ekólo tǒ\nlingómba ya nzámbe. Bangó bazalí na makokí sé ndéngé mɔ̌\nkɔ́ na makambo\netálí makwéla, ezala ntángo ya makwéla tǒ ntángo ya bokabwani.\nLibála ekokí kosalama sé sɔ́\nkí mwâsí na mobali bangó méi bandimi na\nmotéma mɔ̌\nkɔ́\n.\nLibála ezalí longómba ya ntína mpɔ̂ na bato mpé ezalí na likokí ya\nkobátelama na bato mpé Lɛ́\nta.\nETÉNI YA 17\nMoto nyɔ́\nnsɔ azala yě mɔ̌\nkɔ́ tǒ na káti ya lisangá, azalí na likokí ya\nmokóló‐ekólo.\nBakokí atá mokɛ́ tɛ́ kopímela tǒ kobɔ́\ntɔla moto elɔ́\nkɔ na yě sɔ́\nkí ntína\nezalí tɛ́\n.\nETÉNI YA 18\nMoto nyɔ́\nnsɔ azalí na likokí, ya kozala na makanisi na yě, mayɛ́\nlɛ na yě\nya motéma mpé lingómba na yě ya nzámbe; likokí yangó ekopɛ́\nsa yě ndingisa\nya kopɔna lingómba ya nzámbe tǒ kobóngola makanisi na yě, yě mɔ̌\nkɔ́ tǒ\nelongo na baníngá, ezala na mǐso ya bato ya mɛi; na botéyi, na bikelá,\nna bokúmisi nzámbe mpé milúlú.\nETÉNI YA 19\nMoto nyɔ́\nnsɔ azalí na likokí ya bokanisi mpé bolobi; yangó ekopɛ́\nsa yě\nndingisa ya kozala na bomɔi na motéma tɛ́ likoló ya makanisi na yě\nndingisa ya koluka, kozwa mpé kopanza mayébisi na makanisi esíká na\nesíká, na ndéngé alingí koyébisa yangó.\nETÉNI YA 20",
-            "Image": "1d69d23edfdcd76b9180a5265f105eb2"
+            "Text": "ya kovánda káti ya ekólo.\nMoto nyɔ́\nnsɔ azalí na makokí ya kotíka ekólo nyɔ́\nnsɔ atá ya yě mɔ̌\nkɔ́ mpɔ̂ na\nkokɛnda na ekólo mosúsu; yě akokí mpé kozónga na ekólo na yě.\nETÉNI YA 14\nNa libosó ya monyɔ́\nkɔli, moto nyɔ́\nnsɔ azalí na likokí ya koluka mpé kozwa\nesíká ya kobómba nzóto na bikólo mosúsu.\nLikokí yangó likopɛ́\nsama tɛ́ na moto afúndámí na likambo ya makási tǒ na\nbikelá óyo elongobani tɛ́ na mibéko ya Lisangá ya Bikólo ya Molɔ́\nngɔ́\n.\nETÉNI YA 15\nMoto nyɔ́\nnsɔ azalí na likokí ya koyébana mosí‐ekólo.\nBakokí tɛ́ kopímela moto likokí ya kozala mosí‐ekólo tǒ ya kokóma moto ya\nekólo mosúsu.\nETÉNI YA 16\nSɔ́\nkí mobú ya kobálana ekokí, mobali mpé mwâsí bakokí kokwêlana mpé\nkotónga libóta mpé masímbisi ezala tɛ́ na makambo etálí lomposo, ekólo tǒ\nlingómba ya nzámbe. Bangó bazalí na makokí sé ndéngé mɔ̌\nkɔ́ na makambo\netálí makwéla, ezala ntángo ya makwéla tǒ ntángo ya bokabwani.\nLibála ekokí kosalama sé sɔ́\nkí mwâsí na mobali bangó méi bandimi na\nmotéma mɔ̌\nkɔ́\n.\nLibála ezalí longómba ya ntína mpɔ̂ na bato mpé ezalí na likokí ya\nkobátelama na bato mpé Lɛ́\nta.\nETÉNI YA 17\nMoto nyɔ́\nnsɔ azala yě mɔ̌\nkɔ́ tǒ na káti ya lisangá, azalí na likokí ya\nmokóló‐ekólo.\nBakokí atá mokɛ́ tɛ́ kopímela tǒ kobɔ́\ntɔla moto elɔ́\nkɔ na yě sɔ́\nkí ntína\nezalí tɛ́\n.\nETÉNI YA 18\nMoto nyɔ́\nnsɔ azalí na likokí, ya kozala na makanisi na yě, mayɛ́\nlɛ na yě\nya motéma mpé lingómba na yě ya nzámbe; likokí yangó ekopɛ́\nsa yě ndingisa\nya kopɔna lingómba ya nzámbe tǒ kobóngola makanisi na yě, yě mɔ̌\nkɔ́ tǒ\nelongo na baníngá, ezala na mǐso ya bato ya mɛi; na botéyi, na bikelá,\nna bokúmisi nzámbe mpé milúlú.\nETÉNI YA 19\nMoto nyɔ́\nnsɔ azalí na likokí ya bokanisi mpé bolobi; yangó ekopɛ́\nsa yě\nndingisa ya kozala na bomɔi na motéma tɛ́ likoló ya makanisi na yě\nndingisa ya koluka, kozwa mpé kopanza mayébisi na makanisi esíká na\nesíká, na ndéngé alingí koyébisa yangó.\nETÉNI YA 20"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "d499af8c78f1307f9513414accb0739d",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Moto nyɔ́\nnsɔ azalí na likokí ya kozala na likita mpé lingómbá óyo ezalí\nna kímyá.\nEkokí tɛ́ kosengama na makási tɛ́ moto akɔ́\nta na lingómbá.\nETÉNI YA 21\nMoto nyɔ́\nnsɔ azalí na likokí ya kotíya mabɔ́\nkɔ na bokambi misálá ya ekólo\nna yě ezala yě mɔ̌\nkɔ́ tǒ na batóma yě mɔ̌\nkɔ́ apɔní.\nMoto nyɔ́\nnsɔ azalí na likokí, lokóla baníngá nyɔ́\nnsɔ ya kosála misálá ya\nLɛ́\nta.\nBolingi yangó esengélí komɔ́\nnana na mapɔni ya sémbo óyo esengélí kosalama\nmbala na mbala, na lipɔ́\nneli ya bato nyɔ́\nnsɔ mpé na bopɔni ya Lingómbá tǒ\nna ndéngé mosúsu ekokani na yangó mpé ekosála ’te bato bapɔna na bonsɔ́\nmí\nnyɔ́\nnsɔ.\nETÉNI YA 22\nMoto nyɔ́\nnsɔ, lokóla azalí mɔ̌\nkɔ́ ya lingómbá, azalí na likokí ya kozwa\nlisálisi ya esálelo‐lisungi, oyo ezalí na ndingisa ya kopɛ́\nsa moto makokí\nya yě ya mosólo, ya bomɔi mpé ezaleli, mpɔ̂ na lokúmú mpé bokóli malámu\nya bomoto na yě, na lisálisi ya bokási ya ekólo mpé ya boyókani ya\nmikili na mikili, ɛngɛ́\nbɛ́\nnɛ́ na mwangó mpé bokulaka ya ekólo na ekólo.\nETÉNI YA 23\nMoto nyɔ́\nnsɔ azalí na likokí ya kozwa mosálá, ya kopɔna mosálá yě alingí,\nna ndéngé ya sémbo elongobani na mosálá, mpé basengélí kobátela ya\nesóngó na bosɔmɛ́\nlɛ.\nBato nyɔ́\nnsɔ bazalí na likokí, bokɛsɛni atá tɛ́\n, ya kozwa lifúta ekokani\nmpɔ̂ na mosálá ekokani.\nMoto nyɔ́\nnsɔ akosála, azalí na likokí ya kozwa lifúta ya sémbo mpé\nelongobani, oyo ekosála tɛ́ yě na libóta na yě bazwa bomɔi elongobani na\nlokúmú ya moto, mpé ekokí kobɔngisama lisúsu na ndéngé nyɔ́\nnsɔ ya\nbobáteli bomɔi.\nMoto nyɔ́\nnsɔ azalí na likokí ya kokela basɛndiká elongo na baníngá mpé\nkokɔ́\nta na basɛndiká mpɔ̂ na kokɛ́\nngɛla maloki na yě.\nETÉNI YA 24\nMoto nyɔ́\nnsɔ azalí na likokí ya bopémisi mpé bopémisi nzóto, míngi ya\nbozwi eleko ya sémbo ya boúmélí na mosálá mpé na bozwi lifúta na bakonzi\nya mbala na mbala.\nETÉNI YA 25\nMoto nyɔ́\nnsɔ azalí na likokí ya kobíkela na ndéngé elongobani mpɔ̂ ’te\nazwa bokɔ́\nlɔ́\nngɔ́\nnú, bozala malámu ya yě mpé ya libóta na yě epúsí na\nmakambo etálí kolíya, koláta, kovánda, kosálisa nzóto mpé kosungama na\nndéngé esengélí ; yě azalí na likokí ya kosálisama na ntángo ya\nbosɔmɛ́\nlɛ, bokɔnɔ, bosɛ́\nlɛ́\n, bozéngé, bobangé tǒ na ntángo mosúsu yě",
-            "Image": "d499af8c78f1307f9513414accb0739d"
+            "Text": "Moto nyɔ́\nnsɔ azalí na likokí ya kozala na likita mpé lingómbá óyo ezalí\nna kímyá.\nEkokí tɛ́ kosengama na makási tɛ́ moto akɔ́\nta na lingómbá.\nETÉNI YA 21\nMoto nyɔ́\nnsɔ azalí na likokí ya kotíya mabɔ́\nkɔ na bokambi misálá ya ekólo\nna yě ezala yě mɔ̌\nkɔ́ tǒ na batóma yě mɔ̌\nkɔ́ apɔní.\nMoto nyɔ́\nnsɔ azalí na likokí, lokóla baníngá nyɔ́\nnsɔ ya kosála misálá ya\nLɛ́\nta.\nBolingi yangó esengélí komɔ́\nnana na mapɔni ya sémbo óyo esengélí kosalama\nmbala na mbala, na lipɔ́\nneli ya bato nyɔ́\nnsɔ mpé na bopɔni ya Lingómbá tǒ\nna ndéngé mosúsu ekokani na yangó mpé ekosála ’te bato bapɔna na bonsɔ́\nmí\nnyɔ́\nnsɔ.\nETÉNI YA 22\nMoto nyɔ́\nnsɔ, lokóla azalí mɔ̌\nkɔ́ ya lingómbá, azalí na likokí ya kozwa\nlisálisi ya esálelo‐lisungi, oyo ezalí na ndingisa ya kopɛ́\nsa moto makokí\nya yě ya mosólo, ya bomɔi mpé ezaleli, mpɔ̂ na lokúmú mpé bokóli malámu\nya bomoto na yě, na lisálisi ya bokási ya ekólo mpé ya boyókani ya\nmikili na mikili, ɛngɛ́\nbɛ́\nnɛ́ na mwangó mpé bokulaka ya ekólo na ekólo.\nETÉNI YA 23\nMoto nyɔ́\nnsɔ azalí na likokí ya kozwa mosálá, ya kopɔna mosálá yě alingí,\nna ndéngé ya sémbo elongobani na mosálá, mpé basengélí kobátela ya\nesóngó na bosɔmɛ́\nlɛ.\nBato nyɔ́\nnsɔ bazalí na likokí, bokɛsɛni atá tɛ́\n, ya kozwa lifúta ekokani\nmpɔ̂ na mosálá ekokani.\nMoto nyɔ́\nnsɔ akosála, azalí na likokí ya kozwa lifúta ya sémbo mpé\nelongobani, oyo ekosála tɛ́ yě na libóta na yě bazwa bomɔi elongobani na\nlokúmú ya moto, mpé ekokí kobɔngisama lisúsu na ndéngé nyɔ́\nnsɔ ya\nbobáteli bomɔi.\nMoto nyɔ́\nnsɔ azalí na likokí ya kokela basɛndiká elongo na baníngá mpé\nkokɔ́\nta na basɛndiká mpɔ̂ na kokɛ́\nngɛla maloki na yě.\nETÉNI YA 24\nMoto nyɔ́\nnsɔ azalí na likokí ya bopémisi mpé bopémisi nzóto, míngi ya\nbozwi eleko ya sémbo ya boúmélí na mosálá mpé na bozwi lifúta na bakonzi\nya mbala na mbala.\nETÉNI YA 25\nMoto nyɔ́\nnsɔ azalí na likokí ya kobíkela na ndéngé elongobani mpɔ̂ ’te\nazwa bokɔ́\nlɔ́\nngɔ́\nnú, bozala malámu ya yě mpé ya libóta na yě epúsí na\nmakambo etálí kolíya, koláta, kovánda, kosálisa nzóto mpé kosungama na\nndéngé esengélí ; yě azalí na likokí ya kosálisama na ntángo ya\nbosɔmɛ́\nlɛ, bokɔnɔ, bosɛ́\nlɛ́\n, bozéngé, bobangé tǒ na ntángo mosúsu yě"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "8b84d1330b68960e24dce1597852a8c5",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "akozánga mosólo ya kobíkela na sima ya makambo esálámí na bolinga na yě\ntɛ́\n.\nBomamá mpé bomwǎna ezalí na likokí ya kosungama na ndéngé elongobani.\nMwǎna nyɔ́\nnsɔ abótama káti ya makwéla tǒ na libándá asengélí kobátelama\ntǒ ndéngé mɔ̌\nkɔ́\n.\nETÉNI YA 26\nMoto nyɔ́\nnsɔ azalí na likokí ya bokólísi bwányá mpé mayɛ́\nlɛ. Matéya\nesengélí kopɛ́\nsama mpámba, mosólo tɛ́\n, atá na bakelási ya mabandela.\nMatéya ya mabandela esengéní kopɛ́\nsama na moto nyɔ́\nnsɔ. Matéya ya tekniki\nmpé ya mosálá esengélí kopɛ́\nsama bipái nyɔ́\nnsɔ; eposá ya kozwa matéya ya\nkelási ya minɛ́\nnɛ esengélí kopɛ́\nsama na bato nyɔ́\nnsɔ, sé ndéngé mɔ̌\nkɔ́\n,\nɛngɛ́\nbɛ́\nnɛ́ na mayɛ́\nlɛ na bangó.\nBokólísi bwányá mpé mayɛ́\nlɛ esengélí kosála tɛ́ moto akóla na ndéngé\nnyɔ́\nnsɔ mpé atósa malámu mpenzá makokí mpé bonsɔ́\nmí ya ntína na moto.\nYangó esengélí komɛma boyókani, bobóto, bolingo káti ya bikólo mpé\nmangómbá ya bato oyo lomposo mpé boyambi ekɛsɛni; yangó mpé esengélí\nkobɔngisa misálá ya Lisangá ya Bikólo ya Molɔ́\nngɔ́ mpɔ̂ na bobáteli kímyá.\nBabóti bazalí na likokí ya yambo, ya bopɔni ndéngé ya matéya esengélí\nkopɛ́\nsama na bǎna na bangó.\nETÉNI YA 27\nMoto nyɔ́\nnsɔ azalí na likokí ya kotíya mabɔ́\nkɔ ndéngé alingí na misálá ya\nbokólísi bwányá ya lingómbá, kopɛ́\nsɛla na nkoti, mpé kotíya mabɔ́\nkɔ na\nbotómboli nzébi mpé bolámu ya yangó.\nMoto nyɔ́\nnsɔ azalí na likokí ’te matómba ya misálá ya yě ya nzébi, ya\nbokómi mpé ya nkoti ebátelama.\nETÉNI YA 28\nMoto nyɔ́\nnsɔ azalí na likokí ’te káti ya bato mpé bikólo, nyɔ́\nnsɔ ebóngá\nmpɔ̂ te makokí mpé bonsɔ́\nmí oyo ekomámí káti ya Lisakoli oyo elónga.\nETÉNI YA 29\nMoto azalí na mikúmba epái ya lingómbá oyo ekopɛ́\nsa yě eposá ya bokólísi\nbomoto na yě na ndéngé elongobani.\nMoto nyɔ́\nnsɔ, na botálaka makokí mpé bonsɔ́\nmí na yě, asengélí kosála sé\nmikúmba oyo eyébání na mobéko sé mpɔ̂ ’te bayéba mpé bakúmisa maloki mpé\nbonsɔ́\nmí ya baníngá, mpé mpɔ̂ na kotósa mibéko ya sémbo ya ezalela kímyá\nya bato mpé bozali malámu káti ya lingómbá ya boyángeli lisangá.\nMakokí mpé bonsɔ́\nmí yangó makokí, atâ mokɛ́ tɛ̂\n, kozala esóngó na masɛ́\nngi\nya Lisangá ya Bikólo ya Molɔ́\nngɔ́\n.\nETÉNI YA 30\nMobéko atá mɔ̌\nkɔ́ tɛ́ ya Lisangá óyo ekokí kozala mpɔ̂ na Lɛ́\nta, na lisangá\nya bato, tǒ na moto, likokí ya kosála likambo óyo ekonyata makokí mpé",
-            "Image": "8b84d1330b68960e24dce1597852a8c5"
+            "Text": "akozánga mosólo ya kobíkela na sima ya makambo esálámí na bolinga na yě\ntɛ́\n.\nBomamá mpé bomwǎna ezalí na likokí ya kosungama na ndéngé elongobani.\nMwǎna nyɔ́\nnsɔ abótama káti ya makwéla tǒ na libándá asengélí kobátelama\ntǒ ndéngé mɔ̌\nkɔ́\n.\nETÉNI YA 26\nMoto nyɔ́\nnsɔ azalí na likokí ya bokólísi bwányá mpé mayɛ́\nlɛ. Matéya\nesengélí kopɛ́\nsama mpámba, mosólo tɛ́\n, atá na bakelási ya mabandela.\nMatéya ya mabandela esengéní kopɛ́\nsama na moto nyɔ́\nnsɔ. Matéya ya tekniki\nmpé ya mosálá esengélí kopɛ́\nsama bipái nyɔ́\nnsɔ; eposá ya kozwa matéya ya\nkelási ya minɛ́\nnɛ esengélí kopɛ́\nsama na bato nyɔ́\nnsɔ, sé ndéngé mɔ̌\nkɔ́\n,\nɛngɛ́\nbɛ́\nnɛ́ na mayɛ́\nlɛ na bangó.\nBokólísi bwányá mpé mayɛ́\nlɛ esengélí kosála tɛ́ moto akóla na ndéngé\nnyɔ́\nnsɔ mpé atósa malámu mpenzá makokí mpé bonsɔ́\nmí ya ntína na moto.\nYangó esengélí komɛma boyókani, bobóto, bolingo káti ya bikólo mpé\nmangómbá ya bato oyo lomposo mpé boyambi ekɛsɛni; yangó mpé esengélí\nkobɔngisa misálá ya Lisangá ya Bikólo ya Molɔ́\nngɔ́ mpɔ̂ na bobáteli kímyá.\nBabóti bazalí na likokí ya yambo, ya bopɔni ndéngé ya matéya esengélí\nkopɛ́\nsama na bǎna na bangó.\nETÉNI YA 27\nMoto nyɔ́\nnsɔ azalí na likokí ya kotíya mabɔ́\nkɔ ndéngé alingí na misálá ya\nbokólísi bwányá ya lingómbá, kopɛ́\nsɛla na nkoti, mpé kotíya mabɔ́\nkɔ na\nbotómboli nzébi mpé bolámu ya yangó.\nMoto nyɔ́\nnsɔ azalí na likokí ’te matómba ya misálá ya yě ya nzébi, ya\nbokómi mpé ya nkoti ebátelama.\nETÉNI YA 28\nMoto nyɔ́\nnsɔ azalí na likokí ’te káti ya bato mpé bikólo, nyɔ́\nnsɔ ebóngá\nmpɔ̂ te makokí mpé bonsɔ́\nmí oyo ekomámí káti ya Lisakoli oyo elónga.\nETÉNI YA 29\nMoto azalí na mikúmba epái ya lingómbá oyo ekopɛ́\nsa yě eposá ya bokólísi\nbomoto na yě na ndéngé elongobani.\nMoto nyɔ́\nnsɔ, na botálaka makokí mpé bonsɔ́\nmí na yě, asengélí kosála sé\nmikúmba oyo eyébání na mobéko sé mpɔ̂ ’te bayéba mpé bakúmisa maloki mpé\nbonsɔ́\nmí ya baníngá, mpé mpɔ̂ na kotósa mibéko ya sémbo ya ezalela kímyá\nya bato mpé bozali malámu káti ya lingómbá ya boyángeli lisangá.\nMakokí mpé bonsɔ́\nmí yangó makokí, atâ mokɛ́ tɛ̂\n, kozala esóngó na masɛ́\nngi\nya Lisangá ya Bikólo ya Molɔ́\nngɔ́\n.\nETÉNI YA 30\nMobéko atá mɔ̌\nkɔ́ tɛ́ ya Lisangá óyo ekokí kozala mpɔ̂ na Lɛ́\nta, na lisangá\nya bato, tǒ na moto, likokí ya kosála likambo óyo ekonyata makokí mpé"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "149945fec31745aa269f504061e2ddbf",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "bonsɔ́\nmí áwa.",
-            "Image": "149945fec31745aa269f504061e2ddbf"
+            "Text": "bonsɔ́\nmí áwa."
         }
     }
 }

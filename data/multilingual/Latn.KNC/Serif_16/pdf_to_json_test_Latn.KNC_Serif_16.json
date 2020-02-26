@@ -1,93 +1,93 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581468935,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "e124192921ca9bd868ec5b88ab951a37",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Hakkiwa Adamganabe Dunya Ngaro Wowurtəgənama\nKatiwu Kura\nAdamgana woso kalkal ye kamanzəga nəmngalwo hakkiwa-a nambe-a kənzambibelan\nkozənyi ye.\nLardəwa Tawakkata Dunyabedə hakkiwa adamganabe ndubesoga haptaa-a nzətkawo-\na nzəliwo-asoro tarai cizə dazəna. Tarai cizə datənzə adə Tawakam Lardəwa\nTawakkata Dunyabebe duwo nəmkam ummawa dunyabebe suro hakkiwa\nadamganabe-a kuru suro daraja-a nəmngalwo-a ummabe yitatawatsəgənadəben\nculuwo.\nSuro Hakkiwa Adamganabe Dunya Ngaro Wowurtəgənadəben Lardəwa Tawakkata\nDunyabedəye futu kəskelan asutinro hakkiwa duwo kam wosoro kalkalro kartaa\nadəga bayangono.\nHakkiwa anyi nyiro kartaa.\nSandi anyi hakkiwanəm\nSandiga tigənəmro fatkəgəne. Banane sandiga hapkəgəne ye liwe ye kəlanəm-a\nummawa amanəm gade gapsəna-asoro.\nYitagattəgə\nAdəgaima tada adamganabebe nəmngalwonzə kambaata adə-a nəmnduaso kalkalnzə-\na hakkiwanzə Alanjo-adə shima ferno nəmkambe-a jirebe-a nəlefabe-aro dunya\nngason asutəna,\nAdəgaima hakkiwa adamganabero cistəgə ba-a fallaktə-abe sawowuro kəndowa halye\nkurzənyi waazə hangal adamganabero karega rozəgəna, kuru dunya duwo suron\nadamganasoye tamtam hakkinza manabe-a nzasarabe-a kuru nambe duwo dalil baaro\ncitə-a jero-abedə shima awo talaawaye təmazana woro warmowotə,\nAdəgaima awo məradətənadə susu adamganaga dunon təkkə nəmzaləm-a njokuno-a\nkəriwutəbedəro howum maibeye hakkiwanzaga səliwodəma,\nAdəgaima awo məradətənadə tawaa-a nəmkam-a indikate lardəwaben haptaadəma,\nAdəgaima ummawa Lardəwa Tawakkata Dunyabeye suro Tawakamdəben\nkamburshenza kəla hakkiwa adamganaben nanazaana, kəla daraja-a nəmngalwo-a\nadamganabe-a kəla kamu-a kwa-a hakkinza kalkal-aben kasadə gozana tamtam-a\nkəndəga ngəla-a hapsaa nambe gayaga fandoro,\nAdəgaima Lardəwa Memba Kaapkadəbe woso wadəga gozana, tawaa Lardəwa\nTawakkata Dunybemben, daaraja ndubeso haptaa-a hakkiwa adamganabe-a nambe\ngaya lajiptə-a galtəro,\nAdəgaima wadə adəga yitagatəgə nankaro hakkiwa-a nambe anyi-a asutadə awoye\ngaya linta,\nAdə Nankaro\nSamno Kura Dunyabedəye",
-            "Image": "e124192921ca9bd868ec5b88ab951a37"
+            "Text": "Hakkiwa Adamganabe Dunya Ngaro Wowurtəgənama\nKatiwu Kura\nAdamgana woso kalkal ye kamanzəga nəmngalwo hakkiwa-a nambe-a kənzambibelan\nkozənyi ye.\nLardəwa Tawakkata Dunyabedə hakkiwa adamganabe ndubesoga haptaa-a nzətkawo-\na nzəliwo-asoro tarai cizə dazəna. Tarai cizə datənzə adə Tawakam Lardəwa\nTawakkata Dunyabebe duwo nəmkam ummawa dunyabebe suro hakkiwa\nadamganabe-a kuru suro daraja-a nəmngalwo-a ummabe yitatawatsəgənadəben\nculuwo.\nSuro Hakkiwa Adamganabe Dunya Ngaro Wowurtəgənadəben Lardəwa Tawakkata\nDunyabedəye futu kəskelan asutinro hakkiwa duwo kam wosoro kalkalro kartaa\nadəga bayangono.\nHakkiwa anyi nyiro kartaa.\nSandi anyi hakkiwanəm\nSandiga tigənəmro fatkəgəne. Banane sandiga hapkəgəne ye liwe ye kəlanəm-a\nummawa amanəm gade gapsəna-asoro.\nYitagattəgə\nAdəgaima tada adamganabebe nəmngalwonzə kambaata adə-a nəmnduaso kalkalnzə-\na hakkiwanzə Alanjo-adə shima ferno nəmkambe-a jirebe-a nəlefabe-aro dunya\nngason asutəna,\nAdəgaima hakkiwa adamganabero cistəgə ba-a fallaktə-abe sawowuro kəndowa halye\nkurzənyi waazə hangal adamganabero karega rozəgəna, kuru dunya duwo suron\nadamganasoye tamtam hakkinza manabe-a nzasarabe-a kuru nambe duwo dalil baaro\ncitə-a jero-abedə shima awo talaawaye təmazana woro warmowotə,\nAdəgaima awo məradətənadə susu adamganaga dunon təkkə nəmzaləm-a njokuno-a\nkəriwutəbedəro howum maibeye hakkiwanzaga səliwodəma,\nAdəgaima awo məradətənadə tawaa-a nəmkam-a indikate lardəwaben haptaadəma,\nAdəgaima ummawa Lardəwa Tawakkata Dunyabeye suro Tawakamdəben\nkamburshenza kəla hakkiwa adamganaben nanazaana, kəla daraja-a nəmngalwo-a\nadamganabe-a kəla kamu-a kwa-a hakkinza kalkal-aben kasadə gozana tamtam-a\nkəndəga ngəla-a hapsaa nambe gayaga fandoro,\nAdəgaima Lardəwa Memba Kaapkadəbe woso wadəga gozana, tawaa Lardəwa\nTawakkata Dunybemben, daaraja ndubeso haptaa-a hakkiwa adamganabe-a nambe\ngaya lajiptə-a galtəro,\nAdəgaima wadə adəga yitagatəgə nankaro hakkiwa-a nambe anyi-a asutadə awoye\ngaya linta,\nAdə Nankaro\nSamno Kura Dunyabedəye"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "508787f21f535dc596dc168defcd3869",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Hakkiwa Adamganabe\nDunya Ngaro Wowurtəgəna Adəga\nwarmazəgə\nshima mizan ummawa-a lardəwa-a duksoye yitagattəgəbe wo, daji daryenzədə ndu-a\nnduana-aso fellawan kunten, Wowur adəga karəgən roza, ndusoro yikkəlio-a\nilmutəgə-an hakkiwa-a nambe anyi-abe nəmgayanza haptaaro, suro lardəbe-a\nindikate lardəwabe-ason ndusoye kalkalro asuzə lajipsə, suro ummawa Lardəwa\nMemba Karapkadəbe-a suro ummawa gade sədiyanzalan dawuna-ason.\nBabu 1\nAdamgana woso kambe katambo ye daraja-a hakkiwa-ason kalkalye. Hankal-a nazaru-\nasoro kəzəpkə ye suro hal nəmharamiben kamazasoga letaiyin ye.\nBabu 2\nHakkiwa-a nambe a suro Wowur adəben dəganadə ndu-a nduana-aso kartaa, gayirtə\nfutubibema baaro, gayirta alama jilibeso, kadigəbeso, alagəbeso, təlambeso,\nadinbeso, siyasabeso au rayiwu, lardə gade au kaduwu gade, kənganti, tambo au\nawowa laa gade anyiga samunzəna.\nAnyibe ngawoman nduma kəla siyasaben kal, kəntəwoben kal au daraja dunyalabe\nsawawuro kal kərye au lardə kamdə dəganabe sawawuro gayirtinba. Lardə shi\ngultənama adə kərmai kəlanzəben karga, amanaro musko lardə gadeben karga,\nkəlanzəlangənyi karga au sədiya kaidawa kəntəwobe laan karga yaye kal.\nBabu 3\nNdu yaye hakkinzə kəla ronzə-a nəmkambenzə-a nəlefa kəlanzə-aben mbeji.\nBabu 4\nNduma kənji au kaliyaro təgandinba, nəmkənjiro gərtə-a kənji lado-aso awostə ye\ndaptə ye.\nBabu 5\nNduma njokunoso, nəmkəladoso, shimaso, azawaso, gənatəginba.\nBabu 6\nNdu yaye hakkinzə ndaran yaye shiga kamro asutabe mbeji fuwu howumbelan.\nBabu 7\nNduso fuwu howumben kalkal ye kuru gayirta baaro howumye sandiga səliwin ye.\nNduso hakkinzə nzəliwobe mbeji gayirtalan fallaktə Wowur adəbe sawawuro-a kəla\nlan laa gade gayirtadə nankaro waazəna-alan.\nBabu 8\nNdu yaye hakkinzə səlwu sandəna mataabe mbeji shara rakkata lardəbelan kəla\nhakkinzə gaya linta dusturye au howumye shiro cina namtənaben.",
-            "Image": "508787f21f535dc596dc168defcd3869"
+            "Text": "Hakkiwa Adamganabe\nDunya Ngaro Wowurtəgəna Adəga\nwarmazəgə\nshima mizan ummawa-a lardəwa-a duksoye yitagattəgəbe wo, daji daryenzədə ndu-a\nnduana-aso fellawan kunten, Wowur adəga karəgən roza, ndusoro yikkəlio-a\nilmutəgə-an hakkiwa-a nambe anyi-abe nəmgayanza haptaaro, suro lardəbe-a\nindikate lardəwabe-ason ndusoye kalkalro asuzə lajipsə, suro ummawa Lardəwa\nMemba Karapkadəbe-a suro ummawa gade sədiyanzalan dawuna-ason.\nBabu 1\nAdamgana woso kambe katambo ye daraja-a hakkiwa-ason kalkalye. Hankal-a nazaru-\nasoro kəzəpkə ye suro hal nəmharamiben kamazasoga letaiyin ye.\nBabu 2\nHakkiwa-a nambe a suro Wowur adəben dəganadə ndu-a nduana-aso kartaa, gayirtə\nfutubibema baaro, gayirta alama jilibeso, kadigəbeso, alagəbeso, təlambeso,\nadinbeso, siyasabeso au rayiwu, lardə gade au kaduwu gade, kənganti, tambo au\nawowa laa gade anyiga samunzəna.\nAnyibe ngawoman nduma kəla siyasaben kal, kəntəwoben kal au daraja dunyalabe\nsawawuro kal kərye au lardə kamdə dəganabe sawawuro gayirtinba. Lardə shi\ngultənama adə kərmai kəlanzəben karga, amanaro musko lardə gadeben karga,\nkəlanzəlangənyi karga au sədiya kaidawa kəntəwobe laan karga yaye kal.\nBabu 3\nNdu yaye hakkinzə kəla ronzə-a nəmkambenzə-a nəlefa kəlanzə-aben mbeji.\nBabu 4\nNduma kənji au kaliyaro təgandinba, nəmkənjiro gərtə-a kənji lado-aso awostə ye\ndaptə ye.\nBabu 5\nNduma njokunoso, nəmkəladoso, shimaso, azawaso, gənatəginba.\nBabu 6\nNdu yaye hakkinzə ndaran yaye shiga kamro asutabe mbeji fuwu howumbelan.\nBabu 7\nNduso fuwu howumben kalkal ye kuru gayirta baaro howumye sandiga səliwin ye.\nNduso hakkinzə nzəliwobe mbeji gayirtalan fallaktə Wowur adəbe sawawuro-a kəla\nlan laa gade gayirtadə nankaro waazəna-alan.\nBabu 8\nNdu yaye hakkinzə səlwu sandəna mataabe mbeji shara rakkata lardəbelan kəla\nhakkinzə gaya linta dusturye au howumye shiro cina namtənaben."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "b07456177b225ea90301431a203c9d08",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Babu 9\nNduma dalil baaro kəntaso, jeroso, lardən dutaso ba.\nBabu 10\nNdu yaye hakkinzə futu məradəzənaro shiga shara naptə kəlanzəbe walama baa ye\njirea yebe kərəntabe mbeji kəla hakkinzə-a kaidawanzə-a kuru awowa gade shara\nzəganyi-a tawattaaben.\nBabu 11\nNdu yaye ngawo ayawu sədənaben angərdə hakkinzə kawu shiro fuwu sharaben\nngawo səliwo məradətəna shiro sadənaben ayawunzəga tawatsaginro.\nNduma kəla awo abima gənyiben ayawuro tətainba futubin waano yaye ayawudə\nayawuro walzənyiga, sədiya howum lardəben au indikate lardəwaben, sa ayawu adə\ntədənaladən. Biya gənatəginro walwono yaye ayawu sadən tədənadəga kozəna\ngənatəginba.\nBabu 12\nNdu kəla baaro wujirwa kəlanzəbema, yalwanzəbema, au lamar lenəm-arenzəbemaro\nci təkinba, biya kəla nəmkamnzə-a darajanzə-abe nankaro fitənatinba. Ndu yaye\nhakkinzə howumye shiga nzəlifobe mbeji kəla dalil baaro wujirwanzəro ci nzəkko-a\nfitənatə-aben.\nBabu 13\nNdu yaye hakkinzə famno-a fato gar-abe mbeji suro dərinəmkəlle lardə ndasoben\nyaye.\nNdu yaye hakkinzə lardəbi yaye luwum koltəbe mbeji, lardə kaanzən kunten, kuru\nlardənzəro waltaabe ye mbeji.\nBabu 14\nNdu yaye hakkinzə lardəwa gaden nafaka nzəliwo kəlanzəbe nankaro mata-a fando-\nabe mbeji.\nHakki adə ayawuwa gade siyasaa letanyi au bigəwa gade nya-a kasadə-a Lardəwa\nTawakkata Dunyabea kəla kəlzanyiro faidatinba.\nBabu 15\nNdu yaye hakkinzə nəmkam lardəbenzə mbeji.\nNduma dalil baaro nəmkam lardəbenzə adəga daptinba ye hakkinzə duwo nəmkam\nlardəbenzə faltəbe yega daptinba.\nBabu 16\nKamuwa-a kongawa-a wuraata angalla woso, kalangi abibema baaro jilibema,\nlardəbema, au adin gadebema , hakkinza nyiya kəndobe-a yal fandobe-aso mbeji. Sa\nnyiga kəndobelan sandi indiso hakkinza kalkal kuru adəgaima sa gadetəbe ishiya ye.\nNyiyadə sai kasada sandi indi kamudə-a kwadə-abe mbejilan duwo tədin.",
-            "Image": "b07456177b225ea90301431a203c9d08"
+            "Text": "Babu 9\nNduma dalil baaro kəntaso, jeroso, lardən dutaso ba.\nBabu 10\nNdu yaye hakkinzə futu məradəzənaro shiga shara naptə kəlanzəbe walama baa ye\njirea yebe kərəntabe mbeji kəla hakkinzə-a kaidawanzə-a kuru awowa gade shara\nzəganyi-a tawattaaben.\nBabu 11\nNdu yaye ngawo ayawu sədənaben angərdə hakkinzə kawu shiro fuwu sharaben\nngawo səliwo məradətəna shiro sadənaben ayawunzəga tawatsaginro.\nNduma kəla awo abima gənyiben ayawuro tətainba futubin waano yaye ayawudə\nayawuro walzənyiga, sədiya howum lardəben au indikate lardəwaben, sa ayawu adə\ntədənaladən. Biya gənatəginro walwono yaye ayawu sadən tədənadəga kozəna\ngənatəginba.\nBabu 12\nNdu kəla baaro wujirwa kəlanzəbema, yalwanzəbema, au lamar lenəm-arenzəbemaro\nci təkinba, biya kəla nəmkamnzə-a darajanzə-abe nankaro fitənatinba. Ndu yaye\nhakkinzə howumye shiga nzəlifobe mbeji kəla dalil baaro wujirwanzəro ci nzəkko-a\nfitənatə-aben.\nBabu 13\nNdu yaye hakkinzə famno-a fato gar-abe mbeji suro dərinəmkəlle lardə ndasoben\nyaye.\nNdu yaye hakkinzə lardəbi yaye luwum koltəbe mbeji, lardə kaanzən kunten, kuru\nlardənzəro waltaabe ye mbeji.\nBabu 14\nNdu yaye hakkinzə lardəwa gaden nafaka nzəliwo kəlanzəbe nankaro mata-a fando-\nabe mbeji.\nHakki adə ayawuwa gade siyasaa letanyi au bigəwa gade nya-a kasadə-a Lardəwa\nTawakkata Dunyabea kəla kəlzanyiro faidatinba.\nBabu 15\nNdu yaye hakkinzə nəmkam lardəbenzə mbeji.\nNduma dalil baaro nəmkam lardəbenzə adəga daptinba ye hakkinzə duwo nəmkam\nlardəbenzə faltəbe yega daptinba.\nBabu 16\nKamuwa-a kongawa-a wuraata angalla woso, kalangi abibema baaro jilibema,\nlardəbema, au adin gadebema , hakkinza nyiya kəndobe-a yal fandobe-aso mbeji. Sa\nnyiga kəndobelan sandi indiso hakkinza kalkal kuru adəgaima sa gadetəbe ishiya ye.\nNyiyadə sai kasada sandi indi kamudə-a kwadə-abe mbejilan duwo tədin."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "8eca5f8cd58049d2e1e938c4caa5b683",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Kəndəga kamun kwanbedə shima badiyaram məradəgata gaya ummabe wo kuru\nsandiga kəndəgaram-a kərye-ason səlifodə hakkinza.\nBabu 17\nNdu yaye runzəlaro razəgə gantodə hakkinzə kuru adəgaima shi-a am-a kəltəm\ngantodə ye.\nNduma dalil baaro razəgənzəga firtinba.\nBabu 18\nNdu yaye hakkinzə nazaru kəndobe-a tawakarbe-a adinbe-a mbeji, suro hakki adəben\nnambe adinnzə au nzasaranzə faltəbe-a nambe shi tilonzə au suro jamuwubelan\nfetero au ashirlan adinzə au nzasaranzə yikkəlio-a kəndo-a abuttə-a lajiptə-alan\ntartaabe mbeji.\nBabu 19\nNdu yaye hakkinzə rayiwu-a bayan kəndo-abe mbeji, suro hakki adəben nambe\nrayiwunzə kalma baaro bayanjin kuru shilan nzəra majin ye səmoyin ye kuru\nhawarazəgin futu hawarbe jilibin yaye kəlangai baaro.\nBabu 20\nNdu yaye hakkinzə suro nəlefaben samno sapta-a maamala kəndo-abe mbeji.\nNduma dunon karapka kasatsənyiro nzəkko ba.\nBabu 21\nNdu yaye hakkinzə suro gumnati lardənzəbero ci nzəkobe mbeji, shi kəlanzə au\nwokkilnzə futu kalkallan kartənamben.\nNdu yaye hakkinzə suro lardənzəben jamaro tunotobe mbeji.\nKasada jamabedə shima fərtə kəntəwo gumnatibero walzə, kasada adə suro karno\ngondua ye jirebe ye lardə kəpson ndu-a nduana-asoye sədin ye kuru kuriya suro\nashirlan au ashirga samunzənalan tədinbelan bayantə.\nBabu 22\nNdu yaye kəla shi memba ummabedən, hakkinzə nzəliwo-a asutə-abe mbeji, kasadə\nlardəbemben au tawaa indikate lardəwabemben futu fasal-a nyama-a lardədəbe\nləgatarro, razəgə-a nəmkamnzə-a təgalisə baaro yita fuwutəgə.\nBabu 23\nNdu yaye hakkinzə cida kəndobe mbeji, cida səragəna karzə kəndo-a futu kaida\nsandənalan kəndo-a kurumason kaidu cida babelan shiga nzətakawo-a.\nNdu yaye, gayirtə futubibema baaro, hakkinzə cida sədəna ləgatarro shiga alutəbe\nmbeji.\nNdu yaye cidama sədinga hakkinzə awo alutəginmadə shi-a yalwanzə-a futu\ndarajanza nəmadamganabe ləgatarro sandiga cittənnama alutəgəbe mbeji kuru nzəra\nyaye nasha laa jamaro nafaka kənjobelan mbejiga diwijinba.",
-            "Image": "8eca5f8cd58049d2e1e938c4caa5b683"
+            "Text": "Kəndəga kamun kwanbedə shima badiyaram məradəgata gaya ummabe wo kuru\nsandiga kəndəgaram-a kərye-ason səlifodə hakkinza.\nBabu 17\nNdu yaye runzəlaro razəgə gantodə hakkinzə kuru adəgaima shi-a am-a kəltəm\ngantodə ye.\nNduma dalil baaro razəgənzəga firtinba.\nBabu 18\nNdu yaye hakkinzə nazaru kəndobe-a tawakarbe-a adinbe-a mbeji, suro hakki adəben\nnambe adinnzə au nzasaranzə faltəbe-a nambe shi tilonzə au suro jamuwubelan\nfetero au ashirlan adinzə au nzasaranzə yikkəlio-a kəndo-a abuttə-a lajiptə-alan\ntartaabe mbeji.\nBabu 19\nNdu yaye hakkinzə rayiwu-a bayan kəndo-abe mbeji, suro hakki adəben nambe\nrayiwunzə kalma baaro bayanjin kuru shilan nzəra majin ye səmoyin ye kuru\nhawarazəgin futu hawarbe jilibin yaye kəlangai baaro.\nBabu 20\nNdu yaye hakkinzə suro nəlefaben samno sapta-a maamala kəndo-abe mbeji.\nNduma dunon karapka kasatsənyiro nzəkko ba.\nBabu 21\nNdu yaye hakkinzə suro gumnati lardənzəbero ci nzəkobe mbeji, shi kəlanzə au\nwokkilnzə futu kalkallan kartənamben.\nNdu yaye hakkinzə suro lardənzəben jamaro tunotobe mbeji.\nKasada jamabedə shima fərtə kəntəwo gumnatibero walzə, kasada adə suro karno\ngondua ye jirebe ye lardə kəpson ndu-a nduana-asoye sədin ye kuru kuriya suro\nashirlan au ashirga samunzənalan tədinbelan bayantə.\nBabu 22\nNdu yaye kəla shi memba ummabedən, hakkinzə nzəliwo-a asutə-abe mbeji, kasadə\nlardəbemben au tawaa indikate lardəwabemben futu fasal-a nyama-a lardədəbe\nləgatarro, razəgə-a nəmkamnzə-a təgalisə baaro yita fuwutəgə.\nBabu 23\nNdu yaye hakkinzə cida kəndobe mbeji, cida səragəna karzə kəndo-a futu kaida\nsandənalan kəndo-a kurumason kaidu cida babelan shiga nzətakawo-a.\nNdu yaye, gayirtə futubibema baaro, hakkinzə cida sədəna ləgatarro shiga alutəbe\nmbeji.\nNdu yaye cidama sədinga hakkinzə awo alutəginmadə shi-a yalwanzə-a futu\ndarajanza nəmadamganabe ləgatarro sandiga cittənnama alutəgəbe mbeji kuru nzəra\nyaye nasha laa jamaro nafaka kənjobelan mbejiga diwijinba."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "e0566c88e2168d9577614bee2ef4fa41",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Ndu yaye hakkinzə karapka cidawube koktabe au kəlanzə nzəkkobe mbeji tamtam\nkəlanzəbe nzəliwo nankaro.\nBabu 24\nNdu yaye hakkinzə tusu-a kundushi kəndo-abe mbeji, loktu cidabe angalbe kurzəna-a\nbatalla biyaa-a kunten.\nBabu 25\nNdu yaye hakkinzə futu kalkalro məradətənaro kəndəgabe nəlefa-a kəndəga kəji shi\nkəlanzə-a yalwanzə-abe mbeji, hatta kəmbu-a kənza-a kazəmu-a fato-a, kurun-a\nawowa gade tamtambe məradətənan kunten-a, kuru hakkinzə shiga nzətkawobe\nmbeji wanee cidaba laa, kundondi laa, nəmmaskin laa, nəmkamba laa, ngəli kurwu\nlaa au kəndəgaram kun-balinbe laaye shiro kənteri cuwutoga.\nYa kəndewu-a tada tiwal-aso ngəlaro cistəgə məradəzana. Duli dukso, nyiyaa au nyiya\nbaalan katambo yaye səliwo fandodə hakkinza.\nBabu 26\nNdu yaye hakkinzə shiro ilmu kənjobe mbeji. Ilmu gultəna adə de sulro tin, gananzə\nyaye ilmu badiyarambe-a fuwunzəbe məradətəna-a. Ilmu badiyarambe gultəna adə\nkənjonzədə mburo walzəna. Ilmu nzundube-a shanabe-adə ndarason mbeji ye\ntəwandin yero tədə kuru adəgaima ilmu sandin fuwunbedə ye ndusoye səwandə\nkərajinro walzə natəgəye suwudiya.\nIlmudə nəmkam kamilga garta-a dunoatə hakkiwa adamganabe-a nambenzə-a\nnganzazəro walzə. Asutu-a kanadi-a nəmkam-a indikate lardəwaben fuwuzəgin.\nNəmgade jilibe au adinbe baro sədin, kuru lardəwa Tawakkata Dunyabeye cidanzə\nnəlefa rotabedəga yitafuwuzəgin.\nYaso Awasoye hakkinza burwoza jili ilmube məradəzana karza dulinzaro gultəgəbe\nmbeji.\nBabu 27\nNdu yaye hakkinzə kal baaro lamarwa adabe jamabelan gaam luwobe mbeji,\nadawadən tamtam fantə-a yasan ngalwotəgənzəro kəla nzəkko-a kuru faidanzən riwa\nfando-a.\nNdu yaye hakkinzə nzəliwobe mbeji kəla lamar bərzəm-a kəla ro-aben cida nasha\nkimiyaben kal, ruwoben kal au muskon tandoben kal shima kunkunzə sutuluiya.\nBabu 28\nNdu yaye hakkinzə howum duwo hakkiwa-a nambe-a suro Wowur adəben\ndəganadəga yita bayanzəginma gantobe mbeji.\nBabu 29\nNdu yaye cida jama suron dəgana sandi baslan nəmkamnzə kaima baaro\nyitafuwuzəgin adəbe kəndobe mbeji.\nSuro hakkiwanzə-a nambenzə-a yitagatsəginben, ndu yaye kəlangai howumye\ngənazənaro dazəgin təganasmaro dalil hakkiwa-a nambe-a jama gade gapsanadəbe\nasutə darajatə-a məradəwa lamarwa bərzəmbe-a kaida suro jamaben kəndəgabe-a",
-            "Image": "e0566c88e2168d9577614bee2ef4fa41"
+            "Text": "Ndu yaye hakkinzə karapka cidawube koktabe au kəlanzə nzəkkobe mbeji tamtam\nkəlanzəbe nzəliwo nankaro.\nBabu 24\nNdu yaye hakkinzə tusu-a kundushi kəndo-abe mbeji, loktu cidabe angalbe kurzəna-a\nbatalla biyaa-a kunten.\nBabu 25\nNdu yaye hakkinzə futu kalkalro məradətənaro kəndəgabe nəlefa-a kəndəga kəji shi\nkəlanzə-a yalwanzə-abe mbeji, hatta kəmbu-a kənza-a kazəmu-a fato-a, kurun-a\nawowa gade tamtambe məradətənan kunten-a, kuru hakkinzə shiga nzətkawobe\nmbeji wanee cidaba laa, kundondi laa, nəmmaskin laa, nəmkamba laa, ngəli kurwu\nlaa au kəndəgaram kun-balinbe laaye shiro kənteri cuwutoga.\nYa kəndewu-a tada tiwal-aso ngəlaro cistəgə məradəzana. Duli dukso, nyiyaa au nyiya\nbaalan katambo yaye səliwo fandodə hakkinza.\nBabu 26\nNdu yaye hakkinzə shiro ilmu kənjobe mbeji. Ilmu gultəna adə de sulro tin, gananzə\nyaye ilmu badiyarambe-a fuwunzəbe məradətəna-a. Ilmu badiyarambe gultəna adə\nkənjonzədə mburo walzəna. Ilmu nzundube-a shanabe-adə ndarason mbeji ye\ntəwandin yero tədə kuru adəgaima ilmu sandin fuwunbedə ye ndusoye səwandə\nkərajinro walzə natəgəye suwudiya.\nIlmudə nəmkam kamilga garta-a dunoatə hakkiwa adamganabe-a nambenzə-a\nnganzazəro walzə. Asutu-a kanadi-a nəmkam-a indikate lardəwaben fuwuzəgin.\nNəmgade jilibe au adinbe baro sədin, kuru lardəwa Tawakkata Dunyabeye cidanzə\nnəlefa rotabedəga yitafuwuzəgin.\nYaso Awasoye hakkinza burwoza jili ilmube məradəzana karza dulinzaro gultəgəbe\nmbeji.\nBabu 27\nNdu yaye hakkinzə kal baaro lamarwa adabe jamabelan gaam luwobe mbeji,\nadawadən tamtam fantə-a yasan ngalwotəgənzəro kəla nzəkko-a kuru faidanzən riwa\nfando-a.\nNdu yaye hakkinzə nzəliwobe mbeji kəla lamar bərzəm-a kəla ro-aben cida nasha\nkimiyaben kal, ruwoben kal au muskon tandoben kal shima kunkunzə sutuluiya.\nBabu 28\nNdu yaye hakkinzə howum duwo hakkiwa-a nambe-a suro Wowur adəben\ndəganadəga yita bayanzəginma gantobe mbeji.\nBabu 29\nNdu yaye cida jama suron dəgana sandi baslan nəmkamnzə kaima baaro\nyitafuwuzəgin adəbe kəndobe mbeji.\nSuro hakkiwanzə-a nambenzə-a yitagatsəginben, ndu yaye kəlangai howumye\ngənazənaro dazəgin təganasmaro dalil hakkiwa-a nambe-a jama gade gapsanadəbe\nasutə darajatə-a məradəwa lamarwa bərzəmbe-a kaida suro jamaben kəndəgabe-a"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "fcd2338b0250f7b88a7342aef8132c14",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "suro naptəram demokəradiyaben nəlefa fando-a.\nHakkiwa-a nambe-a anyi futubiman dalil Lardəwa Tawakkata Dunyabeye ferzənadən\nnguron dalilwa gadero faidatinba.\nBabu 30\nAbima suro Wowur adəben fasaranzə lardəro, samnaro au kamro kartaaro tənyi,\namari hakki abima kəndobe au nya laa nganzatəbe kəla hakkiwa-a nambe-a suro\nadəlan dəganadəben bannaro fasartənyi ye tənyi ye.",
-            "Image": "fcd2338b0250f7b88a7342aef8132c14"
+            "Text": "suro naptəram demokəradiyaben nəlefa fando-a.\nHakkiwa-a nambe-a anyi futubiman dalil Lardəwa Tawakkata Dunyabeye ferzənadən\nnguron dalilwa gadero faidatinba.\nBabu 30\nAbima suro Wowur adəben fasaranzə lardəro, samnaro au kamro kartaaro tənyi,\namari hakki abima kəndobe au nya laa nganzatəbe kəla hakkiwa-a nambe-a suro\nadəlan dəganadəben bannaro fasartənyi ye tənyi ye."
         }
     }
 }

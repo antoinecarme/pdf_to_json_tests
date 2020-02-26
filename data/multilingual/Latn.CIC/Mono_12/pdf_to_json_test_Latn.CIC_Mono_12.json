@@ -1,54 +1,54 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581467447,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 9.216)}"
+            ],
+            "Image": "d8301c68975955e8c60cea704888a5b9",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 9.216)}"
-            ],
-            "Text": "Hattak Mó̱\nma I̱\nholisso\nIshtaa-aya Ámmo'na Holisso\nHattakat yaakni' áyya'shakat mó̱\nmakat ittíllawwi bíyyi'ka. Naalhpisa'at hattak mó̱\nmakat immi'.\nA̱\nlhínchikma̱ hattak mó̱\nmakat ishtayoppa'ni.\nHookya nannalhpisa' ihíngbittooka̱ ittimi̱\nlat taha. Himmaka̱ hattakat aa-áyya'shahookano ilaapo'\nnanna anokfillikakoot nannikchokmoho̱ anokfillihootokoot yammako̱ yahmichi bannahoot áyya'sha.\nNannalhpisa' ihíngbittookookano kaniya'chi ki'yo. Immoot mahá̱\na'chi hattakat áyya'sha aalhlhika̱\n.\nNannalhpisa' ihíngbittooka̱ immoot mahá̱\nahookya hattakat ikayoppa'chokmat ibaachaffa ikbannokmat\nilaapo' nanna aanokfillikakoot yahmichi bannahoot áyya'sha.\nHattak mó̱\nmakat nannaka̱ ittibaachaffa bíyyi'kakma̱ chokma'ni. Hattak yaakni' áyya'shakat\nnannalhpisa'a̱ naapiisa' alhihaat mó̱\nmakat ittibaachaffa bíyyi'kakma̱ nanna mó̱\nmakat alhpi'sa\nbíyyi'ka'ni.\nYaakni' hattak áyya'shakat mó̱\nmakat nannaka̱ yahmi bannahoot áyya'shakat holisso holissochi:\nChihoowaat hattak ikbikat ittiílawwi bíyyi'kaho̱ Chihoowaat naalhpisa' ikbittooka̱ yammako̱\nhattakat kanihmihoot áyya'sha bannakat yámmohmihoot áyya'sha'chi.\nHattak yaakni' áyya'shakat mó̱\nmakat yammookano ittibaachaffahookmaka'chi nannakat alhpi'sa\nbíyyi'ka'chika̱\n.\nHattak mó̱\nmakat ithá̱\nnahookmaka'chi.\nHimmaka' nittak áyya'shakat\nGeneral Assemblyat\nNanna mó̱\nmaka̱ nannaka̱ ithá̱\nnacha ittibaachaffahookmakoot nannaka̱ a̱\nlhíncha'chikat holisso ikbi.\nAnompaKanihmo'si1\nHimmaka' nittakookano hattak yokasht toksalicha'nikat ki'yo. Hattak mó̱\nmakat ittíllawwi\nbíyyi'kacha nanna mó̱\nmaka̱ ittibaachaffa'hitok.\nAnompaKanihmo'si2\nHattakat pisa ittimi̱\nlayyokhacha kaniyaho̱ aamintihookya mó̱\nmakat ittíllawwi bíyyi'ka.\nHattakat yaakni' kaniya'o̱ aamintihookya ittíllawwi bíyyi'ka.\nAnompaKanihmo'si3\nHattakat hattak yoka'shcha aba'nikat imalhpi'sa ki'yo. Hattakat holiitopa bíyyi'ka.\nAnompaKanihmo'si4\nHattak yoka'at ikshoka'ni.\nAnompaKanihmo'si5\nHattakat hattakaakaynika̱ kalakshichit nanna impállammicha'nikat iksho nanna kanihmi ki'yoka̱\n.\nAnompaKanihmo'si6\nHattakat mó̱\nmakat hattak bíyyi'ka.\nAnompaKanihmo'si7\nHattak naapiisa' alhihaat hattak mó̱\nmaka̱ ittíllawwicha'nikat imalhpi'sa.\nAnompaKanihmo'si8\nHattakat nannikchokmoho̱ hattak i̱\nyahmohmikma̱ naapiisa' alhihaakoot hattak yamma̱ apila'chi.\nAnompaKanihmo'si9\nHattakat nanna̱ kanihmi ki'yoka̱ yokacha' ki'yo kanahoot nanna onhochika̱\n.\nAnompaKanihmo'si10\nYokashtokookma̱ court ishtayyana i̱\nnaapisa'akoot i̱\nnaapisa'chi nannakat alhpi'sa bíyyi'ka'chiho̱\n.",
-            "Image": "d8301c68975955e8c60cea704888a5b9"
+            "Text": "Hattak Mó̱\nma I̱\nholisso\nIshtaa-aya Ámmo'na Holisso\nHattakat yaakni' áyya'shakat mó̱\nmakat ittíllawwi bíyyi'ka. Naalhpisa'at hattak mó̱\nmakat immi'.\nA̱\nlhínchikma̱ hattak mó̱\nmakat ishtayoppa'ni.\nHookya nannalhpisa' ihíngbittooka̱ ittimi̱\nlat taha. Himmaka̱ hattakat aa-áyya'shahookano ilaapo'\nnanna anokfillikakoot nannikchokmoho̱ anokfillihootokoot yammako̱ yahmichi bannahoot áyya'sha.\nNannalhpisa' ihíngbittookookano kaniya'chi ki'yo. Immoot mahá̱\na'chi hattakat áyya'sha aalhlhika̱\n.\nNannalhpisa' ihíngbittooka̱ immoot mahá̱\nahookya hattakat ikayoppa'chokmat ibaachaffa ikbannokmat\nilaapo' nanna aanokfillikakoot yahmichi bannahoot áyya'sha.\nHattak mó̱\nmakat nannaka̱ ittibaachaffa bíyyi'kakma̱ chokma'ni. Hattak yaakni' áyya'shakat\nnannalhpisa'a̱ naapiisa' alhihaat mó̱\nmakat ittibaachaffa bíyyi'kakma̱ nanna mó̱\nmakat alhpi'sa\nbíyyi'ka'ni.\nYaakni' hattak áyya'shakat mó̱\nmakat nannaka̱ yahmi bannahoot áyya'shakat holisso holissochi:\nChihoowaat hattak ikbikat ittiílawwi bíyyi'kaho̱ Chihoowaat naalhpisa' ikbittooka̱ yammako̱\nhattakat kanihmihoot áyya'sha bannakat yámmohmihoot áyya'sha'chi.\nHattak yaakni' áyya'shakat mó̱\nmakat yammookano ittibaachaffahookmaka'chi nannakat alhpi'sa\nbíyyi'ka'chika̱\n.\nHattak mó̱\nmakat ithá̱\nnahookmaka'chi.\nHimmaka' nittak áyya'shakat\nGeneral Assemblyat\nNanna mó̱\nmaka̱ nannaka̱ ithá̱\nnacha ittibaachaffahookmakoot nannaka̱ a̱\nlhíncha'chikat holisso ikbi.\nAnompaKanihmo'si1\nHimmaka' nittakookano hattak yokasht toksalicha'nikat ki'yo. Hattak mó̱\nmakat ittíllawwi\nbíyyi'kacha nanna mó̱\nmaka̱ ittibaachaffa'hitok.\nAnompaKanihmo'si2\nHattakat pisa ittimi̱\nlayyokhacha kaniyaho̱ aamintihookya mó̱\nmakat ittíllawwi bíyyi'ka.\nHattakat yaakni' kaniya'o̱ aamintihookya ittíllawwi bíyyi'ka.\nAnompaKanihmo'si3\nHattakat hattak yoka'shcha aba'nikat imalhpi'sa ki'yo. Hattakat holiitopa bíyyi'ka.\nAnompaKanihmo'si4\nHattak yoka'at ikshoka'ni.\nAnompaKanihmo'si5\nHattakat hattakaakaynika̱ kalakshichit nanna impállammicha'nikat iksho nanna kanihmi ki'yoka̱\n.\nAnompaKanihmo'si6\nHattakat mó̱\nmakat hattak bíyyi'ka.\nAnompaKanihmo'si7\nHattak naapiisa' alhihaat hattak mó̱\nmaka̱ ittíllawwicha'nikat imalhpi'sa.\nAnompaKanihmo'si8\nHattakat nannikchokmoho̱ hattak i̱\nyahmohmikma̱ naapiisa' alhihaakoot hattak yamma̱ apila'chi.\nAnompaKanihmo'si9\nHattakat nanna̱ kanihmi ki'yoka̱ yokacha' ki'yo kanahoot nanna onhochika̱\n.\nAnompaKanihmo'si10\nYokashtokookma̱ court ishtayyana i̱\nnaapisa'akoot i̱\nnaapisa'chi nannakat alhpi'sa bíyyi'ka'chiho̱\n."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 9.216)}"
+            ],
+            "Image": "c8fe315ee02f81ba5dd3b6312c40e5f6",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 9.216)}"
-            ],
-            "Text": "AnompaKanihmo'si11\nKanahaat nanna ikchokmoho̱ yámmohmi imahoobakmat naapiisa' alhihaakoot nannakat alhpi'sa\nbíyyi'kaho̱ i̱\nnaapiisa'chi, anompa loma' nannakya ikshoho̱\n.\nNannakat ikchokmoho̱ ishyámmo̱\nhtok ki'yokya naapiisa' alhihaat nannalhpisa'a̱ i̱\nlánchikma̱\nfalammisht anompa achonhochi banna'nihookya yahma' ki'yo, naalhpisa'at ikshokí̱\nshtokootoko̱\n.\nAnompaKanihmo'si12\nNanna ishkani̱\nhtok ki'yohootoko̱ kanahaat nanna chiikani̱\nhcha' ki'yo.\nAnompaKanihmo'si13\nKaniya'o̱ aya chibannakmat ishiyya'hi bíyyi'ka. Kaniya'o̱ ánta chibannakmat ishánta'hi bíyyi'ka.\nYaakni' kaniya'ookya ishiyya'hi bíyyi'ka. Aatokmat falamat ishaa-attatokma̱ aya chibannakmat\nishiyya'hi bíyyi'ka.\nAnompaKanihmo'si14\nKaniya'o̱ ishántaka̱ kanahaat ikayoppachokma̱ kaniya'ookya ishiyya'hi bíyyi'ka.\nNanna ikchokmoho̱ ishyammohmikmat kaniya'ookya ishiyya' ki'yo.\nAnompaKanihmo'si15\nKaniya'o̱ ishaa-attattookookya kaniya'o̱ aya chibannakmat ishiyya'hi bíyyi'ka.\nKaniya'o̱ ishaa-attattookmat ánta chibannakmat ishánta'hi bíyyi'ka.\nAnompaKanihmo'si16\nHattakat ihoo táwwa'at kaniya'o̱ ittihaalalli bannakmat ittihaalalla'nikat imalhpi'sa.\nIttihaalalli ikbannokmat ittihaalalla' ki'yo kaniya'ookya.\nKanahaat ittihaalallittookat inchokka' chaffaat áyya'shakmano holítto'pa.\nAnompaKanihmo'si17\nHattak mó̱\nmakat nannakat imáyya'sha bíyyi'ka.\nKanahoot imaaisha' ki'yo immi'ootoko̱\n.\nAnompaKanihmo'si18\nKanahaat nanna aayimmikat ittimi̱\nlayyokha bíyyi'kahookya, nannaho̱ ayoppachi bannakmat\nayoppacha'ni.\nAnompaKanihmo'si19\nNannaho̱ anokfilli chibannakmat ishanokfilla'ni. Nannaho̱ holissochi chibannakmat\nishholissocha'ni. Holisso nannaho̱ ittimanompoli chibannakmat istimanompola'ni.\nAnompa Kanihmo'si20\nNannaho̱ ishtittanahaat áyya'shcha ittibaanokfillika̱ ibaafóyyokha chibannakmat\nishibaafóyyokha'ni.\nNanna ishtáyya'shaka̱ ibaafokha ikchibannokmat ishibaafokha' ki'yo.\nAnompaKanihmo'si21\nIttibaachaffahookmat hattak mó̱\nmakat naalhpisa' ikba'ni.\nKanahaat naalhtoka' nannaho̱ malili bannakmat malila'ni.\nHattak mó̱\nmakat kanaho̱ naalhtoka' atookoli bannakmat imvoota'chi.\nAnompaKanihmo'si22\nKanihmit ánta chibannakat ishahánta'ni. Kanaho̱ ishhottopacha' ki'yo.\nAnompaKanihmo'si23\nAatoksali' chokmakillaho̱ hattakat aatoksala'ni.",
-            "Image": "c8fe315ee02f81ba5dd3b6312c40e5f6"
+            "Text": "AnompaKanihmo'si11\nKanahaat nanna ikchokmoho̱ yámmohmi imahoobakmat naapiisa' alhihaakoot nannakat alhpi'sa\nbíyyi'kaho̱ i̱\nnaapiisa'chi, anompa loma' nannakya ikshoho̱\n.\nNannakat ikchokmoho̱ ishyámmo̱\nhtok ki'yokya naapiisa' alhihaat nannalhpisa'a̱ i̱\nlánchikma̱\nfalammisht anompa achonhochi banna'nihookya yahma' ki'yo, naalhpisa'at ikshokí̱\nshtokootoko̱\n.\nAnompaKanihmo'si12\nNanna ishkani̱\nhtok ki'yohootoko̱ kanahaat nanna chiikani̱\nhcha' ki'yo.\nAnompaKanihmo'si13\nKaniya'o̱ aya chibannakmat ishiyya'hi bíyyi'ka. Kaniya'o̱ ánta chibannakmat ishánta'hi bíyyi'ka.\nYaakni' kaniya'ookya ishiyya'hi bíyyi'ka. Aatokmat falamat ishaa-attatokma̱ aya chibannakmat\nishiyya'hi bíyyi'ka.\nAnompaKanihmo'si14\nKaniya'o̱ ishántaka̱ kanahaat ikayoppachokma̱ kaniya'ookya ishiyya'hi bíyyi'ka.\nNanna ikchokmoho̱ ishyammohmikmat kaniya'ookya ishiyya' ki'yo.\nAnompaKanihmo'si15\nKaniya'o̱ ishaa-attattookookya kaniya'o̱ aya chibannakmat ishiyya'hi bíyyi'ka.\nKaniya'o̱ ishaa-attattookmat ánta chibannakmat ishánta'hi bíyyi'ka.\nAnompaKanihmo'si16\nHattakat ihoo táwwa'at kaniya'o̱ ittihaalalli bannakmat ittihaalalla'nikat imalhpi'sa.\nIttihaalalli ikbannokmat ittihaalalla' ki'yo kaniya'ookya.\nKanahaat ittihaalallittookat inchokka' chaffaat áyya'shakmano holítto'pa.\nAnompaKanihmo'si17\nHattak mó̱\nmakat nannakat imáyya'sha bíyyi'ka.\nKanahoot imaaisha' ki'yo immi'ootoko̱\n.\nAnompaKanihmo'si18\nKanahaat nanna aayimmikat ittimi̱\nlayyokha bíyyi'kahookya, nannaho̱ ayoppachi bannakmat\nayoppacha'ni.\nAnompaKanihmo'si19\nNannaho̱ anokfilli chibannakmat ishanokfilla'ni. Nannaho̱ holissochi chibannakmat\nishholissocha'ni. Holisso nannaho̱ ittimanompoli chibannakmat istimanompola'ni.\nAnompa Kanihmo'si20\nNannaho̱ ishtittanahaat áyya'shcha ittibaanokfillika̱ ibaafóyyokha chibannakmat\nishibaafóyyokha'ni.\nNanna ishtáyya'shaka̱ ibaafokha ikchibannokmat ishibaafokha' ki'yo.\nAnompaKanihmo'si21\nIttibaachaffahookmat hattak mó̱\nmakat naalhpisa' ikba'ni.\nKanahaat naalhtoka' nannaho̱ malili bannakmat malila'ni.\nHattak mó̱\nmakat kanaho̱ naalhtoka' atookoli bannakmat imvoota'chi.\nAnompaKanihmo'si22\nKanihmit ánta chibannakat ishahánta'ni. Kanaho̱ ishhottopacha' ki'yo.\nAnompaKanihmo'si23\nAatoksali' chokmakillaho̱ hattakat aatoksala'ni."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 9.216)}"
+            ],
+            "Image": "5f5bf387ab511f934843e556db2f78ca",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 9.216)}"
-            ],
-            "Text": "Kaniya'o̱ ishaatoksalikat hattakat toksalikat kanihmi imalhtobahookma̱ ittíllawwihoot\nchimalhtoba'ni.\nTa'osso lawaho̱ ishikbihookmakoot aa-atta ishhayocha'chi.\nUniono̱ ibaafokha chibannakmat ishibaafokha'ni.\nAnompaKanihmo'si24\nIshtoksali bíyyi'kaka̱ hashi' kanalli kanihmika̱ chí̱\nmahookmako̱ ishfó̱\nha'ni.\nAnompaKanihmo'si25\nNanna mó̱\nmaka̱ ishatahlihookmaka'chi — ishimpa'chi; naafokha; ishaa-atta'chi; alikchi'\nishimayya'chi — mó̱\nmaka̱ ishatahlihookmaka'chi. Nannahoot chikanihmihookma̱ kanahmat\nachipilakmaka'chi.\nChipotaat kaniya'o̱ aamintihoot áyya'shahookya kanahmat apilakmaka'chi. Ishki' mó̱\nmaho̱\napilakmaka'chi.\nAnompaKanihmo'si26\nChipota mó̱\nmakat holissaapisa' aya'nikat imalhpi'sa, ta'osso nannikimikshohookya. Kana mó̱\nmakat\nnanna aaithana' aya bannakmat aya'ni.\nHattakat nanna aaithana' ayakma̱ nannakat alhpi'saho̱ imano̱\nlikma̱ chokma'ni.\nChipota áyya'shakma̱ ishki' inki' táwwa'akoot holissaapisa' kaniya'o̱ ayachi bannakmat ayacha'ni.\nAnompaKanihmo'si27\nKaniya'o̱ nanna ishtáyya'shakma̱ kanahoot ayyacha ibaayahmi bannakmat yahma'ni.\nKanahookya nanna ikbicha kanchi bannakmat kancha'ni, ta'osso isha'chikat.\nAnompaKanihmo'si28\nAnompa kanihmo'si yappa̱ hattakat haklocha kani̱\nhchit anokfilli bannakmat anokfilla'ni. Nannaho̱\nkanihmi bannakmat yahma'ni.\nAnompaKanihmo'si29\nKana mó̱\nmakat ittapilakmakilla.\nHattakat naalhpisa' ikbi, hattak apila bannahoot. Naalhpisa' kobaffa' ki'yo.\nAnompa kanihmo'si yappat alhkaniya' ki'yo.\nAnompaKanihmo'si30\nHolisso tobattooko̱ kanahookya ikimalhkaniyyoka'ni.",
-            "Image": "5f5bf387ab511f934843e556db2f78ca"
+            "Text": "Kaniya'o̱ ishaatoksalikat hattakat toksalikat kanihmi imalhtobahookma̱ ittíllawwihoot\nchimalhtoba'ni.\nTa'osso lawaho̱ ishikbihookmakoot aa-atta ishhayocha'chi.\nUniono̱ ibaafokha chibannakmat ishibaafokha'ni.\nAnompaKanihmo'si24\nIshtoksali bíyyi'kaka̱ hashi' kanalli kanihmika̱ chí̱\nmahookmako̱ ishfó̱\nha'ni.\nAnompaKanihmo'si25\nNanna mó̱\nmaka̱ ishatahlihookmaka'chi — ishimpa'chi; naafokha; ishaa-atta'chi; alikchi'\nishimayya'chi — mó̱\nmaka̱ ishatahlihookmaka'chi. Nannahoot chikanihmihookma̱ kanahmat\nachipilakmaka'chi.\nChipotaat kaniya'o̱ aamintihoot áyya'shahookya kanahmat apilakmaka'chi. Ishki' mó̱\nmaho̱\napilakmaka'chi.\nAnompaKanihmo'si26\nChipota mó̱\nmakat holissaapisa' aya'nikat imalhpi'sa, ta'osso nannikimikshohookya. Kana mó̱\nmakat\nnanna aaithana' aya bannakmat aya'ni.\nHattakat nanna aaithana' ayakma̱ nannakat alhpi'saho̱ imano̱\nlikma̱ chokma'ni.\nChipota áyya'shakma̱ ishki' inki' táwwa'akoot holissaapisa' kaniya'o̱ ayachi bannakmat ayacha'ni.\nAnompaKanihmo'si27\nKaniya'o̱ nanna ishtáyya'shakma̱ kanahoot ayyacha ibaayahmi bannakmat yahma'ni.\nKanahookya nanna ikbicha kanchi bannakmat kancha'ni, ta'osso isha'chikat.\nAnompaKanihmo'si28\nAnompa kanihmo'si yappa̱ hattakat haklocha kani̱\nhchit anokfilli bannakmat anokfilla'ni. Nannaho̱\nkanihmi bannakmat yahma'ni.\nAnompaKanihmo'si29\nKana mó̱\nmakat ittapilakmakilla.\nHattakat naalhpisa' ikbi, hattak apila bannahoot. Naalhpisa' kobaffa' ki'yo.\nAnompa kanihmo'si yappat alhkaniya' ki'yo.\nAnompaKanihmo'si30\nHolisso tobattooko̱ kanahookya ikimalhkaniyyoka'ni."
         }
     }
 }

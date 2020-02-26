@@ -1,93 +1,93 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581471425,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "32b1883b34706f301589d3b3b445df7b",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "TUCHODA TITAJU NIJYANVAJYU VURYATIDYE VICHASARA SAMIRYA VARIY\nRijechipiyajada sesionmu ttJau jiryatiy mucadi jnutyavay jntyeryaniy jasiyu, 10 de diciembre de 1948, rityuchunumaya varintirya j ijechipiyja\nada ranchiy\n10 DE DICIEMBRE DE 1948mu, rijechipiyjaada rajumusiy mucadi jnutyavay, ritychoda varirya jirya niquejada titJau nijyanvajyu\nnutyaramusiy vuryivichasara samiy vichadaju jirya mucadimu. Jasiy jirya cateramura titJau rijechipiyjaada. Riñuyadivasirya j irya niquejada,\nruteda variy ruva tltJau mucadi jnutyavay jasiy vichavay: JirVa nutyanirya jirya niquejada titjau, jiryaQuchutaniy varirya, jiryadatyanu\nvarintirya. Jiryadatyanu liita catera njuyomura dañuma rirvjaachipiya tavay tajijyu.\nTarajura Rityuchoda Darya\nVUTYUVACHU RAMU JIRYA: rirvatidye vichasara nijyanvay jmurvasavay, samivye jarye, jiryatiy runuchara nutityumiy samiy riñecho,\nvurvama datya itjau jiryatiy vurvupedamusiy vuvyta rirvatidye jnuy tjau nijynvay samiy vuñecho;\nVUTYUVACHU RAMU JIRYANTIY: riryavatyda tavaryi nijyanvay jasicharjau riryantadeda variryi. Ridyetyisadamu yavatyadariy\nnijyanvay, rirvavirvutyada varirya nijyanvay vichada. Ramunjtiy vutyuchura jiryatiy nijyanvay vatasara jaryirya: nvyichary samiryamu, ne\nñrvasuvuy tara, darvantyamuy jantyuyadavay. Riñiquery ntyuvachuruy variy jivyatadamusiy;\nVUTYUVACHU RAMUNTIY: jiryatiy nijyanvay jantyuyadavay vata jnutityumura jmutyada riryimya javatya tavay nijyanvantyirvi, riñuma\nmurchenrrva yavatyasada mudodta. Ramunitiy rivyatara nutitymiy jmutyada, ribey liita jiñiquejada variy;\nVUTYUVACHU RAMUNTIY: jiryatiy raniy sitenu vatasara datyadoda jarvedo nijyanvay nutyaramusitya vuryivichasara samirya vutyunu\nvichavatya;\nVUTYUVACHU RAMUNTIY: jiryatiy ntyuchuma raju mucadi jnutyavay caterava nutyi ntyuvachu ramu samirya vichasada vatujyu,\nvadujyuntiy. Rivyanutyanirvuryi nijyanvay rirvatidye vicha samirva mutijyu, rjadutya varirya rivyichada, rirya datyara jivyichada, ne n'rvecha\nti cumudemiñuday;\nVUTYUVACHU RAMUNTIY: jiatiy vurvjaantya nryatidye tuvachu tjau nijyanvay ramu jirva niquejada samirva vichadaju;\nVUTYUVACHU RAMUNTIY: jirvatiy rtiy jto darva, tiUau nijyanvay rarvidatyarurva jirva tuchoda;\nRAMUNí VURYATUVACHU DIYERA MUCADí JNUTYAVAY TUCHODA JIRYA TUCHODA RACHA TITAJU NIJYANVAJYU\nrirvatidye tuvachu variy ramu. Raniy raryivicha datyanusara titJau catera nuJyomu.\nTUCHUSARA 1.\nNe sarupay nijyami cumudeju darvantyamuy javatyasjiu. Jachipiyadati mirvara samirva, mirvamuy ne samirva. Ramunltiy sarivichanichara\nsamirvariy jityunu vichavay.",
-            "Image": "32b1883b34706f301589d3b3b445df7b"
+            "Text": "TUCHODA TITAJU NIJYANVAJYU VURYATIDYE VICHASARA SAMIRYA VARIY\nRijechipiyajada sesionmu ttJau jiryatiy mucadi jnutyavay jntyeryaniy jasiyu, 10 de diciembre de 1948, rityuchunumaya varintirya j ijechipiyja\nada ranchiy\n10 DE DICIEMBRE DE 1948mu, rijechipiyjaada rajumusiy mucadi jnutyavay, ritychoda varirya jirya niquejada titJau nijyanvajyu\nnutyaramusiy vuryivichasara samiy vichadaju jirya mucadimu. Jasiy jirya cateramura titJau rijechipiyjaada. Riñuyadivasirya j irya niquejada,\nruteda variy ruva tltJau mucadi jnutyavay jasiy vichavay: JirVa nutyanirya jirya niquejada titjau, jiryaQuchutaniy varirya, jiryadatyanu\nvarintirya. Jiryadatyanu liita catera njuyomura dañuma rirvjaachipiya tavay tajijyu.\nTarajura Rityuchoda Darya\nVUTYUVACHU RAMU JIRYA: rirvatidye vichasara nijyanvay jmurvasavay, samivye jarye, jiryatiy runuchara nutityumiy samiy riñecho,\nvurvama datya itjau jiryatiy vurvupedamusiy vuvyta rirvatidye jnuy tjau nijynvay samiy vuñecho;\nVUTYUVACHU RAMU JIRYANTIY: riryavatyda tavaryi nijyanvay jasicharjau riryantadeda variryi. Ridyetyisadamu yavatyadariy\nnijyanvay, rirvavirvutyada varirya nijyanvay vichada. Ramunjtiy vutyuchura jiryatiy nijyanvay vatasara jaryirya: nvyichary samiryamu, ne\nñrvasuvuy tara, darvantyamuy jantyuyadavay. Riñiquery ntyuvachuruy variy jivyatadamusiy;\nVUTYUVACHU RAMUNTIY: jiryatiy nijyanvay jantyuyadavay vata jnutityumura jmutyada riryimya javatya tavay nijyanvantyirvi, riñuma\nmurchenrrva yavatyasada mudodta. Ramunitiy rivyatara nutitymiy jmutyada, ribey liita jiñiquejada variy;\nVUTYUVACHU RAMUNTIY: jiryatiy raniy sitenu vatasara datyadoda jarvedo nijyanvay nutyaramusitya vuryivichasara samirya vutyunu\nvichavatya;\nVUTYUVACHU RAMUNTIY: jiryatiy ntyuchuma raju mucadi jnutyavay caterava nutyi ntyuvachu ramu samirya vichasada vatujyu,\nvadujyuntiy. Rivyanutyanirvuryi nijyanvay rirvatidye vicha samirva mutijyu, rjadutya varirya rivyichada, rirya datyara jivyichada, ne n'rvecha\nti cumudemiñuday;\nVUTYUVACHU RAMUNTIY: jiatiy vurvjaantya nryatidye tuvachu tjau nijyanvay ramu jirva niquejada samirva vichadaju;\nVUTYUVACHU RAMUNTIY: jirvatiy rtiy jto darva, tiUau nijyanvay rarvidatyarurva jirva tuchoda;\nRAMUNí VURYATUVACHU DIYERA MUCADí JNUTYAVAY TUCHODA JIRYA TUCHODA RACHA TITAJU NIJYANVAJYU\nrirvatidye tuvachu variy ramu. Raniy raryivicha datyanusara titJau catera nuJyomu.\nTUCHUSARA 1.\nNe sarupay nijyami cumudeju darvantyamuy javatyasjiu. Jachipiyadati mirvara samirva, mirvamuy ne samirva. Ramunltiy sarivichanichara\nsamirvariy jityunu vichavay."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "e86ed606580bc81dc4d11c0ff69a6046",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "TUCHUSARA 2.\nDarva rirvivichasara tjtJau nijyanvay dañuma rirvecha mamyi varimyata munuñumiy, dañuma rirvecha vadacumiy varimyata pupasimyi,\ndañuma nrvecha vaduy varimyata vatuy, dañuma rianiquera jiñiquejada, dañuma nrvatuvachu Judenumu varimyatamuy, dañuma nrvJaachipiya\nmidamyuju varimyata jntityudamyuju dañuma nrvecha j arvedo, darvanuma rirvavichasara jischavu ttjau nijyanvay.\nDarva riryivichasara ttjau nijyanvay dañuma rirvecha taj i mucadimusivye.\nTUCHUSARA 3.\nRirvama pary ttjau ruva nijyanvay rnuJeyjaadaju, rirvatidye vichasara jmuasavantyi, ne ti rJaarupantasara variñudarvi.\nTUCHUSARA 4.\nNe ti raryivicha muchechimyijyu jpanuyasavajyu. Jubachara darva, darva vichadeda tnijyu.\nTUCHUSARA 5.\nNe ti rarvivichasara javatyadajus niniy jita rivyichadeda nutyi javada rirvavatyada variñi.\nTUCHUSARA 6.\nTitaju nijyanvay rarvivichasara tuchutada tnijyu cannadumu.\nTUCHUSARA 7.\nTitaju nijyanvay rarvivichasara jischavu cannadumu dañuma savicha chira, satidye jdutya cannadura rirvavatyasada.\nTUCHUSARA 8.\nTitaju nijyanvay rarvijtisara datyasavay cannadumu, satidye vichaniy vasejura rityuchutada nutyara nitiy ranique ricyatera nucharamu.\nTUCHUSARA 9.\nNe ti rarvivichasara jirich1 mityamusiy, darvantyamuy tanuvunujomuju, darvantyamuy flrvjaatya jimyucadimusiy variryi.\nTUCHUSARA l0.\nTitaju nijyanvay rarvijtjsara jischavu cannadumu, satidye tuvachu cannadu vijymujachera rityuchutada, savichaniy vase varirvi dañuma\nrirvecha tavay. Cannadu raijtajanu titjau samidyeni tuchutasi, tuchutadajam1 jae, satidye datyara nutyaramusiy sja dutyara riñiquveada.\nTUCHUSARA 11.\nRirvivichaniy juchajsani tuchutasi netimyu ridyityanu vijyomujachera sayasachada nutyara nÉiy ranique ricyatera nucharamu. Rirvisay sayada",
-            "Image": "e86ed606580bc81dc4d11c0ff69a6046"
+            "Text": "TUCHUSARA 2.\nDarva rirvivichasara tjtJau nijyanvay dañuma rirvecha mamyi varimyata munuñumiy, dañuma rirvecha vadacumiy varimyata pupasimyi,\ndañuma nrvecha vaduy varimyata vatuy, dañuma rianiquera jiñiquejada, dañuma nrvatuvachu Judenumu varimyatamuy, dañuma nrvJaachipiya\nmidamyuju varimyata jntityudamyuju dañuma nrvecha j arvedo, darvanuma rirvavichasara jischavu ttjau nijyanvay.\nDarva riryivichasara ttjau nijyanvay dañuma rirvecha taj i mucadimusivye.\nTUCHUSARA 3.\nRirvama pary ttjau ruva nijyanvay rnuJeyjaadaju, rirvatidye vichasara jmuasavantyi, ne ti rJaarupantasara variñudarvi.\nTUCHUSARA 4.\nNe ti raryivicha muchechimyijyu jpanuyasavajyu. Jubachara darva, darva vichadeda tnijyu.\nTUCHUSARA 5.\nNe ti rarvivichasara javatyadajus niniy jita rivyichadeda nutyi javada rirvavatyada variñi.\nTUCHUSARA 6.\nTitaju nijyanvay rarvivichasara tuchutada tnijyu cannadumu.\nTUCHUSARA 7.\nTitaju nijyanvay rarvivichasara jischavu cannadumu dañuma savicha chira, satidye jdutya cannadura rirvavatyasada.\nTUCHUSARA 8.\nTitaju nijyanvay rarvijtisara datyasavay cannadumu, satidye vichaniy vasejura rityuchutada nutyara nitiy ranique ricyatera nucharamu.\nTUCHUSARA 9.\nNe ti rarvivichasara jirich1 mityamusiy, darvantyamuy tanuvunujomuju, darvantyamuy flrvjaatya jimyucadimusiy variryi.\nTUCHUSARA l0.\nTitaju nijyanvay rarvijtjsara jischavu cannadumu, satidye tuvachu cannadu vijymujachera rityuchutada, savichaniy vase varirvi dañuma\nrirvecha tavay. Cannadu raijtajanu titjau samidyeni tuchutasi, tuchutadajam1 jae, satidye datyara nutyaramusiy sja dutyara riñiquveada.\nTUCHUSARA 11.\nRirvivichaniy juchajsani tuchutasi netimyu ridyityanu vijyomujachera sayasachada nutyara nÉiy ranique ricyatera nucharamu. Rirvisay sayada"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "ecd281f9fa849d38fea28e371dbc88fc",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "niquejasjiuyu, nltidye ranique variy sayadaju.\nRasipyatedanumatiy vadi catera nuchara, ne vurvatanuvunu ratani nitiy juchuvay rjaisiy ranijyu. Darvantiy rirvasachunumatirva sacasticachada\ntara juchuveda murichirva, ne vurvacasticay darva murichirvata nitiy juchuvay rasachodaj isiy.\nTUCHUSARA 12.\nNe ti rarvitye ti barvamuyu, ne vinu satevamyu, darvantyamuy sarorimyu, darvantyamuy sacateramu. Ne t i%anique quivuyada tinijyu satidye\njarupanu ratani, riñuma tanuvunu variy rivani.\nTUCHUSARA 13.\nTitaju nijyanvay rarvirupiñumaya jimyucadiva rirvatidye jarveta variy jivyichajoju.\nTtDau nijyanvay rarvisipyatay tamucadimusiy, darvantya riryichipyatay j imyucadimusiy; daryantiy rarvitarva jimyucadimuju varintyi.\nTUCHUSARA 14.\nTitaju nijyanvay rarvivata jivyichajoju tamucadimu jasityi rirvadutya yavatyisJiisiyu.\nJiryatiy sÉenu juvidañi ne saridyutyadayu, tapi rivatya savata policia sanacho, riryatidye tanuvunu variy rivani, rirvatidye tanuvunu variy\nsajuchuvedivayu.\nTUCHUSARA 15.\nTitaju nijyanvay rarvivicha mucaditavay.\nNe ti rarvijubay mucaditi vichadajisiñL darvantyamuy sjaatyachirva jimyucadi satidye jay tara mucadimu varintyi.\nTUCHUSARA 16.\nJamyiñumatiy vaduy, vatuy jerve, rirvjaamuy variy yisJau nrvatidye jude varirya nuñi tevamyu vichada. Ne ti rarvijubay ñrvja isirva jamuyada,\ndarvantyamuy n'rvijubarva mutiji vichadaju, darvantyamuy rirvijubaa jityovjaada.\nNe ti rarvijamutyaniñi vanu surramusiy, netimyu savatadidrva jamuyada, darvantyamuy vatura.\nJirvatiy rndesara vutyevay jamuyadamusiy, detuyadamusiy jarve, vurvjanutyasara samirva jamuyada rirvimya jarupanura, nutityumiy jarye\nrarvijmutya varirvi.\nTUCHUSARA 17.\nTitaju nijyanvay rarvivichasara taratavay, varimyata nuñi timusiy, varimyata rajumusiy.\nNe ij raryichovay mityamusirya riberya tavay.",
-            "Image": "ecd281f9fa849d38fea28e371dbc88fc"
+            "Text": "niquejasjiuyu, nltidye ranique variy sayadaju.\nRasipyatedanumatiy vadi catera nuchara, ne vurvatanuvunu ratani nitiy juchuvay rjaisiy ranijyu. Darvantiy rirvasachunumatirva sacasticachada\ntara juchuveda murichirva, ne vurvacasticay darva murichirvata nitiy juchuvay rasachodaj isiy.\nTUCHUSARA 12.\nNe ti rarvitye ti barvamuyu, ne vinu satevamyu, darvantyamuy sarorimyu, darvantyamuy sacateramu. Ne t i%anique quivuyada tinijyu satidye\njarupanu ratani, riñuma tanuvunu variy rivani.\nTUCHUSARA 13.\nTitaju nijyanvay rarvirupiñumaya jimyucadiva rirvatidye jarveta variy jivyichajoju.\nTtDau nijyanvay rarvisipyatay tamucadimusiy, darvantya riryichipyatay j imyucadimusiy; daryantiy rarvitarva jimyucadimuju varintyi.\nTUCHUSARA 14.\nTitaju nijyanvay rarvivata jivyichajoju tamucadimu jasityi rirvadutya yavatyisJiisiyu.\nJiryatiy sÉenu juvidañi ne saridyutyadayu, tapi rivatya savata policia sanacho, riryatidye tanuvunu variy rivani, rirvatidye tanuvunu variy\nsajuchuvedivayu.\nTUCHUSARA 15.\nTitaju nijyanvay rarvivicha mucaditavay.\nNe ti rarvijubay mucaditi vichadajisiñL darvantyamuy sjaatyachirva jimyucadi satidye jay tara mucadimu varintyi.\nTUCHUSARA 16.\nJamyiñumatiy vaduy, vatuy jerve, rirvjaamuy variy yisJau nrvatidye jude varirya nuñi tevamyu vichada. Ne ti rarvijubay ñrvja isirva jamuyada,\ndarvantyamuy n'rvijubarva mutiji vichadaju, darvantyamuy rirvijubaa jityovjaada.\nNe ti rarvijamutyaniñi vanu surramusiy, netimyu savatadidrva jamuyada, darvantyamuy vatura.\nJirvatiy rndesara vutyevay jamuyadamusiy, detuyadamusiy jarve, vurvjanutyasara samirva jamuyada rirvimya jarupanura, nutityumiy jarye\nrarvijmutya varirvi.\nTUCHUSARA 17.\nTitaju nijyanvay rarvivichasara taratavay, varimyata nuñi timusiy, varimyata rajumusiy.\nNe ij raryichovay mityamusirya riberya tavay."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "7c6c8ff8b459b44114960d684d76ec0f",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "TUCHUSARA 18.\nTitaju nijyanvay rarvijarveta munatya j ijechipiyjaadamu nutyaramusiy rirvecha, nutyaramusintyi rirvDa achipiya Judenunijyu. Savatatiy j\nanumityajja adajura j ijechipiyjaada, sarvij anumityaja varirya, daryantiy saj achipiyjaada Judenunijyu. Saryidityanu varirya j ijechipiyja ada\nmitya taranijyu, varimyata Judenunijyu. Sarvidityanu vijyomujachera darvantya sarorimyu, sasquita, darvantya rajumusiy. Saryidityanu\ndatyadodamusiy varirva, daryantya jváyadamusiy, daryantya j ntyervadedamusiy j iryatiy rijechipiyasara variy Judenunijyu.\nTUCHUSARA 19.\nNe ti raijubaa satiy jachipiya tara, sarvinique varirva jijechipiyjaada. Darvantyamuy sarvijiyasanta sajachipiyjaadivayu. Vanu rarvijtajanu riva\ndatyada, rarvijmutya varirya tidatyada, ti jachipiyjaada jarve. Sarvidatyanu varirva jijechipiyjaada titjau vichadiva, nutyaramusiñitiy savata\nsamirva sadatyanu variy jasirva.\nTUCHUSARA 20.\nTitaju nijyanvay rarvijntyeaniy tavatyayu, netimyu rintyrvaniy tj jarupadodajuyu.\nNe ti raryijnty£ryanityaniy ijsjaunI satidye jvay tara jasiy rusa.\nTUCHUSARA 21.\nNuñi tjqui rarvijmutyariy jimyucadi jnutityumiy ruvayadamu, daryantya ti j iryatiy sajaryeta yibivajunj Vumyucadi jnutityumiy rarvijmutyariy\nnijyanvay yivajyomu, ne rarvijarveta ti satidye jmutya samivyjauni.\nVumyucadi jnutityumiy rarvinusurvi nijvanvay nutyaranintyi rivyata. TItjau nijyanvay raryidatyanura jivyatada jiryatiy rijeeta mlnitiy rivyata\nyintityJuu.\nStenu jaryetadamu flrvja aryetajariy j intityumiy. T1tDau nijyanvay raryijaryetariy j intityumiy dutyajomu, tima raryij arupantariy.\nTUCHUSARA 22.\nTitaju nijyanvay rarvivata nrvatidye jmutyajayasara rityevayu. TItDau taji mucadi janvay jmutyadta rirvijmutya nuñiy tquira jivyatara satidye\nvichasara jjchanayadamu, darvamusiy sjaasachura jivyichada.\nTUCHUSARA 23.\nTitaju nijyanvay raryijvajeyasara, sarvijarveta yivayadaju. Darvaday sarvijmutya yivayada murichirvantiy nutyi tavatyi jmutyasara darva. Ne\nsarvimacho jvayadajsa ratatidye satarvurva jivyatara.\nNe rirvimurchenu tqui jarvi timusiy darva jvayada murichirva.\nTitaju nijyanvay jirvatiy jvayadatavay rarvijmutyara yivayada murichirya darva murchedoda ratatiy rirva½arvurva jidyedyeñu vatara jiatiy",
-            "Image": "7c6c8ff8b459b44114960d684d76ec0f"
+            "Text": "TUCHUSARA 18.\nTitaju nijyanvay rarvijarveta munatya j ijechipiyjaadamu nutyaramusiy rirvecha, nutyaramusintyi rirvDa achipiya Judenunijyu. Savatatiy j\nanumityajja adajura j ijechipiyjaada, sarvij anumityaja varirya, daryantiy saj achipiyjaada Judenunijyu. Saryidityanu varirya j ijechipiyja ada\nmitya taranijyu, varimyata Judenunijyu. Sarvidityanu vijyomujachera darvantya sarorimyu, sasquita, darvantya rajumusiy. Saryidityanu\ndatyadodamusiy varirva, daryantya jváyadamusiy, daryantya j ntyervadedamusiy j iryatiy rijechipiyasara variy Judenunijyu.\nTUCHUSARA 19.\nNe ti raijubaa satiy jachipiya tara, sarvinique varirva jijechipiyjaada. Darvantyamuy sarvijiyasanta sajachipiyjaadivayu. Vanu rarvijtajanu riva\ndatyada, rarvijmutya varirya tidatyada, ti jachipiyjaada jarve. Sarvidatyanu varirva jijechipiyjaada titjau vichadiva, nutyaramusiñitiy savata\nsamirva sadatyanu variy jasirva.\nTUCHUSARA 20.\nTitaju nijyanvay rarvijntyeaniy tavatyayu, netimyu rintyrvaniy tj jarupadodajuyu.\nNe ti raryijnty£ryanityaniy ijsjaunI satidye jvay tara jasiy rusa.\nTUCHUSARA 21.\nNuñi tjqui rarvijmutyariy jimyucadi jnutityumiy ruvayadamu, daryantya ti j iryatiy sajaryeta yibivajunj Vumyucadi jnutityumiy rarvijmutyariy\nnijyanvay yivajyomu, ne rarvijarveta ti satidye jmutya samivyjauni.\nVumyucadi jnutityumiy rarvinusurvi nijvanvay nutyaranintyi rivyata. TItjau nijyanvay raryidatyanura jivyatada jiryatiy rijeeta mlnitiy rivyata\nyintityJuu.\nStenu jaryetadamu flrvja aryetajariy j intityumiy. T1tDau nijyanvay raryijaryetariy j intityumiy dutyajomu, tima raryij arupantariy.\nTUCHUSARA 22.\nTitaju nijyanvay rarvivata nrvatidye jmutyajayasara rityevayu. TItDau taji mucadi janvay jmutyadta rirvijmutya nuñiy tquira jivyatara satidye\nvichasara jjchanayadamu, darvamusiy sjaasachura jivyichada.\nTUCHUSARA 23.\nTitaju nijyanvay raryijvajeyasara, sarvijarveta yivayadaju. Darvaday sarvijmutya yivayada murichirvantiy nutyi tavatyi jmutyasara darva. Ne\nsarvimacho jvayadajsa ratatidye satarvurva jivyatara.\nNe rirvimurchenu tqui jarvi timusiy darva jvayada murichirva.\nTitaju nijyanvay jirvatiy jvayadatavay rarvijmutyara yivayada murichirya darva murchedoda ratatiy rirva½arvurva jidyedyeñu vatara jiatiy"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "3909ae36fd835c75c1f06f5c30591342",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "rivyata samirva vichadajura. Ratiy rsutye ramujurijaachipiya rityevay j mutyadariy.\nTitaju nijyanvay raryintyeaniy jityervjvavyetya rirvatidye jiriy vatajumusia samirva murchedoda yivayada murichirva.\nTUCHUSARA 24.\nTitaju nijyanvay rarvivata jituyada yivayadamusiy nrvatidye jchanay tiyisadamu. Ne samirva racha rijyu netimyu rirvDaituy taraquiju\nyivajyomusiy.\nTUCHUSARA 25.\nTitaju nijyanvay rarvivata samirva vichada jityevatya rirvatidye vichasara jdivjaadajsa, samirva jmyivye, sujatyavay, rorityavay jarve.\nDaryantiy rarvivata jndanta, ratarya jmutyada jarye risJau. Netimyu jvayadatavay, rirvivichasaratiy j divjanuvay, varimyata bachenoda,\nnmityodadery jae, flijmutya variy jmutyada timusiy.\nMudasimiy, deramiy rusa rarvivata samirya jnutyada rirvatidye ramitya samivyerya jiryupachoda. Titaju deramiy raryivata samirva jnutyada j\nityevamyu.\nTUCHUSARA 26.\nTitaju nijyanvay rarvivatara datyadoda catera nJuyomu. Ne rirvimurchenu jottada datyadoda murichirva. Rirvama jpanufly jidyedyeñu catera\nnjuyomuju rajottada datyadodaju. Riryijantya mucadi jnutityumiy jasachodara catera njuyo jasityi nrvadatya vaderovarya tara jvayada.\nRicharatiy vaderovarya jarvi datyada jirvirvjiada, ne ti raijubay riryajisirva.\nMaestroveda raryidatyanuriy nijyanvay ranacho rirvatidye javye samiy jachipiyavay, nrvecha variy samiy jvadichavay, ne riryijavatyariy tavay\nnijyanvay variy. Datyadodta rasachu datyada rirvimya niquechara tavatya variy, rirvatidye jnuy samirva jiñecho. Daryantiy datyadoda\nraijmutyara flrvatidye vichasara nijyanvay samirya mutiji.\nDeramiy jamiy raryijaryetasara nutyara catera nJuyomu nrvadatya ridyedyeñu.\nTUCHUSARA 27.\nTitaju nijyanvay rarvisityarira jityevay vichada, rirvijchanatyantirya j ityevay jvaryantiy. Darvaday riijmutyara mamyi (Iatyadantiy atidye vicha\nsamirva fljyu.\nTitaju nijyanvay rarvivatara rirvatidye jnuy tavay samirva ranacho yindera, riijmutya mirvanurara ramurichirva.\nTUCHUSARA 28.\nTitaju nijyanvay rarvivata ratidye jdutyara vuvyichada jirya mucadimu, rirvatidye datyasara t-itDau jiatiy nuchara jiyudarva.\nTUCHUSARA 29.",
-            "Image": "3909ae36fd835c75c1f06f5c30591342"
+            "Text": "rivyata samirva vichadajura. Ratiy rsutye ramujurijaachipiya rityevay j mutyadariy.\nTitaju nijyanvay raryintyeaniy jityervjvavyetya rirvatidye jiriy vatajumusia samirva murchedoda yivayada murichirva.\nTUCHUSARA 24.\nTitaju nijyanvay rarvivata jituyada yivayadamusiy nrvatidye jchanay tiyisadamu. Ne samirva racha rijyu netimyu rirvDaituy taraquiju\nyivajyomusiy.\nTUCHUSARA 25.\nTitaju nijyanvay rarvivata samirva vichada jityevatya rirvatidye vichasara jdivjaadajsa, samirva jmyivye, sujatyavay, rorityavay jarve.\nDaryantiy rarvivata jndanta, ratarya jmutyada jarye risJau. Netimyu jvayadatavay, rirvivichasaratiy j divjanuvay, varimyata bachenoda,\nnmityodadery jae, flijmutya variy jmutyada timusiy.\nMudasimiy, deramiy rusa rarvivata samirya jnutyada rirvatidye ramitya samivyerya jiryupachoda. Titaju deramiy raryivata samirva jnutyada j\nityevamyu.\nTUCHUSARA 26.\nTitaju nijyanvay rarvivatara datyadoda catera nJuyomu. Ne rirvimurchenu jottada datyadoda murichirva. Rirvama jpanufly jidyedyeñu catera\nnjuyomuju rajottada datyadodaju. Riryijantya mucadi jnutityumiy jasachodara catera njuyo jasityi nrvadatya vaderovarya tara jvayada.\nRicharatiy vaderovarya jarvi datyada jirvirvjiada, ne ti raijubay riryajisirva.\nMaestroveda raryidatyanuriy nijyanvay ranacho rirvatidye javye samiy jachipiyavay, nrvecha variy samiy jvadichavay, ne riryijavatyariy tavay\nnijyanvay variy. Datyadodta rasachu datyada rirvimya niquechara tavatya variy, rirvatidye jnuy samirva jiñecho. Daryantiy datyadoda\nraijmutyara flrvatidye vichasara nijyanvay samirya mutiji.\nDeramiy jamiy raryijaryetasara nutyara catera nJuyomu nrvadatya ridyedyeñu.\nTUCHUSARA 27.\nTitaju nijyanvay rarvisityarira jityevay vichada, rirvijchanatyantirya j ityevay jvaryantiy. Darvaday riijmutyara mamyi (Iatyadantiy atidye vicha\nsamirva fljyu.\nTitaju nijyanvay rarvivatara rirvatidye jnuy tavay samirva ranacho yindera, riijmutya mirvanurara ramurichirva.\nTUCHUSARA 28.\nTitaju nijyanvay rarvivata ratidye jdutyara vuvyichada jirya mucadimu, rirvatidye datyasara t-itDau jiatiy nuchara jiyudarva.\nTUCHUSARA 29."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "171f09768a568dbbf1a175e675b1d246",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "Titaju nijyanvay rarvidivyirva samirva vichada jivyichadamu jirvatiy vinu rivyichadamu Hrvijavye samirva.\nTitjau nijyanvay rarvisaboniy jimyucadi niquejadamuyu rirvatidye vichasara samirva jityunu vichavatya. Ne rarvicha javatyada variy jasiy\ndarvantyamuy vamirvamu vichada.\nTama rirvivichasara nijyanvay jirva niquejada jiyarjou jiatiy ntyuchu raju mucadimusirva.\nTUCHUSARA 30.\nNe rirvadatyasara nijyanvarva jirva niquejada rirvatidye javatya ratara tavay nijyanvay vichada, darvantyamuy nrvatidye jubay tavay jisirva\nsamirva vichada. Ranuma titajura.",
-            "Image": "171f09768a568dbbf1a175e675b1d246"
+            "Text": "Titaju nijyanvay rarvidivyirva samirva vichada jivyichadamu jirvatiy vinu rivyichadamu Hrvijavye samirva.\nTitjau nijyanvay rarvisaboniy jimyucadi niquejadamuyu rirvatidye vichasara samirva jityunu vichavatya. Ne rarvicha javatyada variy jasiy\ndarvantyamuy vamirvamu vichada.\nTama rirvivichasara nijyanvay jirva niquejada jiyarjou jiatiy ntyuchu raju mucadimusirva.\nTUCHUSARA 30.\nNe rirvadatyasara nijyanvarva jirva niquejada rirvatidye javatya ratara tavay nijyanvay vichada, darvantyamuy nrvatidye jubay tavay jisirva\nsamirva vichada. Ranuma titajura."
         }
     }
 }

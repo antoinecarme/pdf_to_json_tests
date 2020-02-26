@@ -1,113 +1,113 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581466936,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "4a9e0125c9dc59f2e57768a0b8f7adbd",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Hadamaden josiraw dantigɛkan, 1948\nɲebila\nK’a d’a kan ko dine hɔrɔnɲa ni tilennenɲa ni lafiya sintin ye hadamaden bɛɛ danbe dɔnni n’u josiraw\ndanmakɛɲneni ye,\nK’a d’a kan ko hadamaden josiraw n’u kɔnni kɛra dannajuguya caman sababu ye minnu bɛ maaya ɲugun,\nani ko hadamaden haju bɛɛ la gɛlɛnman ye de ka diɲe kura dabali min den si tɛ bali k’a hakilila fɔ nink’a\ndannasira batu, min den bɛɛ tangalen bɛ bagabagali ni ɲani ma,\nK’a d’a kan ko a tɛ ɲɛ fo hadamaden josiraw ka lakana sariyabatufanga de fe yaasa muruti kana kɛ mɔgɔ\nma jagoya ye tɔɲɔn ni degun kanma,\nK’a d’a kan ko kanu jiidili ka kan ka kɔkɔrɔdon kabilaw ni ɲɔgɔn cɛ,\nK’a d’a kan ko Diɲe kabilatɔn y’a ɲaniya dantigɛ kokura, kabilaw Bɛnkansɛbɛn kɔnɔ, ko ale sirilen bɛ\nhadamaden josira bɛrɛw la, hadamaden danbe n’a kiimɛ na, cɛ ni muso josiraw kɛɲɛni na, ani ko a b’a\ncɛsire maaya ka taa ɲe, diɲɛnatigɛ ka nɔgɔya hɔrɔnɲa jiidilen kɔnɔ,\nK’a d’a kan ko tɔndenjamana bɛɛ y’a kandi ko a bɛ fara Kabilatɔn kan ka hadamaden josiraw n’a ka\nhɔrɔnɲa bɛrɛ lakana ani k’u waleya diɲe bɛɛ kɔnɔ,\nK’a d’a kan ko fɔlen tɛ se ka tiimɛ a ɲɛ ma ni bɛn ma kɛ josiraw ni hɔrɔnɲa faamucogo kan,\nTɔn ɲɛjama y’a kanbɔ\nHadamaden josiraw dantigɛkan in ka kɛ diɲɛ fasojama n’a kabila bɛɛ kuntilenna ye, yaasa a ka basigi\nmɔgɔ kelen-kelen bɛɛ hakili la, ani maaya labɛnbolo bɛɛ kɔnɔ, u k’u cɛsiri kalan ni ladamuni fɛ ka josira\nni hɔrɔɲasira ninnu batuli jiidi, ka fɛɛrɛ tigɛ faso kɔnɔ n’a kɔn kan ka sira ninnu jateli n’u waleyali",
-            "Image": "4a9e0125c9dc59f2e57768a0b8f7adbd"
+            "Text": "Hadamaden josiraw dantigɛkan, 1948\nɲebila\nK’a d’a kan ko dine hɔrɔnɲa ni tilennenɲa ni lafiya sintin ye hadamaden bɛɛ danbe dɔnni n’u josiraw\ndanmakɛɲneni ye,\nK’a d’a kan ko hadamaden josiraw n’u kɔnni kɛra dannajuguya caman sababu ye minnu bɛ maaya ɲugun,\nani ko hadamaden haju bɛɛ la gɛlɛnman ye de ka diɲe kura dabali min den si tɛ bali k’a hakilila fɔ nink’a\ndannasira batu, min den bɛɛ tangalen bɛ bagabagali ni ɲani ma,\nK’a d’a kan ko a tɛ ɲɛ fo hadamaden josiraw ka lakana sariyabatufanga de fe yaasa muruti kana kɛ mɔgɔ\nma jagoya ye tɔɲɔn ni degun kanma,\nK’a d’a kan ko kanu jiidili ka kan ka kɔkɔrɔdon kabilaw ni ɲɔgɔn cɛ,\nK’a d’a kan ko Diɲe kabilatɔn y’a ɲaniya dantigɛ kokura, kabilaw Bɛnkansɛbɛn kɔnɔ, ko ale sirilen bɛ\nhadamaden josira bɛrɛw la, hadamaden danbe n’a kiimɛ na, cɛ ni muso josiraw kɛɲɛni na, ani ko a b’a\ncɛsire maaya ka taa ɲe, diɲɛnatigɛ ka nɔgɔya hɔrɔnɲa jiidilen kɔnɔ,\nK’a d’a kan ko tɔndenjamana bɛɛ y’a kandi ko a bɛ fara Kabilatɔn kan ka hadamaden josiraw n’a ka\nhɔrɔnɲa bɛrɛ lakana ani k’u waleya diɲe bɛɛ kɔnɔ,\nK’a d’a kan ko fɔlen tɛ se ka tiimɛ a ɲɛ ma ni bɛn ma kɛ josiraw ni hɔrɔnɲa faamucogo kan,\nTɔn ɲɛjama y’a kanbɔ\nHadamaden josiraw dantigɛkan in ka kɛ diɲɛ fasojama n’a kabila bɛɛ kuntilenna ye, yaasa a ka basigi\nmɔgɔ kelen-kelen bɛɛ hakili la, ani maaya labɛnbolo bɛɛ kɔnɔ, u k’u cɛsiri kalan ni ladamuni fɛ ka josira\nni hɔrɔɲasira ninnu batuli jiidi, ka fɛɛrɛ tigɛ faso kɔnɔ n’a kɔn kan ka sira ninnu jateli n’u waleyali"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "0ff79ccf6f9dc1be61726ff47f593894",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "nɛmɛnɛmɛ tiimɛ diɲɛ bɛɛ, tɔndenjamanaw yɛrɛ kɔnɔmɔgɔw fɛ, ani u ka marajamanw kɔnɔmɔgɔw fɛ.\nSariyasen fɔlɔ :\nHadamaden bɛɛ danmakɛɲɛnen bɛ bange, danbe ni josira la. Hakili ni taasi b’u bɛɛ la, wa u ka kan ka\nbadenɲasira de waleya u ni ɲɔgɔn cɛ.\nSariyasen 2n :\nBɛɛ ka kan josira ni hɔrɔnɲasira dantigɛlen ninnu bɛɛ la, wolomali fan si t’a la, janko siyawoloma, fari\njɛya n’a finɲa, cɛya ni musoya, kan, diinɛ, politikisira ni miirisira jan o jan, fasowoloma ni sɛrɛwoloma,\nsɔrɔ ni bonda ni jɔyɔrɔwoloma fan o fan.\nWa mɔgɔ tɛ minɛ i bɔyɔrɔ ma, o dabolo mana kɛ fɛn o fɛn ye politiki ni sariya la ani diɲɛ kɔnɔ: o ka kɛ\njamana wali dugukolo yɛrɛmahɔrɔn ye, wali kalifafen, wali maralen, wali dankari bɛ min ka setigiya la,\nSariyasen 3n :\nHadamaden bɛɛ ka kan ni kisi ni tanga ni hɔrɔɲa ye.\nSariyasen 4n :\nMɔgɔ si tɛ kɛ jɔn ye, wali bolokɔnɔmɔgɔ. Jɔnɲa ni jɔnjago jan o jan kɔnnen don.\nSariyasen 5n :\nMɔgɔ si ni man kan ka ɲangata ; dannajuguya ɲangini wali danbelakari ɲagagini man kan ka da i kan.\nSariyasen 6n :\nMɔgɔ bɛɛ ka kan ni jateli ye sariya fɛ yɔrɔ bɛɛ.\nSariyasen 7n :",
-            "Image": "0ff79ccf6f9dc1be61726ff47f593894"
+            "Text": "nɛmɛnɛmɛ tiimɛ diɲɛ bɛɛ, tɔndenjamanaw yɛrɛ kɔnɔmɔgɔw fɛ, ani u ka marajamanw kɔnɔmɔgɔw fɛ.\nSariyasen fɔlɔ :\nHadamaden bɛɛ danmakɛɲɛnen bɛ bange, danbe ni josira la. Hakili ni taasi b’u bɛɛ la, wa u ka kan ka\nbadenɲasira de waleya u ni ɲɔgɔn cɛ.\nSariyasen 2n :\nBɛɛ ka kan josira ni hɔrɔnɲasira dantigɛlen ninnu bɛɛ la, wolomali fan si t’a la, janko siyawoloma, fari\njɛya n’a finɲa, cɛya ni musoya, kan, diinɛ, politikisira ni miirisira jan o jan, fasowoloma ni sɛrɛwoloma,\nsɔrɔ ni bonda ni jɔyɔrɔwoloma fan o fan.\nWa mɔgɔ tɛ minɛ i bɔyɔrɔ ma, o dabolo mana kɛ fɛn o fɛn ye politiki ni sariya la ani diɲɛ kɔnɔ: o ka kɛ\njamana wali dugukolo yɛrɛmahɔrɔn ye, wali kalifafen, wali maralen, wali dankari bɛ min ka setigiya la,\nSariyasen 3n :\nHadamaden bɛɛ ka kan ni kisi ni tanga ni hɔrɔɲa ye.\nSariyasen 4n :\nMɔgɔ si tɛ kɛ jɔn ye, wali bolokɔnɔmɔgɔ. Jɔnɲa ni jɔnjago jan o jan kɔnnen don.\nSariyasen 5n :\nMɔgɔ si ni man kan ka ɲangata ; dannajuguya ɲangini wali danbelakari ɲagagini man kan ka da i kan.\nSariyasen 6n :\nMɔgɔ bɛɛ ka kan ni jateli ye sariya fɛ yɔrɔ bɛɛ.\nSariyasen 7n :"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "74435fa9efa52d81acbf5e992b2c5fa9",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Bɛɛ ka kan sariya la, bɛɛ ka kan ni lakanani ye sariya fɛ Bɛɛ ka kan ka kisi fisamanciyawalew ma minnu\nbɛ dankari kɛ Dantigɛkan in na, ani mɔgɔlaɲiniwale fɛn o fɛn bɛ na n’o ɲɔgɔn fisamanciya ye.\nSariyasen 8n :\nBɛɛ jo don k’i siri jamana sariyabolo ɲumanw na k’i josira bɛrɛw dankariwlew kɛlɛ, i josira minnu\nsɛmɛntiyalen bɛ jamana Sariyabaju fɛ.\nSariyasen 9n :\nBin man kan ka kɛ mɔgɔ si kan k’i minɛ, k’i datugu, wali k’i gɛn dugu la.\nSariyasen 10n :\nBɛɛ jo bɛ k’i fɛla da kɛnɛ kan kiirida tilennen bagabagabali kɔrɔ, a ka jo ni jalaki bɔ ɲɔgɔn na n’a ma kɛ\nni mɔgɔlawoloma ye.\nSariyasen 11n :\nKo mana da mɔgɔ la, i tɛ minɛ sɔntigi ye fo kiiri k’i jalaki bange kɛnɛ kan i lapasalisira bɛɛ tiimɛnen kɔ.\nMɔgɔ te ɲangi k’a da kɛwale wali fili kan kɛwaati y’a sɔrɔ si tɛ jamana kɔnɔ wali jamanaw ni ɲɔgɔn cɛ\nmin b’o jate ko jugu ye. Wa ɲangili fana te da i kan ka tɛmɛn min tun bɛ sen na kan ko jugu kɛtuma na.\nSariyasen 12n :\nBin tɛ se ka kɛ mɔgɔ kan ka don i gundo la, i ka dukɔnɔkow la, i siso kɔnɔ an’i ka gundosɛbɛnw na, wali\nka dankari kɛ i tɔgɔ ni danbe la. Sariya ka kan ka bɛɛ tanga o binkanni ni dankari sugu ma.\nSariyasen 13n :\nBɛɛ ka kan ni taa-ninka-segin ye i fɛrɛ ma, ani i sigiyɔrɔ sugandili jamana kɔnɔ.",
-            "Image": "74435fa9efa52d81acbf5e992b2c5fa9"
+            "Text": "Bɛɛ ka kan sariya la, bɛɛ ka kan ni lakanani ye sariya fɛ Bɛɛ ka kan ka kisi fisamanciyawalew ma minnu\nbɛ dankari kɛ Dantigɛkan in na, ani mɔgɔlaɲiniwale fɛn o fɛn bɛ na n’o ɲɔgɔn fisamanciya ye.\nSariyasen 8n :\nBɛɛ jo don k’i siri jamana sariyabolo ɲumanw na k’i josira bɛrɛw dankariwlew kɛlɛ, i josira minnu\nsɛmɛntiyalen bɛ jamana Sariyabaju fɛ.\nSariyasen 9n :\nBin man kan ka kɛ mɔgɔ si kan k’i minɛ, k’i datugu, wali k’i gɛn dugu la.\nSariyasen 10n :\nBɛɛ jo bɛ k’i fɛla da kɛnɛ kan kiirida tilennen bagabagabali kɔrɔ, a ka jo ni jalaki bɔ ɲɔgɔn na n’a ma kɛ\nni mɔgɔlawoloma ye.\nSariyasen 11n :\nKo mana da mɔgɔ la, i tɛ minɛ sɔntigi ye fo kiiri k’i jalaki bange kɛnɛ kan i lapasalisira bɛɛ tiimɛnen kɔ.\nMɔgɔ te ɲangi k’a da kɛwale wali fili kan kɛwaati y’a sɔrɔ si tɛ jamana kɔnɔ wali jamanaw ni ɲɔgɔn cɛ\nmin b’o jate ko jugu ye. Wa ɲangili fana te da i kan ka tɛmɛn min tun bɛ sen na kan ko jugu kɛtuma na.\nSariyasen 12n :\nBin tɛ se ka kɛ mɔgɔ kan ka don i gundo la, i ka dukɔnɔkow la, i siso kɔnɔ an’i ka gundosɛbɛnw na, wali\nka dankari kɛ i tɔgɔ ni danbe la. Sariya ka kan ka bɛɛ tanga o binkanni ni dankari sugu ma.\nSariyasen 13n :\nBɛɛ ka kan ni taa-ninka-segin ye i fɛrɛ ma, ani i sigiyɔrɔ sugandili jamana kɔnɔ."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "b12adf573f98bbd294910d3a2e6126e7",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Mɔgɔ tɛ bali ka bɔ i ka jamana wali jamana wɛrɛ kono, ka tila ka segin i ka jamana kɔnɔ.\nSariyasen 14n :\nBɛɛ jo don ka bɔ mafiɲɛya kɔrɔ ka taga i kun kalifa yɔrɔ wɛrɛ, wa o jamana wɛrɛ man kan k’i jɛ\nkalifayɔrɔ la.\nI man kan n’o josira ye n’i nɔminɛkun ye ko jugu kɛli de ye jaati forobasariya la walima kɛwale minnu bɛ\nKabilatɔn kuntilenna n’a daliluw sɔsɔ.\nSariyasen 15n :\nMɔgɔ bɛɛ ka kan ni kabilaya ye.\nBin tɛ kɛ mɔgɔ si kan k’i jɛ kabilaya la, wali k’i bali ka kabilaya falen.\nSariyasen 16n :\nCɛ ni muso si mana se furu ye, siyako t’o la, kabilako t’o la, diinɛko t’o la, u ka kan ni furu ni denbaya ye. U\ndanma ka kan josira la furu dontuma n’a kuntagala kɔnɔ ani a sali kɛnɛ kan.\nFuru tɛ se ka siri ni cɛ ni muso ma diɲɛ n’a ye faasi.\n[missing]\nSariyasen 17n :\nI kelen na o, jɛ kɔnɔ o, mɔgɔ bɛɛ ka kan ni tɔgɔlafɛntigiya ye.\nBin tɛ se ka kɛ mɔgɔ kan k’i tɔgɔlafɛn minɛ i la.\nSariyasen 18n :",
-            "Image": "b12adf573f98bbd294910d3a2e6126e7"
+            "Text": "Mɔgɔ tɛ bali ka bɔ i ka jamana wali jamana wɛrɛ kono, ka tila ka segin i ka jamana kɔnɔ.\nSariyasen 14n :\nBɛɛ jo don ka bɔ mafiɲɛya kɔrɔ ka taga i kun kalifa yɔrɔ wɛrɛ, wa o jamana wɛrɛ man kan k’i jɛ\nkalifayɔrɔ la.\nI man kan n’o josira ye n’i nɔminɛkun ye ko jugu kɛli de ye jaati forobasariya la walima kɛwale minnu bɛ\nKabilatɔn kuntilenna n’a daliluw sɔsɔ.\nSariyasen 15n :\nMɔgɔ bɛɛ ka kan ni kabilaya ye.\nBin tɛ kɛ mɔgɔ si kan k’i jɛ kabilaya la, wali k’i bali ka kabilaya falen.\nSariyasen 16n :\nCɛ ni muso si mana se furu ye, siyako t’o la, kabilako t’o la, diinɛko t’o la, u ka kan ni furu ni denbaya ye. U\ndanma ka kan josira la furu dontuma n’a kuntagala kɔnɔ ani a sali kɛnɛ kan.\nFuru tɛ se ka siri ni cɛ ni muso ma diɲɛ n’a ye faasi.\n[missing]\nSariyasen 17n :\nI kelen na o, jɛ kɔnɔ o, mɔgɔ bɛɛ ka kan ni tɔgɔlafɛntigiya ye.\nBin tɛ se ka kɛ mɔgɔ kan k’i tɔgɔlafɛn minɛ i la.\nSariyasen 18n :"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "12d15c3955fce3fbd40a0eb3e0b34441",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Bɛɛ b’i yɛrɛ ye miirisira ni taasi ni diinɛko la; o jo b’i yamaruya ka diinɛ n’i dannako falen, ani k’u waleya i\nkelen na wali i n’i jenɔgɔnw, kɛnɛ kan wali dunduguma na, kalan ni matarafali ni batu sen fɛ.\nSariyasen 19n :\nBɛɛ sago bɛ i miiriya la, ani i kakilila jirali; o la i tɛ bagabaga k’a da i miiriya kan, wa i jo bɛ ka miiriya ni\nkibaruyaw ɲini ani k’u gansi fo jamana fo jamana, jɛnsɛnnifɛɛrɛ sugu bɛɛ la.\nSariyasen 20n :\nBɛɛ sago bɛ ka jɛ dilan, ka ɲɔgɔɲew kɛ.\nMɔgɔ tɛ jagoya ka don jɛ la.\nSariyasen 21n :\nBɛɛ ka kan in jɔyɔrɔ ye i faso koɲɛw ɲɛkun na, i yɛrɛkun wali i dungɔlamɔgɔ sugandilen fɛ.\nBɛɛ ka kan ni jɔyɔrɔ ye, ɲɛnawoloma t’a la, i ka jamana forobabaaraw la.\nJamana dungɔ de ye forobafanga daga; a dungɔ ka kan ka jira kalada jɛlenw sen fɛ, bɛɛ ka kan\nforobakalada minnu na, gundo la wali o ɲɔgɔnna siraw la minnu bɛ sagolasugandili tiimɛ.\nSariyasen 22n :\nBɛɛ ye maaya den ye minkɛ, bɛɛ ka kan ni ɲɛsuma ye maaya kɔnɔ ; jamana ka magan ni jamanaw cɛ\nɲɔgɔndɛmɛn ka kan ka kɛ sababu ye, jamana sariya n’a seko hukumu kɔnɔ, ka bɛɛ josira tiimɛ sɔrɔ ni\ndiɲɛnatigɛ ni faamuya siratigɛ la, danbe ni mɔgɔ bɛrɛya yiriwali tɛ taa o minnu kɔ.\nSariyasen 23n :\nMɔgɔ bɛɛ ka kan ni baara ye, baaracogo ɲuman in baara nafaman; bɛɛ ka kan ka tanga baarantaɲa ma.",
-            "Image": "12d15c3955fce3fbd40a0eb3e0b34441"
+            "Text": "Bɛɛ b’i yɛrɛ ye miirisira ni taasi ni diinɛko la; o jo b’i yamaruya ka diinɛ n’i dannako falen, ani k’u waleya i\nkelen na wali i n’i jenɔgɔnw, kɛnɛ kan wali dunduguma na, kalan ni matarafali ni batu sen fɛ.\nSariyasen 19n :\nBɛɛ sago bɛ i miiriya la, ani i kakilila jirali; o la i tɛ bagabaga k’a da i miiriya kan, wa i jo bɛ ka miiriya ni\nkibaruyaw ɲini ani k’u gansi fo jamana fo jamana, jɛnsɛnnifɛɛrɛ sugu bɛɛ la.\nSariyasen 20n :\nBɛɛ sago bɛ ka jɛ dilan, ka ɲɔgɔɲew kɛ.\nMɔgɔ tɛ jagoya ka don jɛ la.\nSariyasen 21n :\nBɛɛ ka kan in jɔyɔrɔ ye i faso koɲɛw ɲɛkun na, i yɛrɛkun wali i dungɔlamɔgɔ sugandilen fɛ.\nBɛɛ ka kan ni jɔyɔrɔ ye, ɲɛnawoloma t’a la, i ka jamana forobabaaraw la.\nJamana dungɔ de ye forobafanga daga; a dungɔ ka kan ka jira kalada jɛlenw sen fɛ, bɛɛ ka kan\nforobakalada minnu na, gundo la wali o ɲɔgɔnna siraw la minnu bɛ sagolasugandili tiimɛ.\nSariyasen 22n :\nBɛɛ ye maaya den ye minkɛ, bɛɛ ka kan ni ɲɛsuma ye maaya kɔnɔ ; jamana ka magan ni jamanaw cɛ\nɲɔgɔndɛmɛn ka kan ka kɛ sababu ye, jamana sariya n’a seko hukumu kɔnɔ, ka bɛɛ josira tiimɛ sɔrɔ ni\ndiɲɛnatigɛ ni faamuya siratigɛ la, danbe ni mɔgɔ bɛrɛya yiriwali tɛ taa o minnu kɔ.\nSariyasen 23n :\nMɔgɔ bɛɛ ka kan ni baara ye, baaracogo ɲuman in baara nafaman; bɛɛ ka kan ka tanga baarantaɲa ma."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "89f1c5322832f46ffac005d3d8780ea8",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Baaraw mana kɛɲɛ, saraw ka kan ka kɛɲɛ ; mɔgɔ ma bɔ mɔgɔ la, bɛɛ ka kan o la.\nMɔgɔ o mɔgɔ n’i bɛ baara la, i ka kan ni sara sɛbɛ ye min bɛ i n’i ka denbaya sutura hadamadeɲa na, ani\nmaaya lakanasira tɔ fɛn o fɛn n’a kun bɛ.\nBɛɛ jo bɛ ka mɔgɔ wɛrɛw fara i kan ka kaaratɔnw dilan, wali ka don baaratɔnw na, yaasa k’i nafasiraw\nmakara.\nSariyasen 24n:\nBɛɛ ka kan i lafiɲɛ ni ɲɛnajɛ ye, ani baarawaati dannen hakɛ la, ani waati ni waati sɛgɛnnabɔ min tɛ sara\nla.\nSariyasen 25n :\nMɔgɔ bɛɛ ka kan ni sɔrɔ ye diɲɛnatigɛ la min bɛ kɛnɛya ni hɛɛrɛ sabati i n’i ka denbaya ye, i ko balo,\nfɛɛrɛbɔ, siso, furakɛli, ani maaya dɛmɛnsira gɛlɛnw; i ka kan ni dɛmɛn ye baarantaɲa ni bana ni dɛsɛ ni\nfiriya ni kɔrɔ kɔnɔ, o n’a ɲɔgɔnna baanmako mana kɛ sababu ye k’i ka diɲɛnatigɛ sɔrɔsiraw tiɲe.\nBange ni deɲa ka kan ni dɛmɛn ni ladonni kɛrɛnkɛrɛnnen ye. Den o den, a kɛra furu den ye o, a ma kɛ furu\nden ye o, bɛɛ ka kan lakanacogo kelen na maaya kɔnɔ.\nSariyasen 26n :\nMɔgɔ bɛɛ ka kan ni kalan ye. Sara man kan ka bɔ kalan na, kalanbaju kɔni na fiyew. Kalanbaju ye bɛɛ ma\nwajibi ye. Fɛɛrɛkalan ni baarakalan ka kan ka forobaya; kalandakunba ka kan ka labila bɛɛ ye, fisamanciya\nt’a la, mɔgɔ o mɔgɔ n’i y’a sarati dafa.\nLadamuni ka kan ka ɲesin mɔgɔ bɛrɛya yiriwali ma, hadamaden josiraw matarafali ni hɔrɔɲa bajuw\nsinsinni . A ka kan ka faamuya ni sabali ni teriya ɲɔgɔya kabilaw ni sibolow ni diinɛkulu bɛɛ ni ɲɔgɔn cɛ,",
-            "Image": "89f1c5322832f46ffac005d3d8780ea8"
+            "Text": "Baaraw mana kɛɲɛ, saraw ka kan ka kɛɲɛ ; mɔgɔ ma bɔ mɔgɔ la, bɛɛ ka kan o la.\nMɔgɔ o mɔgɔ n’i bɛ baara la, i ka kan ni sara sɛbɛ ye min bɛ i n’i ka denbaya sutura hadamadeɲa na, ani\nmaaya lakanasira tɔ fɛn o fɛn n’a kun bɛ.\nBɛɛ jo bɛ ka mɔgɔ wɛrɛw fara i kan ka kaaratɔnw dilan, wali ka don baaratɔnw na, yaasa k’i nafasiraw\nmakara.\nSariyasen 24n:\nBɛɛ ka kan i lafiɲɛ ni ɲɛnajɛ ye, ani baarawaati dannen hakɛ la, ani waati ni waati sɛgɛnnabɔ min tɛ sara\nla.\nSariyasen 25n :\nMɔgɔ bɛɛ ka kan ni sɔrɔ ye diɲɛnatigɛ la min bɛ kɛnɛya ni hɛɛrɛ sabati i n’i ka denbaya ye, i ko balo,\nfɛɛrɛbɔ, siso, furakɛli, ani maaya dɛmɛnsira gɛlɛnw; i ka kan ni dɛmɛn ye baarantaɲa ni bana ni dɛsɛ ni\nfiriya ni kɔrɔ kɔnɔ, o n’a ɲɔgɔnna baanmako mana kɛ sababu ye k’i ka diɲɛnatigɛ sɔrɔsiraw tiɲe.\nBange ni deɲa ka kan ni dɛmɛn ni ladonni kɛrɛnkɛrɛnnen ye. Den o den, a kɛra furu den ye o, a ma kɛ furu\nden ye o, bɛɛ ka kan lakanacogo kelen na maaya kɔnɔ.\nSariyasen 26n :\nMɔgɔ bɛɛ ka kan ni kalan ye. Sara man kan ka bɔ kalan na, kalanbaju kɔni na fiyew. Kalanbaju ye bɛɛ ma\nwajibi ye. Fɛɛrɛkalan ni baarakalan ka kan ka forobaya; kalandakunba ka kan ka labila bɛɛ ye, fisamanciya\nt’a la, mɔgɔ o mɔgɔ n’i y’a sarati dafa.\nLadamuni ka kan ka ɲesin mɔgɔ bɛrɛya yiriwali ma, hadamaden josiraw matarafali ni hɔrɔɲa bajuw\nsinsinni . A ka kan ka faamuya ni sabali ni teriya ɲɔgɔya kabilaw ni sibolow ni diinɛkulu bɛɛ ni ɲɔgɔn cɛ,"
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "96e1ced43d8348a3dc4bbcd533073c1a",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "ani ka Diɲɛ kabilatɔn ka lafiya basigiwalew yiriwa.\nBangebagaw fɔlɔ de sago bɛ u denw ladamucogo sugandili la.\nSariyasen 27n :\nA bɛ bɛɛ sago la k’i nindon jama ka faamuyasiraw la, ka bɔ masiriw nunma, k’i nindon dɔnniya\nyiriwawalew la ani ka bɔ a hɛɛrɛ nunma.\nBɛɛ tɔgɔ n’i ka nafa ka kan ka lakana i ka dɔnko ni sɛbɛnko ni masiriko baara kɛlenw na.\nSariyasen 28n :\nBɛɛ jo bɛ k’a ɲini labɛn ka kɛ maaya la ani jamanaw cɛ la, min b’a to josira ni hɔrɔnɲa baju minnu\ndantigɛlen filɛ Dantigɛkan in kɔnɔ, olu ka sira sɔrɔ a ɲɛ ma.\nSariyasen 29n :\nI ka hadamadenɲa yiriwali sirilen be maaya jɛkulu min na, o ka ci b’i kan.\nDan si tɛ josira taama ni hɔrɔnɲa tɔnɔbɔ la, fo sariya ka dan sigilen minnu kun ye ka tɔw josiraw ni\nhɔrɔɲasiraw gasi sigi, ani tilennenɲa ni basigi ni jama ka hɛɛrɛ tɛe taga wajibi minnu kɔ sariyafanga kɔnɔ\nka olu tiimɛ.\nO jow ni hɔrɔnɲasira ninnu tɛ boli cogo si la min be Kabilatɔn kuntilennaw n’a daliluw kota.\nSariyasen 30n :\nJɔyɔrɔ fɛn o fɛn dantigɛlen ye nin Dantigɛkan in kɔnɔ, Fanga wali jɛkulu wali mɔgɔ kelen sijo tɛ k’o\nminɛ yamaruya ye ka sira taama, wali ka walekɛ, min kun ye hadamaden josira ni hɔrɔnɲasira jiralen ninnu\ntiɲɛni ye.",
-            "Image": "96e1ced43d8348a3dc4bbcd533073c1a"
+            "Text": "ani ka Diɲɛ kabilatɔn ka lafiya basigiwalew yiriwa.\nBangebagaw fɔlɔ de sago bɛ u denw ladamucogo sugandili la.\nSariyasen 27n :\nA bɛ bɛɛ sago la k’i nindon jama ka faamuyasiraw la, ka bɔ masiriw nunma, k’i nindon dɔnniya\nyiriwawalew la ani ka bɔ a hɛɛrɛ nunma.\nBɛɛ tɔgɔ n’i ka nafa ka kan ka lakana i ka dɔnko ni sɛbɛnko ni masiriko baara kɛlenw na.\nSariyasen 28n :\nBɛɛ jo bɛ k’a ɲini labɛn ka kɛ maaya la ani jamanaw cɛ la, min b’a to josira ni hɔrɔnɲa baju minnu\ndantigɛlen filɛ Dantigɛkan in kɔnɔ, olu ka sira sɔrɔ a ɲɛ ma.\nSariyasen 29n :\nI ka hadamadenɲa yiriwali sirilen be maaya jɛkulu min na, o ka ci b’i kan.\nDan si tɛ josira taama ni hɔrɔnɲa tɔnɔbɔ la, fo sariya ka dan sigilen minnu kun ye ka tɔw josiraw ni\nhɔrɔɲasiraw gasi sigi, ani tilennenɲa ni basigi ni jama ka hɛɛrɛ tɛe taga wajibi minnu kɔ sariyafanga kɔnɔ\nka olu tiimɛ.\nO jow ni hɔrɔnɲasira ninnu tɛ boli cogo si la min be Kabilatɔn kuntilennaw n’a daliluw kota.\nSariyasen 30n :\nJɔyɔrɔ fɛn o fɛn dantigɛlen ye nin Dantigɛkan in kɔnɔ, Fanga wali jɛkulu wali mɔgɔ kelen sijo tɛ k’o\nminɛ yamaruya ye ka sira taama, wali ka walekɛ, min kun ye hadamaden josira ni hɔrɔnɲasira jiralen ninnu\ntiɲɛni ye."
         }
     }
 }

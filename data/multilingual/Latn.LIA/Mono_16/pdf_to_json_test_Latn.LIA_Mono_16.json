@@ -1,80 +1,80 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581469066,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "4cea01ff8c879824f780163c30924067",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Ku Koloŋ ko ka kuloho ko ka wɔɔ yo wɔ Kafaydo\nMadɛnkɛtima:\nBa masimɔkɔ, yiki mɛnɛ/iŋ thiiya ba mandiŋ ka bɔnsɔŋ ba ka biya-mɛtiŋ,\nwuna madɛnkɛtima kuyankaŋ, thiiya iŋ mathɛbɛŋ ka faydo fooma, Ba maniyɔ\nmaka biya-mɛti mathɔnkɔy ka bi tɔɔni namɛŋ, ba sisa thɔrɛ iŋ manakasi ka\ntha thukuma tha ka biya-mɛtiŋ be lukɛ ka faydo ba biŋ sisa mathɛbɛŋ in\nmagbonkoli malɔhɔy, ka thana paliyande, wuŋ sise hɛlɛŋ thapɛŋ tha boyɛ\nka biya-mɛtiŋ hutete\nBa wuŋ kɔndɛɛ niyɔ wu lɔhɔy mɛnɛ wɔmɛti kɔndɛɛ pithita ba wundɛ hukɔthɔ\nma niyɔ makanamaŋ ka muruthɛ wo fuŋ wundɛ.\nBaana sethiniyo wundɛ, thiiya ba ka wɔmɛti kɔndɛ niyɔ ka thɔŋ baŋ fooma.\nWuŋ kɔlɔhɔ ba katiŋ tande mathimiyande ka biya-mɛti fooma ka faydo.\nHugbɔŋho ka faydo fooma, ho dɔma na Unaytɛd Nesɔn, kɔsiniyɔkɔ ka\nkulaniya ko kolo.\nBa kɔthɔ thiiya mɛnɛ, sɛmbɛ iŋ makahi ma ka wɔmɛti, e wuŋ tɛŋiyande ka\nthiiya ba bayapeŋ iŋ yɛrɛmɛŋ be kɔsiniyɔkɔ ba lukande hugbɔŋ huŋthe ba\nsisa kuyankaŋ, wu niyɔ malukunade maka ŋakɛkɛn foma adunkunɔkɔy ka tha\nbanthe, wuŋ niyɔ lukande iŋ ŋakɛkɛn fooma ŋugbɔŋ ho thantɛ haŋ, ho dɔma\nna Unaytɛd Nesɔns, ba kcthɔ thiiya ba ka wɔmɛti.\nWuŋ tɔŋɔŋ na kperekethe, ka dɔma, na masimɔkɔ ma thiiya mɛnɛ kuyankaŋ\nmɛna ma gbeŋ ka ma duŋunɔkɔ mamaŋ.\nMawuma\nMapɛnkande maŋfooma tepe na\nKukuloŋ koka kuloho koka wɔɔ yo wɔ ka faydo, ɔna biya bohitande maka\nbiya-mɛti ka faydo fooma, ka wu mankɛ wɔɔ yo wɔ ba bɔha ku koloŋ koŋko\nka huthukuma nama haŋ wundɛ ba bɔha sɔbɛ bathaniya mɛnɛ ba sisa yiki iŋ\nthiiya ka biya be lukande fooma ka faydo, ba kitiyɛ wɔɔ yo wɔ kama\nsɛthiniyo ma wundɛ sɛthinya ka faydo maŋ.\n1. Malukunande Malenke maŋ\nBiya-mɛti fooma be kiyo ka kuyankaŋ iŋ kasɛmbɛ mɛnɛ in ka yiki. Bindɛ\nkiŋ ba niyɔ in masimɔkɔ, maka yiina wo ka hu wɛndi yande.\n2. Malukunande Maale Maŋ\nWɔɔ yo wɔ kiŋ kuloho mɛnɛ kuyankaŋ ka kulon ko. Wundɛ ka ba fakinande\nwɔɔ yo wɔ kama nɛki ma wundɛ neke iŋ tɔɔnamaŋ, niyɔŋ wo pankɛ, wo bɔlɔ,\nwo fufɛ, mindo sinthe fooma, miŋ kiŋ ku loho ko kɛntu.\n3. Malukunande Mataati maŋ\nWɔɔ yo wɔ kiŋ iŋ fɛɛra ba niyɔ iŋ sii, ekuta kuyankaŋ, e wundɛ pamo.\n4. Malukunande Mamanaŋ maŋ",
-            "Image": "4cea01ff8c879824f780163c30924067"
+            "Text": "Ku Koloŋ ko ka kuloho ko ka wɔɔ yo wɔ Kafaydo\nMadɛnkɛtima:\nBa masimɔkɔ, yiki mɛnɛ/iŋ thiiya ba mandiŋ ka bɔnsɔŋ ba ka biya-mɛtiŋ,\nwuna madɛnkɛtima kuyankaŋ, thiiya iŋ mathɛbɛŋ ka faydo fooma, Ba maniyɔ\nmaka biya-mɛti mathɔnkɔy ka bi tɔɔni namɛŋ, ba sisa thɔrɛ iŋ manakasi ka\ntha thukuma tha ka biya-mɛtiŋ be lukɛ ka faydo ba biŋ sisa mathɛbɛŋ in\nmagbonkoli malɔhɔy, ka thana paliyande, wuŋ sise hɛlɛŋ thapɛŋ tha boyɛ\nka biya-mɛtiŋ hutete\nBa wuŋ kɔndɛɛ niyɔ wu lɔhɔy mɛnɛ wɔmɛti kɔndɛɛ pithita ba wundɛ hukɔthɔ\nma niyɔ makanamaŋ ka muruthɛ wo fuŋ wundɛ.\nBaana sethiniyo wundɛ, thiiya ba ka wɔmɛti kɔndɛ niyɔ ka thɔŋ baŋ fooma.\nWuŋ kɔlɔhɔ ba katiŋ tande mathimiyande ka biya-mɛti fooma ka faydo.\nHugbɔŋho ka faydo fooma, ho dɔma na Unaytɛd Nesɔn, kɔsiniyɔkɔ ka\nkulaniya ko kolo.\nBa kɔthɔ thiiya mɛnɛ, sɛmbɛ iŋ makahi ma ka wɔmɛti, e wuŋ tɛŋiyande ka\nthiiya ba bayapeŋ iŋ yɛrɛmɛŋ be kɔsiniyɔkɔ ba lukande hugbɔŋ huŋthe ba\nsisa kuyankaŋ, wu niyɔ malukunade maka ŋakɛkɛn foma adunkunɔkɔy ka tha\nbanthe, wuŋ niyɔ lukande iŋ ŋakɛkɛn fooma ŋugbɔŋ ho thantɛ haŋ, ho dɔma\nna Unaytɛd Nesɔns, ba kcthɔ thiiya ba ka wɔmɛti.\nWuŋ tɔŋɔŋ na kperekethe, ka dɔma, na masimɔkɔ ma thiiya mɛnɛ kuyankaŋ\nmɛna ma gbeŋ ka ma duŋunɔkɔ mamaŋ.\nMawuma\nMapɛnkande maŋfooma tepe na\nKukuloŋ koka kuloho koka wɔɔ yo wɔ ka faydo, ɔna biya bohitande maka\nbiya-mɛti ka faydo fooma, ka wu mankɛ wɔɔ yo wɔ ba bɔha ku koloŋ koŋko\nka huthukuma nama haŋ wundɛ ba bɔha sɔbɛ bathaniya mɛnɛ ba sisa yiki iŋ\nthiiya ka biya be lukande fooma ka faydo, ba kitiyɛ wɔɔ yo wɔ kama\nsɛthiniyo ma wundɛ sɛthinya ka faydo maŋ.\n1. Malukunande Malenke maŋ\nBiya-mɛti fooma be kiyo ka kuyankaŋ iŋ kasɛmbɛ mɛnɛ in ka yiki. Bindɛ\nkiŋ ba niyɔ in masimɔkɔ, maka yiina wo ka hu wɛndi yande.\n2. Malukunande Maale Maŋ\nWɔɔ yo wɔ kiŋ kuloho mɛnɛ kuyankaŋ ka kulon ko. Wundɛ ka ba fakinande\nwɔɔ yo wɔ kama nɛki ma wundɛ neke iŋ tɔɔnamaŋ, niyɔŋ wo pankɛ, wo bɔlɔ,\nwo fufɛ, mindo sinthe fooma, miŋ kiŋ ku loho ko kɛntu.\n3. Malukunande Mataati maŋ\nWɔɔ yo wɔ kiŋ iŋ fɛɛra ba niyɔ iŋ sii, ekuta kuyankaŋ, e wundɛ pamo.\n4. Malukunande Mamanaŋ maŋ"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "034b02f0f64a07b2c8bc01a4983a3b64",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Wɔmɛti ka ba boho ka hu waline, e niyo gbɔn, e niyo thɔrɔ. Huwaline kiŋ\nba tana niyɔ ka biya-mɛti hutete.\n5. Malukunande Masɔɔhi maŋ\nWɔɔ yo wɔ kaa ba niyo nakasi, iŋ thɔrɔ maŋ mama wo ka feli.\n6. Malukunande Masɔŋ-manthe maŋ\nWɔɔ yo wɔ kiŋ maloho ba kothiyo kamɛ wo kamɛ nɔŋ tepee thɔŋ ba.\n7. Malukunande Masoŋ Maale maŋ\nBiya-mɛti fooma kiŋ siŋthe ka thɔn baŋ, kufakande ka hutete kanamɛŋ ba\npamo iŋ thɔŋ baŋ, ba thana fakinande, wu sisi mateti ka ku koloŋko iŋ ba\npamɔkɔ wooniŋ sisiyɛ thɔrɔ.\n8. Malukunande Masɔnka-taati maŋ\nWɔɔ yo wɔ kin fɛɛra haŋ ba kɔɔ wukahɛ e baŋina ba thɔnkɔy ba wɔ ba niyo\nbaŋ, wuna thɔŋ baŋ kahati.\n9. Malukunande Masɔoŋ-manaŋ Maŋ\nWɔɔ yo wɔ ka dɔrɔŋ ba neko bakpon e boho, e thiyo ka hukpɔlɔn, mɛnɛ ba\nkantho ka kɛkɛŋ ko kiyo wundɛ ko.\n10. Malukunande kɔɔhi maŋ\nWɔɔ yo wɔ kiŋ in fɛɛra ba kɔsiŋino ka wuthunbɛ iŋ bakɔsɔŋni be ka\nkuyankaŋ mɛnɛ be thunbɛ ba dethiwa kuloho ko kanamaŋ mɛnɛ wundɛ bohitoko\niŋ thɔŋ baŋ.\n11. Malukunande Kɔɔhi-iŋ manthe maŋ\nWɔɔ yo wɔ, wo kata ka kubasi, wundɛ ka ba thoŋkino thaa niyo kɔsiŋino\nnɔŋ na tepe thɔŋ ba na, e wundɛ dunkuno fɛɛra ba kɔsiŋina.\nWɔɔ yo wɔ kaa ba dunkuno kuthoŋko ka thɔn ba thaa niye kiyo ka kɛkɛn\nnama ko, ɔ thuhaŋ mandi kama lɔkɔ ma boho wundɛ, toŋiyo kasi ba daŋande\nkasi bande ka thɔŋ ba kama lɔkɔ ma bohito waawo bɛŋ ma.\n12. Malukunande Kɔɔhi-iŋ Kaale maŋ\nWɔɔ yo wɔ, kaa ba tuto sɛmbɛ, ba wali ba kanama, ka huŋpo ho kanama, ka\nyiki ba kanama, ka ŋa thagba ŋa wundɛ kpalita. Wɔ ka baa niŋ thiyɔkɔ\naliko ba tetiya yiki iŋ makothiyo ma kanama, wɔɔ yo wɔ kiŋ maloho ba\npamo iŋ thɔŋ baŋ ka baliŋ ba baŋ.\n13. Malukunande Kɔhi-maaati Maŋ\nWɔɔ yo wɔ, kiŋ maloho ba niyɔ kuyankaŋ ba kaa ka wundɛ thimo iŋ ba niyɔ\nka kɛkɛn naman.\nWɔɔ yo wɔ kiŋ iŋ maloho ba pɛna kɛkɛn, ndoo kɛkɛn, thitha kɛkɛn nama e\nwunde hɛlɛŋ duwa ɔ tɛnkilina ka kɛkɛn namaŋ ko.",
-            "Image": "034b02f0f64a07b2c8bc01a4983a3b64"
+            "Text": "Wɔmɛti ka ba boho ka hu waline, e niyo gbɔn, e niyo thɔrɔ. Huwaline kiŋ\nba tana niyɔ ka biya-mɛti hutete.\n5. Malukunande Masɔɔhi maŋ\nWɔɔ yo wɔ kaa ba niyo nakasi, iŋ thɔrɔ maŋ mama wo ka feli.\n6. Malukunande Masɔŋ-manthe maŋ\nWɔɔ yo wɔ kiŋ maloho ba kothiyo kamɛ wo kamɛ nɔŋ tepee thɔŋ ba.\n7. Malukunande Masoŋ Maale maŋ\nBiya-mɛti fooma kiŋ siŋthe ka thɔn baŋ, kufakande ka hutete kanamɛŋ ba\npamo iŋ thɔŋ baŋ, ba thana fakinande, wu sisi mateti ka ku koloŋko iŋ ba\npamɔkɔ wooniŋ sisiyɛ thɔrɔ.\n8. Malukunande Masɔnka-taati maŋ\nWɔɔ yo wɔ kin fɛɛra haŋ ba kɔɔ wukahɛ e baŋina ba thɔnkɔy ba wɔ ba niyo\nbaŋ, wuna thɔŋ baŋ kahati.\n9. Malukunande Masɔoŋ-manaŋ Maŋ\nWɔɔ yo wɔ ka dɔrɔŋ ba neko bakpon e boho, e thiyo ka hukpɔlɔn, mɛnɛ ba\nkantho ka kɛkɛŋ ko kiyo wundɛ ko.\n10. Malukunande kɔɔhi maŋ\nWɔɔ yo wɔ kiŋ in fɛɛra ba kɔsiŋino ka wuthunbɛ iŋ bakɔsɔŋni be ka\nkuyankaŋ mɛnɛ be thunbɛ ba dethiwa kuloho ko kanamaŋ mɛnɛ wundɛ bohitoko\niŋ thɔŋ baŋ.\n11. Malukunande Kɔɔhi-iŋ manthe maŋ\nWɔɔ yo wɔ, wo kata ka kubasi, wundɛ ka ba thoŋkino thaa niyo kɔsiŋino\nnɔŋ na tepe thɔŋ ba na, e wundɛ dunkuno fɛɛra ba kɔsiŋina.\nWɔɔ yo wɔ kaa ba dunkuno kuthoŋko ka thɔn ba thaa niye kiyo ka kɛkɛn\nnama ko, ɔ thuhaŋ mandi kama lɔkɔ ma boho wundɛ, toŋiyo kasi ba daŋande\nkasi bande ka thɔŋ ba kama lɔkɔ ma bohito waawo bɛŋ ma.\n12. Malukunande Kɔɔhi-iŋ Kaale maŋ\nWɔɔ yo wɔ, kaa ba tuto sɛmbɛ, ba wali ba kanama, ka huŋpo ho kanama, ka\nyiki ba kanama, ka ŋa thagba ŋa wundɛ kpalita. Wɔ ka baa niŋ thiyɔkɔ\naliko ba tetiya yiki iŋ makothiyo ma kanama, wɔɔ yo wɔ kiŋ maloho ba\npamo iŋ thɔŋ baŋ ka baliŋ ba baŋ.\n13. Malukunande Kɔhi-maaati Maŋ\nWɔɔ yo wɔ, kiŋ maloho ba niyɔ kuyankaŋ ba kaa ka wundɛ thimo iŋ ba niyɔ\nka kɛkɛn naman.\nWɔɔ yo wɔ kiŋ iŋ maloho ba pɛna kɛkɛn, ndoo kɛkɛn, thitha kɛkɛn nama e\nwunde hɛlɛŋ duwa ɔ tɛnkilina ka kɛkɛn namaŋ ko."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "792f8b9ae887c1dd27027267a79d95f6",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "14. Malukunande kɔhi-iŋ Manaŋ Maŋ\nWɔɔ yo wɔ, kiŋ iŋ maloho ba thara e ka dɔŋɔ ka kɛkɛn mɛnɛ kiŋ ba niyo\nbali ba thɔnkɔy ka kɛkɛn nama koŋ.\nMaloho ma bɛŋ kaa ba thaŋthiyo baana thiiya wo ba bohitoko ba ba thɔnkɔy\nba ta wundɛ nii hukɔminamɛnt o ba tetiya thɔŋni ba ka Unaytɛd Nesɔns.\n15. Malukunande Kɔhi-iŋ Masɔɔhi Maŋ\nWɔɔ yo wɔ kiŋ iŋ maloho ba niyɔ ka kiyo wundɛ ka.\nWɔ kaa ba thanthiyo madɔŋɔ ma ka kɛkɛn nama ko ɔ ba thanthiyo ba sɛkita\nkɛkɛn ku fɛɛna ba dɔma na kɛna kiyo wundɛ.\n16. Malukunande Kɔhi-iŋ Masɔnmanthe Maŋ\nBayapɛŋ iŋ yɛrɛmɛn be thankɛ fuŋa, be kɛriŋitɔyta nin huŋpo, kɛkɛn\nnamɛn, ku laniya ko kanamɛŋ, kiŋ iŋ maloho ba deŋande/yɛŋtande e dethuwa\nhuŋpo ho kanamɛn. Biya be bɛn kin iŋ maloho ma sinthe maaka deŋa/yeŋto,\niŋ ma kahudɔŋɔ be pathi.\nHu dɛŋande ha kiŋ ba kɔɔ na wo wathe woŋ, in woŋ yɛrɛmɛ woŋ, mɛy\nkathabanthe ba dɛŋande.\nNkpeeŋ ki na dɔma huŋpo ka faydo. Ki kpeeŋki kiŋ iŋ maloho ba pamo kama\ndɔŋiyande mɛnɛ kɛkɛn ko kanamɛŋ ka bali yoo bali.\n17. Malukunande kɔhi-iŋ Masɔmanle Maŋ\nWɔɔ yo wɔ kiŋ iŋ maloho ba niyɔ iŋ kɛɛ wundɛ wuntheŋ ɔ bindɛ bilɔ kɛɛ\nbanthe in biya bifɛɛna.\nWɔɔ ka ba tute sɛmbɛ ka kɛɛ namaŋ baŋ.\n18. Malukunande kɔhi-iŋ Masɔŋ matati maŋ\nWɔɔ yo wɔ kiŋ iŋ maloho ba siimɔkɔ na thimo wundɛ, iŋ ba thɔɔ ka dina ba\nthimo wundɛ ɔ ba kpɔnɔkɔ ka dina ba bɛŋ e thɔɔ ka dina bafɛna malɔkɔ yoo\nmalɔkɔ, iŋ hɛlɛn kulaniya ko kanamaŋ. Wundɛ kiŋ iŋ maloho ba mɛyande iŋ\nbiya be bɔyɛ ba niyɔ ka masii manthe ɛba thɔŋina kulaniya ko kanameŋ ka\nwan mɛnɛ rɔkpɔkɔ.\n19. Malukunande Kɔhi-iŋ-Masɔmanaŋ Maŋ\nWɔɔ yo wɔ kiŋ maloho ba tɛpa funuŋ kama simɔykɔ ma kanamaŋ, iŋ ba\nkpoŋkila ho thimo wundɛ. Wuŋ thɔlande, maloho ma bɛŋ kin ba bohitɔkɔ\nkulaniyande, e wɔɔ yina thana tepe ba yi ba niya niŋ ba kpala mɛnɛ ba\nkponkila ka nkalɛŋ ba pankitinande funuŋ ho bɛŋ.\n20. Malukunande Kɔhi-Kale/kɔŋthɔkaye Maŋ\nWɔɔ yo wɔ kiŋ kuloho ba komande kathabanthe ka wuthɛbɛ. Wɔɔ ka ba\npithito ba niyɔ ka mathuŋande yoo mathuŋande ɔ ka nkaŋ ka ndoo nkaŋ ka\nthimo ka wundɛ.\n[Missing?]",
-            "Image": "792f8b9ae887c1dd27027267a79d95f6"
+            "Text": "14. Malukunande kɔhi-iŋ Manaŋ Maŋ\nWɔɔ yo wɔ, kiŋ iŋ maloho ba thara e ka dɔŋɔ ka kɛkɛn mɛnɛ kiŋ ba niyo\nbali ba thɔnkɔy ka kɛkɛn nama koŋ.\nMaloho ma bɛŋ kaa ba thaŋthiyo baana thiiya wo ba bohitoko ba ba thɔnkɔy\nba ta wundɛ nii hukɔminamɛnt o ba tetiya thɔŋni ba ka Unaytɛd Nesɔns.\n15. Malukunande Kɔhi-iŋ Masɔɔhi Maŋ\nWɔɔ yo wɔ kiŋ iŋ maloho ba niyɔ ka kiyo wundɛ ka.\nWɔ kaa ba thanthiyo madɔŋɔ ma ka kɛkɛn nama ko ɔ ba thanthiyo ba sɛkita\nkɛkɛn ku fɛɛna ba dɔma na kɛna kiyo wundɛ.\n16. Malukunande Kɔhi-iŋ Masɔnmanthe Maŋ\nBayapɛŋ iŋ yɛrɛmɛn be thankɛ fuŋa, be kɛriŋitɔyta nin huŋpo, kɛkɛn\nnamɛn, ku laniya ko kanamɛŋ, kiŋ iŋ maloho ba deŋande/yɛŋtande e dethuwa\nhuŋpo ho kanamɛn. Biya be bɛn kin iŋ maloho ma sinthe maaka deŋa/yeŋto,\niŋ ma kahudɔŋɔ be pathi.\nHu dɛŋande ha kiŋ ba kɔɔ na wo wathe woŋ, in woŋ yɛrɛmɛ woŋ, mɛy\nkathabanthe ba dɛŋande.\nNkpeeŋ ki na dɔma huŋpo ka faydo. Ki kpeeŋki kiŋ iŋ maloho ba pamo kama\ndɔŋiyande mɛnɛ kɛkɛn ko kanamɛŋ ka bali yoo bali.\n17. Malukunande kɔhi-iŋ Masɔmanle Maŋ\nWɔɔ yo wɔ kiŋ iŋ maloho ba niyɔ iŋ kɛɛ wundɛ wuntheŋ ɔ bindɛ bilɔ kɛɛ\nbanthe in biya bifɛɛna.\nWɔɔ ka ba tute sɛmbɛ ka kɛɛ namaŋ baŋ.\n18. Malukunande kɔhi-iŋ Masɔŋ matati maŋ\nWɔɔ yo wɔ kiŋ iŋ maloho ba siimɔkɔ na thimo wundɛ, iŋ ba thɔɔ ka dina ba\nthimo wundɛ ɔ ba kpɔnɔkɔ ka dina ba bɛŋ e thɔɔ ka dina bafɛna malɔkɔ yoo\nmalɔkɔ, iŋ hɛlɛn kulaniya ko kanamaŋ. Wundɛ kiŋ iŋ maloho ba mɛyande iŋ\nbiya be bɔyɛ ba niyɔ ka masii manthe ɛba thɔŋina kulaniya ko kanameŋ ka\nwan mɛnɛ rɔkpɔkɔ.\n19. Malukunande Kɔhi-iŋ-Masɔmanaŋ Maŋ\nWɔɔ yo wɔ kiŋ maloho ba tɛpa funuŋ kama simɔykɔ ma kanamaŋ, iŋ ba\nkpoŋkila ho thimo wundɛ. Wuŋ thɔlande, maloho ma bɛŋ kin ba bohitɔkɔ\nkulaniyande, e wɔɔ yina thana tepe ba yi ba niya niŋ ba kpala mɛnɛ ba\nkponkila ka nkalɛŋ ba pankitinande funuŋ ho bɛŋ.\n20. Malukunande Kɔhi-Kale/kɔŋthɔkaye Maŋ\nWɔɔ yo wɔ kiŋ kuloho ba komande kathabanthe ka wuthɛbɛ. Wɔɔ ka ba\npithito ba niyɔ ka mathuŋande yoo mathuŋande ɔ ka nkaŋ ka ndoo nkaŋ ka\nthimo ka wundɛ.\n[Missing?]"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "0f11fab1f1747c2ef5e949169b3a7213",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "21. Malukunande Kɔhi Kale-iŋ Manthe Maŋ\nWɔɔ yo wɔ kiŋ iŋ maloho ba niya wali iŋ hu kɔmimamɛnt ho ka sɛmbɛ baŋ ka\nkekɛn ko kanamaŋ ɔ ba thiika ba hu gbɔŋ ho thimo wundɛ ba kuta sɛmba\nbaŋ.\nWɔɔ yo wɔ kiŋ iŋ maloho ba bilande ɔfisi yoo ɔfisi wo ka hu kɔminamɛnt\nka kɛkɛŋ namaŋ ko.\nBathimo biya ba niyɔ, bɛna hu kɔminamɛnt ba niye wali. Biya be bɛŋ ba\nthiikiyɛ ba bayapa mɛnɛ yɛrɛmɛ ba fuŋuniyɛ biŋ thaya ka hu kɔminamɛnt ho\nbɛŋ. Bindɛ ba thiikiyɛ wo thimo biŋ ka wan ɔ ka ma rɔgbɔkɔ.\n22. Malukunande Kɔhi Kale-iŋ Maale Maŋ\nWɔɔ yo wɔ kiŋ iŋ maloho ba nskita kɛnkɛy ko kanamaŋ ba Pama niŋ ba\nduŋkuna niŋ fɛɛra ba masiteke kama o kama e niy wɔɔ wo ba yiki, e puŋka\nniya wali, o gbɔŋni ɔ hutaniya ho dɛnki kɛnkɛŋ ko kanamaŋ ko niŋ tute\nlima.\n23. Malukunande Kɔhi-Kale-iŋ-Mataati Maŋ\nWɔɔ yo wɔ kiŋ maloho ba niya wali, ba yɛtha wali ba thimo wundɛ iŋ ba\nthunkuno malɔhɔy mɛnɛ ba pamo hu thana kuta wali.\nKufakinande kaaka kuthunkuŋ ba wɔɔ yo wɔ wo ni wali. Wɔɔ yo wɔ ba\nthunkuno siŋthe ba waliŋ ba dɔŋiyande.\nWɔɔ yo wɔ wo ni wali ba thunkuno kɔpiri wo tɛŋɛ ba yɛthɛ nama iŋ\nkubɔriko kanamaŋ alako dɛ be niyɔ iŋ yiki ka biya-mɛtin hutete.\nKuthunkuŋ ko bɛŋ ba punka hɛlɛŋ ba mase ka gbɛthɛŋ ba niŋ pɛnki.\n4. Wɔɔ yo wɔ kiŋ maloho ba thankina ɔ ba thɔytɔ nkaŋki niŋ mase.\n24. Malukunande Kɔhi-Kale-iŋ-Manaŋ Maŋ\nWɔɔ yo wɔ kiŋ maloho ba fɛɛmiya iŋ ba dunkuno malɔkɔ ma kɔndadeŋ ba niya\nwali mɛnɛ malɔkɔyŋ makasade ba fɛɛmiya iŋ kutunkuŋ.\n25. Malukunande Kɔhi-Kale-iŋ-Massɔhi Maŋ\nWɔɔ yo wɔ bathɔma muthɔma mutɛnɛ ba hupethɔ kɔtɔ nama ko iŋ kubɔri\nnamaŋ, kowundɛ ba punka kuta mu wundɛ bili/thɔɔ. Wundɛ ba Kuta banka ba\nwundɛ iŋ kubɔri namaŋ fure, ba punka ba maso. Wundɛ ba maso be thoona ɔ\nbethanthi, ɔ bali ba dɛnki ba wundɛ niyɔ humɔnɛ.\nKomisayŋ be iŋ mpay nameŋ ba maso. Mpati be kiyo ka yento/deŋo, be tha\nkiya ka yento/deŋo fooma ba kuta ma mase manthe e bindɛ pamo nanthe.\n26.\n[Missing]\n[Missing]\n[Missing]",
-            "Image": "0f11fab1f1747c2ef5e949169b3a7213"
+            "Text": "21. Malukunande Kɔhi Kale-iŋ Manthe Maŋ\nWɔɔ yo wɔ kiŋ iŋ maloho ba niya wali iŋ hu kɔmimamɛnt ho ka sɛmbɛ baŋ ka\nkekɛn ko kanamaŋ ɔ ba thiika ba hu gbɔŋ ho thimo wundɛ ba kuta sɛmba\nbaŋ.\nWɔɔ yo wɔ kiŋ iŋ maloho ba bilande ɔfisi yoo ɔfisi wo ka hu kɔminamɛnt\nka kɛkɛŋ namaŋ ko.\nBathimo biya ba niyɔ, bɛna hu kɔminamɛnt ba niye wali. Biya be bɛŋ ba\nthiikiyɛ ba bayapa mɛnɛ yɛrɛmɛ ba fuŋuniyɛ biŋ thaya ka hu kɔminamɛnt ho\nbɛŋ. Bindɛ ba thiikiyɛ wo thimo biŋ ka wan ɔ ka ma rɔgbɔkɔ.\n22. Malukunande Kɔhi Kale-iŋ Maale Maŋ\nWɔɔ yo wɔ kiŋ iŋ maloho ba nskita kɛnkɛy ko kanamaŋ ba Pama niŋ ba\nduŋkuna niŋ fɛɛra ba masiteke kama o kama e niy wɔɔ wo ba yiki, e puŋka\nniya wali, o gbɔŋni ɔ hutaniya ho dɛnki kɛnkɛŋ ko kanamaŋ ko niŋ tute\nlima.\n23. Malukunande Kɔhi-Kale-iŋ-Mataati Maŋ\nWɔɔ yo wɔ kiŋ maloho ba niya wali, ba yɛtha wali ba thimo wundɛ iŋ ba\nthunkuno malɔhɔy mɛnɛ ba pamo hu thana kuta wali.\nKufakinande kaaka kuthunkuŋ ba wɔɔ yo wɔ wo ni wali. Wɔɔ yo wɔ ba\nthunkuno siŋthe ba waliŋ ba dɔŋiyande.\nWɔɔ yo wɔ wo ni wali ba thunkuno kɔpiri wo tɛŋɛ ba yɛthɛ nama iŋ\nkubɔriko kanamaŋ alako dɛ be niyɔ iŋ yiki ka biya-mɛtin hutete.\nKuthunkuŋ ko bɛŋ ba punka hɛlɛŋ ba mase ka gbɛthɛŋ ba niŋ pɛnki.\n4. Wɔɔ yo wɔ kiŋ maloho ba thankina ɔ ba thɔytɔ nkaŋki niŋ mase.\n24. Malukunande Kɔhi-Kale-iŋ-Manaŋ Maŋ\nWɔɔ yo wɔ kiŋ maloho ba fɛɛmiya iŋ ba dunkuno malɔkɔ ma kɔndadeŋ ba niya\nwali mɛnɛ malɔkɔyŋ makasade ba fɛɛmiya iŋ kutunkuŋ.\n25. Malukunande Kɔhi-Kale-iŋ-Massɔhi Maŋ\nWɔɔ yo wɔ bathɔma muthɔma mutɛnɛ ba hupethɔ kɔtɔ nama ko iŋ kubɔri\nnamaŋ, kowundɛ ba punka kuta mu wundɛ bili/thɔɔ. Wundɛ ba Kuta banka ba\nwundɛ iŋ kubɔri namaŋ fure, ba punka ba maso. Wundɛ ba maso be thoona ɔ\nbethanthi, ɔ bali ba dɛnki ba wundɛ niyɔ humɔnɛ.\nKomisayŋ be iŋ mpay nameŋ ba maso. Mpati be kiyo ka yento/deŋo, be tha\nkiya ka yento/deŋo fooma ba kuta ma mase manthe e bindɛ pamo nanthe.\n26.\n[Missing]\n[Missing]\n[Missing]"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "851b2833a984329c4c389d990b07d437",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "27.\n[Missing]\n[Missing]\n28.\n[Missing]\n29.\n[Missing]\n[Missing]\n[Missing]\n30.\n[Missing]",
-            "Image": "851b2833a984329c4c389d990b07d437"
+            "Text": "27.\n[Missing]\n[Missing]\n28.\n[Missing]\n29.\n[Missing]\n[Missing]\n[Missing]\n30.\n[Missing]"
         }
     }
 }

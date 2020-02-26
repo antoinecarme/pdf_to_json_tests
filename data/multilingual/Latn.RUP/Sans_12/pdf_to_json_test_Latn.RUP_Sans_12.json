@@ -1,93 +1,93 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581470219,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "bae707d288ad00a363e1364567cda2ed",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "DECLARATSIA UNIVERSALÃ TI-NDREPTURLI-A OMLUI\nZBOR NÃINTI\nTi-atsea câ pricânushtearea-a nâmuziljei nativâ shi-ndrepturli egali shi nealienabili-a tutâlor membrilji-a taifâljei a omlui easti fimelju-a li-\nbertatiljei, a-ndriptatiuljei shi-a irinjiljei din lumi,\nTi-atsea câ nitinjisearea shi atimusearea-a-andrepturlor a omlui dutsea la comportâri barbari cari u prusvulisea sinidisea-a uminitatiljei, sh-ti-\natsea câ adrariljei lumi tu cari iatsâli umineshtsâ va s-hârseascâ di libertatea di zbor shi pisti shi va s-hibâ liberi di firca shi urfanjea easti\nproclamatâ ti nai ma analtul ideal a cafi unlui om,\nTi-atsea câ important easti câ-ndrepturli-a omlui s-hibâ afiriti cu sistemlu juridic câ s-nu hibâ omlu pimtu pi-atsea ta s-mutâ contra-a tiraniiljei\nshi tirinsearea,\nTi-atsea câ important easti câ sâ-lji si da indati developarea-a relatsiilor di uspitsâlji anamisa di miletsli,\nTi-atsea câ miletsli-a Natsiunilor Uniti cu Harta nica nâ oarâ u confirmarâ pistusinea-a lor la-ndrepturli fundamentali-a omlui, la nâmuzea shi\nvaloarea-a personalitatiljei umineascâ shi egalitatea-a bârbatlui shi-a muljeariljei shi ti-atsea câ apufâsirâ câ sâ-lji indati-a developariljei sotsialâ\nshi s-li amelioreadzâ conditsiili ti banâ tu ma marea libertati,\nTi-atsea câ statili membri u loarâ obligatsia tu colaborari cu Natsiunili Uniti s-u asigurâ tinjisearea gheneralâ shi aplicarea-a-ndrepturlor a omlu\nshi libertâtsli fundamentali,\nTi-atsea câ acâchisearea gheneralâ-a lushtor ândrepturi shi libertâts easti di nai ma marea importantsâ ti-ntreaga realizari-a lishtei obligatsii,\nAdunarea gheneralâ\nUproclameadzâ aestâ Declaratsii Universalâ ti-ndrepturli-a omlui ca un standard comun cari lipseashti s-lu-agiungâ tuti miletsli shi tuti natsiili\ncu tsi cafi unâ individuâ shi cafi un organ a sotsietatiljei, cara va u-aibâ dipriunâ ân videari aestâ Declaratsii, va shi-u aibâ tendintsa câ prin\nânvitsarea shi educatsia s-aducâ la tinjisearea-a lushtor ândrepturi shi libertâts shi cu metrili progresivi natsionali shi internatsionali s-hibâ\nasiguratâ pricânushtearea shi tinjisearea-a lor gheneralâ sh-di dealihealui cum anamisa di miletsli-a singurilor stati membri, ashi shi anamisa di\nmiletsli-a tsilor teritorii cari suntu sum administrarea-a lor.\nArticlul 1\nTuti iatsâli umineshtsâ s-fac liberi shi egali la nâmuzea shi-ndrepturli. Eali suntu hârziti cu fichiri shi sinidisi shi lipseashti un cu alantu sh-si\npoartâ tu duhlu-a frâtsâljiljei.\nArticlul 2",
-            "Image": "bae707d288ad00a363e1364567cda2ed"
+            "Text": "DECLARATSIA UNIVERSALÃ TI-NDREPTURLI-A OMLUI\nZBOR NÃINTI\nTi-atsea câ pricânushtearea-a nâmuziljei nativâ shi-ndrepturli egali shi nealienabili-a tutâlor membrilji-a taifâljei a omlui easti fimelju-a li-\nbertatiljei, a-ndriptatiuljei shi-a irinjiljei din lumi,\nTi-atsea câ nitinjisearea shi atimusearea-a-andrepturlor a omlui dutsea la comportâri barbari cari u prusvulisea sinidisea-a uminitatiljei, sh-ti-\natsea câ adrariljei lumi tu cari iatsâli umineshtsâ va s-hârseascâ di libertatea di zbor shi pisti shi va s-hibâ liberi di firca shi urfanjea easti\nproclamatâ ti nai ma analtul ideal a cafi unlui om,\nTi-atsea câ important easti câ-ndrepturli-a omlui s-hibâ afiriti cu sistemlu juridic câ s-nu hibâ omlu pimtu pi-atsea ta s-mutâ contra-a tiraniiljei\nshi tirinsearea,\nTi-atsea câ important easti câ sâ-lji si da indati developarea-a relatsiilor di uspitsâlji anamisa di miletsli,\nTi-atsea câ miletsli-a Natsiunilor Uniti cu Harta nica nâ oarâ u confirmarâ pistusinea-a lor la-ndrepturli fundamentali-a omlui, la nâmuzea shi\nvaloarea-a personalitatiljei umineascâ shi egalitatea-a bârbatlui shi-a muljeariljei shi ti-atsea câ apufâsirâ câ sâ-lji indati-a developariljei sotsialâ\nshi s-li amelioreadzâ conditsiili ti banâ tu ma marea libertati,\nTi-atsea câ statili membri u loarâ obligatsia tu colaborari cu Natsiunili Uniti s-u asigurâ tinjisearea gheneralâ shi aplicarea-a-ndrepturlor a omlu\nshi libertâtsli fundamentali,\nTi-atsea câ acâchisearea gheneralâ-a lushtor ândrepturi shi libertâts easti di nai ma marea importantsâ ti-ntreaga realizari-a lishtei obligatsii,\nAdunarea gheneralâ\nUproclameadzâ aestâ Declaratsii Universalâ ti-ndrepturli-a omlui ca un standard comun cari lipseashti s-lu-agiungâ tuti miletsli shi tuti natsiili\ncu tsi cafi unâ individuâ shi cafi un organ a sotsietatiljei, cara va u-aibâ dipriunâ ân videari aestâ Declaratsii, va shi-u aibâ tendintsa câ prin\nânvitsarea shi educatsia s-aducâ la tinjisearea-a lushtor ândrepturi shi libertâts shi cu metrili progresivi natsionali shi internatsionali s-hibâ\nasiguratâ pricânushtearea shi tinjisearea-a lor gheneralâ sh-di dealihealui cum anamisa di miletsli-a singurilor stati membri, ashi shi anamisa di\nmiletsli-a tsilor teritorii cari suntu sum administrarea-a lor.\nArticlul 1\nTuti iatsâli umineshtsâ s-fac liberi shi egali la nâmuzea shi-ndrepturli. Eali suntu hârziti cu fichiri shi sinidisi shi lipseashti un cu alantu sh-si\npoartâ tu duhlu-a frâtsâljiljei.\nArticlul 2"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "2ac9c45eec9c4b2fc98b6646c30ccf08",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "Tuti-ndrepturli shi libertâtsli dit aestâ Declaratsii âlji pricad a cafi unlui insu independent di rasa, bâeaua-a chealiljei, sexul, limba, pistea,\nminduearea politicâ icâ altâ, orighina natsionalâ shi sotsialâ, starea di aveari, fatsirea icâ cari tsi s-hibâ alti conditsii.\n[Missing 2nd paragraph]\nArticlul 3\nCafi un ari-ndreptul ti banâ, libertati shi sigurantsa-a personalitatiljei.\nArticlul 4\nCanâ nu poati s-hibâ tsânut tu sclâvilji icâ supuniri: sclâviljea shi comertslu cu sclavi s-azâptâseashti tu tuti formili.\nArticlul 5\nCanâ nu lipseashti s-hibâ loat la pidipseari icâ la comportari ninjilâoasâ, niumineascâ shi-arshionasâ icâ la ghizai.\nArticlul 6\nCafi un ari-ndreptu pisti tut s-hibâ pricânâscut ca un subiectu juridic.\nArticlul 7\nTuts suntu egalji dininti-a nomlui shi au ândreptu, fârâ canâ soi di discriminari, la egala apurari-a nomlui.\nArticlul 8\nCafi un ari-ndreptu câ tribunalili natsionali efectiv s-lu-apurâ di frândzearea-a-ndrepturlor fundamentali cari lj-suntu pricânâscuti cu\nconstitutsia shi nomurli.\nArticlul 9\nCanâ nu poati dupâ vrearea-a vârnului s-hibâ âncljis, detsânut, niti avinat.\nArticlul 10\nCafi un ari-ndreptul egal didip la giudicarea-ndreaptâ shi publicâ dininti-a tribunalui independent shi obiectiv cari va s-detsidâ ti-ndrepturli-a\nlui shi obligatsiili sh-ti orighina-a cafi unlui act criminal tsi-lji si arucâ-a lui.\nArticlul 11\nCafi un acuzat ti act criminal ari-ndreptur s-hibâ lugurist câ nu-i câbati pânâ tsi pi bazaa nomlui, câbatea nu s-confirmâ la un protses public la\ncari lj-suntu asigurati tuti garantsii lipsiti ti apurarea-a lui.",
-            "Image": "2ac9c45eec9c4b2fc98b6646c30ccf08"
+            "Text": "Tuti-ndrepturli shi libertâtsli dit aestâ Declaratsii âlji pricad a cafi unlui insu independent di rasa, bâeaua-a chealiljei, sexul, limba, pistea,\nminduearea politicâ icâ altâ, orighina natsionalâ shi sotsialâ, starea di aveari, fatsirea icâ cari tsi s-hibâ alti conditsii.\n[Missing 2nd paragraph]\nArticlul 3\nCafi un ari-ndreptul ti banâ, libertati shi sigurantsa-a personalitatiljei.\nArticlul 4\nCanâ nu poati s-hibâ tsânut tu sclâvilji icâ supuniri: sclâviljea shi comertslu cu sclavi s-azâptâseashti tu tuti formili.\nArticlul 5\nCanâ nu lipseashti s-hibâ loat la pidipseari icâ la comportari ninjilâoasâ, niumineascâ shi-arshionasâ icâ la ghizai.\nArticlul 6\nCafi un ari-ndreptu pisti tut s-hibâ pricânâscut ca un subiectu juridic.\nArticlul 7\nTuts suntu egalji dininti-a nomlui shi au ândreptu, fârâ canâ soi di discriminari, la egala apurari-a nomlui.\nArticlul 8\nCafi un ari-ndreptu câ tribunalili natsionali efectiv s-lu-apurâ di frândzearea-a-ndrepturlor fundamentali cari lj-suntu pricânâscuti cu\nconstitutsia shi nomurli.\nArticlul 9\nCanâ nu poati dupâ vrearea-a vârnului s-hibâ âncljis, detsânut, niti avinat.\nArticlul 10\nCafi un ari-ndreptul egal didip la giudicarea-ndreaptâ shi publicâ dininti-a tribunalui independent shi obiectiv cari va s-detsidâ ti-ndrepturli-a\nlui shi obligatsiili sh-ti orighina-a cafi unlui act criminal tsi-lji si arucâ-a lui.\nArticlul 11\nCafi un acuzat ti act criminal ari-ndreptur s-hibâ lugurist câ nu-i câbati pânâ tsi pi bazaa nomlui, câbatea nu s-confirmâ la un protses public la\ncari lj-suntu asigurati tuti garantsii lipsiti ti apurarea-a lui."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "a2fbcddd8091e00e1ff2560292fbbfdc",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "Canâ nu poati s-hibâ giudicat ti acti icâ omisiunji cari nu fac act criminal dupâ-ndreptul natsional icâ internatsional tu chirolu cându suntu fapti.\nTut ashi nu poati s-hibâ curmatâ ma greauâ ghizai di atsea cari putea s-hibâ aplicatâ tu chirolu cându-i faptu actlu criminal.\nArticlul 12\nCanâ nu poati s-hibâ dupâ vrearea-a altului loat la minteari tu bana-lji particularâ, taifa, casa icâ corespondentsia nitsi la agudeari pi tinjiea shi\nnâmuzea. Cafi un ari-ndreptu la apurari di nomlu contra-a ahtariljei minteari icâ agudeari.\nArticlul 13\nCafi un ari-ndreptul la libertati di minari shi alidzeari-a loclui ti mincheani tu sinurli-a unlui stat.\nCafi un ari-ndreptul s-fugâ dit cari tsi s-hibâ stat, inclusiv shi-a lui, shi sh-si toarnâ tu statlu-a lui.\nArticlul 14\nCafi un di avinatslji ari-ndreptul s-caftâ shi sh-si hârseascâ di azil tu altili stati.\nLa-ndreptul aestu canâ nu poati s-apeleadzâ tu cazlu cându avinarea easti bazatâ pi un act criminal di naturâ nipoliticâ icâ protsedurâ contra-a\nscopurlor shi printsipiilor a Natsiunilor Uniti.\nArticlul 15\nCafi un ari-ndreptul la unâ tsitâtsenii.\nCanâ nu poati dupâ vrearea-a altului s-hibâ alâsat fârâ tsitâtsenii nitsi fâra di-ndreptul câ s-u alâxeascâ tsitâtsenia.\nArticlul 16\nBârbatslji majori shi muljeri fârâ canâ soi di limitâri di punctul di rasa, tsitâtsenia icâ pisti, au ândreptul s-intrâ tu cârunâ shi s-facâ taifâ. Elji\nsuntu egalji la intrarea tu cârunâ, tut chirolu pânâ dutsi câruna shi la aspârdzearea-a ljei.\nCâruna poati s-facâ cu libera shi completa câilâchi-a inshilor cari intrâ tu cârunâ.\nTaifa easti nucleulu natural shi fundamental a sotsietatiljiei shi ari-ndreptul la afireari di partea-a sotsietatiljei shi-a statlui.\nArticlul 17\nCafi un ari-ndreptu s-aibâ aveari, singur, ma sh-deadun cu altsâ.\nCanâ nu poati dupâ vrearea-a altului s-hibâ alâsat fârâ di aveari.\nArticlul 18",
-            "Image": "a2fbcddd8091e00e1ff2560292fbbfdc"
+            "Text": "Canâ nu poati s-hibâ giudicat ti acti icâ omisiunji cari nu fac act criminal dupâ-ndreptul natsional icâ internatsional tu chirolu cându suntu fapti.\nTut ashi nu poati s-hibâ curmatâ ma greauâ ghizai di atsea cari putea s-hibâ aplicatâ tu chirolu cându-i faptu actlu criminal.\nArticlul 12\nCanâ nu poati s-hibâ dupâ vrearea-a altului loat la minteari tu bana-lji particularâ, taifa, casa icâ corespondentsia nitsi la agudeari pi tinjiea shi\nnâmuzea. Cafi un ari-ndreptu la apurari di nomlu contra-a ahtariljei minteari icâ agudeari.\nArticlul 13\nCafi un ari-ndreptul la libertati di minari shi alidzeari-a loclui ti mincheani tu sinurli-a unlui stat.\nCafi un ari-ndreptul s-fugâ dit cari tsi s-hibâ stat, inclusiv shi-a lui, shi sh-si toarnâ tu statlu-a lui.\nArticlul 14\nCafi un di avinatslji ari-ndreptul s-caftâ shi sh-si hârseascâ di azil tu altili stati.\nLa-ndreptul aestu canâ nu poati s-apeleadzâ tu cazlu cându avinarea easti bazatâ pi un act criminal di naturâ nipoliticâ icâ protsedurâ contra-a\nscopurlor shi printsipiilor a Natsiunilor Uniti.\nArticlul 15\nCafi un ari-ndreptul la unâ tsitâtsenii.\nCanâ nu poati dupâ vrearea-a altului s-hibâ alâsat fârâ tsitâtsenii nitsi fâra di-ndreptul câ s-u alâxeascâ tsitâtsenia.\nArticlul 16\nBârbatslji majori shi muljeri fârâ canâ soi di limitâri di punctul di rasa, tsitâtsenia icâ pisti, au ândreptul s-intrâ tu cârunâ shi s-facâ taifâ. Elji\nsuntu egalji la intrarea tu cârunâ, tut chirolu pânâ dutsi câruna shi la aspârdzearea-a ljei.\nCâruna poati s-facâ cu libera shi completa câilâchi-a inshilor cari intrâ tu cârunâ.\nTaifa easti nucleulu natural shi fundamental a sotsietatiljiei shi ari-ndreptul la afireari di partea-a sotsietatiljei shi-a statlui.\nArticlul 17\nCafi un ari-ndreptu s-aibâ aveari, singur, ma sh-deadun cu altsâ.\nCanâ nu poati dupâ vrearea-a altului s-hibâ alâsat fârâ di aveari.\nArticlul 18"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "5898e86260034e8bc92ab5a0559edac7",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "Cafi un ari-ndreptul la libertatea-a mindueariljei,a sinidisiljei shi-a pistiljei; ândreptul aestu u includi shi alâxeaarea-a pistiljei shi-a câidiiljei shi\nlibertatea câ omlu singur icâ-n comunitati cu altsâlji, public icâ particular shi-u manifesteadzâ pistea icâ câidiea pi calea di-nvitsâturâ,\npracticari-a pistiljei shi sh-li facâ arâdzli.\nArticlul 19\nCafi un ari-ndreptu lalibertatea sh-mindueascâ shi s-exprimâ, tsi luacatsâ shi-ndreptul s-nu hibâ cârtit ti minduearea-lji, ma shi-ndriptatea câ s-\ncaftâ, s-aproachi shi s-tindâ informatsii shi idei cu cari tsi s-hibâ instrumenti shi independent di sinurli.\nArticlul 20\nCafi un ari-ndreptu shi libertatea la fronima adunari shi uneari.\nCanâ nu poati s-hibâ pimtu zorlea s-pricadâ la vârâ asotsiatsii.\nArticlul 21\nCafi un ari-ndreptu s-ljea parti la condutsirea cu lucri publitsi tu statlu-a lui, direct icâ prin liber aleptsâljei reprezentantsâ.\nCafi un ari-ndreptu pi baza egalâ s-intrâ tu slujbâ publicâ tu statlu-a lui.\nVrearea-a miletljei easti baza-a puteariljei a statlui; vrearea aestâ lipseashti s-hibâ spusâ la alidzerli perioditsi shi liberi cari va s-facâ cu-\nndreptul gheneral shi egal la votari, cu votarea secretâ icâ unâ protsedurâ adecvatâ cari u-asigurâ libertatea-a votariljei.\nArticlul 22\nCafi un, ca membru-a sotsietatiljei, ari-ndreptu la asigurarea sotsialâ shi-ndreptul sh-realizeadzâ-ndrepturi economitsi, sotsiali shi culturali\nlipsiti la nâmuzea-a lui sh-ti libera developari-a personalitatiljei a lui, cu agiutolu-a statlui shi-a colaborariljei internatsionalâ, shi conform cu\norganizatsia shi institutsiili-a statlui a lui.\nArticlul 23\nCafi un ari-ndreptupi lucru, la libera alidzeari la intrarea tu lucru, la-ndreapti shi buni conditsii ti lucrari shi la apurarea di nilucrari.\nCafi un, fârâ canâ alidzeari, ari-ndreptu la platâ egalâ ti idviul lucru.\nCafi un cari lucreadzâ ari-ndreptu la-ndreapta shi buna platâ cari-a lui shi-a taifâljei a lui lâ asigurâ exiestentsii cari corespundi la nâmuzea\numineascâ shi cari, fu câ va s-lipseascâ, va s-hibâ completatâ cu altsâ pâradz di apurarea sotsialâ.\nCafi un ari-ndreptu s-fondeadzâ shi s-intrâ tu sindicat ti-apurea-a interesilor a lui.\nArticlul 24",
-            "Image": "5898e86260034e8bc92ab5a0559edac7"
+            "Text": "Cafi un ari-ndreptul la libertatea-a mindueariljei,a sinidisiljei shi-a pistiljei; ândreptul aestu u includi shi alâxeaarea-a pistiljei shi-a câidiiljei shi\nlibertatea câ omlu singur icâ-n comunitati cu altsâlji, public icâ particular shi-u manifesteadzâ pistea icâ câidiea pi calea di-nvitsâturâ,\npracticari-a pistiljei shi sh-li facâ arâdzli.\nArticlul 19\nCafi un ari-ndreptu lalibertatea sh-mindueascâ shi s-exprimâ, tsi luacatsâ shi-ndreptul s-nu hibâ cârtit ti minduearea-lji, ma shi-ndriptatea câ s-\ncaftâ, s-aproachi shi s-tindâ informatsii shi idei cu cari tsi s-hibâ instrumenti shi independent di sinurli.\nArticlul 20\nCafi un ari-ndreptu shi libertatea la fronima adunari shi uneari.\nCanâ nu poati s-hibâ pimtu zorlea s-pricadâ la vârâ asotsiatsii.\nArticlul 21\nCafi un ari-ndreptu s-ljea parti la condutsirea cu lucri publitsi tu statlu-a lui, direct icâ prin liber aleptsâljei reprezentantsâ.\nCafi un ari-ndreptu pi baza egalâ s-intrâ tu slujbâ publicâ tu statlu-a lui.\nVrearea-a miletljei easti baza-a puteariljei a statlui; vrearea aestâ lipseashti s-hibâ spusâ la alidzerli perioditsi shi liberi cari va s-facâ cu-\nndreptul gheneral shi egal la votari, cu votarea secretâ icâ unâ protsedurâ adecvatâ cari u-asigurâ libertatea-a votariljei.\nArticlul 22\nCafi un, ca membru-a sotsietatiljei, ari-ndreptu la asigurarea sotsialâ shi-ndreptul sh-realizeadzâ-ndrepturi economitsi, sotsiali shi culturali\nlipsiti la nâmuzea-a lui sh-ti libera developari-a personalitatiljei a lui, cu agiutolu-a statlui shi-a colaborariljei internatsionalâ, shi conform cu\norganizatsia shi institutsiili-a statlui a lui.\nArticlul 23\nCafi un ari-ndreptupi lucru, la libera alidzeari la intrarea tu lucru, la-ndreapti shi buni conditsii ti lucrari shi la apurarea di nilucrari.\nCafi un, fârâ canâ alidzeari, ari-ndreptu la platâ egalâ ti idviul lucru.\nCafi un cari lucreadzâ ari-ndreptu la-ndreapta shi buna platâ cari-a lui shi-a taifâljei a lui lâ asigurâ exiestentsii cari corespundi la nâmuzea\numineascâ shi cari, fu câ va s-lipseascâ, va s-hibâ completatâ cu altsâ pâradz di apurarea sotsialâ.\nCafi un ari-ndreptu s-fondeadzâ shi s-intrâ tu sindicat ti-apurea-a interesilor a lui.\nArticlul 24"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "9d012dd81a8853a693a8d30f60b231f3",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "Cafi un ari-ndreptu la discurmari shi njirari, inclusiv shi limitarea cu chifiri-a oarâljei ti lucru shi advili perioditsi cu platâ.\nArticlul 25\nCafi un ari-ndreptu la un standard ti bânatic cari lj-asigurâ shi ghinistari, a lui shi-a taifâljei a lui, inclusiv hârnearea, ânvishtearea, casa, shi\nmâtrita-a iaturlui shi slujba sotsialâ tsi-i lipsitâ, ma shi-ndreptul la asigurari tu caz di armâneari fârâ lucru, lângoari, niputeari, ânvidueari,\nausheatic shi altili cazuri di chireari-a pâradzlor ti existentsii di tsircumstantsili independenti di vrearea-a lui.\nDadili shi ficiorlji au ândreptul di unâ mâtritâ spetsialâ shi agiutor. Tuts ficiorlji, faptsâ tu cârunâ icâ nafoarâ di ea s-hârsescu di idvea apurari\nsotsialâ.\nArticlul 26\nCafi un ari-ndreptul la-nvitsâturâ. Anvitsarea lipseashti s-hibâ fârâ pâlteari, canai tu sculiili primari shi di calificari. Sculia primarâ easti\nobligatorii. Educatsia tecnicâ shi di calificari lipseashti s-hibâ actsesibilâ ti tuts unâ turlii pi baza di atsea cum suntu câdâri.\nAnvitsarea lipseashti s-hibâ ândreaptâ ti-mplina developari-a personalitatiljei a omlui shi-nvârtushearea-a tinjiseariljei a-ndrepturlor a omlui shi\nlibertâtsli fundamentali. Atsea lipseashti s-li agiutâ acâchisearea, arâvdarea shi uspitsâljea anamisa di tuti miletsli, grupatsii di rasâ shi pisti, ma\nshi activitatea-a Natsiunilor Uniti shi vigljearea-a irinjiljei.\nPârintsâlji lu-au ândreptul cu prioritati câ s-lâ u-aleagâ sculia-a ficiorlor a lor.\nArticlul 27\nCafi un ari-ndreptu liber s-ljea parti tu bana culturalâ-a comunitatiljei, sh-si hârseascâ pi arta shi s-ljea parti la developarea di shtiintsâ shi la\nhâirea tsi vini di-aclotsi.\nCafi un ari-ndreptu la apurarea-a interesilor morali shi materiali cari es dit cafi unâ creatsii di shtiintsâ, literarâ icâ artisticâ-a curi creator easti\nel.\nArticlul 28\nCafi un ari-ndreptu la progres sotsial shi internatsional tu cari ândrepturli spusi tu aestâ Declaratsii pot ta s-hibâ realizati complet.\nArticlul 29\nCafi un ari obligatsiili-a lui fatsâ di comunitatea cari mash ea lji-asigurâ nâintari liberâ shi completâ-a personalitatiljei a lui.\nLa realizarea-a-ndrepturlor shi-a libertâtslor a lui cafi un poati s-hibâ supus mash la atseali limitâri cari suntu prividzuti cu nomlu cu scupolu câ\ns-asigurâ pricânushtearea lipsitâ shi tinjisearea-a-ndrepturlor shi-a libertâtslor a alântor shi cu scoplu ti satisfatsirea-a ândreaptilor câftâri-a\nmoralui, sistemlu public shi ghinistarea publicâ tu sotsietatea democraticâ.",
-            "Image": "9d012dd81a8853a693a8d30f60b231f3"
+            "Text": "Cafi un ari-ndreptu la discurmari shi njirari, inclusiv shi limitarea cu chifiri-a oarâljei ti lucru shi advili perioditsi cu platâ.\nArticlul 25\nCafi un ari-ndreptu la un standard ti bânatic cari lj-asigurâ shi ghinistari, a lui shi-a taifâljei a lui, inclusiv hârnearea, ânvishtearea, casa, shi\nmâtrita-a iaturlui shi slujba sotsialâ tsi-i lipsitâ, ma shi-ndreptul la asigurari tu caz di armâneari fârâ lucru, lângoari, niputeari, ânvidueari,\nausheatic shi altili cazuri di chireari-a pâradzlor ti existentsii di tsircumstantsili independenti di vrearea-a lui.\nDadili shi ficiorlji au ândreptul di unâ mâtritâ spetsialâ shi agiutor. Tuts ficiorlji, faptsâ tu cârunâ icâ nafoarâ di ea s-hârsescu di idvea apurari\nsotsialâ.\nArticlul 26\nCafi un ari-ndreptul la-nvitsâturâ. Anvitsarea lipseashti s-hibâ fârâ pâlteari, canai tu sculiili primari shi di calificari. Sculia primarâ easti\nobligatorii. Educatsia tecnicâ shi di calificari lipseashti s-hibâ actsesibilâ ti tuts unâ turlii pi baza di atsea cum suntu câdâri.\nAnvitsarea lipseashti s-hibâ ândreaptâ ti-mplina developari-a personalitatiljei a omlui shi-nvârtushearea-a tinjiseariljei a-ndrepturlor a omlui shi\nlibertâtsli fundamentali. Atsea lipseashti s-li agiutâ acâchisearea, arâvdarea shi uspitsâljea anamisa di tuti miletsli, grupatsii di rasâ shi pisti, ma\nshi activitatea-a Natsiunilor Uniti shi vigljearea-a irinjiljei.\nPârintsâlji lu-au ândreptul cu prioritati câ s-lâ u-aleagâ sculia-a ficiorlor a lor.\nArticlul 27\nCafi un ari-ndreptu liber s-ljea parti tu bana culturalâ-a comunitatiljei, sh-si hârseascâ pi arta shi s-ljea parti la developarea di shtiintsâ shi la\nhâirea tsi vini di-aclotsi.\nCafi un ari-ndreptu la apurarea-a interesilor morali shi materiali cari es dit cafi unâ creatsii di shtiintsâ, literarâ icâ artisticâ-a curi creator easti\nel.\nArticlul 28\nCafi un ari-ndreptu la progres sotsial shi internatsional tu cari ândrepturli spusi tu aestâ Declaratsii pot ta s-hibâ realizati complet.\nArticlul 29\nCafi un ari obligatsiili-a lui fatsâ di comunitatea cari mash ea lji-asigurâ nâintari liberâ shi completâ-a personalitatiljei a lui.\nLa realizarea-a-ndrepturlor shi-a libertâtslor a lui cafi un poati s-hibâ supus mash la atseali limitâri cari suntu prividzuti cu nomlu cu scupolu câ\ns-asigurâ pricânushtearea lipsitâ shi tinjisearea-a-ndrepturlor shi-a libertâtslor a alântor shi cu scoplu ti satisfatsirea-a ândreaptilor câftâri-a\nmoralui, sistemlu public shi ghinistarea publicâ tu sotsietatea democraticâ."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "f6d34f7bcdc995c62be951f5b217fa6c",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "Aesti-ndrepturi shi libertâts di canâ turlii nu pot sâ si realizeadzâ contra-a scopurlor shi-a printsipiilor a Natsiunilor Uniti.\nArticlul 30\nNitsi unâ determinari dit aestâ Declaratsii nu poati s-hibâ tulmâcitâ ca-ndreptul ti cafi un stat, grupâ icâ insu ta s-u facâ cari tsi s-hibâ activitati\nicâ s-facâ catsi s-va s-hibâ lucru shutsâtâ la câlcarea-a-ndrepturlor shi-a libertâtslor cari suntu bâgati tu ea.",
-            "Image": "f6d34f7bcdc995c62be951f5b217fa6c"
+            "Text": "Aesti-ndrepturi shi libertâts di canâ turlii nu pot sâ si realizeadzâ contra-a scopurlor shi-a printsipiilor a Natsiunilor Uniti.\nArticlul 30\nNitsi unâ determinari dit aestâ Declaratsii nu poati s-hibâ tulmâcitâ ca-ndreptul ti cafi un stat, grupâ icâ insu ta s-u facâ cari tsi s-hibâ activitati\nicâ s-facâ catsi s-va s-hibâ lucru shutsâtâ la câlcarea-a-ndrepturlor shi-a libertâtslor cari suntu bâgati tu ea."
         }
     }
 }

@@ -1,93 +1,93 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581469670,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "8ec26b743e9a5de05e46e4ed63e2481f",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "ALIMA NUNG ALIR MEIMCHIR AJAK ATEMA KASA TEMETEN SANGDONG\nAJAK ATEMA AKHüMKET ASER OCHI\n(Dignity and Justice for all of us)\nAll human beings are born with equal and inalienable rights and fundamental\nfreedoms.\nThe United Nations is committed to upholding, promoting and protecting the human\nrights of every individual. This commitment stems from the United Nations Charter,\nwhich reaffirms the faith of the peoples of the world in fundamental human rights\nand in the dignity and worth of the human person.\nIn the Universal Declaration of Human Rights, the United Nations has stated in clear\nand simple terms the rights which belong equally to every person.\nThese rights belong to you.\nThey are your rights. Familiarize yourself with them. Help to promote and defend\nthem for yourself as well as for your fellow human beings\nIba lima nung meimchir ajak kasa temeten aser senso ka nüji jenjang nungi\nmepilatetba akhümket tashi nung asor.\nUnited Nations-i itemji senso shia atema wazüka yutsütsü, aser kümzüka ayutsü\nmeranger. Ibai United Nations-i lateta ayuba aser telemtetba koba ajanga iba lima\nnung meimchir shia temeten aser akhümket jenjang kasa ayutsü nükjidong lir.\nUnited Nations-i meimchia temeten atema sangdongba nungji ajaki angatettsüsa o\nkanga tejangja agi itemji zülua lir.\nItem temetenji ne meyong lir.\nItemji ne temeten lir. Item denji metettebang. Itemji kümzüka ayutsü, na aser ne\nmedemer ajak atema khümdanga yuang.\n1948 December Lokti Inti ajanga lemteter Sangdongba 217 A (III)\nOkila\nKechiaseralima rangben nung nung nisung ka tim temeten aser kasa alitsüsa\nmetentepa yutsübaji meimchir kibong ochi, nüji aser yimjung tamendakdak kimung\nlir,\nKechiaser mezüng meshitepba, aitsütepba, mashimalu mapa inyakba, meimchir tim\ntejembitsü mejembidaktsüba, aser pei tebilemba rakpoka meshidaktsüba item ya\najanga meimchir nüji tia raksatsür,\nKechiaserkodang anema apusoba aser oshi mashi rongsen benshirtemi nüburtem\ntemeten aser nüji tia raksatsüdir, meimchir temeten ozüng ajanga itemji kümzüka\nayutsüla,\nKechiaser kintem tsüngda yimjung yangluba ajanga alima terenlok adokdaktsür, ibaji\nmapang ajak nung nungittsüla,",
-            "Image": "8ec26b743e9a5de05e46e4ed63e2481f"
+            "Text": "ALIMA NUNG ALIR MEIMCHIR AJAK ATEMA KASA TEMETEN SANGDONG\nAJAK ATEMA AKHüMKET ASER OCHI\n(Dignity and Justice for all of us)\nAll human beings are born with equal and inalienable rights and fundamental\nfreedoms.\nThe United Nations is committed to upholding, promoting and protecting the human\nrights of every individual. This commitment stems from the United Nations Charter,\nwhich reaffirms the faith of the peoples of the world in fundamental human rights\nand in the dignity and worth of the human person.\nIn the Universal Declaration of Human Rights, the United Nations has stated in clear\nand simple terms the rights which belong equally to every person.\nThese rights belong to you.\nThey are your rights. Familiarize yourself with them. Help to promote and defend\nthem for yourself as well as for your fellow human beings\nIba lima nung meimchir ajak kasa temeten aser senso ka nüji jenjang nungi\nmepilatetba akhümket tashi nung asor.\nUnited Nations-i itemji senso shia atema wazüka yutsütsü, aser kümzüka ayutsü\nmeranger. Ibai United Nations-i lateta ayuba aser telemtetba koba ajanga iba lima\nnung meimchir shia temeten aser akhümket jenjang kasa ayutsü nükjidong lir.\nUnited Nations-i meimchia temeten atema sangdongba nungji ajaki angatettsüsa o\nkanga tejangja agi itemji zülua lir.\nItem temetenji ne meyong lir.\nItemji ne temeten lir. Item denji metettebang. Itemji kümzüka ayutsü, na aser ne\nmedemer ajak atema khümdanga yuang.\n1948 December Lokti Inti ajanga lemteter Sangdongba 217 A (III)\nOkila\nKechiaseralima rangben nung nung nisung ka tim temeten aser kasa alitsüsa\nmetentepa yutsübaji meimchir kibong ochi, nüji aser yimjung tamendakdak kimung\nlir,\nKechiaser mezüng meshitepba, aitsütepba, mashimalu mapa inyakba, meimchir tim\ntejembitsü mejembidaktsüba, aser pei tebilemba rakpoka meshidaktsüba item ya\najanga meimchir nüji tia raksatsür,\nKechiaserkodang anema apusoba aser oshi mashi rongsen benshirtemi nüburtem\ntemeten aser nüji tia raksatsüdir, meimchir temeten ozüng ajanga itemji kümzüka\nayutsüla,\nKechiaser kintem tsüngda yimjung yangluba ajanga alima terenlok adokdaktsür, ibaji\nmapang ajak nung nungittsüla,"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "0a40dc2a845c8ff5a5b6abab86eed7f6",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Kechiaser United Nations Temzüng nung meimchir temeten aser nüjiba wazüka\nayutsüba itemji lemteta alinung, tebur aser tetsür tsüngda tepila kecha malitsüla,\nsaka ibai loktiliba tasen küma yanglushiba ajanga dang nüjibaji tongtettsü.\nKechiaser United Nations nung adener ajaki ibaji atalokdakja inyaktsü\nnangzüktepogo, aser meimchir ka temeten aser nüibaji kümzüka ayutsü mulunga\nrenemogo.\nKechiaser iba tenangzükba takok ngudakja inyaktsübaji teinyaktsü tongtibangtiba ta\najaki anagtetogo,\nAnungji, tang, Lokti Inti Sendeni Alima rangben nung Meimchir Temeten ya takok\nngua lokti aser kin ajak nung inyaktsü Sangdonger, iba Sangdong ya maneni\ntemulung nung yur li maser lim atena or, terenlok mapa shisatsü sayuba ajanga\nangazükdakja, pei litsü atena oa inyaktsü sangdonger.\nOcet 1\nMeimchir ajak temeten aser tashi kasa nüji nung asor. Parnok dak bilemtettsü\nshisatsü aser tangatetba kasa agüja aliba jagi külem adianu rongnung tanela ka nung\nlungjema alitsüla.\nOcet 2\nIba sangdong nung kechi temeten shilemsa ali, nisung sentsü balala, tetsür tebur,\noshi,aser yamala ajak nung telemsa aser tebendang kecha melii nisung shia tim\ntemeten kasa alitsü.\nTalisa, kin tulu tila, limeka, aser arrtsü balala ajaklen nüjiso tsütsü telemsa kecha\nmali.\nOcet 3\nNisung ajak sakusa alitsü, nüji, aser kümzüka alitsü temeten.\nOcet 4\nNisung shinga alar mekümdaktsütsü mesüra alar tia nung mayutsü, yamala mapa\najak nungi nisung ajak kümzüka alitsü.\nOcet 5\nNisung shinga memerenshidaktsütsü, msüra yamala talenba kübok mayutsü.\nOcet 6\nTesem ajaklen nisung ajak ozüng tsüngdang temeten kar.\nOcet 7\nNisung ajak ozüng tsüngdang kasa temeten akaba dang masü, kasa ozüng jagi ajak\nsakusa kümzüka lir. Iba Telemtetba ya anema shingaia shinga anema meinyaktsüla,\nmesüra kati ka mezüngmeshi masütsüla.\nOcet 8\nOzüng ajanga temeten agüja akaba tashi kübok nisung shia ozüng amshir tsüngdang",
-            "Image": "0a40dc2a845c8ff5a5b6abab86eed7f6"
+            "Text": "Kechiaser United Nations Temzüng nung meimchir temeten aser nüjiba wazüka\nayutsüba itemji lemteta alinung, tebur aser tetsür tsüngda tepila kecha malitsüla,\nsaka ibai loktiliba tasen küma yanglushiba ajanga dang nüjibaji tongtettsü.\nKechiaser United Nations nung adener ajaki ibaji atalokdakja inyaktsü\nnangzüktepogo, aser meimchir ka temeten aser nüibaji kümzüka ayutsü mulunga\nrenemogo.\nKechiaser iba tenangzükba takok ngudakja inyaktsübaji teinyaktsü tongtibangtiba ta\najaki anagtetogo,\nAnungji, tang, Lokti Inti Sendeni Alima rangben nung Meimchir Temeten ya takok\nngua lokti aser kin ajak nung inyaktsü Sangdonger, iba Sangdong ya maneni\ntemulung nung yur li maser lim atena or, terenlok mapa shisatsü sayuba ajanga\nangazükdakja, pei litsü atena oa inyaktsü sangdonger.\nOcet 1\nMeimchir ajak temeten aser tashi kasa nüji nung asor. Parnok dak bilemtettsü\nshisatsü aser tangatetba kasa agüja aliba jagi külem adianu rongnung tanela ka nung\nlungjema alitsüla.\nOcet 2\nIba sangdong nung kechi temeten shilemsa ali, nisung sentsü balala, tetsür tebur,\noshi,aser yamala ajak nung telemsa aser tebendang kecha melii nisung shia tim\ntemeten kasa alitsü.\nTalisa, kin tulu tila, limeka, aser arrtsü balala ajaklen nüjiso tsütsü telemsa kecha\nmali.\nOcet 3\nNisung ajak sakusa alitsü, nüji, aser kümzüka alitsü temeten.\nOcet 4\nNisung shinga alar mekümdaktsütsü mesüra alar tia nung mayutsü, yamala mapa\najak nungi nisung ajak kümzüka alitsü.\nOcet 5\nNisung shinga memerenshidaktsütsü, msüra yamala talenba kübok mayutsü.\nOcet 6\nTesem ajaklen nisung ajak ozüng tsüngdang temeten kar.\nOcet 7\nNisung ajak ozüng tsüngdang kasa temeten akaba dang masü, kasa ozüng jagi ajak\nsakusa kümzüka lir. Iba Telemtetba ya anema shingaia shinga anema meinyaktsüla,\nmesüra kati ka mezüngmeshi masütsüla.\nOcet 8\nOzüng ajanga temeten agüja akaba tashi kübok nisung shia ozüng amshir tsüngdang"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "4931c2da5f25ce5fb6b43203a25388a0",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "temzüngi melaba ama pei temeten ashitsü akok.\nOcet 9\nTashiyim amshia shingaia shinga aputsü makok, mesüra bendang limai yoktsü\nmakok.\nOcet 10\nTim masüba maparen atema kari nisung ka temeten anema mesüra tejak ajia tim\nmasüba mapa inyakra, ozüng meteter tsüngdang pei temeten rateta ashitsü melaa lir.\nOcet 11\nOzüng anema aibelenogo ta shia nüburtem matsüngdang sangdongra,ozüng meteter\nkar teyari agia pei temeten indang rateta mashi tashi nisung shinga merenshitsü\nmakok\nKin ka mesüra alima ajak kasa ozüng nung memeteti aibelenba mesüra meinyakba\natema shinga merenshitsü makok. Mesüra yamala atema khen merenshir lira, iba\ndang temaba temerenshi agütsütsü makok.\nOcet 12\nKija taküm, kibong mesüra kinunger kisüng atema, mesüra nisung pei kija atema kari\ntenüng menükdaktsütsü makok.Nisung ajak yamala mapa tamajung anema\nkümzüktsü iba ozüng dak tashi lir.\nOcet 13\nNisung shia pei litsü aser artsü meküta senzütsü temeten kar.\nNisung shia pei linük toktsür bendang limai aotsü, aser pei meyong bushia arutsü\ntemeten kar.\nOcet 14\nRishikangshi nungi jembutsü atema bendang lima jenoka alitsü nisung ajak temeten\nkar.\nIba tashiji rishikangshiba mesüra kin ka anema inyakba melira United Nations\ntelemtetba anema amshitsü makok.\nOcet 15\nNisung shia kin ka senso asütsü temeten kar.\nNisung ka kin ka sensoji shingaia noktangtsü makok, mesüra senso melentsü atema\ntenokdangba kecha malitsüla.\nOcet 16\nTeintet tetsür aser teburtem atema kibong akümtsü tenokdangba kecha makai,\ntamangba yimsü süaka, sentsü balala süaka tebendang makai kibong küma alitsü.\nParnokji temeten kasa kibong akümtsü aser pilatsü akok.\nTemulunger tsüngda tenokdangba kecha makai parnok kibong akümtsüla.",
-            "Image": "4931c2da5f25ce5fb6b43203a25388a0"
+            "Text": "temzüngi melaba ama pei temeten ashitsü akok.\nOcet 9\nTashiyim amshia shingaia shinga aputsü makok, mesüra bendang limai yoktsü\nmakok.\nOcet 10\nTim masüba maparen atema kari nisung ka temeten anema mesüra tejak ajia tim\nmasüba mapa inyakra, ozüng meteter tsüngdang pei temeten rateta ashitsü melaa lir.\nOcet 11\nOzüng anema aibelenogo ta shia nüburtem matsüngdang sangdongra,ozüng meteter\nkar teyari agia pei temeten indang rateta mashi tashi nisung shinga merenshitsü\nmakok\nKin ka mesüra alima ajak kasa ozüng nung memeteti aibelenba mesüra meinyakba\natema shinga merenshitsü makok. Mesüra yamala atema khen merenshir lira, iba\ndang temaba temerenshi agütsütsü makok.\nOcet 12\nKija taküm, kibong mesüra kinunger kisüng atema, mesüra nisung pei kija atema kari\ntenüng menükdaktsütsü makok.Nisung ajak yamala mapa tamajung anema\nkümzüktsü iba ozüng dak tashi lir.\nOcet 13\nNisung shia pei litsü aser artsü meküta senzütsü temeten kar.\nNisung shia pei linük toktsür bendang limai aotsü, aser pei meyong bushia arutsü\ntemeten kar.\nOcet 14\nRishikangshi nungi jembutsü atema bendang lima jenoka alitsü nisung ajak temeten\nkar.\nIba tashiji rishikangshiba mesüra kin ka anema inyakba melira United Nations\ntelemtetba anema amshitsü makok.\nOcet 15\nNisung shia kin ka senso asütsü temeten kar.\nNisung ka kin ka sensoji shingaia noktangtsü makok, mesüra senso melentsü atema\ntenokdangba kecha malitsüla.\nOcet 16\nTeintet tetsür aser teburtem atema kibong akümtsü tenokdangba kecha makai,\ntamangba yimsü süaka, sentsü balala süaka tebendang makai kibong küma alitsü.\nParnokji temeten kasa kibong akümtsü aser pilatsü akok.\nTemulunger tsüngda tenokdangba kecha makai parnok kibong akümtsüla."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "07dfddb8c2b00e2c0a1ffc71a6d67fbf",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Kibongji lokti nung mezüngbuba tentetbaji lir, anungji ibaipei kini kümzüka ayutsüla.\nOcet 17\nRongsen madak kija dak tashi alitsü, aser ano lokti dena kasa lemsateptsü temeten\nalitsü.\nPi rongsen madak shingaia tashiyim agi teka amuoktsü makok.\nOcet 18\nTamangba yimsü atema nisung shia pei pei amangnüba yimsü dak amangtsü, mesüra\nmelenshia amangtsü akok, ibai lokti nung mesüra kija taküm nung pei jurila temeten\nkübok amangtsü aser külemtsü akok.\nOcet 19\nNisung shia kechi jembinür tenokdangba kecha makai jembitsü akok. Idaki tebilemba\nmejangjungtepi lemsateptsü, osangtem agizüktsü aser agütsütsü tashi alitsü.\nOcet 20\nNisung ajak lokti senden mesüra mungdang nung tenokdangba makai adentsü.\nTashiyim agi shingaia telok ka nung züngsem kümdaktsütsü makok.\nOcet 21\nPei lima sorkar mapa nung pei sasa mesüra lokti kar tenüng nung inyaktsü nisung\najak kasa tim shilem kar.\nPei lima public mapa ajak nung inyaktsü nisung ajak temeten kar.\nNüburtemi mulungtetbaji government bangdak asütsü. Ibaji indangindanga shimba\nmesüra nüburtemi meyongnem ajanga shimtetbaji alitsü.\nOcet 22\nNisung shia pei state nung rongsenketsüng, loktiliba aser sobaliba kümzüka alitsü\natema pei litsü nung aser pei litsü atena or aliba lokti ajak nung kija nüjiso tentet\najak den kasa temeten alitsü.\nOcet 23\nNisung ajak pei mulungba ama mapa inyaktsü, aser mapa makartem nem tapet mapa\nagütsütsü atema wazüka ayutsü.\nKasa mapa inyakba atema tah nung kecha telemdang makai kasa agütsütsüla.\nNisung shia pei sasa aahzüka ayuba nungi pei taküm aser kibong atema tim tangutsü\naliba ajak angutsüla, nüngdaakra itemji loktiliba temzüng ozüng kübok wazüka\nayutsüla.\nPei sasa mulungtetba kümzüka ayutsü atema mapa inyaker lokti tentet nung nisung\najak adentsü akok.\nOcet 24",
-            "Image": "07dfddb8c2b00e2c0a1ffc71a6d67fbf"
+            "Text": "Kibongji lokti nung mezüngbuba tentetbaji lir, anungji ibaipei kini kümzüka ayutsüla.\nOcet 17\nRongsen madak kija dak tashi alitsü, aser ano lokti dena kasa lemsateptsü temeten\nalitsü.\nPi rongsen madak shingaia tashiyim agi teka amuoktsü makok.\nOcet 18\nTamangba yimsü atema nisung shia pei pei amangnüba yimsü dak amangtsü, mesüra\nmelenshia amangtsü akok, ibai lokti nung mesüra kija taküm nung pei jurila temeten\nkübok amangtsü aser külemtsü akok.\nOcet 19\nNisung shia kechi jembinür tenokdangba kecha makai jembitsü akok. Idaki tebilemba\nmejangjungtepi lemsateptsü, osangtem agizüktsü aser agütsütsü tashi alitsü.\nOcet 20\nNisung ajak lokti senden mesüra mungdang nung tenokdangba makai adentsü.\nTashiyim agi shingaia telok ka nung züngsem kümdaktsütsü makok.\nOcet 21\nPei lima sorkar mapa nung pei sasa mesüra lokti kar tenüng nung inyaktsü nisung\najak kasa tim shilem kar.\nPei lima public mapa ajak nung inyaktsü nisung ajak temeten kar.\nNüburtemi mulungtetbaji government bangdak asütsü. Ibaji indangindanga shimba\nmesüra nüburtemi meyongnem ajanga shimtetbaji alitsü.\nOcet 22\nNisung shia pei state nung rongsenketsüng, loktiliba aser sobaliba kümzüka alitsü\natema pei litsü nung aser pei litsü atena or aliba lokti ajak nung kija nüjiso tentet\najak den kasa temeten alitsü.\nOcet 23\nNisung ajak pei mulungba ama mapa inyaktsü, aser mapa makartem nem tapet mapa\nagütsütsü atema wazüka ayutsü.\nKasa mapa inyakba atema tah nung kecha telemdang makai kasa agütsütsüla.\nNisung shia pei sasa aahzüka ayuba nungi pei taküm aser kibong atema tim tangutsü\naliba ajak angutsüla, nüngdaakra itemji loktiliba temzüng ozüng kübok wazüka\nayutsüla.\nPei sasa mulungtetba kümzüka ayutsü atema mapa inyaker lokti tentet nung nisung\najak adentsü akok.\nOcet 24"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "a0e97b1e42f6a46dabcd7436bdae9ac6",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Nisung shia pei tenzükba mapa nungi anizüngsük agitsü, mesüra mapa nungi sodi\nmapang telemtet kaa agitsü akok, saka aahzüka aliba nungi itasen agütsütsüla.\nOcet 25\nNisung shia pei taküm aser kibong nung alirtem temang atema mozü, aben süoshi,\nchiyungtsü peria akatsü temeten kar, itemji lokti tentet latet kübok, mapa\nmangurtem, shirang timtem, matamabensartem, amitsür, aser tain akümer atema\nwazüka aser peria agütsütsü aser angutsü temeten kar.\nTanur asor tetsü aser tila tanurtem balaka anebalutsü temeten kar. Kibong kümer\nasoba süaka kita chirtem süaka kasa temeten kar.\nOcet 26\nNisung ajak kaketshisatsü angazüktsü temeten kar. Class tila nung azüngtsü atemabo\nkaketshisatsüji angadi angazükdaktsütsüla. Pei tenüng zülu meteta kümdaktsütsübaji\nozüngsa angazükdaktsütsüla. Technical mesüra temeba jenjang nung kaketshisatsü\nbushitsübaji ajak atema tajungtiba jenjang ajangzüka alirtem nungi tenzüka bushitsü\nakok.\nKaket shisatsü sayuba nükjidongji nisung ka pei tim tangazüktsü kechi ali, item ajakji\nperia angazükdaktsütsübaji lir. Ibai ajanga kin kidong, shilu balala, yimsü balala\namangertem rongnung teputep aser yimjung adokdaktsütsü United Nations\nnükjidong lir.\nPei chir nem koba lenmang nung tangazükba agütsütsü aji tsürabur atema\ntongtibang mapa lir.\nOcet 27\nKin ka pei sobaliba dak sendakba maparen nung shilem agitsü, puyin ajanga alima\nterenlok bener arutsüba nungji nisung ajak temeten lir.\nPei sasa apiteta yangluba, züluba mesüra mejemba, koba nung kija tashi mekazüka\nkar, item atema tezülur temeten kar.\nOcet 28\nIba telemtetba Sangdong nung kechi tashi aser temeten melaa ali, iba kübok sadoka\nalitsü nisung ajak kasa temeten kar.\nOcet 29\nNisung shia pei aliba lokti terenlok atema teinyaktsü kar, kechiaser iba loktiji ajanga\ndang pei taküm renloktsü akok.\nPei temeten aser nüji yamaji liaka lokti teimbai mulungba nung nübur yimtenji aor\nasünung, iba lokti tentet yimsüyimbongi melaba ama item temeten wazüka aser\nakhümtsübua alitsüla.\nItem temeten aser nüji ya United Nations ajanga lateta aliba den mesütepi\nmeinyaktsüla.\nOcet 30\nIba Sangdong ya State mesüra, lokti, mesüra kija shingaia pei ajung asaa",
-            "Image": "a0e97b1e42f6a46dabcd7436bdae9ac6"
+            "Text": "Nisung shia pei tenzükba mapa nungi anizüngsük agitsü, mesüra mapa nungi sodi\nmapang telemtet kaa agitsü akok, saka aahzüka aliba nungi itasen agütsütsüla.\nOcet 25\nNisung shia pei taküm aser kibong nung alirtem temang atema mozü, aben süoshi,\nchiyungtsü peria akatsü temeten kar, itemji lokti tentet latet kübok, mapa\nmangurtem, shirang timtem, matamabensartem, amitsür, aser tain akümer atema\nwazüka aser peria agütsütsü aser angutsü temeten kar.\nTanur asor tetsü aser tila tanurtem balaka anebalutsü temeten kar. Kibong kümer\nasoba süaka kita chirtem süaka kasa temeten kar.\nOcet 26\nNisung ajak kaketshisatsü angazüktsü temeten kar. Class tila nung azüngtsü atemabo\nkaketshisatsüji angadi angazükdaktsütsüla. Pei tenüng zülu meteta kümdaktsütsübaji\nozüngsa angazükdaktsütsüla. Technical mesüra temeba jenjang nung kaketshisatsü\nbushitsübaji ajak atema tajungtiba jenjang ajangzüka alirtem nungi tenzüka bushitsü\nakok.\nKaket shisatsü sayuba nükjidongji nisung ka pei tim tangazüktsü kechi ali, item ajakji\nperia angazükdaktsütsübaji lir. Ibai ajanga kin kidong, shilu balala, yimsü balala\namangertem rongnung teputep aser yimjung adokdaktsütsü United Nations\nnükjidong lir.\nPei chir nem koba lenmang nung tangazükba agütsütsü aji tsürabur atema\ntongtibang mapa lir.\nOcet 27\nKin ka pei sobaliba dak sendakba maparen nung shilem agitsü, puyin ajanga alima\nterenlok bener arutsüba nungji nisung ajak temeten lir.\nPei sasa apiteta yangluba, züluba mesüra mejemba, koba nung kija tashi mekazüka\nkar, item atema tezülur temeten kar.\nOcet 28\nIba telemtetba Sangdong nung kechi tashi aser temeten melaa ali, iba kübok sadoka\nalitsü nisung ajak kasa temeten kar.\nOcet 29\nNisung shia pei aliba lokti terenlok atema teinyaktsü kar, kechiaser iba loktiji ajanga\ndang pei taküm renloktsü akok.\nPei temeten aser nüji yamaji liaka lokti teimbai mulungba nung nübur yimtenji aor\nasünung, iba lokti tentet yimsüyimbongi melaba ama item temeten wazüka aser\nakhümtsübua alitsüla.\nItem temeten aser nüji ya United Nations ajanga lateta aliba den mesütepi\nmeinyaktsüla.\nOcet 30\nIba Sangdong ya State mesüra, lokti, mesüra kija shingaia pei ajung asaa"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "0be8fe37a0cc810a762b6e9a030a1416",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "meratettsüla, kechiaser iba Sangdong ya ajak atema kasa temeten aser nüji asoshi\nnükla tajung yur lateta ayuba lir.",
-            "Image": "0be8fe37a0cc810a762b6e9a030a1416"
+            "Text": "meratettsüla, kechiaser iba Sangdong ya ajak atema kasa temeten aser nüji asoshi\nnükla tajung yur lateta ayuba lir."
         }
     }
 }

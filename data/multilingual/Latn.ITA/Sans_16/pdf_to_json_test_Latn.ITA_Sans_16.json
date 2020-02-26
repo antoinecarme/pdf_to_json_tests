@@ -1,132 +1,132 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581468529,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "739972c697293aeb1483ec1e548f0a92",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Il 10 dicembre 1948, l'Assemblea Generale delle Nazioni Unite approvò e proclamò la Dichiarazione\nUniversale dei Diritti Umani, il cui testo completo è stampato nelle pagine seguenti. Dopo questa solenne\ndeliberazione, l'Assemblea delle Nazioni Unite diede istruzioni al Segretario Generale di provvedere a\ndiffondere ampiamente questa Dichiarazione e, a tal fine, di pubblicarne e distribuirne il testo non soltanto\nnelle cinque lingue ufficiali dell'Organizzazione internazionale, ma anche in quante altre lingue fosse\npossibile usando ogni mezzo a sua disposizione. Il testo ufficiale della Dichiarazione è disponibile nelle\nlingue ufficiali delle Nazioni Unite, cioè cinese, francese, inglese, russo e spagnolo.\nDICHIARAZIONE UNIVERSALE DEI DIRITTI UMANI\nPreambolo\nConsiderato che il riconoscimento della dignità inerente a tutti i membri della famiglia umana e dei loro\ndiritti, uguali ed inalienabili, costituisce il fondamento della libertà, della giustizia e della pace nel mondo;\nConsiderato che il disconoscimento e il disprezzo dei diritti umani hanno portato ad atti di barbarie che\noffendono la coscienza dell'umanità, e che l'avvento di un mondo in cui gli esseri umani godano della libertà\ndi parola e di credo e della libertà dal timore e dal bisogno è stato proclamato come la più alta aspirazione\ndell'uomo;\nConsiderato che è indispensabile che i diritti umani siano protetti da norme giuridiche, se si vuole evitare che\nl'uomo sia costretto a ricorrere, come ultima istanza, alla ribellione contro la tirannia e l'oppressione;\nConsiderato che è indispensabile promuovere lo sviluppo di rapporti amichevoli tra le Nazioni;\nConsiderato che i popoli delle Nazioni Unite hanno riaffermato nello Statuto la loro fede nei diritti umani\nfondamentali, nella dignità e nel valore della persona umana, nell'uguaglianza dei diritti dell'uomo e della\ndonna, ed hanno deciso di promuovere il progresso sociale e un miglior tenore di vita in una maggiore",
-            "Image": "739972c697293aeb1483ec1e548f0a92"
+            "Text": "Il 10 dicembre 1948, l'Assemblea Generale delle Nazioni Unite approvò e proclamò la Dichiarazione\nUniversale dei Diritti Umani, il cui testo completo è stampato nelle pagine seguenti. Dopo questa solenne\ndeliberazione, l'Assemblea delle Nazioni Unite diede istruzioni al Segretario Generale di provvedere a\ndiffondere ampiamente questa Dichiarazione e, a tal fine, di pubblicarne e distribuirne il testo non soltanto\nnelle cinque lingue ufficiali dell'Organizzazione internazionale, ma anche in quante altre lingue fosse\npossibile usando ogni mezzo a sua disposizione. Il testo ufficiale della Dichiarazione è disponibile nelle\nlingue ufficiali delle Nazioni Unite, cioè cinese, francese, inglese, russo e spagnolo.\nDICHIARAZIONE UNIVERSALE DEI DIRITTI UMANI\nPreambolo\nConsiderato che il riconoscimento della dignità inerente a tutti i membri della famiglia umana e dei loro\ndiritti, uguali ed inalienabili, costituisce il fondamento della libertà, della giustizia e della pace nel mondo;\nConsiderato che il disconoscimento e il disprezzo dei diritti umani hanno portato ad atti di barbarie che\noffendono la coscienza dell'umanità, e che l'avvento di un mondo in cui gli esseri umani godano della libertà\ndi parola e di credo e della libertà dal timore e dal bisogno è stato proclamato come la più alta aspirazione\ndell'uomo;\nConsiderato che è indispensabile che i diritti umani siano protetti da norme giuridiche, se si vuole evitare che\nl'uomo sia costretto a ricorrere, come ultima istanza, alla ribellione contro la tirannia e l'oppressione;\nConsiderato che è indispensabile promuovere lo sviluppo di rapporti amichevoli tra le Nazioni;\nConsiderato che i popoli delle Nazioni Unite hanno riaffermato nello Statuto la loro fede nei diritti umani\nfondamentali, nella dignità e nel valore della persona umana, nell'uguaglianza dei diritti dell'uomo e della\ndonna, ed hanno deciso di promuovere il progresso sociale e un miglior tenore di vita in una maggiore"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "0c7b2ecb5c53fdf675c02b6a635dd349",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "libertà;\nConsiderato che gli Stati membri si sono impegnati a perseguire, in cooperazione con le Nazioni Unite, il\nrispetto e l'osservanza universale dei diritti umani e delle libertà fondamentali;\nConsiderato che una concezione comune di questi diritti e di questa libertà è della massima importanza per la\npiena realizzazione di questi impegni;\nL'ASSEMBLEA GENERALE\nproclama\nla presente dichiarazione universale dei diritti umani come ideale comune da raggiungersi da tutti i popoli e\nda tutte le Nazioni, al fine che ogni individuo ed ogni organo della società, avendo costantemente presente\nquesta Dichiarazione, si sforzi di promuovere, con l'insegnamento e l'educazione, il rispetto di questi diritti e\ndi queste libertà e di garantirne, mediante misure progressive di carattere nazionale e internazionale,\nl'universale ed effettivo riconoscimento e rispetto tanto fra i popoli degli stessi Stati membri, quanto fra\nquelli dei territori sottoposti alla loro giurisdizione.\nArticolo 1\nTutti gli esseri umani nascono liberi ed eguali in dignità e diritti. Essi sono dotati di ragione e di coscienza e\ndevono agire gli uni verso gli altri in spirito di fratellanza.\nArticolo 2\nAd ogni individuo spettano tutti i diritti e tutte le libertà enunciate nella presente Dichiarazione, senza\ndistinzione alcuna, per ragioni di razza, di colore, di sesso, di lingua, di religione, di opinione politica o di\naltro genere, di origine nazionale o sociale, di ricchezza, di nascita o di altra condizione.",
-            "Image": "0c7b2ecb5c53fdf675c02b6a635dd349"
+            "Text": "libertà;\nConsiderato che gli Stati membri si sono impegnati a perseguire, in cooperazione con le Nazioni Unite, il\nrispetto e l'osservanza universale dei diritti umani e delle libertà fondamentali;\nConsiderato che una concezione comune di questi diritti e di questa libertà è della massima importanza per la\npiena realizzazione di questi impegni;\nL'ASSEMBLEA GENERALE\nproclama\nla presente dichiarazione universale dei diritti umani come ideale comune da raggiungersi da tutti i popoli e\nda tutte le Nazioni, al fine che ogni individuo ed ogni organo della società, avendo costantemente presente\nquesta Dichiarazione, si sforzi di promuovere, con l'insegnamento e l'educazione, il rispetto di questi diritti e\ndi queste libertà e di garantirne, mediante misure progressive di carattere nazionale e internazionale,\nl'universale ed effettivo riconoscimento e rispetto tanto fra i popoli degli stessi Stati membri, quanto fra\nquelli dei territori sottoposti alla loro giurisdizione.\nArticolo 1\nTutti gli esseri umani nascono liberi ed eguali in dignità e diritti. Essi sono dotati di ragione e di coscienza e\ndevono agire gli uni verso gli altri in spirito di fratellanza.\nArticolo 2\nAd ogni individuo spettano tutti i diritti e tutte le libertà enunciate nella presente Dichiarazione, senza\ndistinzione alcuna, per ragioni di razza, di colore, di sesso, di lingua, di religione, di opinione politica o di\naltro genere, di origine nazionale o sociale, di ricchezza, di nascita o di altra condizione."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "3d47c6d89e8326bb9847970464c9dec8",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Nessuna distinzione sarà inoltre stabilita sulla base dello statuto politico, giuridico o internazionale del paese\no del territorio cui una persona appartiene, sia indipendente, o sottoposto ad amministrazione fiduciaria o non\nautonomo, o soggetto a qualsiasi limitazione di sovranità.\nArticolo 3\nOgni individuo ha diritto alla vita, alla libertà ed alla sicurezza della propria persona.\nArticolo 4\nNessun individuo potrà essere tenuto in stato di schiavitù o di servitù; la schiavitù e la tratta degli schiavi\nsaranno proibite sotto qualsiasi forma.\nArticolo 5\nNessun individuo potrà essere sottoposto a tortura o a trattamento o a punizione crudeli, inumani o\ndegradanti.\nArticolo 6\nOgni individuo ha diritto, in ogni luogo, al riconoscimento della sua personalità giuridica.\nArticolo 7\nTutti sono eguali dinanzi alla legge e hanno diritto, senza alcuna discriminazione, ad una eguale tutela da\nparte della legge. Tutti hanno diritto ad una eguale tutela contro ogni discriminazione che violi la presente\nDichiarazione come contro qualsiasi incitamento a tale discriminazione.\nArticolo 8\nOgni individuo ha diritto ad un'effettiva possibilità di ricorso a competenti tribunali contro atti che violino i\ndiritti fondamentali a lui riconosciuti dalla costituzione o dalla legge.",
-            "Image": "3d47c6d89e8326bb9847970464c9dec8"
+            "Text": "Nessuna distinzione sarà inoltre stabilita sulla base dello statuto politico, giuridico o internazionale del paese\no del territorio cui una persona appartiene, sia indipendente, o sottoposto ad amministrazione fiduciaria o non\nautonomo, o soggetto a qualsiasi limitazione di sovranità.\nArticolo 3\nOgni individuo ha diritto alla vita, alla libertà ed alla sicurezza della propria persona.\nArticolo 4\nNessun individuo potrà essere tenuto in stato di schiavitù o di servitù; la schiavitù e la tratta degli schiavi\nsaranno proibite sotto qualsiasi forma.\nArticolo 5\nNessun individuo potrà essere sottoposto a tortura o a trattamento o a punizione crudeli, inumani o\ndegradanti.\nArticolo 6\nOgni individuo ha diritto, in ogni luogo, al riconoscimento della sua personalità giuridica.\nArticolo 7\nTutti sono eguali dinanzi alla legge e hanno diritto, senza alcuna discriminazione, ad una eguale tutela da\nparte della legge. Tutti hanno diritto ad una eguale tutela contro ogni discriminazione che violi la presente\nDichiarazione come contro qualsiasi incitamento a tale discriminazione.\nArticolo 8\nOgni individuo ha diritto ad un'effettiva possibilità di ricorso a competenti tribunali contro atti che violino i\ndiritti fondamentali a lui riconosciuti dalla costituzione o dalla legge."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "993880f59f8f6dbe126f82bb60497fa7",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Articolo 9\nNessun individuo potrà essere arbitrariamente arrestato, detenuto o esiliato.\nArticolo 10\nOgni individuo ha diritto, in posizione di piena uguaglianza, ad una equa e pubblica udienza davanti ad un\ntribunale indipendente e imparziale, al fine della determinazione dei suoi diritti e dei suoi doveri, nonché\ndella fondatezza di ogni accusa penale che gli venga rivolta.\nArticolo 11\nOgni individuo accusato di un reato è presunto innocente sino a che la sua colpevolezza non sia stata provata\nlegalmente in un pubblico processo nel quale egli abbia avuto tutte le garanzie necessarie per la sua difesa.\nNessun individuo sarà condannato per un comportamento commissivo od omissivo che, al momento in cui\nsia stato perpetuato, non costituisse reato secondo il diritto interno o secondo il diritto internazionale. Non\npotrà del pari essere inflitta alcuna pena superiore a quella applicabile al momento in cui il reato sia stato\ncommesso.\nArticolo 12\nNessun individuo potrà essere sottoposto ad interferenze arbitrarie nella sua vita privata, nella sua famiglia,\nnella sua casa, nella sua corrispondenza, né a lesione del suo onore e della sua reputazione. Ogni individuo\nha diritto ad essere tutelato dalla legge contro tali interferenze o lesioni.\nArticolo 13\nOgni individuo ha diritto alla libertà di movimento e di residenza entro i confini di ogni Stato.\nOgni individuo ha diritto di lasciare qualsiasi paese, incluso il proprio, e di ritornare nel proprio paese.",
-            "Image": "993880f59f8f6dbe126f82bb60497fa7"
+            "Text": "Articolo 9\nNessun individuo potrà essere arbitrariamente arrestato, detenuto o esiliato.\nArticolo 10\nOgni individuo ha diritto, in posizione di piena uguaglianza, ad una equa e pubblica udienza davanti ad un\ntribunale indipendente e imparziale, al fine della determinazione dei suoi diritti e dei suoi doveri, nonché\ndella fondatezza di ogni accusa penale che gli venga rivolta.\nArticolo 11\nOgni individuo accusato di un reato è presunto innocente sino a che la sua colpevolezza non sia stata provata\nlegalmente in un pubblico processo nel quale egli abbia avuto tutte le garanzie necessarie per la sua difesa.\nNessun individuo sarà condannato per un comportamento commissivo od omissivo che, al momento in cui\nsia stato perpetuato, non costituisse reato secondo il diritto interno o secondo il diritto internazionale. Non\npotrà del pari essere inflitta alcuna pena superiore a quella applicabile al momento in cui il reato sia stato\ncommesso.\nArticolo 12\nNessun individuo potrà essere sottoposto ad interferenze arbitrarie nella sua vita privata, nella sua famiglia,\nnella sua casa, nella sua corrispondenza, né a lesione del suo onore e della sua reputazione. Ogni individuo\nha diritto ad essere tutelato dalla legge contro tali interferenze o lesioni.\nArticolo 13\nOgni individuo ha diritto alla libertà di movimento e di residenza entro i confini di ogni Stato.\nOgni individuo ha diritto di lasciare qualsiasi paese, incluso il proprio, e di ritornare nel proprio paese."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "04f8c59453bea127c3013c435344a644",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Articolo 14\nOgni individuo ha il diritto di cercare e di godere in altri paesi asilo dalle persecuzioni.\nQuesto diritto non potrà essere invocato qualora l'individuo sia realmente ricercato per reati non politici o per\nazioni contrarie ai fini e ai principi delle Nazioni Unite.\nArticolo 15\nOgni individuo ha diritto ad una cittadinanza.\nNessun individuo potrà essere arbitrariamente privato della sua cittadinanza, né del diritto di mutare\ncittadinanza.\nArticolo 16\nUomini e donne in età adatta hanno il diritto di sposarsi e di fondare una famiglia, senza alcuna limitazione\ndi razza, cittadinanza o religione. Essi hanno eguali diritti riguardo al matrimonio, durante il matrimonio e\nall'atto del suo scioglimento.\nIl matrimonio potrà essere concluso soltanto con il libero e pieno consenso dei futuri coniugi.\nLa famiglia è il nucleo naturale e fondamentale della società e ha diritto ad essere protetta dalla società e\ndallo Stato.\nArticolo 17\nOgni individuo ha il diritto ad avere una proprietà sua personale o in comune con altri.\nNessun individuo potrà essere arbitrariamente privato della sua proprietà.\nArticolo 18",
-            "Image": "04f8c59453bea127c3013c435344a644"
+            "Text": "Articolo 14\nOgni individuo ha il diritto di cercare e di godere in altri paesi asilo dalle persecuzioni.\nQuesto diritto non potrà essere invocato qualora l'individuo sia realmente ricercato per reati non politici o per\nazioni contrarie ai fini e ai principi delle Nazioni Unite.\nArticolo 15\nOgni individuo ha diritto ad una cittadinanza.\nNessun individuo potrà essere arbitrariamente privato della sua cittadinanza, né del diritto di mutare\ncittadinanza.\nArticolo 16\nUomini e donne in età adatta hanno il diritto di sposarsi e di fondare una famiglia, senza alcuna limitazione\ndi razza, cittadinanza o religione. Essi hanno eguali diritti riguardo al matrimonio, durante il matrimonio e\nall'atto del suo scioglimento.\nIl matrimonio potrà essere concluso soltanto con il libero e pieno consenso dei futuri coniugi.\nLa famiglia è il nucleo naturale e fondamentale della società e ha diritto ad essere protetta dalla società e\ndallo Stato.\nArticolo 17\nOgni individuo ha il diritto ad avere una proprietà sua personale o in comune con altri.\nNessun individuo potrà essere arbitrariamente privato della sua proprietà.\nArticolo 18"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "c624bcd22c6a9d28cb224bcc477e2619",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Ogni individuo ha diritto alla libertà di pensiero, di coscienza e di religione; tale diritto include la libertà di\ncambiare di religione o di credo, e la libertà di manifestare, isolatamente o in comune, e sia in pubblico che\nin privato, la propria religione o il proprio credo nell'insegnamento, nelle pratiche, nel culto e nell'osservanza\ndei riti.\nArticolo 19\nOgni individuo ha diritto alla libertà di opinione e di espressione incluso il diritto di non essere molestato per\nla propria opinione e quello di cercare, ricevere e diffondere informazioni e idee attraverso ogni mezzo e\nsenza riguardo a frontiere.\nArticolo 20\nOgni individuo ha diritto alla libertà di riunione e di associazione pacifica.\nNessuno può essere costretto a far parte di un'associazione.\nArticolo 21\nOgni individuo ha diritto di partecipare al governo del proprio paese, sia direttamente, sia attraverso\nrappresentanti liberamente scelti.\nOgni individuo ha diritto di accedere in condizioni di eguaglianza ai pubblici impieghi del proprio paese.\nLa volontà popolare è il fondamento dell'autorità del governo; tale volontà deve essere espressa attraverso\nperiodiche e veritiere elezioni, effettuate a suffragio universale ed eguale, ed a voto segreto, o secondo una\nprocedura equivalente di libera votazione.\nArticolo 22\nOgni individuo, in quanto membro della società, ha diritto alla sicurezza sociale, nonché alla realizzazione",
-            "Image": "c624bcd22c6a9d28cb224bcc477e2619"
+            "Text": "Ogni individuo ha diritto alla libertà di pensiero, di coscienza e di religione; tale diritto include la libertà di\ncambiare di religione o di credo, e la libertà di manifestare, isolatamente o in comune, e sia in pubblico che\nin privato, la propria religione o il proprio credo nell'insegnamento, nelle pratiche, nel culto e nell'osservanza\ndei riti.\nArticolo 19\nOgni individuo ha diritto alla libertà di opinione e di espressione incluso il diritto di non essere molestato per\nla propria opinione e quello di cercare, ricevere e diffondere informazioni e idee attraverso ogni mezzo e\nsenza riguardo a frontiere.\nArticolo 20\nOgni individuo ha diritto alla libertà di riunione e di associazione pacifica.\nNessuno può essere costretto a far parte di un'associazione.\nArticolo 21\nOgni individuo ha diritto di partecipare al governo del proprio paese, sia direttamente, sia attraverso\nrappresentanti liberamente scelti.\nOgni individuo ha diritto di accedere in condizioni di eguaglianza ai pubblici impieghi del proprio paese.\nLa volontà popolare è il fondamento dell'autorità del governo; tale volontà deve essere espressa attraverso\nperiodiche e veritiere elezioni, effettuate a suffragio universale ed eguale, ed a voto segreto, o secondo una\nprocedura equivalente di libera votazione.\nArticolo 22\nOgni individuo, in quanto membro della società, ha diritto alla sicurezza sociale, nonché alla realizzazione"
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "bb6757d2b6456c141ca7cd9be05b801d",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "attraverso lo sforzo nazionale e la cooperazione internazionale ed in rapporto con l'organizzazione e le\nrisorse di ogni Stato, dei diritti economici, sociali e culturali indispensabili alla sua dignità ed al libero\nsviluppo della sua personalità.\nArticolo 23\nOgni individuo ha diritto al lavoro, alla libera scelta dell'impiego, a giuste e soddisfacenti condizioni di\nlavoro ed alla protezione contro la disoccupazione.\nOgni individuo, senza discriminazione, ha diritto ad eguale retribuzione per eguale lavoro.\nOgni individuo che lavora ha diritto ad una rimunerazione equa e soddisfacente che assicuri a lui stesso e alla\nsua famiglia una esistenza conforme alla dignità umana ed integrata, se necessario, da altri mezzi di\nprotezione sociale.\nOgni individuo ha diritto di fondare dei sindacati e di aderirvi per la difesa dei propri interessi.\nArticolo 24\nOgni individuo ha diritto al riposo ed allo svago, comprendendo in ciò una ragionevole limitazione delle ore\ndi lavoro e ferie periodiche retribuite.\nArticolo 25\nOgni individuo ha diritto ad un tenore di vita sufficiente a garantire la salute e il benessere proprio e della sua\nfamiglia, con particolare riguardo all'alimentazione, al vestiario, all'abitazione, e alle cure mediche e ai\nservizi sociali necessari; ed ha diritto alla sicurezza in caso di disoccupazione, malattia, invalidità,\nvedovanza, vecchiaia o in altro caso di perdita di mezzi di sussistenza per circostanze indipendenti dalla sua\nvolontà.",
-            "Image": "bb6757d2b6456c141ca7cd9be05b801d"
+            "Text": "attraverso lo sforzo nazionale e la cooperazione internazionale ed in rapporto con l'organizzazione e le\nrisorse di ogni Stato, dei diritti economici, sociali e culturali indispensabili alla sua dignità ed al libero\nsviluppo della sua personalità.\nArticolo 23\nOgni individuo ha diritto al lavoro, alla libera scelta dell'impiego, a giuste e soddisfacenti condizioni di\nlavoro ed alla protezione contro la disoccupazione.\nOgni individuo, senza discriminazione, ha diritto ad eguale retribuzione per eguale lavoro.\nOgni individuo che lavora ha diritto ad una rimunerazione equa e soddisfacente che assicuri a lui stesso e alla\nsua famiglia una esistenza conforme alla dignità umana ed integrata, se necessario, da altri mezzi di\nprotezione sociale.\nOgni individuo ha diritto di fondare dei sindacati e di aderirvi per la difesa dei propri interessi.\nArticolo 24\nOgni individuo ha diritto al riposo ed allo svago, comprendendo in ciò una ragionevole limitazione delle ore\ndi lavoro e ferie periodiche retribuite.\nArticolo 25\nOgni individuo ha diritto ad un tenore di vita sufficiente a garantire la salute e il benessere proprio e della sua\nfamiglia, con particolare riguardo all'alimentazione, al vestiario, all'abitazione, e alle cure mediche e ai\nservizi sociali necessari; ed ha diritto alla sicurezza in caso di disoccupazione, malattia, invalidità,\nvedovanza, vecchiaia o in altro caso di perdita di mezzi di sussistenza per circostanze indipendenti dalla sua\nvolontà."
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "351e5c59a664d5d2780a0c488cd99c58",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "La maternità e l'infanzia hanno diritto a speciali cure ed assistenza. Tutti i bambini, nati nel matrimonio o\nfuori di esso, devono godere della stessa protezione sociale.\nArticolo 26\nOgni individuo ha diritto all'istruzione. L'istruzione deve essere gratuita almeno per quanto riguarda le classi\nelementari e fondamentali. L'istruzione elementare deve essere obbligatoria. L'istruzione tecnica e\nprofessionale deve essere messa alla portata di tutti e l'istruzione superiore deve essere egualmente\naccessibile a tutti sulla base del merito.\nL'istruzione deve essere indirizzata al pieno sviluppo della personalità umana ed al rafforzamento del rispetto\ndei diritti umani e delle libertà fondamentali. Essa deve promuovere la comprensione, la tolleranza, l'amicizia\nfra tutte le Nazioni, i gruppi razziali e religiosi, e deve favorire l'opera delle Nazioni Unite per il\nmantenimento della pace.\nI genitori hanno diritto di priorità nella scelta del genere di istruzione da impartire ai loro figli.\nArticolo 27\nOgni individuo ha diritto di prendere parte liberamente alla vita culturale della comunità, di godere delle arti\ne di partecipare al progresso scientifico ed ai suoi benefici.\nOgni individuo ha diritto alla protezione degli interessi morali e materiali derivanti da ogni produzione\nscientifica, letteraria e artistica di cui egli sia autore.\nArticolo 28\nOgni individuo ha diritto ad un ordine sociale e internazionale nel quale i diritti e le libertà enunciati in\nquesta Dichiarazione possano essere pienamente realizzati.",
-            "Image": "351e5c59a664d5d2780a0c488cd99c58"
+            "Text": "La maternità e l'infanzia hanno diritto a speciali cure ed assistenza. Tutti i bambini, nati nel matrimonio o\nfuori di esso, devono godere della stessa protezione sociale.\nArticolo 26\nOgni individuo ha diritto all'istruzione. L'istruzione deve essere gratuita almeno per quanto riguarda le classi\nelementari e fondamentali. L'istruzione elementare deve essere obbligatoria. L'istruzione tecnica e\nprofessionale deve essere messa alla portata di tutti e l'istruzione superiore deve essere egualmente\naccessibile a tutti sulla base del merito.\nL'istruzione deve essere indirizzata al pieno sviluppo della personalità umana ed al rafforzamento del rispetto\ndei diritti umani e delle libertà fondamentali. Essa deve promuovere la comprensione, la tolleranza, l'amicizia\nfra tutte le Nazioni, i gruppi razziali e religiosi, e deve favorire l'opera delle Nazioni Unite per il\nmantenimento della pace.\nI genitori hanno diritto di priorità nella scelta del genere di istruzione da impartire ai loro figli.\nArticolo 27\nOgni individuo ha diritto di prendere parte liberamente alla vita culturale della comunità, di godere delle arti\ne di partecipare al progresso scientifico ed ai suoi benefici.\nOgni individuo ha diritto alla protezione degli interessi morali e materiali derivanti da ogni produzione\nscientifica, letteraria e artistica di cui egli sia autore.\nArticolo 28\nOgni individuo ha diritto ad un ordine sociale e internazionale nel quale i diritti e le libertà enunciati in\nquesta Dichiarazione possano essere pienamente realizzati."
         },
         "8": {
-            "Label": "9",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "93847977f52d7faeb612d7046e12d7d5",
             "Index": 8,
+            "Label": "9",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Articolo 29\nOgni individuo ha dei doveri verso la comunità, nella quale soltanto è possibile il libero e pieno sviluppo\ndella sua personalità.\nNell'esercizio dei suoi diritti e delle sue libertà, ognuno deve essere sottoposto soltanto a quelle limitazioni\nche sono stabilite dalla legge per assicurare il riconoscimento e il rispetto dei diritti e delle libertà degli altri e\nper soddisfare le giuste esigenze della morale, dell'ordine pubblico e del benessere generale in una società\ndemocratica.\nQuesti diritti e queste libertà non possono in nessun caso essere esercitati in contrasto con i fini e principi\ndelle Nazioni Unite.\nArticolo 30\nNulla nella presente Dichiarazione può essere interpretato nel senso di implicare un diritto di un qualsiasi\nStato, gruppo o persona di esercitare un'attività o di compiere un atto mirante alla distruzione di alcuno dei\ndiritti e delle libertà in essa enunciati.",
-            "Image": "93847977f52d7faeb612d7046e12d7d5"
+            "Text": "Articolo 29\nOgni individuo ha dei doveri verso la comunità, nella quale soltanto è possibile il libero e pieno sviluppo\ndella sua personalità.\nNell'esercizio dei suoi diritti e delle sue libertà, ognuno deve essere sottoposto soltanto a quelle limitazioni\nche sono stabilite dalla legge per assicurare il riconoscimento e il rispetto dei diritti e delle libertà degli altri e\nper soddisfare le giuste esigenze della morale, dell'ordine pubblico e del benessere generale in una società\ndemocratica.\nQuesti diritti e queste libertà non possono in nessun caso essere esercitati in contrasto con i fini e principi\ndelle Nazioni Unite.\nArticolo 30\nNulla nella presente Dichiarazione può essere interpretato nel senso di implicare un diritto di un qualsiasi\nStato, gruppo o persona di esercitare un'attività o di compiere un atto mirante alla distruzione di alcuno dei\ndiritti e delle libertà in essa enunciati."
         }
     }
 }

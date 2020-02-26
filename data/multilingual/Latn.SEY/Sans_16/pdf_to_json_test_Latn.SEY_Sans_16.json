@@ -1,126 +1,126 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581470450,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
-            "Index": 0,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
             ],
-            "Text": "SIAYËKEMACA SIABAI KËOJËNA KAYAYE KUI'NE JËNA, PAIYE KAWESOSE'EPI SIAYE TUTU\nPAYE JAI TSUTSUPËA OMETËKANA\nNUÑEREPA SIA'WE'ÑA CAHUESOSE'E MAI PAl kËkOPAYE\nKaya jëña kou Këna ometëkawë sia'we'ña sewojë kui'ne canëowë̱ si'aye pai paija'ñe tutukë'ye, i̱ ti këaye kato\npai'ji iye ñese saieoni. Icona tsoe paikona ñajë, jaipai tsi'sisito kakua'i se̱ ñë i̱ ti toyapëpë këawesojë'ë sia'we'ña,\njamaka ñasiko paija'kore siapai, kui'ne këajë paija'cua'ire toyaja'o ye'yewe'ñaje, yeke pa'yea'ë kajë ñañeje\npeoye i̱ wa'i kuasajë nese'e yekë yeja pai̱ .\nJa'a̱ wëoko\nKase'epi de'oye, ko̱ ne kui'ne jeoñe payë jaje, sia'we'ña ñase'erepare sa'nawë payë sia'yë'kë maka tutu, kui'ne\nsioma'ñerepare sia'pai tsëkapë pai'ye.\nJaje paikëta'a kuasayë ñama'ayepi kui'ne oima'ayepi, pa'iji sia'paire, japi ai jaiye ñese saniwesëji pai pa'ijë\nkuasaye, kui'ne aijerepa kawesose'pi, jaje pa'ina kokase'e kayë de'oye pa'iye kui'ne de'oye pa'iyë kuasajë\nsewoye.\nJaje paise're yure kato ñasikua'irepa kui'ne këkopakua'i pa'iye pa'iji, kua'ye pa'ise'e jeoni paimakata'a pa'iye\npa'iji nejo ma'kua'i.\nJamakata'à ñese de'oyerepa ñese saiyë siwajë kui'ne pa'iyë yekëwe'ña ñasikua'irepa.\nYekëwe'na yejaña kato de'oyerepa kuasani kuinaoni kanëowesëwë. Toya ja'wana pai tutukëiwa'i paija'ne,\nde'oyerepa kui'ne iwa'irepa'ë kajë, si'ayëkëmaka ëmëowa'i kui'ne nomiowa'ije koni, tsoe jaje pa'ina\njeowesowë ai jai kore, de'oye pa'iyerepare kasikua.\nIye kuasaye cato sewosikua kadëowesëja'core, oiyerepapi si'aye kuasajë, tsi'sisikua'ija're kawesë ja'ñe, si'aye",
-            "Image": "246dec068fd60865ae346c01d73acf21"
+            "Image": "246dec068fd60865ae346c01d73acf21",
+            "Index": 0,
+            "Label": "1",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "SIAYËKEMACA SIABAI KËOJËNA KAYAYE KUI'NE JËNA, PAIYE KAWESOSE'EPI SIAYE TUTU\nPAYE JAI TSUTSUPËA OMETËKANA\nNUÑEREPA SIA'WE'ÑA CAHUESOSE'E MAI PAl kËkOPAYE\nKaya jëña kou Këna ometëkawë sia'we'ña sewojë kui'ne canëowë̱ si'aye pai paija'ñe tutukë'ye, i̱ ti këaye kato\npai'ji iye ñese saieoni. Icona tsoe paikona ñajë, jaipai tsi'sisito kakua'i se̱ ñë i̱ ti toyapëpë këawesojë'ë sia'we'ña,\njamaka ñasiko paija'kore siapai, kui'ne këajë paija'cua'ire toyaja'o ye'yewe'ñaje, yeke pa'yea'ë kajë ñañeje\npeoye i̱ wa'i kuasajë nese'e yekë yeja pai̱ .\nJa'a̱ wëoko\nKase'epi de'oye, ko̱ ne kui'ne jeoñe payë jaje, sia'we'ña ñase'erepare sa'nawë payë sia'yë'kë maka tutu, kui'ne\nsioma'ñerepare sia'pai tsëkapë pai'ye.\nJaje paikëta'a kuasayë ñama'ayepi kui'ne oima'ayepi, pa'iji sia'paire, japi ai jaiye ñese saniwesëji pai pa'ijë\nkuasaye, kui'ne aijerepa kawesose'pi, jaje pa'ina kokase'e kayë de'oye pa'iye kui'ne de'oye pa'iyë kuasajë\nsewoye.\nJaje paise're yure kato ñasikua'irepa kui'ne këkopakua'i pa'iye pa'iji, kua'ye pa'ise'e jeoni paimakata'a pa'iye\npa'iji nejo ma'kua'i.\nJamakata'à ñese de'oyerepa ñese saiyë siwajë kui'ne pa'iyë yekëwe'ña ñasikua'irepa.\nYekëwe'na yejaña kato de'oyerepa kuasani kuinaoni kanëowesëwë. Toya ja'wana pai tutukëiwa'i paija'ne,\nde'oyerepa kui'ne iwa'irepa'ë kajë, si'ayëkëmaka ëmëowa'i kui'ne nomiowa'ije koni, tsoe jaje pa'ina\njeowesowë ai jai kore, de'oye pa'iyerepare kasikua.\nIye kuasaye cato sewosikua kadëowesëja'core, oiyerepapi si'aye kuasajë, tsi'sisikua'ija're kawesë ja'ñe, si'aye"
         },
         "1": {
-            "Label": "2",
-            "Index": 1,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
             ],
-            "Text": "oiye kui'ne tutukë'yerepa pa'ija'ñe jamakata'a kuade'oye pa'iye pa'iji pal.\nIye kato kuasase'ea'ë si'aye tutupa'iye, jaje pa'ina iye kato ai de'oyerepa'ë i̱ ti ñese saija'ñere kuasajë\nsewowesëse'ea'ë.\nTsi'sini jai pai koka kako\nJëaye kawesoyë yure\nSi'aye pai̱ tutu pa'iye këawesosikua, ikore kato si'a daripëa kui'ne jaiwe'ñaje nesaoye pa'iji, te'owa'imañaje\nkui'ne kua'me kokaiwe'ñamañaje, ñese saye pa'iji de'oye kajë, jamakata'a si'adaripëa pa'iye pa'iji de'oye\nkui'ne yeja pa'iye co̱ ni këkojë.\nTe'o ako këaye.\nSi'apai aide'oyë kua'ye peoye kui'ne siayë'kë maka pa'iye kui'ne tutupaye koni, jaje kuasase'sëtepi kuaju'i'ne\npeoye ñese saiye pa'iji ko̱ kaijë yekë paireje.\nKayaye ako këaye\nSi'a pai payë tutu kui'ne kua'ye peoye yure ikore ai jëaye kawesosido'ire, jaje pa'ina ñañe peoji yekë paiña'ë\nkajë, iyeje pa'yere, pai̱ , koka, iowa'i pa'iye, kuasaye, pani iyese'e kayepañë kuasia'ye pa'ye, kuri pa'ye,\naideo'ye kui'ne kuasi'aye pa'iye.\nKui'ne yekeje pajakua'ia'ë kaye yeke iwa'i kuasayepi iyea'ë kajë aijaidaripëa sia'we'ñaje panije yeja paiñeje iti\npaipi kuasajë neñe pa'iji, jai daripëa kaye kato te'owaise're kañeje pa'yea'ë, iwa'ise'e kuasayepi nejë.\nToasoñe ako këaye.\nTeo'wa'ije payë de'oye tutu pa'iye, kua'ye peoyeje koni, kui'ne këcojë pai̱ pa'iye.\nKajese'e ako këaye.",
-            "Image": "45cfeaa44407e35eae85b324d3de267c"
+            "Image": "45cfeaa44407e35eae85b324d3de267c",
+            "Index": 1,
+            "Label": "2",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "oiye kui'ne tutukë'yerepa pa'ija'ñe jamakata'a kuade'oye pa'iye pa'iji pal.\nIye kato kuasase'ea'ë si'aye tutupa'iye, jaje pa'ina iye kato ai de'oyerepa'ë i̱ ti ñese saija'ñere kuasajë\nsewowesëse'ea'ë.\nTsi'sini jai pai koka kako\nJëaye kawesoyë yure\nSi'aye pai̱ tutu pa'iye këawesosikua, ikore kato si'a daripëa kui'ne jaiwe'ñaje nesaoye pa'iji, te'owa'imañaje\nkui'ne kua'me kokaiwe'ñamañaje, ñese saye pa'iji de'oye kajë, jamakata'a si'adaripëa pa'iye pa'iji de'oye\nkui'ne yeja pa'iye co̱ ni këkojë.\nTe'o ako këaye.\nSi'apai aide'oyë kua'ye peoye kui'ne siayë'kë maka pa'iye kui'ne tutupaye koni, jaje kuasase'sëtepi kuaju'i'ne\npeoye ñese saiye pa'iji ko̱ kaijë yekë paireje.\nKayaye ako këaye\nSi'a pai payë tutu kui'ne kua'ye peoye yure ikore ai jëaye kawesosido'ire, jaje pa'ina ñañe peoji yekë paiña'ë\nkajë, iyeje pa'yere, pai̱ , koka, iowa'i pa'iye, kuasaye, pani iyese'e kayepañë kuasia'ye pa'ye, kuri pa'ye,\naideo'ye kui'ne kuasi'aye pa'iye.\nKui'ne yekeje pajakua'ia'ë kaye yeke iwa'i kuasayepi iyea'ë kajë aijaidaripëa sia'we'ñaje panije yeja paiñeje iti\npaipi kuasajë neñe pa'iji, jai daripëa kaye kato te'owaise're kañeje pa'yea'ë, iwa'ise'e kuasayepi nejë.\nToasoñe ako këaye.\nTeo'wa'ije payë de'oye tutu pa'iye, kua'ye peoyeje koni, kui'ne këcojë pai̱ pa'iye.\nKajese'e ako këaye."
         },
         "2": {
-            "Label": "3",
-            "Index": 2,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
             ],
-            "Text": "Si'awa'i pa'iye peoji kua'ye jëaye pa'ye kajë, kui'ne kua'ye yo'okuañuñeje peoji, iye kato ësese'ea'ë sia'ye\npa'ye.\nTe'jëtë ako këaye.\nJare si'apai kua'ye yo'okuañoñe tipeoji, të'caye, tseañe, wanijeañe panije ai kuaye pa'ye.\nTe'e jëtë Ëjatupë këako.\nSi'apai payë tutu, sia'we'ña kui'ne ñakuañuñeje pa'iji pai karepase'e pa'iye.\nËjatupë kënope.\nSi'apai pa'iyë sia'yë'këmaca kui'ne payë yekua'ia'ë kaye peoye, jaje pa'ina Si'awa'i payë tutu karepaye akëpai\nkë'ro. Jaje pa'ina mai̱ tutu payepi de'oye pa'iyepa'iji, tsoe ikore kawesosidoipi kokaiji kua'ye kaye peoye\npa'ija'ñe.\nKayaye te'ejëtë ako këaye.\nSi'a pai tutu payë de'oye pa'iyere kuasajë yekëwe'ña sañupe kajë, mai̱ kase'pi kokaijakë kua'ye yo'oma'kuai'ni\nkajë mai tutu kë'ye paiye, jeje paina maire toyapëpëpi kakorepa pa'ijakë.\nTe'e jëña Ëjatupë peoye këako.\nJare peoji mal tsea kuañuñe.\nKaya jëña ako këako.\nSi'a pai payë deoye paiye, si'ayë'këmaka paiye, jamakata'a sia'we'ña asasaoye pa'iji kui'ne oirepayepi kua'ye\npaise'eje carojaiye pa'iji kui'ne kuañeñe paiji neñañe paiji kuasia'ye pa'ye iti kase'e sa'ñe pa'iye.\nKayajëña te'o ako këako",
-            "Image": "66993aecb45944378c698ee6657ba8bc"
+            "Image": "66993aecb45944378c698ee6657ba8bc",
+            "Index": 2,
+            "Label": "3",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Si'awa'i pa'iye peoji kua'ye jëaye pa'ye kajë, kui'ne kua'ye yo'okuañuñeje peoji, iye kato ësese'ea'ë sia'ye\npa'ye.\nTe'jëtë ako këaye.\nJare si'apai kua'ye yo'okuañoñe tipeoji, të'caye, tseañe, wanijeañe panije ai kuaye pa'ye.\nTe'e jëtë Ëjatupë këako.\nSi'apai payë tutu, sia'we'ña kui'ne ñakuañuñeje pa'iji pai karepase'e pa'iye.\nËjatupë kënope.\nSi'apai pa'iyë sia'yë'këmaca kui'ne payë yekua'ia'ë kaye peoye, jaje pa'ina Si'awa'i payë tutu karepaye akëpai\nkë'ro. Jaje pa'ina mai̱ tutu payepi de'oye pa'iyepa'iji, tsoe ikore kawesosidoipi kokaiji kua'ye kaye peoye\npa'ija'ñe.\nKayaye te'ejëtë ako këaye.\nSi'a pai tutu payë de'oye pa'iyere kuasajë yekëwe'ña sañupe kajë, mai̱ kase'pi kokaijakë kua'ye yo'oma'kuai'ni\nkajë mai tutu kë'ye paiye, jeje paina maire toyapëpëpi kakorepa pa'ijakë.\nTe'e jëña Ëjatupë peoye këako.\nJare peoji mal tsea kuañuñe.\nKaya jëña ako këako.\nSi'a pai payë deoye paiye, si'ayë'këmaka paiye, jamakata'a sia'we'ña asasaoye pa'iji kui'ne oirepayepi kua'ye\npaise'eje carojaiye pa'iji kui'ne kuañeñe paiji neñañe paiji kuasia'ye pa'ye iti kase'e sa'ñe pa'iye.\nKayajëña te'o ako këako"
         },
         "3": {
-            "Label": "4",
-            "Index": 3,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
             ],
-            "Text": "Si'a pai kua'ye yo'o sikua'i payë tutu iwa'i yo'ose'e jayuta'a iti ñati'añe pa'iji do'ikë'ye, i̱ ti kase'je paiye, kui'ne\nkaye paiji sia'we'ña jamaka kase'repa pa'iji tutu pa'ye.\nSi'a pal peoji kua'ye paye painije siokuañuñe ja yuta'a ñati'ama'maka kato, jaje pa'iji tutu pa'ye yekë daripëa\npaiyeje. Jaje paina peoji maipi caye de'oye nede'waë'ëje pa'yere aijerepa kua'yena saiye peoye.\nKaya jëñà kayaye ako këaye.\nMai teowa'i paiye kato peoji kaye kua'maña'ë kajë ñese kaye, mai tsëkapëreje, mai paiwe'ñaje panije ise'e\npa'ito peoji kua'aye neñeje peoji i̱ pi kuasakë pa'iye. Jaje pa'ina si'a pai̱ payë de'oye pa'iye, jaje paina nejo\njeoñe paiji kua'ye paise'e.\nKaya jëna kayaye te'o kako këaye.\nSi 'a pai̱ payë deoye daoye sia'we'ña kui'neje yeja pëañeje koni.\nSi 'a pai payë tutu kuasi'adaripëa, ipaidaripë, jaje saisikëre ta'a ko'iye pa'iji i mai̱ daripëna.\nKaya jëña Ëjatupë peoko ako këaye.\nKue'kua'i pa'ito, sia'pai payë tutu kë'ye payë katiye paiji kuasia'yejaña, jamaka siwajë pa'iye pai'ji i̱ ti ku'ase'e.\nIye pa'ye kato peoji sa'ñe kua'ye neñe, kua'ye payena, panije sa'ñe kayeje peoji yekë jaiwe'ña pai yejaña'ë\nkajë.\nKaya jëña yekë jëtë ako këaye.\nSi 'a paije tutu payë pai paiyerepa\nJare peoji ëseye i pa'iwe'ña yeja akëre, yekeje tipeoji kaye yëkë pa'iñeje paijë'ë kajë.\nKaya jëña yekë jëtë te'o ako këaye.",
-            "Image": "e3c0c0464b19d59eae3f1a3c578cd348"
+            "Image": "e3c0c0464b19d59eae3f1a3c578cd348",
+            "Index": 3,
+            "Label": "4",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Si'a pai kua'ye yo'o sikua'i payë tutu iwa'i yo'ose'e jayuta'a iti ñati'añe pa'iji do'ikë'ye, i̱ ti kase'je paiye, kui'ne\nkaye paiji sia'we'ña jamaka kase'repa pa'iji tutu pa'ye.\nSi'a pal peoji kua'ye paye painije siokuañuñe ja yuta'a ñati'ama'maka kato, jaje pa'iji tutu pa'ye yekë daripëa\npaiyeje. Jaje paina peoji maipi caye de'oye nede'waë'ëje pa'yere aijerepa kua'yena saiye peoye.\nKaya jëñà kayaye ako këaye.\nMai teowa'i paiye kato peoji kaye kua'maña'ë kajë ñese kaye, mai tsëkapëreje, mai paiwe'ñaje panije ise'e\npa'ito peoji kua'aye neñeje peoji i̱ pi kuasakë pa'iye. Jaje pa'ina si'a pai̱ payë de'oye pa'iye, jaje paina nejo\njeoñe paiji kua'ye paise'e.\nKaya jëna kayaye te'o kako këaye.\nSi 'a pai̱ payë deoye daoye sia'we'ña kui'neje yeja pëañeje koni.\nSi 'a pai payë tutu kuasi'adaripëa, ipaidaripë, jaje saisikëre ta'a ko'iye pa'iji i mai̱ daripëna.\nKaya jëña Ëjatupë peoko ako këaye.\nKue'kua'i pa'ito, sia'pai payë tutu kë'ye payë katiye paiji kuasia'yejaña, jamaka siwajë pa'iye pai'ji i̱ ti ku'ase'e.\nIye pa'ye kato peoji sa'ñe kua'ye neñe, kua'ye payena, panije sa'ñe kayeje peoji yekë jaiwe'ña pai yejaña'ë\nkajë.\nKaya jëña yekë jëtë ako këaye.\nSi 'a paije tutu payë pai paiyerepa\nJare peoji ëseye i pa'iwe'ña yeja akëre, yekeje tipeoji kaye yëkë pa'iñeje paijë'ë kajë.\nKaya jëña yekë jëtë te'o ako këaye."
         },
         "4": {
-            "Label": "5",
-            "Index": 4,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
             ],
-            "Text": "Ëmëowa'i kui'ne nomiowa'i, jayuta'a ëañawëomakapi tsoe payë tutu, kaye peoji kaje paiña'ë, iti pai'ë kajë\nwejaye, jamaka wejani siwajë pa'iye pa'iji kuineje pa'iji jeokoni de'oye pa'iye itibi jaje pa'ito.\nIwa'ise'e kuasajë kui'ne ëjëpaija'këpi kuasani wejaye pa'iji.\nPai̱ tsëkapë Kato de'oye paiyere'pa'ë jaje paina ñacairepayë sia'we'ña akë pa'ije.\nKaya jëña yekë jëtëkayaye ako këaye.\nSi'a pai payë tutu pa'iye yeja, te'iwa'i kui'ne si'apai de'otsëcapëa.\nJare peoji yë'ë tsekua yeja kajë ëseye.\nKaya jëña yekë jëtëkayaye te'o ako këaye\nSi'apai payë iwa'ise'e kuasaye, iwa'i paiye, iye Kato pa'iji si'aye nedewaye iti sewoye, kui'ne koka kaye\nkuasia'ye sia'we'ña paiwe'ñana, panije te'owa'ise'e pa'iwe'ñaje koni, iti ye'yayepi, neñañepi, sewoyepi kui'ne\nñasaoyepi, iyepi pa'iji maire de'oye saye.\nKaya jëña yekë nëkayo beoko ako këaye.\nTe'owa'ije de'oye payë iwa'ise'e kuasaye kui'ne koka kayeje, iyepi tsi'siji kua'ye pa'ije, josa kakuañujë\npaima'ñe kui'ne japi kawesorepaye pa'iji, yekeje kaye peoji ikoja'a pa'iji kaye, iyese'e kaye paji, kuasi'aye\nde'oye saija'ñere.\nJëña-nëkañua\nSi'awa'i te'owaise'e tsi'sini koka kaye payë kuasia'hue'ña.\nJare peoji kuañeñe yekë tsëkapëna tsioni paiye.\nJëna-nëkañua - te'o",
-            "Image": "c889c1254d6c60060df891a91eca5ff9"
+            "Image": "c889c1254d6c60060df891a91eca5ff9",
+            "Index": 4,
+            "Label": "5",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Ëmëowa'i kui'ne nomiowa'i, jayuta'a ëañawëomakapi tsoe payë tutu, kaye peoji kaje paiña'ë, iti pai'ë kajë\nwejaye, jamaka wejani siwajë pa'iye pa'iji kuineje pa'iji jeokoni de'oye pa'iye itibi jaje pa'ito.\nIwa'ise'e kuasajë kui'ne ëjëpaija'këpi kuasani wejaye pa'iji.\nPai̱ tsëkapë Kato de'oye paiyere'pa'ë jaje paina ñacairepayë sia'we'ña akë pa'ije.\nKaya jëña yekë jëtëkayaye ako këaye.\nSi'a pai payë tutu pa'iye yeja, te'iwa'i kui'ne si'apai de'otsëcapëa.\nJare peoji yë'ë tsekua yeja kajë ëseye.\nKaya jëña yekë jëtëkayaye te'o ako këaye\nSi'apai payë iwa'ise'e kuasaye, iwa'i paiye, iye Kato pa'iji si'aye nedewaye iti sewoye, kui'ne koka kaye\nkuasia'ye sia'we'ña paiwe'ñana, panije te'owa'ise'e pa'iwe'ñaje koni, iti ye'yayepi, neñañepi, sewoyepi kui'ne\nñasaoyepi, iyepi pa'iji maire de'oye saye.\nKaya jëña yekë nëkayo beoko ako këaye.\nTe'owa'ije de'oye payë iwa'ise'e kuasaye kui'ne koka kayeje, iyepi tsi'siji kua'ye pa'ije, josa kakuañujë\npaima'ñe kui'ne japi kawesorepaye pa'iji, yekeje kaye peoji ikoja'a pa'iji kaye, iyese'e kaye paji, kuasi'aye\nde'oye saija'ñere.\nJëña-nëkañua\nSi'awa'i te'owaise'e tsi'sini koka kaye payë kuasia'hue'ña.\nJare peoji kuañeñe yekë tsëkapëna tsioni paiye.\nJëna-nëkañua - te'o"
         },
         "5": {
-            "Label": "6",
-            "Index": 5,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
             ],
-            "Text": "Si'a pai payë tsiojaiye mai akërepa kë'ro, ikë'rorepana te'repapi panije yekë paija're koni iti ñakëja're.\nSi'a pai tutupayë si'ayëkëmaka paiye kua'me nedojaye mai paiwe'ña yeja.\nItidaripëa paikua'i kato payë sia'we'ña akua'i kayere, iye kato kokaiji kaji mai ëjaëwa'irepare mëojë saiyere,\niti mëoñe kato neñë yawese're, japi kokaiji de'oye karepayepi mëose'e.\nJëña-nëkañua kayaye\nSi'a pai, ititsëkapëje paiwa'i payë kadëose'repare kuasi'aye kui'ne jaje pa'ina si'a akëpai kokaiye paiji, ja tutu\ndo'ire kuasajë, jaje pa'ina tsoe kuasase'pi kuri pa'iye, kuasi'aye kui'ne maipaiye, iye kato mai kuasayepi\nnesaojë paiye paiji sia'yëkë maca pa'yepi .\nJëña-nëkañua toasoñe\nSi'a pai payë kua'me nedojaiye kuasia'we'ña, iwa'i yëyepi tia'ñe paiji kua'meneñe, jaje paikëreta'a\nsi'ayë'këmaka paipi, jaje paina kua'ju'iñe peoye kua'me newe'ña tra' ni, nejë pai'ye baiji, peokua'i pa'iye peoji.\nSi'a pai payë kui'ne pa'ye tutu, jaje pa'ina kui'ne ja'ñe kua'meneñe ti'añe pa'iji.\nSi'a pai kua'me neñe tutu payë kui'ne ja'ñe pa'yë, jaje pa'ido'irekui'ne ja'ñe kuri neñepa'iji, nede'huase'e pa'ina\nde'oye mai tsëcapëje deo'ye kuasajë baija'ñe, io paire kañeje paiye, yekebi karasiko pa'ito neti'añe pa'iji.\nSi'a pai payë tutu iwai'pi kuasajë tsi'sini neñe, iwa'i yëyere.\nJëña-nëkañua Kajese'e\nSi'a pai payë tutu kua pëawajëjë pa'iye, siwajë pa'iye ioja'ye kua'mene' ometëkawë ti̱ a'seja'ye kui'ne iye pa'iye\nkato sa'ñeñe pa'iji.\nJëña-nëkañua jëtëna",
-            "Image": "aa5d0c709688920ba7ec8727c5c98a18"
+            "Image": "aa5d0c709688920ba7ec8727c5c98a18",
+            "Index": 5,
+            "Label": "6",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Si'a pai payë tsiojaiye mai akërepa kë'ro, ikë'rorepana te'repapi panije yekë paija're koni iti ñakëja're.\nSi'a pai tutupayë si'ayëkëmaka paiye kua'me nedojaye mai paiwe'ña yeja.\nItidaripëa paikua'i kato payë sia'we'ña akua'i kayere, iye kato kokaiji kaji mai ëjaëwa'irepare mëojë saiyere,\niti mëoñe kato neñë yawese're, japi kokaiji de'oye karepayepi mëose'e.\nJëña-nëkañua kayaye\nSi'a pai, ititsëkapëje paiwa'i payë kadëose'repare kuasi'aye kui'ne jaje pa'ina si'a akëpai kokaiye paiji, ja tutu\ndo'ire kuasajë, jaje pa'ina tsoe kuasase'pi kuri pa'iye, kuasi'aye kui'ne maipaiye, iye kato mai kuasayepi\nnesaojë paiye paiji sia'yëkë maca pa'yepi .\nJëña-nëkañua toasoñe\nSi'a pai payë kua'me nedojaiye kuasia'we'ña, iwa'i yëyepi tia'ñe paiji kua'meneñe, jaje paikëreta'a\nsi'ayë'këmaka paipi, jaje paina kua'ju'iñe peoye kua'me newe'ña tra' ni, nejë pai'ye baiji, peokua'i pa'iye peoji.\nSi'a pai payë kui'ne pa'ye tutu, jaje pa'ina kui'ne ja'ñe kua'meneñe ti'añe pa'iji.\nSi'a pai kua'me neñe tutu payë kui'ne ja'ñe pa'yë, jaje pa'ido'irekui'ne ja'ñe kuri neñepa'iji, nede'huase'e pa'ina\nde'oye mai tsëcapëje deo'ye kuasajë baija'ñe, io paire kañeje paiye, yekebi karasiko pa'ito neti'añe pa'iji.\nSi'a pai payë tutu iwai'pi kuasajë tsi'sini neñe, iwa'i yëyere.\nJëña-nëkañua Kajese'e\nSi'a pai payë tutu kua pëawajëjë pa'iye, siwajë pa'iye ioja'ye kua'mene' ometëkawë ti̱ a'seja'ye kui'ne iye pa'iye\nkato sa'ñeñe pa'iji.\nJëña-nëkañua jëtëna"
         },
         "6": {
-            "Label": "7",
-            "Index": 6,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
             ],
-            "Text": "Si'a pai payë mai paiye kadëose'repare, iye pa'yere, mai pai, jujukaiwe'ña kui'ne de'oye paiye sia'ye, ao̱ aiñe,\nkaña ju'iye, wë'ña pa'iye, juikua'ire jujukaiye kui'ne kuasia'ye, yeke payë kui'ne pa'ye kua'me newe'ña\npaiwe'ña peoye, juidawë, do'ima'pai, aipë maña, iyese'e paiyeje pani kuasia'ye iwa'i te'owa'i pa'iñeje pa'ye.\nKui'neje pa'ye ëtapë këiwa'i kui'ne tsi mana payë tutu de'oye kokaiyere. Si'a tsi wejani aidewasicoa'i panije\nkua aide'wakua'nusikua'i payë kui'ne pa'i tuture.\nJëña-nëkañua jëtëna te'o\nSi'apa̱ i payë kui'neja'ñe totyaja'o ye'yeye. Toyaja'o ye'yeye kato peoji doiye ja'a ye'yehuëje pa'ye kato. Ja'a\nye'yewëoye kato ai kuañeñe paijija'kua. Kui'ne toyaja'o nekaikua'repare kato ai jaiye nesaose'e pa'ijakua,\nkui'ne aijerepa aye toyaja'o ye' yeye kato' kui'ne paiji sia'waire, io̱ ai do'iko do'ire.\nToyaja'o ye'yeye kato mai pai de'oyerepa pa'ija'ñea'ë, jaje paina toyaja'o kato itirepa'ë sia'we'ña mai kua'ju'ijë\npa'iye, de'oye pa'iyë kajë, paire sa'ñe oijë koka kaye, japi pa'ina mai̱ ñese saiye pa'iji, siwajë.\nPëkaja'këpi ñani tseañe paiji toyaja'o ye'yeye i mamakëre kokaiyere kuasani.\nJëña-nëkañua jëtëna kayaye\nMai aipë ukujë paise'e sia paije payë ukuye mai pa'idaripëakë'ro, siwajë mai tsea'ë kuasajë kui'ne tideo'ye\npaito tia'ñepa'iji.\nSi'a pai payë iwa'i yëyepi toyaja'o nesaoye, iwa'i kuasayepi, netijini jaiye toyapëpëa etosaoye, jaje paita'are\nte'owa'ise'e paye pa'iji iti toyapë akë.\nJëña-nëkañua jëtëna- toasone.\nIye maire carepawesose'e kato si'a pai tutu paye pa'iji yekë yejaña kë'roje ñase'repa, jaje paina itirepa pa'iye\npaiji iye.",
-            "Image": "57d9e1e4f58621e2a57164f4eeaaf7ec"
-        },
-        "7": {
-            "Label": "8",
-            "Index": 7,
+            "Image": "57d9e1e4f58621e2a57164f4eeaaf7ec",
+            "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
+            "Text": "Si'a pai payë mai paiye kadëose'repare, iye pa'yere, mai pai, jujukaiwe'ña kui'ne de'oye paiye sia'ye, ao̱ aiñe,\nkaña ju'iye, wë'ña pa'iye, juikua'ire jujukaiye kui'ne kuasia'ye, yeke payë kui'ne pa'ye kua'me newe'ña\npaiwe'ña peoye, juidawë, do'ima'pai, aipë maña, iyese'e paiyeje pani kuasia'ye iwa'i te'owa'i pa'iñeje pa'ye.\nKui'neje pa'ye ëtapë këiwa'i kui'ne tsi mana payë tutu de'oye kokaiyere. Si'a tsi wejani aidewasicoa'i panije\nkua aide'wakua'nusikua'i payë kui'ne pa'i tuture.\nJëña-nëkañua jëtëna te'o\nSi'apa̱ i payë kui'neja'ñe totyaja'o ye'yeye. Toyaja'o ye'yeye kato peoji doiye ja'a ye'yehuëje pa'ye kato. Ja'a\nye'yewëoye kato ai kuañeñe paijija'kua. Kui'ne toyaja'o nekaikua'repare kato ai jaiye nesaose'e pa'ijakua,\nkui'ne aijerepa aye toyaja'o ye' yeye kato' kui'ne paiji sia'waire, io̱ ai do'iko do'ire.\nToyaja'o ye'yeye kato mai pai de'oyerepa pa'ija'ñea'ë, jaje paina toyaja'o kato itirepa'ë sia'we'ña mai kua'ju'ijë\npa'iye, de'oye pa'iyë kajë, paire sa'ñe oijë koka kaye, japi pa'ina mai̱ ñese saiye pa'iji, siwajë.\nPëkaja'këpi ñani tseañe paiji toyaja'o ye'yeye i mamakëre kokaiyere kuasani.\nJëña-nëkañua jëtëna kayaye\nMai aipë ukujë paise'e sia paije payë ukuye mai pa'idaripëakë'ro, siwajë mai tsea'ë kuasajë kui'ne tideo'ye\npaito tia'ñepa'iji.\nSi'a pai payë iwa'i yëyepi toyaja'o nesaoye, iwa'i kuasayepi, netijini jaiye toyapëpëa etosaoye, jaje paita'are\nte'owa'ise'e paye pa'iji iti toyapë akë.\nJëña-nëkañua jëtëna- toasone.\nIye maire carepawesose'e kato si'a pai tutu paye pa'iji yekë yejaña kë'roje ñase'repa, jaje paina itirepa pa'iye\npaiji iye."
+        },
+        "7": {
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
             ],
-            "Text": "Jëña-nëkañua jëtëna kajese'e\nSi'a pai payë maire kuañese'e mai pa'idaripë kë'ro, maipi de'oye nejë de'oye neto saji mai paiye.\nIye neñañekato mai këkopayea'ë kui'ne siwajë paiye, kato sia'pai paija'kua'ia'ë toyapë akëpai kase'pi, itikato\nkanëose're maire kokaija'ñere kui'ne oiye paise'e, kui'ne kuañeñe paiji iti mai kuasayese'e, kui'ne de'oye\npaiyére kajë sia'we'ña mai yëye pa'yere.\nIye tutukë'ye kato peoji yekua'ipi dekakaiye iti paiye kui'ne iti tsoe yekëwe'ñaje kase'e pa'ito.\nJëña-nëkañua jëtëna.\nJare iye kawesosikore jare peoji yekë paipi iwa'i kuasayepi dani nejë neño'o kajë nedojaye, paije te'e pai dani\niye kato akëpai tsea'ë kajë kuasia'ye nedojaiye peoji, iye kato tsoe kawesosikore.",
-            "Image": "996e95a15d50282add056797f2a3665c"
+            "Image": "996e95a15d50282add056797f2a3665c",
+            "Index": 7,
+            "Label": "8",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Jëña-nëkañua jëtëna kajese'e\nSi'a pai payë maire kuañese'e mai pa'idaripë kë'ro, maipi de'oye nejë de'oye neto saji mai paiye.\nIye neñañekato mai këkopayea'ë kui'ne siwajë paiye, kato sia'pai paija'kua'ia'ë toyapë akëpai kase'pi, itikato\nkanëose're maire kokaija'ñere kui'ne oiye paise'e, kui'ne kuañeñe paiji iti mai kuasayese'e, kui'ne de'oye\npaiyére kajë sia'we'ña mai yëye pa'yere.\nIye tutukë'ye kato peoji yekua'ipi dekakaiye iti paiye kui'ne iti tsoe yekëwe'ñaje kase'e pa'ito.\nJëña-nëkañua jëtëna.\nJare iye kawesosikore jare peoji yekë paipi iwa'i kuasayepi dani nejë neño'o kajë nedojaye, paije te'e pai dani\niye kato akëpai tsea'ë kajë kuasia'ye nedojaiye peoji, iye kato tsoe kawesosikore."
         }
     }
 }

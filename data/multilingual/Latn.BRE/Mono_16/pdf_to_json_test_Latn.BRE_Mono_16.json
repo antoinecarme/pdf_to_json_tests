@@ -1,93 +1,93 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581467237,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "f9566b3155b4a470d6e22be39b38608f",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "DISKLERIADUR HOLLVEDEL GWIRIOU MAB-DEN\nEmbannet gant ar Broadou-Unanet d’an 10 a viz Kerzu 1948\nRakger\n–O vezañ ma’z eo war anaout an dellezegezh enstag ouzh holl izili an\ndenelezh hag o gwirioù par ha diwerzhus eo diazezet ar frankiz, ar\nreizhded hag ar peoc’h,\n–o vezañ ma’z eo war dizanaout ha dismegañsiñ gwirioù mab-den eo bet\nganet an aktoù a varbariezh a sav koustiañs mab-den en o enep, ha ma’z\neo bet embannet eo donedigezh ur bed a vo ennañ gant an dud frankiz da\ngomz ha da grediñ, dieubet ma vint diouzh ar spont hag an dienez, a zo\nmennad uhelañ mab-den,\n–o vezañ ma’z eo ret-holl diwall gwirioù mabden gant reolenn al lezenn\nevit na vefe ket rediet an dud d’en em sevel ouzh an tirantegezh hag ar\ngwaskerezh da rekour diwezhañ,\n–o vezañ ma’z eo ret-holl kas war-raok an darempredoù a vignoniezh etre\nar broadoù,\n–o vezañ ma’z eo bet embannet adarre er Garta gant pobloù ar Broadoù-\nUnanet o feiz e gwirioù diazez mab-den, e dellezegezh ha talvoudegezh\nmab-den, e parded ar baotred hag ar merc’hed en o gwirioù, ha ma’z eo\nbet disklêriet ganto e oant mennet da gas war-raok an diorroadur\nkevredigezhel ha da wellaat an aozioù-buhez en ur frankiz vrasoc’h,\n-o vezañ ma’z eo bet gouestlet gant ar Stadoù-Ezel diogeliñ, gant\nkenlabour Aozadur ar Broadoù-Unanet, an doujañs hollvedel ha gwirion\nouzh gwirioù mab-den hag ar frankizioù pennan,\n–hago vezañ ma’z eo a bouez bras kengompren ar gwirioù hag ar\nfrankizioù-mañ a-benn seveniñ ar gouestl,\nEZ EMBANN\nAR VODADEG-VEUR\nDISKLERIADUR HOLLVEDEL GWIRIOÙ MABDEN\nevel uhelvennad boutin da vezañ diraezet gant an holl bobloù hag an holl\nvroadoù, d’an holl dud hag ensavadurioù, gant an Disklêriadur-mañ atav\nen o freder, da lakaat kreskiñ dre ar c’helenn hag an deskadurezh, an\ndoujans ouzh ar gwirioù ha frankizioù-mañ, d’o lakaat da vezañ anavezet\nha sevenet tamm-ha-tamm da vat hag e pep lec’h, dre ziarbennoù broadel\nhag etrevroadel, koulz e-touez pobloù ar Stadoù-Ezel hag e-touez ar re\nzo war zouaroù dindan o lezennoù.\nMellad unan (1)\nDieub ha par en o dellezegezh hag o gwirioù eo ganet an holl dud. Poell\nha skiant zo dezho ha dleout a reont bevañ an eil gant egile en ur\nspered a genvreudeuriezh.",
-            "Image": "f9566b3155b4a470d6e22be39b38608f"
+            "Text": "DISKLERIADUR HOLLVEDEL GWIRIOU MAB-DEN\nEmbannet gant ar Broadou-Unanet d’an 10 a viz Kerzu 1948\nRakger\n–O vezañ ma’z eo war anaout an dellezegezh enstag ouzh holl izili an\ndenelezh hag o gwirioù par ha diwerzhus eo diazezet ar frankiz, ar\nreizhded hag ar peoc’h,\n–o vezañ ma’z eo war dizanaout ha dismegañsiñ gwirioù mab-den eo bet\nganet an aktoù a varbariezh a sav koustiañs mab-den en o enep, ha ma’z\neo bet embannet eo donedigezh ur bed a vo ennañ gant an dud frankiz da\ngomz ha da grediñ, dieubet ma vint diouzh ar spont hag an dienez, a zo\nmennad uhelañ mab-den,\n–o vezañ ma’z eo ret-holl diwall gwirioù mabden gant reolenn al lezenn\nevit na vefe ket rediet an dud d’en em sevel ouzh an tirantegezh hag ar\ngwaskerezh da rekour diwezhañ,\n–o vezañ ma’z eo ret-holl kas war-raok an darempredoù a vignoniezh etre\nar broadoù,\n–o vezañ ma’z eo bet embannet adarre er Garta gant pobloù ar Broadoù-\nUnanet o feiz e gwirioù diazez mab-den, e dellezegezh ha talvoudegezh\nmab-den, e parded ar baotred hag ar merc’hed en o gwirioù, ha ma’z eo\nbet disklêriet ganto e oant mennet da gas war-raok an diorroadur\nkevredigezhel ha da wellaat an aozioù-buhez en ur frankiz vrasoc’h,\n-o vezañ ma’z eo bet gouestlet gant ar Stadoù-Ezel diogeliñ, gant\nkenlabour Aozadur ar Broadoù-Unanet, an doujañs hollvedel ha gwirion\nouzh gwirioù mab-den hag ar frankizioù pennan,\n–hago vezañ ma’z eo a bouez bras kengompren ar gwirioù hag ar\nfrankizioù-mañ a-benn seveniñ ar gouestl,\nEZ EMBANN\nAR VODADEG-VEUR\nDISKLERIADUR HOLLVEDEL GWIRIOÙ MABDEN\nevel uhelvennad boutin da vezañ diraezet gant an holl bobloù hag an holl\nvroadoù, d’an holl dud hag ensavadurioù, gant an Disklêriadur-mañ atav\nen o freder, da lakaat kreskiñ dre ar c’helenn hag an deskadurezh, an\ndoujans ouzh ar gwirioù ha frankizioù-mañ, d’o lakaat da vezañ anavezet\nha sevenet tamm-ha-tamm da vat hag e pep lec’h, dre ziarbennoù broadel\nhag etrevroadel, koulz e-touez pobloù ar Stadoù-Ezel hag e-touez ar re\nzo war zouaroù dindan o lezennoù.\nMellad unan (1)\nDieub ha par en o dellezegezh hag o gwirioù eo ganet an holl dud. Poell\nha skiant zo dezho ha dleout a reont bevañ an eil gant egile en ur\nspered a genvreudeuriezh."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "165151e1a79fe99120ccafbc723445d8",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Mellad daou (2)\nDa bep hini eo an holl wirioù ha frankizioù embannet en disklêriadur-\nmañ, hep ket a ziforc’h, a ouenn, a liv, a reizh, a yezh, a veno\npolitikel pe a veno all, a orin broadel pe gevredigezhel, a leve, a\nc’hanedigezh pe a natur all.\nOuzhpenn-se ne vo graet diforc’h ebet hervez statud politikel, lezennel\npe etrevroadel, arvro pe an dachenn-vro emañ an den dindan he lezenn, pe\ndizalc’h pe dindan verezeh e ve, diemren pe bevennet hec’h aotrouniezh\nen ur stumm bennak.\nMellad tri (3)\nGwir a zo gant pep hini d’ar vuhez, d’ar frankiz, ha d’an diogelroez\nevitañ.\nMellad peuar (4)\nNe vo dalc’het den er sklaverezh nag er sujidigezh; berzet e vo kement\nstumm a sklaverezh hag a werzhañ-sklaved.\nMellad pemp (5)\nNe vo lakaet den da c’houzañv ar jahinerezh, na doareoù pe kastizoù kriz\nha didruez.\nMellad c’hwec’h (6)\nGwir pep hini eo e vefe anavezet e bersonelezh lezennel e pep lec’h.\nMellad seizh (7)\nPar eo an holl dirak al lezenn ha gwir o deus da vezañ diwallet ganti.\nHoll o deus gwir da vezañ diwallet heñvel diouzh kement gwallziforc’h a\ndorrfe an Disklêriadur-mañ ha diouzh kement tra a zegasfe seurt\ndiforc’hioù.\nMellad eizh (8)\nPep hini en deus gwir da gaout digoll gwirion dirak lezioù-barn broadel\nkenveliek evit oberoù o dije torret ar gwirioù diazez anavezet dezhañ\ngant ar Vonreizh pa al lezenn.\nMellad nav (9)\nDen ebet ne vo harzet, bac’het pe harluet diouzh c’hoant.\nMellad dek (10)\nUr gwir par da hini ar re all a zo gant pep hini da vezañ klevet dirak\nan holl ha gant reizhded gant ul lez-varn dizalc’h ha neptu, dezhi da\ndermenañ e wirioù ha dleadoù hag an tamalloù graet dezhañ.\nMellad unnek (11)\nDigablus eo kement den a zo tamallet dezhañ ur felladenn ken na vo",
-            "Image": "165151e1a79fe99120ccafbc723445d8"
+            "Text": "Mellad daou (2)\nDa bep hini eo an holl wirioù ha frankizioù embannet en disklêriadur-\nmañ, hep ket a ziforc’h, a ouenn, a liv, a reizh, a yezh, a veno\npolitikel pe a veno all, a orin broadel pe gevredigezhel, a leve, a\nc’hanedigezh pe a natur all.\nOuzhpenn-se ne vo graet diforc’h ebet hervez statud politikel, lezennel\npe etrevroadel, arvro pe an dachenn-vro emañ an den dindan he lezenn, pe\ndizalc’h pe dindan verezeh e ve, diemren pe bevennet hec’h aotrouniezh\nen ur stumm bennak.\nMellad tri (3)\nGwir a zo gant pep hini d’ar vuhez, d’ar frankiz, ha d’an diogelroez\nevitañ.\nMellad peuar (4)\nNe vo dalc’het den er sklaverezh nag er sujidigezh; berzet e vo kement\nstumm a sklaverezh hag a werzhañ-sklaved.\nMellad pemp (5)\nNe vo lakaet den da c’houzañv ar jahinerezh, na doareoù pe kastizoù kriz\nha didruez.\nMellad c’hwec’h (6)\nGwir pep hini eo e vefe anavezet e bersonelezh lezennel e pep lec’h.\nMellad seizh (7)\nPar eo an holl dirak al lezenn ha gwir o deus da vezañ diwallet ganti.\nHoll o deus gwir da vezañ diwallet heñvel diouzh kement gwallziforc’h a\ndorrfe an Disklêriadur-mañ ha diouzh kement tra a zegasfe seurt\ndiforc’hioù.\nMellad eizh (8)\nPep hini en deus gwir da gaout digoll gwirion dirak lezioù-barn broadel\nkenveliek evit oberoù o dije torret ar gwirioù diazez anavezet dezhañ\ngant ar Vonreizh pa al lezenn.\nMellad nav (9)\nDen ebet ne vo harzet, bac’het pe harluet diouzh c’hoant.\nMellad dek (10)\nUr gwir par da hini ar re all a zo gant pep hini da vezañ klevet dirak\nan holl ha gant reizhded gant ul lez-varn dizalc’h ha neptu, dezhi da\ndermenañ e wirioù ha dleadoù hag an tamalloù graet dezhañ.\nMellad unnek (11)\nDigablus eo kement den a zo tamallet dezhañ ur felladenn ken na vo"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "ee990ea78ba1bcee854d81d11c53a28e",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "prouet eo kablus hervez al lezenn en ur prosez digor d’an holl ma vo bet\ndiogelet dezhañ an holl wareziou ret d’en em zifenn.\nNe vo kondaonet den ebet en abeg da oberoù pe da nannoberoù ha ne oant\nket felladennoù hervez ar gwir broadel pe etrevroadel d’ar mare ma oant\nc’hoarvezet. Den kennebeut ne vo barnet d’ur c’hastiz kreñvoc’h eget an\nhini a oa hervez al lezenn d’ar mare ma oa bet graet ar felladenn.\nMellad daouzek (12)\nDen ebet ne vo emellet diouzh c’hoant en e vuhez prevez, e diegezh, e\nannez pe e lizhiri, ha ne vo ket stoket ouzh e enor nag ouzh e vrud. Pep\nhini en deus gwir da gaout gwarez digant al lezenn diouzh emelladennoù\nha tagadennoù a seurt-se.\nMellad trizek (13)\nPep den en deus gwir da vont ha dont en e frankiz ha da zibab e annez e\ndiabarzh ur Stad.\nPep den en deus gwir da guitaat ne vern pe vro, da guitaat e vro-eñ\nzoken ha da zont en-dro dezhi.\nMellad pevarzek (14)\nPep den en deus gwir da glask repu ha da gavout bod e broioù all pa vez\nheskinerezh.\nAr gwir-mañ n’haller ket daveiñ dezhañ pa vez klask war un den gant gwir\nabeg evit torfedoù a genwir pe evit oberoù kontrol da balioù ha\npennaennoù ar Broadoù-Unanet.\nMellad pemzek (15)\nPep den en deus gwir da gaout ur vroadelezh.\nDen ebet ne vo tennet e vroadelezh digantañ nag ar gwir da gemmañ e\nvroadelezh diouzh c’hoant.\nMellad c’hwezek (16)\nGwir o deus ar wazed hag ar merc’hed adalek an oad da zimeziñ, ne vern o\ngouenn, o broadelezh, pe o relijion, da zimeziñ ha da sevel tiegezh.\nGwirioù par zo dezho e-keñver an dimeziñ, e-pad ar briedelezh hag e-\nkeñver an dibriediñ.\nNe c’hell bezañ dimeziñ ebet hep asant gwir ha dieub an danvez-priedoù.\nAn tiegezh eo maen diazez naturel ar gevredigezh, ha gwir en deus da\ngaout gwarez ar gevredigezh hag ar Stad.\nMellad seitek (17)\nPep den en deus gwir da vezañ perc’henn e-unan pe a-gevret gant tud all.\nDen ebet ne vo tennet e berc’hentiezh digantañ diouzh c’hoant.",
-            "Image": "ee990ea78ba1bcee854d81d11c53a28e"
+            "Text": "prouet eo kablus hervez al lezenn en ur prosez digor d’an holl ma vo bet\ndiogelet dezhañ an holl wareziou ret d’en em zifenn.\nNe vo kondaonet den ebet en abeg da oberoù pe da nannoberoù ha ne oant\nket felladennoù hervez ar gwir broadel pe etrevroadel d’ar mare ma oant\nc’hoarvezet. Den kennebeut ne vo barnet d’ur c’hastiz kreñvoc’h eget an\nhini a oa hervez al lezenn d’ar mare ma oa bet graet ar felladenn.\nMellad daouzek (12)\nDen ebet ne vo emellet diouzh c’hoant en e vuhez prevez, e diegezh, e\nannez pe e lizhiri, ha ne vo ket stoket ouzh e enor nag ouzh e vrud. Pep\nhini en deus gwir da gaout gwarez digant al lezenn diouzh emelladennoù\nha tagadennoù a seurt-se.\nMellad trizek (13)\nPep den en deus gwir da vont ha dont en e frankiz ha da zibab e annez e\ndiabarzh ur Stad.\nPep den en deus gwir da guitaat ne vern pe vro, da guitaat e vro-eñ\nzoken ha da zont en-dro dezhi.\nMellad pevarzek (14)\nPep den en deus gwir da glask repu ha da gavout bod e broioù all pa vez\nheskinerezh.\nAr gwir-mañ n’haller ket daveiñ dezhañ pa vez klask war un den gant gwir\nabeg evit torfedoù a genwir pe evit oberoù kontrol da balioù ha\npennaennoù ar Broadoù-Unanet.\nMellad pemzek (15)\nPep den en deus gwir da gaout ur vroadelezh.\nDen ebet ne vo tennet e vroadelezh digantañ nag ar gwir da gemmañ e\nvroadelezh diouzh c’hoant.\nMellad c’hwezek (16)\nGwir o deus ar wazed hag ar merc’hed adalek an oad da zimeziñ, ne vern o\ngouenn, o broadelezh, pe o relijion, da zimeziñ ha da sevel tiegezh.\nGwirioù par zo dezho e-keñver an dimeziñ, e-pad ar briedelezh hag e-\nkeñver an dibriediñ.\nNe c’hell bezañ dimeziñ ebet hep asant gwir ha dieub an danvez-priedoù.\nAn tiegezh eo maen diazez naturel ar gevredigezh, ha gwir en deus da\ngaout gwarez ar gevredigezh hag ar Stad.\nMellad seitek (17)\nPep den en deus gwir da vezañ perc’henn e-unan pe a-gevret gant tud all.\nDen ebet ne vo tennet e berc’hentiezh digantañ diouzh c’hoant."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "4f3133a30c2db6d9999043ee60ca9f85",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Mellad triwec’h (18)\nPep den en deus gwir da gaout frankiz ar soñj, ar goustiañs hag ar\nrelijion; er gwir-mañ emañ ivez ar frankiz da gemmañ e relijion pe e\ngredenn, hag ivez ar frankiz da ziskuliañ e relijion pe e gredenn, eunan\npe a-stroll, dirak an holl pe en-prevez, dre ar c’helenn, an oberoù, an\nazeulerezh pe al liderezh.\nMellad naontek (19)\nPep hini en deus gwir d’ar frankiz d’ober e veno ha d’en disklêriañ, da\nlavarout eo gwir da chom hep bezañ trubuilhet en abeg d’e vennozhioù,\ngwir da glask, da resev ha da skignañ keleier ha mennozhioù, dre n’eus\nforzh pe zoare disklêriañ, hep teurel pled ouzh an harzoù.\nMellad ugent (20)\nPep den en deus gwir d’ar frankiz d’en em vodañ ha d’en em gevreañ e\npeoc’h.\nDen ne c’hell bezañ rediet da vezañ ezel eus ur gevredigezh.\nMellad unan warn-ugent (21)\nPep hini en deus gwir da gemer perzh e gouarnerezh e vro, war-eeun pe\ndre hantererezh dileuridi dibabet hep gwaskerezh.\nPep hini, par d’ar re al, en deus gwir da gaout kargoù publik en e vro.\nYoul ar bobl eo diazez aotrouniezh ar galloud publik; disklêriet e vo ar\nyoul-se e dilennadegoù onest ha mareadek gant mouezhierezh an holl, dre\nbaperennoù kuzh pe dre zoareoù mouezhiañ kevatal o tiogeliñ frankiz ar\nvouezhiadeg.\nMellad daou warn-ugent (22)\nPep den, evel ezel eus ar gevredigezh, en deus gwir d’ar c’hedskor ha da\ngaout e walc’h eus ar gwirioù armerzhel, kevredigezhel ha sevenadurel en\ndeus ezhomm evit e zellezegezh ha diorroadur dinask e bersonelezh a-\ndrugarez d’ar strivadeg vroadel ha d’ar c’henlabour etrevroadel, en ur\nzerc’hel kont eus aozadur ha pinvidigezh ar vro.\nMellad tri warn-ugent (23)\nPep den en deus gwir da labourat, da zibab al labour a gar, da gaout\naozioù labour reizh ha dereat, ha da vezañ gwarezet diouzh an dilabour.\nPep den en deus gwir, hep gwallziforc’h ebet, da gaout an hevelep gopr\nevit an hevelep labour.\nAn neb a labour en deus gwir da vezañ paeet reizh ha mat evit ma\nc’hellfe, eñ hag e diegezh, bevañ en un doare a zere ouzh dellezegezh\nmab-den, ha mar deo ret ouzhpenn, da gaout gwarez kevredigezhel dre\nhentoù all.\nPep den en deus gwir da sevel sindikadoù pe da emezelañ enno evit difenn\ne lazioù.",
-            "Image": "4f3133a30c2db6d9999043ee60ca9f85"
+            "Text": "Mellad triwec’h (18)\nPep den en deus gwir da gaout frankiz ar soñj, ar goustiañs hag ar\nrelijion; er gwir-mañ emañ ivez ar frankiz da gemmañ e relijion pe e\ngredenn, hag ivez ar frankiz da ziskuliañ e relijion pe e gredenn, eunan\npe a-stroll, dirak an holl pe en-prevez, dre ar c’helenn, an oberoù, an\nazeulerezh pe al liderezh.\nMellad naontek (19)\nPep hini en deus gwir d’ar frankiz d’ober e veno ha d’en disklêriañ, da\nlavarout eo gwir da chom hep bezañ trubuilhet en abeg d’e vennozhioù,\ngwir da glask, da resev ha da skignañ keleier ha mennozhioù, dre n’eus\nforzh pe zoare disklêriañ, hep teurel pled ouzh an harzoù.\nMellad ugent (20)\nPep den en deus gwir d’ar frankiz d’en em vodañ ha d’en em gevreañ e\npeoc’h.\nDen ne c’hell bezañ rediet da vezañ ezel eus ur gevredigezh.\nMellad unan warn-ugent (21)\nPep hini en deus gwir da gemer perzh e gouarnerezh e vro, war-eeun pe\ndre hantererezh dileuridi dibabet hep gwaskerezh.\nPep hini, par d’ar re al, en deus gwir da gaout kargoù publik en e vro.\nYoul ar bobl eo diazez aotrouniezh ar galloud publik; disklêriet e vo ar\nyoul-se e dilennadegoù onest ha mareadek gant mouezhierezh an holl, dre\nbaperennoù kuzh pe dre zoareoù mouezhiañ kevatal o tiogeliñ frankiz ar\nvouezhiadeg.\nMellad daou warn-ugent (22)\nPep den, evel ezel eus ar gevredigezh, en deus gwir d’ar c’hedskor ha da\ngaout e walc’h eus ar gwirioù armerzhel, kevredigezhel ha sevenadurel en\ndeus ezhomm evit e zellezegezh ha diorroadur dinask e bersonelezh a-\ndrugarez d’ar strivadeg vroadel ha d’ar c’henlabour etrevroadel, en ur\nzerc’hel kont eus aozadur ha pinvidigezh ar vro.\nMellad tri warn-ugent (23)\nPep den en deus gwir da labourat, da zibab al labour a gar, da gaout\naozioù labour reizh ha dereat, ha da vezañ gwarezet diouzh an dilabour.\nPep den en deus gwir, hep gwallziforc’h ebet, da gaout an hevelep gopr\nevit an hevelep labour.\nAn neb a labour en deus gwir da vezañ paeet reizh ha mat evit ma\nc’hellfe, eñ hag e diegezh, bevañ en un doare a zere ouzh dellezegezh\nmab-den, ha mar deo ret ouzhpenn, da gaout gwarez kevredigezhel dre\nhentoù all.\nPep den en deus gwir da sevel sindikadoù pe da emezelañ enno evit difenn\ne lazioù."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "b7e0244c1b41983f8bbf32083e1af1f3",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Mellad pevar warn-ugent (24)\nPep hini en deus gwir da ziskuizhañ ha da gaout lezir, da gaout un\namzer-labour bevennet poellek ha vakañsoù mareadek paeet.\nMellad pemp warn-ugent (25)\nPep den en deus gwir da gaout ul live-bevañ dereat evit e yec’hed, e\naezamant ha hini e diegezh da lavarout eo: boued, dilhad, lojeiz,\nskoazell ar vezegiezh hag ar servijoù kevredigezhel zo ezhomm; gwir en\ndeus ivez d’an diogelroez ma c’hoarvez dezhañ bezañ dilabour, klañv,\nmac’hagnet, instañvet, kozh, pe koll an tu da gaout peadra da vevañ en\ndesped dezhañ.\nAr mammoù hag ar vugale o deus gwir da gaout harp ha skoazell dreist an\nholl. An hol vugale, ganet eus tud dimezet pe dizimez, o devo ar emmes\ngwares kevredigezhel.\nMellad c’hwec’h warn-ugent (26)\nPep den en deus gwir da gaout deskadurezh. Digoust e tle bezañ an\ndeskadurezh, da vihanañ an deskadurezh kentañ ha diazez. Ret ha dleet eo\nar gelennadurezh kentañ. D’an holl e tle bezañ kinniget ar gelennadurezh\nteknikel ha micherel, d’an holl e vo roet tu d’ober studioù uhel hervez\no dellid.\nPal an deskadurezh eo diorren personelezh mab-den ha lakaat doujañ\nmuioc’h gwirioù mab-den hag ar frankizioù diazez. Drezi e klaskor\nkreskiñ ar c’hengompren, an habaskted hag ar vignoniezh etre an holl\nvroadoù hag an holl strolladoù a ouenn pe a relijion disheñvel, hag ivez\nkas war-raok obererezh ar Broadoù-Unanet evit derc’hel ar peoc’h.\nAn tadoù ha mammoù, da gentañ, o deus gwir da zibab an doare deskadurezh\na vo roet d’o bugale.\nMellad seizh warn-ugent (27)\nPep hini en deus gwir da gemer perzh evel a gar e buhez sevenadurel ar\ngumuniezh, da gaout dudi gant an arzoù, da gemer perzh en araokadeg ar\nskiantoù ha da gaout e lod eus ar madoù degaset ganti.\nPep den en deus gwir da gaout e lazioù speredel ha danvezel deuet diwar\nan oberennoù skiantel, lennegel pe arzel savet gantañ.\nMellad eizh warn-ugent (28)\nPep hini en deus gwir e renfe un urzh kevredigezhel hag etrevroadel a\nc’hellfe bezañ peursevenet enni ar gwirioù ha frankizioù embannet en\nDisklêriadur-mañ.\nMellad nav warn-ugent (29)\nPep den en deus dleadoù e-keñver ar gevredigezh, al lec’h nemetañ ma\nc’hell peurziorren e bersonelezh en he frankiz.\nEn e wirioù hagen e frankiz ne c’hell pep hini bezañ bevennet nemet gant",
-            "Image": "b7e0244c1b41983f8bbf32083e1af1f3"
+            "Text": "Mellad pevar warn-ugent (24)\nPep hini en deus gwir da ziskuizhañ ha da gaout lezir, da gaout un\namzer-labour bevennet poellek ha vakañsoù mareadek paeet.\nMellad pemp warn-ugent (25)\nPep den en deus gwir da gaout ul live-bevañ dereat evit e yec’hed, e\naezamant ha hini e diegezh da lavarout eo: boued, dilhad, lojeiz,\nskoazell ar vezegiezh hag ar servijoù kevredigezhel zo ezhomm; gwir en\ndeus ivez d’an diogelroez ma c’hoarvez dezhañ bezañ dilabour, klañv,\nmac’hagnet, instañvet, kozh, pe koll an tu da gaout peadra da vevañ en\ndesped dezhañ.\nAr mammoù hag ar vugale o deus gwir da gaout harp ha skoazell dreist an\nholl. An hol vugale, ganet eus tud dimezet pe dizimez, o devo ar emmes\ngwares kevredigezhel.\nMellad c’hwec’h warn-ugent (26)\nPep den en deus gwir da gaout deskadurezh. Digoust e tle bezañ an\ndeskadurezh, da vihanañ an deskadurezh kentañ ha diazez. Ret ha dleet eo\nar gelennadurezh kentañ. D’an holl e tle bezañ kinniget ar gelennadurezh\nteknikel ha micherel, d’an holl e vo roet tu d’ober studioù uhel hervez\no dellid.\nPal an deskadurezh eo diorren personelezh mab-den ha lakaat doujañ\nmuioc’h gwirioù mab-den hag ar frankizioù diazez. Drezi e klaskor\nkreskiñ ar c’hengompren, an habaskted hag ar vignoniezh etre an holl\nvroadoù hag an holl strolladoù a ouenn pe a relijion disheñvel, hag ivez\nkas war-raok obererezh ar Broadoù-Unanet evit derc’hel ar peoc’h.\nAn tadoù ha mammoù, da gentañ, o deus gwir da zibab an doare deskadurezh\na vo roet d’o bugale.\nMellad seizh warn-ugent (27)\nPep hini en deus gwir da gemer perzh evel a gar e buhez sevenadurel ar\ngumuniezh, da gaout dudi gant an arzoù, da gemer perzh en araokadeg ar\nskiantoù ha da gaout e lod eus ar madoù degaset ganti.\nPep den en deus gwir da gaout e lazioù speredel ha danvezel deuet diwar\nan oberennoù skiantel, lennegel pe arzel savet gantañ.\nMellad eizh warn-ugent (28)\nPep hini en deus gwir e renfe un urzh kevredigezhel hag etrevroadel a\nc’hellfe bezañ peursevenet enni ar gwirioù ha frankizioù embannet en\nDisklêriadur-mañ.\nMellad nav warn-ugent (29)\nPep den en deus dleadoù e-keñver ar gevredigezh, al lec’h nemetañ ma\nc’hell peurziorren e bersonelezh en he frankiz.\nEn e wirioù hagen e frankiz ne c’hell pep hini bezañ bevennet nemet gant"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "37fc5ac8e233b631b678fb79141074ac",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "al lezenn ha nemet evit diogeliñ ma vo anavezet ha doujet gwirioù ha\nfrankizioù ar re all hag evit klotañ gant ezhommoù reizh ar vuhezegezh,\nan urzh publik, hag aezamant an holl en ur gevredigezh demokratel.\nAr gwirioù ha frankizioù-mañ ne c’hellor, war zigarez ebet, ober ganto\na-enep da balioù ha pennaennoù ar Broadoù-Unanet.\nMellad tregont (30)\nPennad ebet eus an Disklêriadur-mañ ne c’hello bezañ komprenet evel pa\nrofe gwir d’ur Stad, d’ur strollad pe d’un den, da ober pe klask ober\ntraoù abenn distrujañ ar gwirioù hag ar frankizioù embannet amañ.",
-            "Image": "37fc5ac8e233b631b678fb79141074ac"
+            "Text": "al lezenn ha nemet evit diogeliñ ma vo anavezet ha doujet gwirioù ha\nfrankizioù ar re all hag evit klotañ gant ezhommoù reizh ar vuhezegezh,\nan urzh publik, hag aezamant an holl en ur gevredigezh demokratel.\nAr gwirioù ha frankizioù-mañ ne c’hellor, war zigarez ebet, ober ganto\na-enep da balioù ha pennaennoù ar Broadoù-Unanet.\nMellad tregont (30)\nPennad ebet eus an Disklêriadur-mañ ne c’hello bezañ komprenet evel pa\nrofe gwir d’ur Stad, d’ur strollad pe d’un den, da ober pe klask ober\ntraoù abenn distrujañ ar gwirioù hag ar frankizioù embannet amañ."
         }
     }
 }

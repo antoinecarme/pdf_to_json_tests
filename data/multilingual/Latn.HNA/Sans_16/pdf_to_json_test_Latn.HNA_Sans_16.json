@@ -1,141 +1,141 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581468314,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
-            "Index": 0,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "XIXE BLIBOA BE GBEFANƉEƉE SO AMƐBUSEWO ALOGOƉOEJSEWO ŊTI\nŊKƆJENYA\nKe e nyi be jesinana agbetɔ xɔmɛviwo kpata le woabe nujɔnunyinyi ku le woabe goɖoejisiwo alo\namɛbusewo be gbesɔɛmɛ maɖeviɖe le emɛ ye nyi ku Fafa alo tujanyi le xixea mɛ a;\nKe e nyi be amɛbusewo, geɖojisewo majesi kudo woabe makanmana woe dɔ̀ nna gbélán be hunyra wɔnawo\nkawoe zinzinna agbetɔ be cìcìnya va a, eye nɛ agbetɔ b'a vǒ le nupópò pò ku nujixɔse mɛ a, ke e nyi be\nvɔ́ nvɔ̀ n sɔyi kumɛ ŋgba le e ji o a yeŋuti wo ɖegbefan só xixe búŋuku mɛ be jɔ̀ j ɔ̀ ke la nɔ sigbe jíjí wuta\njijiwo kpata le amɛgbetɔwo be jijiwe mɛ a;\nKe e nyi be e le veveɖe be ɖoɖo tɔ̀ x ɛ̀ ɖéwo la nɔ xɔ akpo nɛ amɛbuse kea woa, goɖojise kea woa, nɛ ŋgba\nva nyi be ke e jo va gloe kpatatàa, agbetɔ la jeagla, la fɔngu ɖo nukeŋutia hunyra sɔ do lannuwɔwɔmɛ ku\namɛjizinzin jo va wugan, jo va flaa, jo va glo a;\nKe e nyi be enu tajitɔ̀ ba nyì be wo ɖo la de ŋsɛn abɔkamɛ nɛ dukɔnwo le xlɔnnyinyi be ka ke le woa domɛ\na;\nKe e nyi be le gɔnmɛ dǒse a mɛ a dukɔn blaɖoduwo b'amɛhawo gbigbɔ le tè, le zingbe ɖo e ji le woabe\njixɔse so nujɔjɔɛ tajitɔ̀ wo ke kuɖo agbetɔ ŋti, le yebe nújɔnún yinyi kudo yeb'asixɔxɔ mɛ, le ɖe gblɔn ku\nkanɖoji be yewoa wɔ ye amɛsia be ŋkɔyìyì le jijèjè mɛ a la zɔn ɖo e ji kpe. Eye yewoa na ye agbenɔnɔ\nɖɔhwin be wɔnawo la se axwe le vosinɔnɔ ganɖe mɛ le amɛbusewo be gbesɔɛ mɛ le ŋsuwo ku nyɔnuwo\ndomɛ a;\nKe e nyi be acɛkpadu kewoe nyi bɔbɔa bo viwo dota amɛ be asi le^ mɛa, yewo la xɔ alɔkpe dukɔn blá\nɖóduwo be habɔbɔa, nɛ xixe bliboa ba setonu tútútú nɛ amɛbusewo ku gɔnmɛdose be vòsinɔnɔ a;\nKe e nyi be gbɔngbɔ ɖekaŋukumɛ ɖoɖo nɛ goɖojisewo, amɛbusewo ku vòsinɔnɔ keawo ye la nyi",
-            "Image": "0d9a310b8ab2f46e131c86d68711a3de"
+            "Image": "0d9a310b8ab2f46e131c86d68711a3de",
+            "Index": 0,
+            "Label": "1",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "XIXE BLIBOA BE GBEFANƉEƉE SO AMƐBUSEWO ALOGOƉOEJSEWO ŊTI\nŊKƆJENYA\nKe e nyi be jesinana agbetɔ xɔmɛviwo kpata le woabe nujɔnunyinyi ku le woabe goɖoejisiwo alo\namɛbusewo be gbesɔɛmɛ maɖeviɖe le emɛ ye nyi ku Fafa alo tujanyi le xixea mɛ a;\nKe e nyi be amɛbusewo, geɖojisewo majesi kudo woabe makanmana woe dɔ̀ nna gbélán be hunyra wɔnawo\nkawoe zinzinna agbetɔ be cìcìnya va a, eye nɛ agbetɔ b'a vǒ le nupópò pò ku nujixɔse mɛ a, ke e nyi be\nvɔ́ nvɔ̀ n sɔyi kumɛ ŋgba le e ji o a yeŋuti wo ɖegbefan só xixe búŋuku mɛ be jɔ̀ j ɔ̀ ke la nɔ sigbe jíjí wuta\njijiwo kpata le amɛgbetɔwo be jijiwe mɛ a;\nKe e nyi be e le veveɖe be ɖoɖo tɔ̀ x ɛ̀ ɖéwo la nɔ xɔ akpo nɛ amɛbuse kea woa, goɖojise kea woa, nɛ ŋgba\nva nyi be ke e jo va gloe kpatatàa, agbetɔ la jeagla, la fɔngu ɖo nukeŋutia hunyra sɔ do lannuwɔwɔmɛ ku\namɛjizinzin jo va wugan, jo va flaa, jo va glo a;\nKe e nyi be enu tajitɔ̀ ba nyì be wo ɖo la de ŋsɛn abɔkamɛ nɛ dukɔnwo le xlɔnnyinyi be ka ke le woa domɛ\na;\nKe e nyi be le gɔnmɛ dǒse a mɛ a dukɔn blaɖoduwo b'amɛhawo gbigbɔ le tè, le zingbe ɖo e ji le woabe\njixɔse so nujɔjɔɛ tajitɔ̀ wo ke kuɖo agbetɔ ŋti, le yebe nújɔnún yinyi kudo yeb'asixɔxɔ mɛ, le ɖe gblɔn ku\nkanɖoji be yewoa wɔ ye amɛsia be ŋkɔyìyì le jijèjè mɛ a la zɔn ɖo e ji kpe. Eye yewoa na ye agbenɔnɔ\nɖɔhwin be wɔnawo la se axwe le vosinɔnɔ ganɖe mɛ le amɛbusewo be gbesɔɛ mɛ le ŋsuwo ku nyɔnuwo\ndomɛ a;\nKe e nyi be acɛkpadu kewoe nyi bɔbɔa bo viwo dota amɛ be asi le^ mɛa, yewo la xɔ alɔkpe dukɔn blá\nɖóduwo be habɔbɔa, nɛ xixe bliboa ba setonu tútútú nɛ amɛbusewo ku gɔnmɛdose be vòsinɔnɔ a;\nKe e nyi be gbɔngbɔ ɖekaŋukumɛ ɖoɖo nɛ goɖojisewo, amɛbusewo ku vòsinɔnɔ keawo ye la nyi"
         },
         "1": {
-            "Label": "2",
-            "Index": 1,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "kpɛnkpɛn ke wuta nɛ woa teŋu sɔ wɔ tadoemɛ a blibo a,\nAmɛsia be takpekpe le degblɔn aléké be gbefanɖeɖe xixe bliboato so amɛbusewo, goɖojisewo ŋti; sigbe\nflinmácici ɖekaŋuku ke ji amɛhawo kpata la yi tɔ́ asi aleabe amɛ ɖekpekpe amɛ́ ku habɔbɔ be tòtòwo nɛ\nnyi be woa légbefan kea ɖo tamɛ gasiagamɛ eye wo la nɔ dovevenú tó nufyɔfyɔ ku hɛnhɛn nyawo, kewoe\nla vlunka nɛ esǐ ke ɖo la nɔ̀ aléké be sewo ku vosinɔnɔwo ŋti, eye le blɛwu denyigban ku xixe blibo be\nɖoɖowo la na ye amɛhawo ku acɛkpaduwo la jesii eye woa zaɛn pɛpɛpɛ; nɛnɛake be ɖo la nyi nɛ dukɔn\nkewoe le woab'acɛkpakpa alo woabe ŋsɛn gɔnmɛ a yeŋu.\nGbetakui cucugbɔan (1)\nAgbetɔwo kpata le jijimɛa, ɖo vosinɔnɔ, nyi gbèsɔɛ́ m ɛ́ wó le nujɔnunnyi ku goɖoejisewo, amɛbusewo mɛ.\nTagbɔ le woa si, eye wɔnawo sɔdoda woanɔnɔwo gbɔa la nyi nɔ́ visilélé.\nGbetakui evegɔan (2)\nAmɛ ɖekpekpe amɛ teŋu sɔ goɖoejise, amɛbuse ku vósinɔ́ n ɔ́ kea wo sigbe enú kewoe nyi é tɔ̀ nɛnɛ le\ngbefanɖeɖe kea mɛ le voklan ɖekpe mado e mɛ, veveɖe so agbaze ke le mia ŋtia, gbè ke lè kɔ́ nú na mia,\nasu alo asi nyinyi le jijimɛ, sɛ́ nsɛ́ n, amɛ ŋutɔ́ be gɔnmɛɖeɖe le politiki alo dunya gbɔngbɔn gblamɛ, alo\namɛŋutɔ́ gɔnmɛɖeɖe ɖekpekpe kewoe la kuɖo amɛŋutɔ́ be du, alo ke kuɖo amɛhawo be nyanwo ŋti.\nNɛnɛake wo ma dojesi amɛɖe ŋti sɔ kuɖo yebe du be politiki alɔkpaɖe, kojosewo alo sɔkuɖo wɛkɛa be\nsewo ŋti o; nɛnɛ be du ke mɛ be soa, teŋu ma nyi ablɔɖedu, kpɔtɔ̀ le duɖe b'acɛ gɔnmɛ alo ke ji wo mu ɖe\nalɔ ke ji wo mu ɖe alɔ le keŋukeŋu nɛ ba zan ɖokwesinɔnɔ b'acɛ o.\nGbetakui tɔngɔan (3)\nAmɛ ɖekpekpe amɛ, alo amɛ ɖeka-ɖeka ɖe gbe la nɔ agbe, la vò eye yeamɛtia la kpɔgomɛ le\namɛjikpɔkpɔ mɛ.",
-            "Image": "c98fd8eb72d8fe7af897467233a2da20"
+            "Image": "c98fd8eb72d8fe7af897467233a2da20",
+            "Index": 1,
+            "Label": "2",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "kpɛnkpɛn ke wuta nɛ woa teŋu sɔ wɔ tadoemɛ a blibo a,\nAmɛsia be takpekpe le degblɔn aléké be gbefanɖeɖe xixe bliboato so amɛbusewo, goɖojisewo ŋti; sigbe\nflinmácici ɖekaŋuku ke ji amɛhawo kpata la yi tɔ́ asi aleabe amɛ ɖekpekpe amɛ́ ku habɔbɔ be tòtòwo nɛ\nnyi be woa légbefan kea ɖo tamɛ gasiagamɛ eye wo la nɔ dovevenú tó nufyɔfyɔ ku hɛnhɛn nyawo, kewoe\nla vlunka nɛ esǐ ke ɖo la nɔ̀ aléké be sewo ku vosinɔnɔwo ŋti, eye le blɛwu denyigban ku xixe blibo be\nɖoɖowo la na ye amɛhawo ku acɛkpaduwo la jesii eye woa zaɛn pɛpɛpɛ; nɛnɛake be ɖo la nyi nɛ dukɔn\nkewoe le woab'acɛkpakpa alo woabe ŋsɛn gɔnmɛ a yeŋu.\nGbetakui cucugbɔan (1)\nAgbetɔwo kpata le jijimɛa, ɖo vosinɔnɔ, nyi gbèsɔɛ́ m ɛ́ wó le nujɔnunnyi ku goɖoejisewo, amɛbusewo mɛ.\nTagbɔ le woa si, eye wɔnawo sɔdoda woanɔnɔwo gbɔa la nyi nɔ́ visilélé.\nGbetakui evegɔan (2)\nAmɛ ɖekpekpe amɛ teŋu sɔ goɖoejise, amɛbuse ku vósinɔ́ n ɔ́ kea wo sigbe enú kewoe nyi é tɔ̀ nɛnɛ le\ngbefanɖeɖe kea mɛ le voklan ɖekpe mado e mɛ, veveɖe so agbaze ke le mia ŋtia, gbè ke lè kɔ́ nú na mia,\nasu alo asi nyinyi le jijimɛ, sɛ́ nsɛ́ n, amɛ ŋutɔ́ be gɔnmɛɖeɖe le politiki alo dunya gbɔngbɔn gblamɛ, alo\namɛŋutɔ́ gɔnmɛɖeɖe ɖekpekpe kewoe la kuɖo amɛŋutɔ́ be du, alo ke kuɖo amɛhawo be nyanwo ŋti.\nNɛnɛake wo ma dojesi amɛɖe ŋti sɔ kuɖo yebe du be politiki alɔkpaɖe, kojosewo alo sɔkuɖo wɛkɛa be\nsewo ŋti o; nɛnɛ be du ke mɛ be soa, teŋu ma nyi ablɔɖedu, kpɔtɔ̀ le duɖe b'acɛ gɔnmɛ alo ke ji wo mu ɖe\nalɔ ke ji wo mu ɖe alɔ le keŋukeŋu nɛ ba zan ɖokwesinɔnɔ b'acɛ o.\nGbetakui tɔngɔan (3)\nAmɛ ɖekpekpe amɛ, alo amɛ ɖeka-ɖeka ɖe gbe la nɔ agbe, la vò eye yeamɛtia la kpɔgomɛ le\namɛjikpɔkpɔ mɛ."
         },
         "2": {
-            "Label": "3",
-            "Index": 2,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Gbetakui enɛgɔan (4)\nAmɛɖè mu ɖo la nyi kluvi alo kannumɔ o, kluvi alo kannumɔ alo agbetɔ sɔ doajɔ be nǔ gùn le nɔnɔmɛ alo\nalɔkpa ɖekpekpe mɛ.\nGbetakui atɔngɔan (5)\nWo mu ɖo la nyama amɛɖe be ŋtilan le jizinzin mɛ alo le vevesese dona amɛ dona amɛ le hunyra ke mu je\nnɛ agbetɔ o, alo ke la dovloe alo la ɖe kpɔtɔ.\nGbetakui adɛngɔan (6)\nAmɛɖekpekpe amɛ le afisiafia ɖo acɛ ɖo yeb'amɛnyinyi sɔ zɔnɖe sea ji.\nGbetakui adrɛngɔan (7)\nAmɛsia nyi gbesɔɛ le sea be ŋkɔ eye le voklan ma do e mɛ a, wo ɖogbe nɛ esea b'amɛjikpɔkpɔ.\nAmɛsiamɛ ɖogbe ɖekaŋukumɛ le sea b'amɛjikpɔkpɔ sɔ kuɖo amɛɖekpɔtó ke la nyi afɔtuŋukumɛ nɛ\ngbefanɖeɖe kea kuɖo gejiji ɖekpekpe ke la kuɖo amɛdekpɔ a ŋti.\nGbetakui enyigɔan (8)\nAmɛ ɖekpekpe ɖogbe la tùtà duamɛ be nyasopewo, kewoe ɖo acɛ ɖo wɔna alo nɔnɔmɛ kewoe la\ntuafɔŋukumɛ nɛ aléké be gbefanɖeɖe sɔ amɛbuse gunmɛkpetɔwo ŋti ke ji gɔnmɛsea alo esea d'alɔ ɖo a.\nGbetakui asiɖekɛgɔan (9)\nWo mu ɖogbe la lé amɛɖeti kpoŋu o, la ɖoete alo la hɛn eŋutú ɖo amɛtupe alo a ɖetó le yebe dùmɛ a sɔyi\ndùhú mɛ o.\nGbetakui ewogɔan (10)",
-            "Image": "fa5191ec543540628aa3c57dd7844d0b"
+            "Image": "fa5191ec543540628aa3c57dd7844d0b",
+            "Index": 2,
+            "Label": "3",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Gbetakui enɛgɔan (4)\nAmɛɖè mu ɖo la nyi kluvi alo kannumɔ o, kluvi alo kannumɔ alo agbetɔ sɔ doajɔ be nǔ gùn le nɔnɔmɛ alo\nalɔkpa ɖekpekpe mɛ.\nGbetakui atɔngɔan (5)\nWo mu ɖo la nyama amɛɖe be ŋtilan le jizinzin mɛ alo le vevesese dona amɛ dona amɛ le hunyra ke mu je\nnɛ agbetɔ o, alo ke la dovloe alo la ɖe kpɔtɔ.\nGbetakui adɛngɔan (6)\nAmɛɖekpekpe amɛ le afisiafia ɖo acɛ ɖo yeb'amɛnyinyi sɔ zɔnɖe sea ji.\nGbetakui adrɛngɔan (7)\nAmɛsia nyi gbesɔɛ le sea be ŋkɔ eye le voklan ma do e mɛ a, wo ɖogbe nɛ esea b'amɛjikpɔkpɔ.\nAmɛsiamɛ ɖogbe ɖekaŋukumɛ le sea b'amɛjikpɔkpɔ sɔ kuɖo amɛɖekpɔtó ke la nyi afɔtuŋukumɛ nɛ\ngbefanɖeɖe kea kuɖo gejiji ɖekpekpe ke la kuɖo amɛdekpɔ a ŋti.\nGbetakui enyigɔan (8)\nAmɛ ɖekpekpe ɖogbe la tùtà duamɛ be nyasopewo, kewoe ɖo acɛ ɖo wɔna alo nɔnɔmɛ kewoe la\ntuafɔŋukumɛ nɛ aléké be gbefanɖeɖe sɔ amɛbuse gunmɛkpetɔwo ŋti ke ji gɔnmɛsea alo esea d'alɔ ɖo a.\nGbetakui asiɖekɛgɔan (9)\nWo mu ɖogbe la lé amɛɖeti kpoŋu o, la ɖoete alo la hɛn eŋutú ɖo amɛtupe alo a ɖetó le yebe dùmɛ a sɔyi\ndùhú mɛ o.\nGbetakui ewogɔan (10)"
         },
         "3": {
-            "Label": "4",
-            "Index": 3,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Amɛ ɖekpekpe amɛ ɖogbe le gbesɔɛ bliboa mɛ, nɛ ba na woa se nuke jɔ̀ ɖo e jia, le agbaŋugba kudo aléè\nbe ɖo la nyi tútútúa le vosi kojoɖope ke kpacɛ nɛ e ɖokwea eye le amɛɖe ji ma do mɛa, la sò nɛ amɛa be\ngoɖoejisewo ku ɖoɖo ziamɛ ji ke jea, alo nɛ anukwa ke le nya ke wo sɔ ɖote le doe hwɛ mɛ a.\nGbetakui woɖekagɔan (11)\nAmɛ ɖekpeɖekpe amɛ keŋuti wo sɔ nya ɖo sɔɛ do hwɛ mɛ a, le sigbe amɛ ke mu kpɔ jeagɔ o nɛnɛ kaka\nvana gakemɛ ye agbaŋugba be kojo le amɛ fuwo be ŋkɔ eye jeŋu kɔa wo la cɔn nyaxɔɖoamɛta b'a kpa\nkewoe le veveɖe nɛ amɛ a, la ɖeefyɔ be e jeagɔ.\nWo ma dohwɛ amɛɖe nɛ e nyi be nɛ e nyi be gakemɛ be le wɔ wɔnaɖe alo ɖeŋuɖe le eɖe jia ese ese ke\nteŋu po amɛ ɖo nɛnɛ be wɔnawo ŋti a mu le yebe dumɛ alo nyi dusidu tɔ̀ o. Nɛnɛake wo mu ɖo la naɛ\ntódɔndɔn sɔwugan ke je nɛ agɔa o.\nGbetakui woevegɔan (12)\nAmɛɖekpe mu ɖo la sɔ akpasɛnsɛn yi donù amɛɖe b'agbenya ke kan yeɖenɔ o, yebe xomɛ ku yeb'axwe be\nnyawo, yeb'aŋɛdohomawo, aolo a wɔ nuɖe a sɔ gble yebe nyikɔ ku yebe nyiɖiɖi o. Amɛsiamɛ ɖɔgbe la\nbyɔ so asea gbɔ nɛ ba kpɔ e ji ɖo wɔna keawo ŋti.\nGbetakui woetɔngɔan (13)\nAmɛsiamɛ ɖogbe la ɖisa le vosimɛ eye ba like ɖo afike jroe a le ye b'acɛkpadu mɛ.\nAmɛ ɖekpekpe amɛ ɖogbe la jó le du ɖekpekpedu mɛ, yeŋutɔ be dua can le emɛ; eye e la gba trɔva e mɛ.\nGbetakui woenɛgɔan (14)\nNɛ e nyi be wo tin amɛɖe yomɛ a, e ɖogbe la yi ji afike la nyi siwlape nɛ eye e la kpɔ nɛnɛ mɔnú le du\nbuwo can mɛ",
-            "Image": "c683ef8929778ff0e3a9b79fe468115d"
+            "Image": "c683ef8929778ff0e3a9b79fe468115d",
+            "Index": 3,
+            "Label": "4",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Amɛ ɖekpekpe amɛ ɖogbe le gbesɔɛ bliboa mɛ, nɛ ba na woa se nuke jɔ̀ ɖo e jia, le agbaŋugba kudo aléè\nbe ɖo la nyi tútútúa le vosi kojoɖope ke kpacɛ nɛ e ɖokwea eye le amɛɖe ji ma do mɛa, la sò nɛ amɛa be\ngoɖoejisewo ku ɖoɖo ziamɛ ji ke jea, alo nɛ anukwa ke le nya ke wo sɔ ɖote le doe hwɛ mɛ a.\nGbetakui woɖekagɔan (11)\nAmɛ ɖekpeɖekpe amɛ keŋuti wo sɔ nya ɖo sɔɛ do hwɛ mɛ a, le sigbe amɛ ke mu kpɔ jeagɔ o nɛnɛ kaka\nvana gakemɛ ye agbaŋugba be kojo le amɛ fuwo be ŋkɔ eye jeŋu kɔa wo la cɔn nyaxɔɖoamɛta b'a kpa\nkewoe le veveɖe nɛ amɛ a, la ɖeefyɔ be e jeagɔ.\nWo ma dohwɛ amɛɖe nɛ e nyi be nɛ e nyi be gakemɛ be le wɔ wɔnaɖe alo ɖeŋuɖe le eɖe jia ese ese ke\nteŋu po amɛ ɖo nɛnɛ be wɔnawo ŋti a mu le yebe dumɛ alo nyi dusidu tɔ̀ o. Nɛnɛake wo mu ɖo la naɛ\ntódɔndɔn sɔwugan ke je nɛ agɔa o.\nGbetakui woevegɔan (12)\nAmɛɖekpe mu ɖo la sɔ akpasɛnsɛn yi donù amɛɖe b'agbenya ke kan yeɖenɔ o, yebe xomɛ ku yeb'axwe be\nnyawo, yeb'aŋɛdohomawo, aolo a wɔ nuɖe a sɔ gble yebe nyikɔ ku yebe nyiɖiɖi o. Amɛsiamɛ ɖɔgbe la\nbyɔ so asea gbɔ nɛ ba kpɔ e ji ɖo wɔna keawo ŋti.\nGbetakui woetɔngɔan (13)\nAmɛsiamɛ ɖogbe la ɖisa le vosimɛ eye ba like ɖo afike jroe a le ye b'acɛkpadu mɛ.\nAmɛ ɖekpekpe amɛ ɖogbe la jó le du ɖekpekpedu mɛ, yeŋutɔ be dua can le emɛ; eye e la gba trɔva e mɛ.\nGbetakui woenɛgɔan (14)\nNɛ e nyi be wo tin amɛɖe yomɛ a, e ɖogbe la yi ji afike la nyi siwlape nɛ eye e la kpɔ nɛnɛ mɔnú le du\nbuwo can mɛ"
         },
         "4": {
-            "Label": "5",
-            "Index": 4,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Vɔa nɛ nyi be le nyawo mɛ e ze be amɛ a jeago ganɖe ɖo yebe dua, ma teŋu byɔ siwlape\nb'amɛijikpɔɔkpɔɔ o, nɛnɛake ne e gba wɔ wɔna ɖewo kewoe mu zɔnɖo dukon blaɖoduwo be ɖoɖowo ji\no.\nGbetakui woetɔngɔan (15)\nAmɛɖekpekpe amɛ ɖogbe la nyi duɖemɛtɔ̀ .\nWo mu ɖo la sɔ akpasɛnsɛn la ɖe dumɛvinyinyi b'akpa le amɛɖe ŋti alo agbe be ma ɖɔlii a byɔ du ke tɔ\njroe a o.\nGbetakui woeadɛngɔan (16)\nNɛ ŋsu alo nyɔnu ɖo vijipea, wo ɖogbe la ɖesrɔn a dogbe la ɖesrɔn a doxomɛ eye nuɖe ma túmɔ́ na wo sɔ\nkuɖo agbeze be klɛnklɛn, duɖemɛtɔ nyinyi, alo sɛ̀ nsɛǹ be nyawo ŋti o. Wo ɖo acɛ ɖekaŋukumɛ le\nwoab'agbeŋukekewo mɛ sɔ doasi na gokemɛ wo la gbe woanɔnɔ wo a.\nSrɔnsrɔnɖeɖea mu ɖo la nyi wɔ̀ w ɔ nɛ le vosi mɛa ejro mu so srɔnɖetɔwo ŋtɔ gbɔ o.\nSrɔnɖeɖe nyi nú zɔnɖo xixea be ɖoɖowo ji, eye be gba nyi adokpe nɛ amɛha; é ɖogbe nɛ amɛha ku\nacɛkpadua ba kpɔ e ji, a lebe nɛ.\nGbetakui woedrɛngɔan (17)\nAmɛɖekpekpe amɛ nɛ e nyi yedekanɔ oo, alo le habɔbɔ, alo le ha dodoɖe mɛ a, ɖogbe énú nyi amɛtɔ̀ ji.\nWo mu ɖo la sɔ akpasɛnsɛn a a tsriamɛɖe enu ke nyi é tɔa o.\nGbetakui woenyigɔan (18)\nAmɛ ɖekpekpe amɛ ɖogbe la vò le susunɖeɖe mɛ, le yebe cicinya ku sɛ̀ nsɛ̀ n b'acɛ a ye le naɛ egbe be e\ngba teŋu ɖɔli sɛ̀ nsɛ̀ n alo kan kán ɖo enu ji, e teŋu wɔ nɛnɛa yeɖekanɔ, alo le haboboɖe mɛ, le agbaŋugba",
-            "Image": "7c28bb9b6c403421e9778fa5e3746199"
+            "Image": "7c28bb9b6c403421e9778fa5e3746199",
+            "Index": 4,
+            "Label": "5",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Vɔa nɛ nyi be le nyawo mɛ e ze be amɛ a jeago ganɖe ɖo yebe dua, ma teŋu byɔ siwlape\nb'amɛijikpɔɔkpɔɔ o, nɛnɛake ne e gba wɔ wɔna ɖewo kewoe mu zɔnɖo dukon blaɖoduwo be ɖoɖowo ji\no.\nGbetakui woetɔngɔan (15)\nAmɛɖekpekpe amɛ ɖogbe la nyi duɖemɛtɔ̀ .\nWo mu ɖo la sɔ akpasɛnsɛn la ɖe dumɛvinyinyi b'akpa le amɛɖe ŋti alo agbe be ma ɖɔlii a byɔ du ke tɔ\njroe a o.\nGbetakui woeadɛngɔan (16)\nNɛ ŋsu alo nyɔnu ɖo vijipea, wo ɖogbe la ɖesrɔn a dogbe la ɖesrɔn a doxomɛ eye nuɖe ma túmɔ́ na wo sɔ\nkuɖo agbeze be klɛnklɛn, duɖemɛtɔ nyinyi, alo sɛ̀ nsɛǹ be nyawo ŋti o. Wo ɖo acɛ ɖekaŋukumɛ le\nwoab'agbeŋukekewo mɛ sɔ doasi na gokemɛ wo la gbe woanɔnɔ wo a.\nSrɔnsrɔnɖeɖea mu ɖo la nyi wɔ̀ w ɔ nɛ le vosi mɛa ejro mu so srɔnɖetɔwo ŋtɔ gbɔ o.\nSrɔnɖeɖe nyi nú zɔnɖo xixea be ɖoɖowo ji, eye be gba nyi adokpe nɛ amɛha; é ɖogbe nɛ amɛha ku\nacɛkpadua ba kpɔ e ji, a lebe nɛ.\nGbetakui woedrɛngɔan (17)\nAmɛɖekpekpe amɛ nɛ e nyi yedekanɔ oo, alo le habɔbɔ, alo le ha dodoɖe mɛ a, ɖogbe énú nyi amɛtɔ̀ ji.\nWo mu ɖo la sɔ akpasɛnsɛn a a tsriamɛɖe enu ke nyi é tɔa o.\nGbetakui woenyigɔan (18)\nAmɛ ɖekpekpe amɛ ɖogbe la vò le susunɖeɖe mɛ, le yebe cicinya ku sɛ̀ nsɛ̀ n b'acɛ a ye le naɛ egbe be e\ngba teŋu ɖɔli sɛ̀ nsɛ̀ n alo kan kán ɖo enu ji, e teŋu wɔ nɛnɛa yeɖekanɔ, alo le haboboɖe mɛ, le agbaŋugba"
         },
         "5": {
-            "Label": "6",
-            "Index": 5,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "le agun-a be ŋkɔ alo le kɔ́ɖɔ́ɔ mɛ, sɔto nufyɔfyɔ, wɔna wo, ku sɛ̀ nsɛ̀ n be kɔnuwoji.\nGbetakui woeasidekɛgɔan (19)\nAmɛ ɖekpekpe amɛ ɖo ɖo acɛ ɖo vosi be susun kudo nyaɖegblɔnwo ji; eŋwa ye na ye wo mu ɖo la\ndoŋuklɛn nɛ ɖo susun kewo be ɖesia ŋti o, alo la ji trɔ léguku ɖo woa ŋti, alo a fufu wo to nya kakan b'alɔ\nɖekpekpe mɛ sɔ je ye be dua be lipowo goɖo.\nGbetakui ewigɔan (20)\nAmɛ ɖekpekpe amɛ ɖogbe la wɔ bɔbɔ alo a dogbɛ fafawo le vosi mɛ.\nWo mu ɖo la zin amɛ ji be nɛ nɔ bɔbɔɖe mɛ o.\nGbetakui wevɔɖekagɔan (21)\nAmɛ ɖekpekpe amɛ ɖogbe la zeta, la kenu do kewo kan hahoa yebe dumɛ, ye amɛtia ŋtɔ teŋu wɔ nɛnɛa,\nalo amɛcewo be can le vosi mɛ a, la wɔɛ do e tepe.\nAmɛ ɖekpekpe amɛ le sɔsɔɛ nyinyi be ɖoɖowo mɛa ɖogbe la wɔ fyɔdɔ le yebe dumɛ.\nAmɛhawo be jro ye le nyi adokpe nɛ fyɔhawo b'acɛkpakpa. Nɛnɛa be jro la ze le akɔdada a sɔ can amɛ\nsigbe aleke be jea, eye wo ɖo la nɔ trɔwɔɛ hwenuhwenu sɔto amɛ sɔ yebe gbe na amɛ ke jroe a le\nwlawlamɛ le haho b'akɔdada me alo sɔ zɔnɖo ɖoɖo buwo ji kewoe la na vovo nɛ akɔa dada.\nGbetakui wivɔvegɔan (22)\nAmɛ ɖekpekpe amɛ ke gbe nyi hamɛvia ɖogbe nɛ wɔ kpɔ eji, a lebe n'ɛ. Nɛnɛ be belelena amɛ la kpɔ\ngomɛ le eci be mɔnuwo mɛ, hamɛvi be hyanwo kudo kewo kpata la na yebe ŋkɔyiyi le agbe mɛ.\nGbetakui wivɔtɔngɔan (23)",
-            "Image": "f1150c588a1646795faff23282c21640"
+            "Image": "f1150c588a1646795faff23282c21640",
+            "Index": 5,
+            "Label": "6",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "le agun-a be ŋkɔ alo le kɔ́ɖɔ́ɔ mɛ, sɔto nufyɔfyɔ, wɔna wo, ku sɛ̀ nsɛ̀ n be kɔnuwoji.\nGbetakui woeasidekɛgɔan (19)\nAmɛ ɖekpekpe amɛ ɖo ɖo acɛ ɖo vosi be susun kudo nyaɖegblɔnwo ji; eŋwa ye na ye wo mu ɖo la\ndoŋuklɛn nɛ ɖo susun kewo be ɖesia ŋti o, alo la ji trɔ léguku ɖo woa ŋti, alo a fufu wo to nya kakan b'alɔ\nɖekpekpe mɛ sɔ je ye be dua be lipowo goɖo.\nGbetakui ewigɔan (20)\nAmɛ ɖekpekpe amɛ ɖogbe la wɔ bɔbɔ alo a dogbɛ fafawo le vosi mɛ.\nWo mu ɖo la zin amɛ ji be nɛ nɔ bɔbɔɖe mɛ o.\nGbetakui wevɔɖekagɔan (21)\nAmɛ ɖekpekpe amɛ ɖogbe la zeta, la kenu do kewo kan hahoa yebe dumɛ, ye amɛtia ŋtɔ teŋu wɔ nɛnɛa,\nalo amɛcewo be can le vosi mɛ a, la wɔɛ do e tepe.\nAmɛ ɖekpekpe amɛ le sɔsɔɛ nyinyi be ɖoɖowo mɛa ɖogbe la wɔ fyɔdɔ le yebe dumɛ.\nAmɛhawo be jro ye le nyi adokpe nɛ fyɔhawo b'acɛkpakpa. Nɛnɛa be jro la ze le akɔdada a sɔ can amɛ\nsigbe aleke be jea, eye wo ɖo la nɔ trɔwɔɛ hwenuhwenu sɔto amɛ sɔ yebe gbe na amɛ ke jroe a le\nwlawlamɛ le haho b'akɔdada me alo sɔ zɔnɖo ɖoɖo buwo ji kewoe la na vovo nɛ akɔa dada.\nGbetakui wivɔvegɔan (22)\nAmɛ ɖekpekpe amɛ ke gbe nyi hamɛvia ɖogbe nɛ wɔ kpɔ eji, a lebe n'ɛ. Nɛnɛ be belelena amɛ la kpɔ\ngomɛ le eci be mɔnuwo mɛ, hamɛvi be hyanwo kudo kewo kpata la na yebe ŋkɔyiyi le agbe mɛ.\nGbetakui wivɔtɔngɔan (23)"
         },
         "6": {
-            "Label": "7",
-            "Index": 6,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Amɛ ɖekpekpe amɛ ɖogbe nɛ edɔ́ , eye e la sɔ e ke jroe a le ɖoɖo sɔgbe ke je amɛ ŋkumɛ eye wo ɖo la\nkpeŋukuvi ɖo e ŋti nɛ ŋgba ci dɔ́ɖ e male asi tɔ́ o.\nLe amɛ ma ɖe kpɔtɔ mɛa, amɛsiamɛ ɖogbe la xɔ eci ke je nɛ edɔ ke be le wɔ.\nAmɛ ke le wɔ dɔ́ a ɖo la ɖu eci ke sɔgbe gba je amɛ ŋkumɛ, ke la na na agbenɔnɔ adodoe yeŋutɔ ku yebe\nxomɛa eye ɖoɖo buwo kewoe la leŋukuvi ɖo e ji kpɔkpɔ le le domɛa can teŋu cɔn akpa n'ɛ.\nAmɛ ɖekpekpe amɛ ɖogbe la nɔ ku dɔwɔtɔ buwo sɔna dɔwɔtɔwo be gbɛwo gbɛwo ɖoɖo eye e gba teŋu\nda ku dɔwɔtɔ be gbɛ buwo a sɔ hwlɛn yeb'alewo gan.\nGbetakui wivɔ-enɛgɔan (24)\nAmɛ ɖekpekpe amɛ ɖogbe nɛ gbɔjɛn ku enu kewo ɖena ŋmɛ jaka; wo ma na ye dɔwɔgamɛ la wugan ale\nbe jea e, eye hwenu-hwenua, wo ɖo la nɔ na gbɔnjɛn b'azan kewoe la ɖo fɛntu.\nGbetakui wivɔatɔngɔan (25)\nAmɛ ɖekpekpe amɛ ɖogbe nɛ ke je n'ɛ le ci gomɛa nɛ ba sɔ hwlɛn yebe lanmɛsɛn, yɛŋutɔ ku yebe xomɛa\nbe tujenyi, veveɖea muɖuɖu, awu ku avɔwo, axwe alo xɔ̀ ke mɛ wo teŋu nɔ, amɛ ji kpɔkpɔ le dɔyɔ pewo\nkudo nu kewo keŋu je nɛ amɛha; e ɖogbe nɛ ŋkulélé ɖoyeamɛtia ŋti le edɔ ku sinsin mɛ, nɛ yebe ŋtilan\nb'akpaɖewo gundua, nɛ e va trɔ ahosi alo dɔɖe-manɔsitɔ alo nú kewo keŋu na n'ɛ be ɖuna a.\nNyɔnu be vijihwenuwo, vifɛnmɛnɔnɔ wó ɖogbe nɛ alɔdo ku amɛjikpɔkpɔ tɔxɛ ɖewo. Ɖevi ɖekpekpe\nɖevi ke wo jì le srɔnɖeɖe mɛ alo le srɔnmaɖe mɛa ɖogbe nɛ ŋku le ɖo amɛ ŋti ɖeka ŋkumɛ.\nGbetakui wivɔadɛngɔan (26)\nAmɛsiamɛ ɖogbe nɛ hɛnhɛn ku sukulu be nyawo. Gɔnmɛje-sukuluwo yiyi mu ɖo gɛntú o. Nufyɔamɛ le\ngɔnmɛjesukuluwo nyi nu zin amɛ ji. Wo la na ye dɔkpla pe sukuluwo la keke tà, a gbàn ɖo dua mɛ.",
-            "Image": "9b23efb6382a0ea1f3cb35ca6970d27d"
+            "Image": "9b23efb6382a0ea1f3cb35ca6970d27d",
+            "Index": 6,
+            "Label": "7",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Amɛ ɖekpekpe amɛ ɖogbe nɛ edɔ́ , eye e la sɔ e ke jroe a le ɖoɖo sɔgbe ke je amɛ ŋkumɛ eye wo ɖo la\nkpeŋukuvi ɖo e ŋti nɛ ŋgba ci dɔ́ɖ e male asi tɔ́ o.\nLe amɛ ma ɖe kpɔtɔ mɛa, amɛsiamɛ ɖogbe la xɔ eci ke je nɛ edɔ ke be le wɔ.\nAmɛ ke le wɔ dɔ́ a ɖo la ɖu eci ke sɔgbe gba je amɛ ŋkumɛ, ke la na na agbenɔnɔ adodoe yeŋutɔ ku yebe\nxomɛa eye ɖoɖo buwo kewoe la leŋukuvi ɖo e ji kpɔkpɔ le le domɛa can teŋu cɔn akpa n'ɛ.\nAmɛ ɖekpekpe amɛ ɖogbe la nɔ ku dɔwɔtɔ buwo sɔna dɔwɔtɔwo be gbɛwo gbɛwo ɖoɖo eye e gba teŋu\nda ku dɔwɔtɔ be gbɛ buwo a sɔ hwlɛn yeb'alewo gan.\nGbetakui wivɔ-enɛgɔan (24)\nAmɛ ɖekpekpe amɛ ɖogbe nɛ gbɔjɛn ku enu kewo ɖena ŋmɛ jaka; wo ma na ye dɔwɔgamɛ la wugan ale\nbe jea e, eye hwenu-hwenua, wo ɖo la nɔ na gbɔnjɛn b'azan kewoe la ɖo fɛntu.\nGbetakui wivɔatɔngɔan (25)\nAmɛ ɖekpekpe amɛ ɖogbe nɛ ke je n'ɛ le ci gomɛa nɛ ba sɔ hwlɛn yebe lanmɛsɛn, yɛŋutɔ ku yebe xomɛa\nbe tujenyi, veveɖea muɖuɖu, awu ku avɔwo, axwe alo xɔ̀ ke mɛ wo teŋu nɔ, amɛ ji kpɔkpɔ le dɔyɔ pewo\nkudo nu kewo keŋu je nɛ amɛha; e ɖogbe nɛ ŋkulélé ɖoyeamɛtia ŋti le edɔ ku sinsin mɛ, nɛ yebe ŋtilan\nb'akpaɖewo gundua, nɛ e va trɔ ahosi alo dɔɖe-manɔsitɔ alo nú kewo keŋu na n'ɛ be ɖuna a.\nNyɔnu be vijihwenuwo, vifɛnmɛnɔnɔ wó ɖogbe nɛ alɔdo ku amɛjikpɔkpɔ tɔxɛ ɖewo. Ɖevi ɖekpekpe\nɖevi ke wo jì le srɔnɖeɖe mɛ alo le srɔnmaɖe mɛa ɖogbe nɛ ŋku le ɖo amɛ ŋti ɖeka ŋkumɛ.\nGbetakui wivɔadɛngɔan (26)\nAmɛsiamɛ ɖogbe nɛ hɛnhɛn ku sukulu be nyawo. Gɔnmɛje-sukuluwo yiyi mu ɖo gɛntú o. Nufyɔamɛ le\ngɔnmɛjesukuluwo nyi nu zin amɛ ji. Wo la na ye dɔkpla pe sukuluwo la keke tà, a gbàn ɖo dua mɛ."
         },
         "7": {
-            "Label": "8",
-            "Index": 7,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Wo la na mɔ́ nɛ nufyɔfyɔ le sukulu ganwo la nyi ke je nɛ amɛa sɔ zɔndo nyányá ŋti.\nNufyɔfyɔ ɖo la xɔ dɔ́ so agbetɔ be vùn viùn bliboa ŋti, la do ka abɔ-kamɛ nɛ esi nana amɛbusewo ku\nvosiwo. E ɖo la na ye nugɔnmɛ sese, agɔ̀ sɔ́ kè amɛ ku xlɔnkadodo la nɔ kɔtawo kpata ku sɛ̀ nsɛ̀ nwo kpata\ndomɛ eye e la gba na dukɔn blaɖoduwo be wɔnawo ŋkɔyiyi nɛ fafa ba nɔ anyi.\nGbetakui wivɔadrɛngɔan (27)\nAmɛ ɖekpekpe amɛ ɖogbe le vosi mɛ, a do nù enú kewo kan amɛha b'agbea le dèkɔnuwo ku kamɛtete be\nmɔ́ wo nú eye e ɖo la sèvivi le aɖaŋuɖɔ́ wo ku nugɔnmɛjiji be ŋkɔyiyi ŋti.\nAmɛ ɖekpekpe amɛ ɖogbe nɛ woa kpɔ yeb'alewo ji, le hadomɛ b'agbe mɛ alo enu kewo kpata nyi e tɔ̀ le\nnugɔnmɛjiji ku nuŋɔŋlɔwo mɛ.\nGbetakui wivɔenyigɔan (28)\nAmɛ ɖelkpekpe amɛ ɖogbe la wɔ ye la yebe dumɛ, le wɛkɛ bliboa mɛa amɛbusewo ku vosinɔnɔ wo be\nzanzawo la zɔn ɖo e ji tútútú.\nGbetakui wivɔasiɖekɛgɔan (29)\nAmɛ ɖekpekpe amɛ ɖó dɔ́ la wɔ̀ nɛ amɛha ke nɛ vosi be ŋkɔyiyi bliboa teŋu nɔ nɛ ye amɛtia.\nLe zanzanwo nɛ vivisesewo le abusewo ku vosiwo mɛ a wo ma do lipo ɖe tóvò nɛ eke sese a ɖoɖe anyi a\nsɔ ɖɔkpe jesinana ku esi nɛ goɖoejisisewo ku vosiwo ji, alea be wo wɔ ɖo ɖoɖo zin amɛ ji so agbenɔnɔ\nɖɔnwin, ɖoɖo sɔgbe le ha domɛ, ku tujeanyi bliboa le amɛsia be ha mɛ.\nWo ma zan aleke be vosinɔnɔ a so je ga goɖo dukɔn blaɖoduwo be dodowo o.\nGbetakui gbangɔan (30)\nNɔnɔmɛ alo wɔna ɖekpekpe mu ɖo la na ye gbefanɖeɖe kea la zé sigbe acɛkpadu ɖe ye sɔɛ ɖote nɛnɛ, alo",
-            "Image": "ebae02844eafc855a11bc55f57457142"
+            "Image": "ebae02844eafc855a11bc55f57457142",
+            "Index": 7,
+            "Label": "8",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Wo la na mɔ́ nɛ nufyɔfyɔ le sukulu ganwo la nyi ke je nɛ amɛa sɔ zɔndo nyányá ŋti.\nNufyɔfyɔ ɖo la xɔ dɔ́ so agbetɔ be vùn viùn bliboa ŋti, la do ka abɔ-kamɛ nɛ esi nana amɛbusewo ku\nvosiwo. E ɖo la na ye nugɔnmɛ sese, agɔ̀ sɔ́ kè amɛ ku xlɔnkadodo la nɔ kɔtawo kpata ku sɛ̀ nsɛ̀ nwo kpata\ndomɛ eye e la gba na dukɔn blaɖoduwo be wɔnawo ŋkɔyiyi nɛ fafa ba nɔ anyi.\nGbetakui wivɔadrɛngɔan (27)\nAmɛ ɖekpekpe amɛ ɖogbe le vosi mɛ, a do nù enú kewo kan amɛha b'agbea le dèkɔnuwo ku kamɛtete be\nmɔ́ wo nú eye e ɖo la sèvivi le aɖaŋuɖɔ́ wo ku nugɔnmɛjiji be ŋkɔyiyi ŋti.\nAmɛ ɖekpekpe amɛ ɖogbe nɛ woa kpɔ yeb'alewo ji, le hadomɛ b'agbe mɛ alo enu kewo kpata nyi e tɔ̀ le\nnugɔnmɛjiji ku nuŋɔŋlɔwo mɛ.\nGbetakui wivɔenyigɔan (28)\nAmɛ ɖelkpekpe amɛ ɖogbe la wɔ ye la yebe dumɛ, le wɛkɛ bliboa mɛa amɛbusewo ku vosinɔnɔ wo be\nzanzawo la zɔn ɖo e ji tútútú.\nGbetakui wivɔasiɖekɛgɔan (29)\nAmɛ ɖekpekpe amɛ ɖó dɔ́ la wɔ̀ nɛ amɛha ke nɛ vosi be ŋkɔyiyi bliboa teŋu nɔ nɛ ye amɛtia.\nLe zanzanwo nɛ vivisesewo le abusewo ku vosiwo mɛ a wo ma do lipo ɖe tóvò nɛ eke sese a ɖoɖe anyi a\nsɔ ɖɔkpe jesinana ku esi nɛ goɖoejisisewo ku vosiwo ji, alea be wo wɔ ɖo ɖoɖo zin amɛ ji so agbenɔnɔ\nɖɔnwin, ɖoɖo sɔgbe le ha domɛ, ku tujeanyi bliboa le amɛsia be ha mɛ.\nWo ma zan aleke be vosinɔnɔ a so je ga goɖo dukɔn blaɖoduwo be dodowo o.\nGbetakui gbangɔan (30)\nNɔnɔmɛ alo wɔna ɖekpekpe mu ɖo la na ye gbefanɖeɖe kea la zé sigbe acɛkpadu ɖe ye sɔɛ ɖote nɛnɛ, alo"
         },
         "8": {
-            "Label": "9",
-            "Index": 8,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "na gbe amɛɖe, habɔbɔɖe be ba wɔ wɔnaɖe ke la hɛn nu gble le amɛbusewo ku vosinɔnɔ kewo ŋ wo po\nnupo so a o.",
-            "Image": "c0de25b102fcb1b960ba8c70737ca286"
+            "Image": "c0de25b102fcb1b960ba8c70737ca286",
+            "Index": 8,
+            "Label": "9",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "na gbe amɛɖe, habɔbɔɖe be ba wɔ wɔnaɖe ke la hɛn nu gble le amɛbusewo ku vosinɔnɔ kewo ŋ wo po\nnupo so a o."
         }
     }
 }

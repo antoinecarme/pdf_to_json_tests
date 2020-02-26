@@ -1,141 +1,141 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581468166,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
-            "Index": 0,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "TOTIHITAWË THAMOTIMA THE Ã\nPREÁMBULO\nEnaha thë puhi taeo kuaai, wã rëamai thë, peheti he usukuwë thë, wã toprao thë kãi, hei thë pë nohi\ntaemopou piyëkou, ĩhĩ thë pë nohi ĩhĩpimopouha totihitawë thamotima thë hami he usukuwë thë pë nohi\ntaeayou totihitaopë,\nEnaha thë puhi taeo kuaai, totihitawë thamotima thëni thë taimi ha, thë pë kãi shomiaprai ha, hei wãrĩtiwë\nthamotima thë kipi thaprarema. Komi pëmaki rë kui pëmaki kiriihou mai, pëmaki kãi no preaai mai pëmaki\npërihou piyëkopë, pëmaki ã topraopë, pëhetiapramotima thë pë hami.\nEnaha thë puhi taeo kuaai, totihitawë thamotima thë rë wã nosie huamotima thëni thë nohi thapopë, komi\nurihitheri thë pë no yuayou maõpë,\nEnaha thë puhi taeo kuaai, thë pë përihiwë rë piyëkëi thë pë puhi taamayõpë thë pë rĩmimayõpë,\nEnaha thë puhi taeo kuaai, komi urihitheri ONU thë ha thë pehetiapraihe, totihithawë thamotima thë hami,\nsuwë wãro pei pëmaki no rẽ kui thë pë no ã hẽ usukuwë, kama pëni thë ã wawemarẽmahẽ thë pë puhi rë\ntaamaĩwẽĩ,\nEnaha thë puhi taeo kuaai, komi urihitheri pë rë kui ONU thë iha thë pë ã wawëtokema totihitawë thë ã nosi\nriã ha poheni,\nEnaha thë puhi taeo kuaai, thë pë ã rẽ wawëtokenowẽĩ thë pëni thë ã hĩrĩapehe thë ã nosi kãi popehe\nĨhĩ thë no ã ha TOTIHITAWË THAMOTIMA THË Ã wëyëi piyëkouhe.\nHetipëtëwë 1\nKõmi thë pë rë përiprawë rë piyëkëi, he usukuwë thë pë keprou ai thë ã rëamaihã no ã heparohowë,",
-            "Image": "d88ef03f0b1e85e1df5c9cf76503c4f6"
+            "Image": "d88ef03f0b1e85e1df5c9cf76503c4f6",
+            "Index": 0,
+            "Label": "1",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "TOTIHITAWË THAMOTIMA THE Ã\nPREÁMBULO\nEnaha thë puhi taeo kuaai, wã rëamai thë, peheti he usukuwë thë, wã toprao thë kãi, hei thë pë nohi\ntaemopou piyëkou, ĩhĩ thë pë nohi ĩhĩpimopouha totihitawë thamotima thë hami he usukuwë thë pë nohi\ntaeayou totihitaopë,\nEnaha thë puhi taeo kuaai, totihitawë thamotima thëni thë taimi ha, thë pë kãi shomiaprai ha, hei wãrĩtiwë\nthamotima thë kipi thaprarema. Komi pëmaki rë kui pëmaki kiriihou mai, pëmaki kãi no preaai mai pëmaki\npërihou piyëkopë, pëmaki ã topraopë, pëhetiapramotima thë pë hami.\nEnaha thë puhi taeo kuaai, totihitawë thamotima thë rë wã nosie huamotima thëni thë nohi thapopë, komi\nurihitheri thë pë no yuayou maõpë,\nEnaha thë puhi taeo kuaai, thë pë përihiwë rë piyëkëi thë pë puhi taamayõpë thë pë rĩmimayõpë,\nEnaha thë puhi taeo kuaai, komi urihitheri ONU thë ha thë pehetiapraihe, totihithawë thamotima thë hami,\nsuwë wãro pei pëmaki no rẽ kui thë pë no ã hẽ usukuwë, kama pëni thë ã wawemarẽmahẽ thë pë puhi rë\ntaamaĩwẽĩ,\nEnaha thë puhi taeo kuaai, komi urihitheri pë rë kui ONU thë iha thë pë ã wawëtokema totihitawë thë ã nosi\nriã ha poheni,\nEnaha thë puhi taeo kuaai, thë pë ã rẽ wawëtokenowẽĩ thë pëni thë ã hĩrĩapehe thë ã nosi kãi popehe\nĨhĩ thë no ã ha TOTIHITAWË THAMOTIMA THË Ã wëyëi piyëkouhe.\nHetipëtëwë 1\nKõmi thë pë rë përiprawë rë piyëkëi, he usukuwë thë pë keprou ai thë ã rëamaihã no ã heparohowë,"
         },
         "1": {
-            "Label": "2",
-            "Index": 1,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "totihitawë thë pë riã rẽ thaiwehei hami, thë pë puhi tao kãi përihiwëha, thë pë puhi kãi katehewëha hawë\nkama thë pë mashi shĩro përihimopë.\nHetipëtëwë 2\nKõmi thë pë ihami totihitawë thamotima thë kuprawë , thë ã rë maiha thë pë përiprawë, wã katehano thëni\nthë wãhã no wayoano, suwë, wãro, pei kahi, thë pë rë reahumouwẽĩ, napë thë ã, no matohipi, no preaarewë,\nthë pë rë kepronowẽĩ hami, ai thë pë sho, shomi urihitheri himayõumahẽĩ.\nKõmi thë pë ihami totihitawë thamotima thë kuprawë , thë ã rë maiha thë pë përiprawë, ma kui ai thë pëni thë\npë urihipi rëpoumakuhei thë pë riã përio toprao he yatio.\nHetipëtëwë 3\nYãmi kõmi thë pë ihami totihitawë thamotima thë kuprawë thë pë rë përiaiwei thë pë kuprawë, ai thë ã\nrëamai, peheti thë pë rë përiaiwei.\nHetipëtëwë 4\nAi thë pë iha horemou wamaki no ohotamopi mai, horemou ohotamomamotima thë thamai puhiomi he\nparohowë.\nHetipëtëwë 5\nThë pë shëmou taomi, thë pë wãhã kãi wãrĩhĩthomamou taomi, thë pë shëmou wãrĩtiai taomi.\nHetipëtëwë 6\nThë pë përiprawë rë piyëkëi thë pë ihami totihitawë thamotima thë kuprawë, thë pë nohi riã hatukëmopou\npiyëkou.\nHetipëtëwë 7",
-            "Image": "be184017356c63eea9a2c9640eb5df00"
+            "Image": "be184017356c63eea9a2c9640eb5df00",
+            "Index": 1,
+            "Label": "2",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "totihitawë thë pë riã rẽ thaiwehei hami, thë pë puhi tao kãi përihiwëha, thë pë puhi kãi katehewëha hawë\nkama thë pë mashi shĩro përihimopë.\nHetipëtëwë 2\nKõmi thë pë ihami totihitawë thamotima thë kuprawë , thë ã rë maiha thë pë përiprawë, wã katehano thëni\nthë wãhã no wayoano, suwë, wãro, pei kahi, thë pë rë reahumouwẽĩ, napë thë ã, no matohipi, no preaarewë,\nthë pë rë kepronowẽĩ hami, ai thë pë sho, shomi urihitheri himayõumahẽĩ.\nKõmi thë pë ihami totihitawë thamotima thë kuprawë , thë ã rë maiha thë pë përiprawë, ma kui ai thë pëni thë\npë urihipi rëpoumakuhei thë pë riã përio toprao he yatio.\nHetipëtëwë 3\nYãmi kõmi thë pë ihami totihitawë thamotima thë kuprawë thë pë rë përiaiwei thë pë kuprawë, ai thë ã\nrëamai, peheti thë pë rë përiaiwei.\nHetipëtëwë 4\nAi thë pë iha horemou wamaki no ohotamopi mai, horemou ohotamomamotima thë thamai puhiomi he\nparohowë.\nHetipëtëwë 5\nThë pë shëmou taomi, thë pë wãhã kãi wãrĩhĩthomamou taomi, thë pë shëmou wãrĩtiai taomi.\nHetipëtëwë 6\nThë pë përiprawë rë piyëkëi thë pë ihami totihitawë thamotima thë kuprawë, thë pë nohi riã hatukëmopou\npiyëkou.\nHetipëtëwë 7"
         },
         "2": {
-            "Label": "3",
-            "Index": 2,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Wã nosie huamotima a hami, komi hititiwë thë pë he usukuwë, thë pë nohi kãi thapou piyëkou. Hei wã\nkatehano thë rë kui thëni, hititiwë wã nosie huamatima ani wãrĩhĩtho thamotima thë hami, thë pë he komi\nrupou piyëkou; wãrĩhĩto thamotima thë hami thë pë no yuo maõpë.\nHetipëtëwë 8\nKomi hititiwë thë pë rë kui, thë pë payeriopë nohi thaporewë pata pëni, pë nohi rẽ hatukëawei kama\nurihithëri thë pëni , totihitawë thamotima thë wãrĩhĩtho thai maõpehe.\nHetipëtëwë 9\nEnaha pëtawë thë pë huëamou taomi, thë pë kãi õkamopou taomi ai thë urihi hami thë pë shimamou ayao\ntaomi.\nHetipëtëwë 10\nKomi hititiwë thë pë ihami, totihitawë thamotima thë kuprawë, thë pë he pruka usukuwë, nohi thaporewë\npata pë mithari hami, thë a riã hai thë a riã ha hĩrĩãmoni thë rë thanowẽĩ thë hami thë wãhã no wëyëihe tëhë,\nthë no ã he riã ha ruoni.\nHetipëtëwë 11\nHititiwë thë pë rë kui thë pëni ai thë ma thamonomai thë pë wãhãno wëyëihe tëhë thë pehetiaprai haia\nmaheĩha thë shurukuamou haio taomi. Nohi thaporewë pata pëni thë pehetiaprai haia maheĩha pë noa\nnapëmou taomi.\nThë pë wãhãno wëyëyono ma mai, thë pë wãhãno wëyëyou, enaha thë thamou taomi. Hapa hote wãrĩtĩwë thë\nani hei tëhë thë wãrĩtĩwë he parohowë thë thamou taomi.\nHetipëtëwë 12",
-            "Image": "8cd86a6124e8de9728a99fb74b6e3df2"
+            "Image": "8cd86a6124e8de9728a99fb74b6e3df2",
+            "Index": 2,
+            "Label": "3",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Wã nosie huamotima a hami, komi hititiwë thë pë he usukuwë, thë pë nohi kãi thapou piyëkou. Hei wã\nkatehano thë rë kui thëni, hititiwë wã nosie huamatima ani wãrĩhĩtho thamotima thë hami, thë pë he komi\nrupou piyëkou; wãrĩhĩto thamotima thë hami thë pë no yuo maõpë.\nHetipëtëwë 8\nKomi hititiwë thë pë rë kui, thë pë payeriopë nohi thaporewë pata pëni, pë nohi rẽ hatukëawei kama\nurihithëri thë pëni , totihitawë thamotima thë wãrĩhĩtho thai maõpehe.\nHetipëtëwë 9\nEnaha pëtawë thë pë huëamou taomi, thë pë kãi õkamopou taomi ai thë urihi hami thë pë shimamou ayao\ntaomi.\nHetipëtëwë 10\nKomi hititiwë thë pë ihami, totihitawë thamotima thë kuprawë, thë pë he pruka usukuwë, nohi thaporewë\npata pë mithari hami, thë a riã hai thë a riã ha hĩrĩãmoni thë rë thanowẽĩ thë hami thë wãhã no wëyëihe tëhë,\nthë no ã he riã ha ruoni.\nHetipëtëwë 11\nHititiwë thë pë rë kui thë pëni ai thë ma thamonomai thë pë wãhãno wëyëihe tëhë thë pehetiaprai haia\nmaheĩha thë shurukuamou haio taomi. Nohi thaporewë pata pëni thë pehetiaprai haia maheĩha pë noa\nnapëmou taomi.\nThë pë wãhãno wëyëyono ma mai, thë pë wãhãno wëyëyou, enaha thë thamou taomi. Hapa hote wãrĩtĩwë thë\nani hei tëhë thë wãrĩtĩwë he parohowë thë thamou taomi.\nHetipëtëwë 12"
         },
         "3": {
-            "Label": "4",
-            "Index": 3,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Ai thë puhi pëtouha ayaroni , thë pë yahipi hami, thë he haprou ayou taomi, therihë pë ihami kãi, õniõni a\nshimaihe tëhë thë kãi mii pario ayao taomihe, komi thë pë mithari ha wa thë wãhãno wëyëi ayao taomi. Ĩhĩ\nthë pë hami totihitawë thamotima thë rë kui wã nosie huamotima thëni thë pë nohi thapou piyëkou.\nHetipëtëwë 13\nHititiwë thë pë ihami totihitawë thamotima thë kuprawë, ai thë ã rëamaihã thë pë riã huu piyëkou, wa thë\nnohi rë përipouwei thë urihi ha thë pë kãi riã shaponomou.\nHititiwë thë pë ihami totitihitawë thamotima thë kuprawë ĩhĩ thë no ãhã thë pë rë përihiwë rë piyëkëi thë pë\nurihipi hami, thë pë kãi riã huu, thë pë urihipi nohi kãi rë përiprai, thë pë urihipi nohi kãi riã kõõ mi yapao.\nHetipëtëwë 14\nAi thë yapëkamahe tëhë, kõmi hititiwë thë pë ihami totihitawë thamotima thë kuprawë thë pë rë\nhithëpraamaiwẽĩ a urihi ha, ĩhĩ ã hã thë pë ã riã toprao, shomi thë pë urihipi hami kãi.\nHei a hami totihitawë thamotima thë rë kui thë wãhã pomou taomi thë kãi puhipramou taomi, wã nosie\nhuamotima nohi thaporewë pëni thë pë huëmamaihẽ tëhë peheti kõmi yapëkamotima thë pë hami pei thë\nhapa rë hupëtarenowẽheĩ thë pëni kãi.\nHetipëtëwë 15\nHititiwë thë pë ihami totitihitawë thamotima thë kuprawë, kama urihi theri thë pë wãhã hirou katitou.\nThë puhi pëtouha ayaroni kama urihitheri thë rë kui thë mapramai ayao taomi, totihitawë thamotima thëni\nhawë kama e thë wãhã riã hiroprou kuo.\nHetipëtëwë 16\nWãrõ, suwë pë sho, kama huya thë pë riã rẽ toayouwei hami totihitawë thamotima thë kuprawë ai thë ã rëo",
-            "Image": "26388fde5399ccad3c4031e22cbc008c"
+            "Image": "26388fde5399ccad3c4031e22cbc008c",
+            "Index": 3,
+            "Label": "4",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Ai thë puhi pëtouha ayaroni , thë pë yahipi hami, thë he haprou ayou taomi, therihë pë ihami kãi, õniõni a\nshimaihe tëhë thë kãi mii pario ayao taomihe, komi thë pë mithari ha wa thë wãhãno wëyëi ayao taomi. Ĩhĩ\nthë pë hami totihitawë thamotima thë rë kui wã nosie huamotima thëni thë pë nohi thapou piyëkou.\nHetipëtëwë 13\nHititiwë thë pë ihami totihitawë thamotima thë kuprawë, ai thë ã rëamaihã thë pë riã huu piyëkou, wa thë\nnohi rë përipouwei thë urihi ha thë pë kãi riã shaponomou.\nHititiwë thë pë ihami totitihitawë thamotima thë kuprawë ĩhĩ thë no ãhã thë pë rë përihiwë rë piyëkëi thë pë\nurihipi hami, thë pë kãi riã huu, thë pë urihipi nohi kãi rë përiprai, thë pë urihipi nohi kãi riã kõõ mi yapao.\nHetipëtëwë 14\nAi thë yapëkamahe tëhë, kõmi hititiwë thë pë ihami totihitawë thamotima thë kuprawë thë pë rë\nhithëpraamaiwẽĩ a urihi ha, ĩhĩ ã hã thë pë ã riã toprao, shomi thë pë urihipi hami kãi.\nHei a hami totihitawë thamotima thë rë kui thë wãhã pomou taomi thë kãi puhipramou taomi, wã nosie\nhuamotima nohi thaporewë pëni thë pë huëmamaihẽ tëhë peheti kõmi yapëkamotima thë pë hami pei thë\nhapa rë hupëtarenowẽheĩ thë pëni kãi.\nHetipëtëwë 15\nHititiwë thë pë ihami totitihitawë thamotima thë kuprawë, kama urihi theri thë pë wãhã hirou katitou.\nThë puhi pëtouha ayaroni kama urihitheri thë rë kui thë mapramai ayao taomi, totihitawë thamotima thëni\nhawë kama e thë wãhã riã hiroprou kuo.\nHetipëtëwë 16\nWãrõ, suwë pë sho, kama huya thë pë riã rẽ toayouwei hami totihitawë thamotima thë kuprawë ai thë ã rëo"
         },
         "4": {
-            "Label": "5",
-            "Index": 4,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "taomi. Ai thë ã rëamaihã suwë , wãro pë sho thë pë riã toayou, kama theri thë pë wãhã hirou, reahumotima\nkama urihithëri, ĩhĩ thë pëni totihitawë thamotima thë hami thë pë ã rëo taomi, kama thë pë mashi riã kuprou.\nShoati totihitawë thamotima thë ha thë pë ã riã toprao, thë pë toayou pario tëhë, thë pë ã toprao rë kuonowẽĩ\nnaha, thë ã riã toprao kuo shoao.\nKama këkipi rë puhiyouwei, peheti këkipi riã toayou.\nKama thë pë mashi shĩroni pë shapono praukamaihẽ ĩhĩ thë no ãhã totihitawë thamotima thë rë kui, kama\nurihitheri thëni thë nohi thapouhe, kama thë pë shaponopi kãini.\nHetipëtëwë 17\nHititiwë thë pë rë kui thë pë matohipi riã kuo, totihitawë thamotima thë ha, thë pë rë perihii hami kama thë pë\nurihipi riã rii kuomopotayou.\nPei thë puhi pëtouha ayaroni thë pë matohipi riã rëmaimihe thë pë rë perihii hami urihi ã kãi rëmai taomihe.\nHetipëtëwë 18\nHititiwë thë pë rë kui ai thë ã rëamaihã totihitawë thamotima thë ha thë pë puhi tao kãi riã përio,\nreahumotima thë hami, thë pë puhi katehewëha; totihitawë thamotima thë ha thë ã kãi koyokoa reahumotima\nwa thë riã rë hemihipraiwei, ai thë ã rëamaihã thë riã owëmamou komi thë pë mithari ha thë kãi riã\nowëmaihe, thë pë hirayou tëhë, thë pë owëmayõũ tëhë, peheti thë ã huamou sharirou ha.\nHetipëtëwë 19\nAi thë ã rëamaihã hititiwë thë pë rë kui yãmi thë pë puhi riã piyëkou, thë wãhãno riã rë wayoaiwehei; ĩhã thë\nã kãi koyokoa thë ã hai tëhë thë ã nohi wãrimopou taomi, ma kui yaniki thë riã wãrimou kuaahërii, thë ã ríã\nopisi tëamou kuaaherii, thë ã riã wëyëmou piyëkou wãnoshimamotima thë pë hami.",
-            "Image": "8394a5255201ec3d5a9d0cc662e61442"
+            "Image": "8394a5255201ec3d5a9d0cc662e61442",
+            "Index": 4,
+            "Label": "5",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "taomi. Ai thë ã rëamaihã suwë , wãro pë sho thë pë riã toayou, kama theri thë pë wãhã hirou, reahumotima\nkama urihithëri, ĩhĩ thë pëni totihitawë thamotima thë hami thë pë ã rëo taomi, kama thë pë mashi riã kuprou.\nShoati totihitawë thamotima thë ha thë pë ã riã toprao, thë pë toayou pario tëhë, thë pë ã toprao rë kuonowẽĩ\nnaha, thë ã riã toprao kuo shoao.\nKama këkipi rë puhiyouwei, peheti këkipi riã toayou.\nKama thë pë mashi shĩroni pë shapono praukamaihẽ ĩhĩ thë no ãhã totihitawë thamotima thë rë kui, kama\nurihitheri thëni thë nohi thapouhe, kama thë pë shaponopi kãini.\nHetipëtëwë 17\nHititiwë thë pë rë kui thë pë matohipi riã kuo, totihitawë thamotima thë ha, thë pë rë perihii hami kama thë pë\nurihipi riã rii kuomopotayou.\nPei thë puhi pëtouha ayaroni thë pë matohipi riã rëmaimihe thë pë rë perihii hami urihi ã kãi rëmai taomihe.\nHetipëtëwë 18\nHititiwë thë pë rë kui ai thë ã rëamaihã totihitawë thamotima thë ha thë pë puhi tao kãi riã përio,\nreahumotima thë hami, thë pë puhi katehewëha; totihitawë thamotima thë ha thë ã kãi koyokoa reahumotima\nwa thë riã rë hemihipraiwei, ai thë ã rëamaihã thë riã owëmamou komi thë pë mithari ha thë kãi riã\nowëmaihe, thë pë hirayou tëhë, thë pë owëmayõũ tëhë, peheti thë ã huamou sharirou ha.\nHetipëtëwë 19\nAi thë ã rëamaihã hititiwë thë pë rë kui yãmi thë pë puhi riã piyëkou, thë wãhãno riã rë wayoaiwehei; ĩhã thë\nã kãi koyokoa thë ã hai tëhë thë ã nohi wãrimopou taomi, ma kui yaniki thë riã wãrimou kuaahërii, thë ã ríã\nopisi tëamou kuaaherii, thë ã riã wëyëmou piyëkou wãnoshimamotima thë pë hami."
         },
         "5": {
-            "Label": "6",
-            "Index": 5,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Hetipëtëwë 20\nHititiwë thë pë ihami totihitawe thamotima thë kuprawë ai thë ã rëamaihã thë pë ã riã wayou kãi yototai thë\npë riã rë thaiwehei thë pë wãhãno wayoaihe ha.\nAi thëni yototamotima thë hami thë shimai ayao taomi.\nHetipëtëwë 21\nHititiwë thë pë ihami totihitawë thamotima thë kuprawë patamorẽwẽ thë pë rë kui thë pë ã wayou kãi riã\nroaai narẽõ kama peni a pata rë thanowẽhẽi pë mithari ha kãi.\nHititiwë thë pë ihami totihitawë thamotima thë kuprawë kama thë pë rë përiprai hami thë ohotepi rë shatiprai,\nthë pë riã ohotamou toaai.\nPatamorẽwẽ thë pë rë kui, thë pë shaponopi kãi rë përiowei thë pë iha thë pë patamou. Ei thë rë kui thë pë\nshaponopi kãi rë përiowei thë peni thë pë wãhãno ha wayoaheni thë yaiaprai shoaohe yaiamotima thë kuo\ntëhë thë pë yaiamou hãthõõ.\nHetipëtëwë 22\nHititiwë thë pë ihami totihitawë thamotima thë kuprawë kama thë pë rë përiprai hami pata thë pëni thë pë\nnohi kãi hatukepopehe, ai urihitheri thë pë patani thë pë nohi kãi hatukëpopehë, thë pë puhi topramapopehe,\nĩhĩ thë nohi yaimopou thë pë puhi wetinahamou maõpë, peheti thë pë përihopë.\nHetipëtëwë 23\nHititiwë thë pë ihami totihitawë thamotima thë kuprawë, thë pë urihipi riã hupëo, ai thë ã rëamaihã thë ohote\nhurimopë, thë prewë thaporaheni, pata thëni ohotamorẽwẽ thë pë rë kui thë pë nohi pëyëpou thë pë ohote\nkuo maõ tëhë.",
-            "Image": "b226f03d41d4cb786e195f67cde6e216"
+            "Image": "b226f03d41d4cb786e195f67cde6e216",
+            "Index": 5,
+            "Label": "6",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Hetipëtëwë 20\nHititiwë thë pë ihami totihitawe thamotima thë kuprawë ai thë ã rëamaihã thë pë ã riã wayou kãi yototai thë\npë riã rë thaiwehei thë pë wãhãno wayoaihe ha.\nAi thëni yototamotima thë hami thë shimai ayao taomi.\nHetipëtëwë 21\nHititiwë thë pë ihami totihitawë thamotima thë kuprawë patamorẽwẽ thë pë rë kui thë pë ã wayou kãi riã\nroaai narẽõ kama peni a pata rë thanowẽhẽi pë mithari ha kãi.\nHititiwë thë pë ihami totihitawë thamotima thë kuprawë kama thë pë rë përiprai hami thë ohotepi rë shatiprai,\nthë pë riã ohotamou toaai.\nPatamorẽwẽ thë pë rë kui, thë pë shaponopi kãi rë përiowei thë pë iha thë pë patamou. Ei thë rë kui thë pë\nshaponopi kãi rë përiowei thë peni thë pë wãhãno ha wayoaheni thë yaiaprai shoaohe yaiamotima thë kuo\ntëhë thë pë yaiamou hãthõõ.\nHetipëtëwë 22\nHititiwë thë pë ihami totihitawë thamotima thë kuprawë kama thë pë rë përiprai hami pata thë pëni thë pë\nnohi kãi hatukepopehe, ai urihitheri thë pë patani thë pë nohi kãi hatukëpopehë, thë pë puhi topramapopehe,\nĩhĩ thë nohi yaimopou thë pë puhi wetinahamou maõpë, peheti thë pë përihopë.\nHetipëtëwë 23\nHititiwë thë pë ihami totihitawë thamotima thë kuprawë, thë pë urihipi riã hupëo, ai thë ã rëamaihã thë ohote\nhurimopë, thë prewë thaporaheni, pata thëni ohotamorẽwẽ thë pë rë kui thë pë nohi pëyëpou thë pë ohote\nkuo maõ tëhë."
         },
         "6": {
-            "Label": "7",
-            "Index": 6,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Hititiwë thë pë ihami totihitawë thamotima thë kuprawë, thë pë ohotamou he usukuwë rë kurenaha thë pë no\nkãi kõõ he usukuopë.\nHititiwë thë pë ihami totihitawë thamotima thë kuprawë he husukuwë thë pë no kõõ, thë pë puhi kãi owëhëo,\nkama pë shĩro rë kui e pë puhi kãi përio mi hetuopë e thëki peheriproimiha pë kãi rẽ përioweini ai e thëki he\nriã tikëai e thëki he usukuopë.\nHititiwë thë pë ihami totihitawë thamotima thë kuprawë, sindicato thë pë riã thayou, thë pëhe rumopopë.\nHetipëtëwë 24\nHititiwë thë pë ihami totihitawë thamotima thë kuprawë, thë pë washimi horuu yãnikio pariopë, thë pë riã\nhuu toatarou, toprao thë pë kãi rẽ ohotamonowẽĩ thë no kãi ríã kõãmamou thë ma yãnikia parirani.\nHetipëtëwë 25\nHititiwë thë pë ihami totihitawë thamotima thë kuprawë, thë pë riã përio toprao kama theri thë pë shĩro sho,\nnii pë hami, yahi pë sho, thë pë kãi temio topraopë, thë pë kãi titihopë , thë pë nohi kãi rẽ yaimopouwei thë\npë sho. Enaha hititiwë thë pë pehi totihitawë thamotima thë ha thë kua thë pë rë ohotamoumai, pë rë\nshawarapiwei, thë pë no rë huwëmai, thë pë he rë paharaprai, thë pë rë wãrõ rẽ patai, thë pë suwe kãi rẽ\npatai, ai thë pë wãrĩtiwe kãini thë pë pehetipopehe.\nSuwë shipënapi thë pë rë kui, ihiru, marãnapi, suwëhëri marãnapi thë pë komi sho, totihitawë thamotima\nthëni, thë pë nohi thamopou topraopë. Hititiwë ihiru hĩĩpi kua pë rë keprouwei, pë hĩĩpi ma kua mai pë kãi rẽ\nkeprouwei, totihitawë thamotima thë kuprawë peheti pë nohi kãi thaprawë.\nHetipëtëwë26\nHititiwë thë pë ihami totihitawë thamotima thë kuprawë, thë pë kãi hirayopë. Hiramotima thë pë rë kui,\nnomraiha thë pë hiramou pariopë. Hiramou pariotima thë hami thë pë ihirupi shimio he parohoopë. Hiramou",
-            "Image": "7d310b2086ec344530efcf82136f0eb2"
+            "Image": "7d310b2086ec344530efcf82136f0eb2",
+            "Index": 6,
+            "Label": "7",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Hititiwë thë pë ihami totihitawë thamotima thë kuprawë, thë pë ohotamou he usukuwë rë kurenaha thë pë no\nkãi kõõ he usukuopë.\nHititiwë thë pë ihami totihitawë thamotima thë kuprawë he husukuwë thë pë no kõõ, thë pë puhi kãi owëhëo,\nkama pë shĩro rë kui e pë puhi kãi përio mi hetuopë e thëki peheriproimiha pë kãi rẽ përioweini ai e thëki he\nriã tikëai e thëki he usukuopë.\nHititiwë thë pë ihami totihitawë thamotima thë kuprawë, sindicato thë pë riã thayou, thë pëhe rumopopë.\nHetipëtëwë 24\nHititiwë thë pë ihami totihitawë thamotima thë kuprawë, thë pë washimi horuu yãnikio pariopë, thë pë riã\nhuu toatarou, toprao thë pë kãi rẽ ohotamonowẽĩ thë no kãi ríã kõãmamou thë ma yãnikia parirani.\nHetipëtëwë 25\nHititiwë thë pë ihami totihitawë thamotima thë kuprawë, thë pë riã përio toprao kama theri thë pë shĩro sho,\nnii pë hami, yahi pë sho, thë pë kãi temio topraopë, thë pë kãi titihopë , thë pë nohi kãi rẽ yaimopouwei thë\npë sho. Enaha hititiwë thë pë pehi totihitawë thamotima thë ha thë kua thë pë rë ohotamoumai, pë rë\nshawarapiwei, thë pë no rë huwëmai, thë pë he rë paharaprai, thë pë rë wãrõ rẽ patai, thë pë suwe kãi rẽ\npatai, ai thë pë wãrĩtiwe kãini thë pë pehetipopehe.\nSuwë shipënapi thë pë rë kui, ihiru, marãnapi, suwëhëri marãnapi thë pë komi sho, totihitawë thamotima\nthëni, thë pë nohi thamopou topraopë. Hititiwë ihiru hĩĩpi kua pë rë keprouwei, pë hĩĩpi ma kua mai pë kãi rẽ\nkeprouwei, totihitawë thamotima thë kuprawë peheti pë nohi kãi thaprawë.\nHetipëtëwë26\nHititiwë thë pë ihami totihitawë thamotima thë kuprawë, thë pë kãi hirayopë. Hiramotima thë pë rë kui,\nnomraiha thë pë hiramou pariopë. Hiramou pariotima thë hami thë pë ihirupi shimio he parohoopë. Hiramou"
         },
         "7": {
-            "Label": "8",
-            "Index": 7,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "pariotima thë nohã hami ĩha hititiwë thë pë õnimou taai he parohoopë; õnimou pata thë rë kui hititiwë thë pë\npehi ma kui thë pë puhi moyãwei rë thë pë pehi shĩro kuopë.\nHiramotima pë hami, puhi tao thë pë kupropë ĩhĩ thë no ãhã totihitawë thamotima thë pë nohi asipopehe ai\nthe ã rëamai thë sho; thë pë rë përiprawë piyëkëi thë pëni, thë pë nohi kãi rë yaipouwehei thë pë hami, thë pë\nno ĩhĩpipopehe, thë pë kãi puhipoyopë, O.N.U. thëni thë thamai rë puhiiwei thë ã riã praukamai ha piyëkoni,\nthë pë ã riã topramapou ha totihioni.\nPë nĩĩ, pë hĩĩ thë pëni e thë hiramai shi rë topraowehei e thë hiramai puhipehe.\nHetipëtëwë 27\nKomi hititiwë thë pë ihami totihitawë thamotima thë kuprawë, thë pë rë përihii thë pëni thë pë rë tai rë\npiyëkouwehei thë pë hami ai thë ã rëamaihã, thë pë no riã taayou, thë pë a kãi riã toprao, matohi pë rë\nthanowẽhẽĩ pë hami, ĩhĩ thë pë matohi ha thë pë ã riã toprarou.\nHititiwë thë pë ihami totihitawë thamotima thë kuprawë , thë pë nohi thaopë, kama thë pëni thë pë rë\nthaiwehei thë pë hami, thë kãi rẽ õnimaiwẽhẽĩ thë pë hami, noshiharirawë thë pë kãi rẽ kopemaiwẽhẽĩ\nhami kãi.\nHetipëtëwë 28\nKomi hititiwë thë pë ihami totihitawë thamotima thë kuprawë ai thë pëni thë ã rë thaiwehei, thë ã nosi\npopehe.\nHetipëtëwë 29\nKomi hititiwë thë pëni ohote thë huripehe kama thë pë shaponopi hami, ĩhĩ pë shapono hami toprao thë pë\nparahërii.",
-            "Image": "6ca0485adaee7e9cba9f5af144bc20f8"
+            "Image": "6ca0485adaee7e9cba9f5af144bc20f8",
+            "Index": 7,
+            "Label": "8",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "pariotima thë nohã hami ĩha hititiwë thë pë õnimou taai he parohoopë; õnimou pata thë rë kui hititiwë thë pë\npehi ma kui thë pë puhi moyãwei rë thë pë pehi shĩro kuopë.\nHiramotima pë hami, puhi tao thë pë kupropë ĩhĩ thë no ãhã totihitawë thamotima thë pë nohi asipopehe ai\nthe ã rëamai thë sho; thë pë rë përiprawë piyëkëi thë pëni, thë pë nohi kãi rë yaipouwehei thë pë hami, thë pë\nno ĩhĩpipopehe, thë pë kãi puhipoyopë, O.N.U. thëni thë thamai rë puhiiwei thë ã riã praukamai ha piyëkoni,\nthë pë ã riã topramapou ha totihioni.\nPë nĩĩ, pë hĩĩ thë pëni e thë hiramai shi rë topraowehei e thë hiramai puhipehe.\nHetipëtëwë 27\nKomi hititiwë thë pë ihami totihitawë thamotima thë kuprawë, thë pë rë përihii thë pëni thë pë rë tai rë\npiyëkouwehei thë pë hami ai thë ã rëamaihã, thë pë no riã taayou, thë pë a kãi riã toprao, matohi pë rë\nthanowẽhẽĩ pë hami, ĩhĩ thë pë matohi ha thë pë ã riã toprarou.\nHititiwë thë pë ihami totihitawë thamotima thë kuprawë , thë pë nohi thaopë, kama thë pëni thë pë rë\nthaiwehei thë pë hami, thë kãi rẽ õnimaiwẽhẽĩ thë pë hami, noshiharirawë thë pë kãi rẽ kopemaiwẽhẽĩ\nhami kãi.\nHetipëtëwë 28\nKomi hititiwë thë pë ihami totihitawë thamotima thë kuprawë ai thë pëni thë ã rë thaiwehei, thë ã nosi\npopehe.\nHetipëtëwë 29\nKomi hititiwë thë pëni ohote thë huripehe kama thë pë shaponopi hami, ĩhĩ pë shapono hami toprao thë pë\nparahërii."
         },
         "8": {
-            "Label": "9",
-            "Index": 8,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Totihitawë thamotima thë hami thë pë rë wapëoheriiwei ai thë pë ihami totihitawë thamotima thë pë kãi\nkuprawë, ĩhĩ ei thëni thë nohi hatukëmapou totihitawë thamotima thë rë kui ai thë ã reamai thë sho. Mihi\ntotihitawë thamotima thë hami peheti thë pë kuaahërii, yaiamotima thë hami thë pë rë patamou thë kuo tëhë.\nHei totihitawë thamotima thë rë kui ai thë ã kua mai thë pë sho O.N.U. thë rë kuuwei thë ã nohi wãrĩpou\ntaomi.\nHetipëtëwë30\nThë pë rë përihouwei thë pëni, yototarewë pëni , ai yãmi thëni wa katehano thëni totihitawë thamotima thë\nwãhã no wëyëi ha ai thëni thë wãhã nohi taeai taomi, thë wãhã kãi hemihiprai ayao taomi.",
-            "Image": "8512907282b8592d0ffa14218657829d"
+            "Image": "8512907282b8592d0ffa14218657829d",
+            "Index": 8,
+            "Label": "9",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Totihitawë thamotima thë hami thë pë rë wapëoheriiwei ai thë pë ihami totihitawë thamotima thë pë kãi\nkuprawë, ĩhĩ ei thëni thë nohi hatukëmapou totihitawë thamotima thë rë kui ai thë ã reamai thë sho. Mihi\ntotihitawë thamotima thë hami peheti thë pë kuaahërii, yaiamotima thë hami thë pë rë patamou thë kuo tëhë.\nHei totihitawë thamotima thë rë kui ai thë ã kua mai thë pë sho O.N.U. thë rë kuuwei thë ã nohi wãrĩpou\ntaomi.\nHetipëtëwë30\nThë pë rë përihouwei thë pëni, yototarewë pëni , ai yãmi thëni wa katehano thëni totihitawë thamotima thë\nwãhã no wëyëi ha ai thëni thë wãhã nohi taeai taomi, thë wãhã kãi hemihiprai ayao taomi."
         }
     }
 }

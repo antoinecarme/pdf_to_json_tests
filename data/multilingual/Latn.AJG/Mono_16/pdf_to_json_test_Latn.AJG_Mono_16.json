@@ -1,93 +1,93 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581466793,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "75d278957f1528f723937d4908e77d8a",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "EJUKƆNWO GBEFANƉEƉE SƆSƆ ACƐ AGBETƆTƆWO ŊÚ\nEŊYƆFƆNU\nSɔsó egbexɔxɔ do amɛnyinyi to alɔkpa ɖekpo kpwimɛ kodo enusɔsɔ ci wò yi\ndogù wawa do eseji ko fàfà le ègbɛ̀\nmɛ̀\n,\nSɔsó eɖemasɔ le agbetɔ yɔyɔ be agbetɔ mɛ ci yi dɔn kanlinnuwawa va\negbɛmɛ, yi agbetɔ fɔn egu, yi shinxomɛ, ehɔnwo yi dɔ yi ejukɔnwo ɖé\negbefan be agbetɔwo le vo a xonuxonu, a vo a xɔse, a gbédɔn a gu aya le\nekɔ,\nSɔsó agbewɔxɛ kpɔkpɔ do ese ji ɔ, e le veviɖe be wo de ɖo a ʒin amɛji;\nnɔ de nyi nɛnɛ ɔ, agbetɔ a va sɔ ezɔ ta, a sɔ nyidɔn le akɔn, a fɔngu do\neganwuamɛ kodo amɛtafudotɔwo ji,\nSɔsó ŋusɛndodo nɔ ɖekawawa ko exlɔdodo a yi ŋukɔ le ejukɔnwo gblamɛ,\nSɔsó enyɔ ciwo yi le esewemamɛ wowo ejukɔn ciwo yi do ƉEKAWAWAGBƐ gbé\nɖegbefan yi nu be yewo kando agbetɔ cɛwo ji, le amɛnyinyi ko eyi\nwanawomɛ, lé ŋusuwo kodo nyɔnuwotasɔwɛmɛ, yi yewo sɔ egbe ɖo eju nɔ\nnɔnɔmɛ, ŋukɔyiyi, nɔ agbemɛnɔnɔ a nyɔ nɔ amɛ kpu, nɔ agbetɔ a kpɔ vovo a\nwa enu ci yi drwi,\nSɔsó ejuwo kodo wowo kplekplegbɛ gbesosomɛ, nɔ wo a sɔ na bubu agbetɔ, a\nmi dàdà le eyi cɛwo ji nɔ agbetɔ a vo fàfà,\nSɔsó dandandanmɛ ɔ, gbɔhwe agbe tɔwo a wa do egbèfan lɔ ji ɔ, wo ɖo a ɖó\nsusu ɖekɛ do acɛ kodo vovokpɔkpɔ lɔ wo ji.\nEYITAƉO\nBƆBƆGAN ƉE EGBEFAN CƐ sɔso acɛ agbetɔtɔwo ŋu;\nEgbefanɖeɖe cɛ yi nyi ejukɔnwo, pleŋu dɔ, yi wo a wa nɔ, yi amɛshyamɛ\nkodo wowo bɔbɔwo a ɖo nɔ eŋukuvi, a tekpɔ, sɔto enukplankplan ko\neŋununyanya gomɛ, a tekpɔ nɔ amɛbubu ko vovokpɔkpɔ a yi amɛshyamɛ kodo\nwowo bɔbɔwo a ɖo nɔ eŋukuvi, a tekpɔ, sɔto enu kplankplan ko eŋununyanya\ngomɛ, a tekpɔ nɔ amɛbubu ko vovokpɔkpɔ a yi ŋuko keŋu nɔ, le\nblɛwublɛwumɛ ɔ, edɔ lɔwo a nyi wawa le ejukplekple lɔwo mɛ, nɔ wo a zan\nwo nyɔnɔnwitɔ le amɛ ciwo yi do kple kplegbɛ lɔwo xwe kodo amɛ ciwo yi\nwo sɔ do alɔmɛ nɔ wo nɔ́ wo a kpa acɛ nɔ wo.\nAkpa 1\nAgbetɔwo pleŋu vanɔ gbɛmɛ ko vovoɖeka gbeswɛgbeswɛ, sɔto amɛnyinyi ko\nacɛwo gomɛ; wo xɔnɔ susunywin ko jimɛnywi so esexwe. Wo ɖo a wɛ nɔvi\nɖaɖa wowo nɔnɔwo gbɔ.\nAkpa 2\nAmɛɖekpokpwi ɖo\nmɛ. Amɛɖe de ɖo\npolitikinyɔ alo\nalɔkpabuɖe yi a\na kpɔ nyɔna le acɛ ko vovo ciwo yi le egbe fanɖeɖe cɛ lɔ\negbe a mɔ akɔ, gbaza, ŋusukonyɔnunyinyimɛ, egbe, sɛ̀\nnsɛ̀\nn,\nenyɔbuɖewo ci yi kan agbetɔ, dɔkun, jijixwe alo enyɔ\nna yi agbetɔ da kpɔ nɛnɛhan nyɔna.",
-            "Image": "75d278957f1528f723937d4908e77d8a"
+            "Text": "EJUKƆNWO GBEFANƉEƉE SƆSƆ ACƐ AGBETƆTƆWO ŊÚ\nEŊYƆFƆNU\nSɔsó egbexɔxɔ do amɛnyinyi to alɔkpa ɖekpo kpwimɛ kodo enusɔsɔ ci wò yi\ndogù wawa do eseji ko fàfà le ègbɛ̀\nmɛ̀\n,\nSɔsó eɖemasɔ le agbetɔ yɔyɔ be agbetɔ mɛ ci yi dɔn kanlinnuwawa va\negbɛmɛ, yi agbetɔ fɔn egu, yi shinxomɛ, ehɔnwo yi dɔ yi ejukɔnwo ɖé\negbefan be agbetɔwo le vo a xonuxonu, a vo a xɔse, a gbédɔn a gu aya le\nekɔ,\nSɔsó agbewɔxɛ kpɔkpɔ do ese ji ɔ, e le veviɖe be wo de ɖo a ʒin amɛji;\nnɔ de nyi nɛnɛ ɔ, agbetɔ a va sɔ ezɔ ta, a sɔ nyidɔn le akɔn, a fɔngu do\neganwuamɛ kodo amɛtafudotɔwo ji,\nSɔsó ŋusɛndodo nɔ ɖekawawa ko exlɔdodo a yi ŋukɔ le ejukɔnwo gblamɛ,\nSɔsó enyɔ ciwo yi le esewemamɛ wowo ejukɔn ciwo yi do ƉEKAWAWAGBƐ gbé\nɖegbefan yi nu be yewo kando agbetɔ cɛwo ji, le amɛnyinyi ko eyi\nwanawomɛ, lé ŋusuwo kodo nyɔnuwotasɔwɛmɛ, yi yewo sɔ egbe ɖo eju nɔ\nnɔnɔmɛ, ŋukɔyiyi, nɔ agbemɛnɔnɔ a nyɔ nɔ amɛ kpu, nɔ agbetɔ a kpɔ vovo a\nwa enu ci yi drwi,\nSɔsó ejuwo kodo wowo kplekplegbɛ gbesosomɛ, nɔ wo a sɔ na bubu agbetɔ, a\nmi dàdà le eyi cɛwo ji nɔ agbetɔ a vo fàfà,\nSɔsó dandandanmɛ ɔ, gbɔhwe agbe tɔwo a wa do egbèfan lɔ ji ɔ, wo ɖo a ɖó\nsusu ɖekɛ do acɛ kodo vovokpɔkpɔ lɔ wo ji.\nEYITAƉO\nBƆBƆGAN ƉE EGBEFAN CƐ sɔso acɛ agbetɔtɔwo ŋu;\nEgbefanɖeɖe cɛ yi nyi ejukɔnwo, pleŋu dɔ, yi wo a wa nɔ, yi amɛshyamɛ\nkodo wowo bɔbɔwo a ɖo nɔ eŋukuvi, a tekpɔ, sɔto enukplankplan ko\neŋununyanya gomɛ, a tekpɔ nɔ amɛbubu ko vovokpɔkpɔ a yi amɛshyamɛ kodo\nwowo bɔbɔwo a ɖo nɔ eŋukuvi, a tekpɔ, sɔto enu kplankplan ko eŋununyanya\ngomɛ, a tekpɔ nɔ amɛbubu ko vovokpɔkpɔ a yi ŋuko keŋu nɔ, le\nblɛwublɛwumɛ ɔ, edɔ lɔwo a nyi wawa le ejukplekple lɔwo mɛ, nɔ wo a zan\nwo nyɔnɔnwitɔ le amɛ ciwo yi do kple kplegbɛ lɔwo xwe kodo amɛ ciwo yi\nwo sɔ do alɔmɛ nɔ wo nɔ́ wo a kpa acɛ nɔ wo.\nAkpa 1\nAgbetɔwo pleŋu vanɔ gbɛmɛ ko vovoɖeka gbeswɛgbeswɛ, sɔto amɛnyinyi ko\nacɛwo gomɛ; wo xɔnɔ susunywin ko jimɛnywi so esexwe. Wo ɖo a wɛ nɔvi\nɖaɖa wowo nɔnɔwo gbɔ.\nAkpa 2\nAmɛɖekpokpwi ɖo\nmɛ. Amɛɖe de ɖo\npolitikinyɔ alo\nalɔkpabuɖe yi a\na kpɔ nyɔna le acɛ ko vovo ciwo yi le egbe fanɖeɖe cɛ lɔ\negbe a mɔ akɔ, gbaza, ŋusukonyɔnunyinyimɛ, egbe, sɛ̀\nnsɛ̀\nn,\nenyɔbuɖewo ci yi kan agbetɔ, dɔkun, jijixwe alo enyɔ\nna yi agbetɔ da kpɔ nɛnɛhan nyɔna."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "3eec70e4e197ecf646d0946ea17f4af8",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Sɔ́ zeto yɛnu ɔ, wo de ɖo egbe a zɔndo politikise alo jejeshi le xixemɛ\nnɔ eju amɛɖeétɔ nu a ɖe eju lɔ do akpo. Nɔ eju cimɛ amɛlo so xɔ ablɔɖe\ncan e le ejubuugɔnmɛ can, ɖe le yiɖekishi can alo ɖe ɖo egbe a zan\nyiɖeki le ci e drwi nɛnɛ can ɔ wo ɖe ɖo egbe a ɖidoakpo.\nAkpa 3\nAmɛɖekpokpwi ɖo nɔ agbenɔnɔ le vovokpɔkpɔ ko kandoji amɛnutɔtɔ mɛ.\nAkpa 4\nAmɛɖe ɖe ɖo egbe a sɔ ehalɔ wa ahwashi alo kannumɔ; agbetɔ a sɔ wa\nahwashi alo kannumɔ le alɔɖekpo kpwinu nyi ese.\nAkpa 5\nWo ɖe ɖo a ɖe efun nɔ agbetɔ, kpɔ wo ɖa do aya nɔ agbetɔ, a wa\nxomɛvevenu, elannu alo enuɖèagbetɔkpɔtɔ nuwo kodo mɛɖekpokpwi.\nAkpa 6\nAmɛɖeka ɖo egbe a nya le afiɖekpokpwi mɔ agbetɔnyinyi yeetɔ ɖo acɛ kodo\nese ciwo wo ɖo a nyi.\nAkpa 7\nLe ese nukɔ ɔ, agbetɔwo pleŋu nyi enuɖekɛ, é le gbeswɛgbeswɛ; wo ɖo egbe\nnɔ cɔndoji alo nyɔna esetɔwo gbeswɛgbeswɛ. Wo pleŋu ɖo egbe nɔ cɔndoji\nɖekɛŋumɛ egacìmɛ yi wo ɖeɖeɔ voklan do enumowɛ a sɔ gban egbefanɖeɖe cɛ\nlɔ kodo wanaɖekpokpwi ci a na yi wo a gbin.\nAkpa 8\nAgbetɔɖekpokpwi ɖo egbe a je ehwɛ le kojoɖoxu eyijumɛtɔ ci gbɔ a je ehwɛ\nle dru nɔ wo gban acɛ alɔmajeŋu ciwo ese gangan alo ese gbaliɖekpokpwi\nni wo.\nAkpa 9\nWo ɖe ɖo egbe ci a le amɛ gbali gbali enuɖemawamawa, akpaŋu sɛnsɛntɔ a\nsɔ do egamɛ alo a do ese a sɔ nyi ti le eyijumɛ.\nAkpa 10\nAgbetɔɖekpokpwi ɖo acɛ, le egbe sɔswɛ koŋu mɛ yi enyɔ ci nu ɔ yi e le ɔ,\nwo a si ni shigbe le wo a se amɛbuwotɔ nɛnɛ, le ahwamɛ le kojoɖotɔ ciwo\nji wo ɖa ʒin, yi wo a nɔ enyɔji, wo ɖa nɔ agbetɔji. Le eganɔmɛ ɔ,\nkojoɖotɔlɔ a nu acɛ kodo esekɔnyinyi eyitɔwo ni alo adodwi ci le enyɔ\nvwin ciyi byɔ etodɔndɔn ciwo yi wo ɖoɖo ɔ ni.\nAkpa 11\nNɔ wo ɖo enyɔvwin ciwo byɔ etodɔndɔn nɔ amɛɖe ɔ, gbɔxwe ese a xo mɛlɔɔ,\nkojoɖotɔwo ɖo a ɖefyɔ le ahwamɛ, le esemɔnu mɔ nɛnɛhamɛ ɔ, yɛ wa\nenyɔvwin ci yi byɔ etodɔndɔn nyawo, maɖefyɔ godu ɔ, wo ɖe ɖo egbe a mɔ\nmɛlɔ wa nɛnɛhamɛɛ nu. Le kojo lɔ ɖoxu ɔ, wo ɖo a tekpɔ a hwlingan le ese\nnyikɔmɛ gbɔxwe a glo.",
-            "Image": "3eec70e4e197ecf646d0946ea17f4af8"
+            "Text": "Sɔ́ zeto yɛnu ɔ, wo de ɖo egbe a zɔndo politikise alo jejeshi le xixemɛ\nnɔ eju amɛɖeétɔ nu a ɖe eju lɔ do akpo. Nɔ eju cimɛ amɛlo so xɔ ablɔɖe\ncan e le ejubuugɔnmɛ can, ɖe le yiɖekishi can alo ɖe ɖo egbe a zan\nyiɖeki le ci e drwi nɛnɛ can ɔ wo ɖe ɖo egbe a ɖidoakpo.\nAkpa 3\nAmɛɖekpokpwi ɖo nɔ agbenɔnɔ le vovokpɔkpɔ ko kandoji amɛnutɔtɔ mɛ.\nAkpa 4\nAmɛɖe ɖe ɖo egbe a sɔ ehalɔ wa ahwashi alo kannumɔ; agbetɔ a sɔ wa\nahwashi alo kannumɔ le alɔɖekpo kpwinu nyi ese.\nAkpa 5\nWo ɖe ɖo a ɖe efun nɔ agbetɔ, kpɔ wo ɖa do aya nɔ agbetɔ, a wa\nxomɛvevenu, elannu alo enuɖèagbetɔkpɔtɔ nuwo kodo mɛɖekpokpwi.\nAkpa 6\nAmɛɖeka ɖo egbe a nya le afiɖekpokpwi mɔ agbetɔnyinyi yeetɔ ɖo acɛ kodo\nese ciwo wo ɖo a nyi.\nAkpa 7\nLe ese nukɔ ɔ, agbetɔwo pleŋu nyi enuɖekɛ, é le gbeswɛgbeswɛ; wo ɖo egbe\nnɔ cɔndoji alo nyɔna esetɔwo gbeswɛgbeswɛ. Wo pleŋu ɖo egbe nɔ cɔndoji\nɖekɛŋumɛ egacìmɛ yi wo ɖeɖeɔ voklan do enumowɛ a sɔ gban egbefanɖeɖe cɛ\nlɔ kodo wanaɖekpokpwi ci a na yi wo a gbin.\nAkpa 8\nAgbetɔɖekpokpwi ɖo egbe a je ehwɛ le kojoɖoxu eyijumɛtɔ ci gbɔ a je ehwɛ\nle dru nɔ wo gban acɛ alɔmajeŋu ciwo ese gangan alo ese gbaliɖekpokpwi\nni wo.\nAkpa 9\nWo ɖe ɖo egbe ci a le amɛ gbali gbali enuɖemawamawa, akpaŋu sɛnsɛntɔ a\nsɔ do egamɛ alo a do ese a sɔ nyi ti le eyijumɛ.\nAkpa 10\nAgbetɔɖekpokpwi ɖo acɛ, le egbe sɔswɛ koŋu mɛ yi enyɔ ci nu ɔ yi e le ɔ,\nwo a si ni shigbe le wo a se amɛbuwotɔ nɛnɛ, le ahwamɛ le kojoɖotɔ ciwo\nji wo ɖa ʒin, yi wo a nɔ enyɔji, wo ɖa nɔ agbetɔji. Le eganɔmɛ ɔ,\nkojoɖotɔlɔ a nu acɛ kodo esekɔnyinyi eyitɔwo ni alo adodwi ci le enyɔ\nvwin ciyi byɔ etodɔndɔn ciwo yi wo ɖoɖo ɔ ni.\nAkpa 11\nNɔ wo ɖo enyɔvwin ciwo byɔ etodɔndɔn nɔ amɛɖe ɔ, gbɔxwe ese a xo mɛlɔɔ,\nkojoɖotɔwo ɖo a ɖefyɔ le ahwamɛ, le esemɔnu mɔ nɛnɛhamɛ ɔ, yɛ wa\nenyɔvwin ci yi byɔ etodɔndɔn nyawo, maɖefyɔ godu ɔ, wo ɖe ɖo egbe a mɔ\nmɛlɔ wa nɛnɛhamɛɛ nu. Le kojo lɔ ɖoxu ɔ, wo ɖo a tekpɔ a hwlingan le ese\nnyikɔmɛ gbɔxwe a glo."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "9838538801feb83fee24bfe9a2e0c455",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Wo ɖe ɖo egbe a sɔ ese xo amɛɖe nɔ enyɔ alo enumaɖoeŋi ci yi ese eju lɔ\ntɔ alo ese ejuwo pleŋutɔ ɖe gbe le hwecinu wo wa enu lɔ. Nɛnɛke ɔ, ese\nɖe xo enuvwin ci yi byɔ etodɔndɔn ɖeɔ, ese hunnɔ yi wo a sɔ xo amɛci yi\nje agɔ lɔ le hwenɔnunɛ; wo ɖa dɔn eto nɔ amɛlɔ wugan eto ci ese\nhwenɔnutɔ lɔ byɔ.\nAkpa 12\nWo ɖe ɖo a sɔ tafutafu a yi je amɛbunyɔmɛ a sɔ xoɖyi yi ko eyi mɛwo, eyi\nnuwo nɛnɛke ɔ, ganwuamɛtɔ ɖe de ɖo àcɛ aʒin amɛbu wenawo ji a hlɛn, yi a\ngbe sɔ gble nyikɔ ni; ese lɔ, gbe nɛnɛ wanawo.\nAkpa 13\nAmɛɖe kpokpwi ɖo acɛ vo, a dyi sa a yi afi ci yi drwi; nɛnɛke yi e ɖo\nacɛ a ɖo nɔxu le eju ɖe kpokpwi mɛ.\nAmɛɖe kpokpwi ɖo acɛ a to le eju ɖe kpokpwi mɛ: e senŋ to le eyi ntɔ\njumɛ a yi kaka a gbe trɔ gbɔ va mɛ fafɛɖe.\nAkpa 14\nNɔ eganwuamɛcɛkpatɔwo je egamɛ nɔ amɛɖe ɔ, nɔ amɛ lɔ a sɔ senŋu a hwlɛn\neyi ta ɔ, e ɖogbe a byɔ bexu eju ɖe kpokpwi yi eju lɔ ɖo a xwɛ fafa ɖe.\nNɔ amɛɖe je esenu mɛ nyao ɔ, acɛ ejukɔnwo pleŋutɔ ciɖe de nagbe be yi le\nshito a yi eju bu mɛ.\nAkpa 15\nAmɛɖe kpokpwi ɖo a nyí ejuɖekamɛvi.\nEganwuamɛcɛkpatɔ ɖe de ɖo acɛ yi a gbe nɔ eyi jumɛtɔ ɖe be yi da gbe nyi\nyewo jumɛvi; nɛnɛke de ɖo acɛ yi a gbe ni be yi ŋu gbe sɔ eju bu a trɔ\neju hɔn mɛ vi.\nAkpa 16\nLe asuɖeɖe alo nyɔnuɖeɖe gamɛ ɔ, ɖekajɛ ko cugbejɛ ciwo yi nyi\nakɔbunɔwo, ejubujubumɛtɔwo alo sɛnsɛn ebuebu mɛ tɔ wo ɔ, wo sɛnŋ ɖe wo\nnɔnɔ wo, yi a sɔ egbe ɖo eju a gbaku. Acɛ ɖeka nmɛ yi wo ɖo le\nenushyanumɛ so ɖeɖe hwenu kaka va sɔ yi wo ɖekiwo gbegbe hwenu.\nAmɛ ciwo yi jiji a ɖe wo nɔnɔwo ɔ, wo vi ɖo a na egbeta ɖekaŋumɛ gbɔhwe\neju a nya be wo ɖe wo nɔnɔwo nyao.\nWõ jitɔwo yi nyi ŋuklɛn alo esha ci yi a le nkɔ nɔ wo: nɛnɛke yi wo ɖo a\nnyi kuku le eta nɔ wo nɛ.\nAkpa 17\nAmɛ ɖeka kpaŋ yɔ a, alo e le egbɛbɔbɔmɛ yɔ ɔ, e ɖo acɛ do eyi ntɔ nuji.\nAcɛ ɖe kpokpwi de ɖo a xɔ amɛŋutɔnu leshi ko akpasɛnsɛn.\nAkpa 18",
-            "Image": "9838538801feb83fee24bfe9a2e0c455"
+            "Text": "Wo ɖe ɖo egbe a sɔ ese xo amɛɖe nɔ enyɔ alo enumaɖoeŋi ci yi ese eju lɔ\ntɔ alo ese ejuwo pleŋutɔ ɖe gbe le hwecinu wo wa enu lɔ. Nɛnɛke ɔ, ese\nɖe xo enuvwin ci yi byɔ etodɔndɔn ɖeɔ, ese hunnɔ yi wo a sɔ xo amɛci yi\nje agɔ lɔ le hwenɔnunɛ; wo ɖa dɔn eto nɔ amɛlɔ wugan eto ci ese\nhwenɔnutɔ lɔ byɔ.\nAkpa 12\nWo ɖe ɖo a sɔ tafutafu a yi je amɛbunyɔmɛ a sɔ xoɖyi yi ko eyi mɛwo, eyi\nnuwo nɛnɛke ɔ, ganwuamɛtɔ ɖe de ɖo àcɛ aʒin amɛbu wenawo ji a hlɛn, yi a\ngbe sɔ gble nyikɔ ni; ese lɔ, gbe nɛnɛ wanawo.\nAkpa 13\nAmɛɖe kpokpwi ɖo acɛ vo, a dyi sa a yi afi ci yi drwi; nɛnɛke yi e ɖo\nacɛ a ɖo nɔxu le eju ɖe kpokpwi mɛ.\nAmɛɖe kpokpwi ɖo acɛ a to le eju ɖe kpokpwi mɛ: e senŋ to le eyi ntɔ\njumɛ a yi kaka a gbe trɔ gbɔ va mɛ fafɛɖe.\nAkpa 14\nNɔ eganwuamɛcɛkpatɔwo je egamɛ nɔ amɛɖe ɔ, nɔ amɛ lɔ a sɔ senŋu a hwlɛn\neyi ta ɔ, e ɖogbe a byɔ bexu eju ɖe kpokpwi yi eju lɔ ɖo a xwɛ fafa ɖe.\nNɔ amɛɖe je esenu mɛ nyao ɔ, acɛ ejukɔnwo pleŋutɔ ciɖe de nagbe be yi le\nshito a yi eju bu mɛ.\nAkpa 15\nAmɛɖe kpokpwi ɖo a nyí ejuɖekamɛvi.\nEganwuamɛcɛkpatɔ ɖe de ɖo acɛ yi a gbe nɔ eyi jumɛtɔ ɖe be yi da gbe nyi\nyewo jumɛvi; nɛnɛke de ɖo acɛ yi a gbe ni be yi ŋu gbe sɔ eju bu a trɔ\neju hɔn mɛ vi.\nAkpa 16\nLe asuɖeɖe alo nyɔnuɖeɖe gamɛ ɔ, ɖekajɛ ko cugbejɛ ciwo yi nyi\nakɔbunɔwo, ejubujubumɛtɔwo alo sɛnsɛn ebuebu mɛ tɔ wo ɔ, wo sɛnŋ ɖe wo\nnɔnɔ wo, yi a sɔ egbe ɖo eju a gbaku. Acɛ ɖeka nmɛ yi wo ɖo le\nenushyanumɛ so ɖeɖe hwenu kaka va sɔ yi wo ɖekiwo gbegbe hwenu.\nAmɛ ciwo yi jiji a ɖe wo nɔnɔwo ɔ, wo vi ɖo a na egbeta ɖekaŋumɛ gbɔhwe\neju a nya be wo ɖe wo nɔnɔwo nyao.\nWõ jitɔwo yi nyi ŋuklɛn alo esha ci yi a le nkɔ nɔ wo: nɛnɛke yi wo ɖo a\nnyi kuku le eta nɔ wo nɛ.\nAkpa 17\nAmɛ ɖeka kpaŋ yɔ a, alo e le egbɛbɔbɔmɛ yɔ ɔ, e ɖo acɛ do eyi ntɔ nuji.\nAcɛ ɖe kpokpwi de ɖo a xɔ amɛŋutɔnu leshi ko akpasɛnsɛn.\nAkpa 18"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "044bd74f4feb6f2d4fdb06a4d76151a3",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Amɛɖe kpokpwi ɖo acɛ a vo le enu ci yi druii le eyi tamɛ, ejimɛ ko\nsɛ̀\nnsɛ̀\nn kpaxwe; e sɛnŋu gbé ɖɔli sɛ̀\nnsɛ̀\nn kodo eyi susu lɔ wo, alo a ɖe wo\nto nɔ eju a jeshi; e sɛnnu like nɔ sɛnsɛn ko susu lɔwo a dɔn amɛwo bɔ do\neyi ɖeki ŋu sɔ to nukɔyiyi le enukplankplan enuwawa, kodo sɛnsɛn alo\nsɛnsɛnwanawo pleŋu ŋu.\nAkpa 19\nAgbetɔ ɖekpokpwi ɖo acɛ a vo le eyi susu alo eyi tamɛbubumɛ; e ɖo acɛ a\nvo a nu enyɔ ci yi le susumɛ ni nɔ eju a se; e ɖo acɛ a ji gɔnmɛ nɔ\nenuwo ko enyɔwo, a to emɔwo keŋukeŋu ji a drá wo nɔ xìxè kòŋunɛ alo\nejuwo kpu a se; enuɖe kpokpwi ɖe ɖo a doŋuklɛn alo vɔnvɔn ni.\nAkpa 20\nAgbetɔ ɖekpokpwi ɖo acɛ a vo le bɔbɔwawa kodo egbɛ ci yi gbe\nahwawawanyɔwo gbɔ.\nWo de ɖo a sɔ eganwuamɛ a sɔ lɔn amɛ do ehabɔbɔɖemɛ.\nAkpa 21\nAmɛɖe kpokpwi ɖo a sɔ eyi fɔ cute a kpankɔn le eyi ju ŋukɔyiyi wanawo\nmɛ, alo a nagbe nɔ amɛbu a wɛ.\nSɔ to edɔwa gɔmɛ ɔ, amɛwo pleŋ ɖo a kpɔ texwe gbeswɛgbeswɛ.\nEjukɔnwo drodro ɔ, eyi a nyi esha le ŋukɔ nɔ ejuwomɛcɛkpakpa. Eyi ji yi\nwo ɖo a zɔn nɔ nɔ akɔdadawo do jɔjwɛ ji gamɛgamɛ.\nAkpa 22\nAmeɖekpokpwi le egbɛmɛ ɖo a vo faa a kpɔ nyɔna sɔso alɔdowomɛ, alɔdo\nhɔnwo a na yi a kpɔ vivivi le acɛ ciyi kan dɔkunmɔwo, agbetɔ eŋunuyanya\nciwo de ɖo a hwedo amɛ, yi a na ŋukɔyiyi nɔ amɛnyinyi le hlɔn hlɔn eju\nɖekaɖeka ko wowoxlɔwawamɛ. Nɛnɛhamɛ hlɔnhlɔn ko exlɔwawa kan dɔkun eju\nɖekaɖekatɔ.\nAkpa 23\nAmɛɖe kpokpwi ɖo a wa edɔ ci yi je kodi le jumɛ, yi a kpɔ nyɔna ciwo yi\nle edɔ lɔ wawamɛ.\nEvototo ɖekpokpwi de ɖo a nɔ ehocucumɛ nɔ edɔ ɖekamuwatɔwo.\nEdɔfɛncu ɔ, e ɖo a sun edɔwatɔ ko eyi xomuwo, vɔ nɔ da sunɔ, wana bu\nɖewo ɖo a le e jumɛ a sɔ na wo vovo.\nEdɔwatɔ ɖekpokpwi ɖegbe a ɖo edɔwatɔwobɔbɔ ci yi drwi mɛ a sɛn ŋu a gbe\nnɔ amɛtafu.\nAkpa 24\nEdɔwato ɖekpokpwi ɖo a ɖó gbɔngbɔn hwenu a sɔ vo, edɔwagamɛwo ɖo a nyi\ndredremɛ. Le exwekpegbɔnjwiin eyi tɔwo mɛ ɔ, wo ɖo a cu nɔ efɛn ni.\nAkpa 25",
-            "Image": "044bd74f4feb6f2d4fdb06a4d76151a3"
+            "Text": "Amɛɖe kpokpwi ɖo acɛ a vo le enu ci yi druii le eyi tamɛ, ejimɛ ko\nsɛ̀\nnsɛ̀\nn kpaxwe; e sɛnŋu gbé ɖɔli sɛ̀\nnsɛ̀\nn kodo eyi susu lɔ wo, alo a ɖe wo\nto nɔ eju a jeshi; e sɛnnu like nɔ sɛnsɛn ko susu lɔwo a dɔn amɛwo bɔ do\neyi ɖeki ŋu sɔ to nukɔyiyi le enukplankplan enuwawa, kodo sɛnsɛn alo\nsɛnsɛnwanawo pleŋu ŋu.\nAkpa 19\nAgbetɔ ɖekpokpwi ɖo acɛ a vo le eyi susu alo eyi tamɛbubumɛ; e ɖo acɛ a\nvo a nu enyɔ ci yi le susumɛ ni nɔ eju a se; e ɖo acɛ a ji gɔnmɛ nɔ\nenuwo ko enyɔwo, a to emɔwo keŋukeŋu ji a drá wo nɔ xìxè kòŋunɛ alo\nejuwo kpu a se; enuɖe kpokpwi ɖe ɖo a doŋuklɛn alo vɔnvɔn ni.\nAkpa 20\nAgbetɔ ɖekpokpwi ɖo acɛ a vo le bɔbɔwawa kodo egbɛ ci yi gbe\nahwawawanyɔwo gbɔ.\nWo de ɖo a sɔ eganwuamɛ a sɔ lɔn amɛ do ehabɔbɔɖemɛ.\nAkpa 21\nAmɛɖe kpokpwi ɖo a sɔ eyi fɔ cute a kpankɔn le eyi ju ŋukɔyiyi wanawo\nmɛ, alo a nagbe nɔ amɛbu a wɛ.\nSɔ to edɔwa gɔmɛ ɔ, amɛwo pleŋ ɖo a kpɔ texwe gbeswɛgbeswɛ.\nEjukɔnwo drodro ɔ, eyi a nyi esha le ŋukɔ nɔ ejuwomɛcɛkpakpa. Eyi ji yi\nwo ɖo a zɔn nɔ nɔ akɔdadawo do jɔjwɛ ji gamɛgamɛ.\nAkpa 22\nAmeɖekpokpwi le egbɛmɛ ɖo a vo faa a kpɔ nyɔna sɔso alɔdowomɛ, alɔdo\nhɔnwo a na yi a kpɔ vivivi le acɛ ciyi kan dɔkunmɔwo, agbetɔ eŋunuyanya\nciwo de ɖo a hwedo amɛ, yi a na ŋukɔyiyi nɔ amɛnyinyi le hlɔn hlɔn eju\nɖekaɖeka ko wowoxlɔwawamɛ. Nɛnɛhamɛ hlɔnhlɔn ko exlɔwawa kan dɔkun eju\nɖekaɖekatɔ.\nAkpa 23\nAmɛɖe kpokpwi ɖo a wa edɔ ci yi je kodi le jumɛ, yi a kpɔ nyɔna ciwo yi\nle edɔ lɔ wawamɛ.\nEvototo ɖekpokpwi de ɖo a nɔ ehocucumɛ nɔ edɔ ɖekamuwatɔwo.\nEdɔfɛncu ɔ, e ɖo a sun edɔwatɔ ko eyi xomuwo, vɔ nɔ da sunɔ, wana bu\nɖewo ɖo a le e jumɛ a sɔ na wo vovo.\nEdɔwatɔ ɖekpokpwi ɖegbe a ɖo edɔwatɔwobɔbɔ ci yi drwi mɛ a sɛn ŋu a gbe\nnɔ amɛtafu.\nAkpa 24\nEdɔwato ɖekpokpwi ɖo a ɖó gbɔngbɔn hwenu a sɔ vo, edɔwagamɛwo ɖo a nyi\ndredremɛ. Le exwekpegbɔnjwiin eyi tɔwo mɛ ɔ, wo ɖo a cu nɔ efɛn ni.\nAkpa 25"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "52fecf31ff86263e44181e0b73b4c14e",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Amɛɖe kpokpwi ɖo a ɖo enu ci yi a sɔ kpɔ eyi ko eyi xomuwoji sɔto\nlanmɛsɛn, enuɖuɖu, acɔɖɔɖɔ, xɔmɛnɔnɔ, dotoxweyiyi ko alɔdoamɛjudɔwaxu\nciwo a na yi wo a vo; wo ɖo a nɔ godu ni le edɔmakpɔwa gamɛ, edɔlehwenu,\nle ekpoxɔmɛ, nyɔxomɛ, nɛnɛke le enuwanu ciwo yi de so eyiŋutɔ drodro ŋu\nwo hwenu.\nAlɔdu ɖe ɖo a li nɔ evijitɔwo ko wo vi. Evi ci yi asu ko ashi ji ji ko\nci yi wo ji le gbanji wo ɔ, wo sɔ enu le ejumɛ, yi evototo ɖe de ɖo a nɔ\nwo mɛ.\nAkpa 26\nAmɛɖe kpokpwi ɖo a yi sukulu a xɔ enunyanya gbaligbali, e glo ka ka can\nɔ, a xɔ enunyanya gɔnmɛtɔ dandandan. Alɔnudɔ kplanxu sukulu wo ɖo a ni\nnɔ amɛ kpu. Sukuluganwo ɔ, wo ɖo a hun wo nɔ amɛ ciwo ŋununyanya je àbà\nhɔn mɛ nɔ.\nSukulu ɖo a na wo a nyaŋunu sɔ to agbetɔbubu gomɛ. E ɖo a na yi wo a nya\nbe enusɔkeamɛ, exlɔwawa le ejuwo glamɛ akɔwo alo sɛnsɛn wo gblamɛ kodo\nejuwokplekplegbɛ nuwanawo ci wo a na yi vovo a nɔ gbɛmɛ, enu hɔnwo ɔ,\nenu vevi yi wo nyi.\nKplankplan ciha ŋumɛ yi ɖeviwo a xɔ ɔ, e ɖo a nyi wo jitɔwo nyɔ.\nAkpa 27\nAgbetɔɖekpokpwi ɖo a vo a wa emumumunuwo kodo eyitɔwo, akpɔ jìjɔ̀\nle\naɖaŋuɖoɖodɔwo gbɔ, keŋu a nɔ waxu nɔ ŋukɔyiyi sɔto enudwi kuku gomɛ kodo\nwanywi ciwo yi a to le mɛ.\nAmɛɖekpokpwi ci yi nyi edɔɖewatɔ ɖogbe a hwlɛn wananywi ciwo yi to le\neyi nudwikuku gomɛ, eyi ɖaŋuɖoɖowema ko eyi ɖaŋu gomɛ.\nAkpa 28\nAmeɖekpokpwi ɖogbe a byɔ be hannyahannya ŋugbe nɔ ejumɛ, nɔ wo a zɔn do\nacɛ kodo vovokpɔkpɔ ciwo yi zé le gbefanɖeɖe cɛmɛ, sɔso agbetɔnɔnɔmɛ gbe\nsɔso ejukɔnwonɔnɔmɛ.\nAkpa 29\nAmɛɖekpokpwi ɖo a wa edɔ nɔ eyiju cimɛ yi eyi nɔnɔmɛ alo\neyigbetɔnyinyimɛ a to le, le vovokpɔkpɔ kodo ŋukɔyiyi adodwi gomɛ.\nLe eyicɛ kodo eyivovokpɔkpɔzanzanmɛ ɔ, ese ɖowo yi a gbe enyɔ nɔ amɛ nɔ\nwo a sɔ jeshi amɛbucɛwo kodo eyi vovokpɔkpɔwo gbɔhwe a sɔ kpɔ emɔ a dra\nenu do le wana gomɛ, le hannyahannya ma do dó acɛkpakpamɛ kodo vovo\ngbaja le eju ci yi ya nɔ eyiɖekishi.\nTretregbeɖi, wo de ɖo egbe a zɔn acɛ cɛwo kodo vovokpɔkpɔ cɛwo to\namɛbuɖewo ciwo de nyi afɔɖoxuwo nɔ ƉEKAWAWAGBƐ EJUKƆNWOTƆ.\nAkpa 30\nEjuɖekpokpwi, ehabɔbɔɖekpokpwi, amɛɖekpokpwi de ɖo egbe a sɔ Egbe\nfanɖeɖe cɛ a sɔ wa enubaɖaɖe alo a sɔ wa kanlindɔɖe shigbe a sɔ gbe be",
-            "Image": "52fecf31ff86263e44181e0b73b4c14e"
+            "Text": "Amɛɖe kpokpwi ɖo a ɖo enu ci yi a sɔ kpɔ eyi ko eyi xomuwoji sɔto\nlanmɛsɛn, enuɖuɖu, acɔɖɔɖɔ, xɔmɛnɔnɔ, dotoxweyiyi ko alɔdoamɛjudɔwaxu\nciwo a na yi wo a vo; wo ɖo a nɔ godu ni le edɔmakpɔwa gamɛ, edɔlehwenu,\nle ekpoxɔmɛ, nyɔxomɛ, nɛnɛke le enuwanu ciwo yi de so eyiŋutɔ drodro ŋu\nwo hwenu.\nAlɔdu ɖe ɖo a li nɔ evijitɔwo ko wo vi. Evi ci yi asu ko ashi ji ji ko\nci yi wo ji le gbanji wo ɔ, wo sɔ enu le ejumɛ, yi evototo ɖe de ɖo a nɔ\nwo mɛ.\nAkpa 26\nAmɛɖe kpokpwi ɖo a yi sukulu a xɔ enunyanya gbaligbali, e glo ka ka can\nɔ, a xɔ enunyanya gɔnmɛtɔ dandandan. Alɔnudɔ kplanxu sukulu wo ɖo a ni\nnɔ amɛ kpu. Sukuluganwo ɔ, wo ɖo a hun wo nɔ amɛ ciwo ŋununyanya je àbà\nhɔn mɛ nɔ.\nSukulu ɖo a na wo a nyaŋunu sɔ to agbetɔbubu gomɛ. E ɖo a na yi wo a nya\nbe enusɔkeamɛ, exlɔwawa le ejuwo glamɛ akɔwo alo sɛnsɛn wo gblamɛ kodo\nejuwokplekplegbɛ nuwanawo ci wo a na yi vovo a nɔ gbɛmɛ, enu hɔnwo ɔ,\nenu vevi yi wo nyi.\nKplankplan ciha ŋumɛ yi ɖeviwo a xɔ ɔ, e ɖo a nyi wo jitɔwo nyɔ.\nAkpa 27\nAgbetɔɖekpokpwi ɖo a vo a wa emumumunuwo kodo eyitɔwo, akpɔ jìjɔ̀\nle\naɖaŋuɖoɖodɔwo gbɔ, keŋu a nɔ waxu nɔ ŋukɔyiyi sɔto enudwi kuku gomɛ kodo\nwanywi ciwo yi a to le mɛ.\nAmɛɖekpokpwi ci yi nyi edɔɖewatɔ ɖogbe a hwlɛn wananywi ciwo yi to le\neyi nudwikuku gomɛ, eyi ɖaŋuɖoɖowema ko eyi ɖaŋu gomɛ.\nAkpa 28\nAmeɖekpokpwi ɖogbe a byɔ be hannyahannya ŋugbe nɔ ejumɛ, nɔ wo a zɔn do\nacɛ kodo vovokpɔkpɔ ciwo yi zé le gbefanɖeɖe cɛmɛ, sɔso agbetɔnɔnɔmɛ gbe\nsɔso ejukɔnwonɔnɔmɛ.\nAkpa 29\nAmɛɖekpokpwi ɖo a wa edɔ nɔ eyiju cimɛ yi eyi nɔnɔmɛ alo\neyigbetɔnyinyimɛ a to le, le vovokpɔkpɔ kodo ŋukɔyiyi adodwi gomɛ.\nLe eyicɛ kodo eyivovokpɔkpɔzanzanmɛ ɔ, ese ɖowo yi a gbe enyɔ nɔ amɛ nɔ\nwo a sɔ jeshi amɛbucɛwo kodo eyi vovokpɔkpɔwo gbɔhwe a sɔ kpɔ emɔ a dra\nenu do le wana gomɛ, le hannyahannya ma do dó acɛkpakpamɛ kodo vovo\ngbaja le eju ci yi ya nɔ eyiɖekishi.\nTretregbeɖi, wo de ɖo egbe a zɔn acɛ cɛwo kodo vovokpɔkpɔ cɛwo to\namɛbuɖewo ciwo de nyi afɔɖoxuwo nɔ ƉEKAWAWAGBƐ EJUKƆNWOTƆ.\nAkpa 30\nEjuɖekpokpwi, ehabɔbɔɖekpokpwi, amɛɖekpokpwi de ɖo egbe a sɔ Egbe\nfanɖeɖe cɛ a sɔ wa enubaɖaɖe alo a sɔ wa kanlindɔɖe shigbe a sɔ gbe be"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "601480b13aeee5d2f177b58fc5bea562",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "agbetɔwo da zan acɛ ko vovokpɔkpɔ ciwo yi ze le wemacɛmɛ.",
-            "Image": "601480b13aeee5d2f177b58fc5bea562"
+            "Text": "agbetɔwo da zan acɛ ko vovokpɔkpɔ ciwo yi ze le wemacɛmɛ."
         }
     }
 }

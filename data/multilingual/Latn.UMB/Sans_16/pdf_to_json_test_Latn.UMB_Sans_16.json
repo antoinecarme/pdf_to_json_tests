@@ -1,125 +1,125 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581471241,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
-            "Index": 0,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
             ],
-            "Text": "UNKANDA WOLWALI WOMOKO YOMUNU\nEteke cakala ekwi (10) ko sayi ya cemba kulima wohulukayi ovita eciya akwi akwala l’ecelala, Onjango\nyatatu yowingi wolofeka vyalikongela yasokiya, V’onjo yonguluvulu yo Chaillot ko Paris, ukanda wolwali\nwomoko yomunu. Eteke lyakwamako lyekwi lamosi (11) osayi ya cemba yulima ohukayi ovita eciya akwi\nakwala l’ecelala, onjango yowingi yo UNESCO yatyamesa asulilo oku eyo akulihisa ekwatiso lyukanda\nwowingi wovopange osi esukiyo.\nELOMBOLWILO\nOkukolela ukulihiso ekalo lityamela kovimata mata vyepata lyomanu kwenda omoko yasoka kwavosi.\nKwenda yesunga yilinga ombembwa yimwe yapana yesunga kwenda yombembwa v’olwali.\nOkukolela eci kacakulihiwile kwenda esepwiso lyomoko yomunu, lyatwala kokuponda, okungwalisa\nolondunge vyowiñgi kwenda ekalu lyolwali lumwe muna vakwamwenyo vakaliyela okuvangula kwenda\nokulitava, vayovoka kusumba kwenda kusuka , yalombolwiwa ndeyi yavelapo hayo yalelapo vali keswimo\nliwa lyomunu.\nOkukolela okuti cavelapo okweca ulongo kokwamako okulyeca kukamba wolofeka.\nOlukolela okuti vukanda owiñgi wofokeka vyalikongela, wasapula onjanja yokaliye etavo lyawo komoko\nyavelapo yomunu, kekalo kwenda esilivilo lyomwenyo womunu, okulisoka komoko yalume kwenda yakayi\nkwenda yilombolola utoyi wokweca okwamako kwowingi kwenda okweca ekalo lyaposoka lyomwenyo\nv’eyovo limwe lyavelapo.\nOkukolela okuti olofeka vyalityamela vyatyamela okukwata, okulikwatisako l’elisokiyo lyolofeka vilikwete\nomunga, esumbilo lyolwali kwenda owingi womoko yulume kwenda ayovo avelapo.\nOkukolela okuti omunga yimwe yolomoko evi kwenda ayovo lyavelapo vali kesilivilo kokusumbila",
-            "Image": "695cd29febcf60b76a2debf756ec8209"
+            "Image": "695cd29febcf60b76a2debf756ec8209",
+            "Index": 0,
+            "Label": "1",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "UNKANDA WOLWALI WOMOKO YOMUNU\nEteke cakala ekwi (10) ko sayi ya cemba kulima wohulukayi ovita eciya akwi akwala l’ecelala, Onjango\nyatatu yowingi wolofeka vyalikongela yasokiya, V’onjo yonguluvulu yo Chaillot ko Paris, ukanda wolwali\nwomoko yomunu. Eteke lyakwamako lyekwi lamosi (11) osayi ya cemba yulima ohukayi ovita eciya akwi\nakwala l’ecelala, onjango yowingi yo UNESCO yatyamesa asulilo oku eyo akulihisa ekwatiso lyukanda\nwowingi wovopange osi esukiyo.\nELOMBOLWILO\nOkukolela ukulihiso ekalo lityamela kovimata mata vyepata lyomanu kwenda omoko yasoka kwavosi.\nKwenda yesunga yilinga ombembwa yimwe yapana yesunga kwenda yombembwa v’olwali.\nOkukolela eci kacakulihiwile kwenda esepwiso lyomoko yomunu, lyatwala kokuponda, okungwalisa\nolondunge vyowiñgi kwenda ekalu lyolwali lumwe muna vakwamwenyo vakaliyela okuvangula kwenda\nokulitava, vayovoka kusumba kwenda kusuka , yalombolwiwa ndeyi yavelapo hayo yalelapo vali keswimo\nliwa lyomunu.\nOkukolela okuti cavelapo okweca ulongo kokwamako okulyeca kukamba wolofeka.\nOlukolela okuti vukanda owiñgi wofokeka vyalikongela, wasapula onjanja yokaliye etavo lyawo komoko\nyavelapo yomunu, kekalo kwenda esilivilo lyomwenyo womunu, okulisoka komoko yalume kwenda yakayi\nkwenda yilombolola utoyi wokweca okwamako kwowingi kwenda okweca ekalo lyaposoka lyomwenyo\nv’eyovo limwe lyavelapo.\nOkukolela okuti olofeka vyalityamela vyatyamela okukwata, okulikwatisako l’elisokiyo lyolofeka vilikwete\nomunga, esumbilo lyolwali kwenda owingi womoko yulume kwenda ayovo avelapo.\nOkukolela okuti omunga yimwe yolomoko evi kwenda ayovo lyavelapo vali kesilivilo kokusumbila"
         },
         "1": {
-            "Label": "2",
-            "Index": 1,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
             ],
-            "Text": "etyamêlo eli.\nOnjango yowiñgi yalombolola ukanda ovu wolwali womoko yomunu l’esokolwilo lyavosi okulipitilisa\nkawiñgi osi kwenda olofeka vyosi, oco okuti omanu vosi kwenda okuti avimatamata vyosi vyowiñgi,\nokukwata ukanda owu olonjanja vyosi vesokolwilo, vakwata ongusu yaco, okupisa kelilongiso kwenda\nkepindiso, lyokwamisako esumbilo lyolomoko evi kwenda ombembwa, kwenda okukwata okupisa kovikele\nvyamako vyeci citumila ofeka kwenda colwali, okukulihisa kwenda okucilinga volwali kwenda ava vaci\nkasi, ndañgo kowiñgi wolofeka vyatyamêlako ndeci kwevi vyolofeka vikasi kovaso yavyo :\nOCIHASU CATETE\nOmanu vosi vacitiwa valipwa kwenda valisoka kovina vyosikwenda komoko. Ovo vakwete esunga kwenda,\nkwenda olondunge kwenje ovo vatêla okuliteywila kuvamwe kwenda vakwavo vesokolwilo lyocisola.\nOCIHASU CAVALI\nOmunu eye omunu citava okukala lolomoko vyosi kwenda ayovo osi aciwa vukanda owu kawupiñganyiwa,\nndeci citukwiwa kovivalo vyakova, kulume pamwe ukãyi, k’elimi, ketavo, kocisimilo culoñgo woku vyala\nofeka ale esokolwilo lyosi likwavo lyefetikilo lyofeka ale lyowiñgi, lyukwasi, lyucitiwe wekalo limwe lyosi\nkonepa yikwavo kakukala etepiso lalimwe lyupisiwa kesokiyo lyuloñgo wokuvyala ofeka, lyesunga ale\nlyolwali lyofeka a lyosi okuti omunu watunda, okuti ofeka eyi yiyovoke okuti yityamêla yikwavo ale yikala\nlongave yimwe yokulitumila oyonwêle.\nOCIHASU CATATU\nLomwe okakala upika ndañgo oselevende; upika kwenda omwîlu yapika vyatatekiwa kolonjila vyayo vyosi.\nOCIHASU CAKWÃLA\nLomwe okapumiwa, ndañgo akangiso ohali yalwa, ungangala uvi.",
-            "Image": "0e021cbeada7821a554989f2807dd067"
+            "Image": "0e021cbeada7821a554989f2807dd067",
+            "Index": 1,
+            "Label": "2",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "etyamêlo eli.\nOnjango yowiñgi yalombolola ukanda ovu wolwali womoko yomunu l’esokolwilo lyavosi okulipitilisa\nkawiñgi osi kwenda olofeka vyosi, oco okuti omanu vosi kwenda okuti avimatamata vyosi vyowiñgi,\nokukwata ukanda owu olonjanja vyosi vesokolwilo, vakwata ongusu yaco, okupisa kelilongiso kwenda\nkepindiso, lyokwamisako esumbilo lyolomoko evi kwenda ombembwa, kwenda okukwata okupisa kovikele\nvyamako vyeci citumila ofeka kwenda colwali, okukulihisa kwenda okucilinga volwali kwenda ava vaci\nkasi, ndañgo kowiñgi wolofeka vyatyamêlako ndeci kwevi vyolofeka vikasi kovaso yavyo :\nOCIHASU CATETE\nOmanu vosi vacitiwa valipwa kwenda valisoka kovina vyosikwenda komoko. Ovo vakwete esunga kwenda,\nkwenda olondunge kwenje ovo vatêla okuliteywila kuvamwe kwenda vakwavo vesokolwilo lyocisola.\nOCIHASU CAVALI\nOmunu eye omunu citava okukala lolomoko vyosi kwenda ayovo osi aciwa vukanda owu kawupiñganyiwa,\nndeci citukwiwa kovivalo vyakova, kulume pamwe ukãyi, k’elimi, ketavo, kocisimilo culoñgo woku vyala\nofeka ale esokolwilo lyosi likwavo lyefetikilo lyofeka ale lyowiñgi, lyukwasi, lyucitiwe wekalo limwe lyosi\nkonepa yikwavo kakukala etepiso lalimwe lyupisiwa kesokiyo lyuloñgo wokuvyala ofeka, lyesunga ale\nlyolwali lyofeka a lyosi okuti omunu watunda, okuti ofeka eyi yiyovoke okuti yityamêla yikwavo ale yikala\nlongave yimwe yokulitumila oyonwêle.\nOCIHASU CATATU\nLomwe okakala upika ndañgo oselevende; upika kwenda omwîlu yapika vyatatekiwa kolonjila vyayo vyosi.\nOCIHASU CAKWÃLA\nLomwe okapumiwa, ndañgo akangiso ohali yalwa, ungangala uvi."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "916128df8350b8b710bdd28e754b803f",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "OCIHASU CATÃLO\nOmunu eye omunu okwete omoko yokukuliha kolonepa vyosi vyofeka yahe yesunga.\nOCIHASU CEPANDU\nOmanu vosi valisoka kocihandeleko. Kwenda vakwete omoko. Kayalitepele yalisoka kokutatiwa\nkwocihandeko.\nOmanu vosi vakwete omoko yokutatiwas yasoka okupisa kokutepisa uvi wosi unyõla ukanda owu kwenda\nesanumulo lyosi kwenda etepiso.\nOCIHASU CEPANDU VALI\nOmunu eye omunu okwete omoko yekwato liwa kesunga lyofeka, lyapama litetwiya ovilinga vivi omoko\nyavelapo eye yokulihiwila kelisokiyo ale kocihandeleko.\nOCIHASU CELELÃLA\nLomwe enda vokalyawoso, vokayike ale okutilila kosamwa yofeka.\nOCIHASU CECIYA\nOmunu eye omunu okwete omoko, kokulisoka, okuti ekalo lyahe lilomboloka kwavosi kwenda kowiñgi,\nkonjo yimwe yesombiso lilikasilili kwenda lyasoka likalombolola, ndañgo komoko yahe kwenda kasiliyo\nahe, ndañgo kalundi ahe okosi kelinga lyepiso vosuñgamisa eye.\nOCIHASU CEKWE\n1.Omunu walundiliwa elinga limwe lyumunu osokisiwa ndu hayeko toke eci elinga lyahe lilimbukiwa\nvokwenda kwolopapelo vyekandu, omu alitavo osi ayongwiwa, evindikiyo likasangiwa.",
-            "Image": "916128df8350b8b710bdd28e754b803f"
+            "Text": "OCIHASU CATÃLO\nOmunu eye omunu okwete omoko yokukuliha kolonepa vyosi vyofeka yahe yesunga.\nOCIHASU CEPANDU\nOmanu vosi valisoka kocihandeleko. Kwenda vakwete omoko. Kayalitepele yalisoka kokutatiwa\nkwocihandeko.\nOmanu vosi vakwete omoko yokutatiwas yasoka okupisa kokutepisa uvi wosi unyõla ukanda owu kwenda\nesanumulo lyosi kwenda etepiso.\nOCIHASU CEPANDU VALI\nOmunu eye omunu okwete omoko yekwato liwa kesunga lyofeka, lyapama litetwiya ovilinga vivi omoko\nyavelapo eye yokulihiwila kelisokiyo ale kocihandeleko.\nOCIHASU CELELÃLA\nLomwe enda vokalyawoso, vokayike ale okutilila kosamwa yofeka.\nOCIHASU CECIYA\nOmunu eye omunu okwete omoko, kokulisoka, okuti ekalo lyahe lilomboloka kwavosi kwenda kowiñgi,\nkonjo yimwe yesombiso lilikasilili kwenda lyasoka likalombolola, ndañgo komoko yahe kwenda kasiliyo\nahe, ndañgo kalundi ahe okosi kelinga lyepiso vosuñgamisa eye.\nOCIHASU CEKWE\n1.Omunu walundiliwa elinga limwe lyumunu osokisiwa ndu hayeko toke eci elinga lyahe lilimbukiwa\nvokwenda kwolopapelo vyekandu, omu alitavo osi ayongwiwa, evindikiyo likasangiwa."
         },
         "3": {
-            "Label": "4",
-            "Index": 3,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
             ],
-            "Text": "Lomwe okayikiwa kovilinga ale ovovi vonjanja yaco eci akalingiwa, havakasi ndelinga limwe lyumunu\nokupisa komoko yofeka ale yolwali ndeci calisoka, hakukakala okayike lakamwe kakola aka kakapiwile\nvosimbu eyi ekandu lyumunu lyalingiwa.\nOCIHASU CEKWI LA MOSI\nLomwe okatala ohali yokusakalasiwa lavi komwenyo wahe komwenyo wahe wulika, epata lyahe, onjo yahe\nkwenda eli tavo lyahe lavakwavo ndeñgo okusetekiwa kekalo lyahe kwenda unu wahe.\nOCIHASU CEKWI LAVALI\nLomwe okatalisiwa vali ohali lalundi okufwangwiliwa komwenyo wahe ulikasilili kepata, konjo yahe ale\nkatambululo ahe, ndañgo, ndañgo okunyola ekalo lyahe. Omunu eye omunu okwete omoko yokutatiwa\nkocihandeleko, okupisa kalundi aco, ale kasetekiwo.\nOCIHASU CEKWI LATATU\nOmumu eye omunu okwete omoko yokwenda ndeci apanga okunõla oku akala nda vokati ke kalo lyowiñgi.\n2.Omunu eye omunu okwete omoko kokutunda v’ofeka yosi okutyamisako eyi ayongola, kwenda okuñgwâla\nofeka yosi.\nOCIHASU CEKWI LAKWÃLA\nKokukwamawa, omunu eye omunu okwete omoko yokuvanjiliya okutilila kofeka yikivavo kwenda\nokukwatisiwa ndukwafeka yiñgi volofeka vikwavo.\nOCIHASU CEKWI LATÃLO\nOmunu eye omunu okwete omoko yunyitiwe umwe wofeka.\nLomwe olikasilili olundiliwa unyitiwo wahe. Ndañgo omoko yokupongolola unyiliwe.",
-            "Image": "2a8301db495f15ff00dd2fd21125bf4b"
+            "Image": "2a8301db495f15ff00dd2fd21125bf4b",
+            "Index": 3,
+            "Label": "4",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Lomwe okayikiwa kovilinga ale ovovi vonjanja yaco eci akalingiwa, havakasi ndelinga limwe lyumunu\nokupisa komoko yofeka ale yolwali ndeci calisoka, hakukakala okayike lakamwe kakola aka kakapiwile\nvosimbu eyi ekandu lyumunu lyalingiwa.\nOCIHASU CEKWI LA MOSI\nLomwe okatala ohali yokusakalasiwa lavi komwenyo wahe komwenyo wahe wulika, epata lyahe, onjo yahe\nkwenda eli tavo lyahe lavakwavo ndeñgo okusetekiwa kekalo lyahe kwenda unu wahe.\nOCIHASU CEKWI LAVALI\nLomwe okatalisiwa vali ohali lalundi okufwangwiliwa komwenyo wahe ulikasilili kepata, konjo yahe ale\nkatambululo ahe, ndañgo, ndañgo okunyola ekalo lyahe. Omunu eye omunu okwete omoko yokutatiwa\nkocihandeleko, okupisa kalundi aco, ale kasetekiwo.\nOCIHASU CEKWI LATATU\nOmumu eye omunu okwete omoko yokwenda ndeci apanga okunõla oku akala nda vokati ke kalo lyowiñgi.\n2.Omunu eye omunu okwete omoko kokutunda v’ofeka yosi okutyamisako eyi ayongola, kwenda okuñgwâla\nofeka yosi.\nOCIHASU CEKWI LAKWÃLA\nKokukwamawa, omunu eye omunu okwete omoko yokuvanjiliya okutilila kofeka yikivavo kwenda\nokukwatisiwa ndukwafeka yiñgi volofeka vikwavo.\nOCIHASU CEKWI LATÃLO\nOmunu eye omunu okwete omoko yunyitiwe umwe wofeka.\nLomwe olikasilili olundiliwa unyitiwo wahe. Ndañgo omoko yokupongolola unyiliwe."
         },
         "4": {
-            "Label": "5",
-            "Index": 4,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
             ],
-            "Text": "OCIHASU CEKWI LEPANDU\nOkupisa kutunga wokulinga uvala, ulume kwenda ukãyi ndengo ohele layimwe yekova, yukwafeka ale\netavo, vakwete ocipango cokulikwêla kwenda okutunga epata.Ovovakwete omokoyimosi osimbu yuvala\nkwenda kokulitepa kwavo.\nUvala citava okuti va umalusula locipapo kwenda esokolwilo lyasoka lyolokweli vyokovaso.\nEpata ocimatamata casoka kwenda cakola cowingi kwenda cikwete omoko yokutatiwa kwowiñgi kwenda\nkwolombyali.\nOCIHASU CEKWI LEPANDU VALI\nOmunu eye omunu, ndañgo oco ale kowiñgi, okwete omoko yeci mwêle.\nLomwe ofwangiliwa okuketikiwa kweci cahe.\nOCIHASU CEKWI LECELÃLA\nOmunu eye omunu okwete omoko yeyovo lyokusokolola, olondunge kwenda etavo.\nOCIHASU CEKWI L’ECIYA\nOmunu eye omunu okwete omoko yeyovo lyesokolwilo kwenda okuvangula.\nOCIHASU CAKWI AVALI\nOmunu eye omunu okwete omoko yeyovo lyonjango kwenda omunga yunu.\nLomwe osiliñginyiwa oku upa vomunga yimwe.\nOCIHASU CAKWI AVALI LAMOSI",
-            "Image": "5695d9df5551272b0ae882aa095050c0"
+            "Image": "5695d9df5551272b0ae882aa095050c0",
+            "Index": 4,
+            "Label": "5",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "OCIHASU CEKWI LEPANDU\nOkupisa kutunga wokulinga uvala, ulume kwenda ukãyi ndengo ohele layimwe yekova, yukwafeka ale\netavo, vakwete ocipango cokulikwêla kwenda okutunga epata.Ovovakwete omokoyimosi osimbu yuvala\nkwenda kokulitepa kwavo.\nUvala citava okuti va umalusula locipapo kwenda esokolwilo lyasoka lyolokweli vyokovaso.\nEpata ocimatamata casoka kwenda cakola cowingi kwenda cikwete omoko yokutatiwa kwowiñgi kwenda\nkwolombyali.\nOCIHASU CEKWI LEPANDU VALI\nOmunu eye omunu, ndañgo oco ale kowiñgi, okwete omoko yeci mwêle.\nLomwe ofwangiliwa okuketikiwa kweci cahe.\nOCIHASU CEKWI LECELÃLA\nOmunu eye omunu okwete omoko yeyovo lyokusokolola, olondunge kwenda etavo.\nOCIHASU CEKWI L’ECIYA\nOmunu eye omunu okwete omoko yeyovo lyesokolwilo kwenda okuvangula.\nOCIHASU CAKWI AVALI\nOmunu eye omunu okwete omoko yeyovo lyonjango kwenda omunga yunu.\nLomwe osiliñginyiwa oku upa vomunga yimwe.\nOCIHASU CAKWI AVALI LAMOSI"
         },
         "5": {
-            "Label": "6",
-            "Index": 5,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
             ],
-            "Text": "Omunu eye omunu okwete omoko yokukwatisa esongolo lyolondaka vyowiñgi wovofeka yahe,\nndokwiñgilamo l’utwe ale v’onêle ndovindekase vyanoliwa.\nOmunu eye omunu okwete omoko yokweca, vekalo lokulisoka kovopange owiñgi wovofeka yahe.\nOnjongole yawiñgi osi yovihandeleko vyomoko yowiñgi; onjongole eyi yavangwiwile kocela calomboloka\ncocili, cikwate onepa volotembo kukulisiso wavyosi wasoka, kwenda kocela covutima, ale vali elinga limwe\nlisungweko lyeciwa kombembwa yocela.\nOCIHASU CAKWI AVALI LAVALI\nOmunu eye omunu, eci okuti ocimatamata cowingi, okwete omoko yokutatiwa kwowingi, oko kutundilila\nkoku kwata esanju olomoko vyokwasi, vyowingi kwenda ovituwa viyongwiwa kunu wavyo kwenda\nokwamako kulikasilili kwenkalo lyomunu, ohenda yongusu yofeka kwenda ukamba lolofeka vyolwali,\nokukwata ocikele celisokiyo kwenda ovokwasi ofeka oyo ofeka.\nOCIHASU CAKWI AVALI LATATU\nOmunu eye omunu, omoko.yupange, okunõla locipango cahe upange, ekalo lyaposoka kwenda lyesanju\nlyupange okutatiwa oco hakatundeko.\nVosi vakwete omoko, halokutepisako, ofeto yimosi kupange walisoka.\nWosi olinga upange okwete omoko yofeto yasoka kwenda yesanju, okukwata ndeci epata lyahe ekalo limwe\nlyunu womumu kwenda yamisako, ndaciyongola vali ovi kwata vyokutata owiñgi.\nOmunu eye omunu okwete omoko yokutekula, lavakwavo olosindikatu okutyamêla kolosindikatu vikwavo\noco vatetwiye olonjongole vyaso.\nOCIHASU CAKWI AVALI LAKWÃLA",
-            "Image": "429a9e975ee7b46332debff72dd89258"
+            "Image": "429a9e975ee7b46332debff72dd89258",
+            "Index": 5,
+            "Label": "6",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Omunu eye omunu okwete omoko yokukwatisa esongolo lyolondaka vyowiñgi wovofeka yahe,\nndokwiñgilamo l’utwe ale v’onêle ndovindekase vyanoliwa.\nOmunu eye omunu okwete omoko yokweca, vekalo lokulisoka kovopange owiñgi wovofeka yahe.\nOnjongole yawiñgi osi yovihandeleko vyomoko yowiñgi; onjongole eyi yavangwiwile kocela calomboloka\ncocili, cikwate onepa volotembo kukulisiso wavyosi wasoka, kwenda kocela covutima, ale vali elinga limwe\nlisungweko lyeciwa kombembwa yocela.\nOCIHASU CAKWI AVALI LAVALI\nOmunu eye omunu, eci okuti ocimatamata cowingi, okwete omoko yokutatiwa kwowingi, oko kutundilila\nkoku kwata esanju olomoko vyokwasi, vyowingi kwenda ovituwa viyongwiwa kunu wavyo kwenda\nokwamako kulikasilili kwenkalo lyomunu, ohenda yongusu yofeka kwenda ukamba lolofeka vyolwali,\nokukwata ocikele celisokiyo kwenda ovokwasi ofeka oyo ofeka.\nOCIHASU CAKWI AVALI LATATU\nOmunu eye omunu, omoko.yupange, okunõla locipango cahe upange, ekalo lyaposoka kwenda lyesanju\nlyupange okutatiwa oco hakatundeko.\nVosi vakwete omoko, halokutepisako, ofeto yimosi kupange walisoka.\nWosi olinga upange okwete omoko yofeto yasoka kwenda yesanju, okukwata ndeci epata lyahe ekalo limwe\nlyunu womumu kwenda yamisako, ndaciyongola vali ovi kwata vyokutata owiñgi.\nOmunu eye omunu okwete omoko yokutekula, lavakwavo olosindikatu okutyamêla kolosindikatu vikwavo\noco vatetwiye olonjongole vyaso.\nOCIHASU CAKWI AVALI LAKWÃLA"
         },
         "6": {
-            "Label": "7",
-            "Index": 6,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
             ],
-            "Text": "Omunu eye omunu okwete omoko yokupuyuka kwenda okupitisa otombo kwenda elyuviko lyasoka\nlyosimbu yupange kwenda epuyuko lyosimbu yifetiwa.\nOCIHASU CAKWI AVALI LATÃLO\nOmunu eye omunu okwete omoko yutunga womwenyo umwe wasoka oco akwate uhayele wahe, ekalo lyahe\nliwa kwenda lyepata lyahe haco lyokulya, okuwala, onjo ovikele vyuhayele, ndeci vo haco kovipange owiñgi\naposokela; eye okwete omo yokutatiwa konjila yokukala okuti kakwete upange, kokuvela, eci ekuti\nkasilivilavali, kumbumba kokukukatoke kolonjila vikwavo vyokumyelisa ovikwata vyahe vyosi vyekwatiso\nkokwamako lovitangi vyulika wonjongole yahe.\nKokucitiwa kwenda kumõla okwete omoko yekwatiso limwe kwenda ekwatiso limwe lyavelapo. Omãla vosi\nvacitiwa kavivala ale kosamwa yavo, vakwata etetwiyo limosi lyowiñgi.\nOCIHASU CAKWI AVALI L’EPANDU\nOmunu eye omunu okwete omoko yelilongiso. Elilongiso likale lyocali, ndeci cikala elilongiso\nlyokuyukiyako kwenda lyongusu. Elilongiso lyokuyukiyako te okulisiliñginya. Elilongiso lyuloñgo kwenda\nlyepindiso te lisandwiwa; okweca onjongole yelilongiso lyavelapo liyulwiwe kokulisoka kwavosi kupange\nwekolelo lyawo.\nElilongiso litave okuyuluka kukulihiso wosi womwenyo kwenda kongusu yocisumbilo komoko yomanu\nkwenda keyovo lyasoka. Oyo yece elomboloko, ongecelo kwenda ukamba p’okati kolofeka vyosi kwenda\nawiñgi osi olomepele vyakova ale vakwetavo, eci ndeci okwamako kwovopange olofeka vyalikongela\nkokukwatisa ombembwa.\nOlofeka, kocipango, omoko yokunõla elilongiso lyosi vaca k’omãla vavo.\nOCIHASU CAKWI AVALI LEPANDU VALI",
-            "Image": "0e67cdc42bca7447b50f316305a216d5"
-        },
-        "7": {
-            "Label": "8",
-            "Index": 7,
+            "Image": "0e67cdc42bca7447b50f316305a216d5",
+            "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
+            "Text": "Omunu eye omunu okwete omoko yokupuyuka kwenda okupitisa otombo kwenda elyuviko lyasoka\nlyosimbu yupange kwenda epuyuko lyosimbu yifetiwa.\nOCIHASU CAKWI AVALI LATÃLO\nOmunu eye omunu okwete omoko yutunga womwenyo umwe wasoka oco akwate uhayele wahe, ekalo lyahe\nliwa kwenda lyepata lyahe haco lyokulya, okuwala, onjo ovikele vyuhayele, ndeci vo haco kovipange owiñgi\naposokela; eye okwete omo yokutatiwa konjila yokukala okuti kakwete upange, kokuvela, eci ekuti\nkasilivilavali, kumbumba kokukukatoke kolonjila vikwavo vyokumyelisa ovikwata vyahe vyosi vyekwatiso\nkokwamako lovitangi vyulika wonjongole yahe.\nKokucitiwa kwenda kumõla okwete omoko yekwatiso limwe kwenda ekwatiso limwe lyavelapo. Omãla vosi\nvacitiwa kavivala ale kosamwa yavo, vakwata etetwiyo limosi lyowiñgi.\nOCIHASU CAKWI AVALI L’EPANDU\nOmunu eye omunu okwete omoko yelilongiso. Elilongiso likale lyocali, ndeci cikala elilongiso\nlyokuyukiyako kwenda lyongusu. Elilongiso lyokuyukiyako te okulisiliñginya. Elilongiso lyuloñgo kwenda\nlyepindiso te lisandwiwa; okweca onjongole yelilongiso lyavelapo liyulwiwe kokulisoka kwavosi kupange\nwekolelo lyawo.\nElilongiso litave okuyuluka kukulihiso wosi womwenyo kwenda kongusu yocisumbilo komoko yomanu\nkwenda keyovo lyasoka. Oyo yece elomboloko, ongecelo kwenda ukamba p’okati kolofeka vyosi kwenda\nawiñgi osi olomepele vyakova ale vakwetavo, eci ndeci okwamako kwovopange olofeka vyalikongela\nkokukwatisa ombembwa.\nOlofeka, kocipango, omoko yokunõla elilongiso lyosi vaca k’omãla vavo.\nOCIHASU CAKWI AVALI LEPANDU VALI"
+        },
+        "7": {
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
             ],
-            "Text": "Omunu eye omunu okwete omoko yokukwatisa ndeci ayongola komwenyo wovituwa vyowiñgi : okukwata\nkovoloñgo kwenda okukwatisa kokwamako kuloñgo kwenda ovowa aca.\nOmunu eye omunu okwete omoko yokutatiwa kolonfongole vyolondunge kwenda ovikwata vyalingiwa\nvyupange uloñgo walivulu ale ovipapo ale olomapalo evi okuti ovyo efetikilo.\nOCIHASU CAKWI AVALI LECELÃLA\nOmunu eye omunu okwete omoko yeci avyala, kesokiyo lyowiñgi kwenda kesokiyo lyolwali, ocihandeleko\ncimwe ndeci omoko kwenda ombembwa yipopiwa vukanda owu mupita eci calingiwa.\nOCIHASU CAKWI AVALI LECIYA\nOmunu okwete ovikele kowiñgi esi okuti olikasilili kesokiyo lyokwamako kunu wahe kwenda eci citava.\nVupange womoko yahe kwenda kekalo liwa lyombemwa yahe, omunu eye omunu eye umwe okapiwa\nkongave eyi alinga kocihandeleko culika oco akwate ukulihiso kwenda ocisumbilo colomoko kwenda eyovo\nlyovina vikwavo yokusanjwisa alinga awa okuvangula, ucihandeleko cowiñgi kwenda ekalo liwa lyacosi\ncuvyali wowiñgi.\nOlomoko evi kwenda eyovo havikatava, vonjila layimwe, okulinga eci hacoko kasañgamêlo kwenda\nkafetikilo olofeka vyalitokeka.\nOCIHASU CAKWI ATATU\nLalimwe ekalo lyukande owu litava okuti lilombolwiwa, okuti likatangisa uvyali, elyongolwilo limwe ale\nomunu umwe, omoko yimwe yañgo yokutyamêla kupange umwe ale okutelisa elinga limwe lyokunyõla\nolomoko kwenda eyovo, vyatumiwa ndeti mulo.",
-            "Image": "20e02ac5f7bd57db937f1d121f3639fe"
+            "Image": "20e02ac5f7bd57db937f1d121f3639fe",
+            "Index": 7,
+            "Label": "8",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Omunu eye omunu okwete omoko yokukwatisa ndeci ayongola komwenyo wovituwa vyowiñgi : okukwata\nkovoloñgo kwenda okukwatisa kokwamako kuloñgo kwenda ovowa aca.\nOmunu eye omunu okwete omoko yokutatiwa kolonfongole vyolondunge kwenda ovikwata vyalingiwa\nvyupange uloñgo walivulu ale ovipapo ale olomapalo evi okuti ovyo efetikilo.\nOCIHASU CAKWI AVALI LECELÃLA\nOmunu eye omunu okwete omoko yeci avyala, kesokiyo lyowiñgi kwenda kesokiyo lyolwali, ocihandeleko\ncimwe ndeci omoko kwenda ombembwa yipopiwa vukanda owu mupita eci calingiwa.\nOCIHASU CAKWI AVALI LECIYA\nOmunu okwete ovikele kowiñgi esi okuti olikasilili kesokiyo lyokwamako kunu wahe kwenda eci citava.\nVupange womoko yahe kwenda kekalo liwa lyombemwa yahe, omunu eye omunu eye umwe okapiwa\nkongave eyi alinga kocihandeleko culika oco akwate ukulihiso kwenda ocisumbilo colomoko kwenda eyovo\nlyovina vikwavo yokusanjwisa alinga awa okuvangula, ucihandeleko cowiñgi kwenda ekalo liwa lyacosi\ncuvyali wowiñgi.\nOlomoko evi kwenda eyovo havikatava, vonjila layimwe, okulinga eci hacoko kasañgamêlo kwenda\nkafetikilo olofeka vyalitokeka.\nOCIHASU CAKWI ATATU\nLalimwe ekalo lyukande owu litava okuti lilombolwiwa, okuti likatangisa uvyali, elyongolwilo limwe ale\nomunu umwe, omoko yimwe yañgo yokutyamêla kupange umwe ale okutelisa elinga limwe lyokunyõla\nolomoko kwenda eyovo, vyatumiwa ndeti mulo."
         }
     }
 }

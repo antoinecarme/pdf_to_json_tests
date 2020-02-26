@@ -1,99 +1,99 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581468360,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
-            "Index": 0,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
             ],
-            "Text": "Az Emberi Jogok Egyetemes Nyilatkozata\nBevezető\nTekintettel arra, hogy az emberiség családja minden egyes tagja méltóságának, valamint egyenlő és elidegeníthetetlen jogainak elismerése\nalkotja a szabadság, az igazság és a béke alapját a világon,\nTekintettel arra, hogy az emberi jogok el nem ismerése és semmibevevése az emberiség lelkiismeretét fellázító barbár cselekményekhez\nvezetett, és hogy az ember legfőbb vágya egy olyan világ eljövetele, amelyben az elnyomástól, valamint a nyomortól megszabadult emberi\nlények szava és meggyőződése szabad lesz,\nTekintettel annak fontosságára, hogy az emberi jogokat a jog uralma védelmezze, nehogy az ember végső szükségében a zsarnokság és az\nelnyomás elleni lázadásra kényszerüljön,\nTekintettel arra, hogy igen lényeges a nemzetek közötti baráti kapcsolatok kifejeződésének előmozdítása,\nTekintettel arra, hogy az Alapokmányban az Egyesült Nemzetek népei újból hitet tettek az alapvető emberi jogok, az emberi személyiség\nméltósága és értéke, a férfiak és nők egyenjogúsága mellett, valamint kinyilvánították azt az elhatározásukat, hogy elősegítik a szociális\nhaladást és nagyobb szabadság mellett jobb életfeltételeket valósítanak meg,\nTekintettel arra, hogy a tagállamok kötelezték magukat arra, hogy az Egyesült Nemzetek Szervezetével együttműködve biztosítják az emberi\njogok és alapvető szabadságok általános és tényleges tiszteletbentartását,\nTekintettel arra, hogy a jogok és szabadságok mibenléte tekintetében közös felfogás kialakításának a legnagyobb jelentősége van az említett\nkötelezettség maradéktalan teljesítésének szempontjából\na közgyűlés kinyilvánítja az emberi jogok egyetemleges nyilatkozatát\nmint azt a közös eszményt, amelynek elérésére minden népnek és minden nemzetnek törekednie kell abból a célból, hogy minden személy és a\ntársadalom minden szerve, állandóan szem előtt tartva a jelen Nyilatkozatot, oktatás és nevelés útján előmozdítsa e jogok és szabadságok\ntiszteletbentartásának kifejlesztését, valamint azoknak fokozatosan megvalósuló hazai és nemzetközi jogszabályok útján történő általános és\ntényleges alkalmazását és elismerését mind a tagállamok népei között, mind pedig a joghatóságuk alatt álló területek népei között.\n1. cikk\nMinden. emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben\ntestvéri szellemben kell hogy viseltessenek.\n2. cikk",
-            "Image": "362130cf124bfdba383f7fe3454bde91"
+            "Image": "362130cf124bfdba383f7fe3454bde91",
+            "Index": 0,
+            "Label": "1",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Az Emberi Jogok Egyetemes Nyilatkozata\nBevezető\nTekintettel arra, hogy az emberiség családja minden egyes tagja méltóságának, valamint egyenlő és elidegeníthetetlen jogainak elismerése\nalkotja a szabadság, az igazság és a béke alapját a világon,\nTekintettel arra, hogy az emberi jogok el nem ismerése és semmibevevése az emberiség lelkiismeretét fellázító barbár cselekményekhez\nvezetett, és hogy az ember legfőbb vágya egy olyan világ eljövetele, amelyben az elnyomástól, valamint a nyomortól megszabadult emberi\nlények szava és meggyőződése szabad lesz,\nTekintettel annak fontosságára, hogy az emberi jogokat a jog uralma védelmezze, nehogy az ember végső szükségében a zsarnokság és az\nelnyomás elleni lázadásra kényszerüljön,\nTekintettel arra, hogy igen lényeges a nemzetek közötti baráti kapcsolatok kifejeződésének előmozdítása,\nTekintettel arra, hogy az Alapokmányban az Egyesült Nemzetek népei újból hitet tettek az alapvető emberi jogok, az emberi személyiség\nméltósága és értéke, a férfiak és nők egyenjogúsága mellett, valamint kinyilvánították azt az elhatározásukat, hogy elősegítik a szociális\nhaladást és nagyobb szabadság mellett jobb életfeltételeket valósítanak meg,\nTekintettel arra, hogy a tagállamok kötelezték magukat arra, hogy az Egyesült Nemzetek Szervezetével együttműködve biztosítják az emberi\njogok és alapvető szabadságok általános és tényleges tiszteletbentartását,\nTekintettel arra, hogy a jogok és szabadságok mibenléte tekintetében közös felfogás kialakításának a legnagyobb jelentősége van az említett\nkötelezettség maradéktalan teljesítésének szempontjából\na közgyűlés kinyilvánítja az emberi jogok egyetemleges nyilatkozatát\nmint azt a közös eszményt, amelynek elérésére minden népnek és minden nemzetnek törekednie kell abból a célból, hogy minden személy és a\ntársadalom minden szerve, állandóan szem előtt tartva a jelen Nyilatkozatot, oktatás és nevelés útján előmozdítsa e jogok és szabadságok\ntiszteletbentartásának kifejlesztését, valamint azoknak fokozatosan megvalósuló hazai és nemzetközi jogszabályok útján történő általános és\ntényleges alkalmazását és elismerését mind a tagállamok népei között, mind pedig a joghatóságuk alatt álló területek népei között.\n1. cikk\nMinden. emberi lény szabadon születik és egyenlő méltósága és joga van. Az emberek, ésszel és lelkiismerettel bírván, egymással szemben\ntestvéri szellemben kell hogy viseltessenek.\n2. cikk"
         },
         "1": {
-            "Label": "2",
-            "Index": 1,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
             ],
-            "Text": "Mindenki, bármely megkülönböztetésre, nevezetesen fajra, színre, nemre, nyelvre, vallásra, politikai vagy bármely más véleményre, nemzeti\nvagy társadalmi eredetre, vagyonra, születésre, vagy bármely más körülményre való tekintet nélkül hivatkozhat a jelen Nyilatkozatban\nkinyilvánított összes jogokra és szabadságokra.\nEzenfelül nem lehet semmiféle megkülönböztetést tenni annak az országnak, vagy területnek politikai, jogi vagy nemzetközi helyzete alapján\nsem, amelynek a személy állampolgára, aszerint, hogy az illető ország vagy terület független, gyámság alatt áll, nem autonóm vagy\nszuverenitása bármely vonatkozásban korlátozott.\n3. cikk\nMinden személynek joga van az élethez, a szabadsághoz és a személyi biztonsághoz.\n4. cikk\nSenkit sem lehet rabszolgaságban, vagy szolgaságban tartani, a rabszolgaság és a rabszolgakereskedés minden alakja tilos.\n5. cikk\nSenkit sem lehet kínvallatásnak, avagy kegyetlen, embertelen vagy lealacsonyító büntetésnek vagy bánásmódnak alávetni.\n6. cikk\nMindenkinek joga van ahhoz, hogy jogalanyiságát bárhol elismerjék.\n7. cikk\nA törvény előtt mindenki egyenlő és minden megkülönböztetés nélkül joga van a tőrvény egyenlő védelméhez. Mindenkinek joga van\negyenlő védelemhez a jelen Nyilatkozatot sértő minden megkülönböztetéssel és minden ilyen megkülönböztetésre irányuló felbujtással\nszemben.\n8. cikk\nMinden személynek joga van az alkotmányban vagy a törvényben részére biztosított alapvető jogokat sértő eljárások ellen a hazai\nbíróságokhoz tényleges jogorvoslatért folyamodni.\n9. cikk\nSenkit sem lehet önkényesen letartóztatni, őrizetbe venni vagy száműzni.\n10. cikk\nMinden személynek teljesen egyenlő joga van arra, hogy ügyét független és pártatlan bíróság méltányosan és nyilvánosan tárgyalja, s ez",
-            "Image": "b28b2ca7ed03dae4d4bc4dfca8fc31f0"
+            "Image": "b28b2ca7ed03dae4d4bc4dfca8fc31f0",
+            "Index": 1,
+            "Label": "2",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Mindenki, bármely megkülönböztetésre, nevezetesen fajra, színre, nemre, nyelvre, vallásra, politikai vagy bármely más véleményre, nemzeti\nvagy társadalmi eredetre, vagyonra, születésre, vagy bármely más körülményre való tekintet nélkül hivatkozhat a jelen Nyilatkozatban\nkinyilvánított összes jogokra és szabadságokra.\nEzenfelül nem lehet semmiféle megkülönböztetést tenni annak az országnak, vagy területnek politikai, jogi vagy nemzetközi helyzete alapján\nsem, amelynek a személy állampolgára, aszerint, hogy az illető ország vagy terület független, gyámság alatt áll, nem autonóm vagy\nszuverenitása bármely vonatkozásban korlátozott.\n3. cikk\nMinden személynek joga van az élethez, a szabadsághoz és a személyi biztonsághoz.\n4. cikk\nSenkit sem lehet rabszolgaságban, vagy szolgaságban tartani, a rabszolgaság és a rabszolgakereskedés minden alakja tilos.\n5. cikk\nSenkit sem lehet kínvallatásnak, avagy kegyetlen, embertelen vagy lealacsonyító büntetésnek vagy bánásmódnak alávetni.\n6. cikk\nMindenkinek joga van ahhoz, hogy jogalanyiságát bárhol elismerjék.\n7. cikk\nA törvény előtt mindenki egyenlő és minden megkülönböztetés nélkül joga van a tőrvény egyenlő védelméhez. Mindenkinek joga van\negyenlő védelemhez a jelen Nyilatkozatot sértő minden megkülönböztetéssel és minden ilyen megkülönböztetésre irányuló felbujtással\nszemben.\n8. cikk\nMinden személynek joga van az alkotmányban vagy a törvényben részére biztosított alapvető jogokat sértő eljárások ellen a hazai\nbíróságokhoz tényleges jogorvoslatért folyamodni.\n9. cikk\nSenkit sem lehet önkényesen letartóztatni, őrizetbe venni vagy száműzni.\n10. cikk\nMinden személynek teljesen egyenlő joga van arra, hogy ügyét független és pártatlan bíróság méltányosan és nyilvánosan tárgyalja, s ez"
         },
         "2": {
-            "Label": "3",
-            "Index": 2,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
             ],
-            "Text": "határozzon egyrészt jogai és kőtelezettségei felől, másrészt minden ellene emelt bűnügyi vád megalapozottsága felől.\n11. cikk\nMinden büntetendő cselekménnyel vádolt személyt ártatlannak kell vélelmezni mindaddig, amíg bűnősségét nyilvánosan lefolytatott perben, a\nvédelméhez szükséges valamennyi biztosíték mellett, törvényesen megállapítják.\nSenkit sem szabad elítélni oly cselekményért vagy mulasztásért, amely elkövetése pillanatában a hazai jog vagy a nemzetközi jog szerint nem\nvolt büntetendő cselekmény. Ugyancsak nem szabad súlyosabb büntetést kiszabni, mint amely a büntetendő cselekmény elkövetése\npillanatában volt alkalmazható.\n12. cikk\nSenkinek magánéletébe, családi ügyeibe, lakóhelye megválasztásába vagy levelezésébe nem szabad önkényesen beavatkozni, sem pedig\nbecsületében vagy jó hírnevében megsérteni. Minden személynek joga van az ilyen beavatkozásokkal vagy sértésekkel szemben a törvény\nvédelméhez.\n13. cikk\nAz államon belül minden személynek joga van szabadon mozogni és lakóhelyét szabadon megválasztani.\nMinden személynek joga van minden országot, ideértve saját hazáját is, elhagyni, valamint saját hazájába visszatérni.\n14. cikk\nMinden személynek joga van az üldözés elől más országban menedéket keresni és a más ország nyújtotta menedéket élvezni.\nErre a jogra nem lehet hivatkozni közönséges bűncselekmény miatti. kellőképpen megalapozott üldözés, sem pedig az Egyesült Nemzetek\ncéljaival és elveivel ellentétes tevékenység esetében.\n15. cikk\nMinden személynek joga van valamely állampolgársághoz.\nSenkit sem lehet sem állampolgárságától, sem állampolgársága megváltoztatásának jogától önkényesen megfosztani.\n16. cikk\nMind a férfinak, mind a nőnek a házasságra érett kor elérésétől kezdve joga van fajon, nemzetiségen vagy valláson alapuló korlátozás nélkül\nházasságot kötni és családot alapítani. A házasság tekintetében a férfinak és a nőnek mind a házasság tartama alatt, mind a házasság felbontása\ntekintetében egyenlő jogai vannak.",
-            "Image": "c28ea9390fc122fe231003b9b4d26cfd"
+            "Image": "c28ea9390fc122fe231003b9b4d26cfd",
+            "Index": 2,
+            "Label": "3",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "határozzon egyrészt jogai és kőtelezettségei felől, másrészt minden ellene emelt bűnügyi vád megalapozottsága felől.\n11. cikk\nMinden büntetendő cselekménnyel vádolt személyt ártatlannak kell vélelmezni mindaddig, amíg bűnősségét nyilvánosan lefolytatott perben, a\nvédelméhez szükséges valamennyi biztosíték mellett, törvényesen megállapítják.\nSenkit sem szabad elítélni oly cselekményért vagy mulasztásért, amely elkövetése pillanatában a hazai jog vagy a nemzetközi jog szerint nem\nvolt büntetendő cselekmény. Ugyancsak nem szabad súlyosabb büntetést kiszabni, mint amely a büntetendő cselekmény elkövetése\npillanatában volt alkalmazható.\n12. cikk\nSenkinek magánéletébe, családi ügyeibe, lakóhelye megválasztásába vagy levelezésébe nem szabad önkényesen beavatkozni, sem pedig\nbecsületében vagy jó hírnevében megsérteni. Minden személynek joga van az ilyen beavatkozásokkal vagy sértésekkel szemben a törvény\nvédelméhez.\n13. cikk\nAz államon belül minden személynek joga van szabadon mozogni és lakóhelyét szabadon megválasztani.\nMinden személynek joga van minden országot, ideértve saját hazáját is, elhagyni, valamint saját hazájába visszatérni.\n14. cikk\nMinden személynek joga van az üldözés elől más országban menedéket keresni és a más ország nyújtotta menedéket élvezni.\nErre a jogra nem lehet hivatkozni közönséges bűncselekmény miatti. kellőképpen megalapozott üldözés, sem pedig az Egyesült Nemzetek\ncéljaival és elveivel ellentétes tevékenység esetében.\n15. cikk\nMinden személynek joga van valamely állampolgársághoz.\nSenkit sem lehet sem állampolgárságától, sem állampolgársága megváltoztatásának jogától önkényesen megfosztani.\n16. cikk\nMind a férfinak, mind a nőnek a házasságra érett kor elérésétől kezdve joga van fajon, nemzetiségen vagy valláson alapuló korlátozás nélkül\nházasságot kötni és családot alapítani. A házasság tekintetében a férfinak és a nőnek mind a házasság tartama alatt, mind a házasság felbontása\ntekintetében egyenlő jogai vannak."
         },
         "3": {
-            "Label": "4",
-            "Index": 3,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
             ],
-            "Text": "Házasságot csak a jövendő házastársak szabad és teljes beleegyezésével lehet kötni.\nA család a társadalom természetes és alapvető alkotó eleme és joga van a társadalom, valamint az állam védelmére.\n17. cikk\nMinden személynek, mind egyénileg, mind másokkal együttesen joga van a tulajdonhoz.\nSenkit sem lehet tulajdonától önkényesen megfosztani.\n18. cikk\nMinden személynek joga van a gondolat, a lelkiismeret és a vallás szabadságához, ez a jog magában foglalja a vallás és a meggyőződés\nmegváltoztatásának szabadságát, valamint a vallásnak vagy a meggyőződésnek mind egyénileg, mind együttesen, mind a nyilvánosság előtt,\nmind a magánéletben oktatás, gyakorlás és szertartások végzése útján való kifejezésre juttatásának jogát.\n19. cikk\nMinden személynek joga van a vélemény és a kifejezés szabadságához, amely magában foglalja azt a jogot, hogy véleménye miatt ne\nszenvedjen zaklatást és hogy határokra való tekintet nélkül kutathasson, átvihessen és terjeszthessen híreket és eszméket bármilyen kifejezési\nmódon.\n20. cikk\nMinden személynek joga van békés célú gyülekezési és egyesülési szabadsághoz.\nSenkit sem lehet valamely egyesületbe való belépésre kőtelezni.\n21. cikk\nMinden személynek joga van a hazája közügyeinek igazgatásában akár közvetlenül, akár szabadon választott képviselői útján való\nrészvételhez.\nMinden személynek egyenlő feltételek mellett joga van saját hazájában közszolgálati állásokra való alkalmazásához.\nA közhatalom tekintélyének alapja a nép akarata; ez az akarat egyenlő szavazati jog és titkos szavazás vagy a szavazás szabadságát ezzel\negyenértékűen biztosító eljárás alapján időszakonként tartandó tisztességes választáson kell hogy kifejezésre jusson.\n22. cikk\nMinden személynek mint a társadalom tagjának joga van a szociális biztonsághoz; minden személynek ugyancsak igénye van arra, hogy -az\nállamok erőfeszítései és a nemzetközi együttműködés eredményeképpen és számot vetve az egyes országok szervezetével és gazdasági",
-            "Image": "66643fd4804c291dee0817e061b55bbc"
+            "Image": "66643fd4804c291dee0817e061b55bbc",
+            "Index": 3,
+            "Label": "4",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Házasságot csak a jövendő házastársak szabad és teljes beleegyezésével lehet kötni.\nA család a társadalom természetes és alapvető alkotó eleme és joga van a társadalom, valamint az állam védelmére.\n17. cikk\nMinden személynek, mind egyénileg, mind másokkal együttesen joga van a tulajdonhoz.\nSenkit sem lehet tulajdonától önkényesen megfosztani.\n18. cikk\nMinden személynek joga van a gondolat, a lelkiismeret és a vallás szabadságához, ez a jog magában foglalja a vallás és a meggyőződés\nmegváltoztatásának szabadságát, valamint a vallásnak vagy a meggyőződésnek mind egyénileg, mind együttesen, mind a nyilvánosság előtt,\nmind a magánéletben oktatás, gyakorlás és szertartások végzése útján való kifejezésre juttatásának jogát.\n19. cikk\nMinden személynek joga van a vélemény és a kifejezés szabadságához, amely magában foglalja azt a jogot, hogy véleménye miatt ne\nszenvedjen zaklatást és hogy határokra való tekintet nélkül kutathasson, átvihessen és terjeszthessen híreket és eszméket bármilyen kifejezési\nmódon.\n20. cikk\nMinden személynek joga van békés célú gyülekezési és egyesülési szabadsághoz.\nSenkit sem lehet valamely egyesületbe való belépésre kőtelezni.\n21. cikk\nMinden személynek joga van a hazája közügyeinek igazgatásában akár közvetlenül, akár szabadon választott képviselői útján való\nrészvételhez.\nMinden személynek egyenlő feltételek mellett joga van saját hazájában közszolgálati állásokra való alkalmazásához.\nA közhatalom tekintélyének alapja a nép akarata; ez az akarat egyenlő szavazati jog és titkos szavazás vagy a szavazás szabadságát ezzel\negyenértékűen biztosító eljárás alapján időszakonként tartandó tisztességes választáson kell hogy kifejezésre jusson.\n22. cikk\nMinden személynek mint a társadalom tagjának joga van a szociális biztonsághoz; minden személynek ugyancsak igénye van arra, hogy -az\nállamok erőfeszítései és a nemzetközi együttműködés eredményeképpen és számot vetve az egyes országok szervezetével és gazdasági"
         },
         "4": {
-            "Label": "5",
-            "Index": 4,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
             ],
-            "Text": "erőforrásaival- a méltóságához és személyiségének szabadon való kifejlődéséhez szükséges gazdasági, szociális és kulturális jogait\nkielégíthesse.\n23. cikk\nMinden személynek joga van a munkához, a munka szabad megválasztásához, a méltányos és kielégítő munkafeltételekhez és a\nmunkanélküliség elleni védelemhez.\nAz egyenlő munkáért mindenkinek, bármilyen megkülönböztetés nélkül egyenlő bérhez van joga.\nMindenkinek, aki dolgozik, olyan méltányos és kielégítő fizetéshez van joga, amely számára és családja számára az emberi méltóságnak\nmegfelelő létet biztosít és amelyet megfelelő esetben a szociális védelem összes egyéb eszközei egészítenek ki.\nMinden személynek joga van a pihenéshez, a szabad időhöz, nevezetesen a munka időtartamának ésszerű korlátozásához, valamint az\nidőszakonkénti fizetett szabadsághoz.\n24. cikk\nMinden személynek joga van a pihenésre és szabadidőre, beleértve a munkaidő ésszerű korlátozását és az időszakos fizetett szabadságot.\n25. cikk\nMinden személynek joga van saját maga és családja egészségének és jólétének biztosítására alkalmas életszínvonalhoz, nevezetesen élelemhez,\nruházathoz, lakáshoz, orvosi gondozáshoz, valamint a szükséges szociális szolgáltatásokhoz, joga van a munkanélküliség, betegség,\nrokkantság, özvegység, öregség esetére szóló, valamint mindazon más esetekre szóló biztosításhoz, amikor létfenntartási eszközeit akaratától\nfüggetlen körülmények miatt elveszíti.\nAz anyaság és a gyermekkor különleges segítséghez és támogatáshoz adnak jogot. Minden gyermek, akár házasságból, akár házasságon kívül\nszületett, ugyanabban a szociális védelemben részesül.\n26. cikk\nMinden személynek joga van a neveléshez. A nevelésnek, legalábbis az elemi és alapvető oktatást illetően, ingyenesnek kell lennie. Az elemi\noktatás kötelező. A technikai és szakoktatást általánossá kell tenni; a felsőbb tanulmányokra való felvételnek mindenki előtt -érdeméhez\nképest- egyenlő feltételek mellett nyitva kell állnia.\nA nevelésnek az emberi személyiség teljes kibontakoztatására, valamint az emberi jogok és alapvető szabadságok tiszteletbentartásának\nmegerősítésére kell irányulnia. A nevelésnek elő kell segítenie a nemzetek, valamint az összes faji és vallási csoportok közötti megértést,\ntürelmet és barátságot, valamint az Egyesült Nemzetek által a béke fenntartásának érdekében kifejtett tevékenység kifejlődését.\nA szülőket elsőbbségi jog illeti meg a gyermekeiknek adandó nevelés megválasztásában.",
-            "Image": "e10ba86ddc58858da1b1f36395579c94"
+            "Image": "e10ba86ddc58858da1b1f36395579c94",
+            "Index": 4,
+            "Label": "5",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "erőforrásaival- a méltóságához és személyiségének szabadon való kifejlődéséhez szükséges gazdasági, szociális és kulturális jogait\nkielégíthesse.\n23. cikk\nMinden személynek joga van a munkához, a munka szabad megválasztásához, a méltányos és kielégítő munkafeltételekhez és a\nmunkanélküliség elleni védelemhez.\nAz egyenlő munkáért mindenkinek, bármilyen megkülönböztetés nélkül egyenlő bérhez van joga.\nMindenkinek, aki dolgozik, olyan méltányos és kielégítő fizetéshez van joga, amely számára és családja számára az emberi méltóságnak\nmegfelelő létet biztosít és amelyet megfelelő esetben a szociális védelem összes egyéb eszközei egészítenek ki.\nMinden személynek joga van a pihenéshez, a szabad időhöz, nevezetesen a munka időtartamának ésszerű korlátozásához, valamint az\nidőszakonkénti fizetett szabadsághoz.\n24. cikk\nMinden személynek joga van a pihenésre és szabadidőre, beleértve a munkaidő ésszerű korlátozását és az időszakos fizetett szabadságot.\n25. cikk\nMinden személynek joga van saját maga és családja egészségének és jólétének biztosítására alkalmas életszínvonalhoz, nevezetesen élelemhez,\nruházathoz, lakáshoz, orvosi gondozáshoz, valamint a szükséges szociális szolgáltatásokhoz, joga van a munkanélküliség, betegség,\nrokkantság, özvegység, öregség esetére szóló, valamint mindazon más esetekre szóló biztosításhoz, amikor létfenntartási eszközeit akaratától\nfüggetlen körülmények miatt elveszíti.\nAz anyaság és a gyermekkor különleges segítséghez és támogatáshoz adnak jogot. Minden gyermek, akár házasságból, akár házasságon kívül\nszületett, ugyanabban a szociális védelemben részesül.\n26. cikk\nMinden személynek joga van a neveléshez. A nevelésnek, legalábbis az elemi és alapvető oktatást illetően, ingyenesnek kell lennie. Az elemi\noktatás kötelező. A technikai és szakoktatást általánossá kell tenni; a felsőbb tanulmányokra való felvételnek mindenki előtt -érdeméhez\nképest- egyenlő feltételek mellett nyitva kell állnia.\nA nevelésnek az emberi személyiség teljes kibontakoztatására, valamint az emberi jogok és alapvető szabadságok tiszteletbentartásának\nmegerősítésére kell irányulnia. A nevelésnek elő kell segítenie a nemzetek, valamint az összes faji és vallási csoportok közötti megértést,\ntürelmet és barátságot, valamint az Egyesült Nemzetek által a béke fenntartásának érdekében kifejtett tevékenység kifejlődését.\nA szülőket elsőbbségi jog illeti meg a gyermekeiknek adandó nevelés megválasztásában."
         },
         "5": {
-            "Label": "6",
-            "Index": 5,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
             ],
-            "Text": "27. cikk\nMinden személynek joga van a közösség kulturális életében való szabad részvételhez, a művészetek élvezéséhez, valamint a tudomány\nhaladásában és az abból származó jótéteményekben való részvételhez.\nMindenkinek joga van minden általa alkotott tudományos, irodalmi és művészeti termékkel kapcsolatos erkölcsi és anyagi érdekeinek\nvédelméhez.\n28. cikk\nMinden személynek joga van ahhoz, hogy mind a társadalmi, mind a nemzetközi viszonyok tekintetében olyan rendszer uralkodjék, amelyben\na jelen Nyilatkozatban kinyilvánított jogok és szabadságok teljes hatállyal érvényesülhessenek.\n29. cikk\nA személynek kőtelességei vannak a közösséggel szemben, amelynek keretében egyedül lehetséges a személyiség szabad és teljes kifejlődése.\nJogainak gyakorlása és szabadságainak élvezete tekintetében senki sincs alávetve más korlátozásnak, mint amelyet a tőrvény kizárólag mások\njogai és szabadságai elismerésének és tiszteletbentartásának biztosítása érdekében, valamint a demokratikus társadalom erkölcse, közrendje és\náltalános jóléte jogos követelményeinek kielégítése érdekében megállapít.\nEzeket a jogokat és szabadságokat semmi esetre sem lehet az Egyesült Nemzetek céljaival és elveivel ellentétesen gyakorolni.\n30. cikk\nA jelen Nyilatkozat egyetlen rendelkezése sem értelmezhető úgy, hogy az valamely állam, valamely csoport, vagy valamely egyén részére\nbármilyen jogot adna arra, hogy az itt kinyilvánított jogok és szabadságok megsemmisítésére irányuló tevékenységet fejtsen ki, vagy ilyen\ncselekményt elkövessen.",
-            "Image": "a820412d9bfa08adba921d80683deaa9"
+            "Image": "a820412d9bfa08adba921d80683deaa9",
+            "Index": 5,
+            "Label": "6",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "27. cikk\nMinden személynek joga van a közösség kulturális életében való szabad részvételhez, a művészetek élvezéséhez, valamint a tudomány\nhaladásában és az abból származó jótéteményekben való részvételhez.\nMindenkinek joga van minden általa alkotott tudományos, irodalmi és művészeti termékkel kapcsolatos erkölcsi és anyagi érdekeinek\nvédelméhez.\n28. cikk\nMinden személynek joga van ahhoz, hogy mind a társadalmi, mind a nemzetközi viszonyok tekintetében olyan rendszer uralkodjék, amelyben\na jelen Nyilatkozatban kinyilvánított jogok és szabadságok teljes hatállyal érvényesülhessenek.\n29. cikk\nA személynek kőtelességei vannak a közösséggel szemben, amelynek keretében egyedül lehetséges a személyiség szabad és teljes kifejlődése.\nJogainak gyakorlása és szabadságainak élvezete tekintetében senki sincs alávetve más korlátozásnak, mint amelyet a tőrvény kizárólag mások\njogai és szabadságai elismerésének és tiszteletbentartásának biztosítása érdekében, valamint a demokratikus társadalom erkölcse, közrendje és\náltalános jóléte jogos követelményeinek kielégítése érdekében megállapít.\nEzeket a jogokat és szabadságokat semmi esetre sem lehet az Egyesült Nemzetek céljaival és elveivel ellentétesen gyakorolni.\n30. cikk\nA jelen Nyilatkozat egyetlen rendelkezése sem értelmezhető úgy, hogy az valamely állam, valamely csoport, vagy valamely egyén részére\nbármilyen jogot adna arra, hogy az itt kinyilvánított jogok és szabadságok megsemmisítésére irányuló tevékenységet fejtsen ki, vagy ilyen\ncselekményt elkövessen."
         }
     }
 }

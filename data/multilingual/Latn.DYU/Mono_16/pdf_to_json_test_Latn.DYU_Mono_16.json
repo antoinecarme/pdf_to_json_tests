@@ -1,93 +1,93 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581467806,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "56a992cd3a2a614758b8a32dd76bc305",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "DUNYA’’ MUMƐ MƆƆGƆƆYA’’ HAKƐYAW DANTIIGƐLIIKAN\nKúmaɲabila\nK’à mìna à mà kó dúnya’ mànton’ bɛɛ ká kan ni bònya ye, àni kó bɛɛ ká\nkan sàriya’ la làkika’ la, kó ò le be bɛɛ ya hɔrɔnya’ sàbati, kà bɛɛ\nkánya ɲásuma’ dúnya’ sìgi’ la.\nK’à mìna à mà kó mɔgɔya hákɛ lɔnbaliya’ ni à jàtebáliya’ nàna ni syáman\nye dúnya kɔnɔ, minw kà hádamadenw dùsu’ kàsi, àni K’à mìna mà tèle kúra\nmin bɔra, à fɔra kó kúma’ mín ká dí mín yé, ò bé ò fɔ, díina’ mín ká dí\nmín yé, ò bé ò kɛ, kó mɔgɔw kà síran ɲgɔn ɲá, ò bánna, kó fàgantánya\njúgu bánna, ò kùma’ kɛra bɛnkan ye min kɛra hamamadenw haminankoba ye,\nK’à mìna à mà kó kà mɔgɔya’ hákɛ’ látanga ní sàriya’ sìgili’ yé sèn kán,\nyé wájibi yé wálasa mɔgɔw kàna wájibiya kà múruti bènkánni’ kánma, àni\nfàngajúgu’ kánma,\nK’à mìna à mà à ká kán tériya’ yé kɛ jàmanaw ni ɲgɔn cɛ,\nK’à mìna à mà dúnya’ mùmɛ sáratikan’ ná, Dúnya’ Jàmanaw yá tɔ màntonw\nbɛɛ kà à yìra kó ù lánin bɛ mɔgɔya’ hákɛyabaw’ la, ù lánin hádamadenya’\ntá bònya’ ní à lànbe’ la, ù lánin bɛ cɛw ní mùsow kányaɲgɔnmaya’ lá\nhákɛ’ lá, ní ù kà ŋàniya’ sìri kà mɔgɔya’ yá ɲɛ sàbati, àni kà ɲánamaya’\nkɛcogo ɲúman’ sìgi sèn kán hɔrɔnya’ bɛrɛbɛrɛ kɔnɔ,\nK’à mìna à mà Dúnya’ jàmanaw kà à ŋàniya kó ù bé jɛn ní Tɔnba yé kà\nmɔgɔya’ hákɛyaw látànga à ɲá’ mà dúnya’ mùmɛ kɔnɔ,\nK’à mìna à mà, ò ŋàniya ɲúman té sé kà síra’ sɔrɔ ní bɛnkélenma má kɛ\nmɔgɔya’ hákɛyako ní à hɔrɔnyako’ kán,\nDúnya’ tɔnba’ ya ɲgɔnlajɛrɛba’ kà í kán’ bìla kà dunya’ mumɛɛ mɔɔgɔɔ\nhakɛɛyaw dantigɛɛlikan gánsi kà à yìra ò ŋŋàniya ɲɲuman yé fɛɛn ye, mín\nká kán kà kɛɛ mànton’ ni násɔɔn’ bɛɛɛɛ làɲɲíni ye, yálasa mɔɔgɔɔ kelen\nkelen bɛɛɛɛ, àni jɛɛkulu kelen kelen bɛɛɛɛ ye nin dàntigɛɛlikan’ nìn tó\nù hákili’ lá, kà ù kàlan’ ní lámadamuni’ kɔɔnɔɔ, kà fɛɛrɛɛ kɛɛ dɔɔɔɔnin\ndɔɔɔɔnin ù ya húkumu’ kɔɔnɔɔ, wálima dúnya bɛɛɛɛ kɔɔnɔɔ, kà hákɛɛya\nnìnugu ní hɔɔrɔɔnya nìnnugu látàngali’ yíriwa, àni kà à kɛɛ bɛɛɛɛ ye\nsɔɔn ù mà ɲɲá mà, à kɛɛra ù ya jàmana kɔɔnɔɔna ye, wálima jàmana gbɛɛrɛɛ\nmin bé ù ya màra’ kɔɔnɔɔ.\nBaabu jɔnna\nWólo’ lá, hádamaden’ bɛɛ ye hɔrɔn ye, bɛɛ ká kán lànbe ní hákɛyaw Mɔgɔ\nbɛɛ ye hákilitigi ye, bɛɛ ye hákilima ye ; ò là, ù ká kán kà ɲgɔn mína\nní bádenya ye.\nBáabu 2 nan\nMɔgɔ’ bɛɛ dɔ bɛ kà à lɔn kó í ká kán ní mɔgɔya hákɛyaw ní à hɔrɔ\nkófɔnin’ bɛɛ ye nìn dàntigɛlikan’ nìn kɔnɔ, mɔgɔ má bɔ mɔgɔ\nkɛrɛnkɛrɛnninya lá, fàragbɛko ni fàrafinko te à la, síyawoloma te à cɛ\nni múso má bɔ ɲgon ná, í be kán mín fɔ, ó té à la, díinako té à lá,\nhákilila ye mín yé pólitikiko’ lá, wálima hákilila gbɛrɛw, ó te à",
-            "Image": "56a992cd3a2a614758b8a32dd76bc305"
+            "Text": "DUNYA’’ MUMƐ MƆƆGƆƆYA’’ HAKƐYAW DANTIIGƐLIIKAN\nKúmaɲabila\nK’à mìna à mà kó dúnya’ mànton’ bɛɛ ká kan ni bònya ye, àni kó bɛɛ ká\nkan sàriya’ la làkika’ la, kó ò le be bɛɛ ya hɔrɔnya’ sàbati, kà bɛɛ\nkánya ɲásuma’ dúnya’ sìgi’ la.\nK’à mìna à mà kó mɔgɔya hákɛ lɔnbaliya’ ni à jàtebáliya’ nàna ni syáman\nye dúnya kɔnɔ, minw kà hádamadenw dùsu’ kàsi, àni K’à mìna mà tèle kúra\nmin bɔra, à fɔra kó kúma’ mín ká dí mín yé, ò bé ò fɔ, díina’ mín ká dí\nmín yé, ò bé ò kɛ, kó mɔgɔw kà síran ɲgɔn ɲá, ò bánna, kó fàgantánya\njúgu bánna, ò kùma’ kɛra bɛnkan ye min kɛra hamamadenw haminankoba ye,\nK’à mìna à mà kó kà mɔgɔya’ hákɛ’ látanga ní sàriya’ sìgili’ yé sèn kán,\nyé wájibi yé wálasa mɔgɔw kàna wájibiya kà múruti bènkánni’ kánma, àni\nfàngajúgu’ kánma,\nK’à mìna à mà à ká kán tériya’ yé kɛ jàmanaw ni ɲgɔn cɛ,\nK’à mìna à mà dúnya’ mùmɛ sáratikan’ ná, Dúnya’ Jàmanaw yá tɔ màntonw\nbɛɛ kà à yìra kó ù lánin bɛ mɔgɔya’ hákɛyabaw’ la, ù lánin hádamadenya’\ntá bònya’ ní à lànbe’ la, ù lánin bɛ cɛw ní mùsow kányaɲgɔnmaya’ lá\nhákɛ’ lá, ní ù kà ŋàniya’ sìri kà mɔgɔya’ yá ɲɛ sàbati, àni kà ɲánamaya’\nkɛcogo ɲúman’ sìgi sèn kán hɔrɔnya’ bɛrɛbɛrɛ kɔnɔ,\nK’à mìna à mà Dúnya’ jàmanaw kà à ŋàniya kó ù bé jɛn ní Tɔnba yé kà\nmɔgɔya’ hákɛyaw látànga à ɲá’ mà dúnya’ mùmɛ kɔnɔ,\nK’à mìna à mà, ò ŋàniya ɲúman té sé kà síra’ sɔrɔ ní bɛnkélenma má kɛ\nmɔgɔya’ hákɛyako ní à hɔrɔnyako’ kán,\nDúnya’ tɔnba’ ya ɲgɔnlajɛrɛba’ kà í kán’ bìla kà dunya’ mumɛɛ mɔɔgɔɔ\nhakɛɛyaw dantigɛɛlikan gánsi kà à yìra ò ŋŋàniya ɲɲuman yé fɛɛn ye, mín\nká kán kà kɛɛ mànton’ ni násɔɔn’ bɛɛɛɛ làɲɲíni ye, yálasa mɔɔgɔɔ kelen\nkelen bɛɛɛɛ, àni jɛɛkulu kelen kelen bɛɛɛɛ ye nin dàntigɛɛlikan’ nìn tó\nù hákili’ lá, kà ù kàlan’ ní lámadamuni’ kɔɔnɔɔ, kà fɛɛrɛɛ kɛɛ dɔɔɔɔnin\ndɔɔɔɔnin ù ya húkumu’ kɔɔnɔɔ, wálima dúnya bɛɛɛɛ kɔɔnɔɔ, kà hákɛɛya\nnìnugu ní hɔɔrɔɔnya nìnnugu látàngali’ yíriwa, àni kà à kɛɛ bɛɛɛɛ ye\nsɔɔn ù mà ɲɲá mà, à kɛɛra ù ya jàmana kɔɔnɔɔna ye, wálima jàmana gbɛɛrɛɛ\nmin bé ù ya màra’ kɔɔnɔɔ.\nBaabu jɔnna\nWólo’ lá, hádamaden’ bɛɛ ye hɔrɔn ye, bɛɛ ká kán lànbe ní hákɛyaw Mɔgɔ\nbɛɛ ye hákilitigi ye, bɛɛ ye hákilima ye ; ò là, ù ká kán kà ɲgɔn mína\nní bádenya ye.\nBáabu 2 nan\nMɔgɔ’ bɛɛ dɔ bɛ kà à lɔn kó í ká kán ní mɔgɔya hákɛyaw ní à hɔrɔ\nkófɔnin’ bɛɛ ye nìn dàntigɛlikan’ nìn kɔnɔ, mɔgɔ má bɔ mɔgɔ\nkɛrɛnkɛrɛnninya lá, fàragbɛko ni fàrafinko te à la, síyawoloma te à cɛ\nni múso má bɔ ɲgon ná, í be kán mín fɔ, ó té à la, díinako té à lá,\nhákilila ye mín yé pólitikiko’ lá, wálima hákilila gbɛrɛw, ó te à"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "c8ee94a70fa6592fba170f2e299e898c",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "bɔyɔrɔko te à lá, n ye fàgantanden ye wálima n ye fàgamaden ye, ó à la,\nnàfolotígiya ni bólokolonya te à la, ɲàmakalako ni hɔrɔnyako te à la ;\nfɛn o fɛn be nà ní wólomali’ ye mɔgɔw ní ɲgɔn cɛ, ò sí te à lá.\nO cógoya kélen mà, bɔyɔrɔ má bɔ bɔyɔrɔ la. I bɔyɔrɔ’ lànbe’ tɔw cɛ’ mà,\ní ya jàmana’ kɛra jàmana’ yɛrɛmahɔrɔnyanin ye, à kɛ jàmana ye mín be\njàmana gbɛrɛ ya màra kɔnɔ, wálima à be à yɛrɛ bólo jàmana gbɛrɛ ya\nhúkumu’ kɔnɔ, wólomali sí te kɛ kà lá ò kán.\nBáabu 3 nan\nMɔgɔ’ kɛra cogo ó cogo, à ká kán ní ɲánamaya’ ye, à ká kán ní hɔrɔnya’\nye, à ká kán ní lákandali’ ye.\nBáabu 4 nan\nMɔgɔ sí te sé kà mìna kà í kɛ jɔn ye wálima kà í kɛ bólokɔnɔmɔgɔ ye,\njɔnya’ bánna, jɔnféere’ bánna sàriya’ la.\nBáabu 5 nan\nA mán kán mɔgɔ sí ye jàngáta, wálima kà làjába, wálima kà à ní tɔrɔ,\nníjuguya’ dànmátɛmɛ’ fɛ, fó kà à lèebu.\nBáabu 6 nan\nBɛɛ ká kán ní lànbe’ ye sàriya’ lá, à kɛra yɔrɔ ó yɔrɔ ye.\nBáabu 7 nan\nBɛɛ ká kán sàriya’ lá, àyiwa bɛɛ ká kán ní sàriya’ ya làtangali’ ye kà à\nsɔ à má kɛ wólomali ye. Bɛɛ ká kán ní kɔsɛmɛ ye sàriya’ là kà i yɛrɛ\ntànga bɔ wólomali’ súgu ó súgu mà, mín be dàntigɛlikan’ nìn sɔsɔ, àni\nmín be se kà nà ní à sɔsɔli’ ye.\nBáabu 8 nan\nA be bɛn mɔgɔ bɛɛ ye cɛn yɛrɛ l, í ye í ya jàmana’ sàriyaso’ màgbɛ\nsàriya’ mín ɲásininin bɛ ò kóɲa’ mà, kà i lákisi kà bɔ wálew mà, minw be\njàmana sàriyaw sɔsɔ.\nBáabu 9 nan\nA mán kán mɔgɔ sí ye mina, wálima kà dòn kàso’ la, wálima kà à gbɛn kà\nbɔ à fàso’ la, kà à sɔrɔ kùn te à la.\nBáabu 10 nan\nA ká kán mɔgɔ’ bɛɛ ye, bɛɛ fána ká kán ò lá, ni bèn kɛra i kán, i ya\nkiti tigɛ námara te min na, bɛɛ ɲa’na, tìribinali la, mín be à yɛrɛ\nsàgo’ la, ká kán mín na fána, tìribináli’ mín bena jó dí à mà kà à ya\nhákɛ lɔ à ye, wálima kà jàlaki’ bèn à kán cɛn’ yɛrɛ la, ni à jó tɛ à la.\nBáabu 11 nan\nNí mìnaliko lára mɔgɔ ó mɔgɔ kùn, à te se kà mìna ábada, fó ni kíti kà à\nyìra tìribináli’ la, kà à sɔrɔ áwoka kà à láfàsa, kó àle nɔ’ lò làkíka’",
-            "Image": "c8ee94a70fa6592fba170f2e299e898c"
+            "Text": "bɔyɔrɔko te à lá, n ye fàgantanden ye wálima n ye fàgamaden ye, ó à la,\nnàfolotígiya ni bólokolonya te à la, ɲàmakalako ni hɔrɔnyako te à la ;\nfɛn o fɛn be nà ní wólomali’ ye mɔgɔw ní ɲgɔn cɛ, ò sí te à lá.\nO cógoya kélen mà, bɔyɔrɔ má bɔ bɔyɔrɔ la. I bɔyɔrɔ’ lànbe’ tɔw cɛ’ mà,\ní ya jàmana’ kɛra jàmana’ yɛrɛmahɔrɔnyanin ye, à kɛ jàmana ye mín be\njàmana gbɛrɛ ya màra kɔnɔ, wálima à be à yɛrɛ bólo jàmana gbɛrɛ ya\nhúkumu’ kɔnɔ, wólomali sí te kɛ kà lá ò kán.\nBáabu 3 nan\nMɔgɔ’ kɛra cogo ó cogo, à ká kán ní ɲánamaya’ ye, à ká kán ní hɔrɔnya’\nye, à ká kán ní lákandali’ ye.\nBáabu 4 nan\nMɔgɔ sí te sé kà mìna kà í kɛ jɔn ye wálima kà í kɛ bólokɔnɔmɔgɔ ye,\njɔnya’ bánna, jɔnféere’ bánna sàriya’ la.\nBáabu 5 nan\nA mán kán mɔgɔ sí ye jàngáta, wálima kà làjába, wálima kà à ní tɔrɔ,\nníjuguya’ dànmátɛmɛ’ fɛ, fó kà à lèebu.\nBáabu 6 nan\nBɛɛ ká kán ní lànbe’ ye sàriya’ lá, à kɛra yɔrɔ ó yɔrɔ ye.\nBáabu 7 nan\nBɛɛ ká kán sàriya’ lá, àyiwa bɛɛ ká kán ní sàriya’ ya làtangali’ ye kà à\nsɔ à má kɛ wólomali ye. Bɛɛ ká kán ní kɔsɛmɛ ye sàriya’ là kà i yɛrɛ\ntànga bɔ wólomali’ súgu ó súgu mà, mín be dàntigɛlikan’ nìn sɔsɔ, àni\nmín be se kà nà ní à sɔsɔli’ ye.\nBáabu 8 nan\nA be bɛn mɔgɔ bɛɛ ye cɛn yɛrɛ l, í ye í ya jàmana’ sàriyaso’ màgbɛ\nsàriya’ mín ɲásininin bɛ ò kóɲa’ mà, kà i lákisi kà bɔ wálew mà, minw be\njàmana sàriyaw sɔsɔ.\nBáabu 9 nan\nA mán kán mɔgɔ sí ye mina, wálima kà dòn kàso’ la, wálima kà à gbɛn kà\nbɔ à fàso’ la, kà à sɔrɔ kùn te à la.\nBáabu 10 nan\nA ká kán mɔgɔ’ bɛɛ ye, bɛɛ fána ká kán ò lá, ni bèn kɛra i kán, i ya\nkiti tigɛ námara te min na, bɛɛ ɲa’na, tìribinali la, mín be à yɛrɛ\nsàgo’ la, ká kán mín na fána, tìribináli’ mín bena jó dí à mà kà à ya\nhákɛ lɔ à ye, wálima kà jàlaki’ bèn à kán cɛn’ yɛrɛ la, ni à jó tɛ à la.\nBáabu 11 nan\nNí mìnaliko lára mɔgɔ ó mɔgɔ kùn, à te se kà mìna ábada, fó ni kíti kà à\nyìra tìribináli’ la, kà à sɔrɔ áwoka kà à láfàsa, kó àle nɔ’ lò làkíka’"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "e76e221e51a1a67193bdd5efdd9897b9",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "la.\nMɔgɔ sí te se kà mìna kó la, kó’ mín kɛtuma’ kà à sɔrɔ kójugu tɛ i ya\njàmana’ kɔnɔ, wálima dúnya’ sàriya’ la. Mɔgɔ’ be kó’ kɛ tùma’ mín na\nfána, à ni ɲàngíli’ mín ká kán, ò wágati’ la, fóyi te se kà fàra ò kán\nkɔ’ fɛ.\nBáabu 12 nan\nA te bɛn mɔgɔ sí\nsókɔnɔ kóɲaw la,\nte à lá ; wálima\nbɛɛ kɔ kɔrɔ kà i\nye i sèn’ dòn mɔgɔ gbɛrɛ ya ɲánamaya’ kóɲaw la, à ya\nàni kà à ya bàtakiw kɔnɔna gundow la, kà à sɔrɔ jɔnjɔn\nkà mɔgɔ’ lèebu, kà à tɔgɔ’ cɛn. Sàriya’ ká kán kà lɔ\nlátànga kà bɔ ò kó súguya’ mà.\nBáabu 13 nan\nKà tágama jàmana’ kɔnɔ, yɔrɔ ó yɔrɔ ká dí i ye, jàmana’ yɔrɔ’ mín ká dí\ni ye, kà sìgi yèn fána, o bɛnna bɛɛ ye.\nKà bɔ i fàso’ la à ká dí cógo’ mín, kà sègi à ká dí i ye cógo’ mín, ò\nbɛnna bɛɛ ye.\nBáabu 14 nan\nɲánimabori’ ɲá, mín ye kà siran i ní’ ɲá kà i yɛrɛ ɲíni, à be bɛn bɛɛ ye\nye dògotu ɲíni, kà jàmana gbɛrɛ ɲíni, kà i kàlifa’ sìgi yèn, wà jàmana\nsí te se kà bàn i la kà i gbɛn.\nKà kójugu’ kɛ sàriya’ ká kán kà i nɔ’ mìna mín na, wálima mín dúnya’\nsàriyaba’ sɔsɔ, kó i be bòli kà tága i kàlifa jàmana gbɛrɛ la, ò kó tɛ.\nBáabu 15 nan\nMɔgɔ’ kɛra cógo ó cógo, à ká kán ni jàmana’ dɔ jàmanadénya ye.\nMɔgɔ si ya jàmanadénya’ te se kà bɔsi i la kà à sɔrɔ kùn jɔnjɔn te à wà\nmɔgɔ si te se kà mɔgɔ si bàli kà bɔ jàmana’ dɔ jàmanadénya’ la kà dòn\ndɔgbɛrɛ tá la.\nBáabu 16 nan\nCɛ’ ni mùso’ fɛn ó fɛn séra bálikuya’ mà, à be bɛn i ye fúru kɛ, kà kɛ ;\nlónanya ní dùgulénya te ò la, díinako te ò la. Cɛ ni mùso bɛɛ ká kán\nsàriya’ la, fúru’ sìrili’ la, cɛlasígi’ kɔnɔ, àni fúrusa’ tá fànfɛla’\nla.\nFúru’ te sé kà sìri ní à má kɛ ni fúruɲgɔn’ fìla ya jɛn’ ye.\nDénbaya dénbayaw kɛnin ɲɔgɔn kán, ò le ye sìgida’ ni màrada’ jù’ ye, wà\nà ká kán sìgida’ ni fànga’ ye ù lákanda.\nBáabu 17 nan\nMɔgɔ kélen, wálima jɛkúlu’, bɛɛ ká kán ni táya’ ye, bɛɛ tá ye i tá ye.\nMɔgɔ dɔ mán kán kà bèn dɔ kán kà à tá bɔsi à la fàniya’ kán.",
-            "Image": "e76e221e51a1a67193bdd5efdd9897b9"
+            "Text": "la.\nMɔgɔ sí te se kà mìna kó la, kó’ mín kɛtuma’ kà à sɔrɔ kójugu tɛ i ya\njàmana’ kɔnɔ, wálima dúnya’ sàriya’ la. Mɔgɔ’ be kó’ kɛ tùma’ mín na\nfána, à ni ɲàngíli’ mín ká kán, ò wágati’ la, fóyi te se kà fàra ò kán\nkɔ’ fɛ.\nBáabu 12 nan\nA te bɛn mɔgɔ sí\nsókɔnɔ kóɲaw la,\nte à lá ; wálima\nbɛɛ kɔ kɔrɔ kà i\nye i sèn’ dòn mɔgɔ gbɛrɛ ya ɲánamaya’ kóɲaw la, à ya\nàni kà à ya bàtakiw kɔnɔna gundow la, kà à sɔrɔ jɔnjɔn\nkà mɔgɔ’ lèebu, kà à tɔgɔ’ cɛn. Sàriya’ ká kán kà lɔ\nlátànga kà bɔ ò kó súguya’ mà.\nBáabu 13 nan\nKà tágama jàmana’ kɔnɔ, yɔrɔ ó yɔrɔ ká dí i ye, jàmana’ yɔrɔ’ mín ká dí\ni ye, kà sìgi yèn fána, o bɛnna bɛɛ ye.\nKà bɔ i fàso’ la à ká dí cógo’ mín, kà sègi à ká dí i ye cógo’ mín, ò\nbɛnna bɛɛ ye.\nBáabu 14 nan\nɲánimabori’ ɲá, mín ye kà siran i ní’ ɲá kà i yɛrɛ ɲíni, à be bɛn bɛɛ ye\nye dògotu ɲíni, kà jàmana gbɛrɛ ɲíni, kà i kàlifa’ sìgi yèn, wà jàmana\nsí te se kà bàn i la kà i gbɛn.\nKà kójugu’ kɛ sàriya’ ká kán kà i nɔ’ mìna mín na, wálima mín dúnya’\nsàriyaba’ sɔsɔ, kó i be bòli kà tága i kàlifa jàmana gbɛrɛ la, ò kó tɛ.\nBáabu 15 nan\nMɔgɔ’ kɛra cógo ó cógo, à ká kán ni jàmana’ dɔ jàmanadénya ye.\nMɔgɔ si ya jàmanadénya’ te se kà bɔsi i la kà à sɔrɔ kùn jɔnjɔn te à wà\nmɔgɔ si te se kà mɔgɔ si bàli kà bɔ jàmana’ dɔ jàmanadénya’ la kà dòn\ndɔgbɛrɛ tá la.\nBáabu 16 nan\nCɛ’ ni mùso’ fɛn ó fɛn séra bálikuya’ mà, à be bɛn i ye fúru kɛ, kà kɛ ;\nlónanya ní dùgulénya te ò la, díinako te ò la. Cɛ ni mùso bɛɛ ká kán\nsàriya’ la, fúru’ sìrili’ la, cɛlasígi’ kɔnɔ, àni fúrusa’ tá fànfɛla’\nla.\nFúru’ te sé kà sìri ní à má kɛ ni fúruɲgɔn’ fìla ya jɛn’ ye.\nDénbaya dénbayaw kɛnin ɲɔgɔn kán, ò le ye sìgida’ ni màrada’ jù’ ye, wà\nà ká kán sìgida’ ni fànga’ ye ù lákanda.\nBáabu 17 nan\nMɔgɔ kélen, wálima jɛkúlu’, bɛɛ ká kán ni táya’ ye, bɛɛ tá ye i tá ye.\nMɔgɔ dɔ mán kán kà bèn dɔ kán kà à tá bɔsi à la fàniya’ kán."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "6b58882023dc2c38fb1dfc395d857a67",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Báabu 18 nan\nMíiriya’ mín ká dí i ye, i hákili’ kà fɛn’ mín mìna, díina’ mín ká dí i\nye, bɛnna bɛɛ ye ; ò kɔrɔ’ ye kó ni i be à fɛ kà bɔ díina’ dɔ la kà dòn\ndɔgbɛ la, ò be i mà ; kà díina’ fàlen, ò be i mà ; àyiwa bɛɛ be se kà i\nya séli’ ni ya díina’ kɛ i kélén, wálima jàma’ la, sùtara la wálima\nkɛnɛ’ kán, à kɛra kàlanni’ tá síra’ ye, wálima bàto’ tá síra’, wálima\nséli.\nBáabu 19 nan\nHákilila’ mín ká dí mɔgɔ’ mín ye, ò bɛnna i ye, à fɔli’ kɛnɛ’ kán, ò\ndàgara ye. O kɔrɔ’ ye kó mɔgɔ si te se kà mɔgɔ tɔɔrɔ à hákilila’ kánma,\nmɔgɔ se kà mɔgɔ’ bàli kà kùnnafóniw gánsi yɔrɔ’ mín ká dí i ye, jàmana’\nmín ká dí i ye.\nBáabu 20 nan\nKà ɲɔgɔn lájɛn ɲɔgɔnye bolo mà, wálima kà tɔn’ sìgi, ò dàgara mɔgɔ’ bɛɛ\nye.\nA te se kà wájibiya mɔgɔ si kán, kó i ye kɛ tɔn dɔ tɔnden ye kà à sɔrɔ à\nmán dí i ye.\nBáabu 21 nan\nA be bɛn bɛɛ ye i sèn’ dòn i fàso’ kóɲaw ɲánabɔli’ la, à kɛra yɛrɛbakun’\nye wálima i kà i wàsa’ dòn mɔgɔ gbɛrɛ la, i yɛrɛ kà mɔgɔ’ mín súgandi i\nyɛrɛ mà.\nKà lɔyɔrɔ’ sɔrɔ i fàso’ fòrobabáaraw la, ò be bɛn mɔgɔ bɛɛ ye, wà bɛɛ ká\nkán à la.\nJàma’ ŋàniya’ le ye màrabólo’ ya fànga’ jù’ ye ; jàma’ be ò ŋ\nlánkɛnɛmaya kàlafíli’ sèn’ fɛ, ni’ ò ye wóte’ ye, námara te mín na. O\nkàlafíli’ ká kán kà kɛ tùma ni tùma, bɛɛ ye wóte cógo kélen na, gùndo la\nwálima cógo la, bɛɛ be i yɛrɛ le ŋàniya’ yìra.\nBáabu 22 nan\nSìgidénya’ húkumu’ kɔnɔ, bɛɛ ká kán ni i fàso’ màrabólo’ ni dúnya’ tɔ\ndɛmɛ’ ye, i ya dúnyalatigɛ’ gbɛlɛyaw la ; bɛɛ ká kán ni nàfasɔrɔ hákɛya’\nye, àni mɔgɔya’ hákɛya’, àni lɔnko’ ni séko’ hákɛya’ mín be í lànbe’\nkɔrɔta, kà í ya hádamadenya’ sàbati.\nBáabu 23 nan\nBɛɛ ká kán ni báara’ ye, báara’ mín kà dí à ye, bèn te kɛ à kán báara’\nmín na ; bɛɛ ká kán kà látànga báarasɔrɔbaliya’ fána mà\nMɔgɔ’ ni mɔgɔ’ mín ya báara’ ye kélen ye, òlugu ká kán ni sàra kélen ye,\nwólomali te mín na.\nBáarakɛla’ bɛɛ ká kán ni sàra ye, mín be bɛn à ya báara’ kíima’ mà, mín\nbe à màko’ ɲà, mín be à tó à ni à ya dénbaya’ be bálo ù hákɛ’ la, bònya’\nkɔnɔ ; kà síniɲasigi’ fána jàte’ mìna ò la n’à be bɛn.",
-            "Image": "6b58882023dc2c38fb1dfc395d857a67"
+            "Text": "Báabu 18 nan\nMíiriya’ mín ká dí i ye, i hákili’ kà fɛn’ mín mìna, díina’ mín ká dí i\nye, bɛnna bɛɛ ye ; ò kɔrɔ’ ye kó ni i be à fɛ kà bɔ díina’ dɔ la kà dòn\ndɔgbɛ la, ò be i mà ; kà díina’ fàlen, ò be i mà ; àyiwa bɛɛ be se kà i\nya séli’ ni ya díina’ kɛ i kélén, wálima jàma’ la, sùtara la wálima\nkɛnɛ’ kán, à kɛra kàlanni’ tá síra’ ye, wálima bàto’ tá síra’, wálima\nséli.\nBáabu 19 nan\nHákilila’ mín ká dí mɔgɔ’ mín ye, ò bɛnna i ye, à fɔli’ kɛnɛ’ kán, ò\ndàgara ye. O kɔrɔ’ ye kó mɔgɔ si te se kà mɔgɔ tɔɔrɔ à hákilila’ kánma,\nmɔgɔ se kà mɔgɔ’ bàli kà kùnnafóniw gánsi yɔrɔ’ mín ká dí i ye, jàmana’\nmín ká dí i ye.\nBáabu 20 nan\nKà ɲɔgɔn lájɛn ɲɔgɔnye bolo mà, wálima kà tɔn’ sìgi, ò dàgara mɔgɔ’ bɛɛ\nye.\nA te se kà wájibiya mɔgɔ si kán, kó i ye kɛ tɔn dɔ tɔnden ye kà à sɔrɔ à\nmán dí i ye.\nBáabu 21 nan\nA be bɛn bɛɛ ye i sèn’ dòn i fàso’ kóɲaw ɲánabɔli’ la, à kɛra yɛrɛbakun’\nye wálima i kà i wàsa’ dòn mɔgɔ gbɛrɛ la, i yɛrɛ kà mɔgɔ’ mín súgandi i\nyɛrɛ mà.\nKà lɔyɔrɔ’ sɔrɔ i fàso’ fòrobabáaraw la, ò be bɛn mɔgɔ bɛɛ ye, wà bɛɛ ká\nkán à la.\nJàma’ ŋàniya’ le ye màrabólo’ ya fànga’ jù’ ye ; jàma’ be ò ŋ\nlánkɛnɛmaya kàlafíli’ sèn’ fɛ, ni’ ò ye wóte’ ye, námara te mín na. O\nkàlafíli’ ká kán kà kɛ tùma ni tùma, bɛɛ ye wóte cógo kélen na, gùndo la\nwálima cógo la, bɛɛ be i yɛrɛ le ŋàniya’ yìra.\nBáabu 22 nan\nSìgidénya’ húkumu’ kɔnɔ, bɛɛ ká kán ni i fàso’ màrabólo’ ni dúnya’ tɔ\ndɛmɛ’ ye, i ya dúnyalatigɛ’ gbɛlɛyaw la ; bɛɛ ká kán ni nàfasɔrɔ hákɛya’\nye, àni mɔgɔya’ hákɛya’, àni lɔnko’ ni séko’ hákɛya’ mín be í lànbe’\nkɔrɔta, kà í ya hádamadenya’ sàbati.\nBáabu 23 nan\nBɛɛ ká kán ni báara’ ye, báara’ mín kà dí à ye, bèn te kɛ à kán báara’\nmín na ; bɛɛ ká kán kà látànga báarasɔrɔbaliya’ fána mà\nMɔgɔ’ ni mɔgɔ’ mín ya báara’ ye kélen ye, òlugu ká kán ni sàra kélen ye,\nwólomali te mín na.\nBáarakɛla’ bɛɛ ká kán ni sàra ye, mín be bɛn à ya báara’ kíima’ mà, mín\nbe à màko’ ɲà, mín be à tó à ni à ya dénbaya’ be bálo ù hákɛ’ la, bònya’\nkɔnɔ ; kà síniɲasigi’ fána jàte’ mìna ò la n’à be bɛn."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "769ffc3caca0dc955bae7a33ee603e5b",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "A be bɛn bɛɛ ye sɛndika sìgi, wálima kà dòn sɛndika’ la, yálasa kà i\nyɛrɛ látànga.\nBáabu 24 nan\nBɛɛ ká kán ni làganfíya’ ni dàamu’ ye : ò be à yìra ko dàn ká kán kà ye\nbáara’ kùntaga’ la, báarakɛla ká kán kà baara’ bìla tùma ni tùma.\nBáabu 25 nan\nBɛɛ ká kán ni ɲánamaya’ dàamu’ ye, mín be à tó à ni à ya bálo’, ù\nfɛɛrɔbɔ, ù sìyɔrɔ’, ù fúrakɛli’, àni ɲánamaya’ làganfiyalan’ be nɔgɔya\ncógo’ mín ; báarakɛla’ ká kán ni màrabólo’ ya dɛmɛ’ ye ní ya báara’\ncɛnna, ní jànkáro’ kà lásìgi, ní lùjura kà à sɔrɔ, ní à kɛ fìriyatɔ ye,\nni kɔrɔ’ nàna kà à dɛsɛ, wálima gbɛlɛya’ fɛn ó fɛn kà à sɔrɔ, mín be à\nkɛ dɛsɛbagatɔ ye kà à sɔrɔ à yɛrɛ nɔ tɛ.\nMùsow ya kɔnɔmaya’ ni dénw ya dénmisɛnya’ ká kán ní dɛmɛ màgbɛn\nkɛrɛnkɛrɛnnin ye. A kɛra fúrukɔnɔden ye, wálima à kɛra fúrukɔfɛden ye,\ndén’ bɛɛ ká kán ni tàngali’ ye.\nBáabu 26 nan\nBɛɛ ká kán ni kàlan’ ye. Sàra mán kán kà bɔ ò kàlan’ nà, i n’àfɔ kàlan’\ndùgumála’ fó kà tága sé sépe’ mà, wálà bèpes’ la. Kà tága sé mà, ò ye\nwájibi ye. Tɛkinikikálan’ ni báarakalan’ ká kán kà kɛ fɛ lɔɔkɔnin ye ;\nsánfɛkalan’ ká kán kà nɔgɔya bɛɛ mà, bɛɛ ká kán kà kánya à la.\nKàlan’ làɲíni’ ká kán kà kɛ kà mɔgɔ’ ya hádamadenya’ fá, àni mɔgɔya’\nhákɛw ni à hɔrɔnya’ lásàbati. A ká kán kà ɲɔgɔnfaamuya ɲɔgɔnbonya’\nsàbati mɔgɔw ni ɲɔgɔn cɛ, kà tériya’ sàbati jàmanaw síyaw ni díinaw ni\nɲɔgɔn cɛ, àni kà dúnya’ tɔnba’ dɛmɛ ɲásuma’ la dúnya’ kɔnɔ.\nDén’ ládamu cógo ni à ya kàlan’ sífaya’ súgandili’ ye fàcɛ ni bámuso’ tá\nlè ye fɔlɔ.\nBáabu 27 nan\nA be bɛn bɛɛ ye i sèn’ dòn, à ká dí i ye cógo’ mín na, i ya jàmalájɛkow\nni ɲánagbɛw la, kà dàamu’ sɔrɔ sékow la, àni kà i nìyɔrɔ’ kɛ lɔnkow\nyíriwali’ la, kà ù nàfa’ sɔrɔ.\nFɛn ó fɛn bɔra lɔnkow ni sékow ni másalaw kɔnɔ, ní à béna kɛ báasi mɔgɔw\nmà, à kɛra ù bólofɛn cɛnni ye wálà kùnmasúuli, bɛɛ ká kán ni làtangali\nye òlúgu mà.\nBáabu 28 nan\nDàntigɛlikan’ nɔnɔ hákɛyaw ni hɔrɔnya’ sàbatíli’ sìgida’ la, jàmana’\nkɔnɔ, àni dúnya’ mùmɛ kɔnɔ, bɛɛ ká kán ní ò ye.\nBáabu 29 nan\nSìgida’ ya hákɛ’ ye mɔgɔ kélen kélen bɛɛ kùnko ye, k’à lá à kán ní\nsìgida’ tɛ, i ya mɔgɔya’ te dáfa.\nDàn sí te mɔgɔ’ ya hákɛyaw’ ni à ya yɛrɛmabíla’ la, fó à dɔ bɛ kà i",
-            "Image": "769ffc3caca0dc955bae7a33ee603e5b"
+            "Text": "A be bɛn bɛɛ ye sɛndika sìgi, wálima kà dòn sɛndika’ la, yálasa kà i\nyɛrɛ látànga.\nBáabu 24 nan\nBɛɛ ká kán ni làganfíya’ ni dàamu’ ye : ò be à yìra ko dàn ká kán kà ye\nbáara’ kùntaga’ la, báarakɛla ká kán kà baara’ bìla tùma ni tùma.\nBáabu 25 nan\nBɛɛ ká kán ni ɲánamaya’ dàamu’ ye, mín be à tó à ni à ya bálo’, ù\nfɛɛrɔbɔ, ù sìyɔrɔ’, ù fúrakɛli’, àni ɲánamaya’ làganfiyalan’ be nɔgɔya\ncógo’ mín ; báarakɛla’ ká kán ni màrabólo’ ya dɛmɛ’ ye ní ya báara’\ncɛnna, ní jànkáro’ kà lásìgi, ní lùjura kà à sɔrɔ, ní à kɛ fìriyatɔ ye,\nni kɔrɔ’ nàna kà à dɛsɛ, wálima gbɛlɛya’ fɛn ó fɛn kà à sɔrɔ, mín be à\nkɛ dɛsɛbagatɔ ye kà à sɔrɔ à yɛrɛ nɔ tɛ.\nMùsow ya kɔnɔmaya’ ni dénw ya dénmisɛnya’ ká kán ní dɛmɛ màgbɛn\nkɛrɛnkɛrɛnnin ye. A kɛra fúrukɔnɔden ye, wálima à kɛra fúrukɔfɛden ye,\ndén’ bɛɛ ká kán ni tàngali’ ye.\nBáabu 26 nan\nBɛɛ ká kán ni kàlan’ ye. Sàra mán kán kà bɔ ò kàlan’ nà, i n’àfɔ kàlan’\ndùgumála’ fó kà tága sé sépe’ mà, wálà bèpes’ la. Kà tága sé mà, ò ye\nwájibi ye. Tɛkinikikálan’ ni báarakalan’ ká kán kà kɛ fɛ lɔɔkɔnin ye ;\nsánfɛkalan’ ká kán kà nɔgɔya bɛɛ mà, bɛɛ ká kán kà kánya à la.\nKàlan’ làɲíni’ ká kán kà kɛ kà mɔgɔ’ ya hádamadenya’ fá, àni mɔgɔya’\nhákɛw ni à hɔrɔnya’ lásàbati. A ká kán kà ɲɔgɔnfaamuya ɲɔgɔnbonya’\nsàbati mɔgɔw ni ɲɔgɔn cɛ, kà tériya’ sàbati jàmanaw síyaw ni díinaw ni\nɲɔgɔn cɛ, àni kà dúnya’ tɔnba’ dɛmɛ ɲásuma’ la dúnya’ kɔnɔ.\nDén’ ládamu cógo ni à ya kàlan’ sífaya’ súgandili’ ye fàcɛ ni bámuso’ tá\nlè ye fɔlɔ.\nBáabu 27 nan\nA be bɛn bɛɛ ye i sèn’ dòn, à ká dí i ye cógo’ mín na, i ya jàmalájɛkow\nni ɲánagbɛw la, kà dàamu’ sɔrɔ sékow la, àni kà i nìyɔrɔ’ kɛ lɔnkow\nyíriwali’ la, kà ù nàfa’ sɔrɔ.\nFɛn ó fɛn bɔra lɔnkow ni sékow ni másalaw kɔnɔ, ní à béna kɛ báasi mɔgɔw\nmà, à kɛra ù bólofɛn cɛnni ye wálà kùnmasúuli, bɛɛ ká kán ni làtangali\nye òlúgu mà.\nBáabu 28 nan\nDàntigɛlikan’ nɔnɔ hákɛyaw ni hɔrɔnya’ sàbatíli’ sìgida’ la, jàmana’\nkɔnɔ, àni dúnya’ mùmɛ kɔnɔ, bɛɛ ká kán ní ò ye.\nBáabu 29 nan\nSìgida’ ya hákɛ’ ye mɔgɔ kélen kélen bɛɛ kùnko ye, k’à lá à kán ní\nsìgida’ tɛ, i ya mɔgɔya’ te dáfa.\nDàn sí te mɔgɔ’ ya hákɛyaw’ ni à ya yɛrɛmabíla’ la, fó à dɔ bɛ kà i"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "fa0dd7e5c08a4c12e257b8874ee850a0",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "kɔrɔsi à kana mɔgɔ gbɛrɛ tɔɲɔ, à ye i jànto mɔgɔ gbɛrɛ ya hákɛyaw la,\nàni jógoɲumanya’ ni ɲàli’ ni jàma’ làganfíya’ kánma, bɛɛkanya’ kɔnɔ.\nO hákɛyaw ni n-tá-ye-n-yɛrɛ-ye’ te bɛn cógo sí la, ní ù be Dúnya’ tɔnba’\nya sàriyaw sɔsɔ.\nBáabu 30 nan\nYɔrɔ sí te dàntigɛlikan‘ nìn kɔnɔ, ní fànga, wálima jàmakúlu, wálima mɔ\ngbansan be sé kà míiriya gbɛrɛ bɔ ò kɔnɔ kà nà ni ków ye wálima wáleyaw\nye, minw bena ni dàntigɛlikan’ nin hákɛw ni à hɔrɔnya’ bènni’ ye.",
-            "Image": "fa0dd7e5c08a4c12e257b8874ee850a0"
+            "Text": "kɔrɔsi à kana mɔgɔ gbɛrɛ tɔɲɔ, à ye i jànto mɔgɔ gbɛrɛ ya hákɛyaw la,\nàni jógoɲumanya’ ni ɲàli’ ni jàma’ làganfíya’ kánma, bɛɛkanya’ kɔnɔ.\nO hákɛyaw ni n-tá-ye-n-yɛrɛ-ye’ te bɛn cógo sí la, ní ù be Dúnya’ tɔnba’\nya sàriyaw sɔsɔ.\nBáabu 30 nan\nYɔrɔ sí te dàntigɛlikan‘ nìn kɔnɔ, ní fànga, wálima jàmakúlu, wálima mɔ\ngbansan be sé kà míiriya gbɛrɛ bɔ ò kɔnɔ kà nà ni ków ye wálima wáleyaw\nye, minw bena ni dàntigɛlikan’ nin hákɛw ni à hɔrɔnya’ bènni’ ye."
         }
     }
 }

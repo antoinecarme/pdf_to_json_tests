@@ -1,119 +1,119 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581467834,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "9a96ecc85eba6e9bb91f0b6e6e7cfc5d",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "GIZA ESKUBIDEEN ALDARRIKAPEN UNIBERTSALA\nHITZAURREA\nKontuan izanik munduko askatasuna, justizia eta bakea giza familiako kide guztien berezko duintasunean eta\neskubide berdin eta ukaezinetan oinarritzen direla;\nKontuan izanik giza eskubideak ez ezagutzearen eta gutxiestearen ondorioz, giza kontzientziari irain egiten\ndioten basakeriak gertatu izan direla; eta gizon-emakumeek, beldur eta gabezia orotik aske, hitz egiteko\naskatasuna eta sinesmen-askatasuna izango dituzten munduaren etorrera aldarrikatu dela gizakiaren helburu\nnagusi;\nKontuan izanik ezinbestekoa dela giza eskubideak zuzenbidezko erregimen batek babestea, gizakia-tirania\neta zapalkuntzaren aurkako azken irtenbidea den matxinadara jo beharrean aurkitu ez dadin;\nKontuan izanik ezinbestekoa dela, baita ere, herrialdeen artean harreman lagunkoiak bultzatzea;\nKontuan izanik Nazio Batuetako kide diren herriek gizakiaren oinarrizko eskubideetan, gizakiaren duintasun\neta balioan eta gizonen eta emakumeen eskubideen arteko berdintasunean duten fedea tinko azaldu dutela\nAgirian; eta, askatasunaren ikuspegi zabalago baten barruan, gizarte aurrerakuntza sustatzeko eta bizitza-\nmaila jasotzeko erabakita daudela adierazi dutela;\nKontuan izanik Estatu Kideek, Nazio Batuen Erakundearekin elkarlanean, gizakiaren oinarrizko eskubide eta\naskatasunen begirune orokorra eta eraginkorra ziurtatzeko hitza eman dutela;\nKontuan izanik emandako hitz hori osotasunean betetzeko garrantzi handikoa dela eskubide eta askatasun\nhoriek berdin ulertzea;\nBATZAR NAGUSIAK",
-            "Image": "9a96ecc85eba6e9bb91f0b6e6e7cfc5d"
+            "Text": "GIZA ESKUBIDEEN ALDARRIKAPEN UNIBERTSALA\nHITZAURREA\nKontuan izanik munduko askatasuna, justizia eta bakea giza familiako kide guztien berezko duintasunean eta\neskubide berdin eta ukaezinetan oinarritzen direla;\nKontuan izanik giza eskubideak ez ezagutzearen eta gutxiestearen ondorioz, giza kontzientziari irain egiten\ndioten basakeriak gertatu izan direla; eta gizon-emakumeek, beldur eta gabezia orotik aske, hitz egiteko\naskatasuna eta sinesmen-askatasuna izango dituzten munduaren etorrera aldarrikatu dela gizakiaren helburu\nnagusi;\nKontuan izanik ezinbestekoa dela giza eskubideak zuzenbidezko erregimen batek babestea, gizakia-tirania\neta zapalkuntzaren aurkako azken irtenbidea den matxinadara jo beharrean aurkitu ez dadin;\nKontuan izanik ezinbestekoa dela, baita ere, herrialdeen artean harreman lagunkoiak bultzatzea;\nKontuan izanik Nazio Batuetako kide diren herriek gizakiaren oinarrizko eskubideetan, gizakiaren duintasun\neta balioan eta gizonen eta emakumeen eskubideen arteko berdintasunean duten fedea tinko azaldu dutela\nAgirian; eta, askatasunaren ikuspegi zabalago baten barruan, gizarte aurrerakuntza sustatzeko eta bizitza-\nmaila jasotzeko erabakita daudela adierazi dutela;\nKontuan izanik Estatu Kideek, Nazio Batuen Erakundearekin elkarlanean, gizakiaren oinarrizko eskubide eta\naskatasunen begirune orokorra eta eraginkorra ziurtatzeko hitza eman dutela;\nKontuan izanik emandako hitz hori osotasunean betetzeko garrantzi handikoa dela eskubide eta askatasun\nhoriek berdin ulertzea;\nBATZAR NAGUSIAK"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "9ba2e5db72105fb84342584bc1be09f9",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "GIZA ESKUBIDEEN ALDARRIKAPEN\nUNIBERTSAL HAU EGITEN DU\nHerri eta nazio guztiek izan beharreko jomuga legez, bai norbanakoek eta bai erakundeek. Aldarrikapen\nhonetan etengabe oinarrituta, alde batetik, eskubide eta askatasun hauen begirunea bultza dezaten\nirakaskuntzaren eta hezkuntzaren bidez eta, bestetik, nazio mailan eta nazioarte mailan arian-arian neurriak\nhartuz, era eraginkorrean eta orokorrean ezar daitezen ziurtatzeko, bai elkarkide diren estatuetako herrien\nartean eta baita horien eskumenpean dauden lurraldeetan ere.\n1. atala\nGizon-emakume guztiak aske jaiotzen dira, duintasun eta eskubide berberak dituztela; eta ezaguera eta\nkontzientzia dutenez gero, elkarren artean senide legez jokatu beharra dute.\n2. atala\nGizaki orori dagozkio Aldarrikapen honetan adierazitako eskubide eta askatasunak, eta ez da inor bereziko\narraza, larru-kolorea, sexua, hizkuntza, erlijioa, politikako edo bestelako iritzia, sorterria edo gizarteko\njatorria, ekonomi maila, jaiotza edo beste inolako gorabeheragatik.\nEz zaio begiratuko gainera, pertsona zein herrialde edo lurraldetakoa den; ezta hango politikari, legeei edo\nnazioarteko egoerari, nahiz eta herri hori burujabea izan, besteren zainpeko lurraldea, autonomiarik gabea\nedo nola-halako burujabetasun-mugak dituena.\n3. atala\nNorbanako guztiek dute bizitzeko, aske izateko eta segurtasunerako eskubidea.\n4. atala",
-            "Image": "9ba2e5db72105fb84342584bc1be09f9"
+            "Text": "GIZA ESKUBIDEEN ALDARRIKAPEN\nUNIBERTSAL HAU EGITEN DU\nHerri eta nazio guztiek izan beharreko jomuga legez, bai norbanakoek eta bai erakundeek. Aldarrikapen\nhonetan etengabe oinarrituta, alde batetik, eskubide eta askatasun hauen begirunea bultza dezaten\nirakaskuntzaren eta hezkuntzaren bidez eta, bestetik, nazio mailan eta nazioarte mailan arian-arian neurriak\nhartuz, era eraginkorrean eta orokorrean ezar daitezen ziurtatzeko, bai elkarkide diren estatuetako herrien\nartean eta baita horien eskumenpean dauden lurraldeetan ere.\n1. atala\nGizon-emakume guztiak aske jaiotzen dira, duintasun eta eskubide berberak dituztela; eta ezaguera eta\nkontzientzia dutenez gero, elkarren artean senide legez jokatu beharra dute.\n2. atala\nGizaki orori dagozkio Aldarrikapen honetan adierazitako eskubide eta askatasunak, eta ez da inor bereziko\narraza, larru-kolorea, sexua, hizkuntza, erlijioa, politikako edo bestelako iritzia, sorterria edo gizarteko\njatorria, ekonomi maila, jaiotza edo beste inolako gorabeheragatik.\nEz zaio begiratuko gainera, pertsona zein herrialde edo lurraldetakoa den; ezta hango politikari, legeei edo\nnazioarteko egoerari, nahiz eta herri hori burujabea izan, besteren zainpeko lurraldea, autonomiarik gabea\nedo nola-halako burujabetasun-mugak dituena.\n3. atala\nNorbanako guztiek dute bizitzeko, aske izateko eta segurtasunerako eskubidea.\n4. atala"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "e53055d11c7daedf22b804b323a80faf",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Inor ez da izango besteren esklabu edo uztarpeko; debekatuta dago esklabutza eta esklabuen salerosketa oro.\n5. atala\nEzin daiteke inor torturatu, ezta inori zigor edo tratu txar, anker eta lotsarazlerik eman ere.\n6. atala\nEdozein gizon-emakumek du, nonahi, lege-nortasundun dela aitor diezaioten eskubidea.\n7. atala\nGizon-emakume guztiak berdinak dira legearen aurrean eta denek dute, bereizkeriarik gabe, legezko babesa\nizateko eskubidea. Denek dute Aldarrikapen hau hausten duen edozein bereizkeriaren aurka eta bereizkeria\nhorren eragileen aurka babes berbera izateko eskubidea.\n8. atala\nPertsona orok du Konstituzioak edo legeek gizon-emakumeei aitortzen dizkieten oinarrizko eskubideak\nhausten dituzten ekintzetatik babesteko, norbere herrialdeko auzitegi aginpidedunetan errekurtso eraginkorra\njartzeko eskubidea.\n9. atala\nInor ezingo da arrazoirik gabe atxilotu, preso hartu edo erbesteratu.\n10. atala\nPertsona orok eskubidea du, berdintasun osoan, auzitegi burujabe eta alderdikeriarik gabean jendaurrean hitz\negin eta zuzentasunez entzun diezaioten, nahiz bere eskubide eta betebeharrak erabakitzeko, nahiz bere\naurkako salaketa penalak aztertzeko.",
-            "Image": "e53055d11c7daedf22b804b323a80faf"
+            "Text": "Inor ez da izango besteren esklabu edo uztarpeko; debekatuta dago esklabutza eta esklabuen salerosketa oro.\n5. atala\nEzin daiteke inor torturatu, ezta inori zigor edo tratu txar, anker eta lotsarazlerik eman ere.\n6. atala\nEdozein gizon-emakumek du, nonahi, lege-nortasundun dela aitor diezaioten eskubidea.\n7. atala\nGizon-emakume guztiak berdinak dira legearen aurrean eta denek dute, bereizkeriarik gabe, legezko babesa\nizateko eskubidea. Denek dute Aldarrikapen hau hausten duen edozein bereizkeriaren aurka eta bereizkeria\nhorren eragileen aurka babes berbera izateko eskubidea.\n8. atala\nPertsona orok du Konstituzioak edo legeek gizon-emakumeei aitortzen dizkieten oinarrizko eskubideak\nhausten dituzten ekintzetatik babesteko, norbere herrialdeko auzitegi aginpidedunetan errekurtso eraginkorra\njartzeko eskubidea.\n9. atala\nInor ezingo da arrazoirik gabe atxilotu, preso hartu edo erbesteratu.\n10. atala\nPertsona orok eskubidea du, berdintasun osoan, auzitegi burujabe eta alderdikeriarik gabean jendaurrean hitz\negin eta zuzentasunez entzun diezaioten, nahiz bere eskubide eta betebeharrak erabakitzeko, nahiz bere\naurkako salaketa penalak aztertzeko."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "2824361af2788712ca6871f6142db542",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "11. atala\nDelituagatik salatutakoak eskubidea du errugabetzat jo dezaten, errudun dela legez eta jendaurreko epaiketan\nfrogatzen ez den bitartean. Epaiketan bere burua zaintzeko berme guztiak ziurtatuko zaizkio.\nEgintzak edo behar-uzteak izandakoan, herrialdeko edo nazioarteko legeriaren arabera delitu ez baziren,\nezingo da inor kondenatu. Delitua egitean ezargarri den zigorra baino larriagorik ere ezingo zaio jarri.\n12. atala\nEz dago arrazoirik gabe beste inoren bizitza pribatuan, familian, etxean edo postan eskusartzerik, ezta inoren\nohore edo izen onari eraso egiterik ere. Nornahik du eskusartze edo eraso horien aurka legezko babesa\nizateko eskubidea.\n13. atala\nPertsona orok du joan eta etorri aske ibiltzeko eskubidea eta Estatu baten lurraldean bizilekua aukeratzekoa.\nPertsona orok du edozein herrialdetatik alde egiteko eskubidea, baita norberetik ere, eta norbere herrialdera\nitzultzekoa.\n14. atala\nJazarpenik jasanez gero, pertsona orok du edozein herrialdetan babesa bilatu eta izateko eskubidea.\nEskubide horretara ezin izango da jo delitu arruntek sortutako auzibideko egintza baten aurka, ezta Nazio\nBatuen helburu eta erizpideen aurkako egintzak direla-eta ere.\n15. atala\nPertsona orok du herritartasuna izateko eskubidea.",
-            "Image": "2824361af2788712ca6871f6142db542"
+            "Text": "11. atala\nDelituagatik salatutakoak eskubidea du errugabetzat jo dezaten, errudun dela legez eta jendaurreko epaiketan\nfrogatzen ez den bitartean. Epaiketan bere burua zaintzeko berme guztiak ziurtatuko zaizkio.\nEgintzak edo behar-uzteak izandakoan, herrialdeko edo nazioarteko legeriaren arabera delitu ez baziren,\nezingo da inor kondenatu. Delitua egitean ezargarri den zigorra baino larriagorik ere ezingo zaio jarri.\n12. atala\nEz dago arrazoirik gabe beste inoren bizitza pribatuan, familian, etxean edo postan eskusartzerik, ezta inoren\nohore edo izen onari eraso egiterik ere. Nornahik du eskusartze edo eraso horien aurka legezko babesa\nizateko eskubidea.\n13. atala\nPertsona orok du joan eta etorri aske ibiltzeko eskubidea eta Estatu baten lurraldean bizilekua aukeratzekoa.\nPertsona orok du edozein herrialdetatik alde egiteko eskubidea, baita norberetik ere, eta norbere herrialdera\nitzultzekoa.\n14. atala\nJazarpenik jasanez gero, pertsona orok du edozein herrialdetan babesa bilatu eta izateko eskubidea.\nEskubide horretara ezin izango da jo delitu arruntek sortutako auzibideko egintza baten aurka, ezta Nazio\nBatuen helburu eta erizpideen aurkako egintzak direla-eta ere.\n15. atala\nPertsona orok du herritartasuna izateko eskubidea."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "f100580c751ad27456f83dee3d517160",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Inori ezingo zaio arrazoirik gabe herritartasuna kendu, ezta herritartasuna aldatzeko eskubidea ukatu ere.\n16. atala\nGizonek eta emakumeek, ezkontadinetik aurrera, ezkontzeko eta familia aratzeko eskubidea dute, arraza,\nherritartasun edo erlijioagatiko inolako mugarik gabe; eta, ezkontzari dagokionez, eskubide berberak dituzte\nbai ezkonduta jarraituz gero eta bai ezkontza-lotura ezabatuz gero ere.\nEzkongaien baimen aske eta osoz ez bada, ez dago ezkontzerik.\nFamilia da gizartearen oinarri jatorra eta berezkoa, eta Estatuaren eta gizartearen babesa izateko eskubidea\ndu.\n17. atala\nPertsona orok du jabe izateko eskubidea, bakarka nahiz taldean.\nArrazoirik gabe, ez zaio inori bere jabegoa kenduko.\n18. atala\nPertsona orok pentsamendu-kontzientzi eta erlijio-askatasunerako eskubidea du; eskubide horren barne da\nerlijio edo sinesmena aldatzeko askatasuna eta baita norbere erlijioa edo sinesmena bakarka nahiz taldean,\njendaurrean edo pribatuan irakaskuntzaz, ihardueraz, kultuz eta aginduak gordez azaltzeko askatasuna ere.\n19. atala\nGizabanako guztiek dute eritzi-eta adierazpen-askatasuna. Eskubide horrek barne hartzen du erlijioa eta\nsinismena aldatzeko askatasuna eta bakoitzaren eritziengatik inork ez gogaitzeko eskubidea, ikerketak\negitekoa eta informazioa eta eritziak mugarik gabe eta nolanahiko adierazpidez jaso eta zabaltzekoa.\n20. atala",
-            "Image": "f100580c751ad27456f83dee3d517160"
+            "Text": "Inori ezingo zaio arrazoirik gabe herritartasuna kendu, ezta herritartasuna aldatzeko eskubidea ukatu ere.\n16. atala\nGizonek eta emakumeek, ezkontadinetik aurrera, ezkontzeko eta familia aratzeko eskubidea dute, arraza,\nherritartasun edo erlijioagatiko inolako mugarik gabe; eta, ezkontzari dagokionez, eskubide berberak dituzte\nbai ezkonduta jarraituz gero eta bai ezkontza-lotura ezabatuz gero ere.\nEzkongaien baimen aske eta osoz ez bada, ez dago ezkontzerik.\nFamilia da gizartearen oinarri jatorra eta berezkoa, eta Estatuaren eta gizartearen babesa izateko eskubidea\ndu.\n17. atala\nPertsona orok du jabe izateko eskubidea, bakarka nahiz taldean.\nArrazoirik gabe, ez zaio inori bere jabegoa kenduko.\n18. atala\nPertsona orok pentsamendu-kontzientzi eta erlijio-askatasunerako eskubidea du; eskubide horren barne da\nerlijio edo sinesmena aldatzeko askatasuna eta baita norbere erlijioa edo sinesmena bakarka nahiz taldean,\njendaurrean edo pribatuan irakaskuntzaz, ihardueraz, kultuz eta aginduak gordez azaltzeko askatasuna ere.\n19. atala\nGizabanako guztiek dute eritzi-eta adierazpen-askatasuna. Eskubide horrek barne hartzen du erlijioa eta\nsinismena aldatzeko askatasuna eta bakoitzaren eritziengatik inork ez gogaitzeko eskubidea, ikerketak\negitekoa eta informazioa eta eritziak mugarik gabe eta nolanahiko adierazpidez jaso eta zabaltzekoa.\n20. atala"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "6b204e9b83c66025b5f41b26c203f01d",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Nornahik du bakean biltzeko eta elkartzeko eskubidea.\nInor ezingo da behartu elkarte bateko kide izatera.\n21. atala\nPertsona orok du bere herrialdeko gobernuan parte hartzeko eskubidea, zuzenean nahiz libre aukeratutako\nordezkarien bitartez.\nPertsona orok du berdintasunez norbere herrialdeko funtzio publikoan sartzeko eskubidea.\nHerriaren borondatea da botere publikoaren agintearen oinarria; borondate hori aldian-aldian egingo diren\nbenetako hauteskundeetan adieraziko da. Hauteskundeok bozketa orokor eta berdinez eta isilpeko boto bidez\negingo dira, edo boto askatasuna bermatzen duen beste bide batez.\n22. atala\nPertsona orok du, gizarteko kide denez gero, gizarte-segurantza izateko eskubidea eta, herrialdearen\nahaleginaz eta nazioarteko laguntzaz, Estatu bakoitzaren antolaketa eta baliabideak kontuan izanik,\nnorbanakoaren duintasunerako eta nortasuna garatzeko ezinbestekoak diren ekonomi, gizarte eta kultura\nmailako eskubideak asetuta izatekoa.\n23. atala\nPertsona orok du lan egiteko eskubidea, lana aukeratzekoa, lanbaldintza bidezkoak eta egokiak izatekoa, eta\nlangabeziaren aurkako laguntza jasotzekoa.\nPertsona orok du, bereizkeriarik gabe, lan beragatik lansari berbera jasotzeko eskubidea.\nLanean ari denak bidezko lan-saria eta aski zaiona jasotzeko eskubidea du, bai bera eta bai bere familia, giza\nduintasunari dagokion bezala bizitzeko bestekoa. Horretarako aski ez bada lansaria, gizarteko laguntzaren",
-            "Image": "6b204e9b83c66025b5f41b26c203f01d"
+            "Text": "Nornahik du bakean biltzeko eta elkartzeko eskubidea.\nInor ezingo da behartu elkarte bateko kide izatera.\n21. atala\nPertsona orok du bere herrialdeko gobernuan parte hartzeko eskubidea, zuzenean nahiz libre aukeratutako\nordezkarien bitartez.\nPertsona orok du berdintasunez norbere herrialdeko funtzio publikoan sartzeko eskubidea.\nHerriaren borondatea da botere publikoaren agintearen oinarria; borondate hori aldian-aldian egingo diren\nbenetako hauteskundeetan adieraziko da. Hauteskundeok bozketa orokor eta berdinez eta isilpeko boto bidez\negingo dira, edo boto askatasuna bermatzen duen beste bide batez.\n22. atala\nPertsona orok du, gizarteko kide denez gero, gizarte-segurantza izateko eskubidea eta, herrialdearen\nahaleginaz eta nazioarteko laguntzaz, Estatu bakoitzaren antolaketa eta baliabideak kontuan izanik,\nnorbanakoaren duintasunerako eta nortasuna garatzeko ezinbestekoak diren ekonomi, gizarte eta kultura\nmailako eskubideak asetuta izatekoa.\n23. atala\nPertsona orok du lan egiteko eskubidea, lana aukeratzekoa, lanbaldintza bidezkoak eta egokiak izatekoa, eta\nlangabeziaren aurkako laguntza jasotzekoa.\nPertsona orok du, bereizkeriarik gabe, lan beragatik lansari berbera jasotzeko eskubidea.\nLanean ari denak bidezko lan-saria eta aski zaiona jasotzeko eskubidea du, bai bera eta bai bere familia, giza\nduintasunari dagokion bezala bizitzeko bestekoa. Horretarako aski ez bada lansaria, gizarteko laguntzaren"
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "6d036ae1104ed457b4f19f5de2f2a27a",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "bidez osatuko da.\nPertsona orok du, norbere interesen alde egiteko, sindikatuak eratu eta sindikatuko kide izateko eskubidea.\n24. atala\nPertsona orori dagozkio atsedenerako eskubidea, aisiarakoa, lanaldiaren iraupen mugatua izatekoa eta aldian-\naldian ordaindutako oporrak izatekoa.\n25. atala\nPertsona orok du bizimodu egokia izateko eskubidea, bai berari eta bai bere familiari osasuna eta ongi izatea\nbermatuko diena, eta batez ere janaria, jantziak, bizitokia, medikusorospena eta gizarte-zerbitzuak; eta baita\nlanik eza, gaixotasuna, elbarritasuna, alarguntasuna, zahartzaroa edo bizibidea nahi gabe galtzeko beste\nkasuren bat gertatzen denerako asegurua izateko eskubidea ere.\nAmek eta haurrek laguntza bereziak jasotzeko eskubidea dute. Haur guztiek, senar-emazteengandik nahiz\nezkontzatik kanpo jaiotakoek, gizartearen babes berbera izateko eskubidea dute.\n26. atala\nPertsona orok du hezkuntza-eskubidea. Hezkuntza dohainekoa izango da oinarrizko ikasketei dagokienez\nbehintzat. Oinarrizko ikasketak egitea derrigorrezkoa izango da; heziketa teknikoa eta lanbiderakoa,\norokorra; eta denek izango dute goimailako ikasketak egiteko aukera bera, norberaren merezimenduen\narabera.\nHezkuntzaren helburua giza nortasuna guztiz garatzea izango da eta giza eskubideen eta oinarrizko\naskatasunen errespetua indartzea; herrialde, arraza eta erlijio guztien arteko elkar-ulertze, jasankortasun eta\nadiskidetasunaren alde egingo du; eta Nazio Batuen iharduna bultzatuko du, bakeak iraun dezan.",
-            "Image": "6d036ae1104ed457b4f19f5de2f2a27a"
+            "Text": "bidez osatuko da.\nPertsona orok du, norbere interesen alde egiteko, sindikatuak eratu eta sindikatuko kide izateko eskubidea.\n24. atala\nPertsona orori dagozkio atsedenerako eskubidea, aisiarakoa, lanaldiaren iraupen mugatua izatekoa eta aldian-\naldian ordaindutako oporrak izatekoa.\n25. atala\nPertsona orok du bizimodu egokia izateko eskubidea, bai berari eta bai bere familiari osasuna eta ongi izatea\nbermatuko diena, eta batez ere janaria, jantziak, bizitokia, medikusorospena eta gizarte-zerbitzuak; eta baita\nlanik eza, gaixotasuna, elbarritasuna, alarguntasuna, zahartzaroa edo bizibidea nahi gabe galtzeko beste\nkasuren bat gertatzen denerako asegurua izateko eskubidea ere.\nAmek eta haurrek laguntza bereziak jasotzeko eskubidea dute. Haur guztiek, senar-emazteengandik nahiz\nezkontzatik kanpo jaiotakoek, gizartearen babes berbera izateko eskubidea dute.\n26. atala\nPertsona orok du hezkuntza-eskubidea. Hezkuntza dohainekoa izango da oinarrizko ikasketei dagokienez\nbehintzat. Oinarrizko ikasketak egitea derrigorrezkoa izango da; heziketa teknikoa eta lanbiderakoa,\norokorra; eta denek izango dute goimailako ikasketak egiteko aukera bera, norberaren merezimenduen\narabera.\nHezkuntzaren helburua giza nortasuna guztiz garatzea izango da eta giza eskubideen eta oinarrizko\naskatasunen errespetua indartzea; herrialde, arraza eta erlijio guztien arteko elkar-ulertze, jasankortasun eta\nadiskidetasunaren alde egingo du; eta Nazio Batuen iharduna bultzatuko du, bakeak iraun dezan."
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "ed5ae9b8b96298f1623b76e4ff42b91f",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Gurasoek lehentasunezko eskubidea izango dute seme-alabei emango zaien hezkuntza mota aukeratzeko.\n27. atala\nPertsona orok du eskubidea elkarteko kultur ekitaldietan aske parte hartzeko, artelanez gozatzeko, eta zientzi\naurrerakuntzan eta horri darizkion irabazietan parte hartzeko.\nZientzia, literatura edo arte mailan egindako lanen egille diren pertsona guztiek dute horregatik eskubidea\ndagozkien interesak eta materialak babes dakizkien eskubidea.\n28. atala\nPertsona guztiei dagokien eskubidea da, Aldarrikapen honetan azaldutako eskubide eta askatasunak era\neraginkorrean garatuko dituen gizarte mailako eta nazioarteko ordena ezar dadin.\n29. atala\nPertsona orok komunitatearekiko betebeharrak ere baditu, komunitatea baita bere nortasuna guztiz eta era\naskean garatzeko toki bakarra.\nPertsona orok, gainontzeko herritarren eskubide eta askatasunen begirunea ziurtatzeko eta gizarte\ndemokratiko bateko moral, ordena publiko eta ongizate orokorreko bidezko eskakizunak betetzeko legez ezar\ndaitezen mugak baino ez ditu izango dagozkion eskubide eta askatasunez baliatzeko orduan.\nEskubide eta askatasun hauetaz ezingo da inor baliatu Nazio Batuen helburu eta erizpideen aurka.\n30. atala\nAldarrikapen honetan jasotako ezertan ezingo da ulertu Estatuari edo talde edo norbanakoren bati\nAldarrikapen honetan bertan adierazitako edozein eskubide eta askatasun deuseztatzeko ekintzak edo\nihardunak burutzeko eskubidea ematen zaionik.",
-            "Image": "ed5ae9b8b96298f1623b76e4ff42b91f"
+            "Text": "Gurasoek lehentasunezko eskubidea izango dute seme-alabei emango zaien hezkuntza mota aukeratzeko.\n27. atala\nPertsona orok du eskubidea elkarteko kultur ekitaldietan aske parte hartzeko, artelanez gozatzeko, eta zientzi\naurrerakuntzan eta horri darizkion irabazietan parte hartzeko.\nZientzia, literatura edo arte mailan egindako lanen egille diren pertsona guztiek dute horregatik eskubidea\ndagozkien interesak eta materialak babes dakizkien eskubidea.\n28. atala\nPertsona guztiei dagokien eskubidea da, Aldarrikapen honetan azaldutako eskubide eta askatasunak era\neraginkorrean garatuko dituen gizarte mailako eta nazioarteko ordena ezar dadin.\n29. atala\nPertsona orok komunitatearekiko betebeharrak ere baditu, komunitatea baita bere nortasuna guztiz eta era\naskean garatzeko toki bakarra.\nPertsona orok, gainontzeko herritarren eskubide eta askatasunen begirunea ziurtatzeko eta gizarte\ndemokratiko bateko moral, ordena publiko eta ongizate orokorreko bidezko eskakizunak betetzeko legez ezar\ndaitezen mugak baino ez ditu izango dagozkion eskubide eta askatasunez baliatzeko orduan.\nEskubide eta askatasun hauetaz ezingo da inor baliatu Nazio Batuen helburu eta erizpideen aurka.\n30. atala\nAldarrikapen honetan jasotako ezertan ezingo da ulertu Estatuari edo talde edo norbanakoren bati\nAldarrikapen honetan bertan adierazitako edozein eskubide eta askatasun deuseztatzeko ekintzak edo\nihardunak burutzeko eskubidea ematen zaionik."
         }
     }
 }

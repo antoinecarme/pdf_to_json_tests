@@ -1,141 +1,141 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581471297,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "fbe3d70c0f9924fdf4f3638b7cf30b47",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Mulevhoguṱe wa Pfanelo dza Vhuthu\nNga ḽa 10 Nyendavhusiku 1948, Buthanonyangaredzi ḽa Dzangano ḽa Mbumbano ya Dzitshaka (UN) ḽo\nṱanganedza Mulevhoguṱe wa Pfanelo dza Vhuthu. Nga murahu ha vhukando uhu he ha tou vha\nḓivhazwakale, Buthanonyangaredzi ḽo ita khuwelelo kha mashango oṱhe ane a vha miraḓo uri a anḓadze\nMulevhoguṱe uyu na “u vhona uri u phaḓaladzwe, u ṱaniwe, u vhalwe na u ṱalutshedzwa zwikoloni na kha\nzwiṅwe zwiimiswa zwa pfunzo.” Ṱhalutshezo ya tshiVenḓa yo dzudzanywa nga miraḓo ya tshiṱafu na\nmatshudeni vha Yunivesithi ya Kapa u itela u pembelela vhuṱambo ha tshihumbudzo ha 60th ha\nMulevhoguṱe uyu une wa tou vha ḓivha zwa kale khathihi na u pembelela vhuṱambo ha tshihumbudzo ha\n150th ha Fakhaḽithi ya zwa milayo ya Yunivesithi ya Kapa. Ṱhalutshedzo yo vhalwa lwa u tou thoma\nṰhohoyandou kha vhuṱambo he ha farelwa Yunivesithi ya Venḓa nga ḽa 01 Nyendavhusiku 2008.\nMVULATSWINGA\nVhunga u ḓivhea ha u dzhiela nṱha lwa mvele ya tshirunzi tsha muthu na ndingano na pfanelo dza vhathu\nvhoṱhe zwi murango wa mbofholowo, vhulamukanyi na mulalo ḽifhasini,\nVhunga u dzhielwa fhasi na u tsikeledzwa ha pfanelo dza vhathu ho bveledza zwiito zwa vhuveveru vhu\nfhandulaho luvalo lwa muthu, na u ḓa ha shango ḽine khaḽo vhathu vha ḓo ḓiphina nga mbofholowo ya u\namba na u tenda kha zwine vha funa, na u vhofholowa kha nyofho na zwinyagwa ḽo ḓivhadzwaho sa\ndzangalelo ḽihulwane ḽa vhathu zwavho,\nVhunga zwi zwa ndeme, arali muthu a sa faneli u kombetshedzwa nga u shaya iṅwe nḓila, u vutshela\nvhutambudzi na vhutsikeledzi, uri pfanelo dza vhuthu dzi tsireledzwe nga tshumiso ya mulayo,\nVhunga zwi zwa vhuṱhogwa u ṱuṱuwedza mvelaphanḓa ya vhukonani havhuḓi vhukati ha dzitshaka,\nVhunga vhathu vha Mbumbano ya Dzitshaka vho khwaṱhisedza kha Tshata lutendo lwavho kha pfanelo dza",
-            "Image": "fbe3d70c0f9924fdf4f3638b7cf30b47"
+            "Text": "Mulevhoguṱe wa Pfanelo dza Vhuthu\nNga ḽa 10 Nyendavhusiku 1948, Buthanonyangaredzi ḽa Dzangano ḽa Mbumbano ya Dzitshaka (UN) ḽo\nṱanganedza Mulevhoguṱe wa Pfanelo dza Vhuthu. Nga murahu ha vhukando uhu he ha tou vha\nḓivhazwakale, Buthanonyangaredzi ḽo ita khuwelelo kha mashango oṱhe ane a vha miraḓo uri a anḓadze\nMulevhoguṱe uyu na “u vhona uri u phaḓaladzwe, u ṱaniwe, u vhalwe na u ṱalutshedzwa zwikoloni na kha\nzwiṅwe zwiimiswa zwa pfunzo.” Ṱhalutshezo ya tshiVenḓa yo dzudzanywa nga miraḓo ya tshiṱafu na\nmatshudeni vha Yunivesithi ya Kapa u itela u pembelela vhuṱambo ha tshihumbudzo ha 60th ha\nMulevhoguṱe uyu une wa tou vha ḓivha zwa kale khathihi na u pembelela vhuṱambo ha tshihumbudzo ha\n150th ha Fakhaḽithi ya zwa milayo ya Yunivesithi ya Kapa. Ṱhalutshedzo yo vhalwa lwa u tou thoma\nṰhohoyandou kha vhuṱambo he ha farelwa Yunivesithi ya Venḓa nga ḽa 01 Nyendavhusiku 2008.\nMVULATSWINGA\nVhunga u ḓivhea ha u dzhiela nṱha lwa mvele ya tshirunzi tsha muthu na ndingano na pfanelo dza vhathu\nvhoṱhe zwi murango wa mbofholowo, vhulamukanyi na mulalo ḽifhasini,\nVhunga u dzhielwa fhasi na u tsikeledzwa ha pfanelo dza vhathu ho bveledza zwiito zwa vhuveveru vhu\nfhandulaho luvalo lwa muthu, na u ḓa ha shango ḽine khaḽo vhathu vha ḓo ḓiphina nga mbofholowo ya u\namba na u tenda kha zwine vha funa, na u vhofholowa kha nyofho na zwinyagwa ḽo ḓivhadzwaho sa\ndzangalelo ḽihulwane ḽa vhathu zwavho,\nVhunga zwi zwa ndeme, arali muthu a sa faneli u kombetshedzwa nga u shaya iṅwe nḓila, u vutshela\nvhutambudzi na vhutsikeledzi, uri pfanelo dza vhuthu dzi tsireledzwe nga tshumiso ya mulayo,\nVhunga zwi zwa vhuṱhogwa u ṱuṱuwedza mvelaphanḓa ya vhukonani havhuḓi vhukati ha dzitshaka,\nVhunga vhathu vha Mbumbano ya Dzitshaka vho khwaṱhisedza kha Tshata lutendo lwavho kha pfanelo dza"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "b6c7508cd629df2d88affc680cd2c140",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "vhuthu dza ndeme, kha tshirunzi na ndeme ya vhuvha ha muthu na kha ndingano ya pfanelo dza vhanna na\nvhafumakadzi na uri vho ḓiimisela u ṱuṱuwedza mvelaphanḓa ya u tshilisana na tshiimo tsha khwine tsha\nvhutshilo kha mbofholowo khulwane,\nVhunga Mashango ane a vha Miraḓo o ḓivhofha u swikelela u bveledza ṱhuṱhuwedzo ya ṱhonifho na u\ntevhedzwa ha pfanelo dza vhathu na mbofholowo dza vhuṱhogwa a tshi shumisana na Dzangano ḽa\nMbumbano ya Dzitshaka,\nVhunga u pfeseswa ha pfanelo idzi na mbofholowo zwi zwa ndeme khulwane kha uri mbofho iyi i\nbveledzwe nga vhuḓalo,\nZwino-ha, Zworalo, Buthanonyangaredzi ḽi khou rwela ṱari Mulevhoguṱe wa Pfanelo dza Vhuthu uyu sa\ntshone tshikalo tshine tsha nga shumiswa nga nnyi na nnyi tshine tsha tea u swikelelwa nga vhathu vhoṱhe na\ntshaka dzoṱhe, kha u vhona uri muthu muṅwe na muṅwe na muraḓo muṅwe na muṅwe wa tshitshavha, e na\nMulevho uyu ngelekanyoni yawe, u ḓo lusa nga u tou funza na u shumisa pfunzo u bveledza phanḓa\nṱhonifho ya pfanelo idzi na mbofholowo a tshi shumisa maga o bvelaho phanḓa, kha vhuimo ha lushaka na\nha tshaka-tshaka, u vhona uri izwi zwi dzhielwa nṱha na u tevhedzwa vhukati ha vhathu vha Mashango ane a\nvha Miraḓo na vhathu vhane vha vha kha vhupo vhu re fhasi ha ndaulo ya mashango ayo.\nTshiteṅwa 1\nVhathu vhoṱhe vha bebwa vhe na mbofholowo nahone vha tshi lingana siani ḽa tshirunzi na pfanelo. Vhathu\nvhoṱhe vho ṋewa mihumbulo na mvalo ngauralo vha tea u konou farana sa vhathu vhathihi.\nTshiteṅwa 2\nMuthu muṅwe na muṅwe u na pfanelo na mbofholowo dzo bulwaho kha Mulevho uyu, hu si na u\nkhethululwa hufhio kana hufhio, ho ḓisendekaho kha murafho, muvhala, mbeu, luambo, vhurereli, polotiki\nkana muhumbulo muṅwe-vho, vhubvo ha tshitshavha kana u tshilisana, ndaka, mabebo kana tshiimo",
-            "Image": "b6c7508cd629df2d88affc680cd2c140"
+            "Text": "vhuthu dza ndeme, kha tshirunzi na ndeme ya vhuvha ha muthu na kha ndingano ya pfanelo dza vhanna na\nvhafumakadzi na uri vho ḓiimisela u ṱuṱuwedza mvelaphanḓa ya u tshilisana na tshiimo tsha khwine tsha\nvhutshilo kha mbofholowo khulwane,\nVhunga Mashango ane a vha Miraḓo o ḓivhofha u swikelela u bveledza ṱhuṱhuwedzo ya ṱhonifho na u\ntevhedzwa ha pfanelo dza vhathu na mbofholowo dza vhuṱhogwa a tshi shumisana na Dzangano ḽa\nMbumbano ya Dzitshaka,\nVhunga u pfeseswa ha pfanelo idzi na mbofholowo zwi zwa ndeme khulwane kha uri mbofho iyi i\nbveledzwe nga vhuḓalo,\nZwino-ha, Zworalo, Buthanonyangaredzi ḽi khou rwela ṱari Mulevhoguṱe wa Pfanelo dza Vhuthu uyu sa\ntshone tshikalo tshine tsha nga shumiswa nga nnyi na nnyi tshine tsha tea u swikelelwa nga vhathu vhoṱhe na\ntshaka dzoṱhe, kha u vhona uri muthu muṅwe na muṅwe na muraḓo muṅwe na muṅwe wa tshitshavha, e na\nMulevho uyu ngelekanyoni yawe, u ḓo lusa nga u tou funza na u shumisa pfunzo u bveledza phanḓa\nṱhonifho ya pfanelo idzi na mbofholowo a tshi shumisa maga o bvelaho phanḓa, kha vhuimo ha lushaka na\nha tshaka-tshaka, u vhona uri izwi zwi dzhielwa nṱha na u tevhedzwa vhukati ha vhathu vha Mashango ane a\nvha Miraḓo na vhathu vhane vha vha kha vhupo vhu re fhasi ha ndaulo ya mashango ayo.\nTshiteṅwa 1\nVhathu vhoṱhe vha bebwa vhe na mbofholowo nahone vha tshi lingana siani ḽa tshirunzi na pfanelo. Vhathu\nvhoṱhe vho ṋewa mihumbulo na mvalo ngauralo vha tea u konou farana sa vhathu vhathihi.\nTshiteṅwa 2\nMuthu muṅwe na muṅwe u na pfanelo na mbofholowo dzo bulwaho kha Mulevho uyu, hu si na u\nkhethululwa hufhio kana hufhio, ho ḓisendekaho kha murafho, muvhala, mbeu, luambo, vhurereli, polotiki\nkana muhumbulo muṅwe-vho, vhubvo ha tshitshavha kana u tshilisana, ndaka, mabebo kana tshiimo"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "8f737c3130e8a495bbe08a0bfdade1af",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "tshiṅwe-vho.\nNga nṱha ha izwi, a hu na khethululo ine ya ḓo itelwa muthu hu tshi tevhelwa tshiimo tsha zwa polotiki,\nmulayo kana tshiimo tsha shango kha dzitshakatshaka kana vhupo vhune muthu a bva khaho, hu nga vha hu\nre na vhuḓilangi, hu ha ṱhirasithi, hu sa ḓivhusi kana huhu re kha vhuimo ho pimiwaho nga vhuḓivhusi.\nTshiteṅwa 3\nMuthu muṅwe na muṅwe u na pfanelo ya vhutshilo, mbofholowo na tsireledzo ya muthu.\nTshiteṅwa 4\nA hu na muthu ane a ḓo dzheniswa kha zwa vhupuli kana vhushumeli; zwa vhupuli na mbambadzo ya\ndziphuli zwi ḓo iledzwa nga nḓila dzoṱhe.\nTshiteṅwa 5\nA hu na muthu ane a ḓo tambudzwa kana u farwa nga nḓila ya tshiṱuhu, i songo teaho muthu kana u farwa\nkana u ṱarafiwa nga nḓila i tsitsaho tshirunzi.\nTshiteṅwa 6\nMuthu muṅwe na muṅwe u na pfanelo dza u dzhiiwa sa muthu fhethu huṅwe na huṅwe phanḓa ha mulayo.\nTshiteṅwa 7\nVhathu vhoṱhe vha a lingana phanḓa ha mulayo nahone vho tewa nga tsireledzo ya mulayo i eḓanaho, hu si\nna khethululo. Vhathu vhoṱhe vha na pfanelo ya tsireledzo i eḓanaho kha khethululwo i pfukaho Mulevho\nuyu na kha ṱhuṱhuwedzo iṅwe na iṅwe malugana na khethululo yo raloho.\nTshiteṅwa 8",
-            "Image": "8f737c3130e8a495bbe08a0bfdade1af"
+            "Text": "tshiṅwe-vho.\nNga nṱha ha izwi, a hu na khethululo ine ya ḓo itelwa muthu hu tshi tevhelwa tshiimo tsha zwa polotiki,\nmulayo kana tshiimo tsha shango kha dzitshakatshaka kana vhupo vhune muthu a bva khaho, hu nga vha hu\nre na vhuḓilangi, hu ha ṱhirasithi, hu sa ḓivhusi kana huhu re kha vhuimo ho pimiwaho nga vhuḓivhusi.\nTshiteṅwa 3\nMuthu muṅwe na muṅwe u na pfanelo ya vhutshilo, mbofholowo na tsireledzo ya muthu.\nTshiteṅwa 4\nA hu na muthu ane a ḓo dzheniswa kha zwa vhupuli kana vhushumeli; zwa vhupuli na mbambadzo ya\ndziphuli zwi ḓo iledzwa nga nḓila dzoṱhe.\nTshiteṅwa 5\nA hu na muthu ane a ḓo tambudzwa kana u farwa nga nḓila ya tshiṱuhu, i songo teaho muthu kana u farwa\nkana u ṱarafiwa nga nḓila i tsitsaho tshirunzi.\nTshiteṅwa 6\nMuthu muṅwe na muṅwe u na pfanelo dza u dzhiiwa sa muthu fhethu huṅwe na huṅwe phanḓa ha mulayo.\nTshiteṅwa 7\nVhathu vhoṱhe vha a lingana phanḓa ha mulayo nahone vho tewa nga tsireledzo ya mulayo i eḓanaho, hu si\nna khethululo. Vhathu vhoṱhe vha na pfanelo ya tsireledzo i eḓanaho kha khethululwo i pfukaho Mulevho\nuyu na kha ṱhuṱhuwedzo iṅwe na iṅwe malugana na khethululo yo raloho.\nTshiteṅwa 8"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "0e669240a86535ee387826fb1b254164",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Muthu muṅwe na muṅwe u na pfanelo ya ndamulelo ya khoro dza lushaka dzi re na vhukoni kha vhukando\nvhu pfukaho pfanelo dze a ṋewa nga ndayotewa kana mulayo.\nTshiteṅwa 9\nA hu na muthu ane a ḓo farwa, u valelwa kana u shakuliswa hu si na tshiitisi.\nTshiteṅwa 10\nMuthu muṅwe na muṅwe o fanelwa, nga u eḓana ho fhelelaho, u thetsheleswa lwo teaho nga dzulo ḽa nnyi\nna nnyi na hone ḽo ḓiimisaho nga ḽoṱhe ḽi sa dzhiiho sia, musi hu tshi khou tiwa pfanelo dzawe na mbofho\ndzawe na mulandu muṅwe na muṅwe wa vhugevhenga une a hweswa.\nTshiteṅwa 11\nMuthu muṅwe na muṅwe o hweswaho mulandu wa vhugevhenga u na pfanelo ya u dzhiwa a si na mulandu\nu swika zwenezwo o no wanwa mulandu zwi tshi ya nga mulayo tsengoni ya tshitshavha, he a wana ṱhoḓea\ndzoṱhe dza u ḓipilela malugana na mulandu wonoyo.\nA hu na muthu ane a ḓo wanwa mulandu nga nṱhani ha nyito kana u sa ita nyito, zwe zwa vha zwi si\nmulandu nga fhasi ha mulayo wa lushaka kana wa dzitshakhatshaka nga tshifhinga tshe mulandu wa itea\nngatsho. Ha ngo tewa na u laṱiswa lwo kalulaho u fhirisa ndaṱiso ye ya vha yo tiwa nga tshifhinga tshe\nmulandu wa itea ngatsho.\nTshiteṅwa 12\nA hu na muthu ane a ḓo dzhenelelwa kha zwa ene muṋe, muṱa wawe, haya kana vhudavhidzani, kana u\nṱaselwa ha ṱhompho na tshirunzi tshawe, zwo sokou itwa kana hu si na tshiitisi tshi no pfesesea. Muthu\nmuṅwe na muṅwe u na pfanelo ya tsireledzo ya mulayo malugana na u dzhenelelwa honoho kana u ṱaselwa.",
-            "Image": "0e669240a86535ee387826fb1b254164"
+            "Text": "Muthu muṅwe na muṅwe u na pfanelo ya ndamulelo ya khoro dza lushaka dzi re na vhukoni kha vhukando\nvhu pfukaho pfanelo dze a ṋewa nga ndayotewa kana mulayo.\nTshiteṅwa 9\nA hu na muthu ane a ḓo farwa, u valelwa kana u shakuliswa hu si na tshiitisi.\nTshiteṅwa 10\nMuthu muṅwe na muṅwe o fanelwa, nga u eḓana ho fhelelaho, u thetsheleswa lwo teaho nga dzulo ḽa nnyi\nna nnyi na hone ḽo ḓiimisaho nga ḽoṱhe ḽi sa dzhiiho sia, musi hu tshi khou tiwa pfanelo dzawe na mbofho\ndzawe na mulandu muṅwe na muṅwe wa vhugevhenga une a hweswa.\nTshiteṅwa 11\nMuthu muṅwe na muṅwe o hweswaho mulandu wa vhugevhenga u na pfanelo ya u dzhiwa a si na mulandu\nu swika zwenezwo o no wanwa mulandu zwi tshi ya nga mulayo tsengoni ya tshitshavha, he a wana ṱhoḓea\ndzoṱhe dza u ḓipilela malugana na mulandu wonoyo.\nA hu na muthu ane a ḓo wanwa mulandu nga nṱhani ha nyito kana u sa ita nyito, zwe zwa vha zwi si\nmulandu nga fhasi ha mulayo wa lushaka kana wa dzitshakhatshaka nga tshifhinga tshe mulandu wa itea\nngatsho. Ha ngo tewa na u laṱiswa lwo kalulaho u fhirisa ndaṱiso ye ya vha yo tiwa nga tshifhinga tshe\nmulandu wa itea ngatsho.\nTshiteṅwa 12\nA hu na muthu ane a ḓo dzhenelelwa kha zwa ene muṋe, muṱa wawe, haya kana vhudavhidzani, kana u\nṱaselwa ha ṱhompho na tshirunzi tshawe, zwo sokou itwa kana hu si na tshiitisi tshi no pfesesea. Muthu\nmuṅwe na muṅwe u na pfanelo ya tsireledzo ya mulayo malugana na u dzhenelelwa honoho kana u ṱaselwa."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "3543e8671860823f5faa2d333b45b61f",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Tshiteṅwa 13\nMuthu muṅwe na muṅwe u na pfanelo ya mbofholowo ya u tshimbila na vhudzulapo nga ngomu mikanoni\nya shango ḽiṅwe na ḽiṅwe.\nMuthu muṅwe na muṅwe u na pfanelo ya u bva shangoni ḽiṅwe na ḽiṅwe, ho katelwa na ḽawe, na u humela\nkha shango ḽawe.\nTshiteṅwa 14\nMuthu muṅwe na muṅwe u na pfanelo ya u ṱoḓa na u ḓiphina nga pfanelo dza vhafhalali kha maṅwe\nmashango malugana na u tsireledzwa kha u tovholwa.\nPfanelo iyi i nga si shumiswe hune u hweswa mulandu ha vha hu si ha vhugevhenga ha politiki, kana zwiito\nzwi fhambanaho na ndivho na mirando ya Dzangano ḽa Mbumbano ya Dzitshaka.\nTshiteṅwa 15\nMuthu muṅwe na muṅwe u na pfanelo ya u vha na lushaka lune a wela khalwo.\nA hu na muthu ane a ḓo thivhelwa u vha wa lushaka lune a wela khalwo kana a hanelwa pfanelo ya u\nshandukisa lushaka lune a wela khalwo.\nTshiteṅwa 16\nVhanna na vhafumakadzi vha miṅwaha yo vhinaho vha na pfanelo ya u dzhena kha zwa mbingano na u vha\nna muṱa hu si na u thivhelwa nga zwa murafho, lushaka kana vhurereli. Vhoṱhe vha na pfanelo dzi linganaho\nsiani ḽa mbingano, vha kha mbingano na musi i tshi fhela.\nMbingano i ḓo dzhenelwa fhedzi nga vhathu vhane vha khou malana vho vhofholowa nahone hu na\nthendelano yo fhelelaho.",
-            "Image": "3543e8671860823f5faa2d333b45b61f"
+            "Text": "Tshiteṅwa 13\nMuthu muṅwe na muṅwe u na pfanelo ya mbofholowo ya u tshimbila na vhudzulapo nga ngomu mikanoni\nya shango ḽiṅwe na ḽiṅwe.\nMuthu muṅwe na muṅwe u na pfanelo ya u bva shangoni ḽiṅwe na ḽiṅwe, ho katelwa na ḽawe, na u humela\nkha shango ḽawe.\nTshiteṅwa 14\nMuthu muṅwe na muṅwe u na pfanelo ya u ṱoḓa na u ḓiphina nga pfanelo dza vhafhalali kha maṅwe\nmashango malugana na u tsireledzwa kha u tovholwa.\nPfanelo iyi i nga si shumiswe hune u hweswa mulandu ha vha hu si ha vhugevhenga ha politiki, kana zwiito\nzwi fhambanaho na ndivho na mirando ya Dzangano ḽa Mbumbano ya Dzitshaka.\nTshiteṅwa 15\nMuthu muṅwe na muṅwe u na pfanelo ya u vha na lushaka lune a wela khalwo.\nA hu na muthu ane a ḓo thivhelwa u vha wa lushaka lune a wela khalwo kana a hanelwa pfanelo ya u\nshandukisa lushaka lune a wela khalwo.\nTshiteṅwa 16\nVhanna na vhafumakadzi vha miṅwaha yo vhinaho vha na pfanelo ya u dzhena kha zwa mbingano na u vha\nna muṱa hu si na u thivhelwa nga zwa murafho, lushaka kana vhurereli. Vhoṱhe vha na pfanelo dzi linganaho\nsiani ḽa mbingano, vha kha mbingano na musi i tshi fhela.\nMbingano i ḓo dzhenelwa fhedzi nga vhathu vhane vha khou malana vho vhofholowa nahone hu na\nthendelano yo fhelelaho."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "1070a3a6e675babb962d4294231ff58c",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Muṱa ndi tshipiḓa tsha tsiko nahone tsha ndeme kha tshitshavha ngauralo wo tea u tsireledzwa nga\ntshitshavha na Muvhuso.\nTshiteṅwa 17\nMuthu muṅwe na muṅwe u na pfanelo ya u vha na ndaka o ḓiimisa nga eṱhe kana o ṱangana na vhaṅwe.\nA hu na muthu ane a ḓo dzhielwa ndaka hu si na tshiitisi tshi no pfesesea.\nTshiteṅwa 18\nMuthu muṅwe na muṅwe u na pfanelo ya mbofholowo ya muhumbulo, luvalo na vhurereli; pfanelo heyi i\nkatela mbofholowo ya u shandula vhurereli hawe kana zwine a tenda khazwo, na mbofholowo a eṱhe kana e\nna vhaṅwe na musi e khagala kana fhethu ho dzumbamaho, u sumbedzisa vhurereli hawe kana zwine a tenda\nnga u funza, nyito, u rerela na u tevhedza.\nTshiteṅwa 19\nMuthu muṅwe na muṅwe u na pfanelo ya u vha na mihumbulo yawe na u amba; pfanelo heyi i katela\nmbofholowo ya u vha na mihumbulo hu si na u dzhenelelwa, na u kona u ṱoḓa kana u wana mafhungo na u\nphaḓaladza mafhungo na mihumbulo hu tshi shumiswa nyanḓadzamafhungo hu sa sedzwi mikano.\nTshiteṅwa 20\nMuthu muṅwe na muṅwe u na pfanelo ya mbofholowo ya u kuvhangana nga mulalo na nyanḓano.\nA hu na ane a ḓo kombetshedzwa u vha muraḓo wa nyanḓano.\nTshiteṅwa 21\nMuthu muṅwe na muṅwe u na pfanelo ya u shela mulenzhe kha muvhuso wa shango ḽawe, nga ene muṋe\nkana nga vhaimeleli vhe a ḓikhethela o vhofholowa.",
-            "Image": "1070a3a6e675babb962d4294231ff58c"
+            "Text": "Muṱa ndi tshipiḓa tsha tsiko nahone tsha ndeme kha tshitshavha ngauralo wo tea u tsireledzwa nga\ntshitshavha na Muvhuso.\nTshiteṅwa 17\nMuthu muṅwe na muṅwe u na pfanelo ya u vha na ndaka o ḓiimisa nga eṱhe kana o ṱangana na vhaṅwe.\nA hu na muthu ane a ḓo dzhielwa ndaka hu si na tshiitisi tshi no pfesesea.\nTshiteṅwa 18\nMuthu muṅwe na muṅwe u na pfanelo ya mbofholowo ya muhumbulo, luvalo na vhurereli; pfanelo heyi i\nkatela mbofholowo ya u shandula vhurereli hawe kana zwine a tenda khazwo, na mbofholowo a eṱhe kana e\nna vhaṅwe na musi e khagala kana fhethu ho dzumbamaho, u sumbedzisa vhurereli hawe kana zwine a tenda\nnga u funza, nyito, u rerela na u tevhedza.\nTshiteṅwa 19\nMuthu muṅwe na muṅwe u na pfanelo ya u vha na mihumbulo yawe na u amba; pfanelo heyi i katela\nmbofholowo ya u vha na mihumbulo hu si na u dzhenelelwa, na u kona u ṱoḓa kana u wana mafhungo na u\nphaḓaladza mafhungo na mihumbulo hu tshi shumiswa nyanḓadzamafhungo hu sa sedzwi mikano.\nTshiteṅwa 20\nMuthu muṅwe na muṅwe u na pfanelo ya mbofholowo ya u kuvhangana nga mulalo na nyanḓano.\nA hu na ane a ḓo kombetshedzwa u vha muraḓo wa nyanḓano.\nTshiteṅwa 21\nMuthu muṅwe na muṅwe u na pfanelo ya u shela mulenzhe kha muvhuso wa shango ḽawe, nga ene muṋe\nkana nga vhaimeleli vhe a ḓikhethela o vhofholowa."
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "dc68d82d0cdd304556adca4b9d9de781",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Muthu muṅwe na muṅwe u na pfanelo ya u kona u wana tshumelo ya vhathu i no lingana kha shango ḽawe.\nLufuno lwa vhathu lu ḓo vha lwone murango wa maanḓalanga a muvhuso, hezwi zwi ḓo bveledzwa nga\nkhetho dza vhukuma dzine dza ḓo vha hone nga zwifhinga zwo tiwaho, nahone khetho idzi dzi ḓo vha dza\nvhathu vhoṱhe nga u lingana nahone u khetha hu ḓo vha ha tshidzumbe kana ha shumiswa maṅwe maga a u\nkhetha nga mbofholowo.\nTshiteṅwa 22\nMuthu muṅwe na muṅwe, sa murado wa tshitshavha, u na pfanelo ya u wana tshumelo ya tsireledzo ya zwa\nu tshilisana, nahone u na pfanelo ya u konou swikelela pfanelo dza ikonomi, u tshilisana na mvelele zwine\nzwa ṱoḓea kha tshirunzi tshawe na u bveledza vhuvha hawe a tshi tikedzwa nga nungo dza lushaka na\ntshumisano ya dzitshakatshaka zwi tshi ya nga nzudzanyo na zwiko zwa Muvhuso muṅwe na muṅwe.\nTshiteṅwa 23\nMuthu muṅwe na muṅwe u na pfanelo ya u shuma, mbofholowo ya u khetha mushumo, nyimele ya\nmushumo yo teaho nahone i ṱanganedzeaho khathihi na u tsireledzwa kha vhushayamushumo.\nMuthu muṅwe na muṅwe u na pfanelo, hu si na khethululo, ya u wana malamba ane a lingana na a vhaṅwe\nkha mushumo une wa fana.\nMuthu muṅwe na muṅwe ane a shuma u na pfanelo ya u wana malamba o teaho nahone ane a ṱanganedzea u\nitela uri ene na muṱa wawe vha konou tshila vhutshilo vhu re na tshirunzi, na u dovha u ḓadziswa, arali zwo\ntea, nga dziṅwe tsireledzo dza zwa u tshilisana.\nMuthu munwe na munwe u na pfanelo ya u vhumba kana u vha murado wa madzangano a vhashumi hu u\nitela tsireledzo ya madzangalelo awe.\nTshiteṅwa 24",
-            "Image": "dc68d82d0cdd304556adca4b9d9de781"
+            "Text": "Muthu muṅwe na muṅwe u na pfanelo ya u kona u wana tshumelo ya vhathu i no lingana kha shango ḽawe.\nLufuno lwa vhathu lu ḓo vha lwone murango wa maanḓalanga a muvhuso, hezwi zwi ḓo bveledzwa nga\nkhetho dza vhukuma dzine dza ḓo vha hone nga zwifhinga zwo tiwaho, nahone khetho idzi dzi ḓo vha dza\nvhathu vhoṱhe nga u lingana nahone u khetha hu ḓo vha ha tshidzumbe kana ha shumiswa maṅwe maga a u\nkhetha nga mbofholowo.\nTshiteṅwa 22\nMuthu muṅwe na muṅwe, sa murado wa tshitshavha, u na pfanelo ya u wana tshumelo ya tsireledzo ya zwa\nu tshilisana, nahone u na pfanelo ya u konou swikelela pfanelo dza ikonomi, u tshilisana na mvelele zwine\nzwa ṱoḓea kha tshirunzi tshawe na u bveledza vhuvha hawe a tshi tikedzwa nga nungo dza lushaka na\ntshumisano ya dzitshakatshaka zwi tshi ya nga nzudzanyo na zwiko zwa Muvhuso muṅwe na muṅwe.\nTshiteṅwa 23\nMuthu muṅwe na muṅwe u na pfanelo ya u shuma, mbofholowo ya u khetha mushumo, nyimele ya\nmushumo yo teaho nahone i ṱanganedzeaho khathihi na u tsireledzwa kha vhushayamushumo.\nMuthu muṅwe na muṅwe u na pfanelo, hu si na khethululo, ya u wana malamba ane a lingana na a vhaṅwe\nkha mushumo une wa fana.\nMuthu muṅwe na muṅwe ane a shuma u na pfanelo ya u wana malamba o teaho nahone ane a ṱanganedzea u\nitela uri ene na muṱa wawe vha konou tshila vhutshilo vhu re na tshirunzi, na u dovha u ḓadziswa, arali zwo\ntea, nga dziṅwe tsireledzo dza zwa u tshilisana.\nMuthu munwe na munwe u na pfanelo ya u vhumba kana u vha murado wa madzangano a vhashumi hu u\nitela tsireledzo ya madzangalelo awe.\nTshiteṅwa 24"
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "39be845164d13511fe4b57fd3551697e",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Muthu muṅwe na muṅwe u na pfanelo ya u awela na u ḓigeda, hu tshi katelwa awara dzo pimiwaho dza u\nshuma na dziholodeni dzo tiwaho dzi re na muholo.\nTshiteṅwa 25\nMuthu muṅwe na muṅwe u na pfanelo ya vhuimo ha vhutshilo ho teaho mutakalo na u tshila zwavhuḓi\nhawe na muṱa wawe, hu tshi katelwa na zwiḽiwa, zwiambaro, vhudzulo na mbavhalelo ya dzilafho na\ntshumelo dza u tshilisana, khathihi na pfanelo ya tsireledzo musi hu na vhushayamushumo, vhulwadze,\nvhuholefhali, vhutshilikadzi, vhualuwa kana iṅwe nyimele ya vhutshilo ine muthu a sa kone u i langa.\nVhomme na vhana vha tea u wana ndondolo na thuso zwa tshipentshela. Vhana vhoṱhe, hu sa sedzwi uri vho\nbebwa mbinganoni kana nnḓa ha mbingano, vha ḓo wana tsireledzo ya zwa u tshilisana i no fana na ya\nvhaṅwe.\nTshiteṅwa 26\nMuthu muṅwe na muṅwe u na pfanelo ya pfunzo. Pfunzo i ḓo ṋekedzwa hu si na mbadelo kha mirole ya\nfhasi kana ya u ranga ine ya vha ya vhuṱhogwa. Pfunzo ya mirole ya fhasi i ḓo vha khombe-khombe. Pfunzo\nya zwa thekheninikhi na zwa phurofesheni i ḓo itwa uri i wanale na pfunzo dza nṱha dzi ḓo swikelelea nga\nnḓila i linganaho ho sedzwa vhukoni.\nPfunzo i ḓo vha i livhiswaho kha u bveledzisa vhuvha ha muthu woṱhe na u khwaṱhisedza ṱhonifho ya\npfanelo dza vhuthu na mbofholowo dza ndeme. I ḓo ṱuṱuwedza u pfesesa, u konḓelelana na vhukonani\nvhukati ha dzitshaka, mirafho kana zwigwada zwa vhurereli, nahone i ḓo bvisela phanḓa mishumo ya\nDzangano ḽa Mbumbano ya Dzitshaka ya u itela uri hu vhe na mulalo.\nVhabebi vha na pfanelothangwa ya u nanga pfunzo ine ya ḓo ṋekedzwa vhana vhavho.\nTshiteṅwa 27",
-            "Image": "39be845164d13511fe4b57fd3551697e"
+            "Text": "Muthu muṅwe na muṅwe u na pfanelo ya u awela na u ḓigeda, hu tshi katelwa awara dzo pimiwaho dza u\nshuma na dziholodeni dzo tiwaho dzi re na muholo.\nTshiteṅwa 25\nMuthu muṅwe na muṅwe u na pfanelo ya vhuimo ha vhutshilo ho teaho mutakalo na u tshila zwavhuḓi\nhawe na muṱa wawe, hu tshi katelwa na zwiḽiwa, zwiambaro, vhudzulo na mbavhalelo ya dzilafho na\ntshumelo dza u tshilisana, khathihi na pfanelo ya tsireledzo musi hu na vhushayamushumo, vhulwadze,\nvhuholefhali, vhutshilikadzi, vhualuwa kana iṅwe nyimele ya vhutshilo ine muthu a sa kone u i langa.\nVhomme na vhana vha tea u wana ndondolo na thuso zwa tshipentshela. Vhana vhoṱhe, hu sa sedzwi uri vho\nbebwa mbinganoni kana nnḓa ha mbingano, vha ḓo wana tsireledzo ya zwa u tshilisana i no fana na ya\nvhaṅwe.\nTshiteṅwa 26\nMuthu muṅwe na muṅwe u na pfanelo ya pfunzo. Pfunzo i ḓo ṋekedzwa hu si na mbadelo kha mirole ya\nfhasi kana ya u ranga ine ya vha ya vhuṱhogwa. Pfunzo ya mirole ya fhasi i ḓo vha khombe-khombe. Pfunzo\nya zwa thekheninikhi na zwa phurofesheni i ḓo itwa uri i wanale na pfunzo dza nṱha dzi ḓo swikelelea nga\nnḓila i linganaho ho sedzwa vhukoni.\nPfunzo i ḓo vha i livhiswaho kha u bveledzisa vhuvha ha muthu woṱhe na u khwaṱhisedza ṱhonifho ya\npfanelo dza vhuthu na mbofholowo dza ndeme. I ḓo ṱuṱuwedza u pfesesa, u konḓelelana na vhukonani\nvhukati ha dzitshaka, mirafho kana zwigwada zwa vhurereli, nahone i ḓo bvisela phanḓa mishumo ya\nDzangano ḽa Mbumbano ya Dzitshaka ya u itela uri hu vhe na mulalo.\nVhabebi vha na pfanelothangwa ya u nanga pfunzo ine ya ḓo ṋekedzwa vhana vhavho.\nTshiteṅwa 27"
         },
         "8": {
-            "Label": "9",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "626c189c7d14668a6535dd707aee9a46",
             "Index": 8,
+            "Label": "9",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Muthu muṅwe na muṅwe u na pfanelo ya u shela mulenzhe kha kutshilele kwa mvelele ya tshitshavha o\nvhofholowa, u ḓiphina nga vhutsila na u vha na mukovhe kha zwa mveledziso ya saintsi na mbuelo yazwo.\nMuthu muṅwe na muṅwe u na pfanelo ya tsireledzo kha mikhwa na dzangalelo ḽa ndaka zwi bvaho kha\nzwibveledzwa zwa saintsi, maṅwalo kana vhutsila zwine a vha muṅwali wazwo.\nTshiteṅwa 28\nMuthu muṅwe na muṅwe u na pfanelo ya nzudzanyo ya u tshilisana na ya zwa mashango a dzitshakatshaka\nzwine pfanelo na mbofholowo zwo sumbedzwaho kha uyu mulevho zwi nga bveledzwa nga vhuḓalo.\nTshiteṅwa 29\nMuthu muṅwe na muṅwe u na mishumo kha tshitshavha ine ya ita uri vhuvha hawe vhu kone u bvelela nga\nvhuḓalo nahone nga mbofholowo.\nMusi muthu muṅwe na muṅwe a tshi khou shumisa pfanelo na mbofholowo dzawe, u tea u ita izwi a tshi\ndzhiela nṱha ndango ya mulayo wo itelwaho fhedzi u tsireledza pfanelo na mbofholowo dza vhaṅwe vhathu\nna u vhona uri hu vhe na u dzhielwa nṱha ha mikhwa ya kutshilele, vhudziki na kutshilele kwavhuḓi kwo\nteaho tshitshavha tsha demokirasi.\nPfanelo na mbofholowo idzi a dzi tei u shumiswa nga nḓila yo fhambanaho na ndivho na mirando ya\nDzangano ḽa Mbumbano ya Dzitshaka.\nTshiteṅwa 30\nA hu na na tshithihi tshi re kha Mulevho uyu tshine tsha nga dzhiwa tshi tshi amba pfanelo iṅwe na iṅwe ine\ni nga shumiswa kha zwiṅwe na zwiṅwe kana u ita iṅwe nyito yo livhiswaho kha u thutha iṅwe na iṅwe ya\npfanelo na mbofholowo zwo bulwaho afha malugana na Muvhuso, tshigwada kana muthu.",
-            "Image": "626c189c7d14668a6535dd707aee9a46"
+            "Text": "Muthu muṅwe na muṅwe u na pfanelo ya u shela mulenzhe kha kutshilele kwa mvelele ya tshitshavha o\nvhofholowa, u ḓiphina nga vhutsila na u vha na mukovhe kha zwa mveledziso ya saintsi na mbuelo yazwo.\nMuthu muṅwe na muṅwe u na pfanelo ya tsireledzo kha mikhwa na dzangalelo ḽa ndaka zwi bvaho kha\nzwibveledzwa zwa saintsi, maṅwalo kana vhutsila zwine a vha muṅwali wazwo.\nTshiteṅwa 28\nMuthu muṅwe na muṅwe u na pfanelo ya nzudzanyo ya u tshilisana na ya zwa mashango a dzitshakatshaka\nzwine pfanelo na mbofholowo zwo sumbedzwaho kha uyu mulevho zwi nga bveledzwa nga vhuḓalo.\nTshiteṅwa 29\nMuthu muṅwe na muṅwe u na mishumo kha tshitshavha ine ya ita uri vhuvha hawe vhu kone u bvelela nga\nvhuḓalo nahone nga mbofholowo.\nMusi muthu muṅwe na muṅwe a tshi khou shumisa pfanelo na mbofholowo dzawe, u tea u ita izwi a tshi\ndzhiela nṱha ndango ya mulayo wo itelwaho fhedzi u tsireledza pfanelo na mbofholowo dza vhaṅwe vhathu\nna u vhona uri hu vhe na u dzhielwa nṱha ha mikhwa ya kutshilele, vhudziki na kutshilele kwavhuḓi kwo\nteaho tshitshavha tsha demokirasi.\nPfanelo na mbofholowo idzi a dzi tei u shumiswa nga nḓila yo fhambanaho na ndivho na mirando ya\nDzangano ḽa Mbumbano ya Dzitshaka.\nTshiteṅwa 30\nA hu na na tshithihi tshi re kha Mulevho uyu tshine tsha nga dzhiwa tshi tshi amba pfanelo iṅwe na iṅwe ine\ni nga shumiswa kha zwiṅwe na zwiṅwe kana u ita iṅwe nyito yo livhiswaho kha u thutha iṅwe na iṅwe ya\npfanelo na mbofholowo zwo bulwaho afha malugana na Muvhuso, tshigwada kana muthu."
         }
     }
 }

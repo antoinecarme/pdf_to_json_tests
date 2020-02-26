@@ -1,93 +1,93 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581467102,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "5d7f7817b46a55db85b43ea0953af3ff",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "LÖPUKÖ/LEUSA NA UNIVERSAL DECLARATION OF HUMAN RIGHTS I KUTUK NA BARI.\nKWEJA ADI PETESI/KWEYESI TI TOĎIRI/ĎEKESI TI ŋutu I KAK BUKULUNŊ.\nKWEJA ADI\nDenet nagwon adi kugga ko tojojo na ďekesi ti ŋutu liŋ nagwon bain\ntitiki ŋutu. Kona kwe ŋutu ti mede/’baŋ logwon gwoďiet na tolien, toďiri\nko taliŋ i kak ‘bukuluŋ.\nKWEJA ADI\n‘Bakan na yenet ko laundya na toďiri na ŋutu aje jondia konesi narok\nnagwon aje toworja yeyesi ti ŋutu. Kona kwe ďurökin na kune ďekesi\nkwekindya adi anyen ŋutu liŋ ryeju tolien na jambu ko yenet ko yupet\ntöki ko tolien akwe na kujönö ko ďekesi aje tokoro gwoso yenet duma na\nŋutu i piritön ti kak.\nKWEJA ADI\nĎeďekarikin adi ŋutu ködyö ti riďiki anyen ďekan ŋaret i diŋitan na\ngwusulak na ti tndu ŋutu i renya na saresi ti miri karudanit ko\nkasasanyanit kogwon ďekesi ti ŋutu ködyö gagaya ko saresi ti putet.\nKWEJA ADI\nĎeďekarikin parik i ďilikindya na ďurjö na tojulin i kiden na ŋutu\nlogwon nyanyar gwon i pirit geleŋ ko ŋarju konesi na geleŋ.\nKWEJA ADI\nKödyö ďeďekarikin adi ti ŋutu gwe ko toďurjö na gwiliŋit ko tojulin ko\njurön.\nKWEJA ADI\nLaŋet na jurön lomomorja i saresi kase lo peta i kwekindya na yupet i\nďekesi ko ‘bulit na ŋutu i tojojo na ŋutu lyan ko wate adi se agi ködyö\ntindu riŋit i toďurjö i pirit na geleŋ gwiliŋit lo’but i tolien duma.\nKWEJA ADI\nYeyesi na morja ti kine ďekesi ko tolien gwon ‘bulit duma ko ati denesi\nti kine ŋo nagwon a yukwe kine.\nSOŊlNANA NYENAGWON.\nŊina momoret duma tokorju ŋina kweyet na toďurjö na ďekesi ti ŋutu liŋ i\nkak ‘bukuluŋ gwon a temet na konaki i morja liŋ i jurön liŋ tojo ko\nďutet. Karen ŋutu ko karen mugun na laŋet kepekep ŋina tokoret diŋitan\nliŋ i kwe anyen tindu riŋit duma na todindyö ko todinet anyen todindyö\nkuket na kine ďekesi. Tolien ko temet na ďurjö i Iukata ko nakaŋo na jur\nanyen gaju gwon nase i kak ‘bukuluŋ ko anyen joŋga ďekesi ko time nase\nko laŋet na kilo jurön ko ‘börik kase ako ŋutu logwon gwon kase i\nsaresi.",
-            "Image": "5d7f7817b46a55db85b43ea0953af3ff"
+            "Text": "LÖPUKÖ/LEUSA NA UNIVERSAL DECLARATION OF HUMAN RIGHTS I KUTUK NA BARI.\nKWEJA ADI PETESI/KWEYESI TI TOĎIRI/ĎEKESI TI ŋutu I KAK BUKULUNŊ.\nKWEJA ADI\nDenet nagwon adi kugga ko tojojo na ďekesi ti ŋutu liŋ nagwon bain\ntitiki ŋutu. Kona kwe ŋutu ti mede/’baŋ logwon gwoďiet na tolien, toďiri\nko taliŋ i kak ‘bukuluŋ.\nKWEJA ADI\n‘Bakan na yenet ko laundya na toďiri na ŋutu aje jondia konesi narok\nnagwon aje toworja yeyesi ti ŋutu. Kona kwe ďurökin na kune ďekesi\nkwekindya adi anyen ŋutu liŋ ryeju tolien na jambu ko yenet ko yupet\ntöki ko tolien akwe na kujönö ko ďekesi aje tokoro gwoso yenet duma na\nŋutu i piritön ti kak.\nKWEJA ADI\nĎeďekarikin adi ŋutu ködyö ti riďiki anyen ďekan ŋaret i diŋitan na\ngwusulak na ti tndu ŋutu i renya na saresi ti miri karudanit ko\nkasasanyanit kogwon ďekesi ti ŋutu ködyö gagaya ko saresi ti putet.\nKWEJA ADI\nĎeďekarikin parik i ďilikindya na ďurjö na tojulin i kiden na ŋutu\nlogwon nyanyar gwon i pirit geleŋ ko ŋarju konesi na geleŋ.\nKWEJA ADI\nKödyö ďeďekarikin adi ti ŋutu gwe ko toďurjö na gwiliŋit ko tojulin ko\njurön.\nKWEJA ADI\nLaŋet na jurön lomomorja i saresi kase lo peta i kwekindya na yupet i\nďekesi ko ‘bulit na ŋutu i tojojo na ŋutu lyan ko wate adi se agi ködyö\ntindu riŋit i toďurjö i pirit na geleŋ gwiliŋit lo’but i tolien duma.\nKWEJA ADI\nYeyesi na morja ti kine ďekesi ko tolien gwon ‘bulit duma ko ati denesi\nti kine ŋo nagwon a yukwe kine.\nSOŊlNANA NYENAGWON.\nŊina momoret duma tokorju ŋina kweyet na toďurjö na ďekesi ti ŋutu liŋ i\nkak ‘bukuluŋ gwon a temet na konaki i morja liŋ i jurön liŋ tojo ko\nďutet. Karen ŋutu ko karen mugun na laŋet kepekep ŋina tokoret diŋitan\nliŋ i kwe anyen tindu riŋit duma na todindyö ko todinet anyen todindyö\nkuket na kine ďekesi. Tolien ko temet na ďurjö i Iukata ko nakaŋo na jur\nanyen gaju gwon nase i kak ‘bukuluŋ ko anyen joŋga ďekesi ko time nase\nko laŋet na kilo jurön ko ‘börik kase ako ŋutu logwon gwon kase i\nsaresi."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "c22a4b0c357328969bf3751ae46da7a3",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "1.\nŊutu liŋ a yuŋwe kana, jojo i toďiri ko ďekesi ko ti se tokitaki ko\n‘börik ko mulökötyo lo toluŋaseran. Se a ďoka ko denet na kulya na’but\nko narok.\n2.\nKaren ŋuto a ‘buruki ďekesi liŋ ko tokoret ‘bak nyunyumbö i gwearijin\nkaďekaďe gwoso adi: ‘Boriköt, Kutuk ko Yupet/Yubö.\nI.aŋet kode kunie yeyesi ti lukata kode suluwet na gwoloŋ, toro’bo kode\nkulye gwearijin i juỳu na kine nene gelet ködyö ti kona kwöŋ kode i\nkiden na laŋet na miri na kaŋo kode jur, kode gwon a luwitöt, yiyiniki,\n‘bain ďeba mugun kode gwon ko denesi ti tolien.\n3.\nKaren ŋuto ködyö kata ko toďiri na gwiliŋit adi gwon jörun ko tolien na\ngaya na ŋutu.\n4.\nLele ŋuto ködyö ti bulö d'epa a ďupiet kogwon toďupien kode tugwörö a\nďupiet, kine konesi ködyö ti bulö konaki ŋutu i gweyarijin kase kaďekaďe\nkwöŋ.\n5.\nLele ŋuto ködyö ti bulö tiki i miyesi kode ďepet loron logwon ti\ntemakindya i gwiliŋit lo ŋutu kode riŋet nagwon körju mugun na ŋutu.\n6.\nKaren ŋuto ködyö kata ko toďiri i karen jur ko i karen pirit i komoŋ na\nsaret.\n7.\nŊutu liŋ agi gwon jojo kode ti nyunyumö i komoŋ na saret lo miri. Lepeŋ\nködyö agi gaya jojo ko saret. Ŋutu liŋ ködyö gwon ko gayet nageleŋ ‘bak\nnene nyunyumet kode laŋa na kilo saresi töki kode konesi nagwon ti\ntemakindya i kebbu na saret lo jur.\n8.\nKaren ŋuto ködyö gwon ko toďiri na kiko lo rigwo ko laŋet na rigwo ďuŋet\nna putesi i kenesi na laŋgo saresi ti tod'iri na ďekesi ti ŋuto logwon a\ntiki nye ko saresi kode saret lo jur.\n9.\nLele ŋuto ködyö ti bulö moka ‘bakan na saret, rereka kode riköji kaŋo\nkanyit i jur.\n10.",
-            "Image": "c22a4b0c357328969bf3751ae46da7a3"
+            "Text": "1.\nŊutu liŋ a yuŋwe kana, jojo i toďiri ko ďekesi ko ti se tokitaki ko\n‘börik ko mulökötyo lo toluŋaseran. Se a ďoka ko denet na kulya na’but\nko narok.\n2.\nKaren ŋuto a ‘buruki ďekesi liŋ ko tokoret ‘bak nyunyumbö i gwearijin\nkaďekaďe gwoso adi: ‘Boriköt, Kutuk ko Yupet/Yubö.\nI.aŋet kode kunie yeyesi ti lukata kode suluwet na gwoloŋ, toro’bo kode\nkulye gwearijin i juỳu na kine nene gelet ködyö ti kona kwöŋ kode i\nkiden na laŋet na miri na kaŋo kode jur, kode gwon a luwitöt, yiyiniki,\n‘bain ďeba mugun kode gwon ko denesi ti tolien.\n3.\nKaren ŋuto ködyö kata ko toďiri na gwiliŋit adi gwon jörun ko tolien na\ngaya na ŋutu.\n4.\nLele ŋuto ködyö ti bulö d'epa a ďupiet kogwon toďupien kode tugwörö a\nďupiet, kine konesi ködyö ti bulö konaki ŋutu i gweyarijin kase kaďekaďe\nkwöŋ.\n5.\nLele ŋuto ködyö ti bulö tiki i miyesi kode ďepet loron logwon ti\ntemakindya i gwiliŋit lo ŋutu kode riŋet nagwon körju mugun na ŋutu.\n6.\nKaren ŋuto ködyö kata ko toďiri i karen jur ko i karen pirit i komoŋ na\nsaret.\n7.\nŊutu liŋ agi gwon jojo kode ti nyunyumö i komoŋ na saret lo miri. Lepeŋ\nködyö agi gaya jojo ko saret. Ŋutu liŋ ködyö gwon ko gayet nageleŋ ‘bak\nnene nyunyumet kode laŋa na kilo saresi töki kode konesi nagwon ti\ntemakindya i kebbu na saret lo jur.\n8.\nKaren ŋuto ködyö gwon ko toďiri na kiko lo rigwo ko laŋet na rigwo ďuŋet\nna putesi i kenesi na laŋgo saresi ti tod'iri na ďekesi ti ŋuto logwon a\ntiki nye ko saresi kode saret lo jur.\n9.\nLele ŋuto ködyö ti bulö moka ‘bakan na saret, rereka kode riköji kaŋo\nkanyit i jur.\n10."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "072c5bd48d04a2e6a2d66490afe07973",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Karen ŋuto ködyö agi gwon ko tojojo i putet ko ti yiŋani yiŋa ko ŋutu ti\njur ko ködyö ti kaďuŋök ti putet kulo gwe a luwi i laŋet nase ködyö na\nkaďuŋök. Ti nyunyumbö, kujönö miri. Ti ďuŋgö na putet gwe i denet na\ntoďiri ko kepesi narok nagwon mokani ŋutu.\n11.\nKaren ŋuto lo moka adi a torondya agi ködyö ti luŋu a katoronyanit tojo\nko lopeŋ a ďuŋöki putet lo liliya ko ŋutu lojore, nagwon kweja adi nye a\nryö gayesi liŋ i putet Ionyit. Lele ŋuto ködyö ti luŋu a katoronyanit i\nkarin toronyet, ko kunie ti kunie toronyesi na kona kinu a ďuŋöji kano.\nKo köti i saret lo köji ko Io kaŋo jambu adi lele saret lo pömöni lele\nŋutu ködyö ti bulö riďiki i lewudya na ŋilo saret logwon gwon i\nkitarikin lu.\n12.\nLele ŋuto ködyö ti bulö riďiki i lwönö kanyit kweja adi lubbö ko lele\nŋuto kadi ‘bak pija kode kendya na manini na lege, kode lyöggu na kukuet\nko gwiliŋit lo'but. Karen ŋuto agi ködyö gwon ko toďiri na gaya ko\nsaret, ko lele ŋuto a ‘beleŋgu lele lo kilo saresi.\n13.\nKaren ŋuto ruköki tolien na wörö ko siďa i lokokoritan ti lukata na\nköjinö kaďekaďe. Karen ŋuto a ‘buruki i köyu na jur töki bubulö yitwe\nbot ‘bak teŋet.\n14.\nKaren ŋuto a ruköki i pija\nKine dekesi ti bulö ruköki\ntugwakan ko ‘bain pondya i\nlogwon ko tukaďe ko saresi\nkode i siďa kana i kulye jurön anyen gagaya.\nkode luŋu i diŋit na ďuŋöki na putet i\ntoron na laŋet na ďebba jur kode i saresi\ntiteŋ na momoret na jurön.\n15.\nKaren ŋuto a ruköki i gwon ko jur lonyit kode gwuluyet na jur lonyit.\nLete ŋutu ti bulö riďiki. renyaki i lopuködu na mugun i karen jur lo\nďeggi nye.\n16.\nŊutu lyan ko wate logwon aje ďurjö ‘bakan na kuniye teŋesi, ko ati\nkotumit nanyit kode gweyari kode ti yupet ködyö bubulö yema kode yemba\nanyen ryendu mede. Se ködyö gwon ko ďekesi kase jojo anyen bubulö toyem\ni diŋit yemet kode na reyan. a) Yemet tuŋ kaďe bubulö kona i ďekesi ti\nkilo logwon yöŋö kondya mede kulo (toyem) b) Mede ködyö a ŋo nagwon ŋUN\nlo gweja ko agi ködyö gwogwon, ko a laŋet naďit najur kode köji ko ködyö\ngagaya ko köji kode ko jur ‘bukuluŋ\n17.\nKaren ŋuto kata ko toďiri nagwon bubulö gwon ko toro’bo kanyit kode töki\nbubulö gwon i momoret ko kulye. Lele ŋutu ködyö ti bulö ryaka kode\njoŋari toro’bo kanyit kaŋo ‘bak saret.",
-            "Image": "072c5bd48d04a2e6a2d66490afe07973"
+            "Text": "Karen ŋuto ködyö agi gwon ko tojojo i putet ko ti yiŋani yiŋa ko ŋutu ti\njur ko ködyö ti kaďuŋök ti putet kulo gwe a luwi i laŋet nase ködyö na\nkaďuŋök. Ti nyunyumbö, kujönö miri. Ti ďuŋgö na putet gwe i denet na\ntoďiri ko kepesi narok nagwon mokani ŋutu.\n11.\nKaren ŋuto lo moka adi a torondya agi ködyö ti luŋu a katoronyanit tojo\nko lopeŋ a ďuŋöki putet lo liliya ko ŋutu lojore, nagwon kweja adi nye a\nryö gayesi liŋ i putet Ionyit. Lele ŋuto ködyö ti luŋu a katoronyanit i\nkarin toronyet, ko kunie ti kunie toronyesi na kona kinu a ďuŋöji kano.\nKo köti i saret lo köji ko Io kaŋo jambu adi lele saret lo pömöni lele\nŋutu ködyö ti bulö riďiki i lewudya na ŋilo saret logwon gwon i\nkitarikin lu.\n12.\nLele ŋuto ködyö ti bulö riďiki i lwönö kanyit kweja adi lubbö ko lele\nŋuto kadi ‘bak pija kode kendya na manini na lege, kode lyöggu na kukuet\nko gwiliŋit lo'but. Karen ŋuto agi ködyö gwon ko toďiri na gaya ko\nsaret, ko lele ŋuto a ‘beleŋgu lele lo kilo saresi.\n13.\nKaren ŋuto ruköki tolien na wörö ko siďa i lokokoritan ti lukata na\nköjinö kaďekaďe. Karen ŋuto a ‘buruki i köyu na jur töki bubulö yitwe\nbot ‘bak teŋet.\n14.\nKaren ŋuto a ruköki i pija\nKine dekesi ti bulö ruköki\ntugwakan ko ‘bain pondya i\nlogwon ko tukaďe ko saresi\nkode i siďa kana i kulye jurön anyen gagaya.\nkode luŋu i diŋit na ďuŋöki na putet i\ntoron na laŋet na ďebba jur kode i saresi\ntiteŋ na momoret na jurön.\n15.\nKaren ŋuto a ruköki i gwon ko jur lonyit kode gwuluyet na jur lonyit.\nLete ŋutu ti bulö riďiki. renyaki i lopuködu na mugun i karen jur lo\nďeggi nye.\n16.\nŊutu lyan ko wate logwon aje ďurjö ‘bakan na kuniye teŋesi, ko ati\nkotumit nanyit kode gweyari kode ti yupet ködyö bubulö yema kode yemba\nanyen ryendu mede. Se ködyö gwon ko ďekesi kase jojo anyen bubulö toyem\ni diŋit yemet kode na reyan. a) Yemet tuŋ kaďe bubulö kona i ďekesi ti\nkilo logwon yöŋö kondya mede kulo (toyem) b) Mede ködyö a ŋo nagwon ŋUN\nlo gweja ko agi ködyö gwogwon, ko a laŋet naďit najur kode köji ko ködyö\ngagaya ko köji kode ko jur ‘bukuluŋ\n17.\nKaren ŋuto kata ko toďiri nagwon bubulö gwon ko toro’bo kanyit kode töki\nbubulö gwon i momoret ko kulye. Lele ŋutu ködyö ti bulö ryaka kode\njoŋari toro’bo kanyit kaŋo ‘bak saret."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "2c123518cc8aaf553ef7d6f06e5f30ed",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "18.\nKaren ŋuto ködyö gwon ko tolien na yeyesi kanyit, ko lepeŋ yöŋö kondya\nnyo kweja adi teŋet ‘bain bubulö yeyeju ŋo na’but ko narok ko nye a\nďeggi konye töki bubulö torukökindyö ŋutu ko kulye i pirit nageleŋ kweja\nad i todinesi, konesi, moỳu, kode kwakwaddu.\n19.\nKaren ŋuto a ‘buruki i jondya kode i kwekindya na ŋutu yeyet nanyit ko\nŋutu kata, ko bubulö jambu ‘bak teŋet. Kine ďekesi kode ‘burusi morja ko\n‘burit kweyet na yeyet ‘bakan na teŋet kode kakalet ko lele ŋuto pija,\nwuju, kode leleŋaki na kulya ko lele ŋutu kode yeyet ko nene mugun\nkalayianit ‘bayin na dendya na lokokori.\n20.\nKaren ŋuto a ‘buruki kode bubulö kondya kode luŋgu momoret ko taling\n‘bak mörö. Lele ŋutu ködyö ti bulö riköji kaŋo i nene mugun na momorja\nanyen timundya kulyajin, nye ködyö ti bulö joŋga i nene mugun nagwon\nyeyesi kase ti morja.\n21.\nKaren ŋuto agi ködyö kikita i miri lo jur lonyit i lukata na miri kode\nwulundyö ŋutu logwon gwoďan kase i karen i lukata na miri, a) Karen ŋuto\na ‘buruki i ryeju na ŋaresi ko a ti biya i kadi na wini kode todinesi\n‘bakan na nyunyumbö kode gelesi kanyit i jur. b) Ďekesi ti ŋutu ködyö\ngwon a yenet na miri. Ko ŋina kaďe bubulö meta kode time ko gayesi ko\ntoďiri na wulet na kona ko ŋutu liŋ ti jur gwon kweja adi kona ko\nbeiembele. Kode (ŋutu geleŋ a belembele geleŋ) ‘bak nyönyöggu.\n22.\nKaren ŋuto gwoso lele lo laŋet agi ködyö gagaya ko miri. Ko ködyö meta i\nkonesi ti miri ko i tojulin na miri ko kulye jurön i saret lo momoret\nkode tukwöryönjin ti jurön kad'ekaďe adi toro’bo gwiliŋit ko ďekesi ti\nkeryat logwon ti ďumaji kaŋo anyen buya tolien na ďurjö nanyit.\n23.\nKaren ŋuto agi ködyö kondya kita na ďeket nanyit ko ti pirit kitayet na\ngwe i ďeket nanyit ko na kita ko ti gayet na ‘bakan na kita gwe kata i\njur. a) Karen ŋuto ködyö gwon jojo i kwe na kita i jur ko köti tojojo na\nropet na kita, i kitayesi ködyö nagwon jojo ko kona ko ŋutu kaďekaďe. b)\nKaren ŋuto logwon kikita ködyö yiyiniki köti ropakini ropet na kita\nnanyit. Nagwon kweja adi tetemakindya i gwon na ŋutu kode ỳalet na ropet\nködyö titiki ko bubulö. Ko ti kiko lo gayiri kakitak gwe kata, gwoso adi\npirit tokelet kode todinet. c) Karen ŋuto ködyö bubulö lupöki kode\ngweyundya na mugunya kagayak ti kakitak anyen gaju ďekesi ti kakitak.\n24.\nKaren ŋuto ködyö gwon ko diŋit na kita ko diŋit na yukan kode diŋit na\nbirye. Ko töki diŋit kitayet ködyö tetemaki ko perok ti yukan logwon\nroropa.",
-            "Image": "2c123518cc8aaf553ef7d6f06e5f30ed"
+            "Text": "18.\nKaren ŋuto ködyö gwon ko tolien na yeyesi kanyit, ko lepeŋ yöŋö kondya\nnyo kweja adi teŋet ‘bain bubulö yeyeju ŋo na’but ko narok ko nye a\nďeggi konye töki bubulö torukökindyö ŋutu ko kulye i pirit nageleŋ kweja\nad i todinesi, konesi, moỳu, kode kwakwaddu.\n19.\nKaren ŋuto a ‘buruki i jondya kode i kwekindya na ŋutu yeyet nanyit ko\nŋutu kata, ko bubulö jambu ‘bak teŋet. Kine ďekesi kode ‘burusi morja ko\n‘burit kweyet na yeyet ‘bakan na teŋet kode kakalet ko lele ŋuto pija,\nwuju, kode leleŋaki na kulya ko lele ŋutu kode yeyet ko nene mugun\nkalayianit ‘bayin na dendya na lokokori.\n20.\nKaren ŋuto a ‘buruki kode bubulö kondya kode luŋgu momoret ko taling\n‘bak mörö. Lele ŋutu ködyö ti bulö riköji kaŋo i nene mugun na momorja\nanyen timundya kulyajin, nye ködyö ti bulö joŋga i nene mugun nagwon\nyeyesi kase ti morja.\n21.\nKaren ŋuto agi ködyö kikita i miri lo jur lonyit i lukata na miri kode\nwulundyö ŋutu logwon gwoďan kase i karen i lukata na miri, a) Karen ŋuto\na ‘buruki i ryeju na ŋaresi ko a ti biya i kadi na wini kode todinesi\n‘bakan na nyunyumbö kode gelesi kanyit i jur. b) Ďekesi ti ŋutu ködyö\ngwon a yenet na miri. Ko ŋina kaďe bubulö meta kode time ko gayesi ko\ntoďiri na wulet na kona ko ŋutu liŋ ti jur gwon kweja adi kona ko\nbeiembele. Kode (ŋutu geleŋ a belembele geleŋ) ‘bak nyönyöggu.\n22.\nKaren ŋuto gwoso lele lo laŋet agi ködyö gagaya ko miri. Ko ködyö meta i\nkonesi ti miri ko i tojulin na miri ko kulye jurön i saret lo momoret\nkode tukwöryönjin ti jurön kad'ekaďe adi toro’bo gwiliŋit ko ďekesi ti\nkeryat logwon ti ďumaji kaŋo anyen buya tolien na ďurjö nanyit.\n23.\nKaren ŋuto agi ködyö kondya kita na ďeket nanyit ko ti pirit kitayet na\ngwe i ďeket nanyit ko na kita ko ti gayet na ‘bakan na kita gwe kata i\njur. a) Karen ŋuto ködyö gwon jojo i kwe na kita i jur ko köti tojojo na\nropet na kita, i kitayesi ködyö nagwon jojo ko kona ko ŋutu kaďekaďe. b)\nKaren ŋuto logwon kikita ködyö yiyiniki köti ropakini ropet na kita\nnanyit. Nagwon kweja adi tetemakindya i gwon na ŋutu kode ỳalet na ropet\nködyö titiki ko bubulö. Ko ti kiko lo gayiri kakitak gwe kata, gwoso adi\npirit tokelet kode todinet. c) Karen ŋuto ködyö bubulö lupöki kode\ngweyundya na mugunya kagayak ti kakitak anyen gaju ďekesi ti kakitak.\n24.\nKaren ŋuto ködyö gwon ko diŋit na kita ko diŋit na yukan kode diŋit na\nbirye. Ko töki diŋit kitayet ködyö tetemaki ko perok ti yukan logwon\nroropa."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "181fc96f1ec28b0fbca421715d04bbe2",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "25.\nKaren ŋuto ködyö siďa i gwiliŋit lo tetemakindya, kweja adi ďekesi\nkanyit ködyö ti bulö yöŋgu lepeŋ gwoso i kelan, gwon na mede ‘bura ‘bak\nsasanyesi gwoso ti kinyotot, boŋgo, wini, mede kode kuniye ďekesi ti\ngwiliŋit lo ŋuto ko gayet töki ko ati ‘bakan na kita, gilö kata,\nkaru’be, doŋga, kode kuniye ti pirit ko i ŋo nagwon a gandu ďekesi ti\nŋutu. Wate ko lupudyet agi ködyö gagaya ko ŋaŋaraki. Ŋwajik lupudyet liŋ\nlogwon yuŋwe kaŋo na yemet (tolup) agi ködyö ryeju ruruket ko gayet jojo\n‘bakan na koresi kode gelesi kase kiden.\n26.\nKaren ŋuto ködyö totodinö kanyit i jur ko ködyö todinesi kune gwon kana\n‘bak ropet biya parik suluet na todinö (primary school) kogwon ŋina\nďeďekarikin i saret. Ko agi ködyö tiki ko riŋit i ŋutu liŋ. Todinesi ti\nkita na könin ko ti koŋon na kwe gwe kata i keniya liŋ ko töki ryeni ko\nŋutu liŋ ti jur. a) Todinesi ködyö gwon i ďekesi ti ďurjö na yeyesi ti\nŋutu ko ti togoỳu na kugga na toďiri ko tolien na ŋutu i pirit na geleŋ.\nKo ti toďure yiŋga ko julin i kiden na jurön liŋ, kweja adi kotumitön\nkode i yupesi ko köti i konesi ti laŋet na jurön lo momorja anyen tindu\ntaliŋ i gwon ko ŋutu kiden. b) Karurukak kode ko monye ko ŋote ködyö\nlogwon a ŋerot i wulundyö na kiko lotodinöri ŋwajik kase.\n27.\nKaren ŋuto ködyö kondya ŋo ti keri lonyit i ďeket naynit ko ŋutu kanyit\nkiden anyen ryendu ‘bulit na ŋo na teten se kune, töki anyen ŋarju seko\nďurjö na mugun na koŋon na dendya na gweyarijin ti ŋo ti kak liŋ. Karen\nŋutu ko toro’bo kanyit i jur kata ködyö gagaya ko se ködyö gaya jojo\n‘bak nene gelet.\n28.\nTi gwilingit lo karen ŋuto gwe i ruket lo saret lo jurön liŋ ti kak\nanyen toďiri ko tolien nagwon köju aje tokuruki ŋutu na kukure ko ŋutu i\ngwiliŋit lose.\n29.\nKaren ŋuto ködyö agi kikita i jur ko ködyö ti kondi kita nagwon\ntemakindya i koŋon nanyit anyen nye bubulö ďurjö kanyit i gwiliŋit. b)\nAnyen ŋutu bubulö dendya adi tolien ko d'ekesi ti ŋutu a kuka, tuŋ kaďe\nko gwiliŋit lo ŋutu a lo’but kanyit i jur. Töki ko ŋutu wulundyö kimak\nkase ko ‘börik kase. c) Tuŋ kaďe kine ďekesi ko tolien na ŋutu i kikolin\nliŋ konani i saret lojurön lo momorja anyen tokorju kilo saresi. Kweja\nadi konesi ti ŋutu ködyö gwon ‘bak nene tukaďe kokilo saresi.\n30.\nNene ŋo ‘bain nagwon kakaďelo i ŋina manini, ko saret logwon kekepo ko\njurön liŋ, laŋetan, ŋutu logwon kita kitayesi kase, kode kondya saret\nlogwon anyen laŋgu kode körju nene na kine ďekesi kode tolien nagwon a\n‘beron peta i diŋit na tokoroni se na.\nTranslated by (a lopukö ko)",
-            "Image": "181fc96f1ec28b0fbca421715d04bbe2"
+            "Text": "25.\nKaren ŋuto ködyö siďa i gwiliŋit lo tetemakindya, kweja adi ďekesi\nkanyit ködyö ti bulö yöŋgu lepeŋ gwoso i kelan, gwon na mede ‘bura ‘bak\nsasanyesi gwoso ti kinyotot, boŋgo, wini, mede kode kuniye ďekesi ti\ngwiliŋit lo ŋuto ko gayet töki ko ati ‘bakan na kita, gilö kata,\nkaru’be, doŋga, kode kuniye ti pirit ko i ŋo nagwon a gandu ďekesi ti\nŋutu. Wate ko lupudyet agi ködyö gagaya ko ŋaŋaraki. Ŋwajik lupudyet liŋ\nlogwon yuŋwe kaŋo na yemet (tolup) agi ködyö ryeju ruruket ko gayet jojo\n‘bakan na koresi kode gelesi kase kiden.\n26.\nKaren ŋuto ködyö totodinö kanyit i jur ko ködyö todinesi kune gwon kana\n‘bak ropet biya parik suluet na todinö (primary school) kogwon ŋina\nďeďekarikin i saret. Ko agi ködyö tiki ko riŋit i ŋutu liŋ. Todinesi ti\nkita na könin ko ti koŋon na kwe gwe kata i keniya liŋ ko töki ryeni ko\nŋutu liŋ ti jur. a) Todinesi ködyö gwon i ďekesi ti ďurjö na yeyesi ti\nŋutu ko ti togoỳu na kugga na toďiri ko tolien na ŋutu i pirit na geleŋ.\nKo ti toďure yiŋga ko julin i kiden na jurön liŋ, kweja adi kotumitön\nkode i yupesi ko köti i konesi ti laŋet na jurön lo momorja anyen tindu\ntaliŋ i gwon ko ŋutu kiden. b) Karurukak kode ko monye ko ŋote ködyö\nlogwon a ŋerot i wulundyö na kiko lotodinöri ŋwajik kase.\n27.\nKaren ŋuto ködyö kondya ŋo ti keri lonyit i ďeket naynit ko ŋutu kanyit\nkiden anyen ryendu ‘bulit na ŋo na teten se kune, töki anyen ŋarju seko\nďurjö na mugun na koŋon na dendya na gweyarijin ti ŋo ti kak liŋ. Karen\nŋutu ko toro’bo kanyit i jur kata ködyö gagaya ko se ködyö gaya jojo\n‘bak nene gelet.\n28.\nTi gwilingit lo karen ŋuto gwe i ruket lo saret lo jurön liŋ ti kak\nanyen toďiri ko tolien nagwon köju aje tokuruki ŋutu na kukure ko ŋutu i\ngwiliŋit lose.\n29.\nKaren ŋuto ködyö agi kikita i jur ko ködyö ti kondi kita nagwon\ntemakindya i koŋon nanyit anyen nye bubulö ďurjö kanyit i gwiliŋit. b)\nAnyen ŋutu bubulö dendya adi tolien ko d'ekesi ti ŋutu a kuka, tuŋ kaďe\nko gwiliŋit lo ŋutu a lo’but kanyit i jur. Töki ko ŋutu wulundyö kimak\nkase ko ‘börik kase. c) Tuŋ kaďe kine ďekesi ko tolien na ŋutu i kikolin\nliŋ konani i saret lojurön lo momorja anyen tokorju kilo saresi. Kweja\nadi konesi ti ŋutu ködyö gwon ‘bak nene tukaďe kokilo saresi.\n30.\nNene ŋo ‘bain nagwon kakaďelo i ŋina manini, ko saret logwon kekepo ko\njurön liŋ, laŋetan, ŋutu logwon kita kitayesi kase, kode kondya saret\nlogwon anyen laŋgu kode körju nene na kine ďekesi kode tolien nagwon a\n‘beron peta i diŋit na tokoroni se na.\nTranslated by (a lopukö ko)"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "88a9fac5fb5ce22f0066f9144bda27df",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Sebur Anthony Lodu & Gordon Lucy Kiden.\nDenet nagwon adi kugga ko to jojo na ďekesi ti ŋutu liŋ nagwon ‘bain\ntiki ŋutu ko lele ŋuto, töki tibulö joŋa kaŋo ko lele ŋuto.",
-            "Image": "88a9fac5fb5ce22f0066f9144bda27df"
+            "Text": "Sebur Anthony Lodu & Gordon Lucy Kiden.\nDenet nagwon adi kugga ko to jojo na ďekesi ti ŋutu liŋ nagwon ‘bain\ntiki ŋutu ko lele ŋuto, töki tibulö joŋa kaŋo ko lele ŋuto."
         }
     }
 }

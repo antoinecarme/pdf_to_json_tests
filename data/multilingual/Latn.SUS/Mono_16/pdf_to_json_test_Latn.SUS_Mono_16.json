@@ -1,80 +1,80 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581470810,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "acef55abbf08b2e3771016afa26d34db",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "ADAMA XAFE RAFALƐ SARIYƐE DƐNTƐGƐ\n[Preamble]\nA kolon fera, ibunadama xa lasiriya nun axa adamaya xafe rafalɛ non\nfindixi yɛtɛralui tigitigira, a bara masen won bɛ, a tinxinyi nun bɔɲɛ\nsa bara sɛnbɛ sɔtɔ dunuya birin kui.\nA kolon fera, adamaya xafe sariyɛe mu mabanbanxi han to i bunadama yira,\nnafe naniɲɛ xi funmalaya, gere, gbaloe nun misikinɛ ya mu ɲɔnma. Kɔnɔ\nxabirin bara na sariyɛe ratinmɛ, gbaloe ɲɔnmanɛ, gere ɲɔn, funmalaya nun\nmisikinɛ ya ɲɔn. I bunadamaya bara rasabati natɛ mui.\nA kolon fera, adamaya xafe rafalɛ sariyɛe rasabatife findixi fe fanyi\nnan na, alanma ibunadamaya xun xa magaga mangɛ sanyi sariyɛla yira.\nA kolon fera, a ɲamanɛe xa xanunteya sɛnbɛ sofe e bore tagi, sugandi\nfanyi nara.\nA kolon fera, a O.N.U. xa masenyi, i bunadamaya sariyɛe tigitigi\nrasabati fe findixi xaxili fanyi nan na, alanmanɛ: ginɛ nun xamɛ xa suxu\nlaxalɛ keren, a xa masen e bɛ, ɲama xa yiriwɛ sɛnbɛteyafe sabui gbegbe\nlanxi e tan ma.\nA kolon fera a ɲamanɛe naxe birin manaxi O.N.U. kui e bara nɛtɛ tongo\nadamaya xafe rafalɛ sariyɛe ratinmɛ fera, na niyɛ manɛ ibunadamaya xa\nmabanban.\nA kolon fera a birin lanmafe nara yi sariyɛe nun yi yɛtɛra lui tide\ngbofe, na nɔmanɛ a niyɛde layidi ratinmɛ.\nMalanyi xungbe bara amasen\nɲamanɛe xa yi masenyi adamadi suxukima ɲama nun ɲamanɛe birin yira alako\na lufera xun dɛe birin sondonyi ma xaranyinun lɔnni sabura, na binyɛ nun\nsariyɛe rasabatifera ɲamanɛ kui nun a farima.\nSariyɛ singe (1)\nAdamadie birin barixinɛ e lan yɛtɛralui kui, yɛtɛ kolonyi nun yɛtɛ suxu\nkima. Fondoe nun faxamui na e bɛ boresuxu kima bariboreya fanyi kui.\nSariyɛ firinde (2)\nKankan nɔma a tukude yi sariyɛe ra, ana dangi nara fisamanteya yo man mu\nluma mixi bɛ akelide sabura, axa bɔxi raɲɛrɛki sabura yegeti keren mu\nnaxan kui a siɲɔxɔya kima, fate ɲingi kima, a xui kima, a fɛrɛ kima, a\ndinɛ kima na sa fatan ɲamanɛe ra xanamu ɲama ndee ra, fɛrɛ kima xanamu\nkigbɛtɛ nana sa fatan dɛdɛra kɔnɔ naxan nɔɛ nde bun xanamu dansaxi naxan\nxa yɛtɛralui ma.\nSariyɛ saxande (3)\nBaloe wayibiya birin bɛ, marafulunyi nun xaxilisa.\nSariyɛ naninde (4)",
-            "Image": "acef55abbf08b2e3771016afa26d34db"
+            "Text": "ADAMA XAFE RAFALƐ SARIYƐE DƐNTƐGƐ\n[Preamble]\nA kolon fera, ibunadama xa lasiriya nun axa adamaya xafe rafalɛ non\nfindixi yɛtɛralui tigitigira, a bara masen won bɛ, a tinxinyi nun bɔɲɛ\nsa bara sɛnbɛ sɔtɔ dunuya birin kui.\nA kolon fera, adamaya xafe sariyɛe mu mabanbanxi han to i bunadama yira,\nnafe naniɲɛ xi funmalaya, gere, gbaloe nun misikinɛ ya mu ɲɔnma. Kɔnɔ\nxabirin bara na sariyɛe ratinmɛ, gbaloe ɲɔnmanɛ, gere ɲɔn, funmalaya nun\nmisikinɛ ya ɲɔn. I bunadamaya bara rasabati natɛ mui.\nA kolon fera, adamaya xafe rafalɛ sariyɛe rasabatife findixi fe fanyi\nnan na, alanma ibunadamaya xun xa magaga mangɛ sanyi sariyɛla yira.\nA kolon fera, a ɲamanɛe xa xanunteya sɛnbɛ sofe e bore tagi, sugandi\nfanyi nara.\nA kolon fera, a O.N.U. xa masenyi, i bunadamaya sariyɛe tigitigi\nrasabati fe findixi xaxili fanyi nan na, alanmanɛ: ginɛ nun xamɛ xa suxu\nlaxalɛ keren, a xa masen e bɛ, ɲama xa yiriwɛ sɛnbɛteyafe sabui gbegbe\nlanxi e tan ma.\nA kolon fera a ɲamanɛe naxe birin manaxi O.N.U. kui e bara nɛtɛ tongo\nadamaya xafe rafalɛ sariyɛe ratinmɛ fera, na niyɛ manɛ ibunadamaya xa\nmabanban.\nA kolon fera a birin lanmafe nara yi sariyɛe nun yi yɛtɛra lui tide\ngbofe, na nɔmanɛ a niyɛde layidi ratinmɛ.\nMalanyi xungbe bara amasen\nɲamanɛe xa yi masenyi adamadi suxukima ɲama nun ɲamanɛe birin yira alako\na lufera xun dɛe birin sondonyi ma xaranyinun lɔnni sabura, na binyɛ nun\nsariyɛe rasabatifera ɲamanɛ kui nun a farima.\nSariyɛ singe (1)\nAdamadie birin barixinɛ e lan yɛtɛralui kui, yɛtɛ kolonyi nun yɛtɛ suxu\nkima. Fondoe nun faxamui na e bɛ boresuxu kima bariboreya fanyi kui.\nSariyɛ firinde (2)\nKankan nɔma a tukude yi sariyɛe ra, ana dangi nara fisamanteya yo man mu\nluma mixi bɛ akelide sabura, axa bɔxi raɲɛrɛki sabura yegeti keren mu\nnaxan kui a siɲɔxɔya kima, fate ɲingi kima, a xui kima, a fɛrɛ kima, a\ndinɛ kima na sa fatan ɲamanɛe ra xanamu ɲama ndee ra, fɛrɛ kima xanamu\nkigbɛtɛ nana sa fatan dɛdɛra kɔnɔ naxan nɔɛ nde bun xanamu dansaxi naxan\nxa yɛtɛralui ma.\nSariyɛ saxande (3)\nBaloe wayibiya birin bɛ, marafulunyi nun xaxilisa.\nSariyɛ naninde (4)"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "fbc5238b0c55777a1b88cb8f9a50c86c",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Ndende mulan alu konyiya nun ɲaxankatɛ kui. Konyiya nun ibunadama sarɛ\nbara ratɔn akɛɲa birin ma.\nSariyɛ sulinde (5)\nƝaxankatɛ nun tɔrɛ mu sama ndende fari. Xanamu yayixarɛ naxan mulan\nibunadama bɛ.\nSariyɛ senninde (6)\nKankan xa adamaya daxa axa kolon yire birin.\nSariyɛ soloferende (7)\nAdamadi birin lan sariyɛe kui e man birin lan e xun xa magaga sariyɛe yi\nkɛɲa keren.\nSariyɛ solomasaxande (8)\nBɔoxi sariyɛ banxidɛe lan eka ibunadama keren keren ma xun magaga fee ma\nnaxe bara tuxunsan.\nSariyɛ solomananinde (9)\nNdende mulan a suxu tɔɲɛgɛ kui, amakankan xanamu bɔxi ma xandi ama.\nSariyɛ funde (10)\nAwayibiyaxi ibunadama xafe xa yaxandi alaxinɛra, alankɛnɛmaya kiti banxi\ntinxinyira, ayo nun ayalagi waxan naba.\nSariyɛ fu nun keren nde (11)\nXa sikɛnteya bara rasiga adamadi ndema fe kobi rabafe nde xunma,\nɲaxankatɛ yo mu daxa a bɛ sinden fo na fe yegi.\nMixi yo mulan axa makankan fendema naxan murotɔnxi bɔxi sariyɛe kui.\nƝaxanketɛ gbɛtɛ fan mu dɔxɔ ama naxan dangi yi fera ba tɛmui\nɲaxankatɛra.\nSariyɛ fu nun firinde (12)\nBirin nun a yɛtɛkan xafe raɲɛrɛki nara. Mixi ɲiya mu naxan yama. A na\nfindi axa denbaya xafera, a lingira xa fera, xanamu a hayie xafera naxan\na niɲɛma axa xɔrɛya nun a xa lasiriya nu mabere. Awayibiyaxi ibunadama\nbɛ, sariyɛ xa a xun magaga na fee ma.\nSariyɛ fu nun saxannde (13)\nAwayibixi mixi bɛ axa a sabatide sugandi anun axa ɲɛrɛ a sagora.\nAdamadi birin nɔma kelide a baride a sa sabati bɔxi gbɛtɛ ma. A man\ngbilen xa ma gbilenfe.\nSariyɛ fu nun naninde (14)\nXɔrɔ rɔe kui, daxa adamadi birin bɛ, axa siga bɔxi gbɛtɛ ma naxan nɔma",
-            "Image": "fbc5238b0c55777a1b88cb8f9a50c86c"
+            "Text": "Ndende mulan alu konyiya nun ɲaxankatɛ kui. Konyiya nun ibunadama sarɛ\nbara ratɔn akɛɲa birin ma.\nSariyɛ sulinde (5)\nƝaxankatɛ nun tɔrɛ mu sama ndende fari. Xanamu yayixarɛ naxan mulan\nibunadama bɛ.\nSariyɛ senninde (6)\nKankan xa adamaya daxa axa kolon yire birin.\nSariyɛ soloferende (7)\nAdamadi birin lan sariyɛe kui e man birin lan e xun xa magaga sariyɛe yi\nkɛɲa keren.\nSariyɛ solomasaxande (8)\nBɔoxi sariyɛ banxidɛe lan eka ibunadama keren keren ma xun magaga fee ma\nnaxe bara tuxunsan.\nSariyɛ solomananinde (9)\nNdende mulan a suxu tɔɲɛgɛ kui, amakankan xanamu bɔxi ma xandi ama.\nSariyɛ funde (10)\nAwayibiyaxi ibunadama xafe xa yaxandi alaxinɛra, alankɛnɛmaya kiti banxi\ntinxinyira, ayo nun ayalagi waxan naba.\nSariyɛ fu nun keren nde (11)\nXa sikɛnteya bara rasiga adamadi ndema fe kobi rabafe nde xunma,\nɲaxankatɛ yo mu daxa a bɛ sinden fo na fe yegi.\nMixi yo mulan axa makankan fendema naxan murotɔnxi bɔxi sariyɛe kui.\nƝaxanketɛ gbɛtɛ fan mu dɔxɔ ama naxan dangi yi fera ba tɛmui\nɲaxankatɛra.\nSariyɛ fu nun firinde (12)\nBirin nun a yɛtɛkan xafe raɲɛrɛki nara. Mixi ɲiya mu naxan yama. A na\nfindi axa denbaya xafera, a lingira xa fera, xanamu a hayie xafera naxan\na niɲɛma axa xɔrɛya nun a xa lasiriya nu mabere. Awayibiyaxi ibunadama\nbɛ, sariyɛ xa a xun magaga na fee ma.\nSariyɛ fu nun saxannde (13)\nAwayibixi mixi bɛ axa a sabatide sugandi anun axa ɲɛrɛ a sagora.\nAdamadi birin nɔma kelide a baride a sa sabati bɔxi gbɛtɛ ma. A man\ngbilen xa ma gbilenfe.\nSariyɛ fu nun naninde (14)\nXɔrɔ rɔe kui, daxa adamadi birin bɛ, axa siga bɔxi gbɛtɛ ma naxan nɔma"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "b717d21ec76f99b8018c469e10073a00",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "arasɛnɛ de alako axa axun na kisi.\nNa sariyɛ daxa exa raba tinxinyi fari, kirae fari naxan aniɲɛma adamadi\nmulu tɔɲɛgɛ kui O.N.U. sariyɛ tɔnyi dɔxi naxe ra.\nSariyɛ fu nun sulinde (15)\nAdaxa adamadi birin bɛ sɔtɔ de fe ya xa i mini a bɛ.\nNdende mu daxa ixa ratɔn i sɔtɔ de xa fera, xanamu iratɔnfe sɔtɔde\nmasara fera.\nSariyɛ fu nun senninde (16)\nXa ginɛ nun xamɛ bara suda kamali, adaxa e xa futi raso e tagi, na mufa\nsiɲɔxɔya ma, baride fema, xanamu dinɛ fema. A man daxa e bɛ, e yɛtɛ xa\ndenbaya rasabati. E man lan sariyɛ kima futi kui nun futi galife kui.\nFuti mu nɔma sode fo ginɛ nun xamɛ lan fe keren ma.\nƝama xundɛ singe lanxi denbaya nan ma, adaxa na denbaya xun xa makanta\nɲama nun mangasanyi yira.\nSariyɛ fu nun solofere nde (17)\nMixi nalu a keren ma xanamu ɲama nde kui, awayibiya xi a sɔtɔde xa lu a\nsago.\nFunmalaya nde yo mulan axa adamadi sɔtɔse yira.\nSariyɛ fu nun soloma saxan nde (18)\nAdamadi birin lan axa axa maɲɔxunyi masen a sagora, a xaxili rawali, a\nso dinɛ a sagora. Na sariyɛe nɔma a niɲɛde adamadi dinɛ masara, a nɔma\ndɛnxɛniya de a keren xanamu ɲama yama lɔnni nun namunyie sabura.\nSariyɛ fu nun solomanani nde (19)\nAdaxa adamadi birin bɛ axa afondo fe masen. Nakui a mulan axa tɔɲɛ\nmafixɛ nde sɔtɔ. Na fondo fe masenyi nɔmɔ rabade naninyi yo mulu ama, a\nfa findi xibaru fenfera, amasɔtɔfera, xanamu ara wundan fera kɛɲa mɔli\nbirin na.\nSariyɛ mɔxɛɲɛnnde (20)\nAdaxa adamadi birin bɛ axa lan malanyi, xanamu malanyi xundɛ nde bɔɲɛ sa\nnaxan kui.\nNdende mu karaxan ma sofera lanxundɛ nde yama.\nSariyɛ mɔxɛɲɛnnun keren nde (21)\nAdaxa adamadi birin ɲiya xalu axa bɔxi raɲɛrɛfe kui, a findi i yɛtɛra\nxanamu mixi gbɛtɛ naxan sugandixi.\nAdaxa adamadi birin bɛ axa mangasanyi wali sɔtɔ a bari bɔxi ma ta girasa\nyo mu naxɛ.",
-            "Image": "b717d21ec76f99b8018c469e10073a00"
+            "Text": "arasɛnɛ de alako axa axun na kisi.\nNa sariyɛ daxa exa raba tinxinyi fari, kirae fari naxan aniɲɛma adamadi\nmulu tɔɲɛgɛ kui O.N.U. sariyɛ tɔnyi dɔxi naxe ra.\nSariyɛ fu nun sulinde (15)\nAdaxa adamadi birin bɛ sɔtɔ de fe ya xa i mini a bɛ.\nNdende mu daxa ixa ratɔn i sɔtɔ de xa fera, xanamu iratɔnfe sɔtɔde\nmasara fera.\nSariyɛ fu nun senninde (16)\nXa ginɛ nun xamɛ bara suda kamali, adaxa e xa futi raso e tagi, na mufa\nsiɲɔxɔya ma, baride fema, xanamu dinɛ fema. A man daxa e bɛ, e yɛtɛ xa\ndenbaya rasabati. E man lan sariyɛ kima futi kui nun futi galife kui.\nFuti mu nɔma sode fo ginɛ nun xamɛ lan fe keren ma.\nƝama xundɛ singe lanxi denbaya nan ma, adaxa na denbaya xun xa makanta\nɲama nun mangasanyi yira.\nSariyɛ fu nun solofere nde (17)\nMixi nalu a keren ma xanamu ɲama nde kui, awayibiya xi a sɔtɔde xa lu a\nsago.\nFunmalaya nde yo mulan axa adamadi sɔtɔse yira.\nSariyɛ fu nun soloma saxan nde (18)\nAdamadi birin lan axa axa maɲɔxunyi masen a sagora, a xaxili rawali, a\nso dinɛ a sagora. Na sariyɛe nɔma a niɲɛde adamadi dinɛ masara, a nɔma\ndɛnxɛniya de a keren xanamu ɲama yama lɔnni nun namunyie sabura.\nSariyɛ fu nun solomanani nde (19)\nAdaxa adamadi birin bɛ axa afondo fe masen. Nakui a mulan axa tɔɲɛ\nmafixɛ nde sɔtɔ. Na fondo fe masenyi nɔmɔ rabade naninyi yo mulu ama, a\nfa findi xibaru fenfera, amasɔtɔfera, xanamu ara wundan fera kɛɲa mɔli\nbirin na.\nSariyɛ mɔxɛɲɛnnde (20)\nAdaxa adamadi birin bɛ axa lan malanyi, xanamu malanyi xundɛ nde bɔɲɛ sa\nnaxan kui.\nNdende mu karaxan ma sofera lanxundɛ nde yama.\nSariyɛ mɔxɛɲɛnnun keren nde (21)\nAdaxa adamadi birin ɲiya xalu axa bɔxi raɲɛrɛfe kui, a findi i yɛtɛra\nxanamu mixi gbɛtɛ naxan sugandixi.\nAdaxa adamadi birin bɛ axa mangasanyi wali sɔtɔ a bari bɔxi ma ta girasa\nyo mu naxɛ."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "4c42310eafa37c857a580396b09b2862",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Ɲama waxɔnfe lanma axa masen sugandi tinxinxi kui, naxan nabama tɛmui-\ntɛmui ma, birin lan sugandi naxan kui, kundo sugandi xanamu sugandi\nlankɛnɛ maya xi matexɛtɛnyi mu naxan kui.\nSariyɛ mɔxɔɲɛn nun firin nde (22)\nWayibiya nara ɲamanɛ mixi birin xun xa makanta, na findixi daxamuife,\ndɔxɔboreya nun lɔnni ratinmɛ sabu nan na. Na fee birin fatanma bɔxi\ndiexa duruxɔtɔɛ nun xanunteya luti naxan na e nun bɔxi gbɛtɛe safera\nbɔxi yayilanki fari nun a daxamuie.\nSariyɛ mɔxɔɲɛn nun saxan nde (23)\nWali, nun mixi waxɔn wali sugandi fe wayibiya xi birin bɛ. Birin ma lan\nwali munafanyi kui, aman daxa a xun xa makanta wali sɔtɔtareya ma.\nAdaxa birin bɛ fisamanteya mu naxan yama, a mu sundi sɔtɔ axa wali bɛrɛ\nma.\nNdende walima, awayibiyaxi a bɛ axa musundi sɔtɔ naxan nɔma axa denbaya\nbun tide, a yigi nun binyɛ sa ma, a man nɔ a malide sabu gbɛtɛe sɔtɔ\nfera naxan ibunadama xafe makanta ma.\nAdaxa adamadi birin bɛ axa walikɛe xa lanxundɛ nde yayilan e xa\nmunafanyi xun magaga fera.\nSariyɛ mɔxɛɲɛn nun naninde (24)\nMalabui nun ɲaxɛ-ɲaxɛ daxa adamadi birin bɛ a man daxa a bɛ axa wali\ntɛmui xa sugandi, malabui waxatie xa lu a bɛ a naxee sare sɔtɔma.\nSariyɛ mɔxɛɲɛn nun suli nde (25)\nAdaxa adamadi birin bɛ axa sabati sɔtɔ alako axa santeya xa makanta. A\ntan nun axa denbaya xa yiriwɛ sɔtɔ donse fe kima, sosefe, lingirafe,\nsaribafe anun ibunadama xafe yayiba fe nax an fan a bɛ. A xun xa makanta\nxa bara fura, xa lanyuri bara a sɔtɔ, xa bara fori, xa muna walide, xa\nkaɲɛ ginɛ nora xanamu fɛrɛ yo muna ayi naxan axa mantɔrɔli bama.\nMali wayibiyaxi nɛ dingɛya bɛ nun dimɛdiya bɛ. Dimɛdi birin lan axa mɛni\nkɛɲa keren, a fa sɔtɔ futi kui xanamu a fari ma.\nSariyɛ mɔxɛɲɛn nun seni nde (26)\nAdamadi daxa axa matinxin; na matinxinyi daxa axa sa birin sago naxan\nfindi dimɛdi xunxurie nun a matexie xaran fera. Xarande banxi xundɛ\nsinge sofe findixi teku non na. Yamakɔta xaranyi nun yirawali xaranyi\nlanma axa rayiriwa. Lɔnni banxindɛ xungbe wayibiya xi birin bɛ, birin\nnun a xaxili bɛrɛ.\nLɔnni lan axa sɛnbɛ fi adamayama amakɛnɛn, a sɛnbɛ fi ibunadama xa\nwayibiyae ma. Alan, axa faxamui, di ɲɛ, marafanyi rasɔnɛya ɲamanɛe tagi,\nsie birin tagi, dinɛ xundɛe tagi nun O.N.U. malanyi xa walie rasabati fe\nbɔɲɛ sa kui.\nAdaxaxinɛ di kanyie bɛ e xa xuri sugandi e naxan fima e xadie ma.",
-            "Image": "4c42310eafa37c857a580396b09b2862"
+            "Text": "Ɲama waxɔnfe lanma axa masen sugandi tinxinxi kui, naxan nabama tɛmui-\ntɛmui ma, birin lan sugandi naxan kui, kundo sugandi xanamu sugandi\nlankɛnɛ maya xi matexɛtɛnyi mu naxan kui.\nSariyɛ mɔxɔɲɛn nun firin nde (22)\nWayibiya nara ɲamanɛ mixi birin xun xa makanta, na findixi daxamuife,\ndɔxɔboreya nun lɔnni ratinmɛ sabu nan na. Na fee birin fatanma bɔxi\ndiexa duruxɔtɔɛ nun xanunteya luti naxan na e nun bɔxi gbɛtɛe safera\nbɔxi yayilanki fari nun a daxamuie.\nSariyɛ mɔxɔɲɛn nun saxan nde (23)\nWali, nun mixi waxɔn wali sugandi fe wayibiya xi birin bɛ. Birin ma lan\nwali munafanyi kui, aman daxa a xun xa makanta wali sɔtɔtareya ma.\nAdaxa birin bɛ fisamanteya mu naxan yama, a mu sundi sɔtɔ axa wali bɛrɛ\nma.\nNdende walima, awayibiyaxi a bɛ axa musundi sɔtɔ naxan nɔma axa denbaya\nbun tide, a yigi nun binyɛ sa ma, a man nɔ a malide sabu gbɛtɛe sɔtɔ\nfera naxan ibunadama xafe makanta ma.\nAdaxa adamadi birin bɛ axa walikɛe xa lanxundɛ nde yayilan e xa\nmunafanyi xun magaga fera.\nSariyɛ mɔxɛɲɛn nun naninde (24)\nMalabui nun ɲaxɛ-ɲaxɛ daxa adamadi birin bɛ a man daxa a bɛ axa wali\ntɛmui xa sugandi, malabui waxatie xa lu a bɛ a naxee sare sɔtɔma.\nSariyɛ mɔxɛɲɛn nun suli nde (25)\nAdaxa adamadi birin bɛ axa sabati sɔtɔ alako axa santeya xa makanta. A\ntan nun axa denbaya xa yiriwɛ sɔtɔ donse fe kima, sosefe, lingirafe,\nsaribafe anun ibunadama xafe yayiba fe nax an fan a bɛ. A xun xa makanta\nxa bara fura, xa lanyuri bara a sɔtɔ, xa bara fori, xa muna walide, xa\nkaɲɛ ginɛ nora xanamu fɛrɛ yo muna ayi naxan axa mantɔrɔli bama.\nMali wayibiyaxi nɛ dingɛya bɛ nun dimɛdiya bɛ. Dimɛdi birin lan axa mɛni\nkɛɲa keren, a fa sɔtɔ futi kui xanamu a fari ma.\nSariyɛ mɔxɛɲɛn nun seni nde (26)\nAdamadi daxa axa matinxin; na matinxinyi daxa axa sa birin sago naxan\nfindi dimɛdi xunxurie nun a matexie xaran fera. Xarande banxi xundɛ\nsinge sofe findixi teku non na. Yamakɔta xaranyi nun yirawali xaranyi\nlanma axa rayiriwa. Lɔnni banxindɛ xungbe wayibiya xi birin bɛ, birin\nnun a xaxili bɛrɛ.\nLɔnni lan axa sɛnbɛ fi adamayama amakɛnɛn, a sɛnbɛ fi ibunadama xa\nwayibiyae ma. Alan, axa faxamui, di ɲɛ, marafanyi rasɔnɛya ɲamanɛe tagi,\nsie birin tagi, dinɛ xundɛe tagi nun O.N.U. malanyi xa walie rasabati fe\nbɔɲɛ sa kui.\nAdaxaxinɛ di kanyie bɛ e xa xuri sugandi e naxan fima e xadie ma."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "d168effc4a8d237b5a1cd8eedd488d15",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Sariyɛ mɔxɛɲɛn nun solofere nde (27)\nAdaxa adamadi birin bɛ a so ɲama xa lɔnni yayibafe a yɛtɛra. Abɛlɛxɛ\nrawalie tɔnɛ sɔtɔ yamakɔta walie nun munafanyie naxe minima a kui.\nAdaxa birin bɛ axa xaxili rawali, a bɛlɛxɛ rawali nun yamakɔta walie\nmunafanyi xun magaga naxee yayilan fe fatanxi atan na.\nSariyɛ mɔxɛɲɛn nun solomasaxan nde (28)\nAdaxa adamadi birin bɛ axa a fondo rasiga yi sariyɛe ratinmɛ fe xɔn\nɲamanɛ kui nun a farima.\nSariyɛ mɔxɛɲɛn nun solomanani nde (29)\nLanlɛ rakamali daxi na ibunadama bɛ axa ɲama kui, ɲama naxan findi axa\nadamaya a nun axa yɛtɛralui sabura.\nSariɛyɛ dande saxinɛ adamadi birin bɛ axa maraba, a nun axa yɛtɛralui\nrasabati kui, na nan aniɲɛma axa na maraba anun axa yɛtɛralui mabanban\nsadɔxɔfe mixi gbɛtɛ ra alako taxasi nun yiriwɛ sabati ma ɲama kui kinaxɛ\nnaxan a yɛtɛ ra.\nNa wayibiyae nun na yɛtɛ ralui mu nɔma rabade muku O.N.U. waxɔnfe nun\naxa sariyɛ saxie xanbi.\nSariyɛ tongosaxan nde (30)\nSariyɛ nun wayibiya yo muna yi masenyi xungbe kui naxan kiraya nde\nmasenxi ɲamanɛ bɛ, malanyi xanamu mixi nde bɛ naxan aniɲɛma axa kɛwali\nnde raba naxan sabui nɔma mayibiya e nun sariyɛe naxee masen xi nee\nxunnakanade.",
-            "Image": "d168effc4a8d237b5a1cd8eedd488d15"
+            "Text": "Sariyɛ mɔxɛɲɛn nun solofere nde (27)\nAdaxa adamadi birin bɛ a so ɲama xa lɔnni yayibafe a yɛtɛra. Abɛlɛxɛ\nrawalie tɔnɛ sɔtɔ yamakɔta walie nun munafanyie naxe minima a kui.\nAdaxa birin bɛ axa xaxili rawali, a bɛlɛxɛ rawali nun yamakɔta walie\nmunafanyi xun magaga naxee yayilan fe fatanxi atan na.\nSariyɛ mɔxɛɲɛn nun solomasaxan nde (28)\nAdaxa adamadi birin bɛ axa a fondo rasiga yi sariyɛe ratinmɛ fe xɔn\nɲamanɛ kui nun a farima.\nSariyɛ mɔxɛɲɛn nun solomanani nde (29)\nLanlɛ rakamali daxi na ibunadama bɛ axa ɲama kui, ɲama naxan findi axa\nadamaya a nun axa yɛtɛralui sabura.\nSariɛyɛ dande saxinɛ adamadi birin bɛ axa maraba, a nun axa yɛtɛralui\nrasabati kui, na nan aniɲɛma axa na maraba anun axa yɛtɛralui mabanban\nsadɔxɔfe mixi gbɛtɛ ra alako taxasi nun yiriwɛ sabati ma ɲama kui kinaxɛ\nnaxan a yɛtɛ ra.\nNa wayibiyae nun na yɛtɛ ralui mu nɔma rabade muku O.N.U. waxɔnfe nun\naxa sariyɛ saxie xanbi.\nSariyɛ tongosaxan nde (30)\nSariyɛ nun wayibiya yo muna yi masenyi xungbe kui naxan kiraya nde\nmasenxi ɲamanɛ bɛ, malanyi xanamu mixi nde bɛ naxan aniɲɛma axa kɛwali\nnde raba naxan sabui nɔma mayibiya e nun sariyɛe naxee masen xi nee\nxunnakanade."
         }
     }
 }

@@ -1,141 +1,141 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581469084,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "7d1432bfa1f01e88835812cdc0122230",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Tibilii hʋ nɩrɔrɩ dɩɩ fɛʋ rà\nDɩ ther jʋʋrpar sɩ sɩ tu a jɩ dɩɩ do samɩnɩ kɛ cɔtoo sʋnɔ na fɛʋ caar rà hananɩ, nà ɛɛ punu kɛ makhanɩ, a\ndoni thɩn pemnaniaʔ, n gbɛwa a do cɩr sɩ deeduur à n ha le baanʔ. Ɛr n gbɛwa a do cɩr sɩ dɩkhan wo cʋʋpa\nsar nà haarʔyii ha kɛ dɩɩ kɛɛ bʋnɔ,\nDɩ ther jʋʋrpar sɩ sɩ tu a jɩ, mɔ wa turoni sɩ a guura Tibilii hʋ kaankɛ a hananɩ hʋɔaʔ, dɩ dor nɔɔ, sɩ ado\nteehuu kpɩɛr jɩna kpoori kɛ wʋ n kpoo wɔrnɩ, dɩ n jama. Sɩ dɩkhan wo thɩn kontinn kɛ hanɩ tbilii kpɩɛr rà, a\ntini gbelengbelen nɩna, dɔ dɩɩ kɛ wa thɩɩnɩ a do kaankɛ teehuu sʋnɔ na ná phɩrnɩ nʋɔaʔ; sɩ wʋ hana tuur,\nwʋ ʔli taarɩ, maar kɛ n kʋ yɛnɩ cillo nà bɔkʋ kontinn ɩn tɔ dɩ hʋnɔ yɛr.\nDɩ ther jʋʋrpar sɩ sɩ tu a jɩ dɩ fɩrrɛ, Tibilii hʋ ra ɩn ʔli cɛɛrɩ dɩ the jɔfa sar rà, dɩ ha mɛ thɩɛn ná fɩr wʋ, a\nkpɩɛr a thʋnɔ sɩ a ɩɩr a jamanɔ pesidan puu sʋnɔ kɛ n kʋʋrnɩ tɩbɩla nà ɛ n hʋɔl yɛrnɩ dɩ n ha na nɩ yɛ\nkoraʔ.\nDɩ ther jʋʋrpar sɩ sɩ tu a jɩ dɩ fɩrrɛ dɩ dɩɩ sʋnɔ ná ʔli bulli dɩ nawɛ ná khɔn ɛɛ thinthinn,\nDɩ ther jʋʋrpar sɩ sɩ tu a jɩ dɩɩ do le Jɔfa Sɛbɛ bʋnɔ na, dɩɩ sʋnɔ kɛ kpanɩ gbɛʋ, ɛɛ too sʋnɔ burre nɩna\ngbelengbelen ɛɛ tuur kɛ wʋ hananɩ Tibilii tɔntɔn pununi na, samɩnɩ na nà teehuu dɩfɩ rà, na mɔ kɛ kɔna nà\nkhɛra makhanɩ jɔfa ɩɩrɩ rà. Sɩ dɩkhan wo, wʋ turi khor sɩ wʋ faa hʋɔ tɩbɩla fɛʋ ɩn gal ʔyɛkʋlʋɔ, sɩ wʋ\nthɩɩnn jɔfa kɛ ná cʋʋnɩ dɩ deeduur ná ha fɩɩʋ nakɛaʔ,\nDɩ ther jʋʋrpar sɩ sɩ tu a jɩ sɩ dɩɩ sʋnɔ na gbɛʋnɩkha turina ʋlfɛrɩ wʋ bulkha nà Dɩɩ sʋnɔ kɛ ra gbɛʋnɩɩ\nGbulun,waan jʋʋr mɔ dɩɩ sʋnɔ fɛʋ, par rà fɛʋ, ná fʋnɩ sɩ wʋ gbarɔ yʋʋ Tibilii hʋ nà ɛ tɛɛna yɛnɩ dɩ wa\nsɔl na cʋʋ dɩ deeduur ná ha baanʔ,\nDɩ ther jʋʋrpar sɩ gbɛʋkhadara ra tu a jɩ sɩ guurkha jɔfa sʋnɔ le rà ra na mɔ deeduur a hanɩ baanʔ, dʋʋnn\nthɩn kontinn karoni ɛ fɛʋ rà , wa gbanɩ wʋ cʋʋna ɩrɛ hanɩ ɛɛ kpɩɛr rà, wʋ turonina ʋlfɛrɩ,",
-            "Image": "7d1432bfa1f01e88835812cdc0122230"
+            "Text": "Tibilii hʋ nɩrɔrɩ dɩɩ fɛʋ rà\nDɩ ther jʋʋrpar sɩ sɩ tu a jɩ dɩɩ do samɩnɩ kɛ cɔtoo sʋnɔ na fɛʋ caar rà hananɩ, nà ɛɛ punu kɛ makhanɩ, a\ndoni thɩn pemnaniaʔ, n gbɛwa a do cɩr sɩ deeduur à n ha le baanʔ. Ɛr n gbɛwa a do cɩr sɩ dɩkhan wo cʋʋpa\nsar nà haarʔyii ha kɛ dɩɩ kɛɛ bʋnɔ,\nDɩ ther jʋʋrpar sɩ sɩ tu a jɩ, mɔ wa turoni sɩ a guura Tibilii hʋ kaankɛ a hananɩ hʋɔaʔ, dɩ dor nɔɔ, sɩ ado\nteehuu kpɩɛr jɩna kpoori kɛ wʋ n kpoo wɔrnɩ, dɩ n jama. Sɩ dɩkhan wo thɩn kontinn kɛ hanɩ tbilii kpɩɛr rà, a\ntini gbelengbelen nɩna, dɔ dɩɩ kɛ wa thɩɩnɩ a do kaankɛ teehuu sʋnɔ na ná phɩrnɩ nʋɔaʔ; sɩ wʋ hana tuur,\nwʋ ʔli taarɩ, maar kɛ n kʋ yɛnɩ cillo nà bɔkʋ kontinn ɩn tɔ dɩ hʋnɔ yɛr.\nDɩ ther jʋʋrpar sɩ sɩ tu a jɩ dɩ fɩrrɛ, Tibilii hʋ ra ɩn ʔli cɛɛrɩ dɩ the jɔfa sar rà, dɩ ha mɛ thɩɛn ná fɩr wʋ, a\nkpɩɛr a thʋnɔ sɩ a ɩɩr a jamanɔ pesidan puu sʋnɔ kɛ n kʋʋrnɩ tɩbɩla nà ɛ n hʋɔl yɛrnɩ dɩ n ha na nɩ yɛ\nkoraʔ.\nDɩ ther jʋʋrpar sɩ sɩ tu a jɩ dɩ fɩrrɛ dɩ dɩɩ sʋnɔ ná ʔli bulli dɩ nawɛ ná khɔn ɛɛ thinthinn,\nDɩ ther jʋʋrpar sɩ sɩ tu a jɩ dɩɩ do le Jɔfa Sɛbɛ bʋnɔ na, dɩɩ sʋnɔ kɛ kpanɩ gbɛʋ, ɛɛ too sʋnɔ burre nɩna\ngbelengbelen ɛɛ tuur kɛ wʋ hananɩ Tibilii tɔntɔn pununi na, samɩnɩ na nà teehuu dɩfɩ rà, na mɔ kɛ kɔna nà\nkhɛra makhanɩ jɔfa ɩɩrɩ rà. Sɩ dɩkhan wo, wʋ turi khor sɩ wʋ faa hʋɔ tɩbɩla fɛʋ ɩn gal ʔyɛkʋlʋɔ, sɩ wʋ\nthɩɩnn jɔfa kɛ ná cʋʋnɩ dɩ deeduur ná ha fɩɩʋ nakɛaʔ,\nDɩ ther jʋʋrpar sɩ sɩ tu a jɩ sɩ dɩɩ sʋnɔ na gbɛʋnɩkha turina ʋlfɛrɩ wʋ bulkha nà Dɩɩ sʋnɔ kɛ ra gbɛʋnɩɩ\nGbulun,waan jʋʋr mɔ dɩɩ sʋnɔ fɛʋ, par rà fɛʋ, ná fʋnɩ sɩ wʋ gbarɔ yʋʋ Tibilii hʋ nà ɛ tɛɛna yɛnɩ dɩ wa\nsɔl na cʋʋ dɩ deeduur ná ha baanʔ,\nDɩ ther jʋʋrpar sɩ gbɛʋkhadara ra tu a jɩ sɩ guurkha jɔfa sʋnɔ le rà ra na mɔ deeduur a hanɩ baanʔ, dʋʋnn\nthɩn kontinn karoni ɛ fɛʋ rà , wa gbanɩ wʋ cʋʋna ɩrɛ hanɩ ɛɛ kpɩɛr rà, wʋ turonina ʋlfɛrɩ,"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "7f5ab7d61be2941e8ea9665438e3c78a",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Jʋʋrpar sʋnɔ kɛ rà ra dɩ the sɩ gbɛʋkhadara ra gba thɩn Nɩrɔrɩ kɛ doni Tibilii hʋ, theni Dɩɩ sʋnɔ kɛ rà\nkpanɩ gbɛʋʋ kpɩɛr rà, a nɩna dɩ sɔl dɩ do thɩɛn kɛ dɩtoona nà dɩɩ sʋnɔ na fɛʋ n bulni dɩ waan ʔyaal. A dɩ\nha mɛ tɩbɩla fɛʋ nà gbuluni sʋnɔ na fɛʋ kɩɛr dɩthɩɩ rà naa kpɩɛra bɔɔ fɛʋ Nɩrɔrɩ le ra, wʋ fɩr ɛɛ bara sɩ\nwaan dɩɩr tɩbɩla, waan dɩɩra bɩsana wʋ punu wʋ khɔn jɔfa le raa dɩfɩ rà sɩ wʋ jɩ deeduur caar ra fɛʋ pɩrɛ. Dɩ\nmɛ na, gbe gbe, wʋ gba fɩlwɛ, dapa kɛ wʋ hanɩ nà kaankɛ ɛɛ punu khuni, wʋ cʋʋ mɔ wa cʋʋnɩ sɩ tɩbɩla\nsʋnɔ kɛ hanɩ le dɩɩ sʋnɔ kɛ rà ra kpanɩ gbɛʋʋ thɩnthiinn, wʋ turo sɩ wʋ cʋʋ par rà fɛʋ mɔ dɩ sonina\nsʋnbɔr.\nVarpar 1\nTeehuu sʋnɔ n ther ɛɛ nɩɩ bʋnɔ wa n do deeaʔ sɩ wʋ n makha samɩnɩ na nà hʋ tɩnɛpar rà. Thangba ti yɛr à\npɛ yɛr jɩɩr nà fɩlwɛ sɩ a teena waan fʋkha omkhaa.\nVarpar 2\nTɩbɩla fɛʋ punune wʋ so jɔfa ra fɛʋ na mɔ deeduur a hanɩ baanʔ, soni kɩɛr Nɩrɔrɩ kɛ rà, ɛr dɩ tɩɩ. Sɩ lee\nkpini náa harɔ nakɛ dɩ do, caar, teebirduur yaa dabuloduur, kuunduur yaa khɛrduur, ca thɩmɩɩr, ɩ hʋkpapa,\nmɔ ɩntɛ ɩn kpɩɛrnɩ dɩɩ n gbɛɛsɩnɛ hana yaa ɩntɛ kpɩɛr ha nà haanɩ da, dɩda dʋʋn ɩntɛ doni yaa ɛ n cʋʋnɩ\nɩntɛɛ dʋɔ, ler, kɔnpar yaa thɩn ca dɩkha, dʋɔnn nɔɔaʔ.\nDɩ nakɛ wo, leeri náa ha le sɩ a ha fɩɩʋ nakɛaʔ dɩ do ɩntɛɛ dɩ yaa ɔɔ bän gbɛɛnsɩ, sarwɛ tipar, ɛ a doni\nkaankɛ a n kanɩ, dɔ nɔɔaʔ; a do nakɛ dɩɩ le ra yaa bäänn le ra a hana ɔɔ thɛthɛɛ punuaʔ yoo, aa ha dɩ\nnyɔkɔɔ, aà hana hʋɔ a cʋʋ thɩɛanʔ yaa wʋ pɩɛr wɔr thɩn dɩkha rà dɩ aà hana pununi caanʔ, da do nɔɔ dɩ\nleeri ná haaʔ.\nVarpar 3\nTibil woo tibil tɛɛnanɛ yiri, a tɛɛnanɛ a ná do deeaʔ sɩ aà tɛɛna wʋ fʋʋ pɛɛ ra pɛɛ wʋ khaann kaso rà sɩɩ\ndo wa kɔɔ kʋl ʔyɩɛ guur ɔɔ soaʔ.",
-            "Image": "7f5ab7d61be2941e8ea9665438e3c78a"
+            "Text": "Jʋʋrpar sʋnɔ kɛ rà ra dɩ the sɩ gbɛʋkhadara ra gba thɩn Nɩrɔrɩ kɛ doni Tibilii hʋ, theni Dɩɩ sʋnɔ kɛ rà\nkpanɩ gbɛʋʋ kpɩɛr rà, a nɩna dɩ sɔl dɩ do thɩɛn kɛ dɩtoona nà dɩɩ sʋnɔ na fɛʋ n bulni dɩ waan ʔyaal. A dɩ\nha mɛ tɩbɩla fɛʋ nà gbuluni sʋnɔ na fɛʋ kɩɛr dɩthɩɩ rà naa kpɩɛra bɔɔ fɛʋ Nɩrɔrɩ le ra, wʋ fɩr ɛɛ bara sɩ\nwaan dɩɩr tɩbɩla, waan dɩɩra bɩsana wʋ punu wʋ khɔn jɔfa le raa dɩfɩ rà sɩ wʋ jɩ deeduur caar ra fɛʋ pɩrɛ. Dɩ\nmɛ na, gbe gbe, wʋ gba fɩlwɛ, dapa kɛ wʋ hanɩ nà kaankɛ ɛɛ punu khuni, wʋ cʋʋ mɔ wa cʋʋnɩ sɩ tɩbɩla\nsʋnɔ kɛ hanɩ le dɩɩ sʋnɔ kɛ rà ra kpanɩ gbɛʋʋ thɩnthiinn, wʋ turo sɩ wʋ cʋʋ par rà fɛʋ mɔ dɩ sonina\nsʋnbɔr.\nVarpar 1\nTeehuu sʋnɔ n ther ɛɛ nɩɩ bʋnɔ wa n do deeaʔ sɩ wʋ n makha samɩnɩ na nà hʋ tɩnɛpar rà. Thangba ti yɛr à\npɛ yɛr jɩɩr nà fɩlwɛ sɩ a teena waan fʋkha omkhaa.\nVarpar 2\nTɩbɩla fɛʋ punune wʋ so jɔfa ra fɛʋ na mɔ deeduur a hanɩ baanʔ, soni kɩɛr Nɩrɔrɩ kɛ rà, ɛr dɩ tɩɩ. Sɩ lee\nkpini náa harɔ nakɛ dɩ do, caar, teebirduur yaa dabuloduur, kuunduur yaa khɛrduur, ca thɩmɩɩr, ɩ hʋkpapa,\nmɔ ɩntɛ ɩn kpɩɛrnɩ dɩɩ n gbɛɛsɩnɛ hana yaa ɩntɛ kpɩɛr ha nà haanɩ da, dɩda dʋʋn ɩntɛ doni yaa ɛ n cʋʋnɩ\nɩntɛɛ dʋɔ, ler, kɔnpar yaa thɩn ca dɩkha, dʋɔnn nɔɔaʔ.\nDɩ nakɛ wo, leeri náa ha le sɩ a ha fɩɩʋ nakɛaʔ dɩ do ɩntɛɛ dɩ yaa ɔɔ bän gbɛɛnsɩ, sarwɛ tipar, ɛ a doni\nkaankɛ a n kanɩ, dɔ nɔɔaʔ; a do nakɛ dɩɩ le ra yaa bäänn le ra a hana ɔɔ thɛthɛɛ punuaʔ yoo, aa ha dɩ\nnyɔkɔɔ, aà hana hʋɔ a cʋʋ thɩɛanʔ yaa wʋ pɩɛr wɔr thɩn dɩkha rà dɩ aà hana pununi caanʔ, da do nɔɔ dɩ\nleeri ná haaʔ.\nVarpar 3\nTibil woo tibil tɛɛnanɛ yiri, a tɛɛnanɛ a ná do deeaʔ sɩ aà tɛɛna wʋ fʋʋ pɛɛ ra pɛɛ wʋ khaann kaso rà sɩɩ\ndo wa kɔɔ kʋl ʔyɩɛ guur ɔɔ soaʔ."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "b6497f39c9b40db029c402108c19cf05",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Varpar 4\nTɩbɩl a tɛɛna wʋ tuu deeduur rà yaa waan hʋɔl wɔraʔ; deeduur ra nà deether ra náa ʔla ha le baanʔ sɩɩ do\ngbe yɩ nakɛaʔ.\nVarpar 5\nTibil a tɛɛna wʋ dɔɔyaaaʔ yaa wʋ pɩɛ pɛbaan yaa wʋ cʋʋ wʋ cʋʋ ca dɩkha kɛ puuroni, a tɛɛnanɩ dɩ cʋʋ\ntibil làaʔ yaa dɩ phiiaʔ.\nVarpar 6\nTɩbɩla fɛʋ tɛɛnanɩ par fɛʋ kɛ wʋ hanɩ tɩbɩla n hana tuur ɛɛ jɔfa rà.\nVarpar 7\nTɩbila la fɛʋ makhar jɔfɩ raa ʔyɛkʋlʋɔ, sɩ a hana hʋɔ jɔfɩ ra n cɛɛ yɛ cɛɛ bɩɛl sɩ a ná pɛrrɛ pɛlɛ Tɩbɩla\nfɛʋ hananɛ hʋɔ dɩ wa cɛɛ yɛ cɛɛ bɩɛl thɩn caar fɛʋ kɛ rà n pɛ yɛrnɩ leeri nà cʋʋpa caar fɛʋ kɛ pununi dɩ\nɩna yɛr leeri, sɩ dɩɩ n dɩ Nɩrɔrɩ kɛ rà.\nVarpar 8\nTibil woo tibil hananɛ hʋɔ vʋʋn a so soguurpar kɛ rà, le dɩɩ rà, jɩɩr, ʋnɩ a tu thɩn puu kɛ wʋ cʋʋ nɛrnɩ a\ndɩna cɛcɛ jɔfa rà sɩ a faana dɩɩ raa hʋ kɛ a ha nɩnɩaʔ yaa cɛɛrɩ kɛ jɔfɩ ra n cɛɛ nɛr nɩaʔ.\nVarpar 9\nTibil ná punu wʋ fʋʋ yaa wʋ khaann wʋ kaso rà yaa wʋ welen wʋ nà fanga wʋ faa dɩ banwɔ daʔbuul làaʔ.\nVarpar 10\nTibil woo tibil hananɛ hʋɔ ʔbilami a makha nà ɛ, dɩ wa guur ɔɔ so tɩbɩ fɛʋʋ ʔyɛkʋlʋɔ, soguurpar rà kɛ",
-            "Image": "b6497f39c9b40db029c402108c19cf05"
+            "Text": "Varpar 4\nTɩbɩl a tɛɛna wʋ tuu deeduur rà yaa waan hʋɔl wɔraʔ; deeduur ra nà deether ra náa ʔla ha le baanʔ sɩɩ do\ngbe yɩ nakɛaʔ.\nVarpar 5\nTibil a tɛɛna wʋ dɔɔyaaaʔ yaa wʋ pɩɛ pɛbaan yaa wʋ cʋʋ wʋ cʋʋ ca dɩkha kɛ puuroni, a tɛɛnanɩ dɩ cʋʋ\ntibil làaʔ yaa dɩ phiiaʔ.\nVarpar 6\nTɩbɩla fɛʋ tɛɛnanɩ par fɛʋ kɛ wʋ hanɩ tɩbɩla n hana tuur ɛɛ jɔfa rà.\nVarpar 7\nTɩbila la fɛʋ makhar jɔfɩ raa ʔyɛkʋlʋɔ, sɩ a hana hʋɔ jɔfɩ ra n cɛɛ yɛ cɛɛ bɩɛl sɩ a ná pɛrrɛ pɛlɛ Tɩbɩla\nfɛʋ hananɛ hʋɔ dɩ wa cɛɛ yɛ cɛɛ bɩɛl thɩn caar fɛʋ kɛ rà n pɛ yɛrnɩ leeri nà cʋʋpa caar fɛʋ kɛ pununi dɩ\nɩna yɛr leeri, sɩ dɩɩ n dɩ Nɩrɔrɩ kɛ rà.\nVarpar 8\nTibil woo tibil hananɛ hʋɔ vʋʋn a so soguurpar kɛ rà, le dɩɩ rà, jɩɩr, ʋnɩ a tu thɩn puu kɛ wʋ cʋʋ nɛrnɩ a\ndɩna cɛcɛ jɔfa rà sɩ a faana dɩɩ raa hʋ kɛ a ha nɩnɩaʔ yaa cɛɛrɩ kɛ jɔfɩ ra n cɛɛ nɛr nɩaʔ.\nVarpar 9\nTibil ná punu wʋ fʋʋ yaa wʋ khaann wʋ kaso rà yaa wʋ welen wʋ nà fanga wʋ faa dɩ banwɔ daʔbuul làaʔ.\nVarpar 10\nTibil woo tibil hananɛ hʋɔ ʔbilami a makha nà ɛ, dɩ wa guur ɔɔ so tɩbɩ fɛʋʋ ʔyɛkʋlʋɔ, soguurpar rà kɛ"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "863cca5979a50c4d5cc9481fe5e1ba67",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "hananɩ dapunu, à n kunkuuniaʔ. ra ná nɛ wɔr ɔɔ jɔfa nà ɛ tɛɛnanɩ dɩɩ ná cʋʋ, sɩ a ná suu, hʋɔ kɛ dɩ kpanɩ\nsɩ dɩ waan guur wʋ sor, wʋ fʋʋ wʋ khaann.\nVarpar 11\nTibil woo tibil kɛ wʋ n baalɔnɩ dɩɩ n ho ɔr cʋʋ thɩn puu, aà do sopucʋʋrdaar pɩaʔ foo wʋ guur ɔɔ so tɩbɩla\nfɛʋʋ ʔyɛkʋlʋɔ wʋ yɛɛ dɩ aà hana hʋɔaʔ. Wa cʋʋrɛ mɔ wa cʋʋnɩ le guurpar rà sɩ wʋ ʔyaal jɔfɩjɩ wʋ haa,\na mɩɩ thɩmɩɩr ra a haa sɩ a punu a pɛ wɔr.\nTibili woo tibil ná lon kaso rà sɩɩ do dabɔɔ kɛ a n kɔɔ cʋʋnɩ sopuu le yaa a kɔɔ dinani thɩn bɔ ca dɩkha\ncʋʋrɩ, dɩɩ raa jɔfɩ yaa dɩ kpii jɔfɩ à kɔɔ thera yɛ dɩɩ n do sopuuaʔ. Dɩkhan wo wá khaann tibil yɛ nʋɔ ɩn jɔ\nɛ jɔfɩ soni wʋ hana ɩntɛ bɔɔ kɛ sopuu ra kɔɔnɩ cʋʋaʔ.\nVarpar 12\nTibil woo tibil a tɛɛna wʋ ʔlɔɔ ɔɔ thɛthɛɛ yi rà, ɔɔ cɔtoo rà, wʋ lon ɔɔ cɔaʔ yaa wʋ khɛr ɔɔ lɛtɛrɛ wʋ\nhiinnaʔ yaa wʋ pɩɛ wer nuuaʔ yaa wʋ phii sɩ kʋɛ wʋ iri, sɩɩ do hʋɔ a harɔaʔ. Tibil woo tibil tɛɛnanɛ jɔfɩ\nra ɩn cɛɛ wɔr ʔlɔɔrɩ rà nà phiir caar caar rà.\nVarpar 13\nTibil woo tibil hananɛ hʋɔ a naa kpaar baʔa sɩ a ʔyaal ɔɔ toopa dɩ ʋkhaa thinthiinn.\nTibil woo tibil hannanɛ hʋɔ a the dɩɩ fɛʋ rà, ɔɔ thɛthɛɛ dʋɔ a bo harɔaʔ, a kpaar, sɩ a bur a cɛr a ɩn.\nVarpar 14\nBɔɔ kɛ kpoori ɩɩrnɩ, tibil woo tibil hananɛ hʋɔ à ʔyaal wanpar dɩ wa faa wʋ dɩɩ na gal dɩ banwɔ.\nA ná punu ná so ʋnɩ hananɛ hʋɔ ʔlo ʋnɩ fuu ʋnɩ lon dɩ kpii rà sɩ sʋnbɔr a cʋʋrɛ sɔpu kontinn a dɩna tɩbɩla\nfɛʋ rà, yaa ɛ a cʋʋnɩ n gʋʋ Dɩɩ sʋnɔ kɛ kpanɩ gbɛʋʋ kpɩɛrnɔ rà sɩ a ha kpii nà ɛ wʋ n turoni, dɩ waan",
-            "Image": "863cca5979a50c4d5cc9481fe5e1ba67"
+            "Text": "hananɩ dapunu, à n kunkuuniaʔ. ra ná nɛ wɔr ɔɔ jɔfa nà ɛ tɛɛnanɩ dɩɩ ná cʋʋ, sɩ a ná suu, hʋɔ kɛ dɩ kpanɩ\nsɩ dɩ waan guur wʋ sor, wʋ fʋʋ wʋ khaann.\nVarpar 11\nTibil woo tibil kɛ wʋ n baalɔnɩ dɩɩ n ho ɔr cʋʋ thɩn puu, aà do sopucʋʋrdaar pɩaʔ foo wʋ guur ɔɔ so tɩbɩla\nfɛʋʋ ʔyɛkʋlʋɔ wʋ yɛɛ dɩ aà hana hʋɔaʔ. Wa cʋʋrɛ mɔ wa cʋʋnɩ le guurpar rà sɩ wʋ ʔyaal jɔfɩjɩ wʋ haa,\na mɩɩ thɩmɩɩr ra a haa sɩ a punu a pɛ wɔr.\nTibili woo tibil ná lon kaso rà sɩɩ do dabɔɔ kɛ a n kɔɔ cʋʋnɩ sopuu le yaa a kɔɔ dinani thɩn bɔ ca dɩkha\ncʋʋrɩ, dɩɩ raa jɔfɩ yaa dɩ kpii jɔfɩ à kɔɔ thera yɛ dɩɩ n do sopuuaʔ. Dɩkhan wo wá khaann tibil yɛ nʋɔ ɩn jɔ\nɛ jɔfɩ soni wʋ hana ɩntɛ bɔɔ kɛ sopuu ra kɔɔnɩ cʋʋaʔ.\nVarpar 12\nTibil woo tibil a tɛɛna wʋ ʔlɔɔ ɔɔ thɛthɛɛ yi rà, ɔɔ cɔtoo rà, wʋ lon ɔɔ cɔaʔ yaa wʋ khɛr ɔɔ lɛtɛrɛ wʋ\nhiinnaʔ yaa wʋ pɩɛ wer nuuaʔ yaa wʋ phii sɩ kʋɛ wʋ iri, sɩɩ do hʋɔ a harɔaʔ. Tibil woo tibil tɛɛnanɛ jɔfɩ\nra ɩn cɛɛ wɔr ʔlɔɔrɩ rà nà phiir caar caar rà.\nVarpar 13\nTibil woo tibil hananɛ hʋɔ a naa kpaar baʔa sɩ a ʔyaal ɔɔ toopa dɩ ʋkhaa thinthiinn.\nTibil woo tibil hannanɛ hʋɔ a the dɩɩ fɛʋ rà, ɔɔ thɛthɛɛ dʋɔ a bo harɔaʔ, a kpaar, sɩ a bur a cɛr a ɩn.\nVarpar 14\nBɔɔ kɛ kpoori ɩɩrnɩ, tibil woo tibil hananɛ hʋɔ à ʔyaal wanpar dɩ wa faa wʋ dɩɩ na gal dɩ banwɔ.\nA ná punu ná so ʋnɩ hananɛ hʋɔ ʔlo ʋnɩ fuu ʋnɩ lon dɩ kpii rà sɩ sʋnbɔr a cʋʋrɛ sɔpu kontinn a dɩna tɩbɩla\nfɛʋ rà, yaa ɛ a cʋʋnɩ n gʋʋ Dɩɩ sʋnɔ kɛ kpanɩ gbɛʋʋ kpɩɛrnɔ rà sɩ a ha kpii nà ɛ wʋ n turoni, dɩ waan"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "da24aa98508502e2c56808e7ed026774",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "ʔyaal wʋ nakɛ juuwei wʋ fʋaʔ.\nVarpar 15\nTibil woo tibil hananɛ hʋɔ a do dɩdaar.\nTibil woo tibil ná punu wʋ taa wɔr ɔɔ dɩdadoaʔ yaa wʋ kʋɛ hʋɔ kɛ a hananɩ a dɔna dɩda kpiiaʔ.\nVarpar 16\nBɔɔ kɛ kuunbir ra nà khɛrbir ra nàa valanɩ, wʋ hananɛ hʋɔ wʋ he kha wʋ kɔnkha bɩsana sɩ dá do caar,\ndɩdaduur yaa ɩntɛ hʋkpapa dʋʋnn nɔɔ a nyaarɔ nakɛ gbeaʔ. Wʋ tɩnɛnɛ hʋɔ a makha her rà na mɔ her ra\nná pʋɔrnɩ a dana ɔɔ kuurpa.\nHer ra ná punu ná cʋɔ sɩ ado ʔwɛdara kɛ ná henikha tunena haar fɛʋ sɩɩ do thɩɛn a fɩr yɛaʔ.\nCʋɔr ra dʋɔnn dɩɩ fɛʋ rà thʋɔn kɛ Thangba tini, a dona cɛcɛ thʋɔn, sɩ a hana hʋɔ, a tɛɛna tɩbɩla la fɛʋ nà\ndɩɩ ra fɛʋ ɩn bɛr wɔr.\nVarpar 17\nTibil woo tibil, aa ha bɩɛl yaa wʋ jɔɔrɛ, a hananɛ hʋɔ a hana ɔɔ konkonthɩɛn.\nTibil woo tibil ná punu wʋ taa wɔr ɔɔ konkonthɩɛanʔ.\nVarpar 18\nTibil woo tibil hananɛ hʋɔ a kpɩɛra thɩɛn, a hana fɩlwɛ sɩ a kpa hʋɔ kɛ pɛnɩ haar, sɩ thɩɛn ná fɩr wʋaʔ; dɩ\nhʋ ʋrɛ ra n nɩrɔrɛ a punune a fi a kpa hʋ kpii sɩ thɩɛn ná fɩr wʋaʔ; dɩ dɩkhan wo dɩ n nɩrɔrɛ a hananɛ hʋɔ a\nʔla nɩrɔ gbelengbelen ɔɔ hʋ kɛ a kpanɩ yaa thɩɛn kɛ a jɩnɩ, ado dɩbara a yaa wʋ bulle too, ado nakɛ tee jɔ\nrà yɩ yaa dɩkhanpa yɩ, dɩ ther dɩɩrɩ rà, cʋʋrpa caar caar rà,fʋɔrɩ rà, nà hʋʔyɩɩr caar caar rà sɩ thɩɛn ná fɩr\nwʋaʔ.",
-            "Image": "da24aa98508502e2c56808e7ed026774"
+            "Text": "ʔyaal wʋ nakɛ juuwei wʋ fʋaʔ.\nVarpar 15\nTibil woo tibil hananɛ hʋɔ a do dɩdaar.\nTibil woo tibil ná punu wʋ taa wɔr ɔɔ dɩdadoaʔ yaa wʋ kʋɛ hʋɔ kɛ a hananɩ a dɔna dɩda kpiiaʔ.\nVarpar 16\nBɔɔ kɛ kuunbir ra nà khɛrbir ra nàa valanɩ, wʋ hananɛ hʋɔ wʋ he kha wʋ kɔnkha bɩsana sɩ dá do caar,\ndɩdaduur yaa ɩntɛ hʋkpapa dʋʋnn nɔɔ a nyaarɔ nakɛ gbeaʔ. Wʋ tɩnɛnɛ hʋɔ a makha her rà na mɔ her ra\nná pʋɔrnɩ a dana ɔɔ kuurpa.\nHer ra ná punu ná cʋɔ sɩ ado ʔwɛdara kɛ ná henikha tunena haar fɛʋ sɩɩ do thɩɛn a fɩr yɛaʔ.\nCʋɔr ra dʋɔnn dɩɩ fɛʋ rà thʋɔn kɛ Thangba tini, a dona cɛcɛ thʋɔn, sɩ a hana hʋɔ, a tɛɛna tɩbɩla la fɛʋ nà\ndɩɩ ra fɛʋ ɩn bɛr wɔr.\nVarpar 17\nTibil woo tibil, aa ha bɩɛl yaa wʋ jɔɔrɛ, a hananɛ hʋɔ a hana ɔɔ konkonthɩɛn.\nTibil woo tibil ná punu wʋ taa wɔr ɔɔ konkonthɩɛanʔ.\nVarpar 18\nTibil woo tibil hananɛ hʋɔ a kpɩɛra thɩɛn, a hana fɩlwɛ sɩ a kpa hʋɔ kɛ pɛnɩ haar, sɩ thɩɛn ná fɩr wʋaʔ; dɩ\nhʋ ʋrɛ ra n nɩrɔrɛ a punune a fi a kpa hʋ kpii sɩ thɩɛn ná fɩr wʋaʔ; dɩ dɩkhan wo dɩ n nɩrɔrɛ a hananɛ hʋɔ a\nʔla nɩrɔ gbelengbelen ɔɔ hʋ kɛ a kpanɩ yaa thɩɛn kɛ a jɩnɩ, ado dɩbara a yaa wʋ bulle too, ado nakɛ tee jɔ\nrà yɩ yaa dɩkhanpa yɩ, dɩ ther dɩɩrɩ rà, cʋʋrpa caar caar rà,fʋɔrɩ rà, nà hʋʔyɩɩr caar caar rà sɩ thɩɛn ná fɩr\nwʋaʔ."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "f7ebab4e3de206de52f6c7ad99414ce9",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Varpar 19\nTibil woo tibil hananɛ hʋɔ a päl bɩnɛ sɩ a mɩɩ ɔɔ bɩnthɩmɩ sɩ thɩɛn ná fɩ wʋaʔ; dɩ n nɩrɔrɛ hʋɔ a harɔ dɩ wa\ntuu maar bʋnɔ dɩ do ɔɔ kpɩɛrnɔ nɔɔaʔ; dɩ dɩ n ka nɩrɔrɛ hʋɔ harɔrɛ dɩɩ na ʔyaal a na fʋ thɩn nɩrɔrɩ\nkpɩɛrnɔɔ kɛ haanɩ yʋɔ sɩ a na gba ɛ a pununi a na mɩɩna dɩ wa nɩɛ dɩɩ sʋnɔ na fɛʋ sɩ leeri ná harɔ nakɛ\ngbeaʔ.\nVarpar 20\nTibil woo tibil hananɛ hʋɔ a gbɛʋkha nà tɩbɩla sɩ a ha gbuluni na kaankɛ haarʔyii hanɩ, sɩ thɩɛn ná fɩr\nwʋaʔ.\nTibil woo tibil ná punu wʋ fɩr wʋ wʋ pɛ gbuluni naaʔ.\nVarpar 21\nTibil woo tibil hananɛ hʋɔ ɔɔ thɛthɛ yaa a ti tibil ɔɔ irir rà wʋ bulkha nà ɔɔ dɩda wʋ jʋʋr thɩɛn kɛ hanɩ le\nɔɔ dʋɔ sɩ thɩɛn ná fɩr wʋaʔ.\nTibil woo tibil hananɛ hʋɔ a do thɔma bɩɛl thomadopar rà le ɔɔ dʋɔ nà tɩbɩla fɛʋ.\nThʋɔn kɛ dɩɩ raa too nanɩ dʋɔnn cɛcɛ thɩɛn n ʔbanɩ dɩhiindara jala dɩ wʋ n ʔli pununi. Thʋɔn kɛ ra wʋ\nnanɩ tɛɛnanɛ dɩ the mɔ tɩbɩla fɛʋ phiirni, sɩ mʋɔlɩ ná harɔaʔ, dɩhiindara bɔɔ kɛ wʋ ʔlaanɩkha, kunkuuni ná\nharɔaʔ; dɩ wá nɩrɔ tibil ɩn jɩ ɩntɛ kɛ wʋ n phiirniaʔ yaa a cʋʋ cʋʋ ca dɩkha dɩɩ ho wʋ n fɩrrɛ tibilaʔ\nphiirpar ràaʔ.\nVarpar 22\nTibil woo tibil mɔ a hanɩ tɩbɩlaa thɩnthiinn, a hananɛ hʋɔ waan bɛr wɔthɩn puu náa daan thɔmadopar ràaʔ;\nwʋ tiire a thɩɩnn a haa hʋɔ dɩ da wɔr a jɩ lenlen thɩɛn a naa fʋ, a hana bɛrrɩ thɩn puu rà le thɔmadopar rà,",
-            "Image": "f7ebab4e3de206de52f6c7ad99414ce9"
+            "Text": "Varpar 19\nTibil woo tibil hananɛ hʋɔ a päl bɩnɛ sɩ a mɩɩ ɔɔ bɩnthɩmɩ sɩ thɩɛn ná fɩ wʋaʔ; dɩ n nɩrɔrɛ hʋɔ a harɔ dɩ wa\ntuu maar bʋnɔ dɩ do ɔɔ kpɩɛrnɔ nɔɔaʔ; dɩ dɩ n ka nɩrɔrɛ hʋɔ harɔrɛ dɩɩ na ʔyaal a na fʋ thɩn nɩrɔrɩ\nkpɩɛrnɔɔ kɛ haanɩ yʋɔ sɩ a na gba ɛ a pununi a na mɩɩna dɩ wa nɩɛ dɩɩ sʋnɔ na fɛʋ sɩ leeri ná harɔ nakɛ\ngbeaʔ.\nVarpar 20\nTibil woo tibil hananɛ hʋɔ a gbɛʋkha nà tɩbɩla sɩ a ha gbuluni na kaankɛ haarʔyii hanɩ, sɩ thɩɛn ná fɩr\nwʋaʔ.\nTibil woo tibil ná punu wʋ fɩr wʋ wʋ pɛ gbuluni naaʔ.\nVarpar 21\nTibil woo tibil hananɛ hʋɔ ɔɔ thɛthɛ yaa a ti tibil ɔɔ irir rà wʋ bulkha nà ɔɔ dɩda wʋ jʋʋr thɩɛn kɛ hanɩ le\nɔɔ dʋɔ sɩ thɩɛn ná fɩr wʋaʔ.\nTibil woo tibil hananɛ hʋɔ a do thɔma bɩɛl thomadopar rà le ɔɔ dʋɔ nà tɩbɩla fɛʋ.\nThʋɔn kɛ dɩɩ raa too nanɩ dʋɔnn cɛcɛ thɩɛn n ʔbanɩ dɩhiindara jala dɩ wʋ n ʔli pununi. Thʋɔn kɛ ra wʋ\nnanɩ tɛɛnanɛ dɩ the mɔ tɩbɩla fɛʋ phiirni, sɩ mʋɔlɩ ná harɔaʔ, dɩhiindara bɔɔ kɛ wʋ ʔlaanɩkha, kunkuuni ná\nharɔaʔ; dɩ wá nɩrɔ tibil ɩn jɩ ɩntɛ kɛ wʋ n phiirniaʔ yaa a cʋʋ cʋʋ ca dɩkha dɩɩ ho wʋ n fɩrrɛ tibilaʔ\nphiirpar ràaʔ.\nVarpar 22\nTibil woo tibil mɔ a hanɩ tɩbɩlaa thɩnthiinn, a hananɛ hʋɔ waan bɛr wɔthɩn puu náa daan thɔmadopar ràaʔ;\nwʋ tiire a thɩɩnn a haa hʋɔ dɩ da wɔr a jɩ lenlen thɩɛn a naa fʋ, a hana bɛrrɩ thɩn puu rà le thɔmadopar rà,"
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "610409230479a7aea59e053641cf972b",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "gbɛʋkha nà ɛ wʋ hananɩkha jɩɩr bɩɛl; ɛr tɛɛna dɩ dɩfɩ wʋ dɩ cʋʋ wʋ a khɔ baʔa dɩ do bʋɔ kɛ ra dɩɩ ra n\ndoni, na mɔ dɩɩ sʋnɔ na bulnikha a do nɔbɩɛ dʋɔnn nɔɔ; dɩ da the mɔ dɩ dʋʋnn n gbɛɛnsɩnɩ ɔɔ thɛthɛ nà\nlenlen thɩɛn kɛ a hananɩ.\nVarpar 23\nTibil woo tibil hananɛ hʋɔ a do thɔma, a ʔyaal thɔma kɛ a nanɩ sɩ thɩɛ ná fɩr wʋaʔ, a hana nɔbɔr a\nmakhana ɛ thɔma ʔyaalɩ là dɩ da wɔr sɩ wʋ jɩɩl wɔr a hana thɔma a naa do.\nƐr fɛʋ hananɛ hʋɔ wʋ ʔli ʔlʋmɩnɩ wʋ makha na mɔ wʋ n doni thɔma a makha sɩ dänbäl wer ná harɔ nakɛ\nsɩɩ do gbe dɩ haaʔ.\nTibil woo tibil kɛ n doni thɔma, a hananɛ hʋɔ ado da punune wʋ ʔ wʋ hʋ kpii puuwe náa daan thɔma dopar\nrà, a ʔli ʔlʋmɩnɩ a dɩ bɔrɔkha dɩ tɩɛ nà ɔɔ cɔtoo, dɩkhan a dɩfɩrɔ, ɔɔ teedo ra naa gaala wʋ ʔyɛkʋlʋɔ.\nTibil woo tibil hananɛ hʋɔ a gbɛʋkha nà ɛkha wʋ kur sintika sɩ a makha nà sintika ɛkha waan hiinn ɔɔ hʋ\nkaankɛ a n doni thɔma.\nVarpar 24\nTibil woo tibil hananɛ hʋɔ a hiir sɩ a hana bɔɔ a thana jɩɛ sɩ nakɛ wʋ wur bɔɔ rà ɔɔ thɔma do lɩɛr sɩ wʋ\nʔlʋmɩ wʋ bɔɔ kɛ a gbanɩ konje.\nVarpar 25\nTibil woo tibil hananɛ hʋɔ a ʔli ʔlʋmɩnɩ kɛ bɔrɔnɩkha a punu a tonbi bɔɔ kɛ dɩ sɩ wɔrnɩ, a bɛrna yʋʋ sɩ a\nnaa hiina ɔɔ cɔtoo nakɛ wʋ thɩɛn waan kho, waan to, wʋ yɩ cɔpar rà, wʋ gal dɔtɔrɔcʋɔr wʋ hiinn mɛ a\nhana hʋɔ wʋ bul wʋ mɔ tɛɛnanɩ thɩlciir ná ʔlii le thɔmadopar a hananɛ hʋɔ wʋ jɩɩl wɔr a ná kʋ bʋɔ bɔɔ\nkɛ aà n doni thɔmaaʔ thɔma kʋɛnɛ wʋaʔ, a ná kʋ bʋɔ bɔɔ kɛ dɩ n khuuniaʔ, bɔɔ kɛ aà pununi baanʔ, bɔɔ\nkɛ a doni khikhɛraʔ yaa bɔɔ kɛ ɔɔ khɛr ʔ tɩn bʋɔaʔ yaa bɔ ʋkha rà mɔ aà hananɩ thɩɛn a tɛna ɔɔ thɛthɛaʔ",
-            "Image": "610409230479a7aea59e053641cf972b"
+            "Text": "gbɛʋkha nà ɛ wʋ hananɩkha jɩɩr bɩɛl; ɛr tɛɛna dɩ dɩfɩ wʋ dɩ cʋʋ wʋ a khɔ baʔa dɩ do bʋɔ kɛ ra dɩɩ ra n\ndoni, na mɔ dɩɩ sʋnɔ na bulnikha a do nɔbɩɛ dʋɔnn nɔɔ; dɩ da the mɔ dɩ dʋʋnn n gbɛɛnsɩnɩ ɔɔ thɛthɛ nà\nlenlen thɩɛn kɛ a hananɩ.\nVarpar 23\nTibil woo tibil hananɛ hʋɔ a do thɔma, a ʔyaal thɔma kɛ a nanɩ sɩ thɩɛ ná fɩr wʋaʔ, a hana nɔbɔr a\nmakhana ɛ thɔma ʔyaalɩ là dɩ da wɔr sɩ wʋ jɩɩl wɔr a hana thɔma a naa do.\nƐr fɛʋ hananɛ hʋɔ wʋ ʔli ʔlʋmɩnɩ wʋ makha na mɔ wʋ n doni thɔma a makha sɩ dänbäl wer ná harɔ nakɛ\nsɩɩ do gbe dɩ haaʔ.\nTibil woo tibil kɛ n doni thɔma, a hananɛ hʋɔ ado da punune wʋ ʔ wʋ hʋ kpii puuwe náa daan thɔma dopar\nrà, a ʔli ʔlʋmɩnɩ a dɩ bɔrɔkha dɩ tɩɛ nà ɔɔ cɔtoo, dɩkhan a dɩfɩrɔ, ɔɔ teedo ra naa gaala wʋ ʔyɛkʋlʋɔ.\nTibil woo tibil hananɛ hʋɔ a gbɛʋkha nà ɛkha wʋ kur sintika sɩ a makha nà sintika ɛkha waan hiinn ɔɔ hʋ\nkaankɛ a n doni thɔma.\nVarpar 24\nTibil woo tibil hananɛ hʋɔ a hiir sɩ a hana bɔɔ a thana jɩɛ sɩ nakɛ wʋ wur bɔɔ rà ɔɔ thɔma do lɩɛr sɩ wʋ\nʔlʋmɩ wʋ bɔɔ kɛ a gbanɩ konje.\nVarpar 25\nTibil woo tibil hananɛ hʋɔ a ʔli ʔlʋmɩnɩ kɛ bɔrɔnɩkha a punu a tonbi bɔɔ kɛ dɩ sɩ wɔrnɩ, a bɛrna yʋʋ sɩ a\nnaa hiina ɔɔ cɔtoo nakɛ wʋ thɩɛn waan kho, waan to, wʋ yɩ cɔpar rà, wʋ gal dɔtɔrɔcʋɔr wʋ hiinn mɛ a\nhana hʋɔ wʋ bul wʋ mɔ tɛɛnanɩ thɩlciir ná ʔlii le thɔmadopar a hananɛ hʋɔ wʋ jɩɩl wɔr a ná kʋ bʋɔ bɔɔ\nkɛ aà n doni thɔmaaʔ thɔma kʋɛnɛ wʋaʔ, a ná kʋ bʋɔ bɔɔ kɛ dɩ n khuuniaʔ, bɔɔ kɛ aà pununi baanʔ, bɔɔ\nkɛ a doni khikhɛraʔ yaa bɔɔ kɛ ɔɔ khɛr ʔ tɩn bʋɔaʔ yaa bɔ ʋkha rà mɔ aà hananɩ thɩɛn a tɛna ɔɔ thɛthɛaʔ"
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "8f69f49220bbbd7e0325eacecbf70718",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "da doni ɔɔ jɩ sɩ a cʋʋ yɩaʔ.\nKhɛr kɛ kɔnɩ bi nà bɩsaann kɛ a khɔnɩ pɩaʔ hananɛ hʋɔ wʋ bul yɛ sar sɩ wʋ tɛ yɛ tɛ sar. Bɩsana na fɛʋ n\nhananɛ cɛɛrɩ a thɔmadopar rà ado nakɛ ɛɛ thɩ nà ɛɛ nɩ herkha sɩ a kɔn yɛ yaa ʔwɛdaarɩ rà wʋ kɔn yɛ.\nVarpar 26\nTibil woo tibil hananɛ hʋɔ a gal nakol a ʔli dɩɩrɩ. A tɛɛnanɛ dɩ do pɛɛ wʋ dɩɩr wʋ. Bɩsan yɩra kɛɛ nakol\nwer nakɛ nà cɛcɛ dɩɩrɩ a tɛɛna wʋ ʔlʋ waraʔ. Bɩsana na a tɛɛna wʋ faa yɛ cʋɔr sɩɩ do wa n gal nakolaʔ, dɩ\nfanga thɩɛn. Dɩɩrɩ kaankɛ wʋ n dɩɩrnɩ thɔmaduur nà dɩɩrɩ kɛ ra n ʔ thɔma, tɛɛnanɛ dɩ thʋ tɩbɩla fɛʋ dɩ can;\nnakolcɔ kontin luunn tɛɛnanɩ tɩbɩla fɛʋ ɩn ʔlaa wʋ ʔluru wʋ makha mɔ ɩntɛ tɛɛna yɛnɩ.\nDɩɩrɩ ra tɛɛnanɛ dɩ tɔ teeduur daan pɛrrɛ, daan gaala ʔyɛkʋlʋɔ sɩ dɩ cʋʋ guurɩ kɛ wʋ n guuranɩ Tibilii hʋ\nnà mɔ kɛ cɛcɛ rà thɩɛn à fɩrnɩ tibil dɩ n do deeaʔ, ɩn tɩ. Dɩɩrɩ ra tɛɛnanɛ a gbɛʋ tɩbɩla waan nɩ boboi;\nʔyɛɛkha nà kuuni dɩɩ sʋnɔ naa thɩnthiinn, teebira raa thɩ yaa dabulo sʋnɔ naa thɩnthiinn yaa hʋɔ kɛ ɩntɛ\nkpanɩ, ɩn yɔɔ; sɩ wo dɩɩrɩ tɛɛnanɛ dɩ cʋʋ, Dɩɩ sʋnɔ kɛ ra kpanɩ gbɛʋ dɩ wʋ n ʔyaal haarʔyii ɩn hana, ɛɛ\nthɔma kɛ wʋ n doni naa ʔli bääni.\nThɩrɛ nà nɩrɛ sʋnɔ na dʋɔnn cɛcɛ tɩbɩla kɛ hananɩ hʋɔ wʋ ti dɩɩr caar kɛ n gbɛɛnsɩnɩ ɛɛ bɩsan sʋnɔ waan\ndɩɩra yɛ.\nVarpar 27\nTibil woo tibil hananɛ hʋɔ, sɩ thɩɛn ná fɩr wʋaʔ, a gbɛʋkha nà ɛ a toonanikha pa bɩɛl waan cʋʋkha ca\nthɩɛn; a hananɛ hʋɔ a yɩrɔ dɛfɩrɩ ɛ rà wʋ jɩnɩ dɩ wʋ n cʋʋ, wʋ bulkha jɩɩr ra ɩn khɔn daan gal ʔyɛkʋlʋɔ sɩ\nwʋ tɩnɛkha dɛfɩrɩ kɛ wa ʔlini.\nTɩbɩla fɛʋ hananɛ hʋɔ wʋ cɛɛ yɛr wʋ ʔli dɛfɩrɩ, wá gba yɛ fɩlwɛ nà thɩɛ kɛ wʋ tini dɩɩ the ɛɛ jɩɩr fɛʋ kɛ\nrà wʋ hananɩ yaa sɛbɛhiini na nà nyɩr rà nà thɩɛn kɛ wʋ jɩnɩ dɩ wʋ n cʋʋaʔ.",
-            "Image": "8f69f49220bbbd7e0325eacecbf70718"
+            "Text": "da doni ɔɔ jɩ sɩ a cʋʋ yɩaʔ.\nKhɛr kɛ kɔnɩ bi nà bɩsaann kɛ a khɔnɩ pɩaʔ hananɛ hʋɔ wʋ bul yɛ sar sɩ wʋ tɛ yɛ tɛ sar. Bɩsana na fɛʋ n\nhananɛ cɛɛrɩ a thɔmadopar rà ado nakɛ ɛɛ thɩ nà ɛɛ nɩ herkha sɩ a kɔn yɛ yaa ʔwɛdaarɩ rà wʋ kɔn yɛ.\nVarpar 26\nTibil woo tibil hananɛ hʋɔ a gal nakol a ʔli dɩɩrɩ. A tɛɛnanɛ dɩ do pɛɛ wʋ dɩɩr wʋ. Bɩsan yɩra kɛɛ nakol\nwer nakɛ nà cɛcɛ dɩɩrɩ a tɛɛna wʋ ʔlʋ waraʔ. Bɩsana na a tɛɛna wʋ faa yɛ cʋɔr sɩɩ do wa n gal nakolaʔ, dɩ\nfanga thɩɛn. Dɩɩrɩ kaankɛ wʋ n dɩɩrnɩ thɔmaduur nà dɩɩrɩ kɛ ra n ʔ thɔma, tɛɛnanɛ dɩ thʋ tɩbɩla fɛʋ dɩ can;\nnakolcɔ kontin luunn tɛɛnanɩ tɩbɩla fɛʋ ɩn ʔlaa wʋ ʔluru wʋ makha mɔ ɩntɛ tɛɛna yɛnɩ.\nDɩɩrɩ ra tɛɛnanɛ dɩ tɔ teeduur daan pɛrrɛ, daan gaala ʔyɛkʋlʋɔ sɩ dɩ cʋʋ guurɩ kɛ wʋ n guuranɩ Tibilii hʋ\nnà mɔ kɛ cɛcɛ rà thɩɛn à fɩrnɩ tibil dɩ n do deeaʔ, ɩn tɩ. Dɩɩrɩ ra tɛɛnanɛ a gbɛʋ tɩbɩla waan nɩ boboi;\nʔyɛɛkha nà kuuni dɩɩ sʋnɔ naa thɩnthiinn, teebira raa thɩ yaa dabulo sʋnɔ naa thɩnthiinn yaa hʋɔ kɛ ɩntɛ\nkpanɩ, ɩn yɔɔ; sɩ wo dɩɩrɩ tɛɛnanɛ dɩ cʋʋ, Dɩɩ sʋnɔ kɛ ra kpanɩ gbɛʋ dɩ wʋ n ʔyaal haarʔyii ɩn hana, ɛɛ\nthɔma kɛ wʋ n doni naa ʔli bääni.\nThɩrɛ nà nɩrɛ sʋnɔ na dʋɔnn cɛcɛ tɩbɩla kɛ hananɩ hʋɔ wʋ ti dɩɩr caar kɛ n gbɛɛnsɩnɩ ɛɛ bɩsan sʋnɔ waan\ndɩɩra yɛ.\nVarpar 27\nTibil woo tibil hananɛ hʋɔ, sɩ thɩɛn ná fɩr wʋaʔ, a gbɛʋkha nà ɛ a toonanikha pa bɩɛl waan cʋʋkha ca\nthɩɛn; a hananɛ hʋɔ a yɩrɔ dɛfɩrɩ ɛ rà wʋ jɩnɩ dɩ wʋ n cʋʋ, wʋ bulkha jɩɩr ra ɩn khɔn daan gal ʔyɛkʋlʋɔ sɩ\nwʋ tɩnɛkha dɛfɩrɩ kɛ wa ʔlini.\nTɩbɩla fɛʋ hananɛ hʋɔ wʋ cɛɛ yɛr wʋ ʔli dɛfɩrɩ, wá gba yɛ fɩlwɛ nà thɩɛ kɛ wʋ tini dɩɩ the ɛɛ jɩɩr fɛʋ kɛ\nrà wʋ hananɩ yaa sɛbɛhiini na nà nyɩr rà nà thɩɛn kɛ wʋ jɩnɩ dɩ wʋ n cʋʋaʔ."
         },
         "8": {
-            "Label": "9",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "12b5bbf1a0e6b0cebb3136cfaf546a84",
             "Index": 8,
+            "Label": "9",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Varpar 28\nTibil woo tibil hananɛ hʋɔ le ɔɔ dʋɔ nà dɩ kpii rà , a pɩɛr nyanyaanɩ daaanʔ; mɛ da ha sɩ tɩbɩlaa hʋ kɛ wʋ\nhananɩ na mɔ deeduur pɩnɩ, soni kɩɛr Nɩrɔrɩ kɛ rà , ɩn punu dɩ hana fanga mɔ tɛɛnanɩ.\nVarpar 29\nTibil hananɛ ɛ tɛɛnanɩ a cʋʋ dapa kɛ a tooni; thɩɛn kɛ pununi dɩ cʋʋ dapa rà a tooni ha mɔ ɔɔ teedo nàa\nnyɩrnɩ tɩbila fɛʋʋ ʔyɛkʋlʋɔ na mɔ thɩɛn ná fɩr wʋnɩaʔ.\nMɔ ɩntɛ nàa ɩɩrnɩ ɔɔ hʋ rà, da doni thɩɛn ha le dɩ n fɩr wʋaʔ, aà tɛɛna a cʋʋ thɩɛn a kaansɩna jɔfɩ raaʔ; jɔfɩ\nra n sor ʔbilami aa haann ɩn to dɩfa ɔɔ ɔlɔnkha a náa saa nɔɔaʔ, a náa fɩr wʋ sɩ a mʋɔl wʋaʔ yaa a\ndänbälaʔ. Dɩ jɔfɩ ra n ʔyaalɛ dɩ do kaankɛ dɩɩ raa too hananɩ pununi wʋ n phiirna dɩhiindara, thɩɛn ɩn yɔɔ,\ntɩbɩla ɩn hana cʋʋpa bɔ tɛɛnanɩ, wá ʔyaal nyanyaanɩ ɩn lɔna tɩbɩlaa thɩnthiinaʔ sɩ wa ka ná na bɔcʋʋrɩ\ntɩbɩla fɛʋ rà.\nHʋɔ kɛ ra tɩbɩla hananɩ na mɔ thɩɛn à n fɩr yɛnɩaʔ ná punu ná do yɛ, ha nakɛ gbe, sɩ ado mɔ kɛ Dɩɩ sʋnɔ\nkɛ kpanɩ gbɛʋ n kpɩɛrnɩ sɩ a pɛ haar dɩ hana yɩaʔ.\nVarpar 30\nTibil náa punu fi jɔfɩ bɩɛl nakɛ kɩɛr Nɩrɔrɩ kɛ rà, a dɩ ha mɔ nakɛ, sɩ a dɩ ho hʋ dɩkha ʔlaarɛ, a ha gbuluni\nyaa tibil bɩɛl, a gbuu yʋʋ thɩn dɩ cʋʋrɩ rà yaa a naa cʋʋ thɩn puu kɛ n ʔyaalnɩ dɩ nyanyaann tibilii hʋ kɛ a\nhananɩ na mɔ thɩɛn à n fɩr wʋnɩaʔ, soni le Nɩrɔrɩ rà raaʔ.",
-            "Image": "12b5bbf1a0e6b0cebb3136cfaf546a84"
+            "Text": "Varpar 28\nTibil woo tibil hananɛ hʋɔ le ɔɔ dʋɔ nà dɩ kpii rà , a pɩɛr nyanyaanɩ daaanʔ; mɛ da ha sɩ tɩbɩlaa hʋ kɛ wʋ\nhananɩ na mɔ deeduur pɩnɩ, soni kɩɛr Nɩrɔrɩ kɛ rà , ɩn punu dɩ hana fanga mɔ tɛɛnanɩ.\nVarpar 29\nTibil hananɛ ɛ tɛɛnanɩ a cʋʋ dapa kɛ a tooni; thɩɛn kɛ pununi dɩ cʋʋ dapa rà a tooni ha mɔ ɔɔ teedo nàa\nnyɩrnɩ tɩbila fɛʋʋ ʔyɛkʋlʋɔ na mɔ thɩɛn ná fɩr wʋnɩaʔ.\nMɔ ɩntɛ nàa ɩɩrnɩ ɔɔ hʋ rà, da doni thɩɛn ha le dɩ n fɩr wʋaʔ, aà tɛɛna a cʋʋ thɩɛn a kaansɩna jɔfɩ raaʔ; jɔfɩ\nra n sor ʔbilami aa haann ɩn to dɩfa ɔɔ ɔlɔnkha a náa saa nɔɔaʔ, a náa fɩr wʋ sɩ a mʋɔl wʋaʔ yaa a\ndänbälaʔ. Dɩ jɔfɩ ra n ʔyaalɛ dɩ do kaankɛ dɩɩ raa too hananɩ pununi wʋ n phiirna dɩhiindara, thɩɛn ɩn yɔɔ,\ntɩbɩla ɩn hana cʋʋpa bɔ tɛɛnanɩ, wá ʔyaal nyanyaanɩ ɩn lɔna tɩbɩlaa thɩnthiinaʔ sɩ wa ka ná na bɔcʋʋrɩ\ntɩbɩla fɛʋ rà.\nHʋɔ kɛ ra tɩbɩla hananɩ na mɔ thɩɛn à n fɩr yɛnɩaʔ ná punu ná do yɛ, ha nakɛ gbe, sɩ ado mɔ kɛ Dɩɩ sʋnɔ\nkɛ kpanɩ gbɛʋ n kpɩɛrnɩ sɩ a pɛ haar dɩ hana yɩaʔ.\nVarpar 30\nTibil náa punu fi jɔfɩ bɩɛl nakɛ kɩɛr Nɩrɔrɩ kɛ rà, a dɩ ha mɔ nakɛ, sɩ a dɩ ho hʋ dɩkha ʔlaarɛ, a ha gbuluni\nyaa tibil bɩɛl, a gbuu yʋʋ thɩn dɩ cʋʋrɩ rà yaa a naa cʋʋ thɩn puu kɛ n ʔyaalnɩ dɩ nyanyaann tibilii hʋ kɛ a\nhananɩ na mɔ thɩɛn à n fɩr wʋnɩaʔ, soni le Nɩrɔrɩ rà raaʔ."
         }
     }
 }

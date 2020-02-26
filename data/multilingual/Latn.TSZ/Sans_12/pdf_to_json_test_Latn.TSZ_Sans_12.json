@@ -1,99 +1,99 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581471045,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
-            "Index": 0,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
             ],
-            "Text": "UANDAKUA JURHIMBEKUECHERI K'UIRIPUECHERI PARHAKPENI ANAPU\nINCHAJPEKUA\nMitiparini eski jánguarhikua, jurhimbekua ka no jupiperakua parhakpeni jimbo jupikuarhisïndi jeioperakua jurhimbitku jangueri ka no ambe\natarantskueri iamindu majku anapuecheri,\nMitiparini eski no eiangperakua ka isku eekua k'uiripuecheri jurhimbekua isï jimbosï xani no sesi kameraŋajti; ka uandaŋajti, eski sanderu k'eri\nambe ukua k'uiripuecheri, erokakua materu jaso irekakueri engakso k'uiripuecha, jurhajkutini ia chékua ka komu jáangua, sesi marhuataakaksï\nuandakua ka mamaru járhati jakajkukuechani,\nMitiparini sesimindu eski k'uiripuecheri jurhimbikuecha kuajpeŋaaka K'eri jurhimbikua jimbo, jimbokakso iso k'uiripuecha uatiksï no ambe\njupikuarhini ka jauarani no sesi kamberakua jimbo,\nMitiparini istu eski uetarisïnga etsekuni ka k'uiriperani iretecheri sesi pajperakua,\nMitiparini eski iretecha, Iretecheri kunguarhikua sesi jimbomendu uandajti ia imecheri jakajkua K'eri karákatarhu k'uiripuecheri jupikuarhikua\njurhimbekueri, k'uiripueri k'uratsekua ka ts'iuekua ka majku jasï jukaparhperakua ts'iueriticheri ka uarhecheri; ka uandastiksï ia eskaksï uaka\nambakiti ambe ireskuni ka irekakua ambe sesi uaxastani eratsiparini eskaksï usïnga janguarhikuarhini,\nMitiparini eskiksï K'erhati Irechekuecha eiakurhistiksï sesi, jarhaujpeni indeni kunguarhikua Organisasioni de las Nasionesi Unidasi jingoni,\niamendu jaŋaŋarperani ka urauani jurhimbekuechani ka jɑnguarhikuechani k'uiripuecheri, ka\nMitiparini eski sesi mitiakaksï iamendu ieni jasï jurhimbekuechani ka jánguarhikuechani sanderu jukaparhakuesti ka inde eiakurhikuani uni isï\nukuarhini,\nK'ERI TANGUARHIKUA uandasïndi\nI K'eri Uandakua K'uiripuecheri Jurhimbikuecha Parhakpeni Anapu iamenduchani majku jasï eraaparini eskiksï iamendu iretecha\njanguarhentaakaksï, eskaksï xani k'uiripuecha eski k'umanchikua juramukuecha imani exeparini mititpeakaksï jorhentpeparini ka\nkaxomperakua jimbo, ini ambe jaŋaŋarhini, uaxastaatikso, saŋani arhipani iapurhu iso, jiokurhiŋaati ka sesi uraŋaati, xani iretecha engakso\nkurhpitini jaka ka engaksojtu iretecha jima jupindakuarhitini jaka.\nArhujtakua 1\nIamendu k'uiripuecha janguarhiparini ka majku jarhati ka jurhimbekuecha jingoni kueraaŋasondikso ka, juajtakuarhisïndiksï ambakiti\neratsekua ka kaxumbikua, jatsistiksï eskaksï sesi arhijperaaka.\nArhujtakua 2",
-            "Image": "820463ae31a3c7b5a2619563e87fe197"
+            "Image": "820463ae31a3c7b5a2619563e87fe197",
+            "Index": 0,
+            "Label": "1",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "UANDAKUA JURHIMBEKUECHERI K'UIRIPUECHERI PARHAKPENI ANAPU\nINCHAJPEKUA\nMitiparini eski jánguarhikua, jurhimbekua ka no jupiperakua parhakpeni jimbo jupikuarhisïndi jeioperakua jurhimbitku jangueri ka no ambe\natarantskueri iamindu majku anapuecheri,\nMitiparini eski no eiangperakua ka isku eekua k'uiripuecheri jurhimbekua isï jimbosï xani no sesi kameraŋajti; ka uandaŋajti, eski sanderu k'eri\nambe ukua k'uiripuecheri, erokakua materu jaso irekakueri engakso k'uiripuecha, jurhajkutini ia chékua ka komu jáangua, sesi marhuataakaksï\nuandakua ka mamaru járhati jakajkukuechani,\nMitiparini sesimindu eski k'uiripuecheri jurhimbikuecha kuajpeŋaaka K'eri jurhimbikua jimbo, jimbokakso iso k'uiripuecha uatiksï no ambe\njupikuarhini ka jauarani no sesi kamberakua jimbo,\nMitiparini istu eski uetarisïnga etsekuni ka k'uiriperani iretecheri sesi pajperakua,\nMitiparini eski iretecha, Iretecheri kunguarhikua sesi jimbomendu uandajti ia imecheri jakajkua K'eri karákatarhu k'uiripuecheri jupikuarhikua\njurhimbekueri, k'uiripueri k'uratsekua ka ts'iuekua ka majku jasï jukaparhperakua ts'iueriticheri ka uarhecheri; ka uandastiksï ia eskaksï uaka\nambakiti ambe ireskuni ka irekakua ambe sesi uaxastani eratsiparini eskaksï usïnga janguarhikuarhini,\nMitiparini eskiksï K'erhati Irechekuecha eiakurhistiksï sesi, jarhaujpeni indeni kunguarhikua Organisasioni de las Nasionesi Unidasi jingoni,\niamendu jaŋaŋarperani ka urauani jurhimbekuechani ka jɑnguarhikuechani k'uiripuecheri, ka\nMitiparini eski sesi mitiakaksï iamendu ieni jasï jurhimbekuechani ka jánguarhikuechani sanderu jukaparhakuesti ka inde eiakurhikuani uni isï\nukuarhini,\nK'ERI TANGUARHIKUA uandasïndi\nI K'eri Uandakua K'uiripuecheri Jurhimbikuecha Parhakpeni Anapu iamenduchani majku jasï eraaparini eskiksï iamendu iretecha\njanguarhentaakaksï, eskaksï xani k'uiripuecha eski k'umanchikua juramukuecha imani exeparini mititpeakaksï jorhentpeparini ka\nkaxomperakua jimbo, ini ambe jaŋaŋarhini, uaxastaatikso, saŋani arhipani iapurhu iso, jiokurhiŋaati ka sesi uraŋaati, xani iretecha engakso\nkurhpitini jaka ka engaksojtu iretecha jima jupindakuarhitini jaka.\nArhujtakua 1\nIamendu k'uiripuecha janguarhiparini ka majku jarhati ka jurhimbekuecha jingoni kueraaŋasondikso ka, juajtakuarhisïndiksï ambakiti\neratsekua ka kaxumbikua, jatsistiksï eskaksï sesi arhijperaaka.\nArhujtakua 2"
         },
         "1": {
-            "Label": "2",
-            "Index": 1,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
             ],
-            "Text": "Iamendu k'uiripuecha jatsistiksï iamendu jurhimbekuechani ka janguarhikuechani engaksï ixu uandajka, na uejiki jasï iurhiri jatani, xarharani,\nts'iuerati o uarhi, uandani, chereŋeni, eratseni o materu jangua kamani, nani uejki anapueni, jatsikurhini tumina o no ambe, kueraakateni o\nmateru jasï ambe uni o jamani.\nIstu, no ima paŋaati naki enga kunguarhikua juramukueri jamaaka, naki uejkini o nani uejki anapueni enga jupindakurhitini jauaka ma k'uiripu,\nxani enga ma paisi juramukuarhiti anapueuaka, eski ima irechekua enga no iamendu ambe jandiajku juramukuarhiaka.\nArhujtakua 3\nIamendu k'uiripuecha jurhimbekua jatsistiksï jamani i parhakpeni, janguarhikuarhini ka tsipekua kuajpemeŋani.\nArhujtakua 4\nNo nema jamaati isku anchikuarhitsïpeni nijtu isku jantspeni; isku anchikuarhitsïpekua no sesikua jarhasti ka ni niatatsïpetichani ataraantani o\npiauani na uejki jasï jimboeni.\nArhujtakua 5\nNo nema jatsisti eski komku kaŋaaka o eski k'uratsekueni jaso ambe kaŋantaaka.\nArhujtakua 6\nIamendu k'uiripuecha jurhimbekua jatsisksï, iapurhu isï, eski jaŋaŋarhiŋaaka na uejki jasoeni.\nArhujtakua 7\nIamenduksï majku jasïsti jurhimbekuarhu jimbo ka jatsistiksï, ne uejkini, majku jasï kuajpikurhintskua, jurhimbekuecha jingoni. Iamenduksï\nmajku jasï kuajpekuarhintskua jatsisti ne enga t'auajchakuaka ka no paaka ini uandakuani ka eratsekuani.\nArhujtakua 8\nIamendu k'uiripuecha jurhimbikua jatsisti jupikuarhini ambe enga kuajpintaaka, enga tsandpemeŋaaka kuramukperakuarhu, eska\nkuajpeŋantaaka enga imeri jurhimbekuechani t'auajchakumeŋaaka.\nArhujtakua 9\nNo nema uati isïkumendu undani jupiŋani, oŋaŋani ni chutaŋantani o petaataŋani.\nArhujtakua 10\nIamendu k'uiripu jurhimbekua jatsisti, mangueni jatini, eska kurajchaŋaaka ka eska sesi kurangumeŋantaaka, eskakso juramuticha no nema\njingoni k'uetsapeaka, eratseparinksï imecheri jurhimbekuechani ka janguechani, o engaksï uekaka mitikuni ambesï tsïjpa.",
-            "Image": "3d4a4d51b9b8957454d36614b727cedd"
+            "Image": "3d4a4d51b9b8957454d36614b727cedd",
+            "Index": 1,
+            "Label": "2",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Iamendu k'uiripuecha jatsistiksï iamendu jurhimbekuechani ka janguarhikuechani engaksï ixu uandajka, na uejiki jasï iurhiri jatani, xarharani,\nts'iuerati o uarhi, uandani, chereŋeni, eratseni o materu jangua kamani, nani uejki anapueni, jatsikurhini tumina o no ambe, kueraakateni o\nmateru jasï ambe uni o jamani.\nIstu, no ima paŋaati naki enga kunguarhikua juramukueri jamaaka, naki uejkini o nani uejki anapueni enga jupindakurhitini jauaka ma k'uiripu,\nxani enga ma paisi juramukuarhiti anapueuaka, eski ima irechekua enga no iamendu ambe jandiajku juramukuarhiaka.\nArhujtakua 3\nIamendu k'uiripuecha jurhimbekua jatsistiksï jamani i parhakpeni, janguarhikuarhini ka tsipekua kuajpemeŋani.\nArhujtakua 4\nNo nema jamaati isku anchikuarhitsïpeni nijtu isku jantspeni; isku anchikuarhitsïpekua no sesikua jarhasti ka ni niatatsïpetichani ataraantani o\npiauani na uejki jasï jimboeni.\nArhujtakua 5\nNo nema jatsisti eski komku kaŋaaka o eski k'uratsekueni jaso ambe kaŋantaaka.\nArhujtakua 6\nIamendu k'uiripuecha jurhimbekua jatsisksï, iapurhu isï, eski jaŋaŋarhiŋaaka na uejki jasoeni.\nArhujtakua 7\nIamenduksï majku jasïsti jurhimbekuarhu jimbo ka jatsistiksï, ne uejkini, majku jasï kuajpikurhintskua, jurhimbekuecha jingoni. Iamenduksï\nmajku jasï kuajpekuarhintskua jatsisti ne enga t'auajchakuaka ka no paaka ini uandakuani ka eratsekuani.\nArhujtakua 8\nIamendu k'uiripuecha jurhimbikua jatsisti jupikuarhini ambe enga kuajpintaaka, enga tsandpemeŋaaka kuramukperakuarhu, eska\nkuajpeŋantaaka enga imeri jurhimbekuechani t'auajchakumeŋaaka.\nArhujtakua 9\nNo nema uati isïkumendu undani jupiŋani, oŋaŋani ni chutaŋantani o petaataŋani.\nArhujtakua 10\nIamendu k'uiripu jurhimbekua jatsisti, mangueni jatini, eska kurajchaŋaaka ka eska sesi kurangumeŋantaaka, eskakso juramuticha no nema\njingoni k'uetsapeaka, eratseparinksï imecheri jurhimbekuechani ka janguechani, o engaksï uekaka mitikuni ambesï tsïjpa."
         },
         "2": {
-            "Label": "3",
-            "Index": 2,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
             ],
-            "Text": "Arhujtakua 11\nIamendu k'uiripu tsandpemeŋakata ma ambe tso\nNo nema jupiŋaati ka oŋaŋani enga jiajkani enga tso\nArhujtakua 12\nNo noma inchakumeŋaati imeri irekakuarhikua jimbo imeri japindembekuarhu, imeri k'umanchikuarhu o imeri ambe axatsoperakuarhunijtu\nchureŋani jaakuarhimeŋani ambe. Ini ambe jimbo iamendu k'uiripu jatsisti jurhimbekua eska kuajpikurhintaaka.\nArhujtakua 13\nIamendu k'uiripu jurhimbekua jatsisti jamani ka erakukuarhini nani enga irekaaka ma Irechekuarhu.\nIamendu k'uiripu jurhimbekua jatsisti ueakuni ma o imeri paisirhu ka menderu ichaakuntani.\nArhujtakua 14\nEnga andanguŋani o jupiŋakuekani jauaka\nI jurhimbekua no uati uanakutani o kurajkuarhini ma ambe tsïjpakua jimbo enga ambe arhijka Nasionesi Unidasirhu.\nArhujtakua 15\nIamendu k'uiripu jurhimbikua jatsisti nani enga anapueuaka.\nNo nema euakuarheŋaati jurhimbikua isku undani nani enga anapueuaka o irekaaka ka majku jastu enga uekaaka mojtakukuarhini materu o\ntamu iso\nArhujtakua 16\nTs'iueriticha ka uárhicha, engaksï tumbiuaka ia ka iurhitskirini ia, jurhimbikua jatsistiksï, no p'inguŋaparini iurhiri anapuekua o chereŋekua\njimbo, tembuchani o uambuchani ka ireskuni ma japindembekua; ka majku jaso marhuataatiksï jurhimbikuechani engaksï tembungurhitini\njauaka ia ka istu engaksï jurhajkperaaka.\nJeiokperaparinskï ka uekaparinkuksï uati tembungurhirini.\nJapindembekua kueraakatesti parhakpenirhu ka jurhimbikua jarhasti eskiksï ireta ka Irechekua kuajpiaka ka jarhuatpeaka.\nArhujtakua 17\nIamendu k'uiripu jurhimbekua jatsisti eski mamaru ambe jandiajku minguarhiaka, ka istu kunguarhuntatini mamaru ambe jatsikuarhini materu\nk'uiripuecha jingoni.",
-            "Image": "56cf95c3c7ab767a7322e2d49b401765"
+            "Image": "56cf95c3c7ab767a7322e2d49b401765",
+            "Index": 2,
+            "Label": "3",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Arhujtakua 11\nIamendu k'uiripu tsandpemeŋakata ma ambe tso\nNo nema jupiŋaati ka oŋaŋani enga jiajkani enga tso\nArhujtakua 12\nNo noma inchakumeŋaati imeri irekakuarhikua jimbo imeri japindembekuarhu, imeri k'umanchikuarhu o imeri ambe axatsoperakuarhunijtu\nchureŋani jaakuarhimeŋani ambe. Ini ambe jimbo iamendu k'uiripu jatsisti jurhimbekua eska kuajpikurhintaaka.\nArhujtakua 13\nIamendu k'uiripu jurhimbekua jatsisti jamani ka erakukuarhini nani enga irekaaka ma Irechekuarhu.\nIamendu k'uiripu jurhimbekua jatsisti ueakuni ma o imeri paisirhu ka menderu ichaakuntani.\nArhujtakua 14\nEnga andanguŋani o jupiŋakuekani jauaka\nI jurhimbekua no uati uanakutani o kurajkuarhini ma ambe tsïjpakua jimbo enga ambe arhijka Nasionesi Unidasirhu.\nArhujtakua 15\nIamendu k'uiripu jurhimbikua jatsisti nani enga anapueuaka.\nNo nema euakuarheŋaati jurhimbikua isku undani nani enga anapueuaka o irekaaka ka majku jastu enga uekaaka mojtakukuarhini materu o\ntamu iso\nArhujtakua 16\nTs'iueriticha ka uárhicha, engaksï tumbiuaka ia ka iurhitskirini ia, jurhimbikua jatsistiksï, no p'inguŋaparini iurhiri anapuekua o chereŋekua\njimbo, tembuchani o uambuchani ka ireskuni ma japindembekua; ka majku jaso marhuataatiksï jurhimbikuechani engaksï tembungurhitini\njauaka ia ka istu engaksï jurhajkperaaka.\nJeiokperaparinskï ka uekaparinkuksï uati tembungurhirini.\nJapindembekua kueraakatesti parhakpenirhu ka jurhimbikua jarhasti eskiksï ireta ka Irechekua kuajpiaka ka jarhuatpeaka.\nArhujtakua 17\nIamendu k'uiripu jurhimbekua jatsisti eski mamaru ambe jandiajku minguarhiaka, ka istu kunguarhuntatini mamaru ambe jatsikuarhini materu\nk'uiripuecha jingoni."
         },
         "3": {
-            "Label": "4",
-            "Index": 3,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
             ],
-            "Text": "No nema euakuarhiŋaati iskumendu imeri jatsikuarhikua ambe.\nArhujtakua 18\nIamendu k'uiripu jurhimbekua jatsisti eratseni eski na uekaaka, jaŋaskani ka chereŋentu iso; i jurhimbekuajtu arhisïndi eski uŋaaka mojtakuni\nchereŋekua ka jokajkukua, istu uandani na jaso chereŋesondi ka jakajkusïndi, jandiajku ka uanekuecha jingoni, xani eski mitikuarhiaka ka\neskajtu no ambe, jorhenguarhikua jimbo, isï ukua jimbo, jangua ka exekua jimbo.\nArhujtakua 19\nIamendu k'uiripuecha jurhimbekua jatsistiksï arhijpeni ka uandani; i jurhimbikuajtu arhisïndi eski no ambe ma arhiŋaaka ambe enga uandaaka,\nka etsakuni, mamaru jasï ambe etsakutarakua jimbo.\nArhujtakua 20\nIamendu k'uiripuecha sesikua jasistiksï tanguarhiŋantani ka kunguarhiŋantani kasopekua jingoni.\nNo nemanksï uati uiŋarhitani eski ma kunguarhikua jingoniuaka.\nArhujtakua 21\nIamendu k'uiripu jatsisti sesikua uni andaparakuerani k'eri juramukuarhu, andaparakuerani o enga erakuntskuarhu uéraaka.\nIamendu k'uiripu sesikua jatsisti eski majku jasï ambe uaka teruŋarhitaŋani juramukua imeri paisirhu.\nK'uiripueri eratsekua ireteri anapu majkuesti jupitsekua uiŋapikua enga ireta uandaaka juramukueri; i kuramukperati uati ma juramitini jatsini\nerakuntskuarhu engakso ukuarheni jauaka na jatini enga k'uaniaka, erakuntaparini sïpatinku o iamendu exeŋaparini.\nArhujtakua 22\nIamendu k'uiripu, jimboka iretarhu anapueka, jurhimbikua jatsisti jaŋaŋarhikua kuajperata intsoŋani jarhuajperaparini iamendu juramukuecha\njingoni juchari pʋindetsikuarhu jimbo ka tepetsekuarhu, marhuatani tumini juchari Irechekuarhu anapu, enga uetarka imeri jaŋaskua sesi\njaxeaka ka t'arhexeaka.\nArhujtakua 23\nIamendu k'uiripu jatsisti eski intsïŋaaka ma anchekuarheta, eski ima na jasï jaŋaskatini jauaka, majkueni eski maruteruecheri ka eska\nkuajpeŋaaka enga niatakua no ambe jatsikuarhiaka.\nIamendu k'uiripu jurhimbekua jatsisti, no amutaŋantaparini, eski meiamuŋaaka ambe ka na xani enga anchikuarhitini jauaka.\nIamendu k'uiripu enga anchikuarhijka jurhimbikua jatsisti eska sesi meiamuŋaaka ka sesi exeaka, eski uaka nitamakuarhini ka sesi",
-            "Image": "8974dbbbae2c06de9474fc76d7c04566"
+            "Image": "8974dbbbae2c06de9474fc76d7c04566",
+            "Index": 3,
+            "Label": "4",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "No nema euakuarhiŋaati iskumendu imeri jatsikuarhikua ambe.\nArhujtakua 18\nIamendu k'uiripu jurhimbekua jatsisti eratseni eski na uekaaka, jaŋaskani ka chereŋentu iso; i jurhimbekuajtu arhisïndi eski uŋaaka mojtakuni\nchereŋekua ka jokajkukua, istu uandani na jaso chereŋesondi ka jakajkusïndi, jandiajku ka uanekuecha jingoni, xani eski mitikuarhiaka ka\neskajtu no ambe, jorhenguarhikua jimbo, isï ukua jimbo, jangua ka exekua jimbo.\nArhujtakua 19\nIamendu k'uiripuecha jurhimbekua jatsistiksï arhijpeni ka uandani; i jurhimbikuajtu arhisïndi eski no ambe ma arhiŋaaka ambe enga uandaaka,\nka etsakuni, mamaru jasï ambe etsakutarakua jimbo.\nArhujtakua 20\nIamendu k'uiripuecha sesikua jasistiksï tanguarhiŋantani ka kunguarhiŋantani kasopekua jingoni.\nNo nemanksï uati uiŋarhitani eski ma kunguarhikua jingoniuaka.\nArhujtakua 21\nIamendu k'uiripu jatsisti sesikua uni andaparakuerani k'eri juramukuarhu, andaparakuerani o enga erakuntskuarhu uéraaka.\nIamendu k'uiripu sesikua jatsisti eski majku jasï ambe uaka teruŋarhitaŋani juramukua imeri paisirhu.\nK'uiripueri eratsekua ireteri anapu majkuesti jupitsekua uiŋapikua enga ireta uandaaka juramukueri; i kuramukperati uati ma juramitini jatsini\nerakuntskuarhu engakso ukuarheni jauaka na jatini enga k'uaniaka, erakuntaparini sïpatinku o iamendu exeŋaparini.\nArhujtakua 22\nIamendu k'uiripu, jimboka iretarhu anapueka, jurhimbikua jatsisti jaŋaŋarhikua kuajperata intsoŋani jarhuajperaparini iamendu juramukuecha\njingoni juchari pʋindetsikuarhu jimbo ka tepetsekuarhu, marhuatani tumini juchari Irechekuarhu anapu, enga uetarka imeri jaŋaskua sesi\njaxeaka ka t'arhexeaka.\nArhujtakua 23\nIamendu k'uiripu jatsisti eski intsïŋaaka ma anchekuarheta, eski ima na jasï jaŋaskatini jauaka, majkueni eski maruteruecheri ka eska\nkuajpeŋaaka enga niatakua no ambe jatsikuarhiaka.\nIamendu k'uiripu jurhimbekua jatsisti, no amutaŋantaparini, eski meiamuŋaaka ambe ka na xani enga anchikuarhitini jauaka.\nIamendu k'uiripu enga anchikuarhijka jurhimbikua jatsisti eska sesi meiamuŋaaka ka sesi exeaka, eski uaka nitamakuarhini ka sesi"
         },
         "4": {
-            "Label": "5",
-            "Index": 4,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
             ],
-            "Text": "irekakuarhitarani imeri anapuecha jingoni.\nIamendu k'uiripu sesikua jatsisti kunguarhikuechani uaxastaani ka imajtu inchajpeni kunguarhekuarhu ka isï uni kuapini imeri anchikurhikuani.\nArhujtakua 24\nIamu k'uiripu jatsikuarhesti jurhimbekua mintsïkuarhekua, jurhitenchakuarhekua, sesku atakua anchakuarhekua ka isïjtu jakua na jasï jimbo\njandajpekua meiamukata.\nArhujtakua 25\nIamu k'uipiru jatsikuarhesti jurhimbekua jurhimbejtsïtatakua tsipekueri terukutakata imangi tatetspekuuaka, ka isïjtu imeri exenchperakuani,\nuratajperantskua, ka sesi jakua, ka t'irekua jindemendo, xukuparhakua, irekua, tsinajperakua ka imangi uetarhiuaka ireteri manaratsperakua; ka\nisïjtu jatsisti jurhimbekua tataetsperakuechani, iki no jatsikuarheuaka anchekuarheta, p'amenchakua, no ambouakua, tsïndikua, t'arhepekua o\nmateru ambe jimbo enga tsïtooka imeri nitamanchakua imangi jimbo no isï atini jauaka.\nKuxarhekua ka uajpa sapichuekua jurhimbekua jatsikuarhestiksï jukauantskuaechani ka jandiojko jarhutakuaechani. Iamendu takiecha,\njupiuakata tembuchakua o uérakua tembuchakuarhu, jurhimbekua jatsisti majku jasï kuaŋani iretarhu.\nArhujtakua 26\nIamu k'uiripu jurhimbekua jatsikuarhesti amboŋastakua intso\nAmboŋastajperakua niarauati iamu p'irakuni k'uiripekua k'uiripuchaeueri ka uiŋaperani jaŋaŋarhikua jurhimbekua k'uiripuecheri ka\njanguarhekuaechanijku, uiŋaperauati kurhangukua, tekaantskua ka sesi pajperakua iamu sorangua k'uiripucheri ka iamu iretecheri o\nchereŋekuaecheri, ka manatooti p'irakukua niatakuaecha Kunguarhekua So\nTatembaecha uati erakuni na jasï amboŋastajperakua uekasïni intskuni uajpechani.\nArhujtakua 27\nIamu k'uiripu jurhimbekua jatsikuarhesti jandijku inchamukuni mimixekua tsipekuarhu ireteri, maruutani anchekuarheta imangi tsitieka ka\ninchajpeni jurhenguarhu imangi urhepani jauaka ka jurhiatenchakua imangiksï jima uérooka.\nIamu k'uiripu jatsikuarhesti jurhimbekua kuajperantskua imeri pejparikuaechani sesi jangua ka kejtaskuarhekuecheri imangiksï k'uaninchooka,\nanchekuarheta petakua, mimxekua, karakua o imecheri sesi niatakua jimbo.\nArhujtakua 28\nIamu k'uiripu jurhimbekua jatsikuarhesti esïki ikaskuŋooka ma ireteri uandangukata ka iamu sïrukua k'uiripuecheri jininga jurhimbekuaecha ka\njanguarhekuecha enga eiamarhijperaŋajka i amboŋastajperakuarhu esoka isï niatakuarheuaka.",
-            "Image": "d02aae6a4311bf12e4cd2372d5870496"
+            "Image": "d02aae6a4311bf12e4cd2372d5870496",
+            "Index": 4,
+            "Label": "5",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "irekakuarhitarani imeri anapuecha jingoni.\nIamendu k'uiripu sesikua jatsisti kunguarhikuechani uaxastaani ka imajtu inchajpeni kunguarhekuarhu ka isï uni kuapini imeri anchikurhikuani.\nArhujtakua 24\nIamu k'uiripu jatsikuarhesti jurhimbekua mintsïkuarhekua, jurhitenchakuarhekua, sesku atakua anchakuarhekua ka isïjtu jakua na jasï jimbo\njandajpekua meiamukata.\nArhujtakua 25\nIamu k'uipiru jatsikuarhesti jurhimbekua jurhimbejtsïtatakua tsipekueri terukutakata imangi tatetspekuuaka, ka isïjtu imeri exenchperakuani,\nuratajperantskua, ka sesi jakua, ka t'irekua jindemendo, xukuparhakua, irekua, tsinajperakua ka imangi uetarhiuaka ireteri manaratsperakua; ka\nisïjtu jatsisti jurhimbekua tataetsperakuechani, iki no jatsikuarheuaka anchekuarheta, p'amenchakua, no ambouakua, tsïndikua, t'arhepekua o\nmateru ambe jimbo enga tsïtooka imeri nitamanchakua imangi jimbo no isï atini jauaka.\nKuxarhekua ka uajpa sapichuekua jurhimbekua jatsikuarhestiksï jukauantskuaechani ka jandiojko jarhutakuaechani. Iamendu takiecha,\njupiuakata tembuchakua o uérakua tembuchakuarhu, jurhimbekua jatsisti majku jasï kuaŋani iretarhu.\nArhujtakua 26\nIamu k'uiripu jurhimbekua jatsikuarhesti amboŋastakua intso\nAmboŋastajperakua niarauati iamu p'irakuni k'uiripekua k'uiripuchaeueri ka uiŋaperani jaŋaŋarhikua jurhimbekua k'uiripuecheri ka\njanguarhekuaechanijku, uiŋaperauati kurhangukua, tekaantskua ka sesi pajperakua iamu sorangua k'uiripucheri ka iamu iretecheri o\nchereŋekuaecheri, ka manatooti p'irakukua niatakuaecha Kunguarhekua So\nTatembaecha uati erakuni na jasï amboŋastajperakua uekasïni intskuni uajpechani.\nArhujtakua 27\nIamu k'uiripu jurhimbekua jatsikuarhesti jandijku inchamukuni mimixekua tsipekuarhu ireteri, maruutani anchekuarheta imangi tsitieka ka\ninchajpeni jurhenguarhu imangi urhepani jauaka ka jurhiatenchakua imangiksï jima uérooka.\nIamu k'uiripu jatsikuarhesti jurhimbekua kuajperantskua imeri pejparikuaechani sesi jangua ka kejtaskuarhekuecheri imangiksï k'uaninchooka,\nanchekuarheta petakua, mimxekua, karakua o imecheri sesi niatakua jimbo.\nArhujtakua 28\nIamu k'uiripu jurhimbekua jatsikuarhesti esïki ikaskuŋooka ma ireteri uandangukata ka iamu sïrukua k'uiripuecheri jininga jurhimbekuaecha ka\njanguarhekuecha enga eiamarhijperaŋajka i amboŋastajperakuarhu esoka isï niatakuarheuaka."
         },
         "5": {
-            "Label": "6",
-            "Index": 5,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
             ],
-            "Text": "Arhujtakua 29\nIamu k'uiripu jatsikuarhesti eiauandakuarhekuaechani ireta jinguni, jimboka jimajku uaka kuerakuarheni jandijku imeri k'uiripekua.\nNiatakua iameueri jurhimbekuaecha ka marhunchakua imaeueri janguarhekuaecha, iamu k'uiripu engauati jupikakata jima jimberu esïka na\nuandakata jauaka uandaskukatarhu jimbokijtu isïjku uati uiŋamu jupikani mitejperantskua ka jaŋaŋarhikua jurhimbekua ka janguaecheri,\nireteri uandangukata ka sesi irekua ma iretarhu imangi jauaka ireteri juramukua.\nI jurhimbekuaecha ka jandijku hanguarhekua no uati mentjíkusï niatakuarheni taŋatskuarhekuni uengurhikua ka uandaŋekuaechani\nKunguarhekua Ma Sorangua K'uiripuecheri.\nArhujtakua 30\nNo ambe ma i amboŋastajperakua uati kurhangukuarheni esoki intskusïnga jurhimbekua irechakuani, ma umbatsekuani o ma k'uiripuni, uenani\nka píirakuni niatakuechani o niatani ambe ma imangisï texurhiuaka kenditani nakinderku ma jurhimbekuechani ka jandijku janguarhekauechani\neiamarhijperakatecha i amboŋastajperakuarhu.",
-            "Image": "ade2a0c8309a760016c5ee2a01b2a09b"
+            "Image": "ade2a0c8309a760016c5ee2a01b2a09b",
+            "Index": 5,
+            "Label": "6",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Arhujtakua 29\nIamu k'uiripu jatsikuarhesti eiauandakuarhekuaechani ireta jinguni, jimboka jimajku uaka kuerakuarheni jandijku imeri k'uiripekua.\nNiatakua iameueri jurhimbekuaecha ka marhunchakua imaeueri janguarhekuaecha, iamu k'uiripu engauati jupikakata jima jimberu esïka na\nuandakata jauaka uandaskukatarhu jimbokijtu isïjku uati uiŋamu jupikani mitejperantskua ka jaŋaŋarhikua jurhimbekua ka janguaecheri,\nireteri uandangukata ka sesi irekua ma iretarhu imangi jauaka ireteri juramukua.\nI jurhimbekuaecha ka jandijku hanguarhekua no uati mentjíkusï niatakuarheni taŋatskuarhekuni uengurhikua ka uandaŋekuaechani\nKunguarhekua Ma Sorangua K'uiripuecheri.\nArhujtakua 30\nNo ambe ma i amboŋastajperakua uati kurhangukuarheni esoki intskusïnga jurhimbekua irechakuani, ma umbatsekuani o ma k'uiripuni, uenani\nka píirakuni niatakuechani o niatani ambe ma imangisï texurhiuaka kenditani nakinderku ma jurhimbekuechani ka jandijku janguarhekauechani\neiamarhijperakatecha i amboŋastajperakuarhu."
         }
     }
 }

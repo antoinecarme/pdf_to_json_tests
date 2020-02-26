@@ -1,80 +1,80 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581468541,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
+            ],
+            "Image": "a361a2e63f2c36d7d6ad371a47eac6ba",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
-            ],
-            "Text": "Nana Comɨnɨ Uri Illafue\nNaga naɨraɨ Naciones Unidas railla rafuemo danomo duide. Perú iemo duide. Naga naɨraɨmona\ndamie jaide. Rafuena siadollena, danomo oficabidɨmacɨ. 10 de diciembre de 1948 bie\nrabemo ita rafuena llotɨmacɨ. Nana ie rafuena nana comɨnɨ uiñollena jitaidɨmacɨ. Ie jira\nPerú ie gobierno bie rafuena birui cuetatate.\nNano llogafue\nBiena uiño: Nana comɨnɨ jɨaɨe comɨnɨ anamo iñellena, ie fɨnua dɨese nagamɨe feiñollena,\nnana comɨnɨ uri illena, bie rafuena llotɨcaɨ. Comena nagamɨe jeicɨa jira, bie rafuena\nllotɨcaɨ. Nana comɨnɨmo bie rafue daje isoi duide.\nBiena uiño: Ailluena comɨnɨ, dɨga icaiño jɨaɨe comɨnɨmona duere sefuilla jira, nana comɨnɨ\njacɨruiñeno iacana jira, naga comɨnɨ rana iacana jira, bie rafuena llotɨcaɨ. Duere sefui\nraillano, nana comɨnɨ nɨe isoide rafuena jacɨruiñeno llollena, bie rafuena llotɨcaɨ. Duere\nsefui raillano, nana comɨnɨ nɨe isoide rafuena jacɨruiñeno llollena, bie rafuena llotɨcaɨ.\nBiena uiño: Naga gobierno ie comɨnɨna canua, naimacɨmo bie isoide rafue illena. Gobierno\ndɨga, jobaime naimacɨ fɨnoñellena, bie isoide rafue ie comɨnɨmo illena, naga gobierno ie\ncomɨnɨna canua.\nBiena uiño: Naga naɨraɨ jɨaɨe naɨraɨ dɨga, nabairillana caɨjɨtailla jira, bie rafuena\nllotɨcaɨ.\nBiena uiño: Naga Naciones Unidamo duide naɨraɨ bie rafuedo jaiacana jira, bie rafuena\nllotɨcaɨ. Nagamɨe comena jeicɨga. Ɨima rɨño baɨfemo faɨñede. Rɨño ɨɨma baɨfemo faɨñede. Comɨnɨ\nduere itɨnona jitaiñedɨcaɨ, iadedɨ naɨmacɨ uri caɨmare illana jitaidɨcaɨ.\nBiena uiño: -Danomo bie rafue llocana jaitɨcaɨ - nana Naciones Unidamo duide naɨraɨ\nllotɨmacɨ.\nBiena uiño: Bie rafuena nana comɨnɨ raise atona uiñuana jitaidɨcaɨ. Iena nana comɨnɨ\nuiñuamona, bie rafue suicana jaite.\nDanomo ofillanona bie rafuena llotɨcaɨ\nNana comɨnɨ bie rafue anamo jitaidɨcaɨ. Naga naɨraɨ bie rafuena ɨɨuana jitaidɨcaɨ. Bie\nrafuena naɨmacɨ comɨnɨna llofuiana jitaidɨcaɨ. Naga naɨraɨ bie rafue lloga uai fɨnuana\njitaidɨcaɨ, nana naimacɨ comɨnɨ bie rafuena ollena. Ie jira bie rafuena llotɨcaɨ.\nRafue 1.\nNana caɨ comuillamona dama caɨ abido itɨcaɨ. Caɨ comuillamona jɨaɨmɨe anamo iñedɨcaɨ. Nana\ndaje facaiconi itɨcaɨ. Abɨ uiñuanona comuidɨcaɨ. Danɨ coninɨrie caɨ nabairilla.\nRafue 2.\nNana comɨnɨmo bie rafue duide. Naga naɨraɨmo bie rafue duide: naga rɨñomo, naga ɨimamo,\nJusiñamuina sedadɨmɨemo, Jusiñamuina sedañedɨmɨemo, jamai bue isoidɨmɨemo, jamai bue\nisoiñedɨmɨemo, dueredɨmɨemo, ucuberedɨmɨemo, rɨaɨ uaina ñaɨtɨmɨemo, jɨaɨe uaina ñaɨtɨmɨemo,\ndɨese itɨnomo bie rafue duide. Nɨe isoide gobierno anamo naɨmacɨ ia, bie rafue nana\nnaimacɨmo duide.\nRafue 3.",
-            "Image": "a361a2e63f2c36d7d6ad371a47eac6ba"
+            "Text": "Nana Comɨnɨ Uri Illafue\nNaga naɨraɨ Naciones Unidas railla rafuemo danomo duide. Perú iemo duide. Naga naɨraɨmona\ndamie jaide. Rafuena siadollena, danomo oficabidɨmacɨ. 10 de diciembre de 1948 bie\nrabemo ita rafuena llotɨmacɨ. Nana ie rafuena nana comɨnɨ uiñollena jitaidɨmacɨ. Ie jira\nPerú ie gobierno bie rafuena birui cuetatate.\nNano llogafue\nBiena uiño: Nana comɨnɨ jɨaɨe comɨnɨ anamo iñellena, ie fɨnua dɨese nagamɨe feiñollena,\nnana comɨnɨ uri illena, bie rafuena llotɨcaɨ. Comena nagamɨe jeicɨa jira, bie rafuena\nllotɨcaɨ. Nana comɨnɨmo bie rafue daje isoi duide.\nBiena uiño: Ailluena comɨnɨ, dɨga icaiño jɨaɨe comɨnɨmona duere sefuilla jira, nana comɨnɨ\njacɨruiñeno iacana jira, naga comɨnɨ rana iacana jira, bie rafuena llotɨcaɨ. Duere sefui\nraillano, nana comɨnɨ nɨe isoide rafuena jacɨruiñeno llollena, bie rafuena llotɨcaɨ. Duere\nsefui raillano, nana comɨnɨ nɨe isoide rafuena jacɨruiñeno llollena, bie rafuena llotɨcaɨ.\nBiena uiño: Naga gobierno ie comɨnɨna canua, naimacɨmo bie isoide rafue illena. Gobierno\ndɨga, jobaime naimacɨ fɨnoñellena, bie isoide rafue ie comɨnɨmo illena, naga gobierno ie\ncomɨnɨna canua.\nBiena uiño: Naga naɨraɨ jɨaɨe naɨraɨ dɨga, nabairillana caɨjɨtailla jira, bie rafuena\nllotɨcaɨ.\nBiena uiño: Naga Naciones Unidamo duide naɨraɨ bie rafuedo jaiacana jira, bie rafuena\nllotɨcaɨ. Nagamɨe comena jeicɨga. Ɨima rɨño baɨfemo faɨñede. Rɨño ɨɨma baɨfemo faɨñede. Comɨnɨ\nduere itɨnona jitaiñedɨcaɨ, iadedɨ naɨmacɨ uri caɨmare illana jitaidɨcaɨ.\nBiena uiño: -Danomo bie rafue llocana jaitɨcaɨ - nana Naciones Unidamo duide naɨraɨ\nllotɨmacɨ.\nBiena uiño: Bie rafuena nana comɨnɨ raise atona uiñuana jitaidɨcaɨ. Iena nana comɨnɨ\nuiñuamona, bie rafue suicana jaite.\nDanomo ofillanona bie rafuena llotɨcaɨ\nNana comɨnɨ bie rafue anamo jitaidɨcaɨ. Naga naɨraɨ bie rafuena ɨɨuana jitaidɨcaɨ. Bie\nrafuena naɨmacɨ comɨnɨna llofuiana jitaidɨcaɨ. Naga naɨraɨ bie rafue lloga uai fɨnuana\njitaidɨcaɨ, nana naimacɨ comɨnɨ bie rafuena ollena. Ie jira bie rafuena llotɨcaɨ.\nRafue 1.\nNana caɨ comuillamona dama caɨ abido itɨcaɨ. Caɨ comuillamona jɨaɨmɨe anamo iñedɨcaɨ. Nana\ndaje facaiconi itɨcaɨ. Abɨ uiñuanona comuidɨcaɨ. Danɨ coninɨrie caɨ nabairilla.\nRafue 2.\nNana comɨnɨmo bie rafue duide. Naga naɨraɨmo bie rafue duide: naga rɨñomo, naga ɨimamo,\nJusiñamuina sedadɨmɨemo, Jusiñamuina sedañedɨmɨemo, jamai bue isoidɨmɨemo, jamai bue\nisoiñedɨmɨemo, dueredɨmɨemo, ucuberedɨmɨemo, rɨaɨ uaina ñaɨtɨmɨemo, jɨaɨe uaina ñaɨtɨmɨemo,\ndɨese itɨnomo bie rafue duide. Nɨe isoide gobierno anamo naɨmacɨ ia, bie rafue nana\nnaimacɨmo duide.\nRafue 3."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
+            ],
+            "Image": "ba95862363a0c6e79805baa17e1cfebd",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
-            ],
-            "Text": "Nana comɨnɨ illana jitaidɨcaɨ. Jɨaɨe comɨnɨ anamo bu jacaiñenia, jɨaɨme anamo budɨ naimɨe\nanamo oreñena. Nana comɨnɨ jɨaɨe comɨnɨna jacɨruiñenana jitaidɨcaɨ.\nRafue 4.\nJɨaɨe comemo maɨjɨllena jaca budɨ comɨnɨna ebe isoi fecañena. Iena caidɨca.\nRafue 5.\nComɨnɨna isi cacaitañena. Duere sefuiñellena, comɨnɨna janafefitañena.\nRafue 6.\nNaga gobierno railla: -Nana caɨ enɨruemo itɨnodɨ comɨnɨdɨmacɨ. Ie jira daje isoi\nnagamɨiaɨna canoitɨcaɨ -railla.\nRafue 7.\nNana comɨnɨ gobierno lloga uai anamo daje isoi itɨmacɨ. Nana comɨnɨmo gobierno lloga uai\ndaje isoi duide. Bie rafuedo jaiñedɨmɨemona jaca buna duere sefuiñena.\nRafue 8.\nGobierno lloga uaido jaiñedɨmɨemona bu duere sefuia, naiena raise siadollena, juez dɨne\nnaimɨe jaillana buna rairuiñena.\nRafue 9.\nIllaɨcomɨnɨdɨ jamai ebena buna gaɨtañena. Calabozomo, cárcelmo jamai ebena buna uiñega.\nIe naɨraɨ motomona budɨ jamai ebena dotañega.\nRafue 10.\nBumo llogɨdua rafue ia, naie rafue duiñena juez dɨne naimɨena uille, naie rafue raise\nsiadollena. Bainino iene fɨnoñena.\nRafue 11.\nBumo llogɨdua rafue ia, naie rafuena nia siadoñenia, naimɨena nia duere fɨnoñena. Juez\ndɨne naie rafuena bainino siadoñena. Naimie dɨbeimo itɨnona naimɨena rɨidollena\nrairuiñena.\nNavui ie fɨnoca nia rairuiñega rafue facaina birui naimɨena duere fɨnoñena. Rairuica\nrafue bu fɨnoia, ie fɨnoca facaise duere sefuillacɨno baɨfemo naimɨe duere sefuiñena.\nRafue 12.\nNagamɨe jofomo uri illa. Ie illa comɨnɨ dɨga icɨrafuena fɨnoñena. Bu naimɨena uri\nitatañenia, naimɨe jitaia, ie uri itatañedɨmɨena naimɨe llogɨdoia, iena illaɨcomɨnɨ\nrairuiñena. Bu naimɨe jeare ñaɨa, naimɨe jitaia, naimɨe jeare ñaɨtɨmɨena naimɨe llogɨdoia,\niena illaɨcomɨnɨ rairuiñena.\nRafue 13.\nIe naɨraɨmo nɨne bu macariacania, illaɨcomɨnɨ naimɨena rairuiñena. Ie naɨraɨmo nɨne ie jofo\nillana bu jitaia, illaɨcomɨnɨ naimɨena rairuiñena.",
-            "Image": "ba95862363a0c6e79805baa17e1cfebd"
+            "Text": "Nana comɨnɨ illana jitaidɨcaɨ. Jɨaɨe comɨnɨ anamo bu jacaiñenia, jɨaɨme anamo budɨ naimɨe\nanamo oreñena. Nana comɨnɨ jɨaɨe comɨnɨna jacɨruiñenana jitaidɨcaɨ.\nRafue 4.\nJɨaɨe comemo maɨjɨllena jaca budɨ comɨnɨna ebe isoi fecañena. Iena caidɨca.\nRafue 5.\nComɨnɨna isi cacaitañena. Duere sefuiñellena, comɨnɨna janafefitañena.\nRafue 6.\nNaga gobierno railla: -Nana caɨ enɨruemo itɨnodɨ comɨnɨdɨmacɨ. Ie jira daje isoi\nnagamɨiaɨna canoitɨcaɨ -railla.\nRafue 7.\nNana comɨnɨ gobierno lloga uai anamo daje isoi itɨmacɨ. Nana comɨnɨmo gobierno lloga uai\ndaje isoi duide. Bie rafuedo jaiñedɨmɨemona jaca buna duere sefuiñena.\nRafue 8.\nGobierno lloga uaido jaiñedɨmɨemona bu duere sefuia, naiena raise siadollena, juez dɨne\nnaimɨe jaillana buna rairuiñena.\nRafue 9.\nIllaɨcomɨnɨdɨ jamai ebena buna gaɨtañena. Calabozomo, cárcelmo jamai ebena buna uiñega.\nIe naɨraɨ motomona budɨ jamai ebena dotañega.\nRafue 10.\nBumo llogɨdua rafue ia, naie rafue duiñena juez dɨne naimɨena uille, naie rafue raise\nsiadollena. Bainino iene fɨnoñena.\nRafue 11.\nBumo llogɨdua rafue ia, naie rafuena nia siadoñenia, naimɨena nia duere fɨnoñena. Juez\ndɨne naie rafuena bainino siadoñena. Naimie dɨbeimo itɨnona naimɨena rɨidollena\nrairuiñena.\nNavui ie fɨnoca nia rairuiñega rafue facaina birui naimɨena duere fɨnoñena. Rairuica\nrafue bu fɨnoia, ie fɨnoca facaise duere sefuillacɨno baɨfemo naimɨe duere sefuiñena.\nRafue 12.\nNagamɨe jofomo uri illa. Ie illa comɨnɨ dɨga icɨrafuena fɨnoñena. Bu naimɨena uri\nitatañenia, naimɨe jitaia, ie uri itatañedɨmɨena naimɨe llogɨdoia, iena illaɨcomɨnɨ\nrairuiñena. Bu naimɨe jeare ñaɨa, naimɨe jitaia, naimɨe jeare ñaɨtɨmɨena naimɨe llogɨdoia,\niena illaɨcomɨnɨ rairuiñena.\nRafue 13.\nIe naɨraɨmo nɨne bu macariacania, illaɨcomɨnɨ naimɨena rairuiñena. Ie naɨraɨmo nɨne ie jofo\nillana bu jitaia, illaɨcomɨnɨ naimɨena rairuiñena."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
+            ],
+            "Image": "cc120c66c3db87b6654f9c9a4acab36d",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
-            ],
-            "Text": "Jɨaɨe naɨraɨmo bu macariacania, illaɨcomɨnɨ naimɨena rairuiñena. Abɨdo ie naɨraɨmo naimɨe\nbiacania, illaɨcomɨnɨ naimɨena rairuiñena. Illaɨcomɨnɨ naimɨena caidɨñena.\nRafue 14.\nDuere sefuillamona jɨaɨe naɨraɨmo nainomo duere sefuiñellena bu jaiacania, illaɨcomɨnɨ\nnaimɨena rairuiñena.\nMaraiñedɨcɨno fɨnoñenia, naimɨe jaillana illaɨcomɨnɨdɨ rairuiñena.\nRafue 15.\nNaga gobierno railla: -Nana caɨ enɨruemo itɨnodɨ caɨ comɨnɨ. Caɨ naɨraɨmo duudɨmacɨ -railla.\nGobierno ie comɨnɨna oni dotañena, jɨaɨe gobierno naimacɨna feiñoiacaiñenia. Caɨ naɨraɨmo\nduiñedɨo -illaɨcomɨnɨ buna iese lloñena. Jɨaɨe naɨraɨ imɨena bu jaiacania, illaɨcomɨnɨ iena\nrairuiñena.\nRafue 16.\nIe aɨna illena, nɨe eimɨe rɨñona oiacania, iena buna rairuiñena. Nɨe isoide rɨñona ollena\nbuna rairuiñena. Ie ɨni illena, nɨe rɨño eiñaiño ɨimana oiacania, iena buna rairuiñena.\nNɨe isoide ɨimana ollena buna rairuiñena. Ua mei, uruiaɨna iaɨmaiaɨ comuitajana buna\nrairuiñena.\nAɨna ollena, ɨnina ollena, conimana jitaillanona iite.\nNaga ɨima ie aɨ dɨga ia, naga rɨño ie ɨni dɨga ia, ie naɨraɨ judaɨsiñeite, iadedɨ naga ɨima\nie aɨñede rɨño dɨga icabia, ie naɨraɨdɨ judaɨrite. Naɨmacɨ comɨnɨ uri illena, naimacɨ naɨraɨaɨ\njudaɨsiñellena, naga gobierno ie comɨnɨna canua.\nRafue 17.\nEnɨruena bu namataacania, jofona bu namataacania, rana bu namataacania, illaɨcomɨnɨ\nnaimɨena rairuiñena. Naga come iena namataacania, jɨaɨe comɨnɨ dɨga iena namataacania,\nillaɨcomɨnɨ naimɨena rairuiñena.\nBumona ie enɨruena, bumona ie jofona, bumona ie rana jamai ebena baɨroñena.\nRafue 18.\nBue isoide ramo ie comecɨna facaia, buna naimɨena rairuiñena. Jusiñamuina bu sedaacania,\nbuna naimɨena rairuiñena. Nɨe isoidɨmɨena bu sedaacania, buna naimɨena rairuiñena. Jɨaɨe\nraɨuedo bu jaiacania, buna naimɨe rairuiñena. Jɨaɨe comɨnɨmo naimɨe ɨɨnuacino lluana buna\nrairuiñena. Ie joɨomo iena lloia, jino iena lloia, naimɨena buna rairuiñena.\nRafue 19.\nNɨe isoide ramo ie comecɨ facaia, naimɨena buna rairuiñena. Naimɨe comecɨ facajacɨno\nmuidona, naimɨe duere sefuiñena. Jɨaɨe naɨraɨmona bue isoide comecɨna facajacɨnona naimɨe\nfeiñoiacania, jɨaɨe naɨraɨmo bue isoide comecɨ facajacɨnona naimɨe oretaiacania, iena\nillaɨcomɨnɨ rairuiñena.\nRafue 20.\nJamai nɨe isoide rafue finollena comɨnɨ ofitaia, naimacɨna buna rairuiñena. Nɨe isoide\nrafuemo bu duicania, iena buna rairuiñena.",
-            "Image": "cc120c66c3db87b6654f9c9a4acab36d"
+            "Text": "Jɨaɨe naɨraɨmo bu macariacania, illaɨcomɨnɨ naimɨena rairuiñena. Abɨdo ie naɨraɨmo naimɨe\nbiacania, illaɨcomɨnɨ naimɨena rairuiñena. Illaɨcomɨnɨ naimɨena caidɨñena.\nRafue 14.\nDuere sefuillamona jɨaɨe naɨraɨmo nainomo duere sefuiñellena bu jaiacania, illaɨcomɨnɨ\nnaimɨena rairuiñena.\nMaraiñedɨcɨno fɨnoñenia, naimɨe jaillana illaɨcomɨnɨdɨ rairuiñena.\nRafue 15.\nNaga gobierno railla: -Nana caɨ enɨruemo itɨnodɨ caɨ comɨnɨ. Caɨ naɨraɨmo duudɨmacɨ -railla.\nGobierno ie comɨnɨna oni dotañena, jɨaɨe gobierno naimacɨna feiñoiacaiñenia. Caɨ naɨraɨmo\nduiñedɨo -illaɨcomɨnɨ buna iese lloñena. Jɨaɨe naɨraɨ imɨena bu jaiacania, illaɨcomɨnɨ iena\nrairuiñena.\nRafue 16.\nIe aɨna illena, nɨe eimɨe rɨñona oiacania, iena buna rairuiñena. Nɨe isoide rɨñona ollena\nbuna rairuiñena. Ie ɨni illena, nɨe rɨño eiñaiño ɨimana oiacania, iena buna rairuiñena.\nNɨe isoide ɨimana ollena buna rairuiñena. Ua mei, uruiaɨna iaɨmaiaɨ comuitajana buna\nrairuiñena.\nAɨna ollena, ɨnina ollena, conimana jitaillanona iite.\nNaga ɨima ie aɨ dɨga ia, naga rɨño ie ɨni dɨga ia, ie naɨraɨ judaɨsiñeite, iadedɨ naga ɨima\nie aɨñede rɨño dɨga icabia, ie naɨraɨdɨ judaɨrite. Naɨmacɨ comɨnɨ uri illena, naimacɨ naɨraɨaɨ\njudaɨsiñellena, naga gobierno ie comɨnɨna canua.\nRafue 17.\nEnɨruena bu namataacania, jofona bu namataacania, rana bu namataacania, illaɨcomɨnɨ\nnaimɨena rairuiñena. Naga come iena namataacania, jɨaɨe comɨnɨ dɨga iena namataacania,\nillaɨcomɨnɨ naimɨena rairuiñena.\nBumona ie enɨruena, bumona ie jofona, bumona ie rana jamai ebena baɨroñena.\nRafue 18.\nBue isoide ramo ie comecɨna facaia, buna naimɨena rairuiñena. Jusiñamuina bu sedaacania,\nbuna naimɨena rairuiñena. Nɨe isoidɨmɨena bu sedaacania, buna naimɨena rairuiñena. Jɨaɨe\nraɨuedo bu jaiacania, buna naimɨe rairuiñena. Jɨaɨe comɨnɨmo naimɨe ɨɨnuacino lluana buna\nrairuiñena. Ie joɨomo iena lloia, jino iena lloia, naimɨena buna rairuiñena.\nRafue 19.\nNɨe isoide ramo ie comecɨ facaia, naimɨena buna rairuiñena. Naimɨe comecɨ facajacɨno\nmuidona, naimɨe duere sefuiñena. Jɨaɨe naɨraɨmona bue isoide comecɨna facajacɨnona naimɨe\nfeiñoiacania, jɨaɨe naɨraɨmo bue isoide comecɨ facajacɨnona naimɨe oretaiacania, iena\nillaɨcomɨnɨ rairuiñena.\nRafue 20.\nJamai nɨe isoide rafue finollena comɨnɨ ofitaia, naimacɨna buna rairuiñena. Nɨe isoide\nrafuemo bu duicania, iena buna rairuiñena."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
+            ],
+            "Image": "875870a938b4fc9013b6a86913fb9200",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
-            ],
-            "Text": "Nɨe isoide rafuemo bu duiacaiñenia. Iemo naimɨe duiñena buna rairuiñena.\nRafue 21.\nNaimɨe jitaia, danomo ofillano, nagamɨe ie illaɨcomɨnɨ nɨe isoi ie naɨraɨ sedajacɨnodɨ\nsiadoga. Naimɨe atona siadoiacaiñenia, naimɨe facaina jɨaɨmɨedɨ iena siadolle. Ie\nillaɨcomɨnɨr rafuena bu siadoiacania, naimɨena buna rairuiñena.\nIllaɨcomɨnɨna bu jaiacania, iena buna rairuiñena.\nComɨnɨ jitailla dɨese illaɨcomɨnɨdɨ nana comɨnɨna sedaja. Dajerie illaɨcomɨnɨna jaillena,\ncomɨnɨ dɨnena naimacɨna fetua. Nana comɨnɨ uainino naimacɨna fetua. Naie illaɨcomɨnɨ\nmeidollɨrui jɨaɨ lloga.\nRafue 22.\nSeguro social railla rafuemo nana comɨnɨ jaɨnaɨaɨna. Naie rafuemona ie gobierno ucube\nilla dɨese nagamɨe feiñua. Naimɨe buena jitai raillano, naimɨe comena jira, naimɨe uri\nillena, iese nagamɨe feiñua.\nRafue 23.\nNɨe isoide rana bu maɨjɨacania, naimɨena buna rairuiñena. Mare ra illanomo naimɨe maɨjɨa.\nMaɨjɨlle jaca illena, gobierno canua.\nJɨaɨmɨe iemaɨjɨamona ɨbana feiñoia, naimɨe isoi bu maɨjɨia, ie maɨjɨamona ɨbana raise\nfeiñua.\nNaimɨe comena jira, ie comɨnɨ buena jitai raillano, ɨbana naimɨe raise feiñua. Raise\nfeiñoñenia, gobierno naimɨena canua.\nRafue 24.\nMaɨjɨa fuilla mei, bu jafuier oiacania, naimɨena buna rairuiñena: Comɨnɨna are\nmaɨjɨtañena, iadedɨ naimcɨ maɨjɨacana dɨnori maɨjɨa. Fiesta raillaruimo naimacɨ maɨjɨtañena,\niadedɨ nairui facaina ɨbaca.\nRafue 25.\nIe comɨnɨ buena jitai raillano, ie maɨjɨmona nagamɨe ɨbana feiñua. Ie comɨnɨ raise\nguillena, ɨniroi illena, jofo raise illena, remedio ollena, ie dɨese ɨbana feiñua. Bu\nmaɨjɨnia, bu duia, bu fecɨñona ia, bu uaɨcɨmana jaia, ie ucube bumo iñenia, gobierno\nnaimɨena canua.\nRiño jocua facaise gobierno naiñaiñona canua. Gobierno naga uriaɨna daje isoi canua.\nMoorede uruena canua. Naɨso moto oga urue daje isoi canua.\nRafue 26.\nNana uruiat escuelamo jaillana buna rairuiñena. Nano jailla años facaina ibatañena.\nEscuelamo nana uruiatjailla. Primaria fuillanona jinɨe escuelamo bu jaiacania, iena\nillaicomɨnɨ t rairuiñena. Rabena uiñotɨno dɨese nainomo feiñoga.\nEscuelamo naga rafuena raise fɨnuana profesor llofuega. Naga urue comena jira, iese\nllofuega.",
-            "Image": "875870a938b4fc9013b6a86913fb9200"
+            "Text": "Nɨe isoide rafuemo bu duiacaiñenia. Iemo naimɨe duiñena buna rairuiñena.\nRafue 21.\nNaimɨe jitaia, danomo ofillano, nagamɨe ie illaɨcomɨnɨ nɨe isoi ie naɨraɨ sedajacɨnodɨ\nsiadoga. Naimɨe atona siadoiacaiñenia, naimɨe facaina jɨaɨmɨedɨ iena siadolle. Ie\nillaɨcomɨnɨr rafuena bu siadoiacania, naimɨena buna rairuiñena.\nIllaɨcomɨnɨna bu jaiacania, iena buna rairuiñena.\nComɨnɨ jitailla dɨese illaɨcomɨnɨdɨ nana comɨnɨna sedaja. Dajerie illaɨcomɨnɨna jaillena,\ncomɨnɨ dɨnena naimacɨna fetua. Nana comɨnɨ uainino naimacɨna fetua. Naie illaɨcomɨnɨ\nmeidollɨrui jɨaɨ lloga.\nRafue 22.\nSeguro social railla rafuemo nana comɨnɨ jaɨnaɨaɨna. Naie rafuemona ie gobierno ucube\nilla dɨese nagamɨe feiñua. Naimɨe buena jitai raillano, naimɨe comena jira, naimɨe uri\nillena, iese nagamɨe feiñua.\nRafue 23.\nNɨe isoide rana bu maɨjɨacania, naimɨena buna rairuiñena. Mare ra illanomo naimɨe maɨjɨa.\nMaɨjɨlle jaca illena, gobierno canua.\nJɨaɨmɨe iemaɨjɨamona ɨbana feiñoia, naimɨe isoi bu maɨjɨia, ie maɨjɨamona ɨbana raise\nfeiñua.\nNaimɨe comena jira, ie comɨnɨ buena jitai raillano, ɨbana naimɨe raise feiñua. Raise\nfeiñoñenia, gobierno naimɨena canua.\nRafue 24.\nMaɨjɨa fuilla mei, bu jafuier oiacania, naimɨena buna rairuiñena: Comɨnɨna are\nmaɨjɨtañena, iadedɨ naimcɨ maɨjɨacana dɨnori maɨjɨa. Fiesta raillaruimo naimacɨ maɨjɨtañena,\niadedɨ nairui facaina ɨbaca.\nRafue 25.\nIe comɨnɨ buena jitai raillano, ie maɨjɨmona nagamɨe ɨbana feiñua. Ie comɨnɨ raise\nguillena, ɨniroi illena, jofo raise illena, remedio ollena, ie dɨese ɨbana feiñua. Bu\nmaɨjɨnia, bu duia, bu fecɨñona ia, bu uaɨcɨmana jaia, ie ucube bumo iñenia, gobierno\nnaimɨena canua.\nRiño jocua facaise gobierno naiñaiñona canua. Gobierno naga uriaɨna daje isoi canua.\nMoorede uruena canua. Naɨso moto oga urue daje isoi canua.\nRafue 26.\nNana uruiat escuelamo jaillana buna rairuiñena. Nano jailla años facaina ibatañena.\nEscuelamo nana uruiatjailla. Primaria fuillanona jinɨe escuelamo bu jaiacania, iena\nillaicomɨnɨ t rairuiñena. Rabena uiñotɨno dɨese nainomo feiñoga.\nEscuelamo naga rafuena raise fɨnuana profesor llofuega. Naga urue comena jira, iese\nllofuega."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
+            ],
+            "Image": "e5e31f530092710080bc73c76b4cf95f",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
-            ],
-            "Text": "Nana conina nabairillana llofuega.\nRafue 27.\nNɨe isoide rafue ie naɨraɨ fɨnoia, nagamɨe nainomo jaillana illaɨcomɨnɨ rairuiñena. Naie\nrafue ite ie comecɨ jaɨsillena jira, iena rairuiñena.\nNɨe isoide rana bu cueia, naiemona dama naimɨe ɨbana feiñuana buna rairuiñena.\nRafue 28.\nBie rabemo cuega rafue suillena buna rairuiñena. Nana comɨnɨ bie isoide suille rafue\nillanomo jaɨnaɨaɨna.\nRafue 29.\nDanɨ coninɨri ie illanomo nagamɨe dajena maɨjɨa, nagamɨe comena jira.\nIe gobierno lloga uai dɨese nagamɨe ie jitaillacɨnona fɨnua. Jɨaɨe comɨnɨno ie comecɨna\nfacajano iena fɨnua. Nana comɨnɨ uri illana iena fɨnua.\nUri illena Naciones Unidas lloga uaina buna jeare uacaiñena.\nRafue 30.\nBie rafuedo jaiacadɨnona buna rairuiñena. Bie rafue uiñuamona, bie rabemo lloga rafuena\nbuna jamaiñena.",
-            "Image": "e5e31f530092710080bc73c76b4cf95f"
+            "Text": "Nana conina nabairillana llofuega.\nRafue 27.\nNɨe isoide rafue ie naɨraɨ fɨnoia, nagamɨe nainomo jaillana illaɨcomɨnɨ rairuiñena. Naie\nrafue ite ie comecɨ jaɨsillena jira, iena rairuiñena.\nNɨe isoide rana bu cueia, naiemona dama naimɨe ɨbana feiñuana buna rairuiñena.\nRafue 28.\nBie rabemo cuega rafue suillena buna rairuiñena. Nana comɨnɨ bie isoide suille rafue\nillanomo jaɨnaɨaɨna.\nRafue 29.\nDanɨ coninɨri ie illanomo nagamɨe dajena maɨjɨa, nagamɨe comena jira.\nIe gobierno lloga uai dɨese nagamɨe ie jitaillacɨnona fɨnua. Jɨaɨe comɨnɨno ie comecɨna\nfacajano iena fɨnua. Nana comɨnɨ uri illana iena fɨnua.\nUri illena Naciones Unidas lloga uaina buna jeare uacaiñena.\nRafue 30.\nBie rafuedo jaiacadɨnona buna rairuiñena. Bie rafue uiñuamona, bie rabemo lloga rafuena\nbuna jamaiñena."
         }
     }
 }

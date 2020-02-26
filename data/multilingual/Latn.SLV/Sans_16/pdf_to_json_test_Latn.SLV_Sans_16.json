@@ -1,127 +1,127 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581470568,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
-            "Index": 0,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Splošna deklaracija človekovih pravic\nPreambula\nker pomeni priznanje prirojenega človeškega dostojanstva vseh članov človeške družbe in njihovih enakih\nin neodtujljivih pravic temelj svobode, pravičnosti in miru na svetu;\nker sta zanikanje in teptanje človekovih pravic pripeljala do barbarskih dejanj, žaljivih za človeško vest, in\nker je bila stvaritev sveta, v katerem bi imeli vsi ljudje svobodo govora in verovanja in v katerem ne bi živeli\nv strahu in pomanjkanju, spoznana za najvišje prizadevanje človeštva;\nker je nujno potrebno, da se človekove pravice zavarujejo z močjo prava, da človek ne bi bil prisiljen\nzatekati se v skrajni sili k uporu zoper tiranijo in nasilje;\nker je nujno potrebno pospeševati razvoj prijateljskih odnosov med narodi;\nker so ljudstva Združenih narodov ponovno potrdila svojo vero v temeljne človekove pravice in dostojanstvo\nin vrednost človekove osebnosti, v enakopravnost moških in žensk in se odločila, da bodo podpirala\ndružbeni napredek in ustvarjanje boljših življenjskih pogojev v večji svobodi;\nker so se vse države članice zavezale, da bodo, v sodelovanju z Združenimi narodi, pospeševale splošno in\nresnično spoštovanje človekovih pravic in temeljnih svoboščin;\nker je skupno razumevanje teh pravic in svoboščin največjega pomena za popolno uresničitev te zaveze,\nGeneralna skupščina razglaša\nTo splošno deklaracijo človekovih pravic kot skupen ideal vseh ljudstev in vseh narodov z namenom, da bi\nvsi organi družbe in vsi posamezniki, vedno v skladu s to Deklaracijo, pri pouku in vzgoji razvijali\nspoštovanje teh pravic in svoboščin ter s postopnimi državnimi in mednarodnimi ukrepi zagotovili in",
-            "Image": "cf31a869002a890af51dc80e34e1d49f"
+            "Image": "cf31a869002a890af51dc80e34e1d49f",
+            "Index": 0,
+            "Label": "1",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Splošna deklaracija človekovih pravic\nPreambula\nker pomeni priznanje prirojenega človeškega dostojanstva vseh članov človeške družbe in njihovih enakih\nin neodtujljivih pravic temelj svobode, pravičnosti in miru na svetu;\nker sta zanikanje in teptanje človekovih pravic pripeljala do barbarskih dejanj, žaljivih za človeško vest, in\nker je bila stvaritev sveta, v katerem bi imeli vsi ljudje svobodo govora in verovanja in v katerem ne bi živeli\nv strahu in pomanjkanju, spoznana za najvišje prizadevanje človeštva;\nker je nujno potrebno, da se človekove pravice zavarujejo z močjo prava, da človek ne bi bil prisiljen\nzatekati se v skrajni sili k uporu zoper tiranijo in nasilje;\nker je nujno potrebno pospeševati razvoj prijateljskih odnosov med narodi;\nker so ljudstva Združenih narodov ponovno potrdila svojo vero v temeljne človekove pravice in dostojanstvo\nin vrednost človekove osebnosti, v enakopravnost moških in žensk in se odločila, da bodo podpirala\ndružbeni napredek in ustvarjanje boljših življenjskih pogojev v večji svobodi;\nker so se vse države članice zavezale, da bodo, v sodelovanju z Združenimi narodi, pospeševale splošno in\nresnično spoštovanje človekovih pravic in temeljnih svoboščin;\nker je skupno razumevanje teh pravic in svoboščin največjega pomena za popolno uresničitev te zaveze,\nGeneralna skupščina razglaša\nTo splošno deklaracijo človekovih pravic kot skupen ideal vseh ljudstev in vseh narodov z namenom, da bi\nvsi organi družbe in vsi posamezniki, vedno v skladu s to Deklaracijo, pri pouku in vzgoji razvijali\nspoštovanje teh pravic in svoboščin ter s postopnimi državnimi in mednarodnimi ukrepi zagotovili in"
         },
         "1": {
-            "Label": "2",
-            "Index": 1,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "zavarovali njihovo splošno in resnično priznanje in spoštovanje, tako med narodi držav članic samih, kakor\ntudi med ljudstvi ozemelj pod njihovo oblastjo.\n1. člen\nVsi ljudje se rodijo svobodni in imajo enako dostojanstvo in enake pravice. Obdarjeni so z razumom in\nvestjo in bi morali ravnati drug z drugim kakor bratje.\n2. člen\nVsakdo je upravičen do uživanja vseh pravic in svoboščin, ki so razglašene s to Deklaracijo, ne glede na\nraso, barvo kože, spol, jezik, vero, politično ali drugo prepričanje, narodno ali socialno pripadnost,\npremoženje, rojstvo ali kakršnokoli drugo okoliščino.\nNadalje ni dopustno nikakršno razlikovanje glede na politično ali pravno ureditev ali mednarodni položaj\ndežele ali ozemlja, ki mu kdo pripada, pa naj bo to ozemlje neodvisno, pod skrbništvom, nesamoupravno ali\nkakorkoli omejeno v svoji suverenosti.\n3. člen\nVsakdo ima pravico do življenja, do prostosti in do osebne varnosti.\n4. člen\nNihče ne sme biti držan ne v suženjstvu ne v tlačanski odvisnosti; suženjstvo in trgovina s sužnji v\nkakršnikoli obliki sta prepovedana.\n5. člen\nNihče ne sme biti podvržen mučenju ali okrutnemu, nečloveškemu ali ponižujočemu ravnanju ali\nkaznovanju.",
-            "Image": "21ae3b4f6c152429a40be3db79dc2fce"
+            "Image": "21ae3b4f6c152429a40be3db79dc2fce",
+            "Index": 1,
+            "Label": "2",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "zavarovali njihovo splošno in resnično priznanje in spoštovanje, tako med narodi držav članic samih, kakor\ntudi med ljudstvi ozemelj pod njihovo oblastjo.\n1. člen\nVsi ljudje se rodijo svobodni in imajo enako dostojanstvo in enake pravice. Obdarjeni so z razumom in\nvestjo in bi morali ravnati drug z drugim kakor bratje.\n2. člen\nVsakdo je upravičen do uživanja vseh pravic in svoboščin, ki so razglašene s to Deklaracijo, ne glede na\nraso, barvo kože, spol, jezik, vero, politično ali drugo prepričanje, narodno ali socialno pripadnost,\npremoženje, rojstvo ali kakršnokoli drugo okoliščino.\nNadalje ni dopustno nikakršno razlikovanje glede na politično ali pravno ureditev ali mednarodni položaj\ndežele ali ozemlja, ki mu kdo pripada, pa naj bo to ozemlje neodvisno, pod skrbništvom, nesamoupravno ali\nkakorkoli omejeno v svoji suverenosti.\n3. člen\nVsakdo ima pravico do življenja, do prostosti in do osebne varnosti.\n4. člen\nNihče ne sme biti držan ne v suženjstvu ne v tlačanski odvisnosti; suženjstvo in trgovina s sužnji v\nkakršnikoli obliki sta prepovedana.\n5. člen\nNihče ne sme biti podvržen mučenju ali okrutnemu, nečloveškemu ali ponižujočemu ravnanju ali\nkaznovanju."
         },
         "2": {
-            "Label": "3",
-            "Index": 2,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "6. člen\nVsakdo ima povsod pravico do priznanja pravne sposobnosti.\n7. člen\nVsi so enaki pred zakonom, vsi, brez diskriminacije, imajo pravico do enakega pravnega varstva. Vsi imajo\npravico do enakega varstva pred sleherno diskriminacijo, ki bi kršila to Deklaracijo, kakor tudi pred vsakim\nščuvanjem k takšni diskriminaciji.\n8. člen\nVsakdo ima pravico do učinkovitega pravnega sredstva pri pristojnih državnih sodnih oblasteh proti\ndejanjem, ki kršijo temeljne pravice, priznane mu po ustavi ali zakonu.\n9. člen\nNihče ne sme biti samovoljno zaprt, pridržan ali izgnan.\n10. člen\nVsakdo je pri odločanju o njegovih pravicah in dolžnostih in v primeru kakršnekoli kazenske obtožbe zoper\nnjega upravičen ob polni enakosti do pravičnega in javnega obravnavanja pred neodvisnim in nepristranskim\nsodiščem.\n11. člen\nVsakdo, ki je obtožen kaznivega dejanja, ima pravico, da velja za nedolžnega, dokler ni spoznan za krivega\nv skladu z zakonom, v javnem postopku, v katerem so mu dane vse možnosti, potrebne za njegovo obrambo.\nNihče ne sme biti spoznan za krivega kateregakoli kaznivega dejanja zaradi kakršnegakoli ravnanja ali\nopustitve, ki v času storitve ni bilo kaznivo dejanje po notranjem ali mednarodnem pravu. Prav tako se ne",
-            "Image": "b789513365a3be2eb6a0d18910165d3c"
+            "Image": "b789513365a3be2eb6a0d18910165d3c",
+            "Index": 2,
+            "Label": "3",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "6. člen\nVsakdo ima povsod pravico do priznanja pravne sposobnosti.\n7. člen\nVsi so enaki pred zakonom, vsi, brez diskriminacije, imajo pravico do enakega pravnega varstva. Vsi imajo\npravico do enakega varstva pred sleherno diskriminacijo, ki bi kršila to Deklaracijo, kakor tudi pred vsakim\nščuvanjem k takšni diskriminaciji.\n8. člen\nVsakdo ima pravico do učinkovitega pravnega sredstva pri pristojnih državnih sodnih oblasteh proti\ndejanjem, ki kršijo temeljne pravice, priznane mu po ustavi ali zakonu.\n9. člen\nNihče ne sme biti samovoljno zaprt, pridržan ali izgnan.\n10. člen\nVsakdo je pri odločanju o njegovih pravicah in dolžnostih in v primeru kakršnekoli kazenske obtožbe zoper\nnjega upravičen ob polni enakosti do pravičnega in javnega obravnavanja pred neodvisnim in nepristranskim\nsodiščem.\n11. člen\nVsakdo, ki je obtožen kaznivega dejanja, ima pravico, da velja za nedolžnega, dokler ni spoznan za krivega\nv skladu z zakonom, v javnem postopku, v katerem so mu dane vse možnosti, potrebne za njegovo obrambo.\nNihče ne sme biti spoznan za krivega kateregakoli kaznivega dejanja zaradi kakršnegakoli ravnanja ali\nopustitve, ki v času storitve ni bilo kaznivo dejanje po notranjem ali mednarodnem pravu. Prav tako se ne"
         },
         "3": {
-            "Label": "4",
-            "Index": 3,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "sme izreči strožja kazen od tiste, ki je bila predpisana v času storitve kaznivega dejanja.\n12. člen\nNikogar se ne sme nadlegovati s samovoljnim vmešavanjem v njegovo zasebno življenje, v njegovo\ndružino, v njegovo stanovanje ali njegovo dopisovanje in tudi ne z napadi na njegovo čast in ugled. Vsakdo\nima pravico do zakonskega varstva pred takšnim vmešavanjem ali takšnimi napadi.\n13. člen\nVsakdo ima pravico do svobodnega gibanja in izbire prebivališča znotraj meja določene države.\nVsakdo ima pravico zapustiti katerokoli državo, vključno s svojo lastno, in vrniti se v svojo državo.\n14. člen\nVsakdo ima pravico v drugih državah iskati in uživati pribežališče pred preganjanjem.\nNa to pravico se ni mogoče sklicevati v primeru pregona, ki dejansko temelji na nepolitičnih kaznivih\ndejanjih, ki so v nasprotju s cilji in načeli Združenih narodov.\n15. člen\nVsakdo ima pravico do državljanstva.\nNikomur se ne sme samovoljno vzeti državljanstvo ali zakonita pravica do spremembe državljanstva.\n16. člen\nPolnoletni moški in ženske imajo brez kakršnihkoli omejitev glede na raso, državljanstvo ali vero, pravico\nskleniti zakonsko zvezo in ustanoviti družino. Upravičeni so do enakih pravic v zvezi z zakonsko zvezo,\ntako med zakonsko zvezo, kot tudi, ko ta preneha.",
-            "Image": "6e7acd35bdd0c85b74c4da295bf428df"
+            "Image": "6e7acd35bdd0c85b74c4da295bf428df",
+            "Index": 3,
+            "Label": "4",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "sme izreči strožja kazen od tiste, ki je bila predpisana v času storitve kaznivega dejanja.\n12. člen\nNikogar se ne sme nadlegovati s samovoljnim vmešavanjem v njegovo zasebno življenje, v njegovo\ndružino, v njegovo stanovanje ali njegovo dopisovanje in tudi ne z napadi na njegovo čast in ugled. Vsakdo\nima pravico do zakonskega varstva pred takšnim vmešavanjem ali takšnimi napadi.\n13. člen\nVsakdo ima pravico do svobodnega gibanja in izbire prebivališča znotraj meja določene države.\nVsakdo ima pravico zapustiti katerokoli državo, vključno s svojo lastno, in vrniti se v svojo državo.\n14. člen\nVsakdo ima pravico v drugih državah iskati in uživati pribežališče pred preganjanjem.\nNa to pravico se ni mogoče sklicevati v primeru pregona, ki dejansko temelji na nepolitičnih kaznivih\ndejanjih, ki so v nasprotju s cilji in načeli Združenih narodov.\n15. člen\nVsakdo ima pravico do državljanstva.\nNikomur se ne sme samovoljno vzeti državljanstvo ali zakonita pravica do spremembe državljanstva.\n16. člen\nPolnoletni moški in ženske imajo brez kakršnihkoli omejitev glede na raso, državljanstvo ali vero, pravico\nskleniti zakonsko zvezo in ustanoviti družino. Upravičeni so do enakih pravic v zvezi z zakonsko zvezo,\ntako med zakonsko zvezo, kot tudi, ko ta preneha."
         },
         "4": {
-            "Label": "5",
-            "Index": 4,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Zakonska zveza se sme skleniti samo s svobodno in polno privolitvijo obeh bodočih zakoncev.\nDružina je naravna in temeljna celica družbe in ima pravico do družbenega in državnega varstva.\n17. člen\nVsakdo ima pravico do premoženja, tako sam, kakor tudi skupno z drugimi.\nNikomur ne sme biti premoženje samovoljno vzeto.\n18. člen\nVsakdo ima pravico do svobode misli, vesti in veroizpovedi; ta pravica vključuje svobodo spreminjati\nprepričanje ali vero, kakor tudi njuno svobodno, javno ali zasebno izražanje, bodisi posamezno ali v\nskupnosti z drugimi, s poučevanjem, z izpolnjevanjem verskih dolžnosti, z bogoslužjem in opravljanjem\nobredov.\n19. člen\nVsakdo ima pravico do svobode mišljenja in izražanja, vštevši pravico, da nihče ne sme biti nadlegovan\nzaradi svojega mišljenja, in pravico, da lahko vsak išče, sprejema in širi informacije in ideje s kakršnimikoli\nsredstvi in ne glede na meje.\n20. člen\nVsakdo ima pravico do svobodnega in mirnega zbiranja in združevanja.\nNikogar se ne sme prisiliti k članstvu v katerokoli društvo.\n21. člen\nVsakdo ima pravico sodelovati pri opravljanju javnih zadev svoje države bodisi neposredno ali pa po",
-            "Image": "7438a059a54d48ba796bec78e6ea8905"
+            "Image": "7438a059a54d48ba796bec78e6ea8905",
+            "Index": 4,
+            "Label": "5",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Zakonska zveza se sme skleniti samo s svobodno in polno privolitvijo obeh bodočih zakoncev.\nDružina je naravna in temeljna celica družbe in ima pravico do družbenega in državnega varstva.\n17. člen\nVsakdo ima pravico do premoženja, tako sam, kakor tudi skupno z drugimi.\nNikomur ne sme biti premoženje samovoljno vzeto.\n18. člen\nVsakdo ima pravico do svobode misli, vesti in veroizpovedi; ta pravica vključuje svobodo spreminjati\nprepričanje ali vero, kakor tudi njuno svobodno, javno ali zasebno izražanje, bodisi posamezno ali v\nskupnosti z drugimi, s poučevanjem, z izpolnjevanjem verskih dolžnosti, z bogoslužjem in opravljanjem\nobredov.\n19. člen\nVsakdo ima pravico do svobode mišljenja in izražanja, vštevši pravico, da nihče ne sme biti nadlegovan\nzaradi svojega mišljenja, in pravico, da lahko vsak išče, sprejema in širi informacije in ideje s kakršnimikoli\nsredstvi in ne glede na meje.\n20. člen\nVsakdo ima pravico do svobodnega in mirnega zbiranja in združevanja.\nNikogar se ne sme prisiliti k članstvu v katerokoli društvo.\n21. člen\nVsakdo ima pravico sodelovati pri opravljanju javnih zadev svoje države bodisi neposredno ali pa po"
         },
         "5": {
-            "Label": "6",
-            "Index": 5,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "svobodno izbranih predstavnikih.\nVsakdo ima pod enakimi pogoji pravico do javnih služb v svoji državi.\nVolja ljudstva je temelj javne oblasti; ta volja se mora izražati v občasnih in poštenih volitvah, ki morajo biti\nsplošne, ob načelu enakosti in tajnega glasovanja ali po kakšnem drugem enakovrednem postopku, ki\nzagotavlja svobodo glasovanja.\n22. člen\nVsakdo ima kot član družbe pravico do socialne varnosti in pravico do uživanja, s pomočjo prizadevanja\nsvojih skupnosti in mednarodnega sodelovanja in v skladu z ureditvijo in sredstvi neke države, ekonomskih,\nsocialnih in kulturnih pravic, nepogrešljivih za njegovo dostojanstvo in svoboden razvoj njegove osebnosti.\n23. člen\nVsakdo ima pravico do dela in proste izbire zaposlitve, do pravičnih in zadovoljivih delovnih pogojev in do\nvarstva pred brezposelnostjo.\nVsakdo ima, brez kakršnekoli diskriminacije, pravico do enakega plačila za enako delo.\nVsakdo, kdor dela, ima pravico do pravične in zadovoljive nagrade, ki zagotavlja njemu in njegovi družini\nčloveka vreden obstoj in ki naj se po potrebi dopolni z drugimi sredstvi socialnega varstva.\nVsakdo ima pravico sodelovati pri ustanavljanju sindikata ali pridružiti se sindikatu za zavarovanje svojih\ninteresov.\n24. člen\nVsakdo ima pravico do počitka in prostega časa, vključno z razumno omejitvijo delovnih ur , in pravico do\nobčasnega plačanega dopusta.",
-            "Image": "8d9729ec57e41b2fc1c6fe1df8779556"
+            "Image": "8d9729ec57e41b2fc1c6fe1df8779556",
+            "Index": 5,
+            "Label": "6",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "svobodno izbranih predstavnikih.\nVsakdo ima pod enakimi pogoji pravico do javnih služb v svoji državi.\nVolja ljudstva je temelj javne oblasti; ta volja se mora izražati v občasnih in poštenih volitvah, ki morajo biti\nsplošne, ob načelu enakosti in tajnega glasovanja ali po kakšnem drugem enakovrednem postopku, ki\nzagotavlja svobodo glasovanja.\n22. člen\nVsakdo ima kot član družbe pravico do socialne varnosti in pravico do uživanja, s pomočjo prizadevanja\nsvojih skupnosti in mednarodnega sodelovanja in v skladu z ureditvijo in sredstvi neke države, ekonomskih,\nsocialnih in kulturnih pravic, nepogrešljivih za njegovo dostojanstvo in svoboden razvoj njegove osebnosti.\n23. člen\nVsakdo ima pravico do dela in proste izbire zaposlitve, do pravičnih in zadovoljivih delovnih pogojev in do\nvarstva pred brezposelnostjo.\nVsakdo ima, brez kakršnekoli diskriminacije, pravico do enakega plačila za enako delo.\nVsakdo, kdor dela, ima pravico do pravične in zadovoljive nagrade, ki zagotavlja njemu in njegovi družini\nčloveka vreden obstoj in ki naj se po potrebi dopolni z drugimi sredstvi socialnega varstva.\nVsakdo ima pravico sodelovati pri ustanavljanju sindikata ali pridružiti se sindikatu za zavarovanje svojih\ninteresov.\n24. člen\nVsakdo ima pravico do počitka in prostega časa, vključno z razumno omejitvijo delovnih ur , in pravico do\nobčasnega plačanega dopusta."
         },
         "6": {
-            "Label": "7",
-            "Index": 6,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "25. člen\nVsakdo ima pravico do takšne življenjske ravni, ki zagotavlja njemu in njegovi družini zdravje in blaginjo,\nvključno s hrano, obleko, stanovanjem, zdravniško oskrbo in potrebnimi socialnimi storitvami; pravico do\nvarstva v primeru brezposelnosti, bolezni, delovne nezmožnosti, vdovstva ter starosti ali druge nezmožnosti\npridobivanja življenjskih sredstev zaradi okoliščin, neodvisnih od njegove volje.\nMaterinstvo in otroštvo sta upravičena do posebne skrbi in pomoči. Vsi otroci, bodisi da so rojeni kot\nzakonski ali zunaj zakonske skupnosti, uživajo enako socialno varstvo.\n26. člen\nVsakdo ima pravico do izobraževanja. Izobraževanje mora biti brezplačno vsaj na začetni stopnji. Šolanje\nna začetni stopnji mora biti obvezno. Tehnično in poklicno šolanje mora biti splošno dostopno. Višje\nšolanje mora biti na osnovi doseženih uspehov vsem enako dostopno.\nIzobraževanje mora biti usmerjeno k polnemu razvoju človekove osebnosti in utrjevanju spoštovanja\nčlovekovih pravic in temeljnih svoboščin. Pospeševati mora razumevanje, strpnost in prijateljstvo med\nvsemi narodi in med rasami in verskimi skupinami ter pospeševati dejavnost Združenih narodov in ohranitev\nmiru.\nStarši imajo prednostno pravico pri izbiri vrste izobraževanja svojih otrok.\n27. člen\nVsakdo ima pravico prosto se udeleževati kulturnega življenja svoje skupnosti, uživati umetnost in\nsodelovati pri napredku znanosti in biti deležen koristi, ki iz tega izhajajo.\nVsakdo ima pravico do varstva moralnih in premoženjskih koristi, ki izhajajo iz kateregakoli znanstvenega,\nknjiževnega ali umetniškega dela, katerega avtor je.",
-            "Image": "94b201d76b219c3ae2977a172aa60b82"
+            "Image": "94b201d76b219c3ae2977a172aa60b82",
+            "Index": 6,
+            "Label": "7",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "25. člen\nVsakdo ima pravico do takšne življenjske ravni, ki zagotavlja njemu in njegovi družini zdravje in blaginjo,\nvključno s hrano, obleko, stanovanjem, zdravniško oskrbo in potrebnimi socialnimi storitvami; pravico do\nvarstva v primeru brezposelnosti, bolezni, delovne nezmožnosti, vdovstva ter starosti ali druge nezmožnosti\npridobivanja življenjskih sredstev zaradi okoliščin, neodvisnih od njegove volje.\nMaterinstvo in otroštvo sta upravičena do posebne skrbi in pomoči. Vsi otroci, bodisi da so rojeni kot\nzakonski ali zunaj zakonske skupnosti, uživajo enako socialno varstvo.\n26. člen\nVsakdo ima pravico do izobraževanja. Izobraževanje mora biti brezplačno vsaj na začetni stopnji. Šolanje\nna začetni stopnji mora biti obvezno. Tehnično in poklicno šolanje mora biti splošno dostopno. Višje\nšolanje mora biti na osnovi doseženih uspehov vsem enako dostopno.\nIzobraževanje mora biti usmerjeno k polnemu razvoju človekove osebnosti in utrjevanju spoštovanja\nčlovekovih pravic in temeljnih svoboščin. Pospeševati mora razumevanje, strpnost in prijateljstvo med\nvsemi narodi in med rasami in verskimi skupinami ter pospeševati dejavnost Združenih narodov in ohranitev\nmiru.\nStarši imajo prednostno pravico pri izbiri vrste izobraževanja svojih otrok.\n27. člen\nVsakdo ima pravico prosto se udeleževati kulturnega življenja svoje skupnosti, uživati umetnost in\nsodelovati pri napredku znanosti in biti deležen koristi, ki iz tega izhajajo.\nVsakdo ima pravico do varstva moralnih in premoženjskih koristi, ki izhajajo iz kateregakoli znanstvenega,\nknjiževnega ali umetniškega dela, katerega avtor je."
         },
         "7": {
-            "Label": "8",
-            "Index": 7,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "28. člen\nVsakdo je upravičen do družbenega in mednarodnega reda, v katerem se lahko v polni meri uresničujejo\npravice in svoboščine, določene v tej Deklaraciji.\n29. člen\nVsakdo ima dolžnosti do skupnosti, v kateri je edino mogoč svoboden in popoln razvoj njegove osebnosti.\nPri izvajanju svojih pravic in svoboščin je vsakdo podvržen samo takšnim omejitvam, ki so določene z\nzakonom, katerih izključni namen je zavarovati obvezno priznanje in spoštovanje pravic in svoboščin\ndrugih ter izpolnjevanje pravičnih zahtev morale, javnega reda in splošne blaginje v demokratični družbi.\nTe pravice in svoboščine se v nobenem primeru ne smejo izvajati v nasprotju s cilji in načeli Združenih\nnarodov.\n30. člen\nNobene določbe te Deklaracije se ne sme razlagati tako, kot da iz nje izhaja za državo, skupino ali\nposameznika kakršnakoli pravica do kakršnegakoli delovanja ali dejanja, ki bi hotelo uničiti v njej določene\npravice in svoboščine.",
-            "Image": "fbe410e7f2abf866d9536734f16da48f"
+            "Image": "fbe410e7f2abf866d9536734f16da48f",
+            "Index": 7,
+            "Label": "8",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "28. člen\nVsakdo je upravičen do družbenega in mednarodnega reda, v katerem se lahko v polni meri uresničujejo\npravice in svoboščine, določene v tej Deklaraciji.\n29. člen\nVsakdo ima dolžnosti do skupnosti, v kateri je edino mogoč svoboden in popoln razvoj njegove osebnosti.\nPri izvajanju svojih pravic in svoboščin je vsakdo podvržen samo takšnim omejitvam, ki so določene z\nzakonom, katerih izključni namen je zavarovati obvezno priznanje in spoštovanje pravic in svoboščin\ndrugih ter izpolnjevanje pravičnih zahtev morale, javnega reda in splošne blaginje v demokratični družbi.\nTe pravice in svoboščine se v nobenem primeru ne smejo izvajati v nasprotju s cilji in načeli Združenih\nnarodov.\n30. člen\nNobene določbe te Deklaracije se ne sme razlagati tako, kot da iz nje izhaja za državo, skupino ali\nposameznika kakršnakoli pravica do kakršnegakoli delovanja ali dejanja, ki bi hotelo uničiti v njej določene\npravice in svoboščine."
         }
     }
 }

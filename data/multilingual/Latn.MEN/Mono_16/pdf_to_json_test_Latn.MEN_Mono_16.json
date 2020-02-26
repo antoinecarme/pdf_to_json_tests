@@ -1,80 +1,80 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581469352,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "c0aaed63413eb93ca6f5bef171d6008f",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Dunya Lahi Nuvuu Lɔnyisia Va\nMagona Yɛpei\nA jifa kiliyei na kɛ numu vuu kpɛlɛɛ ti maa hɛwulei lɔ towa kpaupau le\nlaha va, tɔnya kɛɛ ndilɛli dunyihu.\nA jifa ngawulɛɛhu kɛɛ baagbuala nuvugaa ti lɔnyisia ma ti wanga a pie\nhindangaa na hii i wotɛa a nɛmahugili waa nuvuu ma, dunya ninahu mia\nmahoingɔ muvuu i gu i yɛpɛ kia ngi longɔla, kɛɛ ngi lanayei kɛɛ ngi lima\nhinda.\nA jifa maa ii houni nu mu vuu i wote a kɔ gɔmɔ mahaya nyamu nyamu kɛɛ\nnduwɔ ya yeya, kɛ mahoingɔɛ sawei i nuvuu lɔnyii mavale,\nA jifa mahoingɔ ndiamɔyei na ndɔlesialuahu i lɛgulɔma,\nA jifa nungei nasia ti ndɔlei kpɛlɛ ti woyilɛi na hu ti lanaya gɛnga\nkɔlɔ yayilingɔihu,\nKɛɛ nuvuu lɔnya, ngi nuvuu ya, ngi yɛyei kɛɛ hindui taa nyahii ti lɔnyɛi\nmaahɛwu lei, kɛɛ gbɔma ti ti lia yilinga kɔ yange yange kɛɛ ndevu yekpe\nla i lɛ gulɔma.\nA jifa ndɔlei nasia ti dunyi hu ti lahei wumbua a ngoyila kɔɔ ti tɔ kɛ\nbaagɔ ma a yɛlɔ na nuvuu va kɛɛ ngi lɔnya ya va,\nA jifa kiliyei yaa numu kpɛlɛhu hinda yayilingɔi ji a lɛlɔ gulɔma,\nFale naa\nKomɛwai na ta toli a\nGɛnɛla Asɛmbili\nNdɛnga Yɛ\nDunya Lahei ji nuvuu lɔnyinsia va i wote a ŋaiki numui kpɛlɛɛ kɛɛ ndɔlei\nkpɛlɛɛ va nahii kɛ numu gbi ɔɔ ngoyila hugbatɛ gbi na hinda yayilingɔi\nji ngi ɛnmahu kpɔtu i lapi kpugu kpugu a numu gaalahu wie i tɔ kɛ\nbagɔɔma iyɛ tɔnɛi jisia ma kɛɛ hugbɛmboi jisia nungei nasia wɛti yei\nndɔɔ kpɛlɛ hugbatai ji hu, kɛɛ nasia ti ndɔlɔngaa hu nahi tii yee ndɔlɔ\nkpɛlɛ hugbatɛi jisia bu.\n1. Ngayilii Ye Ngilei\nNumuvuisia Kpɛlɛɛ ta ti le tɛ yɛ nduwɔ ya hu, tao ti nuvuu yei kɛɛ ti\nlɔnyi maa hɛwungɔ. Kiiya kɛɛ hindaluahu gɔɔla a yɛlɔ ti hun. Fale\nmahoungɔ ti ti nyɔnyɔhu hoi kia ndeegaa.\n2. Ngayilii Ye Fele Yei\nHugbatei ji numu kpɛlɛɛ lɔ va, nu gɛnyɛi, ngi luwu yɛgii, nyaha ɔɔ\nhindgo, nu layia, Ngewɔi na a feli, ngi gilii yei, ngi le gi kɛɛ ngi\ngbatɛ ii ma.",
-            "Image": "c0aaed63413eb93ca6f5bef171d6008f"
+            "Text": "Dunya Lahi Nuvuu Lɔnyisia Va\nMagona Yɛpei\nA jifa kiliyei na kɛ numu vuu kpɛlɛɛ ti maa hɛwulei lɔ towa kpaupau le\nlaha va, tɔnya kɛɛ ndilɛli dunyihu.\nA jifa ngawulɛɛhu kɛɛ baagbuala nuvugaa ti lɔnyisia ma ti wanga a pie\nhindangaa na hii i wotɛa a nɛmahugili waa nuvuu ma, dunya ninahu mia\nmahoingɔ muvuu i gu i yɛpɛ kia ngi longɔla, kɛɛ ngi lanayei kɛɛ ngi lima\nhinda.\nA jifa maa ii houni nu mu vuu i wote a kɔ gɔmɔ mahaya nyamu nyamu kɛɛ\nnduwɔ ya yeya, kɛ mahoingɔɛ sawei i nuvuu lɔnyii mavale,\nA jifa mahoingɔ ndiamɔyei na ndɔlesialuahu i lɛgulɔma,\nA jifa nungei nasia ti ndɔlei kpɛlɛ ti woyilɛi na hu ti lanaya gɛnga\nkɔlɔ yayilingɔihu,\nKɛɛ nuvuu lɔnya, ngi nuvuu ya, ngi yɛyei kɛɛ hindui taa nyahii ti lɔnyɛi\nmaahɛwu lei, kɛɛ gbɔma ti ti lia yilinga kɔ yange yange kɛɛ ndevu yekpe\nla i lɛ gulɔma.\nA jifa ndɔlei nasia ti dunyi hu ti lahei wumbua a ngoyila kɔɔ ti tɔ kɛ\nbaagɔ ma a yɛlɔ na nuvuu va kɛɛ ngi lɔnya ya va,\nA jifa kiliyei yaa numu kpɛlɛhu hinda yayilingɔi ji a lɛlɔ gulɔma,\nFale naa\nKomɛwai na ta toli a\nGɛnɛla Asɛmbili\nNdɛnga Yɛ\nDunya Lahei ji nuvuu lɔnyinsia va i wote a ŋaiki numui kpɛlɛɛ kɛɛ ndɔlei\nkpɛlɛɛ va nahii kɛ numu gbi ɔɔ ngoyila hugbatɛ gbi na hinda yayilingɔi\nji ngi ɛnmahu kpɔtu i lapi kpugu kpugu a numu gaalahu wie i tɔ kɛ\nbagɔɔma iyɛ tɔnɛi jisia ma kɛɛ hugbɛmboi jisia nungei nasia wɛti yei\nndɔɔ kpɛlɛ hugbatai ji hu, kɛɛ nasia ti ndɔlɔngaa hu nahi tii yee ndɔlɔ\nkpɛlɛ hugbatɛi jisia bu.\n1. Ngayilii Ye Ngilei\nNumuvuisia Kpɛlɛɛ ta ti le tɛ yɛ nduwɔ ya hu, tao ti nuvuu yei kɛɛ ti\nlɔnyi maa hɛwungɔ. Kiiya kɛɛ hindaluahu gɔɔla a yɛlɔ ti hun. Fale\nmahoungɔ ti ti nyɔnyɔhu hoi kia ndeegaa.\n2. Ngayilii Ye Fele Yei\nHugbatei ji numu kpɛlɛɛ lɔ va, nu gɛnyɛi, ngi luwu yɛgii, nyaha ɔɔ\nhindgo, nu layia, Ngewɔi na a feli, ngi gilii yei, ngi le gi kɛɛ ngi\ngbatɛ ii ma."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "5339f412a9bc8df22fe274337bfecfc2",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Tao maa ii houni nduahu gɛ i waa nungaa luahu jifa tii gbuani ndɔlɔ\nyilahu, ɔɔ jifa tia heini ti yekpe va ɔɔ tii yekpe va.\n3. Ngayilii Ye Sawa Yei\nNuvuu gbi ngi lɔnya mia kɔɔ ndevu i yɛ ngi hu, kɔɔ aa yɛ nuu bu, tao kɔɔ\nmahungbee i yɛ ngi ma.\n4. Ngayilii Ye Naani Yei\nMaa ii houni ti numu gbi hou nduwɔya hu, ɔɔ ti ngi waa mɔnɛmɔnɛ hinda\nhu, maa ii houni nuu maajia va nduwɔya hu, tao gbɔma mahoungɔ nduwɔyei\nye kɛyi kgbi lekee i gbɔyɔ.\n5. Ngayilii Ye Lɔɔlu Yei\nMaa ii houni kɔɔ ti kpaagba hinda la nuu gbi ma, tao kɔɔ ti hinda wee a\nnumu na a kɛ kɛ nuvuu yaa a ngie.\n6. Ngayilii Ye Weita Yei\nNuvuu gbi lee ngi lɔnya mia kɔɔ sawei i baagɔɔ ngi nuvuu ya ma mia leke\ngbi.\n7. Ngayilii Ye Wɔfila Yei\nNuvuu kpɛlɛɛ ti maahɛwungɔɛ sawei gulɔ, tao mahoungɔ sawei i ti mahu wɛɛ\nnahi gbi ɛɛ ti hu wɔyɔ. Mahoungɔ sawei i tɔ kɛ hugbatei ji ɛɛ numugbi\ngbukpuu.\n8 Ngayilii Ye Wayakpei\nNuu gbi ngi lɔnya mia kɔɔ sawa kpaambu ngaa yekpe ti ngi lɔnyɛi mavale a\nwatii na ngi lɔnyi nasia ndɔɔ jawei keni numu a nyani ngi ma.\n9. Ngayilii Ye Taalui\nMaa ii houni ti numu magba, ti ngi wu kpɛgbɛma ɔɔ ti ngi gbɛ ngi yee a\nbaama hu we.\n10. Ngayilii Ye Puui\nNuu gbi ngi lɔnya mia nahii ti la nyɔngaa ngi ma tɛ i ngi maahinda\ngulanga kɔlɛhu ɔɔ i sawa kpoukpou nyaninga, kɔɔ ti ye njie na le fofohu,\ntao kɔɔ sawakpambu jein jein gɔngaa ti loo ngi va.\n11. Ngayilii Ye Puu Mahuyelei\nNuu gbi ngi lɔnya mia nahi ti la nyɔngaa ngi ma hinda ngamu va, taa kiti\nlewe haani ti ye njie na le fofohu, tao ti jia a sawe panda pandaa.\nMaa ii houni ti baa nuu gbi ma a sawahu wee – ndɔɔ yila jawa yo ɔɔ\nndunya kpɛlɛɛ jawa. Tao gbɔma maa i houni sawei i kpagbaa la nuu ma na\nkaahu lewengɔ sawei na ma i nyanini.\n12. Ngayilii Ye Puu Mahufilei",
-            "Image": "5339f412a9bc8df22fe274337bfecfc2"
+            "Text": "Tao maa ii houni nduahu gɛ i waa nungaa luahu jifa tii gbuani ndɔlɔ\nyilahu, ɔɔ jifa tia heini ti yekpe va ɔɔ tii yekpe va.\n3. Ngayilii Ye Sawa Yei\nNuvuu gbi ngi lɔnya mia kɔɔ ndevu i yɛ ngi hu, kɔɔ aa yɛ nuu bu, tao kɔɔ\nmahungbee i yɛ ngi ma.\n4. Ngayilii Ye Naani Yei\nMaa ii houni ti numu gbi hou nduwɔya hu, ɔɔ ti ngi waa mɔnɛmɔnɛ hinda\nhu, maa ii houni nuu maajia va nduwɔya hu, tao gbɔma mahoungɔ nduwɔyei\nye kɛyi kgbi lekee i gbɔyɔ.\n5. Ngayilii Ye Lɔɔlu Yei\nMaa ii houni kɔɔ ti kpaagba hinda la nuu gbi ma, tao kɔɔ ti hinda wee a\nnumu na a kɛ kɛ nuvuu yaa a ngie.\n6. Ngayilii Ye Weita Yei\nNuvuu gbi lee ngi lɔnya mia kɔɔ sawei i baagɔɔ ngi nuvuu ya ma mia leke\ngbi.\n7. Ngayilii Ye Wɔfila Yei\nNuvuu kpɛlɛɛ ti maahɛwungɔɛ sawei gulɔ, tao mahoungɔ sawei i ti mahu wɛɛ\nnahi gbi ɛɛ ti hu wɔyɔ. Mahoungɔ sawei i tɔ kɛ hugbatei ji ɛɛ numugbi\ngbukpuu.\n8 Ngayilii Ye Wayakpei\nNuu gbi ngi lɔnya mia kɔɔ sawa kpaambu ngaa yekpe ti ngi lɔnyɛi mavale a\nwatii na ngi lɔnyi nasia ndɔɔ jawei keni numu a nyani ngi ma.\n9. Ngayilii Ye Taalui\nMaa ii houni ti numu magba, ti ngi wu kpɛgbɛma ɔɔ ti ngi gbɛ ngi yee a\nbaama hu we.\n10. Ngayilii Ye Puui\nNuu gbi ngi lɔnya mia nahii ti la nyɔngaa ngi ma tɛ i ngi maahinda\ngulanga kɔlɛhu ɔɔ i sawa kpoukpou nyaninga, kɔɔ ti ye njie na le fofohu,\ntao kɔɔ sawakpambu jein jein gɔngaa ti loo ngi va.\n11. Ngayilii Ye Puu Mahuyelei\nNuu gbi ngi lɔnya mia nahi ti la nyɔngaa ngi ma hinda ngamu va, taa kiti\nlewe haani ti ye njie na le fofohu, tao ti jia a sawe panda pandaa.\nMaa ii houni ti baa nuu gbi ma a sawahu wee – ndɔɔ yila jawa yo ɔɔ\nndunya kpɛlɛɛ jawa. Tao gbɔma maa i houni sawei i kpagbaa la nuu ma na\nkaahu lewengɔ sawei na ma i nyanini.\n12. Ngayilii Ye Puu Mahufilei"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "558f469b82c2d6ff8bd04dcde85b5fbd",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Maa ii houni nuu i yɛ na nahi ta loko wili ngi bundu hinda hu, ngi ye\npɛɛbu hinda, kɔlei kɛɛ ngowili na a pili ngitiwoma kia lee ti longɔla,\nkɛɛ kakpama a baagbuama hu we. Maa houngɔ sawei i nuu gbi maawɛɛ yɛɛ\nkakpamɛi ji bondayeya.\n13. Ngayilii Ye Puumahu Sawei\nMahoungɔ numu gbi i yɛ hugbɛmbo hu kɔɔ i li mia leke gbi ngi longɔ i li\nna, tao kɔɔ i hei ndɔɔ gbi leke hu ngi longɔ i heihu.\nNuu gbi ngi lɔnya mia kɔɔ i gbua ndɔlɔ yila hu i li peka hu, i wee a ngi\nyee ɔɔ mbaa tinda, tao kɔɔ i yama ngi ndei na hu mia i gbuanina.\n14. Ngayilii Ye Puumahu Naanii\nNuu gbi lɔnya mia kɔɔ i ngi yaama lɔwu kakpama yeye ndɔɔ yɛka hu, tao\nkɔɔ i nganei gbuana.\nYe sawei ji ɛɛ lɛkpɛ gbi naleke ye numui ji i ndɔlɔ jawa nyanini, tao i\nhinda gbulaninga na ndɔlɔ woyila hugbatɛi i loila.\n15. Ngayilii Ye Puumahu Lɔɔli\nNuu gbi lɔnya mia kɔɔ i wote a ndɔlɔlii.\nMaa i houni kɔɔ ti nuu gbi baa a ngi lɔlii ya, ɔɔ kɔɔ ti ngi baa a\nndɔlɔlii ya ndɔɔ yekahu.\n16. Ngayilii Ye Puumahu Weitei\nHindui taa nyahii na ti lakpangɔ ta sɔɔwelɔ ti ndengaa le, ti gɛnyɛ ii\nyɛni bɛɛ yila, tii yɛni bɛɛ a ndɔlɔ yila hunblaa, ɔɔ Ngewɔ veli gbambi\nyila ma. Ti lɔnye maahɛwungɔ sɔɔva, sɔɔhu, ɔɔ ji ta lo ti gɔlɛ.\nKɔɔ hindui taa nyaha ti sɔɔwɛɛ, a nɛɛ pɛiŋ ti veinja wɛ.\nBondei mia ndɔlei yei kpɔkui le, fale maahoungɔ heimii kɛ ndɔlɔ gbi ti\nbondei mahu gbɛɛ kpɔtu kpɔtu.\n17. Ngayilii Ye Puumahu Wɔilei\nNuu gbi lɔnya mia kɔɔ i ngi wuma haakangaa majɔɔ, tao gbɔma kɔɔ taa\nnungaa ti makpɔma haaka majɔɔ.\nTɛ nuu gbi haaka gbua ngi yeya kia leke ti longɔla.\n18. Ngayilii Ye Puumahu Waykpei\nNuu gbi lɔya mia kɔɔ i kiiya wee, kɔɔ i giila gbɔɔ tɔnyɛi le ɔɔ gbɔɔ i\nlɔnyani, Ngewɔɛ ye gbɔɔ ngi longɔ i feli, ye tonye ji a ngi jein jein lɔ\nkɔɔ i ngi giliyei ɔɔ ngi yewɔveilei wote, I wote bɛɛ atayakpe ɔɔ taa\nnungaa, fofohu ɔɔ sɔkuma, kɔɔ i nungaa gaa a ngi ngliyei kɛɛ ngi yewɔ\nhindei.\n19. Ngayilii Ye Puumahu Taalui\nNuu gbi lɔnya mia kɔɔ i kiliya wee tao kɔɔ i yee kiiyeina le fofohu, yee",
-            "Image": "558f469b82c2d6ff8bd04dcde85b5fbd"
+            "Text": "Maa ii houni nuu i yɛ na nahi ta loko wili ngi bundu hinda hu, ngi ye\npɛɛbu hinda, kɔlei kɛɛ ngowili na a pili ngitiwoma kia lee ti longɔla,\nkɛɛ kakpama a baagbuama hu we. Maa houngɔ sawei i nuu gbi maawɛɛ yɛɛ\nkakpamɛi ji bondayeya.\n13. Ngayilii Ye Puumahu Sawei\nMahoungɔ numu gbi i yɛ hugbɛmbo hu kɔɔ i li mia leke gbi ngi longɔ i li\nna, tao kɔɔ i hei ndɔɔ gbi leke hu ngi longɔ i heihu.\nNuu gbi ngi lɔnya mia kɔɔ i gbua ndɔlɔ yila hu i li peka hu, i wee a ngi\nyee ɔɔ mbaa tinda, tao kɔɔ i yama ngi ndei na hu mia i gbuanina.\n14. Ngayilii Ye Puumahu Naanii\nNuu gbi lɔnya mia kɔɔ i ngi yaama lɔwu kakpama yeye ndɔɔ yɛka hu, tao\nkɔɔ i nganei gbuana.\nYe sawei ji ɛɛ lɛkpɛ gbi naleke ye numui ji i ndɔlɔ jawa nyanini, tao i\nhinda gbulaninga na ndɔlɔ woyila hugbatɛi i loila.\n15. Ngayilii Ye Puumahu Lɔɔli\nNuu gbi lɔnya mia kɔɔ i wote a ndɔlɔlii.\nMaa i houni kɔɔ ti nuu gbi baa a ngi lɔlii ya, ɔɔ kɔɔ ti ngi baa a\nndɔlɔlii ya ndɔɔ yekahu.\n16. Ngayilii Ye Puumahu Weitei\nHindui taa nyahii na ti lakpangɔ ta sɔɔwelɔ ti ndengaa le, ti gɛnyɛ ii\nyɛni bɛɛ yila, tii yɛni bɛɛ a ndɔlɔ yila hunblaa, ɔɔ Ngewɔ veli gbambi\nyila ma. Ti lɔnye maahɛwungɔ sɔɔva, sɔɔhu, ɔɔ ji ta lo ti gɔlɛ.\nKɔɔ hindui taa nyaha ti sɔɔwɛɛ, a nɛɛ pɛiŋ ti veinja wɛ.\nBondei mia ndɔlei yei kpɔkui le, fale maahoungɔ heimii kɛ ndɔlɔ gbi ti\nbondei mahu gbɛɛ kpɔtu kpɔtu.\n17. Ngayilii Ye Puumahu Wɔilei\nNuu gbi lɔnya mia kɔɔ i ngi wuma haakangaa majɔɔ, tao gbɔma kɔɔ taa\nnungaa ti makpɔma haaka majɔɔ.\nTɛ nuu gbi haaka gbua ngi yeya kia leke ti longɔla.\n18. Ngayilii Ye Puumahu Waykpei\nNuu gbi lɔya mia kɔɔ i kiiya wee, kɔɔ i giila gbɔɔ tɔnyɛi le ɔɔ gbɔɔ i\nlɔnyani, Ngewɔɛ ye gbɔɔ ngi longɔ i feli, ye tonye ji a ngi jein jein lɔ\nkɔɔ i ngi giliyei ɔɔ ngi yewɔveilei wote, I wote bɛɛ atayakpe ɔɔ taa\nnungaa, fofohu ɔɔ sɔkuma, kɔɔ i nungaa gaa a ngi ngliyei kɛɛ ngi yewɔ\nhindei.\n19. Ngayilii Ye Puumahu Taalui\nNuu gbi lɔnya mia kɔɔ i kiliya wee tao kɔɔ i yee kiiyeina le fofohu, yee"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "70c36b411a12e9ca50af7061a28aa76a",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "tɔnyɛi ji a peelɔ yee kiiyei ji nuu gbi ɛɛ gbekpa kulɔ, tao kɔɔ i\nnemahulee kɛɛ ngowii majɔɔ tao kɔɔ ta bɛɛ i fe nungaa wɛ a pele gbi hu\nwe, nahi bandowoma gbi ɛɛ waa nduahu.\n20. Ngayilii Ye Nugbɔyɔngoi\nNuu gbi lɔnya mia kɔɔ taa nungaa ti gomɛ, tao kɔɔ taa teini ti lee, i na\nlee hinda huwu va ii le.\nTɛɛ nguaa numu gbi la a kpɔli hale kɔɔ i wote a komɛ ma mɔ.\n21. Ngayilii Ye Nugbɔyɔngɔ‐Mahuyelei\nNuu gbi lɔnya mia kɔɔ ngi loko i yɛ ngi guamɛti hindeihu, kɛ bɛɛ ta\nvulii i yɛhu ɔɔ nungaa tia vulii ta lokoloo ti ma.\nNuu gbi lɔnya mia kɔɔ ngi lɔɔhu guamɛti hugbatɛ wie ngoisia ti hiti ngi\nma kia lee ta hiti nungaa ye pekeisia ma.\nNungaa mia maahoungɔ ti ti guamɛti hei, ti gbayei mia a pie a yenge,\nhulɛmbinga ta yamalɔ ti kɔlei gula, tao ye kɔlei ji a kgula bunduhulɔ,\nnahii nungbi ɛɛ gbekpa numu gulɔ.\n22. Ngayilii Ye Nugbɔyɔngɔ‐Mahufelei\nNumu gbi lee ndɔlɔlii a ngie, ngi lɔlei kpɔma hugbatɛ wie ngi va, tao\nkɔɔ ngi lɔlei taa ngitiwoma hugbatɛ ti pee ye kpɔma hugbatei na i foo\nngi ma, tao a majɔɔlɔ kialeke ngi lɔlei gbatɛi kɛɛ ye saweisia ti na,\ngbɔma kia lekee ye numui bɛɛ ngi hami gii na, kɔɔ wei i lɛgulɔ.\n23. Ngayilii Ye Nugbɔyɔngɔ‐Mahusawei\nNumu gbi lɔnya mia kɔɔ i yenge, tao kɔɔ i ngengei na wie ngi longɔla,\nkɔɔ i mbɛlɛhei majɔɔ ngengemɛi, tao kɔɔ ti tɔ kɛngengei ɛɛ ngi lo.\nNumu gbi lɔnya mia, nahii nduahu gbiima, kɔɔ ti ngi pawa kia a yenge la.\nNgenge mɔgbi lɔnya mia kɔɔ ti ngi pawa nahii ta kɛɛ ngi mablaa ta ti\nmagbee gbualɔ hu kia nuvu, tao gbɔma kɔɔ kpɔma yeka i yena ngi va.\nNgenge mɔgbi lɔnya mia kɔɔ i wili hugbatɛhu na ngenga blaa ma vale.\n24. Ngayilii Ye Nugbɔyɔngɔ‐Mahunaani\nNgenge mɔgbi lɔnya mia kɔɔ i lɛvu tao kɔɔ i kpele yeka gbua, tao gbɔma\nkɔɔ aa ngenge huguangɔ waa wie, mahoungɔ gbɔma i yaa a ndɛvu wati majɔɔ,\nnahi i yaa ye ndevui na wie ma ta yaalɔ a ngi pawa.\n25. Ngayilii Ye Nugbɔyɔnɔ‐Mahulɔɔlui\nNumu gbi lɔnya mia kɔɔ ta kɛɛ ngi mablaa ti yɛ kaahugbua hu, ti mɛhɛɛ\nyekpe mɛ, ti kula yekpe yili, ti la ndama yekpe, ti hale yekpe majɔɔ,\ntao gbɔma guamɛti i ye na ti va, hugbatɛ yekpe i yena ngi va a watii na\nɛɛ yɛ ngege hu, a watii na ngi heigɛngɔ, watii na ngi wovang, kɛɛ watii\nna hinda a wa ngi mahu nahii ɛɛ gumbu.\nMahoungɔ gbɔma hugbatɛ i yɛ na kuimɛisia kɛɛ ndengaa va. Mahoungɔ",
-            "Image": "70c36b411a12e9ca50af7061a28aa76a"
+            "Text": "tɔnyɛi ji a peelɔ yee kiiyei ji nuu gbi ɛɛ gbekpa kulɔ, tao kɔɔ i\nnemahulee kɛɛ ngowii majɔɔ tao kɔɔ ta bɛɛ i fe nungaa wɛ a pele gbi hu\nwe, nahi bandowoma gbi ɛɛ waa nduahu.\n20. Ngayilii Ye Nugbɔyɔngoi\nNuu gbi lɔnya mia kɔɔ taa nungaa ti gomɛ, tao kɔɔ taa teini ti lee, i na\nlee hinda huwu va ii le.\nTɛɛ nguaa numu gbi la a kpɔli hale kɔɔ i wote a komɛ ma mɔ.\n21. Ngayilii Ye Nugbɔyɔngɔ‐Mahuyelei\nNuu gbi lɔnya mia kɔɔ ngi loko i yɛ ngi guamɛti hindeihu, kɛ bɛɛ ta\nvulii i yɛhu ɔɔ nungaa tia vulii ta lokoloo ti ma.\nNuu gbi lɔnya mia kɔɔ ngi lɔɔhu guamɛti hugbatɛ wie ngoisia ti hiti ngi\nma kia lee ta hiti nungaa ye pekeisia ma.\nNungaa mia maahoungɔ ti ti guamɛti hei, ti gbayei mia a pie a yenge,\nhulɛmbinga ta yamalɔ ti kɔlei gula, tao ye kɔlei ji a kgula bunduhulɔ,\nnahii nungbi ɛɛ gbekpa numu gulɔ.\n22. Ngayilii Ye Nugbɔyɔngɔ‐Mahufelei\nNumu gbi lee ndɔlɔlii a ngie, ngi lɔlei kpɔma hugbatɛ wie ngi va, tao\nkɔɔ ngi lɔlei taa ngitiwoma hugbatɛ ti pee ye kpɔma hugbatei na i foo\nngi ma, tao a majɔɔlɔ kialeke ngi lɔlei gbatɛi kɛɛ ye saweisia ti na,\ngbɔma kia lekee ye numui bɛɛ ngi hami gii na, kɔɔ wei i lɛgulɔ.\n23. Ngayilii Ye Nugbɔyɔngɔ‐Mahusawei\nNumu gbi lɔnya mia kɔɔ i yenge, tao kɔɔ i ngengei na wie ngi longɔla,\nkɔɔ i mbɛlɛhei majɔɔ ngengemɛi, tao kɔɔ ti tɔ kɛngengei ɛɛ ngi lo.\nNumu gbi lɔnya mia, nahii nduahu gbiima, kɔɔ ti ngi pawa kia a yenge la.\nNgenge mɔgbi lɔnya mia kɔɔ ti ngi pawa nahii ta kɛɛ ngi mablaa ta ti\nmagbee gbualɔ hu kia nuvu, tao gbɔma kɔɔ kpɔma yeka i yena ngi va.\nNgenge mɔgbi lɔnya mia kɔɔ i wili hugbatɛhu na ngenga blaa ma vale.\n24. Ngayilii Ye Nugbɔyɔngɔ‐Mahunaani\nNgenge mɔgbi lɔnya mia kɔɔ i lɛvu tao kɔɔ i kpele yeka gbua, tao gbɔma\nkɔɔ aa ngenge huguangɔ waa wie, mahoungɔ gbɔma i yaa a ndɛvu wati majɔɔ,\nnahi i yaa ye ndevui na wie ma ta yaalɔ a ngi pawa.\n25. Ngayilii Ye Nugbɔyɔnɔ‐Mahulɔɔlui\nNumu gbi lɔnya mia kɔɔ ta kɛɛ ngi mablaa ti yɛ kaahugbua hu, ti mɛhɛɛ\nyekpe mɛ, ti kula yekpe yili, ti la ndama yekpe, ti hale yekpe majɔɔ,\ntao gbɔma guamɛti i ye na ti va, hugbatɛ yekpe i yena ngi va a watii na\nɛɛ yɛ ngege hu, a watii na ngi heigɛngɔ, watii na ngi wovang, kɛɛ watii\nna hinda a wa ngi mahu nahii ɛɛ gumbu.\nMahoungɔ gbɔma hugbatɛ i yɛ na kuimɛisia kɛɛ ndengaa va. Mahoungɔ"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "459976656eccd274ff91fec467559eba",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "ndengaa kpɛlɛɛ, naa ti kɛ taa ti njeni ti sɔɔhu ɔɔ tii sɔɔhu, ye\nhugbatei ji i ti maa wɛɛ.\n26. Ngayilii Ye Nugbɔyɔngɔ‐Mahuweitei\nNumu gbi lɔnya mia kɔɔ i kɔlɔ gaa. Maa ii houni navoo hinda i yɛ\nkɔlɔgaala ma, kɛ bɛɛ i wote a ye tɔtɔmɛi. Mahoungɔ kɔlɔ gaalei i wote a\nsawa kpawu kpawu na ndo gbi ɛ gbuama ye tɔtoomi. Nyandengɔ kɔɔ ngenge\nkɔlɔngaa i yna kpoto, kɛɛ kɔlɔ yalngɔ gaalei naa va ti nɛmabu lewengɔ.\nKɔlɔ gaalei i wote a hinda na a nuu lɛ gulɔma, ngi lɔnyisia kɛɛ ngi\nhugbɛmboi. I loko hei hinda yawubu gɔɔla, hinda bu houla kɛɛ ndiamɔya\ndunyei kpɛlɛɛ luahu, kɛnyɛisia kɛɛ Ngewɔ vɛli gbambisia luahu, tao kpaya\nwaalɔ ndɔlɔ kpɛlɛ woyila yenge lukuisia hu kɔɔ ndilɛli i li gulɔma.\nBondeisia ti wote a haala bla ta kɛ na kaa ye gbɔɔ ti leingaa ta pee.\n27. Ngayilii Ye Nugbɔyɔngɔ Mahuwɔfilei\nNumu gbi lɔnya mia kɔɔ ngi loko i ye mia a yɛna ye kɔndi hinda hu, i\nngaa nɛɛ ye yɛ mbembei hu kɛɛ sayɛnsi ye tɛkulɔmii taa ye nafei.\nNumu gbi lɔnya mia kɔɔ mahugbee kpɔtu kpɔtu i yɛ ngi gbatɛ hani ma, i yɛ\na ngole ɔɔ hani lalangɔ ɔɔ sayɛnsi haaka.\n28. Ngayilii Ye Nugbɔyɔnɔ Mahuwayakpei\nNumu gbi lɔnya mia kɔɔ ngi yee jawa kɛɛ ngitiwoma gee i yɛna, na a tɔ kɛ\ndunya lahei jisia ta hitilɔnga.\n29. Ngayilii Ye Nugbɔyɔngɔ Mahutaawui\nNumu gbi lee, mia i heina, tao a lɛna gulɔma, mahouingɔ i na hinda hou a\nloko veinja.\nJi numu a yɛ ngi lɔnyei kɛɛ ngi hugbɛmboi ya yenge ma, na lee a wote a\nkpɛɛnguu a wee a saweilɔ naa a nuu wɛkeisia ti lɔnyei kɛɛ ti hugbɛmboi\nma vale, kɛɛ numu kpɛlɛ ti maahinda va ngoyila lɔɔhu.\nNumu ɛ ye tɔnyei jisia kɛɛ hugbɛmboi jisia yayenge nahi kpuangɔ pilei na\nma, tao gbɔma ɛɛ pindɛ kaa na wooma na ndɔlɔ kpɛlɛ gomɛi ti ndani.\n30. Ngayilii Ye Numugbɔyɔngɔ Mahupuui\nGbɛwogbɛ gbi na kɔlei ii hu na nu mu a nde yɛ kɛnga ti puilɔ na kɔɔ i\nndɔlɔ ɔɔ ngoyila hugbatɛ lɛɛnga ti lɔnyei kee ti hugbɛmboi mahugbua.",
-            "Image": "459976656eccd274ff91fec467559eba"
+            "Text": "ndengaa kpɛlɛɛ, naa ti kɛ taa ti njeni ti sɔɔhu ɔɔ tii sɔɔhu, ye\nhugbatei ji i ti maa wɛɛ.\n26. Ngayilii Ye Nugbɔyɔngɔ‐Mahuweitei\nNumu gbi lɔnya mia kɔɔ i kɔlɔ gaa. Maa ii houni navoo hinda i yɛ\nkɔlɔgaala ma, kɛ bɛɛ i wote a ye tɔtɔmɛi. Mahoungɔ kɔlɔ gaalei i wote a\nsawa kpawu kpawu na ndo gbi ɛ gbuama ye tɔtoomi. Nyandengɔ kɔɔ ngenge\nkɔlɔngaa i yna kpoto, kɛɛ kɔlɔ yalngɔ gaalei naa va ti nɛmabu lewengɔ.\nKɔlɔ gaalei i wote a hinda na a nuu lɛ gulɔma, ngi lɔnyisia kɛɛ ngi\nhugbɛmboi. I loko hei hinda yawubu gɔɔla, hinda bu houla kɛɛ ndiamɔya\ndunyei kpɛlɛɛ luahu, kɛnyɛisia kɛɛ Ngewɔ vɛli gbambisia luahu, tao kpaya\nwaalɔ ndɔlɔ kpɛlɛ woyila yenge lukuisia hu kɔɔ ndilɛli i li gulɔma.\nBondeisia ti wote a haala bla ta kɛ na kaa ye gbɔɔ ti leingaa ta pee.\n27. Ngayilii Ye Nugbɔyɔngɔ Mahuwɔfilei\nNumu gbi lɔnya mia kɔɔ ngi loko i ye mia a yɛna ye kɔndi hinda hu, i\nngaa nɛɛ ye yɛ mbembei hu kɛɛ sayɛnsi ye tɛkulɔmii taa ye nafei.\nNumu gbi lɔnya mia kɔɔ mahugbee kpɔtu kpɔtu i yɛ ngi gbatɛ hani ma, i yɛ\na ngole ɔɔ hani lalangɔ ɔɔ sayɛnsi haaka.\n28. Ngayilii Ye Nugbɔyɔnɔ Mahuwayakpei\nNumu gbi lɔnya mia kɔɔ ngi yee jawa kɛɛ ngitiwoma gee i yɛna, na a tɔ kɛ\ndunya lahei jisia ta hitilɔnga.\n29. Ngayilii Ye Nugbɔyɔngɔ Mahutaawui\nNumu gbi lee, mia i heina, tao a lɛna gulɔma, mahouingɔ i na hinda hou a\nloko veinja.\nJi numu a yɛ ngi lɔnyei kɛɛ ngi hugbɛmboi ya yenge ma, na lee a wote a\nkpɛɛnguu a wee a saweilɔ naa a nuu wɛkeisia ti lɔnyei kɛɛ ti hugbɛmboi\nma vale, kɛɛ numu kpɛlɛ ti maahinda va ngoyila lɔɔhu.\nNumu ɛ ye tɔnyei jisia kɛɛ hugbɛmboi jisia yayenge nahi kpuangɔ pilei na\nma, tao gbɔma ɛɛ pindɛ kaa na wooma na ndɔlɔ kpɛlɛ gomɛi ti ndani.\n30. Ngayilii Ye Numugbɔyɔngɔ Mahupuui\nGbɛwogbɛ gbi na kɔlei ii hu na nu mu a nde yɛ kɛnga ti puilɔ na kɔɔ i\nndɔlɔ ɔɔ ngoyila hugbatɛ lɛɛnga ti lɔnyei kee ti hugbɛmboi mahugbua."
         }
     }
 }

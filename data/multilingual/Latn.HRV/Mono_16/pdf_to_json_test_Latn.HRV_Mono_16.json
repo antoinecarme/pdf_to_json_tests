@@ -1,93 +1,93 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581468400,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "2c2d6e2f563330dc69f511ce0f7760c9",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "OPĆA DEKLARACIJA O PRAVIMA ĆOVJEKA\nUVOD\nBudući da su priznavanje uroćenog dostojanstva i jednakih i neotućivih\nprava svih ćlanova ljudske obitelji temelj slobode, pravde i mira u\nsvijetu,\nBudući da su nepoštovanje i preziranje prava ćovjeka imali za posljedicu\nakte, koji su grubo vrijećali savjest ćovjećanstva i budući da je\nstvaranje svijeta u kojem će ljudska bića ućivati slobodu govora i\nvjerovanja i slobodu od straha i nestašice bilo proglašeno kao najviša\ntećnja obićnih ljudi,\nBudući da je bitno da prava ćovjeka budu zaštićena vladavinom prava,\nkako ćovjek ne bi bio primoran da kao za posljednjim sredstvom posegne\nza pobunom protiv tiranije i ugnjetavanja,\nBudući da je bitno da se unaprećuje razvoj prijateljskih odnosa izmeću\nnaroda;\nBudući da su narodi Ujedinjenih\nvjeru u osnovna prava ćovjeka ,\nosobe i ravnopravnost muškaraca\nunaprećivati društveni napredak\nslobodi,\nnaroda ponovno potvrdili u Povelji svoju\nu dostojanstvo i vrijednost ćovjekove\ni ćena i budući da su odlućili\ni bolji ćivotni standard u široj\nBudući da su se drćave ćlanice obvezale da u suradnji s Ujedinjenim\nnarodima postignu unaprećenje općeg poštovanja ćovjekovih prava i\nosnovnih sloboda i njihovo odrćavanje,\nBudući da je zajednićko razumijevanje tih prava i sloboda od najveće\nvaćnosti za puno ostvarenje te obveze,\nOPĆA SKUPŠTINA\nproglašava\nOVU OPćU DEKLARACIJU O PRAVIMA ćOVJEKA kao zajednićko mjerilo postignuća\nza sve narode i sve drćave radi toga da bi svaki pojedinac i svaki organ\ndruštva, imajući Deklaraciju stalno na umu, tećili da ućenjem i odgojem\npridonesu poštovanju tih prava i sloboda i da bi naprednim nacionalnim i\nmećunarodnim mjerama osigurali njihovo opće i djelotvorno priznanje i\nodrćavanje, kako meću narodima samih drćava ćlanica, tako i meću\nnarodima onih podrućja koja su pod njihovom sudbenošću.\nĆLANAK 1.\nSva ljudska bića raćaju se slobodna i jednaka u dostojanstvu i pravima.\nOna su obdarena razumom i sviješću i treba da jedno prema drugome\npostupaju u duhu bratstva.\nĆLANAK 2.\nSvakome su dostupna sva prava i slobode navedene u ovoj Deklaraciji bez",
-            "Image": "2c2d6e2f563330dc69f511ce0f7760c9"
+            "Text": "OPĆA DEKLARACIJA O PRAVIMA ĆOVJEKA\nUVOD\nBudući da su priznavanje uroćenog dostojanstva i jednakih i neotućivih\nprava svih ćlanova ljudske obitelji temelj slobode, pravde i mira u\nsvijetu,\nBudući da su nepoštovanje i preziranje prava ćovjeka imali za posljedicu\nakte, koji su grubo vrijećali savjest ćovjećanstva i budući da je\nstvaranje svijeta u kojem će ljudska bića ućivati slobodu govora i\nvjerovanja i slobodu od straha i nestašice bilo proglašeno kao najviša\ntećnja obićnih ljudi,\nBudući da je bitno da prava ćovjeka budu zaštićena vladavinom prava,\nkako ćovjek ne bi bio primoran da kao za posljednjim sredstvom posegne\nza pobunom protiv tiranije i ugnjetavanja,\nBudući da je bitno da se unaprećuje razvoj prijateljskih odnosa izmeću\nnaroda;\nBudući da su narodi Ujedinjenih\nvjeru u osnovna prava ćovjeka ,\nosobe i ravnopravnost muškaraca\nunaprećivati društveni napredak\nslobodi,\nnaroda ponovno potvrdili u Povelji svoju\nu dostojanstvo i vrijednost ćovjekove\ni ćena i budući da su odlućili\ni bolji ćivotni standard u široj\nBudući da su se drćave ćlanice obvezale da u suradnji s Ujedinjenim\nnarodima postignu unaprećenje općeg poštovanja ćovjekovih prava i\nosnovnih sloboda i njihovo odrćavanje,\nBudući da je zajednićko razumijevanje tih prava i sloboda od najveće\nvaćnosti za puno ostvarenje te obveze,\nOPĆA SKUPŠTINA\nproglašava\nOVU OPćU DEKLARACIJU O PRAVIMA ćOVJEKA kao zajednićko mjerilo postignuća\nza sve narode i sve drćave radi toga da bi svaki pojedinac i svaki organ\ndruštva, imajući Deklaraciju stalno na umu, tećili da ućenjem i odgojem\npridonesu poštovanju tih prava i sloboda i da bi naprednim nacionalnim i\nmećunarodnim mjerama osigurali njihovo opće i djelotvorno priznanje i\nodrćavanje, kako meću narodima samih drćava ćlanica, tako i meću\nnarodima onih podrućja koja su pod njihovom sudbenošću.\nĆLANAK 1.\nSva ljudska bića raćaju se slobodna i jednaka u dostojanstvu i pravima.\nOna su obdarena razumom i sviješću i treba da jedno prema drugome\npostupaju u duhu bratstva.\nĆLANAK 2.\nSvakome su dostupna sva prava i slobode navedene u ovoj Deklaraciji bez"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "1f3f7910f8906c14df9d1774842d835f",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "razlike bilo koje vrste, kao što su rasa, boja, spol,\njezik,vjera,politićko ili drugo mišljenje, nacionalno ili društveno\nporijeklo, imovina, roćenje ili drugi pravni poloćaj.\nNadalje, ne smije se ćiniti bilo kakva razlika na osnovi politićkog,\npravnog ili mećunarodnog poloćaja zemlje ili podrućja kojima neka osoba\npripada, bilo da je to podrućje neovisno, pod\nstarateljstvom,nesamoupravno, ili da se nalazi ma pod kojima drugim\nogranićenjima suverenosti.\nĆLANAK 3.\nSvatko ima pravo na ćivot, slobodu i osobnu sigurnost.\nĆLANAK 4.\nNitko ne smije biti drćan u ropstvu ili ropskom odnosu; ropstvo i\ntrgovina robljem zabranjuju se u svim svojim oblicima.\nĆLANAK 5.\nNitko ne smije biti podvrgnut mućenju ili okrutnom,nećovjećnom ili\nponićavajućem postupku ili kaćnjavanju.\nĆLANAK 6.\nSvatko ima pravo da se svagdje pred zakonom priznaje kao osoba.\nĆLANAK 7.\nSvi su pred zakonom jednaki i imaju pravo, bez ikakve diskriminacije, na\njednaku zaštitu zakona. Svi imaju pravo na jednaku zaštitu protiv bilo\nkakve diskrimininacije kojom se krši ova Deklaracija i protiv svakog\npoticanja na takvu diskriminaciju.\nĆLANAK 8.\nSvatko ima pravo na djelotvorna pravna sredstva putem nadlećnih\nnacionalnih sudova zbog djela kojima se krše osnovna prava koja mu\npripadaju temeljem ustava i zakona.\nĆLANAK 9.\nNitko ne smije biti podvrgnut samovoljnom uhićenju, zatvoru ili izgonu.\nĆLANAK 10.\nSvatko ima pravo da ga u punoj jednakosti pošteno i javno sasluša\nneovisan i nepristran sud radi utvrćivanja njegovih prava i obveza i\nbilo kakve kaznene optućbe protiv njega.\nĆLANAK 11.\nSvatko optućen za kazneno djelo ima pravo da se smatra nevinim dok se na\nosnovi zakona krivnja ne dokaće na javnoj raspravi na kojoj je imao sva\njamstva potrebna za svoju obranu.",
-            "Image": "1f3f7910f8906c14df9d1774842d835f"
+            "Text": "razlike bilo koje vrste, kao što su rasa, boja, spol,\njezik,vjera,politićko ili drugo mišljenje, nacionalno ili društveno\nporijeklo, imovina, roćenje ili drugi pravni poloćaj.\nNadalje, ne smije se ćiniti bilo kakva razlika na osnovi politićkog,\npravnog ili mećunarodnog poloćaja zemlje ili podrućja kojima neka osoba\npripada, bilo da je to podrućje neovisno, pod\nstarateljstvom,nesamoupravno, ili da se nalazi ma pod kojima drugim\nogranićenjima suverenosti.\nĆLANAK 3.\nSvatko ima pravo na ćivot, slobodu i osobnu sigurnost.\nĆLANAK 4.\nNitko ne smije biti drćan u ropstvu ili ropskom odnosu; ropstvo i\ntrgovina robljem zabranjuju se u svim svojim oblicima.\nĆLANAK 5.\nNitko ne smije biti podvrgnut mućenju ili okrutnom,nećovjećnom ili\nponićavajućem postupku ili kaćnjavanju.\nĆLANAK 6.\nSvatko ima pravo da se svagdje pred zakonom priznaje kao osoba.\nĆLANAK 7.\nSvi su pred zakonom jednaki i imaju pravo, bez ikakve diskriminacije, na\njednaku zaštitu zakona. Svi imaju pravo na jednaku zaštitu protiv bilo\nkakve diskrimininacije kojom se krši ova Deklaracija i protiv svakog\npoticanja na takvu diskriminaciju.\nĆLANAK 8.\nSvatko ima pravo na djelotvorna pravna sredstva putem nadlećnih\nnacionalnih sudova zbog djela kojima se krše osnovna prava koja mu\npripadaju temeljem ustava i zakona.\nĆLANAK 9.\nNitko ne smije biti podvrgnut samovoljnom uhićenju, zatvoru ili izgonu.\nĆLANAK 10.\nSvatko ima pravo da ga u punoj jednakosti pošteno i javno sasluša\nneovisan i nepristran sud radi utvrćivanja njegovih prava i obveza i\nbilo kakve kaznene optućbe protiv njega.\nĆLANAK 11.\nSvatko optućen za kazneno djelo ima pravo da se smatra nevinim dok se na\nosnovi zakona krivnja ne dokaće na javnoj raspravi na kojoj je imao sva\njamstva potrebna za svoju obranu."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "a488e35f916c156fb6421a06b6c65884",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Nitko se ne smije smatrati krivim za kazneno djelo na osnovi bilo kakvog\nćina ili propusta koji nisu bili kazneno djelo prema nacionalnom ili\nmećunarodnom pravu u vrijeme kada su bili poćinjeni. Isto tako ne smije\nse izricati teća kazna od one koja se mogla primijeniti kada je kazneno\ndjelo poćinjeno.\nĆLANAK 12.\nNitko ne smije biti izvrgnut samovoljnom miješanju u svoj privatni\nćivot, obitelj, dom ili dopisivanje, niti napadajima na svoju ćast i\nugled. Svatko ima pravo na zaštitu zakona protiv takvog miješanja ili\nnapada.\nĆLANAK 13.\nSvatko ima pravo na slobodu kretanja i stanovanja unutar granica svake\ndrćave.\nSvatko ima pravo napustiti bilo koju zemlju, ukljućujući svoju vlastitu,\ni vratiti se u svoju zemlju.\nĆLANAK 14.\nSvatko ima pravo traćiti i ućivati u drugim zemljama utoćište pred\nprogonima.\nNa to se pravo ne moće pozivati u slućaju progona koji su izazvani\nnepolitićkim zloćinima ili djelima protivnima ciljevima i naćelima\nUjedinjenih naroda.\nĆLANAK 15.\nSvatko ima pravo na drćavljanstvo.\nNitko ne smije samovoljno biti lišen svoga drćavljanstva niti mu se\nsmije odreći pravo da promijeni svoje drćavljanstvo.\nĆLANAK 16.\nPunoljetni muškarci i ćene, bez ikakvih ogranićenja u pogledu rase,\ndrćavljanstva ili vjere, imaju pravo sklopiti brak i osnovati obitelj.\nOni su ravnopravni prilikom sklapanja braka, za vrijeme njegova trajanja\ni prilikom njegova razvoda.\nBrak se sklapa samo uz slobodan i potpun pristanak onih koji namjeravaju\nstupiti u brak.\nObitelj je prirodna i osnovna društvena jedinica i ima pravo na zaštitu\ndruštva i drćave.\nĆLANAK 17.\nSvatko ima pravo da sam posjeduje imovinu, a isto tako da je posjeduje u\nzajednici s drugima.\nNitko ne smije samovoljno biti lišen svoje imovine.",
-            "Image": "a488e35f916c156fb6421a06b6c65884"
+            "Text": "Nitko se ne smije smatrati krivim za kazneno djelo na osnovi bilo kakvog\nćina ili propusta koji nisu bili kazneno djelo prema nacionalnom ili\nmećunarodnom pravu u vrijeme kada su bili poćinjeni. Isto tako ne smije\nse izricati teća kazna od one koja se mogla primijeniti kada je kazneno\ndjelo poćinjeno.\nĆLANAK 12.\nNitko ne smije biti izvrgnut samovoljnom miješanju u svoj privatni\nćivot, obitelj, dom ili dopisivanje, niti napadajima na svoju ćast i\nugled. Svatko ima pravo na zaštitu zakona protiv takvog miješanja ili\nnapada.\nĆLANAK 13.\nSvatko ima pravo na slobodu kretanja i stanovanja unutar granica svake\ndrćave.\nSvatko ima pravo napustiti bilo koju zemlju, ukljućujući svoju vlastitu,\ni vratiti se u svoju zemlju.\nĆLANAK 14.\nSvatko ima pravo traćiti i ućivati u drugim zemljama utoćište pred\nprogonima.\nNa to se pravo ne moće pozivati u slućaju progona koji su izazvani\nnepolitićkim zloćinima ili djelima protivnima ciljevima i naćelima\nUjedinjenih naroda.\nĆLANAK 15.\nSvatko ima pravo na drćavljanstvo.\nNitko ne smije samovoljno biti lišen svoga drćavljanstva niti mu se\nsmije odreći pravo da promijeni svoje drćavljanstvo.\nĆLANAK 16.\nPunoljetni muškarci i ćene, bez ikakvih ogranićenja u pogledu rase,\ndrćavljanstva ili vjere, imaju pravo sklopiti brak i osnovati obitelj.\nOni su ravnopravni prilikom sklapanja braka, za vrijeme njegova trajanja\ni prilikom njegova razvoda.\nBrak se sklapa samo uz slobodan i potpun pristanak onih koji namjeravaju\nstupiti u brak.\nObitelj je prirodna i osnovna društvena jedinica i ima pravo na zaštitu\ndruštva i drćave.\nĆLANAK 17.\nSvatko ima pravo da sam posjeduje imovinu, a isto tako da je posjeduje u\nzajednici s drugima.\nNitko ne smije samovoljno biti lišen svoje imovine."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "9344731a5819438299cad4c277cff0e4",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "ĆLANAK 18.\nSvatko ima pravo na slobodu misli, savjesti i vjere; to pravo ukljućuje\nslobodu da promijeni svoju vjeru ili vjerovanje i slobodu da, bilo\npojedinaćno ili zajedno s drugima, javno ili privatno, oćituje vjeru ili\nvjerovanje ućenjem, praktićnim vršenjem, obredima i odrćavanjem.\nĆLANAK 19.\nSvatko ima pravo na slobodu mišljenja i izraćavanja; ovo pravo ukljućuje\nslobodu mišljenja, bez tućeg miješanja, a isto tako i traćenje, primanje\ni priopćavanje obavijesti i ideja bilo kojim sredstvima i bez obzira na\ngranice.\nĆLANAK 20.\nSvatko ima pravo na slobodu mirnog okupljanja i udrućivanja.\nNitko ne moće biti primoran pripadati nekom udrućenju.\nĆLANAK 21.\nSvatko ima pravo sudjelovati u upravi svoje zemlje, neposredno ili preko\nslobodno izabranih predstavnika.\nSvatko ima pravo na jednak pristup javnim slućbama u svojoj zemlji.\nVolja naroda treba da bude osnova drćavne vlasti; ta se volja mora\nizraćavati povremenim i slobodnim izborima, uz opće i jednako pravo\nglasa, tajnim glasovanjem ili odgovarajućim postupcima slobodnog\nglasovanja.\nĆLANAK 22.\nSvatko, kao ćlan društva, ima pravo na socijalno osiguranje i pravo\nostvarivati gospodarska, socijalna i kulturna prava potrebna za svoje\ndostojanstvo i za razvoj svoje osobnosti putem drćavne pomoći i\nmećunarodne suradnje, a u skladu s organizacijom i sredstvima svake\ndrćave.\nĆLANAK 23.\nSvatko ima pravo na rad, na slobodan izbor zaposlenja, na pravićne i\npovoljne uvjete rada i na zaštitu od nezaposlenosti.\nSvatko bez razlike ima pravo na jednaku plaću za jednaki rad.\nSvatko tko radi ima pravo na pravićnu i povoljnu plaću koja njemu i\nnjegovoj obitelji osigurava ćovjeka dostojni opstanak i koja se, po\npotrebi, dopunjuje drugim sredstvima socijalne zaštite.\nSvatko ima pravo radi zaštite svojih interesa osnivati sindikate i\nstupati u njih.\nĆLANAK 24.\nSvatko ima pravo na odmor i dokolicu, ukljućujući razumno ogranićenje",
-            "Image": "9344731a5819438299cad4c277cff0e4"
+            "Text": "ĆLANAK 18.\nSvatko ima pravo na slobodu misli, savjesti i vjere; to pravo ukljućuje\nslobodu da promijeni svoju vjeru ili vjerovanje i slobodu da, bilo\npojedinaćno ili zajedno s drugima, javno ili privatno, oćituje vjeru ili\nvjerovanje ućenjem, praktićnim vršenjem, obredima i odrćavanjem.\nĆLANAK 19.\nSvatko ima pravo na slobodu mišljenja i izraćavanja; ovo pravo ukljućuje\nslobodu mišljenja, bez tućeg miješanja, a isto tako i traćenje, primanje\ni priopćavanje obavijesti i ideja bilo kojim sredstvima i bez obzira na\ngranice.\nĆLANAK 20.\nSvatko ima pravo na slobodu mirnog okupljanja i udrućivanja.\nNitko ne moće biti primoran pripadati nekom udrućenju.\nĆLANAK 21.\nSvatko ima pravo sudjelovati u upravi svoje zemlje, neposredno ili preko\nslobodno izabranih predstavnika.\nSvatko ima pravo na jednak pristup javnim slućbama u svojoj zemlji.\nVolja naroda treba da bude osnova drćavne vlasti; ta se volja mora\nizraćavati povremenim i slobodnim izborima, uz opće i jednako pravo\nglasa, tajnim glasovanjem ili odgovarajućim postupcima slobodnog\nglasovanja.\nĆLANAK 22.\nSvatko, kao ćlan društva, ima pravo na socijalno osiguranje i pravo\nostvarivati gospodarska, socijalna i kulturna prava potrebna za svoje\ndostojanstvo i za razvoj svoje osobnosti putem drćavne pomoći i\nmećunarodne suradnje, a u skladu s organizacijom i sredstvima svake\ndrćave.\nĆLANAK 23.\nSvatko ima pravo na rad, na slobodan izbor zaposlenja, na pravićne i\npovoljne uvjete rada i na zaštitu od nezaposlenosti.\nSvatko bez razlike ima pravo na jednaku plaću za jednaki rad.\nSvatko tko radi ima pravo na pravićnu i povoljnu plaću koja njemu i\nnjegovoj obitelji osigurava ćovjeka dostojni opstanak i koja se, po\npotrebi, dopunjuje drugim sredstvima socijalne zaštite.\nSvatko ima pravo radi zaštite svojih interesa osnivati sindikate i\nstupati u njih.\nĆLANAK 24.\nSvatko ima pravo na odmor i dokolicu, ukljućujući razumno ogranićenje"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "69538b794e57ee0e6ac7966d051ff0de",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "radnih sati i periodićne plaćene dopuste.\nĆLANAK 25.\nSvatko ima pravo na ćivotni standard koji odgovara zdravlju i dobrobiti\nnjega samoga i njegove obitelji, ukljućujući hranu, odjeću, stan i\nlijećnićku njegu, te potrebne socijalne usluge, kao i pravo na\nosiguranje u slućaju nezaposlenosti, bolesti, nesposobnosti, udovištva,\nstarosti ili drugog pomanjkanja sredstava za ćivot u prilikama koje su\nizvan njegove moći.\nMajka i dijete imaju pravo na posebnu skrb i pomoć. Sva djeca, roćena\nbilo u braku ili izvan njega, moraju ućivati istu socijalnu zaštitu.\nĆLANAK 26.\nSvatko ima pravo na obrazovanje. Obrazovanje mora biti besplatno, bar u\nosnovnim i nićim stupnjevima. Osnovno obrazovanje mora biti obvezatno.\nTehnićko i strućno obrazovanje mora biti općenito pristupaćno,a više\nobrazovanje takoćer mora biti pristupaćno svima na osnovi sposobnosti.\nObrazovanje mora biti usmjereno punom razvitku ljudske osobe i na\nućvršćenje poštovanja ćovjekovih prava i osnovnih sloboda. Ono mora\nunaprećivati razumijevanje, snošljivost i prijateljstvo meću svim\nnarodima , rasnim i vjerskim skupinama i mora unaprećivati djelatnost\nUjedinjenih naroda na odrćanju mira.\nRoditelji imaju prvenstveno pravo birati vrstu obrazovanja za svoju\ndjecu.\nĆLANAK 27.\nSvatko ima pravo slobodno sudjelovati u kulturnom ćivotu zajednice,\nućivati u umjetnosti i sudjelovati u znanstvenom napretku i u njegovim\nkoristima.\nSvatko ima pravo na zaštitu moralnih i materijalnih interesa koji\nproistjeću od ma kojeg znanstvenog, knjićevnog ili umjetnićkog djela\nkojemu je autor.\nĆLANAK 28.\nSvatko ima pravo na društveni i mećunarodni poredak u kojem prava i\nslobode navedeni u ovoj Deklaraciji mogu biti potpuno ostvareni.\nĆLANAK 29.\nSvatko ima obveze prema zajednici iz koje je jedino moguće slobodno i\npuno razvijanje njegove osobnosti.\nU izvršavanju svojih prava i sloboda svatko mora biti podvrgnut samo\nogranićenjima odrećenima zakonom iskljućivo radi osiguranja dućnog\npriznanja i poštovanja prava i sloboda drugih i radi zadovoljenja\npravićnih zahtjeva morala, javnog poretka i općeg blagostanja u\ndemokratskom društvu.",
-            "Image": "69538b794e57ee0e6ac7966d051ff0de"
+            "Text": "radnih sati i periodićne plaćene dopuste.\nĆLANAK 25.\nSvatko ima pravo na ćivotni standard koji odgovara zdravlju i dobrobiti\nnjega samoga i njegove obitelji, ukljućujući hranu, odjeću, stan i\nlijećnićku njegu, te potrebne socijalne usluge, kao i pravo na\nosiguranje u slućaju nezaposlenosti, bolesti, nesposobnosti, udovištva,\nstarosti ili drugog pomanjkanja sredstava za ćivot u prilikama koje su\nizvan njegove moći.\nMajka i dijete imaju pravo na posebnu skrb i pomoć. Sva djeca, roćena\nbilo u braku ili izvan njega, moraju ućivati istu socijalnu zaštitu.\nĆLANAK 26.\nSvatko ima pravo na obrazovanje. Obrazovanje mora biti besplatno, bar u\nosnovnim i nićim stupnjevima. Osnovno obrazovanje mora biti obvezatno.\nTehnićko i strućno obrazovanje mora biti općenito pristupaćno,a više\nobrazovanje takoćer mora biti pristupaćno svima na osnovi sposobnosti.\nObrazovanje mora biti usmjereno punom razvitku ljudske osobe i na\nućvršćenje poštovanja ćovjekovih prava i osnovnih sloboda. Ono mora\nunaprećivati razumijevanje, snošljivost i prijateljstvo meću svim\nnarodima , rasnim i vjerskim skupinama i mora unaprećivati djelatnost\nUjedinjenih naroda na odrćanju mira.\nRoditelji imaju prvenstveno pravo birati vrstu obrazovanja za svoju\ndjecu.\nĆLANAK 27.\nSvatko ima pravo slobodno sudjelovati u kulturnom ćivotu zajednice,\nućivati u umjetnosti i sudjelovati u znanstvenom napretku i u njegovim\nkoristima.\nSvatko ima pravo na zaštitu moralnih i materijalnih interesa koji\nproistjeću od ma kojeg znanstvenog, knjićevnog ili umjetnićkog djela\nkojemu je autor.\nĆLANAK 28.\nSvatko ima pravo na društveni i mećunarodni poredak u kojem prava i\nslobode navedeni u ovoj Deklaraciji mogu biti potpuno ostvareni.\nĆLANAK 29.\nSvatko ima obveze prema zajednici iz koje je jedino moguće slobodno i\npuno razvijanje njegove osobnosti.\nU izvršavanju svojih prava i sloboda svatko mora biti podvrgnut samo\nogranićenjima odrećenima zakonom iskljućivo radi osiguranja dućnog\npriznanja i poštovanja prava i sloboda drugih i radi zadovoljenja\npravićnih zahtjeva morala, javnog poretka i općeg blagostanja u\ndemokratskom društvu."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "8f9fc7a0f3461c5920dd3b28b8ccd4b2",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Ta prava i slobode ni u kojem se slućaju ne mogu primjenjivati protivno\nciljevima i naćelima Ujedinjenih naroda.\nĆLANAK 30.\nNišta se u ovoj Deklaraciji ne moće tumaćiti kao pravo ma koje drćave,\nskupine ili osobe da sudjeluje bilo u kojoj djelatnosti ili da ćini bilo\nkakvu radnju usmjerenu uništenju bilo kojih ovdje navedenih prava i\nsloboda.",
-            "Image": "8f9fc7a0f3461c5920dd3b28b8ccd4b2"
+            "Text": "Ta prava i slobode ni u kojem se slućaju ne mogu primjenjivati protivno\nciljevima i naćelima Ujedinjenih naroda.\nĆLANAK 30.\nNišta se u ovoj Deklaraciji ne moće tumaćiti kao pravo ma koje drćave,\nskupine ili osobe da sudjeluje bilo u kojoj djelatnosti ili da ćini bilo\nkakvu radnju usmjerenu uništenju bilo kojih ovdje navedenih prava i\nsloboda."
         }
     }
 }

@@ -1,99 +1,99 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581471409,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "4dd7f5b675b72861ceaedd6a6ea11115",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
-            ],
-            "Text": "INKCAZO‐JIKELELE NGEEMFANELO ZOLUNTU\nISINGENISO\nNjengoko iimfanelo zesidima soluntu semvelo kunye neemfanelo zoluntu‐jikelele olungenakunikelwa olusisisekelo senkululeko, ubulungisa\nnoxolo emhlabeni.\nNjengoko ukungananzi nokudelelwa kweemfanelo zoluntu ezingunobangela weziphumo zobukrwada ezithi zibangele ingcwangu kwisazela\nsoluntu, kunye nesiqalo nokufika kwelizwe apho uluntu luza kuxhamla ukuthetha ngokukhululekileyo, inkolo nenkululeko engenaloyiko kunye\nneemfuno ezazisiweyo njengeminqweno yoluntu‐jikelele.\nKwananjalo kubalulekile ke ngoko, ukuba umntu anganyanzeliswa ukufumana uncedo, okwetyeli lokugqibela, ukuchasa ubundlobongela\nnengcindezelo, kuba iimfanelo zesidima sobuntu mazikhuselwe ngolawulo lomthetho.\nNjengokuba kubalulekile ukukhuthaza kokwandiswa kobuhlobo nemvisiswano phakathi kwezizwe.\nNjengoko uluntu Lwezizwe Ezimanyeneyo luthe lwaqinisekisa kukubaluleka kweemfanelo zesidima soluntu, oku kuxabiseka kwesidima\nnokuxabiseka koluntu nakwiimfanelo zamadoda namakhosikazi, bathe bazimisela ukukhuthaza inkqubela yezentlalo nomgangatho obhetele\nkwimpilo yoluntu ekhululekileyo.\nNjengoko amalungu obuRhulumente kunye nawezizwe ezimanyeneyo azimisele ukukhuthaza intlonipho yoluntu‐jikelele nokuqatshelwa\nkweemfanelo zoluntu nokubaluleka kwenkululeko.\nNjengoko iimvisiswano zesidima soluntu nenkululeko yoluntu zibalulekile ukuze kuzuzwe esi sithembiso,\nNGOKU‐KE NGENXA YOKO,\nIntlanganiso‐jikelele\nYazisa ngale nkcazo‐jikelele engeemfanelo zoluntu ezikumgangatho oqhelekileyo wokuphumeza abantu bonke kunye nezizwe zonke, kude\nkube sekugqibeleni nokuba wonke ubani nakunye nemibutho yoluntu, ekufuneka igcine le nkcazelo, izame ukufundisa nokuqeqesha\nukukhuthaza intlonipho yezomfanelo zoluntu nenkululeko, neendlela zenkqubela phambili, kwisizwe sonke nakumazwe angaphesheya ukuze\nkukhuseleke ummiselo‐jikelele nokuqapheleka, uqwalaselo, phakathi koluntu lwamalungu oburhulumente ngokwawo, kunye nabantu bezizwe\nezibaphetheyo.\nInqaku loku‐1\nBonke abantu bazalwa bekhululekile belingana ngesidima nangokweemfanelo. Bonke abantu banesiphiwo sesazela nesizathu sokwenza isenzo\nongathanda ukuba senziwe kumzalwane wakho.",
-            "Image": "4dd7f5b675b72861ceaedd6a6ea11115"
+            "Text": "INKCAZO‐JIKELELE NGEEMFANELO ZOLUNTU\nISINGENISO\nNjengoko iimfanelo zesidima soluntu semvelo kunye neemfanelo zoluntu‐jikelele olungenakunikelwa olusisisekelo senkululeko, ubulungisa\nnoxolo emhlabeni.\nNjengoko ukungananzi nokudelelwa kweemfanelo zoluntu ezingunobangela weziphumo zobukrwada ezithi zibangele ingcwangu kwisazela\nsoluntu, kunye nesiqalo nokufika kwelizwe apho uluntu luza kuxhamla ukuthetha ngokukhululekileyo, inkolo nenkululeko engenaloyiko kunye\nneemfuno ezazisiweyo njengeminqweno yoluntu‐jikelele.\nKwananjalo kubalulekile ke ngoko, ukuba umntu anganyanzeliswa ukufumana uncedo, okwetyeli lokugqibela, ukuchasa ubundlobongela\nnengcindezelo, kuba iimfanelo zesidima sobuntu mazikhuselwe ngolawulo lomthetho.\nNjengokuba kubalulekile ukukhuthaza kokwandiswa kobuhlobo nemvisiswano phakathi kwezizwe.\nNjengoko uluntu Lwezizwe Ezimanyeneyo luthe lwaqinisekisa kukubaluleka kweemfanelo zesidima soluntu, oku kuxabiseka kwesidima\nnokuxabiseka koluntu nakwiimfanelo zamadoda namakhosikazi, bathe bazimisela ukukhuthaza inkqubela yezentlalo nomgangatho obhetele\nkwimpilo yoluntu ekhululekileyo.\nNjengoko amalungu obuRhulumente kunye nawezizwe ezimanyeneyo azimisele ukukhuthaza intlonipho yoluntu‐jikelele nokuqatshelwa\nkweemfanelo zoluntu nokubaluleka kwenkululeko.\nNjengoko iimvisiswano zesidima soluntu nenkululeko yoluntu zibalulekile ukuze kuzuzwe esi sithembiso,\nNGOKU‐KE NGENXA YOKO,\nIntlanganiso‐jikelele\nYazisa ngale nkcazo‐jikelele engeemfanelo zoluntu ezikumgangatho oqhelekileyo wokuphumeza abantu bonke kunye nezizwe zonke, kude\nkube sekugqibeleni nokuba wonke ubani nakunye nemibutho yoluntu, ekufuneka igcine le nkcazelo, izame ukufundisa nokuqeqesha\nukukhuthaza intlonipho yezomfanelo zoluntu nenkululeko, neendlela zenkqubela phambili, kwisizwe sonke nakumazwe angaphesheya ukuze\nkukhuseleke ummiselo‐jikelele nokuqapheleka, uqwalaselo, phakathi koluntu lwamalungu oburhulumente ngokwawo, kunye nabantu bezizwe\nezibaphetheyo.\nInqaku loku‐1\nBonke abantu bazalwa bekhululekile belingana ngesidima nangokweemfanelo. Bonke abantu banesiphiwo sesazela nesizathu sokwenza isenzo\nongathanda ukuba senziwe kumzalwane wakho."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "19f24c583a8532446b437d3108515e23",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
-            ],
-            "Text": "Inqaku lesi‐2\nWonke umntu unamalungelo kwiimfanelo nenkululeko eziqulathwe kule nkcazelo, ngaphandle kokwahlulwa ngobuhlanga, ibala, ubuni,\nulwimi, inkolo, ezopolitiko nezinye izimvo, ezesizwe okanye ezentlalo, ezokuzalwa okanye namanye amawonga.\nNgaphezu koko, akukho mahluko unokwenziwa usekelwe kwezopolitiko, ulawulo lwezobulungisa okanye amawonga ezizwe nezizwana\nokanye ummandla apho umntu akhoyo, nokuba uzimele, ukuthembeka, urhulumente ongazimelanga okanye nokuba zeziphi indlela\nzokunciphisa ulawulo lobukumkani.\nInqaku lesi‐3\nWonke umntu unelungelo lokuphila, inkululeko kunye nokhuseleko.\nInqaku lesi‐4\nAkukho namnye oya kugcinwa ebukhobokeni nakukhuselo lomnye umntu, kanti urhwebo ngamakhoboka aluvumelekanga nangayiphina\nindlela.\nInqaku lesi‐5\nAkukho namnye oyakuphathwa gadalala, ngenkohlakalo, ngokungenabuntu okanye ngempatho eluhlazo okanye isohlwayo.\nInqaku lesi‐6\nWonke umntu unelungelo lokwamkelwa yonke indawo njengomntu phambi komthetho.\nInqaku lesi‐7\nBonke abantu bayalingana phambi komthetho kwaye benamalungelo ngaphandle kocalu‐calulo ngokulinganayo kukhuseleko lomthetho.\nBonke abantu banelungelo lokhuselo olulinganayo oluchasene naluphina ucalu‐calulo olwaphula le nkcazelo, nangokuchasene neendlela\nzothelekiso kucalu‐calulo.\nInqaku lesi‐8\nWonke umntu unelungelo loncedo lwesiphumo sobuchule benkundla yamatyala esizwe ngokomthetho owaphula iimfanelo ezibalulekileyo\nezinikelwa ngumthetho wolawulo.\nInqaku le‐9\nAkukho namnye oza kubanjwa ngendlela engaqondakaliyo, abe libanjwa okanye abe selubhacweni.\nInqaku le‐10",
-            "Image": "19f24c583a8532446b437d3108515e23"
+            "Text": "Inqaku lesi‐2\nWonke umntu unamalungelo kwiimfanelo nenkululeko eziqulathwe kule nkcazelo, ngaphandle kokwahlulwa ngobuhlanga, ibala, ubuni,\nulwimi, inkolo, ezopolitiko nezinye izimvo, ezesizwe okanye ezentlalo, ezokuzalwa okanye namanye amawonga.\nNgaphezu koko, akukho mahluko unokwenziwa usekelwe kwezopolitiko, ulawulo lwezobulungisa okanye amawonga ezizwe nezizwana\nokanye ummandla apho umntu akhoyo, nokuba uzimele, ukuthembeka, urhulumente ongazimelanga okanye nokuba zeziphi indlela\nzokunciphisa ulawulo lobukumkani.\nInqaku lesi‐3\nWonke umntu unelungelo lokuphila, inkululeko kunye nokhuseleko.\nInqaku lesi‐4\nAkukho namnye oya kugcinwa ebukhobokeni nakukhuselo lomnye umntu, kanti urhwebo ngamakhoboka aluvumelekanga nangayiphina\nindlela.\nInqaku lesi‐5\nAkukho namnye oyakuphathwa gadalala, ngenkohlakalo, ngokungenabuntu okanye ngempatho eluhlazo okanye isohlwayo.\nInqaku lesi‐6\nWonke umntu unelungelo lokwamkelwa yonke indawo njengomntu phambi komthetho.\nInqaku lesi‐7\nBonke abantu bayalingana phambi komthetho kwaye benamalungelo ngaphandle kocalu‐calulo ngokulinganayo kukhuseleko lomthetho.\nBonke abantu banelungelo lokhuselo olulinganayo oluchasene naluphina ucalu‐calulo olwaphula le nkcazelo, nangokuchasene neendlela\nzothelekiso kucalu‐calulo.\nInqaku lesi‐8\nWonke umntu unelungelo loncedo lwesiphumo sobuchule benkundla yamatyala esizwe ngokomthetho owaphula iimfanelo ezibalulekileyo\nezinikelwa ngumthetho wolawulo.\nInqaku le‐9\nAkukho namnye oza kubanjwa ngendlela engaqondakaliyo, abe libanjwa okanye abe selubhacweni.\nInqaku le‐10"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "1cee9d18af1a1ba133cf2fccf6802d0c",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
-            ],
-            "Text": "Wonke umntu unelungelo elipheleleyo elilinganayo nelilungileyo nokuxoxwa kwetyala esidlangalaleni yinkundla ezimeleyo okanye inkundla\nzamatyala ezingakhethi cala ekumisweni kwamalungelo nemfanelo zoluntu kunye naluphi na ulwaphulo mthetho amangalelwe ngalo.\nInqaku le‐11\nWonke umntu omangalelwe kuba enetyala, unelungelo lokubonwa engenatyala ade abe ufunyenwe enetyala ngokwasemthethweni kwinkundla\nyamatyala apho ebe nesiqiniseko esifanelekileyo sokhuseleko.\nAkukho namnye oya kufunyanwa enesohlwayo setyala ngenxa yomthetho okanye ukushiya isenzo esingamisa isohlwayo setyala, ngaphantsi\nkwamatyala esizwe nawezizwe‐jikelele, nangexesha lokwenzeka kwetyala. Nakuba kubekwe isigwebo esinzima kunesiya esasisetyenziswa\nngexesha lokwenzeka kwetyala.\nInqaku le‐12\nAkukho namnye oya kuphazanyiswa kubomi obubobakhe, kusapho lwakhe, kwikhaya lakhe okanye ngokwembalelwano, nokuba\nkukuhlaselwa okuhlisa isidima nodumo lomntu. Wonke umntu kufanelekile ukuba akhuselwe ngumthetho ekuphazanyisweni okanye\nkuhlaselo.\nInqaku le‐13\nWonke umntu unelungelo lokuhamba nokuhlala phakathi kwemida yasebuRhulumenteni.\nWonke umntu unelungelo lokushiya nokuba leliphi ilizwe nelakhe ngokunjalo kwaye aphinde abuyele kwelakhe ilizwe.\nInqaku le‐14\nWonke umntu unelungelo lokucela aze axhamle indawo yokhuseleko elubhacweni kwamanye amazwe.\nEli lungelo alinakukhuselwa wakumangalelwa ngenyaniso engenamvelaphi, ulwaphulo‐mthetho olungenazipolitiki okanye kumthetho\nochasene neenjongo zomthetho‐siseko zeZizwe ezimanyeneyo.\nInqaku‐15\nWonke umntu unelungelo lobuhlanga.\nAkukho namnye oya kuhluthwa ubuhlanga bakhe okanye ahluthwe ilungelo lokutshintsha ubuzwe bakhe.\nInqaku le‐16\nAmadoda namakhosikazi aselekhulile, ngaphandle kokuthintelwa ngenxa yobuhlanga, ubuzwe okanye inkolo, banelungelo lokutshata babe\nnosapho. Banamalungelo alinganayo emtshatweni naxa sewuqhawukile.",
-            "Image": "1cee9d18af1a1ba133cf2fccf6802d0c"
+            "Text": "Wonke umntu unelungelo elipheleleyo elilinganayo nelilungileyo nokuxoxwa kwetyala esidlangalaleni yinkundla ezimeleyo okanye inkundla\nzamatyala ezingakhethi cala ekumisweni kwamalungelo nemfanelo zoluntu kunye naluphi na ulwaphulo mthetho amangalelwe ngalo.\nInqaku le‐11\nWonke umntu omangalelwe kuba enetyala, unelungelo lokubonwa engenatyala ade abe ufunyenwe enetyala ngokwasemthethweni kwinkundla\nyamatyala apho ebe nesiqiniseko esifanelekileyo sokhuseleko.\nAkukho namnye oya kufunyanwa enesohlwayo setyala ngenxa yomthetho okanye ukushiya isenzo esingamisa isohlwayo setyala, ngaphantsi\nkwamatyala esizwe nawezizwe‐jikelele, nangexesha lokwenzeka kwetyala. Nakuba kubekwe isigwebo esinzima kunesiya esasisetyenziswa\nngexesha lokwenzeka kwetyala.\nInqaku le‐12\nAkukho namnye oya kuphazanyiswa kubomi obubobakhe, kusapho lwakhe, kwikhaya lakhe okanye ngokwembalelwano, nokuba\nkukuhlaselwa okuhlisa isidima nodumo lomntu. Wonke umntu kufanelekile ukuba akhuselwe ngumthetho ekuphazanyisweni okanye\nkuhlaselo.\nInqaku le‐13\nWonke umntu unelungelo lokuhamba nokuhlala phakathi kwemida yasebuRhulumenteni.\nWonke umntu unelungelo lokushiya nokuba leliphi ilizwe nelakhe ngokunjalo kwaye aphinde abuyele kwelakhe ilizwe.\nInqaku le‐14\nWonke umntu unelungelo lokucela aze axhamle indawo yokhuseleko elubhacweni kwamanye amazwe.\nEli lungelo alinakukhuselwa wakumangalelwa ngenyaniso engenamvelaphi, ulwaphulo‐mthetho olungenazipolitiki okanye kumthetho\nochasene neenjongo zomthetho‐siseko zeZizwe ezimanyeneyo.\nInqaku‐15\nWonke umntu unelungelo lobuhlanga.\nAkukho namnye oya kuhluthwa ubuhlanga bakhe okanye ahluthwe ilungelo lokutshintsha ubuzwe bakhe.\nInqaku le‐16\nAmadoda namakhosikazi aselekhulile, ngaphandle kokuthintelwa ngenxa yobuhlanga, ubuzwe okanye inkolo, banelungelo lokutshata babe\nnosapho. Banamalungelo alinganayo emtshatweni naxa sewuqhawukile."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "887d0c450e15f731bd9f2f00335cbafd",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
-            ],
-            "Text": "Kuya kutshatwa ngokukhululekileyo nangokupheleleyo ngemvume yabo baza kuba ngumyeni nenkosikazi.\nUsapho lusisisekelo esibalulekileyo sendalo kuluntu kwaye lunelungelo lokhuseleko oluvela kuluntu nakuRhulumente.\nInqaku le‐17\nWonke umntu unelungelo lokuba nezinto ezizezakhe yedwa kunye nezo azidibanele nabanye.\nAkukho namnye oyakuhluthwa athathelwe izinto zakhe.\nInqaku le‐18\nWonke umntu unelungelo leengcinga ezikhululekileyo isazela nokholo, eli lungelo liquka inkululeko yokutshintsha ukholo lwakho okanye\nukukholwa nenkululeko yoko unokukwenza wedwa okanye nobudlelwane nabanye nokuba kusesidlangalaleni okanye emfihlakalweni,\nukucacisa inkolo yakho okanye ukukholelwa kwimfundiso, ukwenza unqulo nokugcina izithethe.\nInqaku le‐19\nWonke umntu unelungelo lokucinga nokuthetha ngokukhululekileyo, eli lungelo liquka inkululeko yokuveza uluvo lwakhe ngaphandle\nkokuphazamiseka nokuzama ufumana ukuze udlulise ulwazi neengcinga nangaziphi na iintlobo zosasazo nokuba kukweyiphi na imida.\nInqaku la‐20\nWonke umntu unelungelo lenkululeko yeendibano zoxolo kunye neentlanganiso zoxolo.\nAkukho namnye oya kunyanzeliswa ukuba abe lilungu lentlangano.\nInqaku la‐21\nWonke umntu unelungelo lokuthabatha inxaxheba kwezobuRhulumente belizwe lakhe ngqo okanye ngokusetyenziswa kwamalungu\nakhethiweyo.\nWonke umntu unethuba elilinganayo lokusebenzela uRhulumente welizwe lakhe.\nIntando yoluntu iya kuba sisisekelo sempatho kaRhulumente; le ntando iyakubonakaliswa ngamaxesha athile nangobunyani belungelo lovoto\neya kwenziwa ngokufihlakeleyo okanye ngendlela elinganayo yokuvota ngenkululeko.\nInqaku la‐22\nWonke umntu njengelungu lombutho woluntu, unelungelo lokhuseleko lombutho woluntu kwaye enelungelo lokuphumeza, ngeenzame\nzobuzwe nangemvisiswano zamazwe nangokuvumelana nemibutho namacebo obuRhulumente ngokwezoqoqosho, ezentlalo namalungelo\namasiko neemfanelo zesidima nenkululeko engenkqubela‐phambili yobuntu bakhe.",
-            "Image": "887d0c450e15f731bd9f2f00335cbafd"
+            "Text": "Kuya kutshatwa ngokukhululekileyo nangokupheleleyo ngemvume yabo baza kuba ngumyeni nenkosikazi.\nUsapho lusisisekelo esibalulekileyo sendalo kuluntu kwaye lunelungelo lokhuseleko oluvela kuluntu nakuRhulumente.\nInqaku le‐17\nWonke umntu unelungelo lokuba nezinto ezizezakhe yedwa kunye nezo azidibanele nabanye.\nAkukho namnye oyakuhluthwa athathelwe izinto zakhe.\nInqaku le‐18\nWonke umntu unelungelo leengcinga ezikhululekileyo isazela nokholo, eli lungelo liquka inkululeko yokutshintsha ukholo lwakho okanye\nukukholwa nenkululeko yoko unokukwenza wedwa okanye nobudlelwane nabanye nokuba kusesidlangalaleni okanye emfihlakalweni,\nukucacisa inkolo yakho okanye ukukholelwa kwimfundiso, ukwenza unqulo nokugcina izithethe.\nInqaku le‐19\nWonke umntu unelungelo lokucinga nokuthetha ngokukhululekileyo, eli lungelo liquka inkululeko yokuveza uluvo lwakhe ngaphandle\nkokuphazamiseka nokuzama ufumana ukuze udlulise ulwazi neengcinga nangaziphi na iintlobo zosasazo nokuba kukweyiphi na imida.\nInqaku la‐20\nWonke umntu unelungelo lenkululeko yeendibano zoxolo kunye neentlanganiso zoxolo.\nAkukho namnye oya kunyanzeliswa ukuba abe lilungu lentlangano.\nInqaku la‐21\nWonke umntu unelungelo lokuthabatha inxaxheba kwezobuRhulumente belizwe lakhe ngqo okanye ngokusetyenziswa kwamalungu\nakhethiweyo.\nWonke umntu unethuba elilinganayo lokusebenzela uRhulumente welizwe lakhe.\nIntando yoluntu iya kuba sisisekelo sempatho kaRhulumente; le ntando iyakubonakaliswa ngamaxesha athile nangobunyani belungelo lovoto\neya kwenziwa ngokufihlakeleyo okanye ngendlela elinganayo yokuvota ngenkululeko.\nInqaku la‐22\nWonke umntu njengelungu lombutho woluntu, unelungelo lokhuseleko lombutho woluntu kwaye enelungelo lokuphumeza, ngeenzame\nzobuzwe nangemvisiswano zamazwe nangokuvumelana nemibutho namacebo obuRhulumente ngokwezoqoqosho, ezentlalo namalungelo\namasiko neemfanelo zesidima nenkululeko engenkqubela‐phambili yobuntu bakhe."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "4a6d8e0526cf4ab633df1dfcf70dce61",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
-            ],
-            "Text": "Inqaku la‐23\nWonke umntu unelungelo lokusebenza, ukuzikhethela umsebenzi ngokukhululekileyo, ubulungisa neemfuneko ezifanelekileyo zomsebenzi,\nkunye nokukhuseleka okuchasene nokungabinamsebenzi.\nWonke umntu ngaphandle komkhethe, unelungelo lomvuzo olinganayo ngomsebenzi olinganayo.\nWonke umntu osebenzayo unelungelo lobulungisa bokukhetha intlawulo ukuqinisekisa ukuba yena nosapho lwakhe baphila impilo enexabiso\nnesidima sobuntu, eya kuthi yongezwe kwakuba nemfuneko, ngezinye iindlela zokukhusela intlalo yoluntu.\nWonke umntu unelungelo lokubumba okanye abe lilungu lweemanyano zorhwebo, ukukhusela iimfanelo zakhe.\nInqaku la‐24\nWonke umntu unelungelo lokuphumla nokuba nexesha lokuphola, kunye namaxesha avumelekileyo okusebenza namaxesha eholide ezuza\numvuzo.\nInqaku la‐25\nWonke umntu unelungelo lentlalo esemgangathweni ngokuphila impilo efanelekileyo kunye nosapho lwakhe, kunye nokutya, impahla, indawo\nyokuhlala, unyango kunye neenkonzo ezibalulekileyo zentlalo, kwanelungelo lokhuseleko wakungasebenzi, wakugula, wakuba ngumlwelwe,\nngumhlolokazi, ngumdli‐mhlalaphansi okanye wakuswela impilo ngokungalawulekiyo.\nUbunina nobuntwana bulungelwe yinkathalelo ebalulekileyo kunye noncedo olukhethekileyo. Bonke abantwana nakuba bengazalwa\nemtshatweni mabaxhamle ukhuseleko lwentlalo ngokulinganayo.\nInqaku la‐26\nWonke umntu unelungelo lemfundo. Kuza kuba nomfundaze kwabaqalayo nakwimigangatho ebalulekileyo. Imfundo yabaqalayo iya\nkunyanzeliswa. Imfundo ngezobugcisa kunye nokufundela umsebenzi kuya kwenziwa ukuba kufumaneke kanti imfundo ephakamileyo nayo\niya kwenziwa ukuba ifumaneke ngokulinganayo kuluntu lonke njengesiseko sempumelelo.\nImfundo iza kujoliswa ngqo kwinkqubela phambili epheleleyo yoluntu nokomelezwa kwentlonipho yamalungelo oluntu nokubaluleka\nkwenkululeko. Iza kuxhasa imvisiswano, ukunyamezelana nobuhlobo phakathi kwezizwe, ubuzwe, namaqela eenkolo eyakuthi iphuhlise\numsebenzi wamazwe jikelele ukuze kugcinwe uxolo.\nAbazali banelungelo elibalulekileyo lokukhetha uhlobo lwemfundo eyakuthi ifundiswe abantwana babo.\nInqaku la‐27\nWonke umntu unelungelo lokuthabatha inxaxheba ngokukhululekileyo kwinkqubela yelizwe lakhe, onwabele inkcubeko kunye nesabelo",
-            "Image": "4a6d8e0526cf4ab633df1dfcf70dce61"
+            "Text": "Inqaku la‐23\nWonke umntu unelungelo lokusebenza, ukuzikhethela umsebenzi ngokukhululekileyo, ubulungisa neemfuneko ezifanelekileyo zomsebenzi,\nkunye nokukhuseleka okuchasene nokungabinamsebenzi.\nWonke umntu ngaphandle komkhethe, unelungelo lomvuzo olinganayo ngomsebenzi olinganayo.\nWonke umntu osebenzayo unelungelo lobulungisa bokukhetha intlawulo ukuqinisekisa ukuba yena nosapho lwakhe baphila impilo enexabiso\nnesidima sobuntu, eya kuthi yongezwe kwakuba nemfuneko, ngezinye iindlela zokukhusela intlalo yoluntu.\nWonke umntu unelungelo lokubumba okanye abe lilungu lweemanyano zorhwebo, ukukhusela iimfanelo zakhe.\nInqaku la‐24\nWonke umntu unelungelo lokuphumla nokuba nexesha lokuphola, kunye namaxesha avumelekileyo okusebenza namaxesha eholide ezuza\numvuzo.\nInqaku la‐25\nWonke umntu unelungelo lentlalo esemgangathweni ngokuphila impilo efanelekileyo kunye nosapho lwakhe, kunye nokutya, impahla, indawo\nyokuhlala, unyango kunye neenkonzo ezibalulekileyo zentlalo, kwanelungelo lokhuseleko wakungasebenzi, wakugula, wakuba ngumlwelwe,\nngumhlolokazi, ngumdli‐mhlalaphansi okanye wakuswela impilo ngokungalawulekiyo.\nUbunina nobuntwana bulungelwe yinkathalelo ebalulekileyo kunye noncedo olukhethekileyo. Bonke abantwana nakuba bengazalwa\nemtshatweni mabaxhamle ukhuseleko lwentlalo ngokulinganayo.\nInqaku la‐26\nWonke umntu unelungelo lemfundo. Kuza kuba nomfundaze kwabaqalayo nakwimigangatho ebalulekileyo. Imfundo yabaqalayo iya\nkunyanzeliswa. Imfundo ngezobugcisa kunye nokufundela umsebenzi kuya kwenziwa ukuba kufumaneke kanti imfundo ephakamileyo nayo\niya kwenziwa ukuba ifumaneke ngokulinganayo kuluntu lonke njengesiseko sempumelelo.\nImfundo iza kujoliswa ngqo kwinkqubela phambili epheleleyo yoluntu nokomelezwa kwentlonipho yamalungelo oluntu nokubaluleka\nkwenkululeko. Iza kuxhasa imvisiswano, ukunyamezelana nobuhlobo phakathi kwezizwe, ubuzwe, namaqela eenkolo eyakuthi iphuhlise\numsebenzi wamazwe jikelele ukuze kugcinwe uxolo.\nAbazali banelungelo elibalulekileyo lokukhetha uhlobo lwemfundo eyakuthi ifundiswe abantwana babo.\nInqaku la‐27\nWonke umntu unelungelo lokuthabatha inxaxheba ngokukhululekileyo kwinkqubela yelizwe lakhe, onwabele inkcubeko kunye nesabelo"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "27c89409a23fbd4ba0d2ccda782ecf92",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
-            ],
-            "Text": "senkqubela phambili yenzululwazi kunye noncedo lwezo zinto.\nWonke umntu unelungelo lokhuseleko, lwempatho kunye nezo zinto athi azithande ezithi zibe ziziphumo zezayo nayiphina inkqubela,\nubuchule bokufunda nokubhala okanye ubugcisa bemveliso yombhali.\nInqaku la‐28\nWonke umntu unelungelo lentlalo yoluntu kunye neyezizwe‐jikelele apho amalungelo nenkuleleko alenkcazo‐jikelele athi amkeleke khona.\nInqaku la‐29\nWonke umntu kufuneka asebenzele uluntu aphila phakathi kwalo, apho inkululeko nenkqubela‐phambili epheleleyo neyamkelekileyo yoluntu\nithi ifumaneke khona.\nEkusebenziseni amalungelo nenkululeko, wonke umntu uya kuba phantsi kwempembelelo ezimiselwe ngumthetho ngezizathu zokuqinisekisa\nulwamkeleko ngentlonipho yamalungelo nenkululeko yabanye, ukuhlanganiswa kweemfuneko yokuziphatha kakuhle, esidlangaleni nentlalo‐\nntle ngokolawulo lwedemokrasi.\nLa malungelo neenkululeko zoluntu mawangasetyenziswa ngendlela ephikisana neenjongo nemithetho yamazwe abumbeneyo.\nInqaku la‐30\nLe nkcazo‐jikelele mayingatolikwa ngenjongo yokuba imele ezobuRhulumente, iqela okanye umntu owenza isithembiso okanye osenzo\nsineenjongo ezingatshabalalisa nokuba ngowuphi na umqathango wamalungelo kunye neenkululeko zoluntu ekuthethwa ngazo apha.",
-            "Image": "27c89409a23fbd4ba0d2ccda782ecf92"
+            "Text": "senkqubela phambili yenzululwazi kunye noncedo lwezo zinto.\nWonke umntu unelungelo lokhuseleko, lwempatho kunye nezo zinto athi azithande ezithi zibe ziziphumo zezayo nayiphina inkqubela,\nubuchule bokufunda nokubhala okanye ubugcisa bemveliso yombhali.\nInqaku la‐28\nWonke umntu unelungelo lentlalo yoluntu kunye neyezizwe‐jikelele apho amalungelo nenkuleleko alenkcazo‐jikelele athi amkeleke khona.\nInqaku la‐29\nWonke umntu kufuneka asebenzele uluntu aphila phakathi kwalo, apho inkululeko nenkqubela‐phambili epheleleyo neyamkelekileyo yoluntu\nithi ifumaneke khona.\nEkusebenziseni amalungelo nenkululeko, wonke umntu uya kuba phantsi kwempembelelo ezimiselwe ngumthetho ngezizathu zokuqinisekisa\nulwamkeleko ngentlonipho yamalungelo nenkululeko yabanye, ukuhlanganiswa kweemfuneko yokuziphatha kakuhle, esidlangaleni nentlalo‐\nntle ngokolawulo lwedemokrasi.\nLa malungelo neenkululeko zoluntu mawangasetyenziswa ngendlela ephikisana neenjongo nemithetho yamazwe abumbeneyo.\nInqaku la‐30\nLe nkcazo‐jikelele mayingatolikwa ngenjongo yokuba imele ezobuRhulumente, iqela okanye umntu owenza isithembiso okanye osenzo\nsineenjongo ezingatshabalalisa nokuba ngowuphi na umqathango wamalungelo kunye neenkululeko zoluntu ekuthethwa ngazo apha."
         }
     }
 }

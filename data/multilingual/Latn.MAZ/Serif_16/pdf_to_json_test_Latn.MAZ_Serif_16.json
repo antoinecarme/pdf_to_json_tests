@@ -1,80 +1,80 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581469358,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "d4a0cba789c5a9e6774f38dc7f4e0012",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "JÑA 'A YO PJOSU̸ TEXE YE TE̱ 'E̱ NUYO KA̸NRA̸ A XESE NE XOÑIJOMU\nPJU̸RU\nPanru̸ji k'u̸ mara mimiji na joo texe yo nte̱ 'e̱ in dya ra chu̱ nji, numa so'o k'u̸ ra mamu̸ji\nk'u̸ ri chjekjoji texezgoji.\nPanru̸ji k'u̸ ma dya ri pjechiji texto yo jña'a nuyo nrra pjosu̸ ye nte̱ 'e̱ , nudyama so'o k'u\nra potr'u̸ji yo in Kjuarma; ngek'ua nesta nura mbaraji k'u̸ ye nte̱ 'e̱ , ma sa̸ja̸ kja ne xoñi\njomu̸, na kjuana k'u̸ rambesi nura zi'i, ra so'o mamu̸ nu in jña'a ñeje ra eme nu K'inchi\nangeze.\nPanru̸ji k'u̸ nuyo jña'a yo pjosu̸ ye nte̱ 'e̱ ximi nesta ra k'uatr'u̸ kja xiskuama, ngek'ua\ndya ra chu̱ 'u̱ nji.\nPanru̸ji k'u̸ nesta ra mimi na jo'o texto ye tr'ajñiñi.\nPanru̸ji k'u̸ yo jñiñi ye jmuru̸ kja nu tr'angumu̸ a xoñijomu̸, o dyu̸su̸ji ye jña'a kja naja\nxiskuama, jango mamu̸ yo nrra pjosu̸ yo nte̱ 'e̱ ñeje mamu̸ k'u̸ yo b'ezo ñe ye nrrixo\nchjetroji, kjana xits'iji k'u̸ ra mbox k'u̸ji nura jok'u̸ji jango ri mimiji nu padya.\nPanru̸ji k'u̸ nuyo nrrajñiñi yo o jmuru̸ji kja nu tr'angumu̸ kja xoñijomu̸, ngek'ua ra\nmbosu̸ji texto yo b'ezhi ñeje yo pjosu̸ ye nte̱ 'e̱ .\nPanru̸ji k'u̸ nu k'inchijiyo nu pjosu̸ yo b'ezo nrra na kjuana ngek'ua ra dyatrajiyo.\nNu jmunte̱ nu tr'angumu̸ mamu\nNu Jña'a yo Pjosu̸ Texe ye Te̱ 'e̱ nuyo Ka̸nra̸ a xese ne Xoñijomu̸ ngeje k'uatr'u̸ k'u̸ yo\njñiñi ra mimiji na jo'o, ngek'ua ye nte̱ 'e̱ ñeje yo ngumu̸ nesta k'u̸ ra mbara yo, ga kjaba\nra so'o ra jichi texto yo d'ieb'e panru̸ji, k'u̸ nuzgoji ri chjekjoji ra jandaji na jo'o yo in\nkjuarmaji yo na mimi yo nañ'io e jñiñi.\nPEZHE D'AJA (1)\nTexe yo nte̱ 'e̱ chjetrjoji, angezeji ximi xo'oji ñeje k'inchiji, nesta ra ngara na jo'o k'o\ndyaja e nte̱ 'e̱ .\nPEZHE YEJE (2)\nTexe yo nte̱ 'e̱ chjejutrjoji nza kja ga mamu̸ kja na Xiskuamana, zo yo dyaja b'ezo ri\nnañ'io yo in nze'e, zo ri nrixo, zo ri nañ'io nu in jña'a, o ye eme nu mizhokjimi, o yo\ndya yo pesi.\nXimi, dya so'o nu ra juantrjoji ye nte̱ 'e̱ nuyo kja dadyo e ts'ibepji, o na mimi nu\njuemetrjo e jñiñi zo ri na nojo o ri ts'ik'etrjo.\nPEZHE JÑI'I (3)\nTexe yo b'ezo o nrrixo so'o ra ngara ñeje ra nok'u̸ ximi ra mbosu̸ji.\nPEZHE NZIYO (4)\nDyakjo soo ra yab'u̸ji o ra zad'u̸ji, nzakja ga xits'iji nu xiskuamana.\nPEZHE TS'ITS'CHA (5)",
-            "Image": "d4a0cba789c5a9e6774f38dc7f4e0012"
+            "Text": "JÑA 'A YO PJOSU̸ TEXE YE TE̱ 'E̱ NUYO KA̸NRA̸ A XESE NE XOÑIJOMU\nPJU̸RU\nPanru̸ji k'u̸ mara mimiji na joo texe yo nte̱ 'e̱ in dya ra chu̱ nji, numa so'o k'u̸ ra mamu̸ji\nk'u̸ ri chjekjoji texezgoji.\nPanru̸ji k'u̸ ma dya ri pjechiji texto yo jña'a nuyo nrra pjosu̸ ye nte̱ 'e̱ , nudyama so'o k'u\nra potr'u̸ji yo in Kjuarma; ngek'ua nesta nura mbaraji k'u̸ ye nte̱ 'e̱ , ma sa̸ja̸ kja ne xoñi\njomu̸, na kjuana k'u̸ rambesi nura zi'i, ra so'o mamu̸ nu in jña'a ñeje ra eme nu K'inchi\nangeze.\nPanru̸ji k'u̸ nuyo jña'a yo pjosu̸ ye nte̱ 'e̱ ximi nesta ra k'uatr'u̸ kja xiskuama, ngek'ua\ndya ra chu̱ 'u̱ nji.\nPanru̸ji k'u̸ nesta ra mimi na jo'o texto ye tr'ajñiñi.\nPanru̸ji k'u̸ yo jñiñi ye jmuru̸ kja nu tr'angumu̸ a xoñijomu̸, o dyu̸su̸ji ye jña'a kja naja\nxiskuama, jango mamu̸ yo nrra pjosu̸ yo nte̱ 'e̱ ñeje mamu̸ k'u̸ yo b'ezo ñe ye nrrixo\nchjetroji, kjana xits'iji k'u̸ ra mbox k'u̸ji nura jok'u̸ji jango ri mimiji nu padya.\nPanru̸ji k'u̸ nuyo nrrajñiñi yo o jmuru̸ji kja nu tr'angumu̸ kja xoñijomu̸, ngek'ua ra\nmbosu̸ji texto yo b'ezhi ñeje yo pjosu̸ ye nte̱ 'e̱ .\nPanru̸ji k'u̸ nu k'inchijiyo nu pjosu̸ yo b'ezo nrra na kjuana ngek'ua ra dyatrajiyo.\nNu jmunte̱ nu tr'angumu̸ mamu\nNu Jña'a yo Pjosu̸ Texe ye Te̱ 'e̱ nuyo Ka̸nra̸ a xese ne Xoñijomu̸ ngeje k'uatr'u̸ k'u̸ yo\njñiñi ra mimiji na jo'o, ngek'ua ye nte̱ 'e̱ ñeje yo ngumu̸ nesta k'u̸ ra mbara yo, ga kjaba\nra so'o ra jichi texto yo d'ieb'e panru̸ji, k'u̸ nuzgoji ri chjekjoji ra jandaji na jo'o yo in\nkjuarmaji yo na mimi yo nañ'io e jñiñi.\nPEZHE D'AJA (1)\nTexe yo nte̱ 'e̱ chjetrjoji, angezeji ximi xo'oji ñeje k'inchiji, nesta ra ngara na jo'o k'o\ndyaja e nte̱ 'e̱ .\nPEZHE YEJE (2)\nTexe yo nte̱ 'e̱ chjejutrjoji nza kja ga mamu̸ kja na Xiskuamana, zo yo dyaja b'ezo ri\nnañ'io yo in nze'e, zo ri nrixo, zo ri nañ'io nu in jña'a, o ye eme nu mizhokjimi, o yo\ndya yo pesi.\nXimi, dya so'o nu ra juantrjoji ye nte̱ 'e̱ nuyo kja dadyo e ts'ibepji, o na mimi nu\njuemetrjo e jñiñi zo ri na nojo o ri ts'ik'etrjo.\nPEZHE JÑI'I (3)\nTexe yo b'ezo o nrrixo so'o ra ngara ñeje ra nok'u̸ ximi ra mbosu̸ji.\nPEZHE NZIYO (4)\nDyakjo soo ra yab'u̸ji o ra zad'u̸ji, nzakja ga xits'iji nu xiskuamana.\nPEZHE TS'ITS'CHA (5)"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "fb046bbf8ca417633d4619e5743d9185",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Dyakjo soo ra dye'eji, nudya yo dya nan jo'o.\nPEZHE ÑANTO (6)\nTexe yo nte̱ 'e̱ , jango nzhodu̸, dya so'o ra ngontr'u̸ji kja pjoru̸.\nPENZHE YENCHO (7)\nChjetroji texe kja xiskuama yo pjoxku̸ji, texezgoji ra soo ra mboxk'u̸ji nzakja ga xits'iji\nna kjuamana.\nPEZHE JÑINCHO (8)\nTexe b'ezo o nrrixo pesi yo mboste kja xiskuama, nujua jango ra ts'apu̸ji yo oru̸,\nnzakja nu kjuama yo ri pesigoji ye Me'bonrro.\nPEZHE NZHINCHO (9)\nDya kjo soo ra zu̸ru̸ji o ra ngontr'u̸ji kja pjoru̸.\nPEZHE D'YECH'A (10)\nTexe b'ezo o nrrixo soo ra mbosu̸ji, k'u̸ ga chjetroji jango ga dya̸tr'a̸pu̸ji nu jojña'a,\nnzakja na mamu̸ nu xiskuama, nu ximi nesta ra xoru̸ ye b'ota.\nPEZHE D'YECH'A D'AJA (11)\nTexe b'ezo o nrrixo so'o k'u̸ ra mbosu̸ji ma jyasu̸ji k'u̸ pjekjo o ts'a, ximi nesta ra\njñanrra yo dyant_'e̱ jango ga pjendioji.\nDyz kjo soo ra jya̸sa̸ji nuyo dya o ts'a, ga kjaba mamu̸ yo jñagoji ñeje nuna\nxiskuamana. Ximi dya kjo pje nrri ra ts'apu̸ji ma pjekjo o mbonu̸.\nPEZHE D'YECH'A YEJE (12)\nDya kjo soo pjekjo ra ma xipjiji kja in nzumu̸, yo in nte̱ 'e̱ o jango na mimi nuyo\nnguechjene. Texe yo b'ezo o nrrizo soo ra mbosu̸jima.\nPEZHE D'YECH'A A JÑI'I (13)\nTexe b'ezo o nrrixo soo k'u̸ ra nzhodu̸ o ra jya̸ba̸ in ngumu̸ jango nee angeze.\nTexe b'ezo o nrrixo soo k'u̸ ra mbedye jango nee angeze, kja ra nzhogu̸ ma nee.\nPEZHE D'YECH'A NZIYO (14)\nMa jod'u̸ji, texe b'ezo o nrrixo soo k'u̸ ra jyod'u̸ kjo ra mbosu̸, kja jñiñi jango ra nee.\nNudya nu mboxte, dya kjo soo ra nguatu̸, ma d'a nte̱ 'e̱ pjekjo o ts'a, ngeje nu mamu\nna ngumu̸ xoñi jomu̸.\nPEZHE D'YECH'A TS'ITS'CHA (15)\nTexe b'ezo o nrrixo nesta d'a mejomu̸.\nDya kjo soo k'u̸ ra ngupu̸ji nu mejomu̸ nu o juanu̸, o ra nee ra mbot'u̸pu̸.\nPEZHE D'YECH'A ÑANTO (16)",
-            "Image": "fb046bbf8ca417633d4619e5743d9185"
+            "Text": "Dyakjo soo ra dye'eji, nudya yo dya nan jo'o.\nPEZHE ÑANTO (6)\nTexe yo nte̱ 'e̱ , jango nzhodu̸, dya so'o ra ngontr'u̸ji kja pjoru̸.\nPENZHE YENCHO (7)\nChjetroji texe kja xiskuama yo pjoxku̸ji, texezgoji ra soo ra mboxk'u̸ji nzakja ga xits'iji\nna kjuamana.\nPEZHE JÑINCHO (8)\nTexe b'ezo o nrrixo pesi yo mboste kja xiskuama, nujua jango ra ts'apu̸ji yo oru̸,\nnzakja nu kjuama yo ri pesigoji ye Me'bonrro.\nPEZHE NZHINCHO (9)\nDya kjo soo ra zu̸ru̸ji o ra ngontr'u̸ji kja pjoru̸.\nPEZHE D'YECH'A (10)\nTexe b'ezo o nrrixo soo ra mbosu̸ji, k'u̸ ga chjetroji jango ga dya̸tr'a̸pu̸ji nu jojña'a,\nnzakja na mamu̸ nu xiskuama, nu ximi nesta ra xoru̸ ye b'ota.\nPEZHE D'YECH'A D'AJA (11)\nTexe b'ezo o nrrixo so'o k'u̸ ra mbosu̸ji ma jyasu̸ji k'u̸ pjekjo o ts'a, ximi nesta ra\njñanrra yo dyant_'e̱ jango ga pjendioji.\nDyz kjo soo ra jya̸sa̸ji nuyo dya o ts'a, ga kjaba mamu̸ yo jñagoji ñeje nuna\nxiskuamana. Ximi dya kjo pje nrri ra ts'apu̸ji ma pjekjo o mbonu̸.\nPEZHE D'YECH'A YEJE (12)\nDya kjo soo pjekjo ra ma xipjiji kja in nzumu̸, yo in nte̱ 'e̱ o jango na mimi nuyo\nnguechjene. Texe yo b'ezo o nrrizo soo ra mbosu̸jima.\nPEZHE D'YECH'A A JÑI'I (13)\nTexe b'ezo o nrrixo soo k'u̸ ra nzhodu̸ o ra jya̸ba̸ in ngumu̸ jango nee angeze.\nTexe b'ezo o nrrixo soo k'u̸ ra mbedye jango nee angeze, kja ra nzhogu̸ ma nee.\nPEZHE D'YECH'A NZIYO (14)\nMa jod'u̸ji, texe b'ezo o nrrixo soo k'u̸ ra jyod'u̸ kjo ra mbosu̸, kja jñiñi jango ra nee.\nNudya nu mboxte, dya kjo soo ra nguatu̸, ma d'a nte̱ 'e̱ pjekjo o ts'a, ngeje nu mamu\nna ngumu̸ xoñi jomu̸.\nPEZHE D'YECH'A TS'ITS'CHA (15)\nTexe b'ezo o nrrixo nesta d'a mejomu̸.\nDya kjo soo k'u̸ ra ngupu̸ji nu mejomu̸ nu o juanu̸, o ra nee ra mbot'u̸pu̸.\nPEZHE D'YECH'A ÑANTO (16)"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "2832cbc963378b94fe13e1fa774a2be3",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Ya b'ezo ñeje ye nrrixo, ma a ma te'eji, soo k'u ra chju̱ ntu̸ji in dya kjo so ra mamu̸ k'u\niyo, ga kjaba ra mbesiji yo neeji, zo ra nguaru̸ nu chjuntu̸.\nNgetrjo ma ra nee yo tr'ii nuyo ra chjunt'u̸ soo k'u̸ ra ts'ajima.\nNu chjuntu̸ ngeje nu nrra pjosu̸ nuyo jñiñi ngek'ua nesta k'u̸ xira mbosu̸jidyayo.\nPEZHE D'YECH'A YENCHO (17)\nTexe b'ezo o nrrixo soo k'u̸ ra mbes'i na ts'ik'e jomu̸ o na punkju̸.\nDya kjo soo ra nrrenbiji in jomu̸.\nPEZHE D'YECH'A JÑINCHO (18)\nTexe b'ezo o nrrixo soo k'u̸ ra ngichi yo ra nee, k'u̸ ra ma kja nits'imi nu ra juajnu̸;\nximi soo k'u̸ ra pot'u̸ nu in nits'imi o mizhokjimi, zo ri d'ats'e o ri kjuleji, pa ra jichiji,\nra ts'aji ñeje ra jandaji.\nPEZHE D'YECH'A NZHINCHO (19)\nTexe b'ezo o nrrixo soo k'u̸ mamu̸ yo k'inchi, nudyanu ximi pjosu̸ ngek'ua dya kjo pje\nra xipji ma ra mamu̸ nuyo ngichi angeze nujua jango ra nee.\nPEZHE DYOTE (20)\nTexe b'ezo o nrrixo soo k'u̸ ra jumru̸ ko yo dyaja e nte̱ 'e̱ .\nDya kjo soo k'u̸ ra nrrutr'u̸ kja yo jmuru̸.\nPEZHE DYOTE D'AJA (21)\nTexe b'ezo o nrixo soo k'u̸ ra juajnu̸ nuyo in xota kja in jñiñi, ra ts'ase o ra o kjokjo ra\nnrra̸ga̸.\nTexe b'ezo o nrrixo soo k'u̸ ximi ra juanu̸ji angeze ngek'ua ra ts'a e sota kja in jñiñi.\nNunu ra mamu̸ nu jñiñi ngejedyanu na kjuanu̸, ngek'ua ga kjaba ma ra juanu̸ji yo jmu,\nsoo nu ra tsaji jango ga neeji angezeji.\nPEZHE DUOTE YEJE (22)\nTexe b'ezo o nrrixo nujua na mimi kja d'a jñiñi soo k'u̸ ra mimi na jo'o, ga kjaba nu\njñiñi jango o te'e, ximi nesta nu ra mbosu̸ angeze ngek'ua dya kjo ra chu̱ nb'i ximi\nnesta ra unu b'epji, in ra jya̸ba̸ e ngumu̸ jango ra ma eñe.\nPEZHE DYOTE JÑI (23)\nTexe b'ezo o nrrixo soo k'u̸ ra pepji, ximi soo nu ra juajnu̸ jango nee k'u̸ ra pepji\nngek'ua ra nrro na jo'o.\nTexe b'ezo o nrrixo, dya nesta ra juanu̸ji, ngek'ua ra ngontr'u̸ji yo merio.\nTexe b'ezo o nrrixo yo pepji, nesta ra nrroji na jo'o, ga kjaba ra so'o ra unu̸ k'u̸ ra zi'i\nyo in te̱ 'e̱ , ximi ra mbosu̸ nu i jñiñi ma ra b'ezhi.\nTexe b'ezo o nrrixo soo k'u̸ ra jmuru̸ji jango na pepji ngek'ua ra pjendio yo nrra",
-            "Image": "2832cbc963378b94fe13e1fa774a2be3"
+            "Text": "Ya b'ezo ñeje ye nrrixo, ma a ma te'eji, soo k'u ra chju̱ ntu̸ji in dya kjo so ra mamu̸ k'u\niyo, ga kjaba ra mbesiji yo neeji, zo ra nguaru̸ nu chjuntu̸.\nNgetrjo ma ra nee yo tr'ii nuyo ra chjunt'u̸ soo k'u̸ ra ts'ajima.\nNu chjuntu̸ ngeje nu nrra pjosu̸ nuyo jñiñi ngek'ua nesta k'u̸ xira mbosu̸jidyayo.\nPEZHE D'YECH'A YENCHO (17)\nTexe b'ezo o nrrixo soo k'u̸ ra mbes'i na ts'ik'e jomu̸ o na punkju̸.\nDya kjo soo ra nrrenbiji in jomu̸.\nPEZHE D'YECH'A JÑINCHO (18)\nTexe b'ezo o nrrixo soo k'u̸ ra ngichi yo ra nee, k'u̸ ra ma kja nits'imi nu ra juajnu̸;\nximi soo k'u̸ ra pot'u̸ nu in nits'imi o mizhokjimi, zo ri d'ats'e o ri kjuleji, pa ra jichiji,\nra ts'aji ñeje ra jandaji.\nPEZHE D'YECH'A NZHINCHO (19)\nTexe b'ezo o nrrixo soo k'u̸ mamu̸ yo k'inchi, nudyanu ximi pjosu̸ ngek'ua dya kjo pje\nra xipji ma ra mamu̸ nuyo ngichi angeze nujua jango ra nee.\nPEZHE DYOTE (20)\nTexe b'ezo o nrrixo soo k'u̸ ra jumru̸ ko yo dyaja e nte̱ 'e̱ .\nDya kjo soo k'u̸ ra nrrutr'u̸ kja yo jmuru̸.\nPEZHE DYOTE D'AJA (21)\nTexe b'ezo o nrixo soo k'u̸ ra juajnu̸ nuyo in xota kja in jñiñi, ra ts'ase o ra o kjokjo ra\nnrra̸ga̸.\nTexe b'ezo o nrrixo soo k'u̸ ximi ra juanu̸ji angeze ngek'ua ra ts'a e sota kja in jñiñi.\nNunu ra mamu̸ nu jñiñi ngejedyanu na kjuanu̸, ngek'ua ga kjaba ma ra juanu̸ji yo jmu,\nsoo nu ra tsaji jango ga neeji angezeji.\nPEZHE DUOTE YEJE (22)\nTexe b'ezo o nrrixo nujua na mimi kja d'a jñiñi soo k'u̸ ra mimi na jo'o, ga kjaba nu\njñiñi jango o te'e, ximi nesta nu ra mbosu̸ angeze ngek'ua dya kjo ra chu̱ nb'i ximi\nnesta ra unu b'epji, in ra jya̸ba̸ e ngumu̸ jango ra ma eñe.\nPEZHE DYOTE JÑI (23)\nTexe b'ezo o nrrixo soo k'u̸ ra pepji, ximi soo nu ra juajnu̸ jango nee k'u̸ ra pepji\nngek'ua ra nrro na jo'o.\nTexe b'ezo o nrrixo, dya nesta ra juanu̸ji, ngek'ua ra ngontr'u̸ji yo merio.\nTexe b'ezo o nrrixo yo pepji, nesta ra nrroji na jo'o, ga kjaba ra so'o ra unu̸ k'u̸ ra zi'i\nyo in te̱ 'e̱ , ximi ra mbosu̸ nu i jñiñi ma ra b'ezhi.\nTexe b'ezo o nrrixo soo k'u̸ ra jmuru̸ji jango na pepji ngek'ua ra pjendio yo nrra"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "06e07417471d32a943ed539ec7b9382b",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "pjosu̸ji.\nPEZHE DYOTE NZIYO (24)\nTexe b'ezo o nrrixo soo k'u̸ ra soya, in ra ts'a nu ra nee, ximi ra pezheji yo zu̸nu̸ ma\npepji kjana ra ngontr'u̸ji ma ra soya.\nPEZHE DYOTE TS'ITS'CHA (25)\nTexe b'ezo o nrrixo soo k'u̸ ra mimi na jo'o, nu nrra ra mbosu̸ yo in te̱ 'e̱ , nu nesta ra\ndya̸tr'a̸, nu ra ñoñu̸ji, nu ra jye'e b'ito, nu in ngumu̸ ñeje texto yo nrra b'ezhi; ximi soo\nk'u̸ ra mbosu̸ji ma dya ri pepji, ma ri sodye, ma pjekjo ri so'o, ma ri d'ase, ma a ri pale\no ma otrjo k'u̸ ri ju̱ 'u̱ pa ra mimi.\nNuyo nana ñeje yo ts'itr'i ngeje yo nrra nesta k'u̸ ra pjosu̸ji. Texto yo kja ts'ilele nuyo\nsii in tara o iyo, ximi chjetrjoji kja yo dyaja.\nPEZHE DYOTE ÑANTO (26)\nTexe b'ezo o nrrixo soo k'u̸ ra xoru̸. Nu xoru̸ dya ra ngontr'ujinu ma ngeje k'u̸ kja\npju̸ru̸jitrjo. Nu xoru̸ ne pju̸ru̸ ngeje nu na kjuana. Kjana yo dyaja ye a nojoji ri ts'a\ntexeyoji; ma ra neji ra nguaru̸ji nu xonpute o dyate ra chjetrjoji kja textoji ma a nrroji.\nNu xoru̸ ngeje nu kja n'u̸ texe yo nte̱ 'e̱ ra jonteji ximi kja k'u ra mimi na jo'o nza kja\nkjuarmaji; ra ts'a nu k'inchi ñeje k'u̸ dya ra chu'u yo jñiñi ñeje ra mimi na jo'o yo te̱ 'e\nye jñatrjoji ximi ra pjoru̸ yo kja nu ngumu̸ yo pjosu̸ texe ye jñiñi yo ka̸nkra̸ a xese nu\nxoñijomu̸.\nNuyo tara soo k'u̸ ra juajnu̸ pjembe yo xoru̸ yo ra jichiji yo in chi'i.\nPEZHE DYOTE YENCHO (27)\nTexe b'ezo o nrrixo soo k'u̸ ra juajnu̸ yo nrra mamu̸ k'u̸ ra mbos'u̸ k'u̸ ra mbara nuyo\nb'u̸b'u̸ji kja jñiñi, ga kjaba na kjuana k'u̸ ran teji.\nTexe b'ezo o nrrixo soo k'u̸ ra nrro merio o ra mbaraji ma dyopju̸ e b'epji, nu dyopju\nangeze.\nPEZHE DYOTE JÑINCHO (28)\nTexe b'ezo o nrrixo soo k'u̸ ra mamu̸ jango nee k'u̸ ra mimi kja in jñiñi o kja xoñijomu\nnzakja ga mamu̸ kja na xiskuamana.\nPEZHE DYOTE NZHINCHO (29)\nTexe b'ezo o nrrixo panru̸ k'u̸ nu in jñiñi ngeje nu nrra nesta ngek'ua ra mbesi yo\nnesta.\nNu nra nestaji nge k'u̸ ra kjaji yomasi ri neeji, texe e nte̱ 'e̱ nesta k'u̸ ra ts'a yo mamu\nnu skuama ga kjanu ra mbaru̸ ja ga mimi in jango ga ne'e yo in dyojui ñeje ga jñanrru\nna jo'o texto yo ja̸ra̸ a xes'e nu xoñi jomu̸.\nNudyayo nrra pjosu̸ ye nte̱ 'e̱ dya soo, k'u̸ ra kjaji ma dya ri panru̸ji nu mamu̸ nu\nngumu̸ nu pjosu̸ ye nte̱ 'e̱ yo ka̸nra̸ a xese nu xoñi jomu̸.\nPEZHE JÑITE (30)",
-            "Image": "06e07417471d32a943ed539ec7b9382b"
+            "Text": "pjosu̸ji.\nPEZHE DYOTE NZIYO (24)\nTexe b'ezo o nrrixo soo k'u̸ ra soya, in ra ts'a nu ra nee, ximi ra pezheji yo zu̸nu̸ ma\npepji kjana ra ngontr'u̸ji ma ra soya.\nPEZHE DYOTE TS'ITS'CHA (25)\nTexe b'ezo o nrrixo soo k'u̸ ra mimi na jo'o, nu nrra ra mbosu̸ yo in te̱ 'e̱ , nu nesta ra\ndya̸tr'a̸, nu ra ñoñu̸ji, nu ra jye'e b'ito, nu in ngumu̸ ñeje texto yo nrra b'ezhi; ximi soo\nk'u̸ ra mbosu̸ji ma dya ri pepji, ma ri sodye, ma pjekjo ri so'o, ma ri d'ase, ma a ri pale\no ma otrjo k'u̸ ri ju̱ 'u̱ pa ra mimi.\nNuyo nana ñeje yo ts'itr'i ngeje yo nrra nesta k'u̸ ra pjosu̸ji. Texto yo kja ts'ilele nuyo\nsii in tara o iyo, ximi chjetrjoji kja yo dyaja.\nPEZHE DYOTE ÑANTO (26)\nTexe b'ezo o nrrixo soo k'u̸ ra xoru̸. Nu xoru̸ dya ra ngontr'ujinu ma ngeje k'u̸ kja\npju̸ru̸jitrjo. Nu xoru̸ ne pju̸ru̸ ngeje nu na kjuana. Kjana yo dyaja ye a nojoji ri ts'a\ntexeyoji; ma ra neji ra nguaru̸ji nu xonpute o dyate ra chjetrjoji kja textoji ma a nrroji.\nNu xoru̸ ngeje nu kja n'u̸ texe yo nte̱ 'e̱ ra jonteji ximi kja k'u ra mimi na jo'o nza kja\nkjuarmaji; ra ts'a nu k'inchi ñeje k'u̸ dya ra chu'u yo jñiñi ñeje ra mimi na jo'o yo te̱ 'e\nye jñatrjoji ximi ra pjoru̸ yo kja nu ngumu̸ yo pjosu̸ texe ye jñiñi yo ka̸nkra̸ a xese nu\nxoñijomu̸.\nNuyo tara soo k'u̸ ra juajnu̸ pjembe yo xoru̸ yo ra jichiji yo in chi'i.\nPEZHE DYOTE YENCHO (27)\nTexe b'ezo o nrrixo soo k'u̸ ra juajnu̸ yo nrra mamu̸ k'u̸ ra mbos'u̸ k'u̸ ra mbara nuyo\nb'u̸b'u̸ji kja jñiñi, ga kjaba na kjuana k'u̸ ran teji.\nTexe b'ezo o nrrixo soo k'u̸ ra nrro merio o ra mbaraji ma dyopju̸ e b'epji, nu dyopju\nangeze.\nPEZHE DYOTE JÑINCHO (28)\nTexe b'ezo o nrrixo soo k'u̸ ra mamu̸ jango nee k'u̸ ra mimi kja in jñiñi o kja xoñijomu\nnzakja ga mamu̸ kja na xiskuamana.\nPEZHE DYOTE NZHINCHO (29)\nTexe b'ezo o nrrixo panru̸ k'u̸ nu in jñiñi ngeje nu nrra nesta ngek'ua ra mbesi yo\nnesta.\nNu nra nestaji nge k'u̸ ra kjaji yomasi ri neeji, texe e nte̱ 'e̱ nesta k'u̸ ra ts'a yo mamu\nnu skuama ga kjanu ra mbaru̸ ja ga mimi in jango ga ne'e yo in dyojui ñeje ga jñanrru\nna jo'o texto yo ja̸ra̸ a xes'e nu xoñi jomu̸.\nNudyayo nrra pjosu̸ ye nte̱ 'e̱ dya soo, k'u̸ ra kjaji ma dya ri panru̸ji nu mamu̸ nu\nngumu̸ nu pjosu̸ ye nte̱ 'e̱ yo ka̸nra̸ a xese nu xoñi jomu̸.\nPEZHE JÑITE (30)"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "1ba66fb207c656c53cfdcdb05340f26d",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Nu xiskuamana so'o k'u̸ ra ts'a texto yo jñiñi yo ja̸ra̸ a xese nu xoñijomu̸ o ye nte̱ 'e̱ ,\nngek'ua ra soo ra ts'aji ye ts'ibepji nu ra mbosu̸ texe ye te̱ 'e̱ nza kja ga mamu̸ na\nxiskuamana.",
-            "Image": "1ba66fb207c656c53cfdcdb05340f26d"
+            "Text": "Nu xiskuamana so'o k'u̸ ra ts'a texto yo jñiñi yo ja̸ra̸ a xese nu xoñijomu̸ o ye nte̱ 'e̱ ,\nngek'ua ra soo ra ts'aji ye ts'ibepji nu ra mbosu̸ texe ye te̱ 'e̱ nza kja ga mamu̸ na\nxiskuamana."
         }
     }
 }

@@ -1,132 +1,132 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581467332,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "62ab6374aee9a995e546ca87ed1c40e0",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "MALUKPANONG DEKLARASYON SA TAWHANONG MGA KATUNGOD\n[Preamble]\nSamtamg ang pag-ila sa tiunay nga kabililhon ug sa managsama ug dili maagaw nga mga katungod sa tanang\nsakup sa tawhanong banay mao and sukaranan sa kagawasan, hustisya ug kalinaw sa kalibutan.\nSamtang ang wala pagtagad ug pagbiaybiay sa mga tawhanong katungod misangpot samabangis nga mga\nbuhat nga nagbiaybiay sa tanlag sa katawhan, ug ang pag-abot sa usa ka kalibutan diin ang tanang katawhan\nmakapahimulos/makatagamtam sa kagawasan sa pagsulti ug pagtoo ug kagawasan gikan sa kahadlok ug sa\npanginahanglan gimantala isip pinakahingpit nga tinguha sa yanong katawhan.\nSamtang kini gikinahanglan kung ang tawo dili mapugos sa pagdangop, isip katapusang dalangpan, sa pag-\nalsa batok sa pagpanglupig ug paglisudlisod, nga ang tawhanong mga katungod mapanalipdan pinaagi sa\nmga lagda sa balaod.\nSamtang kini gikinahanglan sa pagpauswag sa paglambo sa hinigala nga resyon tali sa mga nasud.\nSamtang ang katawhan sa Tinipong Kanasuran (UN) naghimo diha sa lagda sa pagmatuod pag-usab sa ilang\npagsalig sa sukaranan sa tawhanong mga katungod sa kabililhon ug kamahinungdanon sa mga tawo ug sa\nmanagsamang katungod sa mga lalaki ug mga babaye ug malig-on sa pagpalambo sa sosyal nga kauswagan\nug sa mas maayong sumbanan sa kinabuhi sa mas halapad nga kagawasan.\nSamtang ang mga sakop sa mga nasud nanumpa sa ilang kaugalingon sa pagtuman, uban sa pagtambayayong\nsa Tinipong Kanasuran, ang pagpalambo sa malukpanong pagtahud ug pag-atiman sa tawhanong mga\nkatungod ug gikinahanglang mga kagawasan.\nSamtang yanong gikasabutan niining mga katungod ug mga kagawasan ang sangputanan sa bug-os nga\npagtuman sa maong saad.",
-            "Image": "62ab6374aee9a995e546ca87ed1c40e0"
+            "Text": "MALUKPANONG DEKLARASYON SA TAWHANONG MGA KATUNGOD\n[Preamble]\nSamtamg ang pag-ila sa tiunay nga kabililhon ug sa managsama ug dili maagaw nga mga katungod sa tanang\nsakup sa tawhanong banay mao and sukaranan sa kagawasan, hustisya ug kalinaw sa kalibutan.\nSamtang ang wala pagtagad ug pagbiaybiay sa mga tawhanong katungod misangpot samabangis nga mga\nbuhat nga nagbiaybiay sa tanlag sa katawhan, ug ang pag-abot sa usa ka kalibutan diin ang tanang katawhan\nmakapahimulos/makatagamtam sa kagawasan sa pagsulti ug pagtoo ug kagawasan gikan sa kahadlok ug sa\npanginahanglan gimantala isip pinakahingpit nga tinguha sa yanong katawhan.\nSamtang kini gikinahanglan kung ang tawo dili mapugos sa pagdangop, isip katapusang dalangpan, sa pag-\nalsa batok sa pagpanglupig ug paglisudlisod, nga ang tawhanong mga katungod mapanalipdan pinaagi sa\nmga lagda sa balaod.\nSamtang kini gikinahanglan sa pagpauswag sa paglambo sa hinigala nga resyon tali sa mga nasud.\nSamtang ang katawhan sa Tinipong Kanasuran (UN) naghimo diha sa lagda sa pagmatuod pag-usab sa ilang\npagsalig sa sukaranan sa tawhanong mga katungod sa kabililhon ug kamahinungdanon sa mga tawo ug sa\nmanagsamang katungod sa mga lalaki ug mga babaye ug malig-on sa pagpalambo sa sosyal nga kauswagan\nug sa mas maayong sumbanan sa kinabuhi sa mas halapad nga kagawasan.\nSamtang ang mga sakop sa mga nasud nanumpa sa ilang kaugalingon sa pagtuman, uban sa pagtambayayong\nsa Tinipong Kanasuran, ang pagpalambo sa malukpanong pagtahud ug pag-atiman sa tawhanong mga\nkatungod ug gikinahanglang mga kagawasan.\nSamtang yanong gikasabutan niining mga katungod ug mga kagawasan ang sangputanan sa bug-os nga\npagtuman sa maong saad."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "dcf898a2d3a6a4b9ead953788fe5b035",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Karon, tungod niini, ang tibuok Asembleya nagpahayag:\nKining Malukpanong Deklarasyon sa Tawhanong mga Katungod isip dayag nga sumbanan sa tanang\nkatawhan ug mga kanasuran, nga sa katapusan nga ang matag tawo ug matag bahin sa katilingban,\nmakanunayong magabansay niining Deklarasyon sa hunahuna, sa pagsalig sa malukpanon ug malampuson\nnga pagtamud ug pagtuman, alang sa tanang katawhan sa sakup nga mga nasud ug alang sa mga katawhan\nusab sa mga ginsakpang kayutaan ubos sa ilang gahum.\nArtikulo 1\nAng tanang katawhan gipakatawo nga may kagawasan ug managsama sa kabililhon. Sila gigasahan sa\nsalabutan ug tanlag og mag-ilhanay isip managsoon sa usa'g-usa diha sa diwa sa ospiritu.\nArtikulo 2\nAng matag usa adunay luna sa tanang mga katungod ug mga kagawasan gihan-ay niining Deklarasyon, sa\nwalay pagpihig sa bisan unsa, sama sa kaliwat, tribu, bulok sekso, pinulongan, relihiyon, politikal o sosyal\nnga kagikan, kabtangan, pagkatawo o uban pang kahimtang.\nDugang pa, dili himoon ang pagpihig pinasikad sa politikal, gahum o internasyonal nga kahimtang sa nasud\no ginsakpang kayutaan diin ang tawo nahisakop, bisan kon kini gawasnon, gisalig, walay kinaugalingong\nkagamhanan o ubos sa bisan unsang limitasyon sa kamandoan.\nArtikulo 3\nAng matag usa adunay katungod sa kinabuhi, kaugalingnan ug seguridad sa pagkatawo.\nArtikulo 4\nWalay bisan kinsa nga ibanlod sa pagkaulipon o pugson sa paghimo sa bug-at nga buluhaton kay ginadili ang",
-            "Image": "dcf898a2d3a6a4b9ead953788fe5b035"
+            "Text": "Karon, tungod niini, ang tibuok Asembleya nagpahayag:\nKining Malukpanong Deklarasyon sa Tawhanong mga Katungod isip dayag nga sumbanan sa tanang\nkatawhan ug mga kanasuran, nga sa katapusan nga ang matag tawo ug matag bahin sa katilingban,\nmakanunayong magabansay niining Deklarasyon sa hunahuna, sa pagsalig sa malukpanon ug malampuson\nnga pagtamud ug pagtuman, alang sa tanang katawhan sa sakup nga mga nasud ug alang sa mga katawhan\nusab sa mga ginsakpang kayutaan ubos sa ilang gahum.\nArtikulo 1\nAng tanang katawhan gipakatawo nga may kagawasan ug managsama sa kabililhon. Sila gigasahan sa\nsalabutan ug tanlag og mag-ilhanay isip managsoon sa usa'g-usa diha sa diwa sa ospiritu.\nArtikulo 2\nAng matag usa adunay luna sa tanang mga katungod ug mga kagawasan gihan-ay niining Deklarasyon, sa\nwalay pagpihig sa bisan unsa, sama sa kaliwat, tribu, bulok sekso, pinulongan, relihiyon, politikal o sosyal\nnga kagikan, kabtangan, pagkatawo o uban pang kahimtang.\nDugang pa, dili himoon ang pagpihig pinasikad sa politikal, gahum o internasyonal nga kahimtang sa nasud\no ginsakpang kayutaan diin ang tawo nahisakop, bisan kon kini gawasnon, gisalig, walay kinaugalingong\nkagamhanan o ubos sa bisan unsang limitasyon sa kamandoan.\nArtikulo 3\nAng matag usa adunay katungod sa kinabuhi, kaugalingnan ug seguridad sa pagkatawo.\nArtikulo 4\nWalay bisan kinsa nga ibanlod sa pagkaulipon o pugson sa paghimo sa bug-at nga buluhaton kay ginadili ang"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "04a3fa98b00688b19e77c4d4e016dee2",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "tanang matang sa paghimo niini.\nArtikulo 5\nWalay bisan kinsa ang ibutang sa kasakit o sa sinalbahis, dili makatawo o pagpakaulaw o kastiguhon.\nArtikulo 6\nAng matag usa adunay katungod nga ilhon isip tawo atubangan sa balaod.\nArtikulo 7\nAng tanan managsama atubangan sa balaod ug may katungod sa walay pagpihig sa managsamang panalipod\nsa balaod. Ang tanan adunay katungod sa managsamang panalipod batok sa bisan unsang pagpihig nga\nmakapalas niining Deklarasyon ug batok sa bisan unsang hinungdan sa maong pagpihig.\nArtikulo 8\nAng matag usa adunay katungod sa masangputong paagi sumala sa batid sa mga husgadong nasyonal alang\nsa mga buhat nga kalapasan sa sukaranang mga katungod nga gihatag kaniya sa Konstitusyon o sa balaod.\nArtikulo 9\nWalay si bisan kinsa ang aristuhon pinsagi sa butangbutang, ibutang sa pagpugong, o pahiklingon sa layong\ndapit.\nArtikulo 10\nAng tanan may katungod sa hingpit nga pagkaparehas sa usa ka maangayon ug publikong husay sa usa ka\ngawasnon ug hukmanan nga walay gidapigan diha sa paghukom sa iyang mga katungod ug mga katungdanan\nug bisan unsang kriminal nga sumbong batok kaniya.",
-            "Image": "04a3fa98b00688b19e77c4d4e016dee2"
+            "Text": "tanang matang sa paghimo niini.\nArtikulo 5\nWalay bisan kinsa ang ibutang sa kasakit o sa sinalbahis, dili makatawo o pagpakaulaw o kastiguhon.\nArtikulo 6\nAng matag usa adunay katungod nga ilhon isip tawo atubangan sa balaod.\nArtikulo 7\nAng tanan managsama atubangan sa balaod ug may katungod sa walay pagpihig sa managsamang panalipod\nsa balaod. Ang tanan adunay katungod sa managsamang panalipod batok sa bisan unsang pagpihig nga\nmakapalas niining Deklarasyon ug batok sa bisan unsang hinungdan sa maong pagpihig.\nArtikulo 8\nAng matag usa adunay katungod sa masangputong paagi sumala sa batid sa mga husgadong nasyonal alang\nsa mga buhat nga kalapasan sa sukaranang mga katungod nga gihatag kaniya sa Konstitusyon o sa balaod.\nArtikulo 9\nWalay si bisan kinsa ang aristuhon pinsagi sa butangbutang, ibutang sa pagpugong, o pahiklingon sa layong\ndapit.\nArtikulo 10\nAng tanan may katungod sa hingpit nga pagkaparehas sa usa ka maangayon ug publikong husay sa usa ka\ngawasnon ug hukmanan nga walay gidapigan diha sa paghukom sa iyang mga katungod ug mga katungdanan\nug bisan unsang kriminal nga sumbong batok kaniya."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "a928c72011dfacb705cae01b3bd5821c",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Artikulo 11\nMatag usa nga sinumbong sa usa ka may silot nga kalapasan adunay katungod nga paka-ingnon nga walay\nsala hangtund masuta sumala sa balaod sa usa ka publiko nga husay diin anaa kaniya ang tanang mga\nkasegurohan nga gikinahanglan sa iyang panalipod.\nWalay usa nga hukman nga masalaypon sa bisan unsang salaud nga may penal nga silot sa saysay sa bisan\nunsang buhat o pagpakyas nga wala gibaod sa penal nga kasaypanan, ubos sa nasyonal o internasyonal nga\nbalaod, sa panahon nga kini nabuhat. Ni ang mas bug-at nga silot ipahamtang kay sa usa nga angay sa\npanahon nga ang maong salaud nahimo.\nArtikulo 12\nWalay si bisan kinsa ang ibutang sa dili makatarunganong pagpanghilabot sa iyang pag-inusara, pamilya,\npuloy-anan o komunikasyon, ni ataki sa iyang dungog ug maayong pangalan. Ang matag usa may katungod\nsa pagpanalipod atubangan sa balaod batok sa nahisgutang dili makatarunganong pag-ataki.\nArtikulo 13\nAng matag usa adunay katungod sa kagawasan sa paglihok ug puloy-anan sulod sa kaugalingong utlanan sa\nmatag nasud.\nAng matag usa adunay katungod sa pagbiya sa bisan unsang nasud, lakip and iyang kaugalkingon, ug sa\npagbalik sa iyang nasud.\nArtikulo 14\nAng matag usa adunay katungod sa pagtinguha ug sa paglingawlingaw sa ubang nasud dalangpan gikan sa\npagpanggukod o pagpanglutos.",
-            "Image": "a928c72011dfacb705cae01b3bd5821c"
+            "Text": "Artikulo 11\nMatag usa nga sinumbong sa usa ka may silot nga kalapasan adunay katungod nga paka-ingnon nga walay\nsala hangtund masuta sumala sa balaod sa usa ka publiko nga husay diin anaa kaniya ang tanang mga\nkasegurohan nga gikinahanglan sa iyang panalipod.\nWalay usa nga hukman nga masalaypon sa bisan unsang salaud nga may penal nga silot sa saysay sa bisan\nunsang buhat o pagpakyas nga wala gibaod sa penal nga kasaypanan, ubos sa nasyonal o internasyonal nga\nbalaod, sa panahon nga kini nabuhat. Ni ang mas bug-at nga silot ipahamtang kay sa usa nga angay sa\npanahon nga ang maong salaud nahimo.\nArtikulo 12\nWalay si bisan kinsa ang ibutang sa dili makatarunganong pagpanghilabot sa iyang pag-inusara, pamilya,\npuloy-anan o komunikasyon, ni ataki sa iyang dungog ug maayong pangalan. Ang matag usa may katungod\nsa pagpanalipod atubangan sa balaod batok sa nahisgutang dili makatarunganong pag-ataki.\nArtikulo 13\nAng matag usa adunay katungod sa kagawasan sa paglihok ug puloy-anan sulod sa kaugalingong utlanan sa\nmatag nasud.\nAng matag usa adunay katungod sa pagbiya sa bisan unsang nasud, lakip and iyang kaugalkingon, ug sa\npagbalik sa iyang nasud.\nArtikulo 14\nAng matag usa adunay katungod sa pagtinguha ug sa paglingawlingaw sa ubang nasud dalangpan gikan sa\npagpanggukod o pagpanglutos."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "e09b3ee35d309e75316198b0ca49914b",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Kining maong mga katungod mahimong dili ikapangaliyupo sa higayon sa mga pagedmanda diin matuod\nnga nagagikan sa dili-politikal nga mga kalapasan o gikan sa mga buhat nga supak sa mga katuyoan ug mga\nsukaranan sa Tinipong Kanasuran.\nArtikulo 15\nAng matag usa adunay katungod sa pagkanasudnon.\nWalay bisan kinsa nga sa walay katarungan hukasan sa iyang pagkanasudnon ni dili hatagan sa katungod sa\npagbalhin sa iyang pagkanasudnon.\nArtikulo 16\nAng lalaki ug babaye nga hingkod na og panuigon, sa walay pagkakuto tungod sa kaliwat, pagkalungsoranon\no relihiyon, adunay katungod sa pagminyo ug sa pagmugna og pamilya. Sila gihatagan sa managsamang\nkatungod sama sa kaminyoon, panahon sa kaminyoon ug sa pagkabungkag.\nAng kaminyoon mahimo lamang diha sa gawasnon ug hingpit nga pagtugot sa naghunahuna nga magtiayon.\nAng pamilya mao ang sagad ug tinubdan sa pundok sa katilingban ug may katungod nga panalipdan sa\nkatilingban ug sa nasud.\nArtikulo 17\nAng matag usa adunay katungod sa pagpanag-iya og kaugalingong kabtangan lakip ang pagpakig-kumbuya\nsa uban.\nWalay si bisan kinsa nga sa walay katarungan kuhaan sa iyang kabtangan.\nArtikulo 18\nAng matag usa adunay katungod sa kagawasan sa hunahuna, tanlag, ug relihiyon. Kining katungod nagalakip",
-            "Image": "e09b3ee35d309e75316198b0ca49914b"
+            "Text": "Kining maong mga katungod mahimong dili ikapangaliyupo sa higayon sa mga pagedmanda diin matuod\nnga nagagikan sa dili-politikal nga mga kalapasan o gikan sa mga buhat nga supak sa mga katuyoan ug mga\nsukaranan sa Tinipong Kanasuran.\nArtikulo 15\nAng matag usa adunay katungod sa pagkanasudnon.\nWalay bisan kinsa nga sa walay katarungan hukasan sa iyang pagkanasudnon ni dili hatagan sa katungod sa\npagbalhin sa iyang pagkanasudnon.\nArtikulo 16\nAng lalaki ug babaye nga hingkod na og panuigon, sa walay pagkakuto tungod sa kaliwat, pagkalungsoranon\no relihiyon, adunay katungod sa pagminyo ug sa pagmugna og pamilya. Sila gihatagan sa managsamang\nkatungod sama sa kaminyoon, panahon sa kaminyoon ug sa pagkabungkag.\nAng kaminyoon mahimo lamang diha sa gawasnon ug hingpit nga pagtugot sa naghunahuna nga magtiayon.\nAng pamilya mao ang sagad ug tinubdan sa pundok sa katilingban ug may katungod nga panalipdan sa\nkatilingban ug sa nasud.\nArtikulo 17\nAng matag usa adunay katungod sa pagpanag-iya og kaugalingong kabtangan lakip ang pagpakig-kumbuya\nsa uban.\nWalay si bisan kinsa nga sa walay katarungan kuhaan sa iyang kabtangan.\nArtikulo 18\nAng matag usa adunay katungod sa kagawasan sa hunahuna, tanlag, ug relihiyon. Kining katungod nagalakip"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "134ba089f43bf74f04990ea65388006b",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "sa kagawasan sa pag-ilis sa iyang relihiyon o pagtoo, ug kagawasan bisan mag-inusara o katilingbanon lakip\nang uban og sa publiko o pribado, sa pagpadayag sa iyang relihiyon o pagtoo o pagtudlo sa pagtoo,\npagbansay, pagsimba ug pagtuman.\nArtikulo 19\nAng matag usa adunay katungod sa hunahuna ug pagsulti. Kining katungod nagalakip sa kagawasan sa\npagpugong sa hunahuna sa walay paghilabot ug sa pagpangita, pagdawat o sa paghatag og kasayuran ug\npanahum pinaagi sa bisan unsang matang sa komunikasyon sa walay pagtagad sa mga utlanan.\nArtikulo 20\nAng matag usa adunay katungod sa kagawasan sa malinawong asembleya ug asosasyon.\nWalay si bisan kinsa ang mapugos sa pagpasakop sa asosasyon.\nArtikulo 21\nAng matag usa adunay katungod sa pagsalmot sa panggamhanan sa iyang kaugalingong nasud, sa laktod o\npinaagi sa pagpili ug mga diputado.\nAng matag usa adunay katungod sa managsamang pagsulod sa serbisyo publiko sa iyang kaugalingong\nnasud.\nAng kabubut-on sa katawhan maoy basehanan sa gahum sa kagamhanan; kini gipadayag sa matag karon ug\nunya ug lunsay nga piniliay nga ginahimo nga malukpanon ug managsamang katungod sa pagboto og\npagahimoon nga tinago nga pagboto o managsamang gawasnon sa pagbotar.\nArtikulo 22\nAng matag usa, isip sakop sa katilingban, may katungod sa sosyal nga panalipod ug may katungod sa",
-            "Image": "134ba089f43bf74f04990ea65388006b"
+            "Text": "sa kagawasan sa pag-ilis sa iyang relihiyon o pagtoo, ug kagawasan bisan mag-inusara o katilingbanon lakip\nang uban og sa publiko o pribado, sa pagpadayag sa iyang relihiyon o pagtoo o pagtudlo sa pagtoo,\npagbansay, pagsimba ug pagtuman.\nArtikulo 19\nAng matag usa adunay katungod sa hunahuna ug pagsulti. Kining katungod nagalakip sa kagawasan sa\npagpugong sa hunahuna sa walay paghilabot ug sa pagpangita, pagdawat o sa paghatag og kasayuran ug\npanahum pinaagi sa bisan unsang matang sa komunikasyon sa walay pagtagad sa mga utlanan.\nArtikulo 20\nAng matag usa adunay katungod sa kagawasan sa malinawong asembleya ug asosasyon.\nWalay si bisan kinsa ang mapugos sa pagpasakop sa asosasyon.\nArtikulo 21\nAng matag usa adunay katungod sa pagsalmot sa panggamhanan sa iyang kaugalingong nasud, sa laktod o\npinaagi sa pagpili ug mga diputado.\nAng matag usa adunay katungod sa managsamang pagsulod sa serbisyo publiko sa iyang kaugalingong\nnasud.\nAng kabubut-on sa katawhan maoy basehanan sa gahum sa kagamhanan; kini gipadayag sa matag karon ug\nunya ug lunsay nga piniliay nga ginahimo nga malukpanon ug managsamang katungod sa pagboto og\npagahimoon nga tinago nga pagboto o managsamang gawasnon sa pagbotar.\nArtikulo 22\nAng matag usa, isip sakop sa katilingban, may katungod sa sosyal nga panalipod ug may katungod sa"
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "caad678198158147665d63215e6fd8e8",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "pagtuman pinaagi sa nasyonal nga paningkamot ug internasyonal nga panagbulig ug diha sa panag-uyon\nuban sa organisasyon og kahinguhaan sa matag nasud, sa ekonomiya, sosyal ug kultural nga mga katungod\nnga kinahanglanon kaayo alang sa iyang kabililhon og sa gawasnong paglambo sa iyag pagkatawo.\nArtikulo 23\nAng matag usa adunay katungod sa pagtrabaho, sa gawasnong pagpili sa trabaho, sa maangayon ug\nmapuslanon nga mga kahimtang sa trabaho ug sa panalipod batok sa walay trabaho.\nAng matag usa, sa walay pagpinig, adunay katungod sa managsamang suhol sa samang trabaho.\nAng matag usa nga nagtrabaho adunay katungod sa maangayon ug mapuslanon nga suhol nga maghatag\nkasegurohan sa iyang kaugalingon og sa iyang pamilya ang pagkinabuhi nga angayansa tawhanong\nkaambong ug dugang, kung gikinahanglan, sa ubang paagi sa sosyal nga panalipod.\nAng matag usa adunay katungod sa pagporma ug sa pagsalmot sa \"trade unions\" alang sa panalipod sa iyang\ntinguha.\nArtikulo 24\nAng matag usa adunay katungod sa pagpahulay ug paglulinghayaw, lakip na ang makatarunganong\nlimitasyon sa oras sa pagtrabaho ug matag karon ug unya nga bakasyon nga may suhol.\nArtikulo 25\nAng matag usa adunay katungod sa panig-ingnan nga pagkinabuhi husto alang sa maayong panglawas og\nkauswagan sa iyang kaugalingon ug sa iyang pamilya, lakip na ang pagkaon, bisti, balay, ug medisina nga\npag-amuma ug gikinahanglang serbisyo sosyal ug katungod sa seguridad sa panahon nga mawad-an og\ntrabaho, sakit, kabilinggan sa panglawas, pagkabalo, pagkatigulang o uban nga kulang sa panginabuhi sama\nsa kahimtang nga wala sa atong pagdumala.",
-            "Image": "caad678198158147665d63215e6fd8e8"
+            "Text": "pagtuman pinaagi sa nasyonal nga paningkamot ug internasyonal nga panagbulig ug diha sa panag-uyon\nuban sa organisasyon og kahinguhaan sa matag nasud, sa ekonomiya, sosyal ug kultural nga mga katungod\nnga kinahanglanon kaayo alang sa iyang kabililhon og sa gawasnong paglambo sa iyag pagkatawo.\nArtikulo 23\nAng matag usa adunay katungod sa pagtrabaho, sa gawasnong pagpili sa trabaho, sa maangayon ug\nmapuslanon nga mga kahimtang sa trabaho ug sa panalipod batok sa walay trabaho.\nAng matag usa, sa walay pagpinig, adunay katungod sa managsamang suhol sa samang trabaho.\nAng matag usa nga nagtrabaho adunay katungod sa maangayon ug mapuslanon nga suhol nga maghatag\nkasegurohan sa iyang kaugalingon og sa iyang pamilya ang pagkinabuhi nga angayansa tawhanong\nkaambong ug dugang, kung gikinahanglan, sa ubang paagi sa sosyal nga panalipod.\nAng matag usa adunay katungod sa pagporma ug sa pagsalmot sa \"trade unions\" alang sa panalipod sa iyang\ntinguha.\nArtikulo 24\nAng matag usa adunay katungod sa pagpahulay ug paglulinghayaw, lakip na ang makatarunganong\nlimitasyon sa oras sa pagtrabaho ug matag karon ug unya nga bakasyon nga may suhol.\nArtikulo 25\nAng matag usa adunay katungod sa panig-ingnan nga pagkinabuhi husto alang sa maayong panglawas og\nkauswagan sa iyang kaugalingon ug sa iyang pamilya, lakip na ang pagkaon, bisti, balay, ug medisina nga\npag-amuma ug gikinahanglang serbisyo sosyal ug katungod sa seguridad sa panahon nga mawad-an og\ntrabaho, sakit, kabilinggan sa panglawas, pagkabalo, pagkatigulang o uban nga kulang sa panginabuhi sama\nsa kahimtang nga wala sa atong pagdumala."
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "c8b0d64b33ed1ede959503f3b5cdbd92",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Ang mga inahan ug kabataan may katungod sa linain nga pag-amuma ug panabang. Tanang kabataan, nga\nnatawo sulod o gawas sa kaminyoon makapahimulos sa managsamang sosyal nga panalipod.\nArtikulo 26\nAng matag usa adunay katungod sa edukasyon. Kinahanglan nga ang edukasyon walay bayad, bisan diha na\nlang sa elementarya ug sa sukaranang ang-ang. Ang elementarya nga edukasyon kinahanglan pinugos.\nTiknikal og propisyonal nga edukasyon pagahimoon nga mapuslan ug ang hataas nga edukasyon\ngikinahanglang makab-ot sa tanan basi sa katakus.\nAng edukasyon maggiya sa tibook nga paglambo sa tawhanong personalidad ug sa paglig-on sa patahod sa\ntawhanong mga katungod ug sukaranang mga kagawasan. Kini makapausbaw sa pagsabot, pagka-\nmapasayloon ug panaghigalaay sa mga kanasuran, kaliwatan o relihiyong mga pundok, og magapadayon sa\nmga kalihukan sa Tinipong Kanasuran alang sa paggalam sa kalinaw.\nAng mga ginikanan adunay unang katungod sa pagpili sa matang sa edukasyon nga mahatag sa ilang mga\nanak.\nArtikulo 27\nAng matag usa adunay katungod sa gawasnon nga pagsalmot sa mga kulturanhong kinabuhi sa katilingban,\nsa pagtagamtam sa mga arte ug pagpaambit sa siyentipikong kauswagan ug mga binipisyo.\nAng matag usa adunay katungod sa panalipod sa moral ug material nga mga interes nga resulta gikan sa\nbisan unsang siyentipiko, literaryo o artistikong panggama nga diin siya ang nagmugna.\nArtikulo 28\nAng matag usa adunay katungod sa sosyal ug internasyonal nga kalinaw nga ang mga katungod ug mga\nkagawasan nga gipahayag niining Deklarasyon mahimong matuman sa hingpit.",
-            "Image": "c8b0d64b33ed1ede959503f3b5cdbd92"
+            "Text": "Ang mga inahan ug kabataan may katungod sa linain nga pag-amuma ug panabang. Tanang kabataan, nga\nnatawo sulod o gawas sa kaminyoon makapahimulos sa managsamang sosyal nga panalipod.\nArtikulo 26\nAng matag usa adunay katungod sa edukasyon. Kinahanglan nga ang edukasyon walay bayad, bisan diha na\nlang sa elementarya ug sa sukaranang ang-ang. Ang elementarya nga edukasyon kinahanglan pinugos.\nTiknikal og propisyonal nga edukasyon pagahimoon nga mapuslan ug ang hataas nga edukasyon\ngikinahanglang makab-ot sa tanan basi sa katakus.\nAng edukasyon maggiya sa tibook nga paglambo sa tawhanong personalidad ug sa paglig-on sa patahod sa\ntawhanong mga katungod ug sukaranang mga kagawasan. Kini makapausbaw sa pagsabot, pagka-\nmapasayloon ug panaghigalaay sa mga kanasuran, kaliwatan o relihiyong mga pundok, og magapadayon sa\nmga kalihukan sa Tinipong Kanasuran alang sa paggalam sa kalinaw.\nAng mga ginikanan adunay unang katungod sa pagpili sa matang sa edukasyon nga mahatag sa ilang mga\nanak.\nArtikulo 27\nAng matag usa adunay katungod sa gawasnon nga pagsalmot sa mga kulturanhong kinabuhi sa katilingban,\nsa pagtagamtam sa mga arte ug pagpaambit sa siyentipikong kauswagan ug mga binipisyo.\nAng matag usa adunay katungod sa panalipod sa moral ug material nga mga interes nga resulta gikan sa\nbisan unsang siyentipiko, literaryo o artistikong panggama nga diin siya ang nagmugna.\nArtikulo 28\nAng matag usa adunay katungod sa sosyal ug internasyonal nga kalinaw nga ang mga katungod ug mga\nkagawasan nga gipahayag niining Deklarasyon mahimong matuman sa hingpit."
         },
         "8": {
-            "Label": "9",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "abb0c4771c4a1351cbdca77db302fa54",
             "Index": 8,
+            "Label": "9",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Artikulo 29\nAng matag usa adunay katungdanan ngadto sa katilingban diin kon mag-inusara, ang gawasnon ug hingpit\nnga paglambo sa iyang pagkatawo mahimo.\nSa pagbansay sa iyang mga katungod, ang matag usa mahimo lamang nga mag-agad sa limitasyon sama sa\nnga piho sa balaod, bugtong alang sa katuyoan sama sa gipasalig nga igo sa pag-ila ug pagtahod sa mga\nkatungod ug mga kagawasan sa uban ug sa panagtagbo sa manggiangayon nga kinahanglanon sa moralidad,\npubliko nga kasugoan ug ang kasagaran nga kauswagan sa demokratiko nga katilingban.\nKining mga katungod ug kagawasan unta dili mahimong gamiton nga supak sa mga katuyoan ug sumbanan\nsa Tinipong Kanasuran.\nArtikulo 30\nWalay bisan unsa niining Deklarasyon nga mahimong hubaron sa bisan kinsang Nasud, pundok o tawo ang\nbisan unsang katungod sa paghimo sa bisan unsang kalihukan o sa paghimo sa bisan unsang buhat nga ang\ntumong mao ang pagwagtang sa bisan unsang mga katungod ug kagawasan nga nahipatik dinhi.",
-            "Image": "abb0c4771c4a1351cbdca77db302fa54"
+            "Text": "Artikulo 29\nAng matag usa adunay katungdanan ngadto sa katilingban diin kon mag-inusara, ang gawasnon ug hingpit\nnga paglambo sa iyang pagkatawo mahimo.\nSa pagbansay sa iyang mga katungod, ang matag usa mahimo lamang nga mag-agad sa limitasyon sama sa\nnga piho sa balaod, bugtong alang sa katuyoan sama sa gipasalig nga igo sa pag-ila ug pagtahod sa mga\nkatungod ug mga kagawasan sa uban ug sa panagtagbo sa manggiangayon nga kinahanglanon sa moralidad,\npubliko nga kasugoan ug ang kasagaran nga kauswagan sa demokratiko nga katilingban.\nKining mga katungod ug kagawasan unta dili mahimong gamiton nga supak sa mga katuyoan ug sumbanan\nsa Tinipong Kanasuran.\nArtikulo 30\nWalay bisan unsa niining Deklarasyon nga mahimong hubaron sa bisan kinsang Nasud, pundok o tawo ang\nbisan unsang katungod sa paghimo sa bisan unsang kalihukan o sa paghimo sa bisan unsang buhat nga ang\ntumong mao ang pagwagtang sa bisan unsang mga katungod ug kagawasan nga nahipatik dinhi."
         }
     }
 }

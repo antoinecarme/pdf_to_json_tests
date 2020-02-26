@@ -1,127 +1,127 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581469030,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "d1fff1f8f73194007e1e3e107fe92cef",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "DICIARAÇION UNIVERSALE DI DRITI DE PERSONN-E\nPreanbolo\nConscideròu che o riconoscimento da pròpia dignitæ e di driti pægi e inalienabili de tutti i menbri da\nfamiggia umann-a o l’é o fondamento da libertæ, da giustiçia e da paxe into mondo,\nConscideròu che a negaçion e o desprexo di driti de personn-e an acaxonòu di atti de barbaritæ che an ofeizo\na coscensa de l’umanitæ; e che l’é stæto proclamòu comme ciù erta aspiraçion de l’òmmo l’arivo de ’n\nmondo into quæ tutti, liberæ da-a poia e da-a mizeia, gödian da libertæ de paròlla e de creddo,\nConscideròu che l’é esensiale che i driti de personn-e segian protezui da de lezze giuridiche perché l’òmmo o\nno s’atreuve costreito, in urtima istansa, a-a rebelion contra a tirania e l’òprescion,\nConscideròu che l’é esensiale promeuve o sviluppo de de relaçioin da amixi fra e naçioin,\nConscideròu che i pòpoli de Naçioin Unie an afermòu into seu Statuto a seu fede inti driti fondamentali de\npersonn-e, inta dignitæ e into valô da personn-a umann-a e inti driti pægi d’òmmi e dònne, e an determinòu a\npromoçion do progresso sociale e de ’n megio livello de vitta inte ’n ciù erto graddo de libertæ,\nConscideròu che i Stati Menbri se son conpromissi a aseguâ, in cooperaçion co-e Naçioin Unie, a promoçion\ndo rispetto universale e l’òservansa di driti de l’òmmo e de libertæ fondamentali,\nConscideròu che ’na conceçion comun de questi driti e libertæ a l’é da ciù grande inportansa pe l’intrega\nrealizaçion de questi conpromissi, l’asenblea generale, aloa,\na proclamma a prezente Diciaraçion Universale di Driti de Personn-e, comme ideale comun pe-o quæ tutte e\ngente e e naçioin gh’an da sforsase, de mòddo che ògni individoo e ògni istituçion, into tegnila de longo a\nmemöia, promeuvan, atraverso l’insegnamento e l’educaçion, o rispetto pe questi driti e libertæ, e con de",
-            "Image": "d1fff1f8f73194007e1e3e107fe92cef"
+            "Text": "DICIARAÇION UNIVERSALE DI DRITI DE PERSONN-E\nPreanbolo\nConscideròu che o riconoscimento da pròpia dignitæ e di driti pægi e inalienabili de tutti i menbri da\nfamiggia umann-a o l’é o fondamento da libertæ, da giustiçia e da paxe into mondo,\nConscideròu che a negaçion e o desprexo di driti de personn-e an acaxonòu di atti de barbaritæ che an ofeizo\na coscensa de l’umanitæ; e che l’é stæto proclamòu comme ciù erta aspiraçion de l’òmmo l’arivo de ’n\nmondo into quæ tutti, liberæ da-a poia e da-a mizeia, gödian da libertæ de paròlla e de creddo,\nConscideròu che l’é esensiale che i driti de personn-e segian protezui da de lezze giuridiche perché l’òmmo o\nno s’atreuve costreito, in urtima istansa, a-a rebelion contra a tirania e l’òprescion,\nConscideròu che l’é esensiale promeuve o sviluppo de de relaçioin da amixi fra e naçioin,\nConscideròu che i pòpoli de Naçioin Unie an afermòu into seu Statuto a seu fede inti driti fondamentali de\npersonn-e, inta dignitæ e into valô da personn-a umann-a e inti driti pægi d’òmmi e dònne, e an determinòu a\npromoçion do progresso sociale e de ’n megio livello de vitta inte ’n ciù erto graddo de libertæ,\nConscideròu che i Stati Menbri se son conpromissi a aseguâ, in cooperaçion co-e Naçioin Unie, a promoçion\ndo rispetto universale e l’òservansa di driti de l’òmmo e de libertæ fondamentali,\nConscideròu che ’na conceçion comun de questi driti e libertæ a l’é da ciù grande inportansa pe l’intrega\nrealizaçion de questi conpromissi, l’asenblea generale, aloa,\na proclamma a prezente Diciaraçion Universale di Driti de Personn-e, comme ideale comun pe-o quæ tutte e\ngente e e naçioin gh’an da sforsase, de mòddo che ògni individoo e ògni istituçion, into tegnila de longo a\nmemöia, promeuvan, atraverso l’insegnamento e l’educaçion, o rispetto pe questi driti e libertæ, e con de"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "ae148695123f0ba1ea801bcfededa0bc",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "mezue progrescive naçionali e internaçionali n’aseguen o riconoscimento e l’aplicaçion universali e efetivi,\nsegge fra i pòpoli di Stati Menbri che fra quelli di teritöi sotta a seu giurisdiçion.\nArticolo 1\nTutte e personn-e nascian libere e pæge in dignitæ e driti. Son dotæ de raxon e coscensa e gh’an da agî l’unn-\na verso l’atra inte ’n spirito de fradelansa.\nArticolo 2\nÒgni personn-a a gh’à tutti i driti e e libertæ proclamæ inte questa Diciaraçion, sensa nisciunn-a distinçion de\nrazza, cô, sesso, lengoa, religion, òpinion politica ò d’atro tipo, òrigine naçionale ò sociale, poxiçion\neconòmica, nascimento, ò quæ se segge atra condiçion.\nPe de ciù, no se faiâ nisciunn-a diferensa fondâ in sciâ condiçion politica, giuridica ò internaçionale do Paize\nò do teritöio a-o quæ e personn-e apartegnan, segge pe-i Paixi indipendenti che pe-i teritöi sott’aministraçion\nfiduciaia, sens’outonomia, ò sotomissi a ògni atra limitaçion de sovranitæ.\nArticolo 3\nTutti gh’an drito a-a vitta, a-a libertæ e a-a seguessa personale.\nArticolo 4\nNisciun o saiâ sotomisso a scciavitù ni a servitù; a scciavitù e a træta de scciavi son proibie in tutte e forme.\nArticolo 5\nNisciun o saiâ sotomisso a tortue ni a penn-e ò puniçioin crudeli, inumann-e ò degradanti.\nArticolo 6",
-            "Image": "ae148695123f0ba1ea801bcfededa0bc"
+            "Text": "mezue progrescive naçionali e internaçionali n’aseguen o riconoscimento e l’aplicaçion universali e efetivi,\nsegge fra i pòpoli di Stati Menbri che fra quelli di teritöi sotta a seu giurisdiçion.\nArticolo 1\nTutte e personn-e nascian libere e pæge in dignitæ e driti. Son dotæ de raxon e coscensa e gh’an da agî l’unn-\na verso l’atra inte ’n spirito de fradelansa.\nArticolo 2\nÒgni personn-a a gh’à tutti i driti e e libertæ proclamæ inte questa Diciaraçion, sensa nisciunn-a distinçion de\nrazza, cô, sesso, lengoa, religion, òpinion politica ò d’atro tipo, òrigine naçionale ò sociale, poxiçion\neconòmica, nascimento, ò quæ se segge atra condiçion.\nPe de ciù, no se faiâ nisciunn-a diferensa fondâ in sciâ condiçion politica, giuridica ò internaçionale do Paize\nò do teritöio a-o quæ e personn-e apartegnan, segge pe-i Paixi indipendenti che pe-i teritöi sott’aministraçion\nfiduciaia, sens’outonomia, ò sotomissi a ògni atra limitaçion de sovranitæ.\nArticolo 3\nTutti gh’an drito a-a vitta, a-a libertæ e a-a seguessa personale.\nArticolo 4\nNisciun o saiâ sotomisso a scciavitù ni a servitù; a scciavitù e a træta de scciavi son proibie in tutte e forme.\nArticolo 5\nNisciun o saiâ sotomisso a tortue ni a penn-e ò puniçioin crudeli, inumann-e ò degradanti.\nArticolo 6"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "77db315a2569b54826029168ec39e205",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Tutti gh’an drito, in ògni pòsto, a-o riconoscimento da seu personalitæ giuridica.\nArticolo 7\nTutte e personn-e son pæge davanti a-a lezze e gh’an drito, sensa distinçioin, a egoale proteçion da parte de\nquella. Tutti gh’an drito a-a mæxima proteçion contra ògni discriminaçion ch’a segge in violaçion da\nprezente Diciaraçion, comme contra tutto quello che pòsse açimentâ a tâ discriminaçion.\nArticolo 8\nÒgni personn-a a gh’à drito a l’efetiva poscibilitæ de ricorso a di tribunali naçionali conpetenti, pe difendise\ncontra i atti che segian in violaçion di driti fondamentali a lê riconosciui da-a costituçion ò da-a lezze.\nArticolo 9\nNisciun o poriâ ese arbitraiamente arestòu, detegnuo ò eziliòu.\nArticolo 10\nÒgni individoo o gh’à o drito, in condiçion de conpleta egoaliansa, d’ese sentio publicamente e con giustiçia\nda ’n tribunale indipendente e inparçiale, pe-a determinaçion di seu driti e de seu òbligaçioin ò de acuze\npenali contra lê.\nArticolo 11\nTutte e personn-e acuzæ de ’n delitto gh’an o drito d’ese prezunte inocenti mentre a no segge provâ a seu\ncorpa, in mòddo legale e in giudiçio publico, into quæ agen avuo tutte e garansie necesaie pe-a seu difeiza.\nNisciun o saiâ condanòu pe di atti ò de òmiscioin che a-o momento d’ese comissi no foisan delitti segondo o\ndrito interno ò internaçionale. No s’inponiâ manco de penn-e ciù gravi che quelle aplicæ a-o momento into\nquæ o delitto o l’é stæto comisso.",
-            "Image": "77db315a2569b54826029168ec39e205"
+            "Text": "Tutti gh’an drito, in ògni pòsto, a-o riconoscimento da seu personalitæ giuridica.\nArticolo 7\nTutte e personn-e son pæge davanti a-a lezze e gh’an drito, sensa distinçioin, a egoale proteçion da parte de\nquella. Tutti gh’an drito a-a mæxima proteçion contra ògni discriminaçion ch’a segge in violaçion da\nprezente Diciaraçion, comme contra tutto quello che pòsse açimentâ a tâ discriminaçion.\nArticolo 8\nÒgni personn-a a gh’à drito a l’efetiva poscibilitæ de ricorso a di tribunali naçionali conpetenti, pe difendise\ncontra i atti che segian in violaçion di driti fondamentali a lê riconosciui da-a costituçion ò da-a lezze.\nArticolo 9\nNisciun o poriâ ese arbitraiamente arestòu, detegnuo ò eziliòu.\nArticolo 10\nÒgni individoo o gh’à o drito, in condiçion de conpleta egoaliansa, d’ese sentio publicamente e con giustiçia\nda ’n tribunale indipendente e inparçiale, pe-a determinaçion di seu driti e de seu òbligaçioin ò de acuze\npenali contra lê.\nArticolo 11\nTutte e personn-e acuzæ de ’n delitto gh’an o drito d’ese prezunte inocenti mentre a no segge provâ a seu\ncorpa, in mòddo legale e in giudiçio publico, into quæ agen avuo tutte e garansie necesaie pe-a seu difeiza.\nNisciun o saiâ condanòu pe di atti ò de òmiscioin che a-o momento d’ese comissi no foisan delitti segondo o\ndrito interno ò internaçionale. No s’inponiâ manco de penn-e ciù gravi che quelle aplicæ a-o momento into\nquæ o delitto o l’é stæto comisso."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "9aa88e8755b5567ab6f5c22e10629df1",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Articolo 12\nNisciun o saiâ sotomisso a de interferense arbitraie inta seu vitta privâ, inta seu famiggia, abitaçion ò\ncorispondensa, ni a di atacchi contra o seu önô e reputaçion. Ògni personn-a a gh’à drito a-a proteçion da\nlezze contra tæ interferense ò lexoin.\nArticolo 13\nTutti gh’an drito a-a libertæ de movimento e rescidensa drento a-o teritöio de ’n Stato.\nTutti gh’an drito a sciortî da ’n Paize, incluzo o pròpio, e de ritornâ a-o seu Paize.\nArticolo 14\nIn caxo de persecuçion, ògni personn-a a gh’à o drito de çercâ e de gödî d’azilo in atri Paixi.\nQuesto drito o no poriâ ese invocòu contra de açioin giudiçiali couzæ da di delitti no politichi ò da de açioin\ncontraie a-i propòxiti e prinçippi de Naçioin Unie.\nArticolo 15\nTutti gh’an drito a ’na çitadinansa.\nA nisciun se ghe poriâ levâ a seu çitadinansa ò o drito de cangiâ çitadinansa.\nArticolo 16\nI òmmi e e dònne, a partî da l’etæ adegoâ, gh’an o drito de spozase e de formâ ’na famiggia, sensa nisciunn-a\nrestriçion de razza, çitadinansa ò religion. Gh’an anche pægi driti rigoardo a-o maiezzo, durante o maiezzo e\ninto caxo ch’o segge desfæto.\nO spozaliçio o poriâ ese contræto solo co-o consenso pin e libero di futuri spozoei.",
-            "Image": "9aa88e8755b5567ab6f5c22e10629df1"
+            "Text": "Articolo 12\nNisciun o saiâ sotomisso a de interferense arbitraie inta seu vitta privâ, inta seu famiggia, abitaçion ò\ncorispondensa, ni a di atacchi contra o seu önô e reputaçion. Ògni personn-a a gh’à drito a-a proteçion da\nlezze contra tæ interferense ò lexoin.\nArticolo 13\nTutti gh’an drito a-a libertæ de movimento e rescidensa drento a-o teritöio de ’n Stato.\nTutti gh’an drito a sciortî da ’n Paize, incluzo o pròpio, e de ritornâ a-o seu Paize.\nArticolo 14\nIn caxo de persecuçion, ògni personn-a a gh’à o drito de çercâ e de gödî d’azilo in atri Paixi.\nQuesto drito o no poriâ ese invocòu contra de açioin giudiçiali couzæ da di delitti no politichi ò da de açioin\ncontraie a-i propòxiti e prinçippi de Naçioin Unie.\nArticolo 15\nTutti gh’an drito a ’na çitadinansa.\nA nisciun se ghe poriâ levâ a seu çitadinansa ò o drito de cangiâ çitadinansa.\nArticolo 16\nI òmmi e e dònne, a partî da l’etæ adegoâ, gh’an o drito de spozase e de formâ ’na famiggia, sensa nisciunn-a\nrestriçion de razza, çitadinansa ò religion. Gh’an anche pægi driti rigoardo a-o maiezzo, durante o maiezzo e\ninto caxo ch’o segge desfæto.\nO spozaliçio o poriâ ese contræto solo co-o consenso pin e libero di futuri spozoei."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "dfc812e31150d344394161da54b76648",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "A famiggia a l’é l’elemento naturale e fondamentale da socjêtæ e a gh’à drito a-a proteçion da socjêtæ e do\nStato.\nArticolo 17\nÒgni personn-a a gh’à drito a-a propiêtæ, segge personale ò in comun con atri.\nNisciun o saiâ arbitraiamente privòu da seu propiêtæ.\nArticolo 18\nÒgni personn-a a gh’à drito a-a libertæ de pensceo, de coscensa e de religion; quello drito o l’includde a\nlibertæ de cangiâ religion ò creddo, e a libertæ de manifestali, individoalmente ò insemme a di atri, segge in\npublico che in privòu, atraverso l’insegnamento, a pratica, o culto e l’òservansa.\nArticolo 19\nTutte e personn-e gh’an drito a-a libertæ d’òpinion e d’esprescion; quello drito o l’includde a libertæ de\nsostegnî de òpinioin sensa interferense e de çercâ, riçeive e inpartî informaçioin e idee atraverso ògni mezzo\ne sensa limitaçioin de confin.\nArticolo 20\nTutti gh’an drito a-a libertæ de riunion e d’asociaçion paxifica.\nNisciun o poriâ ese costreito a apartegnî a ’n’asociaçion.\nArticolo 21\nÒgni personn-a a gh’à o drito de parteçipâ into governo do seu Paize, diretamente ò pe via de di raprezentanti\nliberamente çernui.",
-            "Image": "dfc812e31150d344394161da54b76648"
+            "Text": "A famiggia a l’é l’elemento naturale e fondamentale da socjêtæ e a gh’à drito a-a proteçion da socjêtæ e do\nStato.\nArticolo 17\nÒgni personn-a a gh’à drito a-a propiêtæ, segge personale ò in comun con atri.\nNisciun o saiâ arbitraiamente privòu da seu propiêtæ.\nArticolo 18\nÒgni personn-a a gh’à drito a-a libertæ de pensceo, de coscensa e de religion; quello drito o l’includde a\nlibertæ de cangiâ religion ò creddo, e a libertæ de manifestali, individoalmente ò insemme a di atri, segge in\npublico che in privòu, atraverso l’insegnamento, a pratica, o culto e l’òservansa.\nArticolo 19\nTutte e personn-e gh’an drito a-a libertæ d’òpinion e d’esprescion; quello drito o l’includde a libertæ de\nsostegnî de òpinioin sensa interferense e de çercâ, riçeive e inpartî informaçioin e idee atraverso ògni mezzo\ne sensa limitaçioin de confin.\nArticolo 20\nTutti gh’an drito a-a libertæ de riunion e d’asociaçion paxifica.\nNisciun o poriâ ese costreito a apartegnî a ’n’asociaçion.\nArticolo 21\nÒgni personn-a a gh’à o drito de parteçipâ into governo do seu Paize, diretamente ò pe via de di raprezentanti\nliberamente çernui."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "1231f061fa344b6135c0f30d73be663b",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Ògni personn-a a gh’à drito d’acesso, in condiçioin d’egoaliansa, a-e fonçioin publiche do seu Paize.\nA voentæ do pòpolo a l’é a baze de l’outoritæ do poei publico; questa voentæ a saiâ espressa inte de eleçioin\noutentiche che s’avian da tegnî in mòddo periòdico, pe voto universale e egoale, ch’o saiâ anche segretto ò\nsegondo de procedue pe garantî a libertæ do voto.\nArticolo 22\nÒgni individoo, comme menbro da socjêtæ, o gh’à drito a-a seguessa sociale e, atraverso o sfòrso naçionale e\na cooperaçion internaçionale, e in relaçion con l’òrganizaçion e e risorse d’ògni Stato, a-a realizaçion di driti\neconòmichi, sociali e colturali indispensabili pe-a seu dignitæ e pe-o libero sviluppo da seu personalitæ.\nArticolo 23\nÒgni personn-a a gh’à drito a travagiâ, a çerne con libertæ o seu inpiego, a gödî de de condiçioin de\ntravaggio giuste e sodifaxenti e a-a proteçion contra a dizòcupaçion.\nÒgni personn-a, sensa discriminaçioin, a gh’à drito a egoale retribuçion pe egoale travaggio.\nÒgni personn-a ch’a travaggia a gh’à drito a-a retribuçion giusta e sodisfaxente ch’a ghe pòsse aseguâ a lê e\na-a seu famiggia l’existensa conforme a-a dignitæ umann-a, a quæ a saiâ conplementâ, in caxo necesaio, da\natri mezzi de proteçion sociale.\nÒgni personn-a a gh’à o drito de fondâ di scindacati e d’aderighe pe-a difeiza di pròppi interesci.\nArticolo 24\nTutte e personn-e gh’an drito a-o ripözo e a-a demoa, o quæ o l’includde a limitaçion raxonevole de oe de\ntravaggio e e ferie periòdiche pagæ.\nArticolo 25",
-            "Image": "1231f061fa344b6135c0f30d73be663b"
+            "Text": "Ògni personn-a a gh’à drito d’acesso, in condiçioin d’egoaliansa, a-e fonçioin publiche do seu Paize.\nA voentæ do pòpolo a l’é a baze de l’outoritæ do poei publico; questa voentæ a saiâ espressa inte de eleçioin\noutentiche che s’avian da tegnî in mòddo periòdico, pe voto universale e egoale, ch’o saiâ anche segretto ò\nsegondo de procedue pe garantî a libertæ do voto.\nArticolo 22\nÒgni individoo, comme menbro da socjêtæ, o gh’à drito a-a seguessa sociale e, atraverso o sfòrso naçionale e\na cooperaçion internaçionale, e in relaçion con l’òrganizaçion e e risorse d’ògni Stato, a-a realizaçion di driti\neconòmichi, sociali e colturali indispensabili pe-a seu dignitæ e pe-o libero sviluppo da seu personalitæ.\nArticolo 23\nÒgni personn-a a gh’à drito a travagiâ, a çerne con libertæ o seu inpiego, a gödî de de condiçioin de\ntravaggio giuste e sodifaxenti e a-a proteçion contra a dizòcupaçion.\nÒgni personn-a, sensa discriminaçioin, a gh’à drito a egoale retribuçion pe egoale travaggio.\nÒgni personn-a ch’a travaggia a gh’à drito a-a retribuçion giusta e sodisfaxente ch’a ghe pòsse aseguâ a lê e\na-a seu famiggia l’existensa conforme a-a dignitæ umann-a, a quæ a saiâ conplementâ, in caxo necesaio, da\natri mezzi de proteçion sociale.\nÒgni personn-a a gh’à o drito de fondâ di scindacati e d’aderighe pe-a difeiza di pròppi interesci.\nArticolo 24\nTutte e personn-e gh’an drito a-o ripözo e a-a demoa, o quæ o l’includde a limitaçion raxonevole de oe de\ntravaggio e e ferie periòdiche pagæ.\nArticolo 25"
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "e42c1e683b17b9d3749413555378959b",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Ògnidun o gh’à drito a ’n livello de vitta adegoòu ch’o pòsse aseguaghe, a lê mæximo e a-a seu famiggia, a\nsanitæ e o ben, e sorvetutto l’alimentaçion, o vestî, l’abitaçion, l’ascistensa medica e i serviççi sociali\nnecesai; a-o mæximo mòddo, o gh’à drito a-e aseguaçioin in caxo de dizinpiego, moutia, invaliditæ,\nvidoansa, vegiaia e atri caxi de perdia di mezzi de sostentaçion pe de circostanse indipendenti da-a seu\nvoentæ.\nA maternitæ e l’infansa gh’an drito a-a cua e a l’ascistensa speciale. Tutti i figeu, segge nasciui into maiezzo\nche feua de lê, gh’an i mæximi driti a-a proteçion sociale.\nArticolo 26\nÒgni personn-a a gh’à drito a l’educaçion. L’educaçion a gh’à da ese gratoia, a-o meno quante rigoarda\nl’istruçion fondamentale e de baze. Questa a saiâ d’òbligo. S’aviâ da generalizâ a disponibilitæ d’istruçion\ntecnica e profescionale; e l’acesso a-i studdi de graddo superiô o saiâ pægio pe tutti in baze a-o merito.\nL’educaçion a gh’aviâ comme meta o sviluppo pin da personalitæ umann-a e o rinforsamento do rispetto\nverso i driti de personn-e e e libertæ fondamentali; a favoriâ a conprenscion, a toleransa e l’amiciçia fra tutte\ne naçioin, e razze e e religioin, e a promoviâ o sviluppo de ativitæ de Naçioin Unie pe-o mantegnimento da\npaxe.\nI poæ e e moæ gh’avian o drito preferente de çerne o tipo d’educaçion che s’aviâ da dâ a-i seu figgi.\nArticolo 27\nTutte e personn-e gh’an drito a parteçipâ con libertæ inta vitta colturale da comunitæ, a gödî de arte e a\nparteçipâ into progresso scentifico e inti seu benefiççi.\nÒgnidun o gh’à drito a-a proteçion di interesci morali e materiali che corispondan a-e produçioin scentifiche,\nleteraie ò artistiche de quæ o foise l’outô.",
-            "Image": "e42c1e683b17b9d3749413555378959b"
+            "Text": "Ògnidun o gh’à drito a ’n livello de vitta adegoòu ch’o pòsse aseguaghe, a lê mæximo e a-a seu famiggia, a\nsanitæ e o ben, e sorvetutto l’alimentaçion, o vestî, l’abitaçion, l’ascistensa medica e i serviççi sociali\nnecesai; a-o mæximo mòddo, o gh’à drito a-e aseguaçioin in caxo de dizinpiego, moutia, invaliditæ,\nvidoansa, vegiaia e atri caxi de perdia di mezzi de sostentaçion pe de circostanse indipendenti da-a seu\nvoentæ.\nA maternitæ e l’infansa gh’an drito a-a cua e a l’ascistensa speciale. Tutti i figeu, segge nasciui into maiezzo\nche feua de lê, gh’an i mæximi driti a-a proteçion sociale.\nArticolo 26\nÒgni personn-a a gh’à drito a l’educaçion. L’educaçion a gh’à da ese gratoia, a-o meno quante rigoarda\nl’istruçion fondamentale e de baze. Questa a saiâ d’òbligo. S’aviâ da generalizâ a disponibilitæ d’istruçion\ntecnica e profescionale; e l’acesso a-i studdi de graddo superiô o saiâ pægio pe tutti in baze a-o merito.\nL’educaçion a gh’aviâ comme meta o sviluppo pin da personalitæ umann-a e o rinforsamento do rispetto\nverso i driti de personn-e e e libertæ fondamentali; a favoriâ a conprenscion, a toleransa e l’amiciçia fra tutte\ne naçioin, e razze e e religioin, e a promoviâ o sviluppo de ativitæ de Naçioin Unie pe-o mantegnimento da\npaxe.\nI poæ e e moæ gh’avian o drito preferente de çerne o tipo d’educaçion che s’aviâ da dâ a-i seu figgi.\nArticolo 27\nTutte e personn-e gh’an drito a parteçipâ con libertæ inta vitta colturale da comunitæ, a gödî de arte e a\nparteçipâ into progresso scentifico e inti seu benefiççi.\nÒgnidun o gh’à drito a-a proteçion di interesci morali e materiali che corispondan a-e produçioin scentifiche,\nleteraie ò artistiche de quæ o foise l’outô."
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "a22ffcc3106b223664dd931b70be227e",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Articolo 28\nÒgni personn-a a gh’à drito a ’n ordine sociale e internaçionale into quæ i driti e e libertæ proclamæ inte\nquesta Diciaraçion vegnan conpletamente efetivi.\nArticolo 29\nÒgnidun o gh’à di dovei verso a comunitæ, perché solo inte lê o peu svilupâ a seu personalitæ conpletamente\ne con libertæ.\nInte l’ezerciçio di seu dovei e libertæ, tutti saian sotomissi unicamente a-e limitaçioin stabilie da-a lezze co-o\nsolo propòxito d’aseguâ o riconoscimento e o rispetto di driti e e libertæ di atri, e de conpî co-e giuste\nezigense da morale, de l’ordine publico e do ben generale inte ’na socjêtæ democratica.\nQuesti driti e libertæ no peuan ese ezercitæ, inte nisciun caxo, in òpoxiçion a-i propòxiti e prinçippi de\nNaçioin Unie.\nArticolo 30\nNinte inte questa diciaraçion o poriâ ese interpretòu comme inplicante do drito, pe quæ se segge Stato,\ngruppo ò personn-a, a ezercitâ de ativitæ ò a portâ avanti di atti pe-a distruçion di driti ò de libertæ inte lê\nproclamæ.",
-            "Image": "a22ffcc3106b223664dd931b70be227e"
+            "Text": "Articolo 28\nÒgni personn-a a gh’à drito a ’n ordine sociale e internaçionale into quæ i driti e e libertæ proclamæ inte\nquesta Diciaraçion vegnan conpletamente efetivi.\nArticolo 29\nÒgnidun o gh’à di dovei verso a comunitæ, perché solo inte lê o peu svilupâ a seu personalitæ conpletamente\ne con libertæ.\nInte l’ezerciçio di seu dovei e libertæ, tutti saian sotomissi unicamente a-e limitaçioin stabilie da-a lezze co-o\nsolo propòxito d’aseguâ o riconoscimento e o rispetto di driti e e libertæ di atri, e de conpî co-e giuste\nezigense da morale, de l’ordine publico e do ben generale inte ’na socjêtæ democratica.\nQuesti driti e libertæ no peuan ese ezercitæ, inte nisciun caxo, in òpoxiçion a-i propòxiti e prinçippi de\nNaçioin Unie.\nArticolo 30\nNinte inte questa diciaraçion o poriâ ese interpretòu comme inplicante do drito, pe quæ se segge Stato,\ngruppo ò personn-a, a ezercitâ de ativitæ ò a portâ avanti di atti pe-a distruçion di driti ò de libertæ inte lê\nproclamæ."
         }
     }
 }

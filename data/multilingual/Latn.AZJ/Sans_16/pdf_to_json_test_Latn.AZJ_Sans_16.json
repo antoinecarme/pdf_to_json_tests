@@ -1,141 +1,141 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581466905,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "2e265e6be3cdd36dea6100ec6723b0ec",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "İNSAN HÜQUQLARI HAQQINDA ÜMUMİ BƏYANNAMƏ\nPREAMBULA\nBəşər ailəsinin bütün üzvlərinə xas olan ləyaqət hissinin və onların bərabər və ayrılmaz hüquqlarının\ntanınmasının azadlıq, ədalət və ümumi sülhün əsası olduğunu nəzərə alaraq,\ninsan hüquqlarına etinasızlıq və nifrətin bəşəriyyəti dəhşətə gətirən barbarizm hərəkətlərinə səbəb\nolduğunu və insanların söz və etiqad azadlığına malik, qorxu və ehtiyacdan azad olduqları dünyanın\nyaradılmasının bəşəriyyətin ən ali istəyi olduğunu nəzərə alaraq,\ninsanın son vasitə kimi istibdad və zülmə qarşı qiyama qalxmağa məcbur olmamasını təmin etmək üçün\ninsan hüquqlarının qanunun hakimiyyəti ilə müdafiə olunmasının zəruriliyini nəzərə alaraq,\nxalqlar arasında mehriban münasibətlərin inkişafını dəstəkləməyin vacibliyini nəzərə alaraq,\nBirləşmiş Millətlərin xalqlarının BMT Nizamnaməsində əsas insan hüquqlarına, insan şəxsiyyətinin\nləyaqət və dəyərinə, kişi və qadınların hüquq bərabərliyinə inamlarını təsdiq etdiklərini və daha geniş\nazadlıq şəraitində sosial tərəqqi və həyat şəraitinin yaxşılaşdırılmasına yardım etməyi qət etdiklərini\nnəzərə alaraq,\nüzv dövlətlərin BMT ilə əməkdaşlıq şəraitində insan hüquqlarına və əsas azadlıqlara ümumi hörmət və\nonlara əməl olunmasına yardım etməyi öhdələrinə götürdüklərini nəzərə alaraq,\nbu hüquq və azadlıqların xarakterinin tam şəkildə dərk olunmasının həmin öhdəliyin hərtərəfli yerinə\nyetirilməsi üçün böyük əhəmiyyət kəsb etdiyini nəzərə alaraq,\nBMT Baş Assambleyası\nİnsan hüquqları Haqqında Ümumi Bəyannaməni, hər bir kəsin və cəmiyyətin hər bir orqanının bu",
-            "Image": "2e265e6be3cdd36dea6100ec6723b0ec"
+            "Text": "İNSAN HÜQUQLARI HAQQINDA ÜMUMİ BƏYANNAMƏ\nPREAMBULA\nBəşər ailəsinin bütün üzvlərinə xas olan ləyaqət hissinin və onların bərabər və ayrılmaz hüquqlarının\ntanınmasının azadlıq, ədalət və ümumi sülhün əsası olduğunu nəzərə alaraq,\ninsan hüquqlarına etinasızlıq və nifrətin bəşəriyyəti dəhşətə gətirən barbarizm hərəkətlərinə səbəb\nolduğunu və insanların söz və etiqad azadlığına malik, qorxu və ehtiyacdan azad olduqları dünyanın\nyaradılmasının bəşəriyyətin ən ali istəyi olduğunu nəzərə alaraq,\ninsanın son vasitə kimi istibdad və zülmə qarşı qiyama qalxmağa məcbur olmamasını təmin etmək üçün\ninsan hüquqlarının qanunun hakimiyyəti ilə müdafiə olunmasının zəruriliyini nəzərə alaraq,\nxalqlar arasında mehriban münasibətlərin inkişafını dəstəkləməyin vacibliyini nəzərə alaraq,\nBirləşmiş Millətlərin xalqlarının BMT Nizamnaməsində əsas insan hüquqlarına, insan şəxsiyyətinin\nləyaqət və dəyərinə, kişi və qadınların hüquq bərabərliyinə inamlarını təsdiq etdiklərini və daha geniş\nazadlıq şəraitində sosial tərəqqi və həyat şəraitinin yaxşılaşdırılmasına yardım etməyi qət etdiklərini\nnəzərə alaraq,\nüzv dövlətlərin BMT ilə əməkdaşlıq şəraitində insan hüquqlarına və əsas azadlıqlara ümumi hörmət və\nonlara əməl olunmasına yardım etməyi öhdələrinə götürdüklərini nəzərə alaraq,\nbu hüquq və azadlıqların xarakterinin tam şəkildə dərk olunmasının həmin öhdəliyin hərtərəfli yerinə\nyetirilməsi üçün böyük əhəmiyyət kəsb etdiyini nəzərə alaraq,\nBMT Baş Assambleyası\nİnsan hüquqları Haqqında Ümumi Bəyannaməni, hər bir kəsin və cəmiyyətin hər bir orqanının bu"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "c5a5a75dee4ef1d8c8dd87b2894b22e6",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Bəyannaməni rəhbər tutaraq maarifçilik və tədris yolu ilə həmin hüquq və azadlıqlara hörmət\nolunmasına yardım etməsi və milli və beynəlxalq səviyyədə tərəqqipərvər tədbirlər yolu ilə, həm\ntəşkilatın üzvü olan xalqları, həm də onların yurisdiksiyası altında olan ərazilərin xalqları arasında\nümumilikdə və effektiv tanınması və həyata keçirilməsinə səy göstərmələri məqsədilə bütün xalqlar və\nbütün dövlətlərin yerinə yetirməyə can atmalı olduqları vəzifə kimi bəyan edir.\nMaddə 1\nBütün insanlar ləyaqət və hüquqlarına görə azad və bərabər doğulurlar. Onların şüurları və vicdanları var\nvə bir-birlərinə münasibətdə qardaşlıq ruhunda davranmalıdırlar.\nMaddə 2\nHər bir şəxs irqindən, dərisinin rəngindən, cinsindən, dilindən, dinindən, siyasi və digər əqidəsindən,\nmilli və ya sosial mənşəyindən, əmlak, sosial mövqe və digər vəziyyətindən asılı olmayaraq bu\nBəyannamədə elan olunmuş bütün hüquq və azadlıqlara malik olmalıdır.\nBundan əlavə, həmin şəxsin mənsub olduğu ölkənin və ya ərazinin, həmin ərazinin müstəqil,\nqəyyumluq altında olan, özüidarəolunmayan və ya suverenliyi hər hansı şəkildə məhdudlaşmış\nolmasından asılı olmayaraq, siyası, hüquqi və beynəlxalq statusundan asılı olaraq heç bir ayrı-seçkilik\nqoyulmamalıdır.\nMaddə 3\nHər bir şəxsin yaşamaq, azadlıq və şəxsi toxunulmazlıq hüququ var.\nMaddə 4\nHeç kim kölə və ya asılı vəziyyətdə saxlanıla bilməz; quldarlıq və qul ticarəti bütün formalarda qadağan\nedilir.",
-            "Image": "c5a5a75dee4ef1d8c8dd87b2894b22e6"
+            "Text": "Bəyannaməni rəhbər tutaraq maarifçilik və tədris yolu ilə həmin hüquq və azadlıqlara hörmət\nolunmasına yardım etməsi və milli və beynəlxalq səviyyədə tərəqqipərvər tədbirlər yolu ilə, həm\ntəşkilatın üzvü olan xalqları, həm də onların yurisdiksiyası altında olan ərazilərin xalqları arasında\nümumilikdə və effektiv tanınması və həyata keçirilməsinə səy göstərmələri məqsədilə bütün xalqlar və\nbütün dövlətlərin yerinə yetirməyə can atmalı olduqları vəzifə kimi bəyan edir.\nMaddə 1\nBütün insanlar ləyaqət və hüquqlarına görə azad və bərabər doğulurlar. Onların şüurları və vicdanları var\nvə bir-birlərinə münasibətdə qardaşlıq ruhunda davranmalıdırlar.\nMaddə 2\nHər bir şəxs irqindən, dərisinin rəngindən, cinsindən, dilindən, dinindən, siyasi və digər əqidəsindən,\nmilli və ya sosial mənşəyindən, əmlak, sosial mövqe və digər vəziyyətindən asılı olmayaraq bu\nBəyannamədə elan olunmuş bütün hüquq və azadlıqlara malik olmalıdır.\nBundan əlavə, həmin şəxsin mənsub olduğu ölkənin və ya ərazinin, həmin ərazinin müstəqil,\nqəyyumluq altında olan, özüidarəolunmayan və ya suverenliyi hər hansı şəkildə məhdudlaşmış\nolmasından asılı olmayaraq, siyası, hüquqi və beynəlxalq statusundan asılı olaraq heç bir ayrı-seçkilik\nqoyulmamalıdır.\nMaddə 3\nHər bir şəxsin yaşamaq, azadlıq və şəxsi toxunulmazlıq hüququ var.\nMaddə 4\nHeç kim kölə və ya asılı vəziyyətdə saxlanıla bilməz; quldarlıq və qul ticarəti bütün formalarda qadağan\nedilir."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "83b09fd89a591012bcd088bbaf501d6b",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Maddə 5\nHeç kim işgəncəyə və ya qəddar, qeyri-insani və ya onun ləyaqətini alçaldan münasibətə və cəzaya\nməruz qalmamalıdır.\nMaddə 6\nHər bir şəxs harada olmasından asılı olmayaraq özünün hüquq subyektltiliyinin tanınması hüququna\nmalikdir.\nMaddə 7\nBütün insanlar qanun qarşısında bərabərdirlər və qanun tərəfindən bərabər müdafiə hüququna\nmalikdirlər. Bütün insanlar bu Bəyannaməni pozan hər hansı ayrı-seçkilikdən və belə ayrı-seçkiliyə hər\nhansı cəhddən bərabər müdafiə olunma hüququna malikdirlər.\nMaddə 8\nHər bir şəxs Konstitusiyanın və ya qanunun ona verdiyi hüquqların pozulması zamanı sələahiyyətli milli\nməhkəmələr tərəfindən hüquqlarının bərpa olunması hüququna malikdir.\nMaddə 9\nHeç kim özbaşına həbsə, tutulmaya və ya sürgünə məruz qala bilməz.\nMaddə 10\nHər bir şəxs onun hüquq və vəzifələrinin təyini və ona qarşı irəli sürülmüş cinayət ittihamının\nəsaslılığının müəyyənləşdirilməsi üçün onun işinin müstəqil və bitərəf məhkəmədə, tam bərabərlik\nəsasında, aşkarlıq və ədalətin bütün tələblərinin gözlənilməsi şəraitində baxılması hüququna malikdir.\nMaddə 11",
-            "Image": "83b09fd89a591012bcd088bbaf501d6b"
+            "Text": "Maddə 5\nHeç kim işgəncəyə və ya qəddar, qeyri-insani və ya onun ləyaqətini alçaldan münasibətə və cəzaya\nməruz qalmamalıdır.\nMaddə 6\nHər bir şəxs harada olmasından asılı olmayaraq özünün hüquq subyektltiliyinin tanınması hüququna\nmalikdir.\nMaddə 7\nBütün insanlar qanun qarşısında bərabərdirlər və qanun tərəfindən bərabər müdafiə hüququna\nmalikdirlər. Bütün insanlar bu Bəyannaməni pozan hər hansı ayrı-seçkilikdən və belə ayrı-seçkiliyə hər\nhansı cəhddən bərabər müdafiə olunma hüququna malikdirlər.\nMaddə 8\nHər bir şəxs Konstitusiyanın və ya qanunun ona verdiyi hüquqların pozulması zamanı sələahiyyətli milli\nməhkəmələr tərəfindən hüquqlarının bərpa olunması hüququna malikdir.\nMaddə 9\nHeç kim özbaşına həbsə, tutulmaya və ya sürgünə məruz qala bilməz.\nMaddə 10\nHər bir şəxs onun hüquq və vəzifələrinin təyini və ona qarşı irəli sürülmüş cinayət ittihamının\nəsaslılığının müəyyənləşdirilməsi üçün onun işinin müstəqil və bitərəf məhkəmədə, tam bərabərlik\nəsasında, aşkarlıq və ədalətin bütün tələblərinin gözlənilməsi şəraitində baxılması hüququna malikdir.\nMaddə 11"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "74befb22a52f4148c9771621fbf3abf2",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Cinayət törətməkdə ittiham olunan hər bir şəxs günahı ona müdafiə üçün bütün imkanların təmin\nolunduğu açıq məhkəmə istintaqında qanuni şəkildə sübut olunanadək günahsız hesab edilmək hüquna\nmalikdir.\nHeç bir kəs milli qanunvericilik və ya beynəlxalq hüquqa əsasən törədildiyi zaman cinayət hesab\nedilməyən hərəkət və ya hərəkətsizlik üçün cinayətdə ittiham oluna bilməz. Eyni zamanda cinayətin\ntörədildiyi zaman tətbiq oluna biləcək cəzadan daha ağırı tətbiq oluna bilməz.\nMaddə 12\nHeç kim şəxsi və ailə həyatına müdaxiləyə, evinin toxunulmazlığına, məktublaşmasının gizliliyinə,\nşərəf və nüfuzuna özbaşına qəsdə məruz qala bilməz. Hər bir şəxsin belə müdaxilə və qəsdən qanun\ntərəfindən müdafiə olunmaq hüququ var.\nMaddə 13\nHər bir şəxs hər bir ölkə hüdudunda sərbəst hərəkət etmək və yaşayış yeri seçmək hüququna malikdir.\nHər bir şəxs öz ölkəsi də daxil olmaqla istənilən ölkəni tərk etmək və öz ölkəsinə qayıtmaq hüququna\nmalikdir.\nMaddə 14\nHər bir şəxs digər ölkələrdə təqibdən sığınacaq axtarmaq və bu sığınacaqdan istifadə etmək hüququna\nmalikdir.\nBu hüquq həqiqətən də qeyri-siyasi cinayət və ya Birləşmiş Millətlər Təşkilatının məqsəd və\nprinsiplərinə zidd hərəkət törədilməsinə əsaslanan təqiblər zamanı istifadə oluna bilməz.\nMaddə 15",
-            "Image": "74befb22a52f4148c9771621fbf3abf2"
+            "Text": "Cinayət törətməkdə ittiham olunan hər bir şəxs günahı ona müdafiə üçün bütün imkanların təmin\nolunduğu açıq məhkəmə istintaqında qanuni şəkildə sübut olunanadək günahsız hesab edilmək hüquna\nmalikdir.\nHeç bir kəs milli qanunvericilik və ya beynəlxalq hüquqa əsasən törədildiyi zaman cinayət hesab\nedilməyən hərəkət və ya hərəkətsizlik üçün cinayətdə ittiham oluna bilməz. Eyni zamanda cinayətin\ntörədildiyi zaman tətbiq oluna biləcək cəzadan daha ağırı tətbiq oluna bilməz.\nMaddə 12\nHeç kim şəxsi və ailə həyatına müdaxiləyə, evinin toxunulmazlığına, məktublaşmasının gizliliyinə,\nşərəf və nüfuzuna özbaşına qəsdə məruz qala bilməz. Hər bir şəxsin belə müdaxilə və qəsdən qanun\ntərəfindən müdafiə olunmaq hüququ var.\nMaddə 13\nHər bir şəxs hər bir ölkə hüdudunda sərbəst hərəkət etmək və yaşayış yeri seçmək hüququna malikdir.\nHər bir şəxs öz ölkəsi də daxil olmaqla istənilən ölkəni tərk etmək və öz ölkəsinə qayıtmaq hüququna\nmalikdir.\nMaddə 14\nHər bir şəxs digər ölkələrdə təqibdən sığınacaq axtarmaq və bu sığınacaqdan istifadə etmək hüququna\nmalikdir.\nBu hüquq həqiqətən də qeyri-siyasi cinayət və ya Birləşmiş Millətlər Təşkilatının məqsəd və\nprinsiplərinə zidd hərəkət törədilməsinə əsaslanan təqiblər zamanı istifadə oluna bilməz.\nMaddə 15"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "1d6cead3eb093ffc070eb83e1a48b608",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Hər bir şəxs vətəndaşlıq hüququna malikdir.\nHeç kim özbaşına olaraq vətəndaşlıqdan və vətəndaşlığını dəyişmək hüququndan məhrum edilə\nbilməz.\nMaddə 16\nYetkinlik yaşına çatmış kişilər və qadınlar irqi, milli və dini əlamətlərinə görə heç bir məhdudiyyət\nqoyulmadan nikaha daxil olmaq və ailə qurmaq hüququna malikdirlər. Onlar nikaha daxil olarkən, nikah\nmüddətində və onun pozulması zamanı eyni hüquqlardan istifadə edirlər.\nNikah, nikaha daxil olan hər iki tərəfin azad və tam razılığı olarsa bağlana bilər.\nAilə cəmiyyətin təbii və başlıca qrup vahididir və cəmiyyət və dövlət tərəfindən müdafiə olunma\nhüququna malikdir.\nMaddə 17\nHər bir şəxsin həm təkbaşına, həm də digərləri ilə birlikdə mülkiyyətə sahib olma hüququ var.\nHeç kim özbaşına olaraq mülkiyyətdən məhrum edilə bilməz.\nMaddə 18\nHər bir şəxs düşüncə, vicdan və din azadlığı hüququna malikdir; bu hüquqa öz dinini və etiqadını\ndəyişmək azadlığı və öz dininə və inanclarına təhsil, dua və dini və ritual ayinlər zamanı təklikdə və ya\nbaşqaları ilə birlikdə, aşkar və ya fərdi şəkildə etiqad etmək azadlığı daxildir.\nMaddə 19\nHər bir şəxs əqidə və onu sərbəst ifadə etmək azadlığı hüququna malikdir; bu hüquqa maneəsiz olaraq\nəqidəyə malik olmaq və informasiya və ideyaları dövlət sərhədlərindən asılı olmayaraq istənilən",
-            "Image": "1d6cead3eb093ffc070eb83e1a48b608"
+            "Text": "Hər bir şəxs vətəndaşlıq hüququna malikdir.\nHeç kim özbaşına olaraq vətəndaşlıqdan və vətəndaşlığını dəyişmək hüququndan məhrum edilə\nbilməz.\nMaddə 16\nYetkinlik yaşına çatmış kişilər və qadınlar irqi, milli və dini əlamətlərinə görə heç bir məhdudiyyət\nqoyulmadan nikaha daxil olmaq və ailə qurmaq hüququna malikdirlər. Onlar nikaha daxil olarkən, nikah\nmüddətində və onun pozulması zamanı eyni hüquqlardan istifadə edirlər.\nNikah, nikaha daxil olan hər iki tərəfin azad və tam razılığı olarsa bağlana bilər.\nAilə cəmiyyətin təbii və başlıca qrup vahididir və cəmiyyət və dövlət tərəfindən müdafiə olunma\nhüququna malikdir.\nMaddə 17\nHər bir şəxsin həm təkbaşına, həm də digərləri ilə birlikdə mülkiyyətə sahib olma hüququ var.\nHeç kim özbaşına olaraq mülkiyyətdən məhrum edilə bilməz.\nMaddə 18\nHər bir şəxs düşüncə, vicdan və din azadlığı hüququna malikdir; bu hüquqa öz dinini və etiqadını\ndəyişmək azadlığı və öz dininə və inanclarına təhsil, dua və dini və ritual ayinlər zamanı təklikdə və ya\nbaşqaları ilə birlikdə, aşkar və ya fərdi şəkildə etiqad etmək azadlığı daxildir.\nMaddə 19\nHər bir şəxs əqidə və onu sərbəst ifadə etmək azadlığı hüququna malikdir; bu hüquqa maneəsiz olaraq\nəqidəyə malik olmaq və informasiya və ideyaları dövlət sərhədlərindən asılı olmayaraq istənilən"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "bad972dd017ea5d8d273589f04360d69",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "vasitələrlə axtarmaq, əldə etmək və yaymaq azadlığı daxildir.\nMaddə 20\nHər bir şəxs dinc yığıncaqlar və assosiasiyalar azadlığı hüququna malikdir.\nHeç bir şəxs hər hansı bir assosiasiyaya qoşulmağa məcbur edilə bilməz.\nMaddə 21\nHər bir şəxs dövlətin idarə olunmasında bilavasitə və ya azad şəkildə seçilmiş nümayəndələr vasitəsilə\niştirak etmək hüququna malikdir.\nHər bir şəxs öz ölkəsində dövlət xidmətində qulluq etmək üçün bərabər imkana malik olmaq hüququna\nmalikdir.\nXalqın iradəsi iqtidar hakimiyyətinin əsası olmalıdır; bu iradə öz ifadəsini gizli səsvermə yolu ilə, ümumi\nvə bərabər seçki hüququ və ya səsvermənin azadlığını təmin edən digər eynimənalı formalar əsasında\nkeçirilən mütamadi və saxtalaşdırılmamış seçkilərdə tapmalıdır.\nMaddə 22\nHər bir şəxs cəmiyyətin üzvü kimi sosial müdafiə hüququna və milli səylər və beynəlxalq əməkdaşlıq\nyolu ilə və hər bir dövlətin strukturu və resurslarına uyğun olaraq onun ləyaqətinin müdafiəsi və\nşəxsiyyətinin azad inkişafı üçün iqtisadi, sosial və mədəni sahələrdə hüquqlara malikdir.\nMaddə 23\nHər bir şəxsin əmək, sərbəst iş yeri seçmək, ədalətli və yaxşı iş şəraiti və işsizlikdən müdafiə hüququ\nvar.\nHər bir şəxs heç bir ayrı-seçkilik olmadan eyni iş üçün eyni əmək haqqı almaq hüququna malikdir.",
-            "Image": "bad972dd017ea5d8d273589f04360d69"
+            "Text": "vasitələrlə axtarmaq, əldə etmək və yaymaq azadlığı daxildir.\nMaddə 20\nHər bir şəxs dinc yığıncaqlar və assosiasiyalar azadlığı hüququna malikdir.\nHeç bir şəxs hər hansı bir assosiasiyaya qoşulmağa məcbur edilə bilməz.\nMaddə 21\nHər bir şəxs dövlətin idarə olunmasında bilavasitə və ya azad şəkildə seçilmiş nümayəndələr vasitəsilə\niştirak etmək hüququna malikdir.\nHər bir şəxs öz ölkəsində dövlət xidmətində qulluq etmək üçün bərabər imkana malik olmaq hüququna\nmalikdir.\nXalqın iradəsi iqtidar hakimiyyətinin əsası olmalıdır; bu iradə öz ifadəsini gizli səsvermə yolu ilə, ümumi\nvə bərabər seçki hüququ və ya səsvermənin azadlığını təmin edən digər eynimənalı formalar əsasında\nkeçirilən mütamadi və saxtalaşdırılmamış seçkilərdə tapmalıdır.\nMaddə 22\nHər bir şəxs cəmiyyətin üzvü kimi sosial müdafiə hüququna və milli səylər və beynəlxalq əməkdaşlıq\nyolu ilə və hər bir dövlətin strukturu və resurslarına uyğun olaraq onun ləyaqətinin müdafiəsi və\nşəxsiyyətinin azad inkişafı üçün iqtisadi, sosial və mədəni sahələrdə hüquqlara malikdir.\nMaddə 23\nHər bir şəxsin əmək, sərbəst iş yeri seçmək, ədalətli və yaxşı iş şəraiti və işsizlikdən müdafiə hüququ\nvar.\nHər bir şəxs heç bir ayrı-seçkilik olmadan eyni iş üçün eyni əmək haqqı almaq hüququna malikdir."
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "c2f39cad7cb7d5298aa0a7c19c6bd740",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Hər bir işləyən şəxs, əməyinin lazım gələrsə digər sosial müdafiə vasitələrilə tamamlanan, onun\nözünün və ailəsinin layiqli dolanışığını təmin edə bilən ədalətli və qənaətbəxş ödənilməsi hüququna\nmalikdir.\nHər bir şəxsin həmkarlar ittifaqı yaratmaq və öz sosial maraqlarını müdafiə etmək üçün həmkarlar\nittifaqlarına daxil olmaq hüququ var.\nMaddə 24\nHər bir şəxsin istirahət və asudə vaxt, o cümlədən iş gününün ağlabatan hüdudu və ödənilən mütamadi\nməzuniyyət hüququ var.\nMaddə 25\nHər bir şəxs onun özünün və ailəsinin səhhət və rifahını təmin etmək üçün lazım olan, qida, geyim, tibbi\nxidmət və lazımi sosial təminat da daxil olmaqla həyat səviyyəsi hüququna və işsizlik, xəstəlik, əlillik,\ndul qalma, qocalıq və ondan asılı olmayan səbəblər üzündən yaşayış vasitələrinin itirilməsi zamanı\ntəminat hüququna malikdir.\nAnalıq və uşaqlıq xüsusi qayğı və yardım almaq hüququna malikdirlər. Həm nikah nəticəsində həm də\nnikahdan kənar doğulmuş uşaqlar eyni sosial müdafiədən istifadə etməlidirlər.\nMaddə 26\nHər bir şəxsin təhsil hüququ var. Ən azı ibtidai və ümumi təhsil pulsuz olmalıdır. İbtidai təhsil icbari\nolmalıdır. Hər kəs texniki və peşə təhsili almaq imkanına malik olmalıdır, ali təhsil də hər kəsin\nqabiliyyəti əsasında hamıya eyni dərəcədə müyəssər olmalıdır.\nTəhsil insan şəxsiyyətinin tam inkişafına və insan hüquqları və əsas azadlıqlara hörmətin artırılmasına\nyönəldilməlidir. Təhsil xalqlar, irqi və dini qruplar arasında qarşılıqlı anlaşmanın, dözümlülüyün və",
-            "Image": "c2f39cad7cb7d5298aa0a7c19c6bd740"
+            "Text": "Hər bir işləyən şəxs, əməyinin lazım gələrsə digər sosial müdafiə vasitələrilə tamamlanan, onun\nözünün və ailəsinin layiqli dolanışığını təmin edə bilən ədalətli və qənaətbəxş ödənilməsi hüququna\nmalikdir.\nHər bir şəxsin həmkarlar ittifaqı yaratmaq və öz sosial maraqlarını müdafiə etmək üçün həmkarlar\nittifaqlarına daxil olmaq hüququ var.\nMaddə 24\nHər bir şəxsin istirahət və asudə vaxt, o cümlədən iş gününün ağlabatan hüdudu və ödənilən mütamadi\nməzuniyyət hüququ var.\nMaddə 25\nHər bir şəxs onun özünün və ailəsinin səhhət və rifahını təmin etmək üçün lazım olan, qida, geyim, tibbi\nxidmət və lazımi sosial təminat da daxil olmaqla həyat səviyyəsi hüququna və işsizlik, xəstəlik, əlillik,\ndul qalma, qocalıq və ondan asılı olmayan səbəblər üzündən yaşayış vasitələrinin itirilməsi zamanı\ntəminat hüququna malikdir.\nAnalıq və uşaqlıq xüsusi qayğı və yardım almaq hüququna malikdirlər. Həm nikah nəticəsində həm də\nnikahdan kənar doğulmuş uşaqlar eyni sosial müdafiədən istifadə etməlidirlər.\nMaddə 26\nHər bir şəxsin təhsil hüququ var. Ən azı ibtidai və ümumi təhsil pulsuz olmalıdır. İbtidai təhsil icbari\nolmalıdır. Hər kəs texniki və peşə təhsili almaq imkanına malik olmalıdır, ali təhsil də hər kəsin\nqabiliyyəti əsasında hamıya eyni dərəcədə müyəssər olmalıdır.\nTəhsil insan şəxsiyyətinin tam inkişafına və insan hüquqları və əsas azadlıqlara hörmətin artırılmasına\nyönəldilməlidir. Təhsil xalqlar, irqi və dini qruplar arasında qarşılıqlı anlaşmanın, dözümlülüyün və"
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "b1bf55110c5bb15eaba121c5a1985440",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "dostluğun möhkəmləndirilməsinə və Birləşmiş Millətlərin sülhü qoruma sahəsində fəaliyyətinə yardım\netməlidir.\nValideynlər öz azyaşlı uşaqlarının təhsil növünü seçməkdə üstünlüyə malikdirlər.\nMaddə 27\nHər bir şəxs cəmiyyətin mədəni həyatında sərbəst iştirak etmək, incəsənətdən həzz almaq, elmi\ntərəqqidə iştirak etmək və onun faydasından istifadə etmək hüququna malikdir.\nHər bir şəxs müəllifi olduğu elmi, ədəbi, və incəsənət əsərlərinin nəticəsində meydana çıxan maddi\nvə mənəvi mənafelərinin qorunması hüququna malikdir.\nMaddə 28\nHər bir şəxsin bu Bəyannamədə əks olunmuş hüquq və azadlıqların tam təmin olunduğu sosial və\nbeynəlxalq düzüm hüququ var.\nMaddə 29\nHər bir şəxs yalnız onun azad və tam inkişafı mümkün olduğu cəmiyyət qarşısında vəzifələr daşıyır.\nÖz hüquq və azadlıqlarını həyata keçirərkən hər bir şəxs yalnız elə məhdudiyyətlərə məruz qala bilər\nki, onlar qanun tərəfindən digərlərinin hüquq və azadlıqlarının tanınması və hörmət olunmasının təmin\nedilməsi və demokratik cəmiyyətin əxlaqi, ictimai asayiş və ümumi rifah tələblərini ödəmək məqsədilə\ntəyin edilmiş olsun.\nBu hüquq və azadlıqların həyata keçirilməsi Birləşmiş Millətlər Təşkilatının məqsəd və prinsiplərinə\nzidd olmamalıdır.\nMaddə 30",
-            "Image": "b1bf55110c5bb15eaba121c5a1985440"
+            "Text": "dostluğun möhkəmləndirilməsinə və Birləşmiş Millətlərin sülhü qoruma sahəsində fəaliyyətinə yardım\netməlidir.\nValideynlər öz azyaşlı uşaqlarının təhsil növünü seçməkdə üstünlüyə malikdirlər.\nMaddə 27\nHər bir şəxs cəmiyyətin mədəni həyatında sərbəst iştirak etmək, incəsənətdən həzz almaq, elmi\ntərəqqidə iştirak etmək və onun faydasından istifadə etmək hüququna malikdir.\nHər bir şəxs müəllifi olduğu elmi, ədəbi, və incəsənət əsərlərinin nəticəsində meydana çıxan maddi\nvə mənəvi mənafelərinin qorunması hüququna malikdir.\nMaddə 28\nHər bir şəxsin bu Bəyannamədə əks olunmuş hüquq və azadlıqların tam təmin olunduğu sosial və\nbeynəlxalq düzüm hüququ var.\nMaddə 29\nHər bir şəxs yalnız onun azad və tam inkişafı mümkün olduğu cəmiyyət qarşısında vəzifələr daşıyır.\nÖz hüquq və azadlıqlarını həyata keçirərkən hər bir şəxs yalnız elə məhdudiyyətlərə məruz qala bilər\nki, onlar qanun tərəfindən digərlərinin hüquq və azadlıqlarının tanınması və hörmət olunmasının təmin\nedilməsi və demokratik cəmiyyətin əxlaqi, ictimai asayiş və ümumi rifah tələblərini ödəmək məqsədilə\ntəyin edilmiş olsun.\nBu hüquq və azadlıqların həyata keçirilməsi Birləşmiş Millətlər Təşkilatının məqsəd və prinsiplərinə\nzidd olmamalıdır.\nMaddə 30"
         },
         "8": {
-            "Label": "9",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "3ffbf78777cd59ab76a4a8b42f5f65d2",
             "Index": 8,
+            "Label": "9",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Bu Bəyannamədə heç nə hər hansı dövlətə, şəxslər qrupuna və ayrı-ayrı şəxslərə Bəyannaməndə elan\nolunmuş hüquq və azadlıqların məhvinə yönəlmiş hər hansı fəaliyyətlə məşğul olmaq və ya hər hansı\nhərəkəti törətmək hüququnun verilməsi kimi təfsir oluna bilməz.",
-            "Image": "3ffbf78777cd59ab76a4a8b42f5f65d2"
+            "Text": "Bu Bəyannamədə heç nə hər hansı dövlətə, şəxslər qrupuna və ayrı-ayrı şəxslərə Bəyannaməndə elan\nolunmuş hüquq və azadlıqların məhvinə yönəlmiş hər hansı fəaliyyətlə məşğul olmaq və ya hər hansı\nhərəkəti törətmək hüququnun verilməsi kimi təfsir oluna bilməz."
         }
     }
 }

@@ -1,168 +1,168 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581467107,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "3fe09b32f228a369ce7aa27bd74bc150",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Muhdú pámeere páné iiñújɨri ijcyáné mɨ́ amúnaa meíjcyáiyóne\nTujkénúeju\nƗ́ hyaamtɨ́ pañétú caatúváné páné iñújɨ́Ȉ n ́ e múnáadítyúu tsaate tsatsíhvú idyóbéévéne muhdú mɨ́ amúnaa\nmeijcyáiyóné pityácójcatsíñe.\nDitsiééberédípye 10-ri 1948 íjcyáné pijcyábari tsaate páné iñújɨ́Ȉ́ né túkevéjtsojtédítyú píhcyaavé\nipítyácójcatsí muhdú mɨ́ amúnaa meíjcyáiyóne. Á;áné dobéévé \"Naciones Unidas\" néémeé. Aaméhjáa téijyu\ncaatúnú 30-neva mɨ́ amúnaa maávyejúúlléíyonéhjɨ. Aanéhjáa imí ɨɨ́ jtsúcunúnéllii nééme ténehjɨ páné iñújɨ́Ȉ n ́ e\nmúnáake iúúbállémeíki. Téhduréhjáa nééme ténehjɨ cáátúnúmeíháámɨ́ pahúllevávú pámehdívúré itsújááve\ntéhaamɨ ditye patsɨ́ hjɨvávúré iééveki.\nÁ;áné boonétúhjáa iñe méiiñújɨ́ túkevéjtsojte téhdure ipíhcyáávéne néé páneere 30-neváa cáátúnúmeíñé\nmuhdú néhdu meíjcyáiyóné méiiñújɨ́ ri.\nAane ténehjɨ méwáábyuta ijcyáhi. Á;nehjɨ múu ímíñeúvú iwáájácúne tehdu ijcyáhi. Aane tsá múu íhdyivúré\npícyootúne. Múu íñahbémudívú pajtyétsó ténehjɨ ditye iwáájácúne tehdu iíjcyaki.\nPityájcoju ɨ́ hdénúmeíñe\nMuurá pámeere tsáápiitsa méboohówama meíjcyane mewáájácúmeícyá botsíi máájɨ́ yúinɨ́ɨ yá muhdú imí\nmeíjcyáiyóne. Á;ánéllii tsá tsaate tsíjtyé hójtsɨ́ pañe meɨ́ cyáítyuró ɨ́ cubáhrádu. Tsá tsaate tsíjtyedi\nmeɨ́ cúbáhráítyuróne. Ɨ́ llure mépɨ́ áábójcatsíiyá pámeemáyé imí meíjcya tútávátsójcatsítyúme.\nÁ;rone teene méboohówá íjcyaróné mewáájácútúné nɨ́ jcaúvú muurá tsaate muhdú imí meíjcyáiyódú\níjcyatúmé illure tsaatédí ɨcúbáhrahíjcyáhi. Aane ehdu ditye méénune pámeere mɨ́ amúnáadivuro ímityúne.\nMuurá pámeere ííñujɨri íjcyáné mɨ́ amúnaa méijyácunúrá tsaímíyé meíjcyáíyóneri. Tsá múha méhdivu\ntúútaválléítyuró meíhjyuvánee, ɨɨná mecáhcujtsónee, íjcyane. Aame tsá ɨ́Ȉ́ neri meíllityéítyuróne. Tsá pɨhtójú",
-            "Image": "3fe09b32f228a369ce7aa27bd74bc150"
+            "Text": "Muhdú pámeere páné iiñújɨri ijcyáné mɨ́ amúnaa meíjcyáiyóne\nTujkénúeju\nƗ́ hyaamtɨ́ pañétú caatúváné páné iñújɨ́Ȉ n ́ e múnáadítyúu tsaate tsatsíhvú idyóbéévéne muhdú mɨ́ amúnaa\nmeijcyáiyóné pityácójcatsíñe.\nDitsiééberédípye 10-ri 1948 íjcyáné pijcyábari tsaate páné iñújɨ́Ȉ́ né túkevéjtsojtédítyú píhcyaavé\nipítyácójcatsí muhdú mɨ́ amúnaa meíjcyáiyóne. Á;áné dobéévé \"Naciones Unidas\" néémeé. Aaméhjáa téijyu\ncaatúnú 30-neva mɨ́ amúnaa maávyejúúlléíyonéhjɨ. Aanéhjáa imí ɨɨ́ jtsúcunúnéllii nééme ténehjɨ páné iñújɨ́Ȉ n ́ e\nmúnáake iúúbállémeíki. Téhduréhjáa nééme ténehjɨ cáátúnúmeíháámɨ́ pahúllevávú pámehdívúré itsújááve\ntéhaamɨ ditye patsɨ́ hjɨvávúré iééveki.\nÁ;áné boonétúhjáa iñe méiiñújɨ́ túkevéjtsojte téhdure ipíhcyáávéne néé páneere 30-neváa cáátúnúmeíñé\nmuhdú néhdu meíjcyáiyóné méiiñújɨ́ ri.\nAane ténehjɨ méwáábyuta ijcyáhi. Á;nehjɨ múu ímíñeúvú iwáájácúne tehdu ijcyáhi. Aane tsá múu íhdyivúré\npícyootúne. Múu íñahbémudívú pajtyétsó ténehjɨ ditye iwáájácúne tehdu iíjcyaki.\nPityájcoju ɨ́ hdénúmeíñe\nMuurá pámeere tsáápiitsa méboohówama meíjcyane mewáájácúmeícyá botsíi máájɨ́ yúinɨ́ɨ yá muhdú imí\nmeíjcyáiyóne. Á;ánéllii tsá tsaate tsíjtyé hójtsɨ́ pañe meɨ́ cyáítyuró ɨ́ cubáhrádu. Tsá tsaate tsíjtyedi\nmeɨ́ cúbáhráítyuróne. Ɨ́ llure mépɨ́ áábójcatsíiyá pámeemáyé imí meíjcya tútávátsójcatsítyúme.\nÁ;rone teene méboohówá íjcyaróné mewáájácútúné nɨ́ jcaúvú muurá tsaate muhdú imí meíjcyáiyódú\níjcyatúmé illure tsaatédí ɨcúbáhrahíjcyáhi. Aane ehdu ditye méénune pámeere mɨ́ amúnáadivuro ímityúne.\nMuurá pámeere ííñujɨri íjcyáné mɨ́ amúnaa méijyácunúrá tsaímíyé meíjcyáíyóneri. Tsá múha méhdivu\ntúútaválléítyuró meíhjyuvánee, ɨɨná mecáhcujtsónee, íjcyane. Aame tsá ɨ́Ȉ́ neri meíllityéítyuróne. Tsá pɨhtójú"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "15c2e14ce576c75dfb68a003324b2b77",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "pañe meíjcyáityuróne. Ehdu meíjcyane pámeere mɨ́ amúnaa imí méɨjtsúcunúhi.\nEhdu ímityúné medárɨ́Ȉ́ véjcatsííyóné ɨhdétú íjcyáiyóné mééma túkevéjtsojúúne. Muurá tsaate ímityúné meke\nméénúhajchíí téénej tééveri tsaímíyé méímíbáchójcatsíhi. Muurá tene ijcyátuca tsáijyu máavyéjujte\níjcyárómema mémúnáátsójcatsíiyáhi.\nAane mewáájácucáró téénej tééveri pahúllevá iñújɨ́Ȉ n ́ e múnáama imí meíjcyáiyáhi. Tsá tsaatéké\nmenéhnílléítyuróne. Muurá pámeere mɨ́ amúnaa ííñújɨri meíjcyame méimíllé tsahdúré imí meíjcyáiyóne.\nMuuráhjáa 'Páné Iñújɨ́Ȉ́ ne Múnáá Pihcyááve' némeiñé pañe tsúúca ɨ́ tsaavémé muhdú pámeere mɨ́ amúnaa\nwajpíimumáyé walléémú meíjcyame tsahdúré maávyejúúlléjcatsíiyóne. Aame mépɨ́ áábójcatsíiyá\npanéjcuvávú tsahdúré pámeere imí meíjcyaki. Á;áné pityájcoju iñe muhdú mɨ́ amúnáake mepɨ́ áábóíyóné\ntsúúca mééma íjcyáneri méwaajácutsó páhduube cómíñe múnáajpi méboohówama meíjcyane ditye\niávyejúúlléne icyáhcújtso imí iíjcyaki.\nMuuráhjáa 'Páné Iñújɨ́Ȉ́ ne Múnáá Pihcyááve' némeiñé pañe íjcyame néé páhduube cómíñe múnáajpi\nméboohówama, méɨjtsútuma, meíjcyame maávyejúúlléjcatsímyé múhójtsɨ́ pañé meíjcyátuki. Aamée\npítyácójcatsí muhdú mɨ́ amúnáake ɨpɨ́ ááboíñé imí ditye iíjcyaki.\nAane ɨ́ m ɨááné tehdújuco pámeere wáájácúiyóné muhdú túkevéjtsoju néhdu meíjcyame\nmaávyejúúlléjcatsíiyóne.\nAhdícyane 'Páné Iñújɨ́Ȉ́ ne Múnáá Pihcyááve' némeiñé pañe íjcyame néé ténehjɨ néhdu páhduube ííñújɨri\níjcyáné mɨ́ amúnáajpi méíjcyáiyóné méwáábyuta tene íjcyánélliíhye. Á;áneri meljyacunúiyá muhdú tene\nnéhdu meíjcyáíyóneri. Á;hdure tsíjtyeke méúwáábóiyá méiiñújɨ múnaa íjcyátúróméhjɨmájuco ditye tehdu\niíjcyaki. Ehdu imí méíjcyáiyá tsúúca teene mewáájacúmé teenéi wáájácutúmé pamévamáye.\nÁ;áné túkevéjtsojúúné íllu nééhií:",
-            "Image": "15c2e14ce576c75dfb68a003324b2b77"
+            "Text": "pañe meíjcyáityuróne. Ehdu meíjcyane pámeere mɨ́ amúnaa imí méɨjtsúcunúhi.\nEhdu ímityúné medárɨ́Ȉ́ véjcatsííyóné ɨhdétú íjcyáiyóné mééma túkevéjtsojúúne. Muurá tsaate ímityúné meke\nméénúhajchíí téénej tééveri tsaímíyé méímíbáchójcatsíhi. Muurá tene ijcyátuca tsáijyu máavyéjujte\níjcyárómema mémúnáátsójcatsíiyáhi.\nAane mewáájácucáró téénej tééveri pahúllevá iñújɨ́Ȉ n ́ e múnáama imí meíjcyáiyáhi. Tsá tsaatéké\nmenéhnílléítyuróne. Muurá pámeere mɨ́ amúnaa ííñújɨri meíjcyame méimíllé tsahdúré imí meíjcyáiyóne.\nMuuráhjáa 'Páné Iñújɨ́Ȉ́ ne Múnáá Pihcyááve' némeiñé pañe tsúúca ɨ́ tsaavémé muhdú pámeere mɨ́ amúnaa\nwajpíimumáyé walléémú meíjcyame tsahdúré maávyejúúlléjcatsíiyóne. Aame mépɨ́ áábójcatsíiyá\npanéjcuvávú tsahdúré pámeere imí meíjcyaki. Á;áné pityájcoju iñe muhdú mɨ́ amúnáake mepɨ́ áábóíyóné\ntsúúca mééma íjcyáneri méwaajácutsó páhduube cómíñe múnáajpi méboohówama meíjcyane ditye\niávyejúúlléne icyáhcújtso imí iíjcyaki.\nMuuráhjáa 'Páné Iñújɨ́Ȉ́ ne Múnáá Pihcyááve' némeiñé pañe íjcyame néé páhduube cómíñe múnáajpi\nméboohówama, méɨjtsútuma, meíjcyame maávyejúúlléjcatsímyé múhójtsɨ́ pañé meíjcyátuki. Aamée\npítyácójcatsí muhdú mɨ́ amúnáake ɨpɨ́ ááboíñé imí ditye iíjcyaki.\nAane ɨ́ m ɨááné tehdújuco pámeere wáájácúiyóné muhdú túkevéjtsoju néhdu meíjcyame\nmaávyejúúlléjcatsíiyóne.\nAhdícyane 'Páné Iñújɨ́Ȉ́ ne Múnáá Pihcyááve' némeiñé pañe íjcyame néé ténehjɨ néhdu páhduube ííñújɨri\níjcyáné mɨ́ amúnáajpi méíjcyáiyóné méwáábyuta tene íjcyánélliíhye. Á;áneri meljyacunúiyá muhdú tene\nnéhdu meíjcyáíyóneri. Á;hdure tsíjtyeke méúwáábóiyá méiiñújɨ múnaa íjcyátúróméhjɨmájuco ditye tehdu\niíjcyaki. Ehdu imí méíjcyáiyá tsúúca teene mewáájacúmé teenéi wáájácutúmé pamévamáye.\nÁ;áné túkevéjtsojúúné íllu nééhií:"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "e68154d8d2fa0c8635d2f17505530088",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "1. Túkevéjtsoju\nPámeere ííñújɨri meíjcyame tsá múhójɨ́ s ɨ́ pañé ɨ́ cubáhrádú meíjcyáítyuróne. Pámeere tsahdúré imí meíjcyame\nmewájyújcatsíñe mépɨ́ áábójcatsíiyá tsaatéké éhdɨ́Ȉ́ válletúmé éhne múu mépañétúéné nahbémuma meíjcyadu.\n2. Túkevéjtsoju\nƗ́ ñe íhyaamɨ́ tú muhdú tene cáátuvádú méíjcyáiyá pamévamáyé memúnaa íjcyátúrómema. Tsahdúré\nmeɨjtsúcunúiyá pamévakéré wajpíímuke, walléémuke, pahdúváré méjpííhañe menéérómeke, pahdúváré\nmeíhjyúvárómeke, muhdú Píívyéébeke cáhcújtsórómeke, tsáijyu múúne tsaate múhdurá túkevéjtsojtédítyú\nɨ́ jtsámeíyómeke, tsííñé iiñújɨ múnaa íjcyárómeke, ɨ́ htsútúmeke, ɨ́ dáátsórómeke, muhdɨ́ɨ́ vátsihjɨ́ vú\ntsɨ́ɨ́ mávámeíyómeke; pámeekéré tsahdúré méɨjtsúcunúiyá tsaatéké éhdɨɨválletúme.\nTéhdure tsá múhdurá meɨjtsúcunúítyuró tsáijyu múúne tsaate túkevéjtsojte múhdurá íiiñújɨ múnáake\ntúkévéjtsórómeke. Tsá ditye ítyaúhbajúúné múhdurá méénúróné pañe íjcyámeke meéhdɨɨválléítyuróne.\nTsáné iiñújɨ múnaa tsaaté hójtsɨ́ pañe múhdurá íjcyárómeke tsá meéhdɨɨválléítyuróne. Tsahdúré\nméɨjtsúcunúiyá iiye túkévéjtsómeíyómema diityéke.\n3. Túkevéjtsoju\nPáhduube imí méíjcyáiyáhi. Á;ámeke tsá múha ɨ́ɨ n ́ erí meke ipátsáríjcyómeke tútávájtsóítyuróne.\n4. Túkevéjtsoju\nTsá tsaate meke íhyójtsɨ́ pañévú pícyoome ɨ́ cubáhrádú meíjcyame diityé ɨɨcúve múnaa meíjcyáítyuróne. Tsá\nmuucá mɨ́ amúnáadívú menáhjɨ́ hénúítyuróne. Eene tsáma ávyeta tsá ímíllémeítyúne.\n5. Túkevéjtsoju\nTsá tsaatédí meɨ́ cúbáhráítyuróne. Tsaatéké meúwáábócooca chooco méúwáábóiyáhi. Tsá meméénúítyuró",
-            "Image": "e68154d8d2fa0c8635d2f17505530088"
+            "Text": "1. Túkevéjtsoju\nPámeere ííñújɨri meíjcyame tsá múhójɨ́ s ɨ́ pañé ɨ́ cubáhrádú meíjcyáítyuróne. Pámeere tsahdúré imí meíjcyame\nmewájyújcatsíñe mépɨ́ áábójcatsíiyá tsaatéké éhdɨ́Ȉ́ válletúmé éhne múu mépañétúéné nahbémuma meíjcyadu.\n2. Túkevéjtsoju\nƗ́ ñe íhyaamɨ́ tú muhdú tene cáátuvádú méíjcyáiyá pamévamáyé memúnaa íjcyátúrómema. Tsahdúré\nmeɨjtsúcunúiyá pamévakéré wajpíímuke, walléémuke, pahdúváré méjpííhañe menéérómeke, pahdúváré\nmeíhjyúvárómeke, muhdú Píívyéébeke cáhcújtsórómeke, tsáijyu múúne tsaate múhdurá túkevéjtsojtédítyú\nɨ́ jtsámeíyómeke, tsííñé iiñújɨ múnaa íjcyárómeke, ɨ́ htsútúmeke, ɨ́ dáátsórómeke, muhdɨ́ɨ́ vátsihjɨ́ vú\ntsɨ́ɨ́ mávámeíyómeke; pámeekéré tsahdúré méɨjtsúcunúiyá tsaatéké éhdɨɨválletúme.\nTéhdure tsá múhdurá meɨjtsúcunúítyuró tsáijyu múúne tsaate túkevéjtsojte múhdurá íiiñújɨ múnáake\ntúkévéjtsórómeke. Tsá ditye ítyaúhbajúúné múhdurá méénúróné pañe íjcyámeke meéhdɨɨválléítyuróne.\nTsáné iiñújɨ múnaa tsaaté hójtsɨ́ pañe múhdurá íjcyárómeke tsá meéhdɨɨválléítyuróne. Tsahdúré\nméɨjtsúcunúiyá iiye túkévéjtsómeíyómema diityéke.\n3. Túkevéjtsoju\nPáhduube imí méíjcyáiyáhi. Á;ámeke tsá múha ɨ́ɨ n ́ erí meke ipátsáríjcyómeke tútávájtsóítyuróne.\n4. Túkevéjtsoju\nTsá tsaate meke íhyójtsɨ́ pañévú pícyoome ɨ́ cubáhrádú meíjcyame diityé ɨɨcúve múnaa meíjcyáítyuróne. Tsá\nmuucá mɨ́ amúnáadívú menáhjɨ́ hénúítyuróne. Eene tsáma ávyeta tsá ímíllémeítyúne.\n5. Túkevéjtsoju\nTsá tsaatédí meɨ́ cúbáhráítyuróne. Tsaatéké meúwáábócooca chooco méúwáábóiyáhi. Tsá meméénúítyuró"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "37b9e322d36763ad906ab7894f24c590",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "iyáábeke múu méénudu.\n6. Túkevéjtsoju\nPáhduube mɨ́ amúnáajpi iñe méiiñújɨri ihdyícyátsii meíjcyarómé téhdure méijcyá teene túkevéjtsojúúné pañe.\nAame mépiivyété tsaatéké menééne méwáábyuta pámé wáábyutáré tene íjcyane meke ɨpɨ́ ááboki.\n7. Túkevéjtsoju\nTsáné ímibájchoju tsaatémá meméénúcooca tsá tsaatékéré mepɨ́ áábóítyuróne. Pámeemáyé tsahdúré\nímibájchoju méénúmeíiyá muhdú ímichi teene taúhbaju néjɨjtóri.\n8. Túkevéjtsoju\nPámeere mɨ́ amúnáama ímítyúnéhjɨ́ ímibájchoobe ímíbájchóiyá tehdɨ́ɨ́ vane diityémá pájtyécooca muhdú\ntaúhbaju néhdu tsaatéké éhdɨɨvállétuubére.\n9. Túkevéjtsoju\nTsá tsaatéké peecútéré meékéévéne mecúvejáánúítyuróne. Téhdure tsá peecútéré tsaatéké méiiñújɨtu\nmeíjchívyétsóítyuróne.\n10. Túkevéjtsoju\nTsaate tsíjtyé hallúvú ímítyúnéhjɨ́ ímibájchóóbeke úúbálléijvu dííbye éllevu péémema ímíñeúvúré\nímíbájchóíyoobe muucá éhdɨɨvállétuubére. Á;rónáa ihdyu tsá dibye tsaatékéré pɨ́ áábóítyuróne. Méénúíyoobe\nmuhdú teene taúhbaju néhdu tsahdúré pámeemáye.\n11. Túkevéjtsoju\nTsaate tsíjtyé hallúvú imityúné úúbállécooca tsá peecútéré menééítyuro ɨ́ m ɨááné tehdújuco tene íjcyane.\nTujkénú páñetu úúbállémeíiyómé muhdú tene íjcyane imíñeúvú mewáájácuki.",
-            "Image": "37b9e322d36763ad906ab7894f24c590"
+            "Text": "iyáábeke múu méénudu.\n6. Túkevéjtsoju\nPáhduube mɨ́ amúnáajpi iñe méiiñújɨri ihdyícyátsii meíjcyarómé téhdure méijcyá teene túkevéjtsojúúné pañe.\nAame mépiivyété tsaatéké menééne méwáábyuta pámé wáábyutáré tene íjcyane meke ɨpɨ́ ááboki.\n7. Túkevéjtsoju\nTsáné ímibájchoju tsaatémá meméénúcooca tsá tsaatékéré mepɨ́ áábóítyuróne. Pámeemáyé tsahdúré\nímibájchoju méénúmeíiyá muhdú ímichi teene taúhbaju néjɨjtóri.\n8. Túkevéjtsoju\nPámeere mɨ́ amúnáama ímítyúnéhjɨ́ ímibájchoobe ímíbájchóiyá tehdɨ́ɨ́ vane diityémá pájtyécooca muhdú\ntaúhbaju néhdu tsaatéké éhdɨɨvállétuubére.\n9. Túkevéjtsoju\nTsá tsaatéké peecútéré meékéévéne mecúvejáánúítyuróne. Téhdure tsá peecútéré tsaatéké méiiñújɨtu\nmeíjchívyétsóítyuróne.\n10. Túkevéjtsoju\nTsaate tsíjtyé hallúvú ímítyúnéhjɨ́ ímibájchóóbeke úúbálléijvu dííbye éllevu péémema ímíñeúvúré\nímíbájchóíyoobe muucá éhdɨɨvállétuubére. Á;rónáa ihdyu tsá dibye tsaatékéré pɨ́ áábóítyuróne. Méénúíyoobe\nmuhdú teene taúhbaju néhdu tsahdúré pámeemáye.\n11. Túkevéjtsoju\nTsaate tsíjtyé hallúvú imityúné úúbállécooca tsá peecútéré menééítyuro ɨ́ m ɨááné tehdújuco tene íjcyane.\nTujkénú páñetu úúbállémeíiyómé muhdú tene íjcyane imíñeúvú mewáájácuki."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "c7ea89003347b001d7bd7f19031480d3",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Muuráhjáa taúhbajúi ímíñeúvú pánéévétúnáa tsaate múhdurá íjcyárómé hallúrí tsá pahdu ɨɨná íjcyatúne.\nÁ;ijyúu ímityúné méénúomeke tsá ícyooca íjcyáné taúhbaju néjɨjtórí meúwáábóítyuróne. Méúwáábóiyá\ntéijyúu íjcyáné taúhbaju néjɨ́ jtóri. Á;rónáa ihdyu ícyooca tsaate ímityúné méénúhajchíí botsíi méúwáábóiyá\nmuhdú ícyooca íjcyáné taúhbaju néjɨ́ ijtóri.\n12. Túkevéjtsoju\nTsá tsaatéké ɨ́ɨ́ nerí mepátsáríjcyóítyuróne; tsá tsaaté já mepátsáríjcyóítyuróne; tsá tsaate tsíjtye éllevu\nwállóóné waajácúhááimɨ́ meéévéítyuróne; tsá tsaatédítyú néhnijyu mewááóítyuróne. Ehdu nénéhɨ́ ɨhdétú\nijcyáné mééma taúhbajúúné pámé wáábyuta meke tene ityéhmeki.\n13. Túkevéjtsoju\nTsáné iiñújɨri meíjcyame mépiivyété mepééiyóné kiávú méimilléhullévu. Aame méíjcyáiyá kiá\nmeímíllétsihyi.\nMuurá paméváré mépiivyété tsííñé iiñújɨvu mepééiyóne. Aame méóómíiyá méiiñújivu meímíllécoóca. Aane\ntsá múha meke tsáhájtsóítyuróne. Muurá mépiivyété mepééne meímílléhajchíí téhulle meíjcyaki.\n14. Túkevéjtsoju\nMuurá méiiñújɨri ɨ́ cúbáhraméí pañe meíjcyáhajchíí mépiivyété mepééiyóné tsííñé iiñújɨvu. Á;áné iiñújɨ\nmúnaa tsaímíyé meke waatsúcúpéjtsóiyá imí diityémá meíjcyaki. Tsá meke ditye cátúhtsópéjtsóítyuróne.\nÁ;rónáa tsáijyu múúne méhdityúré íjcyane ímítyú medárɨ́ɨ́ vémeíhijcyámé ihdyu tsá mepíívyetétú tsííñé\niiñújɨvu mepééiyóne. Awááréjuco íñe muhdú íhyaamɨ́ pañétú tene néhdu meíjcyátúhajchíí muurá tsá\nmepééítyuróne.\n15. Túkevéjtsoju",
-            "Image": "c7ea89003347b001d7bd7f19031480d3"
+            "Text": "Muuráhjáa taúhbajúi ímíñeúvú pánéévétúnáa tsaate múhdurá íjcyárómé hallúrí tsá pahdu ɨɨná íjcyatúne.\nÁ;ijyúu ímityúné méénúomeke tsá ícyooca íjcyáné taúhbaju néjɨjtórí meúwáábóítyuróne. Méúwáábóiyá\ntéijyúu íjcyáné taúhbaju néjɨ́ jtóri. Á;rónáa ihdyu ícyooca tsaate ímityúné méénúhajchíí botsíi méúwáábóiyá\nmuhdú ícyooca íjcyáné taúhbaju néjɨ́ ijtóri.\n12. Túkevéjtsoju\nTsá tsaatéké ɨ́ɨ́ nerí mepátsáríjcyóítyuróne; tsá tsaaté já mepátsáríjcyóítyuróne; tsá tsaate tsíjtye éllevu\nwállóóné waajácúhááimɨ́ meéévéítyuróne; tsá tsaatédítyú néhnijyu mewááóítyuróne. Ehdu nénéhɨ́ ɨhdétú\nijcyáné mééma taúhbajúúné pámé wáábyuta meke tene ityéhmeki.\n13. Túkevéjtsoju\nTsáné iiñújɨri meíjcyame mépiivyété mepééiyóné kiávú méimilléhullévu. Aame méíjcyáiyá kiá\nmeímíllétsihyi.\nMuurá paméváré mépiivyété tsííñé iiñújɨvu mepééiyóne. Aame méóómíiyá méiiñújivu meímíllécoóca. Aane\ntsá múha meke tsáhájtsóítyuróne. Muurá mépiivyété mepééne meímílléhajchíí téhulle meíjcyaki.\n14. Túkevéjtsoju\nMuurá méiiñújɨri ɨ́ cúbáhraméí pañe meíjcyáhajchíí mépiivyété mepééiyóné tsííñé iiñújɨvu. Á;áné iiñújɨ\nmúnaa tsaímíyé meke waatsúcúpéjtsóiyá imí diityémá meíjcyaki. Tsá meke ditye cátúhtsópéjtsóítyuróne.\nÁ;rónáa tsáijyu múúne méhdityúré íjcyane ímítyú medárɨ́ɨ́ vémeíhijcyámé ihdyu tsá mepíívyetétú tsííñé\niiñújɨvu mepééiyóne. Awááréjuco íñe muhdú íhyaamɨ́ pañétú tene néhdu meíjcyátúhajchíí muurá tsá\nmepééítyuróne.\n15. Túkevéjtsoju"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "0713d43136ea7ae7b951f619ceacd346",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Paméváré mɨ́ amúnaa méijcyá tsáné iiñújɨ múnaa. Aane tsá múha meke nééítyuró tsáné iiñújɨ múnaa\nmeíjcyatúne.\nTéhdure tsá múha meke peecútéré wállóóítyuró tsííñé iiñújɨvu. Téhdure idyé tsá múha meke nééjuri tsííñé\niiñújɨ múnáajpíyéjuco meíjcyáítyuróne.\n16. Túkevéjtsoju\nPaméváré mɨ́ amúnaa wajpíímumáyé wallémú piivyété ityáábávájcatsíñé iééve úújetétsihvu iímílléhajchííjyu.\nAame tsúúca tsája múnaa íjcyame piivyété ɨ́ tsɨ́ɨ́ maváne. Á;ánetu tsá múha diityéké tsáhájtsóítyuróne. Tsá\nmuhdú tene néétu muutéhjɨ́ ditye íjcyane, muhdú Píívyéébeke ditye úraavyéne. Muurá pámeere piivyété\ntyáábávájcatsíñe. Aane diitye táábávájcatsímyé avyéjúúlléjcatsíiyá tsahdúre. Téhdure wáágóójcatsíyómé\navyéjúúlléjcatsíiyá tsahdúre.\nÁ;ánetu tsá muucá metáúhbáítyuró ditye ityáábávájcatsíki. Caatyé ityáábávájcatsíñé imillémé páñetu iiye\niímílléhajchíí piivyete ityáábávájcatsíñe.\nMuurá ihdyu páñetu meíjcyájuco teene tsája múnaa meíjcyane. Aame pámeere méijcyá tsahdúré meiinujɨ\ntúkevéjtsojɨ́ é túkevéjtsójú pañe.\n17. Túkevéjtsoju\nMuurá pámeere tsáápiitsa méijcyátsɨ́ hjɨma méijcyáiyá meímílléhajchííjyu. Téhdure tsaaté múnaa iliñújɨma\níjcyáiyá iímílléhajchííjyu. Aane tsá múha tsáhájtsóítyuróne.\nAane tsá peecútéré múhdityú íijcyátsíí múha dójtúcúítyuróne.\n18. Túkevéjtsoju\nPámeere mɨ́ amúnaa mépiivyété muhdú meɨ́ jtsámeídyú meíjcyáiyóne, kéjɨjtórí Píívyéébeke meúráávyéiyóne.",
-            "Image": "0713d43136ea7ae7b951f619ceacd346"
+            "Text": "Paméváré mɨ́ amúnaa méijcyá tsáné iiñújɨ múnaa. Aane tsá múha meke nééítyuró tsáné iiñújɨ múnaa\nmeíjcyatúne.\nTéhdure tsá múha meke peecútéré wállóóítyuró tsííñé iiñújɨvu. Téhdure idyé tsá múha meke nééjuri tsííñé\niiñújɨ múnáajpíyéjuco meíjcyáítyuróne.\n16. Túkevéjtsoju\nPaméváré mɨ́ amúnaa wajpíímumáyé wallémú piivyété ityáábávájcatsíñé iééve úújetétsihvu iímílléhajchííjyu.\nAame tsúúca tsája múnaa íjcyame piivyété ɨ́ tsɨ́ɨ́ maváne. Á;ánetu tsá múha diityéké tsáhájtsóítyuróne. Tsá\nmuhdú tene néétu muutéhjɨ́ ditye íjcyane, muhdú Píívyéébeke ditye úraavyéne. Muurá pámeere piivyété\ntyáábávájcatsíñe. Aane diitye táábávájcatsímyé avyéjúúlléjcatsíiyá tsahdúre. Téhdure wáágóójcatsíyómé\navyéjúúlléjcatsíiyá tsahdúre.\nÁ;ánetu tsá muucá metáúhbáítyuró ditye ityáábávájcatsíki. Caatyé ityáábávájcatsíñé imillémé páñetu iiye\niímílléhajchíí piivyete ityáábávájcatsíñe.\nMuurá ihdyu páñetu meíjcyájuco teene tsája múnaa meíjcyane. Aame pámeere méijcyá tsahdúré meiinujɨ\ntúkevéjtsojɨ́ é túkevéjtsójú pañe.\n17. Túkevéjtsoju\nMuurá pámeere tsáápiitsa méijcyátsɨ́ hjɨma méijcyáiyá meímílléhajchííjyu. Téhdure tsaaté múnaa iliñújɨma\níjcyáiyá iímílléhajchííjyu. Aane tsá múha tsáhájtsóítyuróne.\nAane tsá peecútéré múhdityú íijcyátsíí múha dójtúcúítyuróne.\n18. Túkevéjtsoju\nPámeere mɨ́ amúnaa mépiivyété muhdú meɨ́ jtsámeídyú meíjcyáiyóne, kéjɨjtórí Píívyéébeke meúráávyéiyóne."
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "4eab400469b307731a03ec66ed784730",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Téhdure mépiivyété tsájɨjtótú tsɨ́ j ɨjtóvú mepájɨ́ yéiyóné muhdú meímillédu. Aame idyé mépiivyété ɨɨná\nmeɨ́ jtsámeíñeri, ɨɨná mecáhcújtsóneri meíhjyúváiyóné mééréétsihvu. Téhdure mépiivyété medóbéévétsihvu\ntsíjtyeke meúwáábóné keená eúráávyejɨ́ jto.\n19. Túkevéjtsoju\nPámeere mépiivyété ɨ́ɨ́ ná meɨ́ jtsámeíñé meíjyújcaáyóiyóné tsijtye iwáájácuki. Aane muhdú meɨ́ jtsámeíñé\nmeíhjyúváné hallútú tsá múha meke tsárííléítyuróne. Muurá mépiivyété panéváré mewáájane. Téhdure\nmépiivyété muhdú tsíjtyé ɨ́ jtsaméí íjcyane mewáájacúné waajácúhaamɨ́ né meéévénej tééveri. Muurá idyé\nmépiivyété ɨ́ɨ́ ná meɨ́ jtsámeíñé mecáátunúne, meúwaabóne. Aane páneere mépiivyété ihdyícyáhullévú tsííñé\niñújɨɨnévú metsújaúcúne. Ɨ́ ñehjɨ páneere mépiivyété meméénune mecáátúnúneri, meíhjyúváneri, panévaríyé\nmuhdú meímillédu. Á;áné hallútú tsá múha meke ɨɨná nééítyuróne.\n20. Túkevéjtsoju\nPámeere mépiivyété tsatsíhvú medóbeevéné mepítyácójcatsíki. Téhdure mépiivyété tsáha múnaa tsáné\nwákimyei meenuhá pañévú meúcaavéne.\nÁ;rónáa ihdyu tsá múha meke ávyeta táúhbáítyuró tsáha múnáajpi meíjcyaki.\n21. Túkevéjtsoju\nPámeere mépiivyéterá méiiñújɨ́ túkevéjtsojɨ́ e íjcyáha múnáá pañévú meúcáávéiyóne. Meere meúcaavéné\nmepíívyetétúhajchíí tsíjtyeke meméménúmeke méwáállóóiyá mécápayóóve.\nMuurá paméváré mépiivyéterá méiiñújɨ́ túkevéjtsojte níwáávéné wákimyéiháñé meméénúiyóne.\nMuurá pámeere mɨ́ amúnaáré mémenúmé tsáné iiñújɨ́ túkevéjtsojte ijcyáhi. Teene meenúmé caatyéké\nityújkevééllémeke téévéneúvúré imyéménúneri. Aane tsá tsaatéré píívyetétú teene imyééñune. Muurá\npámeere mépiivyété memémenúne. Á;rónáa tsá múha meke táúhbáítyuró tsaate metújkevééllétúmeke",
-            "Image": "4eab400469b307731a03ec66ed784730"
+            "Text": "Téhdure mépiivyété tsájɨjtótú tsɨ́ j ɨjtóvú mepájɨ́ yéiyóné muhdú meímillédu. Aame idyé mépiivyété ɨɨná\nmeɨ́ jtsámeíñeri, ɨɨná mecáhcújtsóneri meíhjyúváiyóné mééréétsihvu. Téhdure mépiivyété medóbéévétsihvu\ntsíjtyeke meúwáábóné keená eúráávyejɨ́ jto.\n19. Túkevéjtsoju\nPámeere mépiivyété ɨ́ɨ́ ná meɨ́ jtsámeíñé meíjyújcaáyóiyóné tsijtye iwáájácuki. Aane muhdú meɨ́ jtsámeíñé\nmeíhjyúváné hallútú tsá múha meke tsárííléítyuróne. Muurá mépiivyété panéváré mewáájane. Téhdure\nmépiivyété muhdú tsíjtyé ɨ́ jtsaméí íjcyane mewáájacúné waajácúhaamɨ́ né meéévénej tééveri. Muurá idyé\nmépiivyété ɨ́ɨ́ ná meɨ́ jtsámeíñé mecáátunúne, meúwaabóne. Aane páneere mépiivyété ihdyícyáhullévú tsííñé\niñújɨɨnévú metsújaúcúne. Ɨ́ ñehjɨ páneere mépiivyété meméénune mecáátúnúneri, meíhjyúváneri, panévaríyé\nmuhdú meímillédu. Á;áné hallútú tsá múha meke ɨɨná nééítyuróne.\n20. Túkevéjtsoju\nPámeere mépiivyété tsatsíhvú medóbeevéné mepítyácójcatsíki. Téhdure mépiivyété tsáha múnaa tsáné\nwákimyei meenuhá pañévú meúcaavéne.\nÁ;rónáa ihdyu tsá múha meke ávyeta táúhbáítyuró tsáha múnáajpi meíjcyaki.\n21. Túkevéjtsoju\nPámeere mépiivyéterá méiiñújɨ́ túkevéjtsojɨ́ e íjcyáha múnáá pañévú meúcáávéiyóne. Meere meúcaavéné\nmepíívyetétúhajchíí tsíjtyeke meméménúmeke méwáállóóiyá mécápayóóve.\nMuurá paméváré mépiivyéterá méiiñújɨ́ túkevéjtsojte níwáávéné wákimyéiháñé meméénúiyóne.\nMuurá pámeere mɨ́ amúnaáré mémenúmé tsáné iiñújɨ́ túkevéjtsojte ijcyáhi. Teene meenúmé caatyéké\nityújkevééllémeke téévéneúvúré imyéménúneri. Aane tsá tsaatéré píívyetétú teene imyééñune. Muurá\npámeere mépiivyété memémenúne. Á;rónáa tsá múha meke táúhbáítyuró tsaate metújkevééllétúmeke"
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "b6e2bd2cadfebba2c5a06e9a28656d76",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "meméménuki. Meere páñetu caatyé meɨ́ jtsúcunúmeke mémeménúiyáhi. Téhdure idyé mémeménúiyá\ntsaatéké muhdú meímílléjɨ́ jtori. Á;rónáa ihdyu ímíñeúvú tene íjcyáiyódú méméénúiyáhi.\n22. Túkevéjtsoju\nPámeere méhdi íjcyáiyóné ɨ́ɨ́ ne tájpi meíjcyane. Á;nejcútú méiiñújɨ́ avyéjujte meke pɨ́ áábóiyá ipíívyetédúneri.\nTéhdure tsíñéhjɨ́ iñújɨɨne múnaa dsɨ́ɨ́ dsɨvámé meke pɨ́ áábóiyá ɨ́ɨ n ́ e tájpi meíjcyáiyóné meíjcyátsótúmeke.\nAame ɨ́ɨ́ ná meke pɨ́ htotúmé tsúúca imí mepánéévémedi tsá múha méhdi úúhɨ́ vatéítyuróne. Ehdu méíjcyáiyá\nimí memúnáama meíjcyame meúráávye méɨhdé múnáaúvúu úráávyehíjcyánetu kéjɨtójɨ́ imí\nmeɨ́ jtsúcunújɨjtójɨ.\n23. Túkevéjtsoju\nPámeere mépiivyété méwákimyéima meíjcyáiyóne. Á;rónáa idyé tsá tééneri ávyétá ɨcúbáhraméí\nmeméénúítyuróne. Aane teene wákimyéí túkévejtsómé tsaímíyé meke túkévéjtsóiyáhi. Á;ánetu tsáijyu\nmúúne tsaate íwákimyéima íjcyátúhajchíí paméváré mepɨ́ áábóiyá téhdure íwákimyéima ditye iíjcyaki.\nPámeere mépiivyété tsahdúré meújcúiyóné méwákimyéi áhdó muhdú mewákímyeíñé tujkévevu.\nPámeere wákimyéi múnaa ɨɨná íwákímyeíñe áhdó újcúiyá tééne tájpí ɨ́ɨ s ́ ɨ́ mema imí íjcyame iávyejúúllémeíki.\nAane tsáijyu múúne tsaaté wákimyéi áhdó úújetétúhajchíí tsɨ́ j ɨjtóriyéjuco diityéké tene ahdómeíiyóné tsijtye\ndiityéké pɨ́ áábóneri.\nPámeere wákimyéi múnaa piivyété idyóbéévéne ipityácójcatsíiyóné muhdú iwákimyéí tsíñéhjɨma íjcyane\niímíbáávyétsoki.\n24. Túkevéjtsoju\nPámeere mépiivyété méwákimyéityúi tsárahja mewáyééévéiyóne. Aane tsá méwákimyéí\nmepátyéévétsóítyuróne. Eevéríyé méwákímyeíiyáhi. Muurá téénéllii ijcyáné téénetu mewáyééévehíjcyárahjɨ.",
-            "Image": "b6e2bd2cadfebba2c5a06e9a28656d76"
+            "Text": "meméménuki. Meere páñetu caatyé meɨ́ jtsúcunúmeke mémeménúiyáhi. Téhdure idyé mémeménúiyá\ntsaatéké muhdú meímílléjɨ́ jtori. Á;rónáa ihdyu ímíñeúvú tene íjcyáiyódú méméénúiyáhi.\n22. Túkevéjtsoju\nPámeere méhdi íjcyáiyóné ɨ́ɨ́ ne tájpi meíjcyane. Á;nejcútú méiiñújɨ́ avyéjujte meke pɨ́ áábóiyá ipíívyetédúneri.\nTéhdure tsíñéhjɨ́ iñújɨɨne múnaa dsɨ́ɨ́ dsɨvámé meke pɨ́ áábóiyá ɨ́ɨ n ́ e tájpi meíjcyáiyóné meíjcyátsótúmeke.\nAame ɨ́ɨ́ ná meke pɨ́ htotúmé tsúúca imí mepánéévémedi tsá múha méhdi úúhɨ́ vatéítyuróne. Ehdu méíjcyáiyá\nimí memúnáama meíjcyame meúráávye méɨhdé múnáaúvúu úráávyehíjcyánetu kéjɨtójɨ́ imí\nmeɨ́ jtsúcunújɨjtójɨ.\n23. Túkevéjtsoju\nPámeere mépiivyété méwákimyéima meíjcyáiyóne. Á;rónáa idyé tsá tééneri ávyétá ɨcúbáhraméí\nmeméénúítyuróne. Aane teene wákimyéí túkévejtsómé tsaímíyé meke túkévéjtsóiyáhi. Á;ánetu tsáijyu\nmúúne tsaate íwákimyéima íjcyátúhajchíí paméváré mepɨ́ áábóiyá téhdure íwákimyéima ditye iíjcyaki.\nPámeere mépiivyété tsahdúré meújcúiyóné méwákimyéi áhdó muhdú mewákímyeíñé tujkévevu.\nPámeere wákimyéi múnaa ɨɨná íwákímyeíñe áhdó újcúiyá tééne tájpí ɨ́ɨ s ́ ɨ́ mema imí íjcyame iávyejúúllémeíki.\nAane tsáijyu múúne tsaaté wákimyéi áhdó úújetétúhajchíí tsɨ́ j ɨjtóriyéjuco diityéké tene ahdómeíiyóné tsijtye\ndiityéké pɨ́ áábóneri.\nPámeere wákimyéi múnaa piivyété idyóbéévéne ipityácójcatsíiyóné muhdú iwákimyéí tsíñéhjɨma íjcyane\niímíbáávyétsoki.\n24. Túkevéjtsoju\nPámeere mépiivyété méwákimyéityúi tsárahja mewáyééévéiyóne. Aane tsá méwákimyéí\nmepátyéévétsóítyuróne. Eevéríyé méwákímyeíiyáhi. Muurá téénéllii ijcyáné téénetu mewáyééévehíjcyárahjɨ."
         },
         "8": {
-            "Label": "9",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "27259c419d435b6280102fdf4a0d5ab7",
             "Index": 8,
+            "Label": "9",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Á;rójcoojɨ́ j ɨ áhdó méújcúiyá téjcoojɨ́ j ɨ́ mewákímyeítyúrónáaáca.\n25. Túkevéjtsoju\nPámeere mépiivyété tsaímíyé meíjcyáiyóné méétsɨ́ɨ́ mema. Aame mehjáháñema meíjcyámedítyú tsá majcho,\nwájyamu, tsíñehjɨ ɨ́ɨ́ ne tájpí meíjcyáiyóné pɨ́ htóítyuróne. Mechémécooca métáábímyéiyáhi. Ijcyáné tsíñehjɨ\ntéhdure imí meke pɨ́ áábóíyonéhjɨ. Á;nejcúhjɨtu mépɨ́ áábójcatsíiyá imí tsaméhjɨ́ meíjcyaki. Tsaate\níwákimyéima íjcyátúmeke mépɨ́ áábóiyá ditye téhdure íwákimyéima iíjcyaki. Téhdure kéémemu, pííbájyujte\ntsijtye ɨ́ dátsó nééme iwákímyeíiyóné píívyetétúmeke mépɨ́ áábóiyáhi.\nTéhdure idyé walléémú éévájtema tsɨɨniéwuúmuke tsaímíyé météhméiyá imí ditye iíjcyaki. Tsá apáámyéré\nimí ityáábávájcatsíñe tsɨ́ɨ́ máváméj tsɨ́ɨ́ meke metéhméítyuróne. Téhdure imí táábávájcatsítyúróméj tsɨ́ɨ m\neke\ntsaímíyé météhméiyáhi.\n26. Túkevéjtsoju\nPámeere mépiivyété waajácúhaamɨ́ é mɨ́ɨ́ téiyóne. Tsá tsɨɨme waajácúhaamɨ́ né ɨ́ɨ t ́ etúmé íjcyáítyuróne.\nImíllémeiñé pámeere tsɨɨme waajácúhaamɨ́ né ɨ́ɨ́ téiyóne. Aane tsá áhdómeítyúne. Téhdure pámeere\nmépiivyété éhnííñevújuco íjcyáné uwáábovu meúcáávéiyóné méwákimyéima meíjcyaki. Tsá tsaaté\nwáábyutáré tene íjcyáítyuróne.\nPáneere uwáábó ijcyá méwáábyuta meke tene wájácúúvetsómé pamévakéré maávyejúúlleki. Aame tsá\nmeéhdɨɨválléítyuró tsííñé iiñújɨ múnaa, tsíjyúhjɨri íhjyuvámee, Píívyéébé icyánéjcú pahdúváré úráávyerómee,\níjcyámeke. Á;ánej tééveri 'Páné Iñújɨ́ɨ́ ne Múnáá Pihcyááve' némeímyé túkevéjtsoju néhdu páhduube cómíñe\nmúnáajpi imí iíjcyaki.\nMuurá pámeere mépiivyété méétsɨ́ɨ́ meke keená imí meɨ́ jtsúcunúné ditye áábohíjcyátsihvu meúácóiyóne.\n27. Túkevéjtsoju",
-            "Image": "27259c419d435b6280102fdf4a0d5ab7"
+            "Text": "Á;rójcoojɨ́ j ɨ áhdó méújcúiyá téjcoojɨ́ j ɨ́ mewákímyeítyúrónáaáca.\n25. Túkevéjtsoju\nPámeere mépiivyété tsaímíyé meíjcyáiyóné méétsɨ́ɨ́ mema. Aame mehjáháñema meíjcyámedítyú tsá majcho,\nwájyamu, tsíñehjɨ ɨ́ɨ́ ne tájpí meíjcyáiyóné pɨ́ htóítyuróne. Mechémécooca métáábímyéiyáhi. Ijcyáné tsíñehjɨ\ntéhdure imí meke pɨ́ áábóíyonéhjɨ. Á;nejcúhjɨtu mépɨ́ áábójcatsíiyá imí tsaméhjɨ́ meíjcyaki. Tsaate\níwákimyéima íjcyátúmeke mépɨ́ áábóiyá ditye téhdure íwákimyéima iíjcyaki. Téhdure kéémemu, pííbájyujte\ntsijtye ɨ́ dátsó nééme iwákímyeíiyóné píívyetétúmeke mépɨ́ áábóiyáhi.\nTéhdure idyé walléémú éévájtema tsɨɨniéwuúmuke tsaímíyé météhméiyá imí ditye iíjcyaki. Tsá apáámyéré\nimí ityáábávájcatsíñe tsɨ́ɨ́ máváméj tsɨ́ɨ́ meke metéhméítyuróne. Téhdure imí táábávájcatsítyúróméj tsɨ́ɨ m\neke\ntsaímíyé météhméiyáhi.\n26. Túkevéjtsoju\nPámeere mépiivyété waajácúhaamɨ́ é mɨ́ɨ́ téiyóne. Tsá tsɨɨme waajácúhaamɨ́ né ɨ́ɨ t ́ etúmé íjcyáítyuróne.\nImíllémeiñé pámeere tsɨɨme waajácúhaamɨ́ né ɨ́ɨ́ téiyóne. Aane tsá áhdómeítyúne. Téhdure pámeere\nmépiivyété éhnííñevújuco íjcyáné uwáábovu meúcáávéiyóné méwákimyéima meíjcyaki. Tsá tsaaté\nwáábyutáré tene íjcyáítyuróne.\nPáneere uwáábó ijcyá méwáábyuta meke tene wájácúúvetsómé pamévakéré maávyejúúlleki. Aame tsá\nmeéhdɨɨválléítyuró tsííñé iiñújɨ múnaa, tsíjyúhjɨri íhjyuvámee, Píívyéébé icyánéjcú pahdúváré úráávyerómee,\níjcyámeke. Á;ánej tééveri 'Páné Iñújɨ́ɨ́ ne Múnáá Pihcyááve' némeímyé túkevéjtsoju néhdu páhduube cómíñe\nmúnáajpi imí iíjcyaki.\nMuurá pámeere mépiivyété méétsɨ́ɨ́ meke keená imí meɨ́ jtsúcunúné ditye áábohíjcyátsihvu meúácóiyóne.\n27. Túkevéjtsoju"
         },
         "9": {
-            "Label": "10",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "80a1385c331535243b572d552f8a667a",
             "Index": 9,
+            "Label": "10",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Pámeere mépiivyété muhdúhjáa meɨhdé múnáaúvú icyahíjcyánetu imí meɨ́ jtsúcunújɨtójɨ́ meúráávyéiyóné\nmajtsíháñe, nuutáháñema tsíñehjɨ imí nénehjɨ. Á;néhjɨtu tsá múha meke píívyetétú ibóíjcyúiyóne. Téhdure\ntsíñehjɨ éhniíñevu mépiivyété mewáájácúiyóné méicyánéjcúene íjcyátúronéhjɨ keená meke pɨ́ ááboiyonéhjɨ\nmewáájácuki.\nPámeere mépiivyété meméénúiyóné tsane, mecáátúnúiyóné tsáné ɨ́ jtsaméi. Á;néhjɨ́ hallúvú ímichi teene\nméénume dsɨɨdstváiyáhi. Tsá tene ímíllémeítyú tsane meméénune tsijtye iékéévéné hallúvú dsɨɨkɨ́ stváiyóne.\n28. Túkevéjtsoju\nPámeere tsíñéhjɨ́ iñújɨ́ɨ́ ñe múnáama mépiivyété meíjcyáiyóné túkevéjtsójú pañe imí meíjcyaki. Á;ánélliihyée\nmuurá páhduube panévá iñújɨ́ɨ́ ne múnáajpi idyóbéévéne meenú túkevéjtsoju. Aane tútávájtsóíyóné taúhbaju\nmuurá tsá íjcyatúne. Ehdu ijcyáiyóné muhdú íhyaamɨ́ pañétú tene néhduú.\n29. Túkevéjtsoju\nPámeere máhallúrí teene memúnáama imí meíjcyánetu meke pɨ́ aabóné meméénúiyóne. Á;ánetu\nméwaajácúiyá ɨ́ m ɨ́ ááné tsúúca mewájácuuvéjucóómé imí mepáneevéne.\nÁ;ánéllii tsúúca ijcyáné mééma panévatúré meke túkévéjtsóíyóné taúhbajúúné pámeere tsahdúré imí\nmeíjcyaki. Aame tsá metútávátsójcatsíítyuróne. Pámeere pátsáricyójcatsítyúmé meíjcyáiyá tsahdúré imí\nmeíjcyaki. Tsá múha píivyetétú iímillédú meke idyárɨ́ɨ v ́ éiyóné tehdu múhójtsɨ́ pañé meíjcyámekéjɨ́ɨ́ vari.\nMuuráhjáa iñe túkevéjtsojúúné néhdu tsaímíyé méíjcyáiyáhi. Aane tsá múha tsíhdyúréjtsóítyuró 'Páné\nIñújɨ́ɨ́ ne Múnáá Pihcyááve' némeiñé pañée íjcyame méénúné túkevéjtsojúúne.\n30. Túkevéjtsoju\nPáneere iñe íhyaarnɨ́ pañe ijcyáné túkevéjtsoju méénúmeíñé tsá múha tsíñejcúvúré illéébóne iímillédú\ntsaatéké dárɨ́ɨ́ véityuróne. Tsáijyu múúne tsaápi, tsaáte, méiiñújɨ́ túkevéjtsojte ijcyarómé tsá tehdu",
-            "Image": "80a1385c331535243b572d552f8a667a"
+            "Text": "Pámeere mépiivyété muhdúhjáa meɨhdé múnáaúvú icyahíjcyánetu imí meɨ́ jtsúcunújɨtójɨ́ meúráávyéiyóné\nmajtsíháñe, nuutáháñema tsíñehjɨ imí nénehjɨ. Á;néhjɨtu tsá múha meke píívyetétú ibóíjcyúiyóne. Téhdure\ntsíñehjɨ éhniíñevu mépiivyété mewáájácúiyóné méicyánéjcúene íjcyátúronéhjɨ keená meke pɨ́ ááboiyonéhjɨ\nmewáájácuki.\nPámeere mépiivyété meméénúiyóné tsane, mecáátúnúiyóné tsáné ɨ́ jtsaméi. Á;néhjɨ́ hallúvú ímichi teene\nméénume dsɨɨdstváiyáhi. Tsá tene ímíllémeítyú tsane meméénune tsijtye iékéévéné hallúvú dsɨɨkɨ́ stváiyóne.\n28. Túkevéjtsoju\nPámeere tsíñéhjɨ́ iñújɨ́ɨ́ ñe múnáama mépiivyété meíjcyáiyóné túkevéjtsójú pañe imí meíjcyaki. Á;ánélliihyée\nmuurá páhduube panévá iñújɨ́ɨ́ ne múnáajpi idyóbéévéne meenú túkevéjtsoju. Aane tútávájtsóíyóné taúhbaju\nmuurá tsá íjcyatúne. Ehdu ijcyáiyóné muhdú íhyaamɨ́ pañétú tene néhduú.\n29. Túkevéjtsoju\nPámeere máhallúrí teene memúnáama imí meíjcyánetu meke pɨ́ aabóné meméénúiyóne. Á;ánetu\nméwaajácúiyá ɨ́ m ɨ́ ááné tsúúca mewájácuuvéjucóómé imí mepáneevéne.\nÁ;ánéllii tsúúca ijcyáné mééma panévatúré meke túkévéjtsóíyóné taúhbajúúné pámeere tsahdúré imí\nmeíjcyaki. Aame tsá metútávátsójcatsíítyuróne. Pámeere pátsáricyójcatsítyúmé meíjcyáiyá tsahdúré imí\nmeíjcyaki. Tsá múha píivyetétú iímillédú meke idyárɨ́ɨ v ́ éiyóné tehdu múhójtsɨ́ pañé meíjcyámekéjɨ́ɨ́ vari.\nMuuráhjáa iñe túkevéjtsojúúné néhdu tsaímíyé méíjcyáiyáhi. Aane tsá múha tsíhdyúréjtsóítyuró 'Páné\nIñújɨ́ɨ́ ne Múnáá Pihcyááve' némeiñé pañée íjcyame méénúné túkevéjtsojúúne.\n30. Túkevéjtsoju\nPáneere iñe íhyaarnɨ́ pañe ijcyáné túkevéjtsoju méénúmeíñé tsá múha tsíñejcúvúré illéébóne iímillédú\ntsaatéké dárɨ́ɨ́ véityuróne. Tsáijyu múúne tsaápi, tsaáte, méiiñújɨ́ túkevéjtsojte ijcyarómé tsá tehdu"
         },
         "10": {
-            "Label": "11",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "9f4471a10b97b081c475b5ee114059c0",
             "Index": 10,
+            "Label": "11",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "méénúítyuróne.",
-            "Image": "9f4471a10b97b081c475b5ee114059c0"
+            "Text": "méénúítyuróne."
         }
     }
 }

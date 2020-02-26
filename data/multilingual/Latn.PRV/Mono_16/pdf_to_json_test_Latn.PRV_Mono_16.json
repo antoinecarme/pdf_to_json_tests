@@ -1,80 +1,80 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581791915,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "f5ca431283996d70c8bf89dca755d421",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Declaracioun universalo di dre de l'ome\nArticle 1\nTóuti lis uman naisson libre. Soun egau pèrla digneta e li dre. An tóuti\nuno resoun e uno counsciènci. Se dèvon tenifreirenau lis un 'mé lis\nautre.\nArticle 2\nTout èsse uman a tóuti li liberta e tóuti lidre prouclama dins aquesto\ndeclaracioun, sènso ges li destria pèr de raço, decoulour, de sèisse, de\nlengo, de religioun, d'idèio poulitico o d'autro meno,d'óurigino\nnaciounalo o soucialo, de richesso, de neissènço o d'àutricoundicioun.\nEn mai, se fara ges de destriamen foundasubre l'estatut pouliti,\namenistratiéu o internaciounau dóu païs o de l'endréde la persouno,\nfugue aquel endré independènt o sa soubeiraneta countourrouladoo\nlimitado d'un biais o d'un autre.\nArticle 3\nCado persouno a dre à la vido, à la liberta,e à la segureta.\nArticle 4\nDegun sara soumés à l'esclavitudo o à laservitudo. Es enebi en plen de\nteni d'esclau o de n'en faire coumèrci.\nArticle 5\nDegun sara soumés à la tourturo nimai à depeno o de tratamen crudèu,\ninuman o desgradant.\nArticle 6\nCadun a dre à la recouneissènço de sapersounalita juridico de pertout.\nArticle 7\nTóuti li gènt soun egau davans la lèi.Memamen an tóuti dre d'èstre apara\npèr la lèi sènso ges de destriamen. An tóutidre d'èstre apara parié\ncontro tout ço que vióularié aquesto declaracioun o quebutarié à la\nvióula.\nArticle 8\nTouto persouno a lou dre de s'apela proche litribunau naciounau\ncoumpetènt. Aquéli ié dèvon l'eficàci e la dèvon defèndrecontro lis ate\nque violon li dre foundamentau recouneigu pèr la lèi e lacoustitucioun.\nArticle 9\nDegun sara arresta, embarra vo eisila pèrarbitràri.\nArticle 10",
-            "Image": "f5ca431283996d70c8bf89dca755d421"
+            "Text": "Declaracioun universalo di dre de l'ome\nArticle 1\nTóuti lis uman naisson libre. Soun egau pèrla digneta e li dre. An tóuti\nuno resoun e uno counsciènci. Se dèvon tenifreirenau lis un 'mé lis\nautre.\nArticle 2\nTout èsse uman a tóuti li liberta e tóuti lidre prouclama dins aquesto\ndeclaracioun, sènso ges li destria pèr de raço, decoulour, de sèisse, de\nlengo, de religioun, d'idèio poulitico o d'autro meno,d'óurigino\nnaciounalo o soucialo, de richesso, de neissènço o d'àutricoundicioun.\nEn mai, se fara ges de destriamen foundasubre l'estatut pouliti,\namenistratiéu o internaciounau dóu païs o de l'endréde la persouno,\nfugue aquel endré independènt o sa soubeiraneta countourrouladoo\nlimitado d'un biais o d'un autre.\nArticle 3\nCado persouno a dre à la vido, à la liberta,e à la segureta.\nArticle 4\nDegun sara soumés à l'esclavitudo o à laservitudo. Es enebi en plen de\nteni d'esclau o de n'en faire coumèrci.\nArticle 5\nDegun sara soumés à la tourturo nimai à depeno o de tratamen crudèu,\ninuman o desgradant.\nArticle 6\nCadun a dre à la recouneissènço de sapersounalita juridico de pertout.\nArticle 7\nTóuti li gènt soun egau davans la lèi.Memamen an tóuti dre d'èstre apara\npèr la lèi sènso ges de destriamen. An tóutidre d'èstre apara parié\ncontro tout ço que vióularié aquesto declaracioun o quebutarié à la\nvióula.\nArticle 8\nTouto persouno a lou dre de s'apela proche litribunau naciounau\ncoumpetènt. Aquéli ié dèvon l'eficàci e la dèvon defèndrecontro lis ate\nque violon li dre foundamentau recouneigu pèr la lèi e lacoustitucioun.\nArticle 9\nDegun sara arresta, embarra vo eisila pèrarbitràri.\nArticle 10"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "18dfa5680faf65300a6cd3ca1ed281e4",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Tóuti li persouno an lou meme dre de pleidejapublicamen sa defènso\ndavans un tribunau que lis escoutara em'un esperitd'independènci e de\njustiço, que se prounounciara pièi siegue toucant si dre esis\nóubligacioun, siegue toucant la foundamento de touto acusacioun contro\neloen matèri penalo.\nArticle 11\nTouto persouno acusado d'un ate fautible es regardado coume innoucènto\njusco que fugue legalamen establido sa coupableta pèr un proucès publi.\nDins aquéu proucès, tóuti li garantido necito à sa defènso ié saran\nestado pourgido.\nRes sara coundana pèr d'ate\nsegound lou dre naciounau o\nqu'acò, se pòu pas coundana\npoudien aplica quouro l'ate\no d'óublit qu'èron pas counsidera fautible\ninternaciounau quouro fuguèron fa. Mai\nli gènt en de peno mai forto d'aquéli que se\nfautible fuguè coumés.\nArticle 12\nSe pòu pas sènso resoun valablo bouta lou nasdins la vido privado, la\nfamiho, l'oustau o lou courrié di gènt. Se pòu nimaiataca soun ounour e\nsa reputacioun. Touto persouno a lou dre d'èstre aparadopèr la lèi\ncontro aquéli malafacho.\nArticle 13\nCadun a lou dre d'ana d'ounte vòu, de planta caviho d'ounte vòu dedins\nli raro d'un Estat.\nCadun a lou dre de quita un païs e lou siéu tambèn. Cadun a lou dre de\ns'entourna au païs siéu.\nArticle 14\nQuouro secutado, touto persouno a lou dre de cerca un recate dins\nd'àutri païs e de lou prouficha.\nPòu pas s'apela d'aqueste dre uno persouno perseguido de-bon pèr un\ncrime de dre coumun o d'ate countràri i principe emai i toco di Nacioun\nUnido.\nArticle 15\nCadun a dre à uno naciounalita.\nSe pòu leva en res pèr arbitràri sa naciounalita o lou dre de la chanja.\nArticle 16\nL'ome e la femo, s'un cop soun maridadou, an lou dre de se marida e de\nfounda uno famiho, sènso ges d'empache pèr encauso de raço, de\nnaciounalita o de religioun. Li dre dis ome e di femo soun parié raport\nau maridage, que siegue dóu tèms que soun marida o quouro se divorçon.\nLou maridage se pòu faire soulamen se li nòvi se volon de-bon.",
-            "Image": "18dfa5680faf65300a6cd3ca1ed281e4"
+            "Text": "Tóuti li persouno an lou meme dre de pleidejapublicamen sa defènso\ndavans un tribunau que lis escoutara em'un esperitd'independènci e de\njustiço, que se prounounciara pièi siegue toucant si dre esis\nóubligacioun, siegue toucant la foundamento de touto acusacioun contro\neloen matèri penalo.\nArticle 11\nTouto persouno acusado d'un ate fautible es regardado coume innoucènto\njusco que fugue legalamen establido sa coupableta pèr un proucès publi.\nDins aquéu proucès, tóuti li garantido necito à sa defènso ié saran\nestado pourgido.\nRes sara coundana pèr d'ate\nsegound lou dre naciounau o\nqu'acò, se pòu pas coundana\npoudien aplica quouro l'ate\no d'óublit qu'èron pas counsidera fautible\ninternaciounau quouro fuguèron fa. Mai\nli gènt en de peno mai forto d'aquéli que se\nfautible fuguè coumés.\nArticle 12\nSe pòu pas sènso resoun valablo bouta lou nasdins la vido privado, la\nfamiho, l'oustau o lou courrié di gènt. Se pòu nimaiataca soun ounour e\nsa reputacioun. Touto persouno a lou dre d'èstre aparadopèr la lèi\ncontro aquéli malafacho.\nArticle 13\nCadun a lou dre d'ana d'ounte vòu, de planta caviho d'ounte vòu dedins\nli raro d'un Estat.\nCadun a lou dre de quita un païs e lou siéu tambèn. Cadun a lou dre de\ns'entourna au païs siéu.\nArticle 14\nQuouro secutado, touto persouno a lou dre de cerca un recate dins\nd'àutri païs e de lou prouficha.\nPòu pas s'apela d'aqueste dre uno persouno perseguido de-bon pèr un\ncrime de dre coumun o d'ate countràri i principe emai i toco di Nacioun\nUnido.\nArticle 15\nCadun a dre à uno naciounalita.\nSe pòu leva en res pèr arbitràri sa naciounalita o lou dre de la chanja.\nArticle 16\nL'ome e la femo, s'un cop soun maridadou, an lou dre de se marida e de\nfounda uno famiho, sènso ges d'empache pèr encauso de raço, de\nnaciounalita o de religioun. Li dre dis ome e di femo soun parié raport\nau maridage, que siegue dóu tèms que soun marida o quouro se divorçon.\nLou maridage se pòu faire soulamen se li nòvi se volon de-bon."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "4951d74e020a773d90f4f748fe436c99",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "La famiho es la foundamento naturalo de la soucieta. A dre d'èstre\naparado pèr la soucieta e l'Estat.\nArticle 17\nTouto persouno, souleto o coutrìo 'mé d'àutri gènt, a dre à la\nprouprieta.\nDegun sara despoussedi de soun bèn pèr arbitràri.\nArticle 18\nTouto persouno es libro de sa pensado, de sacounsciènci e de sa\nreligioun. En aquéu dre ié caup la liberta de cambia dereligioun o de\ncrèire, e tambèn de manifesta sa religioun o si crèire, soulet o'mé\nd'àutri gènt, dins la vido publico o privado, pèr l'ensignamen, lis\nusage,lou culte emai l'acoumplissamen di rite.\nArticle 19\nTout persouno a dre à la liberta d'óupinioune d'espressioun. En aquéu\ndre ié caup de rèn se capita carcagna pèr encauso deço que pensas, e\ntambèn de cerca, reçaupre e espandi lis enfourmacioun e lisidèio, coume\nque siegue lou mejan d'espressioun, sènso empache à respèt difrountiero.\nArticle 20\nTóuti li gènt an lou dre de s'acampa e de s'assoucia dins un esperit de\npas.\nDegun pòu èstre óublija de faire partido d'un groupamen.\nArticle 21\nTouto persouno a lou dre de partecipa au gouvernamen de soun païs,\nsiegue direitamen siegue depèr de representant chausi libramen.\nTouto persouno a lou dre d'óuteni de founcioun publico de soun païs dins\nde coundicioun d'egalita.\nLa voulounta dóu pople es la foundamento de l'autourita di poudé publi.\nAquesto voulounta se dèu espremi depèr d'eleicioun ounèsto que saran\nestigançado à cadènço reglado, au sufrage universau emé buletin secret,\no d'un biais equivalènt que posque assegura la liberta dóu vote.\nArticle 22\nTouto persouno, en fasènt partido de lasoucieta, a dre d'uno\nprouteicioun soucialo e de coumpli si dre ecounoumi,souciau e culturau ;\ne acò bonadi lis esperfors naciounau e l'entre-ajudointernaciounalo,\nsegound l'ourganisacioun e li mejan de chasque païs, que ladigneta e lou\ndesvouloupa libre de la persounalita podon pas faire sènso.\nArticle 23\nCadun a lou dre de travaia, de chausi libre soun mestié, dins de\ncoundicioun equitablo d'obro e de prouteicioun contro lou chaumage.",
-            "Image": "4951d74e020a773d90f4f748fe436c99"
+            "Text": "La famiho es la foundamento naturalo de la soucieta. A dre d'èstre\naparado pèr la soucieta e l'Estat.\nArticle 17\nTouto persouno, souleto o coutrìo 'mé d'àutri gènt, a dre à la\nprouprieta.\nDegun sara despoussedi de soun bèn pèr arbitràri.\nArticle 18\nTouto persouno es libro de sa pensado, de sacounsciènci e de sa\nreligioun. En aquéu dre ié caup la liberta de cambia dereligioun o de\ncrèire, e tambèn de manifesta sa religioun o si crèire, soulet o'mé\nd'àutri gènt, dins la vido publico o privado, pèr l'ensignamen, lis\nusage,lou culte emai l'acoumplissamen di rite.\nArticle 19\nTout persouno a dre à la liberta d'óupinioune d'espressioun. En aquéu\ndre ié caup de rèn se capita carcagna pèr encauso deço que pensas, e\ntambèn de cerca, reçaupre e espandi lis enfourmacioun e lisidèio, coume\nque siegue lou mejan d'espressioun, sènso empache à respèt difrountiero.\nArticle 20\nTóuti li gènt an lou dre de s'acampa e de s'assoucia dins un esperit de\npas.\nDegun pòu èstre óublija de faire partido d'un groupamen.\nArticle 21\nTouto persouno a lou dre de partecipa au gouvernamen de soun païs,\nsiegue direitamen siegue depèr de representant chausi libramen.\nTouto persouno a lou dre d'óuteni de founcioun publico de soun païs dins\nde coundicioun d'egalita.\nLa voulounta dóu pople es la foundamento de l'autourita di poudé publi.\nAquesto voulounta se dèu espremi depèr d'eleicioun ounèsto que saran\nestigançado à cadènço reglado, au sufrage universau emé buletin secret,\no d'un biais equivalènt que posque assegura la liberta dóu vote.\nArticle 22\nTouto persouno, en fasènt partido de lasoucieta, a dre d'uno\nprouteicioun soucialo e de coumpli si dre ecounoumi,souciau e culturau ;\ne acò bonadi lis esperfors naciounau e l'entre-ajudointernaciounalo,\nsegound l'ourganisacioun e li mejan de chasque païs, que ladigneta e lou\ndesvouloupa libre de la persounalita podon pas faire sènso.\nArticle 23\nCadun a lou dre de travaia, de chausi libre soun mestié, dins de\ncoundicioun equitablo d'obro e de prouteicioun contro lou chaumage."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "86b53d5569361d2cb00d0da744c2b541",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Tóuti an dre en uno memo pago pèr uno memo obro, sènso ges de\ndestriamen.\nUn que travaio a dre en uno pago justo e counvenènto, que sara\ncoumpletado se ié fai besoun pèr tóuti lis àutri mejan de prouteicioun\nsoucialo. Dins tout acò, dèu pousqué viéure de-segur dignamen emé sa\nfamiho.\nTouto persouno a lou dre de founda emé d'autro de sendicat e d'èstre\nsòci d'un sendicat pèr defèndre sis interès.\nArticle 24\nCadun a dre de se pausa e de s'espaça. A dreà uno tanco resounablo de la\njournado de travai, à de counget regulié e paga.\nArticle 25\nTóuti an dre à un nivèu de vido que i'assegure la santa e lou bèn-èstre\nemai à sa famiho, mai que mai pèr lou manja, lou vèsti, l'oustau, li\nsiuen de santa e pèr tóuti li service souciau necite. Pèr escasènço que\nun posque pas mai se gagna sa vido sènso l'avé vougu, pèr eisèmple se\nvèn vièi, malaut, endeca o chaumaire, a dre à la segureta.\nLi femo embarrassado, li maire e li pichot an dre à uno ajudo\nparticuliero. Siegon pas si gènt marida, e lou fuguèsson pas quouro lou\nnistoun es nascu, tóuti li pichot proufichon pamens la memo prouteicioun\nsoucialo.\nArticle 26\nTouto persouno a lou dre d'èstre educado. L'educacioun dèu èstre à-\ngràtis, lou plus pau pèr ço que pretoco l'ensignamen elementàri e\nfoundamentau. L'ensignamen elementàri es óubligatòri. L'ensignamen di\nteinico e di mestié dèu èstre d'atencho pèr tóuti. Lis estùdi superiour\ndèvon èstre dubert à tóuti parié à respèt de si merite.\nLa toco de l'educacioun es que la persounalita di gènt s'espeligue, e\nque lou respèt degu i dre de l'ome e i liberta foundamentalo\ns'afourtigue. Dèu favourisa la coumprenènço, la touleranço e l'amista\nentre tóuti li nacioun, li group etni vo religious, emai lou crèis dis\nativeta di Nacioun-Unido. pèr manteni la pas.\nLou paire emai la maire an lou dre de chausi, bèu proumié, lou biais\nd'educacioun que volon pèr si pichot.\nArticle 27\nTouto persouno a lou dre de partecipa libramen à la vido culturalo de la\ncoumunauta, au prougrès scientifi e i bèn-fa qu'aduson.\nTout lou mounde a lou dre de prouficha lou plesi coungreia pèr lis art.\nL'autour d'uno obro scientifico, literàri o artistico a dre à l'aparamen\nde sis interès mourau e financié.\nArticle 28",
-            "Image": "86b53d5569361d2cb00d0da744c2b541"
+            "Text": "Tóuti an dre en uno memo pago pèr uno memo obro, sènso ges de\ndestriamen.\nUn que travaio a dre en uno pago justo e counvenènto, que sara\ncoumpletado se ié fai besoun pèr tóuti lis àutri mejan de prouteicioun\nsoucialo. Dins tout acò, dèu pousqué viéure de-segur dignamen emé sa\nfamiho.\nTouto persouno a lou dre de founda emé d'autro de sendicat e d'èstre\nsòci d'un sendicat pèr defèndre sis interès.\nArticle 24\nCadun a dre de se pausa e de s'espaça. A dreà uno tanco resounablo de la\njournado de travai, à de counget regulié e paga.\nArticle 25\nTóuti an dre à un nivèu de vido que i'assegure la santa e lou bèn-èstre\nemai à sa famiho, mai que mai pèr lou manja, lou vèsti, l'oustau, li\nsiuen de santa e pèr tóuti li service souciau necite. Pèr escasènço que\nun posque pas mai se gagna sa vido sènso l'avé vougu, pèr eisèmple se\nvèn vièi, malaut, endeca o chaumaire, a dre à la segureta.\nLi femo embarrassado, li maire e li pichot an dre à uno ajudo\nparticuliero. Siegon pas si gènt marida, e lou fuguèsson pas quouro lou\nnistoun es nascu, tóuti li pichot proufichon pamens la memo prouteicioun\nsoucialo.\nArticle 26\nTouto persouno a lou dre d'èstre educado. L'educacioun dèu èstre à-\ngràtis, lou plus pau pèr ço que pretoco l'ensignamen elementàri e\nfoundamentau. L'ensignamen elementàri es óubligatòri. L'ensignamen di\nteinico e di mestié dèu èstre d'atencho pèr tóuti. Lis estùdi superiour\ndèvon èstre dubert à tóuti parié à respèt de si merite.\nLa toco de l'educacioun es que la persounalita di gènt s'espeligue, e\nque lou respèt degu i dre de l'ome e i liberta foundamentalo\ns'afourtigue. Dèu favourisa la coumprenènço, la touleranço e l'amista\nentre tóuti li nacioun, li group etni vo religious, emai lou crèis dis\nativeta di Nacioun-Unido. pèr manteni la pas.\nLou paire emai la maire an lou dre de chausi, bèu proumié, lou biais\nd'educacioun que volon pèr si pichot.\nArticle 27\nTouto persouno a lou dre de partecipa libramen à la vido culturalo de la\ncoumunauta, au prougrès scientifi e i bèn-fa qu'aduson.\nTout lou mounde a lou dre de prouficha lou plesi coungreia pèr lis art.\nL'autour d'uno obro scientifico, literàri o artistico a dre à l'aparamen\nde sis interès mourau e financié.\nArticle 28"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "81e5529a2bb978e62dbeab9fc7a96fca",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Touto persouno a lou dre de viéure dins unmitan souciau e internaciounau\nproun ourdouna, que li dre esplica dins aquestodeclaracioun d'aqui se ié\nposcon aplica en plen.\nArticle 29\nTouto persouno a de devé à respèt de la coumunauta, qu'es en soun dintre\nsoulet que lou desvouloupamen libre e coumplet de sa persounalita i'es\npoussible.\nSe pòu restanca li dre e li liberta de chascun soulamen dóu biais que la\nlèi l'a vougu pèr fin d'assegura la recouneissènço dis autre, lou respèt\nde si dre e liberta ; e tambèn pèr fin de respeta lis eisigènci justo de\nla mouralo, de la tranquileta di gènt, e dóu bèn-èstre generau dins uno\nsoucieta demoucratico.\nAquésti dre e liberta poudran jamai e de ges de biais èstre emplega pèr\nfaire de causo countràri i principe di Nacioun-Unido.\nArticle 30\nRes, ni Estat ni groupamen nimai unopersouno, poudra assaja de tira\nd'aquesto declaracioun lou dre de fairequaucarèn pèr escracha li dre e\nli liberta que ié soun esplica.",
-            "Image": "81e5529a2bb978e62dbeab9fc7a96fca"
+            "Text": "Touto persouno a lou dre de viéure dins unmitan souciau e internaciounau\nproun ourdouna, que li dre esplica dins aquestodeclaracioun d'aqui se ié\nposcon aplica en plen.\nArticle 29\nTouto persouno a de devé à respèt de la coumunauta, qu'es en soun dintre\nsoulet que lou desvouloupamen libre e coumplet de sa persounalita i'es\npoussible.\nSe pòu restanca li dre e li liberta de chascun soulamen dóu biais que la\nlèi l'a vougu pèr fin d'assegura la recouneissènço dis autre, lou respèt\nde si dre e liberta ; e tambèn pèr fin de respeta lis eisigènci justo de\nla mouralo, de la tranquileta di gènt, e dóu bèn-èstre generau dins uno\nsoucieta demoucratico.\nAquésti dre e liberta poudran jamai e de ges de biais èstre emplega pèr\nfaire de causo countràri i principe di Nacioun-Unido.\nArticle 30\nRes, ni Estat ni groupamen nimai unopersouno, poudra assaja de tira\nd'aquesto declaracioun lou dre de fairequaucarèn pèr escracha li dre e\nli liberta que ié soun esplica."
         }
     }
 }

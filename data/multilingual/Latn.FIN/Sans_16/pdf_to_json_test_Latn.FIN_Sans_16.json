@@ -1,132 +1,132 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581467880,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "b0df3439b07b2342dcc68d97e7e95877",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Yhdistyneiden kansakuntien kolmas yleiskokous hyväksyi ja julkisti ihmisoikeuksien yleismaailmallisen\njulistuksen joulukuun 10. päivänä 1948. Julistuksen hyväksymisen puolesta äänesti 48 maata. Mikään maa ei\näänestänyt vastaan. Kahdeksan maata pidättyi äänestämästä.\nVälittömästi tämän historiallisen tapahtuman jälkeen yleiskokous kehotti kaikkia jäsenmaita julkaisemaan\njulistuksen tekstin. Niitä pyydettiin \"levittämään ja tekemään sitä tunnetuksi, lukemaan ja selittämään sitä\nennen kaikkea kouluissa ja muissa oppilaitoksissa eri maiden ja alueiden poliittisista oloista riippumatta\".\nJulistuksen virallinen teksti on saatavissa YK:n kuudella virallisella kielellä: arabiaksi, englanniksi,\nespanjaksi, kiinaksi, ranskaksi ja venäjäksi. Myös monet YK:n jäsenmaat ovat noudattaneet yleiskokouksen\nkehotusta ja kääntäneet julistuksen omalle kielelleen. Seuraavilla sivuilla oleva käännös on Suomen\nhallituksen vahvistama.\nJulistuksen ilmaiskappaleita on saatavana YK:n Kööpenhaminassa sijaitsevasta pohjoismaisesta\ntiedotustoimistosta YK:n virallisilla kielillä, pohjoismaisilla kielillä ja rajallinen määrä muilla kielillä.\nIHMISOIKEUKSIEN YLEISMAAILMALLINEN JULISTUS\nJOHDANTO\nKun ihmiskunnan kaikkien jäsenten luonnollisen arvon ja heidän yhtäläisten ja luovuttamattomien\noikeuksiensa tunnustaminen on vapauden, oikeudenmukaisuuden ja rauhan perustana maailmassa,\nkun ihmisoikeuksia on väheksytty tai ne on jätetty huomiota vaille, on tapahtunut raakalaistekoja, jotka ovat\njärkyttäneet ihmiskunnan omaatuntoa, ja kun kansojen korkeimmaksi päämääräksi on julistettu sellaisen\nmaailman luominen, missä ihmiset voivat vapaasti nauttia sanan ja uskon vapautta sekä elää vapaina pelosta\nja puutteesta,\nkun on välttämätöntä, että ihmisoikeudet turvataan oikeusjärjestyksellä, jotta ihmisten ei olisi pakko",
-            "Image": "b0df3439b07b2342dcc68d97e7e95877"
+            "Text": "Yhdistyneiden kansakuntien kolmas yleiskokous hyväksyi ja julkisti ihmisoikeuksien yleismaailmallisen\njulistuksen joulukuun 10. päivänä 1948. Julistuksen hyväksymisen puolesta äänesti 48 maata. Mikään maa ei\näänestänyt vastaan. Kahdeksan maata pidättyi äänestämästä.\nVälittömästi tämän historiallisen tapahtuman jälkeen yleiskokous kehotti kaikkia jäsenmaita julkaisemaan\njulistuksen tekstin. Niitä pyydettiin \"levittämään ja tekemään sitä tunnetuksi, lukemaan ja selittämään sitä\nennen kaikkea kouluissa ja muissa oppilaitoksissa eri maiden ja alueiden poliittisista oloista riippumatta\".\nJulistuksen virallinen teksti on saatavissa YK:n kuudella virallisella kielellä: arabiaksi, englanniksi,\nespanjaksi, kiinaksi, ranskaksi ja venäjäksi. Myös monet YK:n jäsenmaat ovat noudattaneet yleiskokouksen\nkehotusta ja kääntäneet julistuksen omalle kielelleen. Seuraavilla sivuilla oleva käännös on Suomen\nhallituksen vahvistama.\nJulistuksen ilmaiskappaleita on saatavana YK:n Kööpenhaminassa sijaitsevasta pohjoismaisesta\ntiedotustoimistosta YK:n virallisilla kielillä, pohjoismaisilla kielillä ja rajallinen määrä muilla kielillä.\nIHMISOIKEUKSIEN YLEISMAAILMALLINEN JULISTUS\nJOHDANTO\nKun ihmiskunnan kaikkien jäsenten luonnollisen arvon ja heidän yhtäläisten ja luovuttamattomien\noikeuksiensa tunnustaminen on vapauden, oikeudenmukaisuuden ja rauhan perustana maailmassa,\nkun ihmisoikeuksia on väheksytty tai ne on jätetty huomiota vaille, on tapahtunut raakalaistekoja, jotka ovat\njärkyttäneet ihmiskunnan omaatuntoa, ja kun kansojen korkeimmaksi päämääräksi on julistettu sellaisen\nmaailman luominen, missä ihmiset voivat vapaasti nauttia sanan ja uskon vapautta sekä elää vapaina pelosta\nja puutteesta,\nkun on välttämätöntä, että ihmisoikeudet turvataan oikeusjärjestyksellä, jotta ihmisten ei olisi pakko"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "0969485409a05be62e30ffa2612c50df",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "viimeisenä keinona nousta kapinaan pakkovaltaa ja sortoa vastaan,\nkun on tähdellistä edistää ystävällisten suhteiden kehittymistä kansojen välille,\nkun Yhdistyneiden Kansakuntien kansat ovat peruskirjassa vahvistaneet uskonsa ihmisten perusoikeuksiin,\nihmisyksilön arvoon ja merkitykseen sekä miesten ja naisten yhtäläisiin oikeuksiin ja kun ne ovat ilmaisseet\nvakaan tahtonsa edistää sosiaalista kehitystä ja parempien elämisen ehtojen aikaansaamista vapaammissa\noloissa,\nkun jäsenvaltiot ovat sitoutuneet edistämään, yhteistoiminnassa Yhdistyneet Kansakunnat -järjestön kanssa,\nihmisoikeuksien ja perusvapauksien yleistä kunnioittamista ja noudattamista, ja\nkun yhteinen käsitys näiden oikeuksien ja vapauksien sisällöstä on mitä tärkein tämän sitoumuksen\ntäydelliselle toteuttamiselle,\nNiin sen vuoksi\nYLEISKOKOUS\nantaa TÄMÄN IHMISOIKEUKSIEN YLEISMAAILMALLISEN JULISTUKSEN kaikkien kansojen ja\nkaikkien kansakuntien tavoiteltavaksi yhteiseksi ohjeeksi, jotta kukin yksilö ja kukin yhteiskuntaelin pyrkisi,\npitäen alati mielessään tämän julistuksen, valistamalla ja opettamalla edistämään näiden oikeuksien ja\nvapauksien kunnioittamista sekä turvaamaan jatkuvin kansallisin ja kansainvälisin toimenpitein niiden\nyleisen ja tehokkaan tunnustamisen ja noudattamisen sekä itse jäsenvaltioiden kansojen että niiden\noikeuspiirissä olevien alueiden kansojen keskuudessa.\n1. artikla.\nKaikki ihmiset syntyvät vapaina ja tasavertaisina arvoltaan ja oikeuksiltaan. Heille on annettu järki ja\nomatunto, ja heidän on toimittava toisiaan kohtaan veljeyden hengessä.",
-            "Image": "0969485409a05be62e30ffa2612c50df"
+            "Text": "viimeisenä keinona nousta kapinaan pakkovaltaa ja sortoa vastaan,\nkun on tähdellistä edistää ystävällisten suhteiden kehittymistä kansojen välille,\nkun Yhdistyneiden Kansakuntien kansat ovat peruskirjassa vahvistaneet uskonsa ihmisten perusoikeuksiin,\nihmisyksilön arvoon ja merkitykseen sekä miesten ja naisten yhtäläisiin oikeuksiin ja kun ne ovat ilmaisseet\nvakaan tahtonsa edistää sosiaalista kehitystä ja parempien elämisen ehtojen aikaansaamista vapaammissa\noloissa,\nkun jäsenvaltiot ovat sitoutuneet edistämään, yhteistoiminnassa Yhdistyneet Kansakunnat -järjestön kanssa,\nihmisoikeuksien ja perusvapauksien yleistä kunnioittamista ja noudattamista, ja\nkun yhteinen käsitys näiden oikeuksien ja vapauksien sisällöstä on mitä tärkein tämän sitoumuksen\ntäydelliselle toteuttamiselle,\nNiin sen vuoksi\nYLEISKOKOUS\nantaa TÄMÄN IHMISOIKEUKSIEN YLEISMAAILMALLISEN JULISTUKSEN kaikkien kansojen ja\nkaikkien kansakuntien tavoiteltavaksi yhteiseksi ohjeeksi, jotta kukin yksilö ja kukin yhteiskuntaelin pyrkisi,\npitäen alati mielessään tämän julistuksen, valistamalla ja opettamalla edistämään näiden oikeuksien ja\nvapauksien kunnioittamista sekä turvaamaan jatkuvin kansallisin ja kansainvälisin toimenpitein niiden\nyleisen ja tehokkaan tunnustamisen ja noudattamisen sekä itse jäsenvaltioiden kansojen että niiden\noikeuspiirissä olevien alueiden kansojen keskuudessa.\n1. artikla.\nKaikki ihmiset syntyvät vapaina ja tasavertaisina arvoltaan ja oikeuksiltaan. Heille on annettu järki ja\nomatunto, ja heidän on toimittava toisiaan kohtaan veljeyden hengessä."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "6eda5f9c6ecdb081ee19923d99b770c3",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "2. artikla.\nJokainen on oikeutettu kaikkiin tässä julistuksessa esitettyihin oikeuksiin ja vapauksiin ilman minkäänlaista\nrotuun, väriin, sukupuoleen, kieleen, uskontoon, poliittiseen tai muuhun mielipiteeseen, kansalliseen tai\nyhteiskunnalliseen alkuperään, omaisuuteen, syntyperään tai muuhun tekijään perustuvaa erotusta.\nMitään erotusta ei myöskään pidä tehdä sen maan tai alueen valtiollisen, hallinnollisen tai kansainvälisen\naseman perusteella, johon henkilö kuuluu, olipa tämä alue itsenäinen, huoltohallinnossa, itsehallintoa vailla\ntai täysivaltaisuudeltaan minkä tahansa muun rajoituksen alainen.\n3. artikla.\nKullakin yksilöllä on oikeus elämään, vapauteen ja henkilökohtaiseen turvallisuuteen.\n4. artikla.\nKetään ei saa pitää orjana tai orjuutettuna, kaikki orjuuden ja orjakaupan muodot on kiellettävä.\n5. artikla.\nKetään ei saa kiduttaa eikä kohdella tai rangaista julmasti, epäinhimillisesti tai alentavasti.\n6. artikla.\nJokaisella ihmisellä on kaikkialla oikeus siihen, että hänet henkilönä tunnustetaan lain edessä.\n7. artikla.\nKaikki ovat tasavertaisia lain edessä ja oikeutetut erotuksetta yhtäläiseen lain suojaan. Kaikilla on oikeus\ntasavertaiseen suojaan tätä julistusta loukkaavaa syrjintää vastaan sekä kaikkea sellaiseen syrjintään\ntähtäävää yllytystä vastaan.",
-            "Image": "6eda5f9c6ecdb081ee19923d99b770c3"
+            "Text": "2. artikla.\nJokainen on oikeutettu kaikkiin tässä julistuksessa esitettyihin oikeuksiin ja vapauksiin ilman minkäänlaista\nrotuun, väriin, sukupuoleen, kieleen, uskontoon, poliittiseen tai muuhun mielipiteeseen, kansalliseen tai\nyhteiskunnalliseen alkuperään, omaisuuteen, syntyperään tai muuhun tekijään perustuvaa erotusta.\nMitään erotusta ei myöskään pidä tehdä sen maan tai alueen valtiollisen, hallinnollisen tai kansainvälisen\naseman perusteella, johon henkilö kuuluu, olipa tämä alue itsenäinen, huoltohallinnossa, itsehallintoa vailla\ntai täysivaltaisuudeltaan minkä tahansa muun rajoituksen alainen.\n3. artikla.\nKullakin yksilöllä on oikeus elämään, vapauteen ja henkilökohtaiseen turvallisuuteen.\n4. artikla.\nKetään ei saa pitää orjana tai orjuutettuna, kaikki orjuuden ja orjakaupan muodot on kiellettävä.\n5. artikla.\nKetään ei saa kiduttaa eikä kohdella tai rangaista julmasti, epäinhimillisesti tai alentavasti.\n6. artikla.\nJokaisella ihmisellä on kaikkialla oikeus siihen, että hänet henkilönä tunnustetaan lain edessä.\n7. artikla.\nKaikki ovat tasavertaisia lain edessä ja oikeutetut erotuksetta yhtäläiseen lain suojaan. Kaikilla on oikeus\ntasavertaiseen suojaan tätä julistusta loukkaavaa syrjintää vastaan sekä kaikkea sellaiseen syrjintään\ntähtäävää yllytystä vastaan."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "7d512cd8f2d862e81be676502b03e556",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "8. artikla.\nJokaisella on oikeus tehokkaaseen hyvitykseen asianomaisessa kansallisessa tuomioistuimessa häneen\nkohdistuneista teoista, jotka loukkaavat hänelle valtiosäännöllä tai lailla turvattuja perusoikeuksia.\n9. artikla.\nKetään ei saa mielivaltaisesti pidättää, vangita tai ajaa maanpakoon.\n10. artikla.\nJokaisella on täysin tasa-arvoisesti oikeus siihen, että häntä oikeudenmukaisesti ja julkisesti kuullaan\nriippumattomassa ja puolueettomassa tuomioistuimessa hänen oikeuksiaan ja velvollisuuksiaan määrättäessä\ntai häntä vastaan nostettua rikossyytettä selvitettäessä.\n11. artikla.\nJokaisen rikollisesta teosta syytteessä olevan henkilön edellytetään olevan syytön siihen asti kunnes hänen\nsyyllisyytensä on laillisesti todistettu julkisessa oikeudenkäynnissä, jossa hänelle turvataan kaikki hänen\npuolustustaan varten tarpeelliset takeet.\nKetään ei pidä tuomita rangaistavaksi teoista tai laiminlyönneistä, jotka eivät kansallisen tai kansainvälisen\noikeuden mukaan olleet rikollisia tekohetkellä. Myöskään ei pidä tuomita ankarampaan rangaistukseen, kuin\nmikä oli sovellettavissa rangaistavan teon suoritushetkellä.\n12. artikla.\nÄlköön mielivaltaisesti puututtako kenenkään yksityiselämään, perheeseen, kotiin tai kirjeenvaihtoon\nälköönkä loukattako kenenkään kunniaa ja mainetta. Jokaisella on oikeus lain suojaan sellaista puuttumista\ntai loukkausta vastaan.",
-            "Image": "7d512cd8f2d862e81be676502b03e556"
+            "Text": "8. artikla.\nJokaisella on oikeus tehokkaaseen hyvitykseen asianomaisessa kansallisessa tuomioistuimessa häneen\nkohdistuneista teoista, jotka loukkaavat hänelle valtiosäännöllä tai lailla turvattuja perusoikeuksia.\n9. artikla.\nKetään ei saa mielivaltaisesti pidättää, vangita tai ajaa maanpakoon.\n10. artikla.\nJokaisella on täysin tasa-arvoisesti oikeus siihen, että häntä oikeudenmukaisesti ja julkisesti kuullaan\nriippumattomassa ja puolueettomassa tuomioistuimessa hänen oikeuksiaan ja velvollisuuksiaan määrättäessä\ntai häntä vastaan nostettua rikossyytettä selvitettäessä.\n11. artikla.\nJokaisen rikollisesta teosta syytteessä olevan henkilön edellytetään olevan syytön siihen asti kunnes hänen\nsyyllisyytensä on laillisesti todistettu julkisessa oikeudenkäynnissä, jossa hänelle turvataan kaikki hänen\npuolustustaan varten tarpeelliset takeet.\nKetään ei pidä tuomita rangaistavaksi teoista tai laiminlyönneistä, jotka eivät kansallisen tai kansainvälisen\noikeuden mukaan olleet rikollisia tekohetkellä. Myöskään ei pidä tuomita ankarampaan rangaistukseen, kuin\nmikä oli sovellettavissa rangaistavan teon suoritushetkellä.\n12. artikla.\nÄlköön mielivaltaisesti puututtako kenenkään yksityiselämään, perheeseen, kotiin tai kirjeenvaihtoon\nälköönkä loukattako kenenkään kunniaa ja mainetta. Jokaisella on oikeus lain suojaan sellaista puuttumista\ntai loukkausta vastaan."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "e1df88a4141435a48e81a9199fdefec8",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "13. artikla.\nJokaisella on oikeus liikkua vapaasti ja valita asuinpaikkansa kunkin valtion sisällä.\nJokaisella on oikeus lähteä maasta, myös omasta maastaan, ja palata maahansa.\n14. artikla.\nJokaisella vainon kohteeksi joutuneella on oikeus hakea ja nauttia turvapaikkaa muissa maissa.\nTähän oikeuteen ei voida vedota, kun on kysymys tosi epäpoliittisista rikoksista johtuvista syytteistä tai\nteoista, jotka ovat vastoin Yhdistyneiden Kansakuntien periaatteita ja päämääriä.\n15. artikla.\nJokaisella on oikeus kansalaisuuteen.\nKeltään ei saa mielivaltaisesti riistää kansalaisuutta eikä evätä oikeutta kansalaisuuden vaihtamiseen.\n16. artikla.\nTäysi-ikäisillä miehillä ja naisilla on oikeus solmia avioliitto ja perustaa perhe ilman minkäänlaisia rodusta,\nkansalaisuudesta tai uskonnosta johtuvia rajoituksia. Heillä on yhtäläiset oikeudet avioliittoon, avioliiton\naikana ja sen purkamisen jälkeen.\nAvioliiton solmiminen tapahtukoon vain tulevien aviopuolisoiden vapaasta ja täydestä suostumuksesta.\nPerhe on yhteiskunnan luonnollinen ja perustava ydinosa ja sillä on oikeus yhteiskunnan ja valtion suojaan.\n17. artikla.\nJokaisella on oikeus omistaa omaisuutta yksin tai yhdessä toisten kanssa.",
-            "Image": "e1df88a4141435a48e81a9199fdefec8"
+            "Text": "13. artikla.\nJokaisella on oikeus liikkua vapaasti ja valita asuinpaikkansa kunkin valtion sisällä.\nJokaisella on oikeus lähteä maasta, myös omasta maastaan, ja palata maahansa.\n14. artikla.\nJokaisella vainon kohteeksi joutuneella on oikeus hakea ja nauttia turvapaikkaa muissa maissa.\nTähän oikeuteen ei voida vedota, kun on kysymys tosi epäpoliittisista rikoksista johtuvista syytteistä tai\nteoista, jotka ovat vastoin Yhdistyneiden Kansakuntien periaatteita ja päämääriä.\n15. artikla.\nJokaisella on oikeus kansalaisuuteen.\nKeltään ei saa mielivaltaisesti riistää kansalaisuutta eikä evätä oikeutta kansalaisuuden vaihtamiseen.\n16. artikla.\nTäysi-ikäisillä miehillä ja naisilla on oikeus solmia avioliitto ja perustaa perhe ilman minkäänlaisia rodusta,\nkansalaisuudesta tai uskonnosta johtuvia rajoituksia. Heillä on yhtäläiset oikeudet avioliittoon, avioliiton\naikana ja sen purkamisen jälkeen.\nAvioliiton solmiminen tapahtukoon vain tulevien aviopuolisoiden vapaasta ja täydestä suostumuksesta.\nPerhe on yhteiskunnan luonnollinen ja perustava ydinosa ja sillä on oikeus yhteiskunnan ja valtion suojaan.\n17. artikla.\nJokaisella on oikeus omistaa omaisuutta yksin tai yhdessä toisten kanssa."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "b4ca39d173042277d0e2b6a6cc38641b",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Keltään älköön mielivaltaisesti riistettäkö hänen omaisuuttaan.\n18. artikla.\nJokaisella ihmisellä on ajatuksen, omantunnon ja uskonnon vapaus; tämä oikeus sisältää vapauden uskonnon\ntai vakaumuksen vaihtamiseen sekä uskonnon tai vakaumuksen julistamiseen yksin tai yhdessä toisten\nkanssa, sekä julkisesti että yksityisesti, opettamalla sekä harjoittamalla hartautta ja uskonnollisia menoja.\n19. artikla.\nJokaisella on oikeus mielipiteen- ja sananvapauteen; tähän sisältyy oikeus häiritsemättä pitää mielipiteensä\nsekä oikeus rajoista riippumatta hankkia, vastaanottaa ja levittää tietoja kaikkien tiedotusvälineiden kautta.\n20. artikla.\nKaikilla on oikeus rauhanomaiseen kokoontumis- ja yhdistymisvapauteen.\nKetään ei saa pakottaa liittymään mihinkään yhdistykseen.\n21. artikla.\nJokaisella on oikeus osallistua maansa hallitsemiseen joko välittömästi tai vapaasti valittujen edustajien\nvälityksellä.\nJokaisella on yhtäläinen oikeus päästä maansa julkisiin toimiin.\nKansan tahto on hallitusvallan perusta; tämä tahto on ilmaistava määräaikaisilla ja aidoilla vaaleilla, joissa\nkaikilla on yleinen ja yhtäläinen äänioikeus ja joissa äänestys on salainen tai muuta vaalivapauden turvaavaa\nmenettelyä noudattava.\n22. artikla.",
-            "Image": "b4ca39d173042277d0e2b6a6cc38641b"
+            "Text": "Keltään älköön mielivaltaisesti riistettäkö hänen omaisuuttaan.\n18. artikla.\nJokaisella ihmisellä on ajatuksen, omantunnon ja uskonnon vapaus; tämä oikeus sisältää vapauden uskonnon\ntai vakaumuksen vaihtamiseen sekä uskonnon tai vakaumuksen julistamiseen yksin tai yhdessä toisten\nkanssa, sekä julkisesti että yksityisesti, opettamalla sekä harjoittamalla hartautta ja uskonnollisia menoja.\n19. artikla.\nJokaisella on oikeus mielipiteen- ja sananvapauteen; tähän sisältyy oikeus häiritsemättä pitää mielipiteensä\nsekä oikeus rajoista riippumatta hankkia, vastaanottaa ja levittää tietoja kaikkien tiedotusvälineiden kautta.\n20. artikla.\nKaikilla on oikeus rauhanomaiseen kokoontumis- ja yhdistymisvapauteen.\nKetään ei saa pakottaa liittymään mihinkään yhdistykseen.\n21. artikla.\nJokaisella on oikeus osallistua maansa hallitsemiseen joko välittömästi tai vapaasti valittujen edustajien\nvälityksellä.\nJokaisella on yhtäläinen oikeus päästä maansa julkisiin toimiin.\nKansan tahto on hallitusvallan perusta; tämä tahto on ilmaistava määräaikaisilla ja aidoilla vaaleilla, joissa\nkaikilla on yleinen ja yhtäläinen äänioikeus ja joissa äänestys on salainen tai muuta vaalivapauden turvaavaa\nmenettelyä noudattava.\n22. artikla."
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "d3b49a1141ca4edf2d9370268ac50634",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Jokaisella on yhteiskunnan jäsenenä oikeus sosiaaliturvaan sekä oikeus kansallisten toimenpiteiden ja\nkansainvälisen yhteistyön kautta kunkin maan järjestelmä ja voimavarat huomioonottaen, nauttia hänen\nihmisarvolleen ja hänen yksilöllisen olemuksensa vapaalle kehittymiselle välttämättömiä taloudellisia,\nsosiaalisia ja sivistyksellisiä oikeuksia.\n23. artikla.\nJokaisella on oikeus työhön, työpaikan vapaaseen valintaan, oikeudenmukaisiin ja tyydyttäviin työehtoihin\nsekä suojaan työttömyyttä vastaan.\nJokaisella on oikeus ilman minkäänlaista syrjintää samaan palkkaan samasta työstä.\nJokaisella työtä tekevällä on oikeus kohtuulliseen ja riittävään palkkaan, joka turvaa hänelle ja hänen\nperheelleen ihmisarvon mukaisen toimeentulon ja jota tarpeen vaatiessa täydentävät muut sosiaalisen\nsuojelun keinot.\nJokaisella on oikeus perustaa ammattiyhdistyksiä ja liittyä niihin etujensa puolustamiseksi.\n24. artikla.\nJokaisella on oikeus lepoon ja vapaa-aikaan, työajan järkevään rajoittamiseen sekä määräaikaisiin palkallisiin\nlomiin.\n25. artikla.\nJokaisella on oikeus elintasoon, joka on riittävä turvaamaan hänen ja hänen perheensä terveyden ja\nhyvinvoinnin ravinnon, vaatetuksen, asunnon, lääkintähuollon ja välttämättömän yhteiskunnallisen huollon\nosalta. Jokaisella on myös oikeus turvaan työttömyyden, sairauden, tapaturman, leskeyden tai vanhuuden\nsekä muun hänen tahdostaan riippumatta tapahtuneen toimeentulon menetyksen varalta.",
-            "Image": "d3b49a1141ca4edf2d9370268ac50634"
+            "Text": "Jokaisella on yhteiskunnan jäsenenä oikeus sosiaaliturvaan sekä oikeus kansallisten toimenpiteiden ja\nkansainvälisen yhteistyön kautta kunkin maan järjestelmä ja voimavarat huomioonottaen, nauttia hänen\nihmisarvolleen ja hänen yksilöllisen olemuksensa vapaalle kehittymiselle välttämättömiä taloudellisia,\nsosiaalisia ja sivistyksellisiä oikeuksia.\n23. artikla.\nJokaisella on oikeus työhön, työpaikan vapaaseen valintaan, oikeudenmukaisiin ja tyydyttäviin työehtoihin\nsekä suojaan työttömyyttä vastaan.\nJokaisella on oikeus ilman minkäänlaista syrjintää samaan palkkaan samasta työstä.\nJokaisella työtä tekevällä on oikeus kohtuulliseen ja riittävään palkkaan, joka turvaa hänelle ja hänen\nperheelleen ihmisarvon mukaisen toimeentulon ja jota tarpeen vaatiessa täydentävät muut sosiaalisen\nsuojelun keinot.\nJokaisella on oikeus perustaa ammattiyhdistyksiä ja liittyä niihin etujensa puolustamiseksi.\n24. artikla.\nJokaisella on oikeus lepoon ja vapaa-aikaan, työajan järkevään rajoittamiseen sekä määräaikaisiin palkallisiin\nlomiin.\n25. artikla.\nJokaisella on oikeus elintasoon, joka on riittävä turvaamaan hänen ja hänen perheensä terveyden ja\nhyvinvoinnin ravinnon, vaatetuksen, asunnon, lääkintähuollon ja välttämättömän yhteiskunnallisen huollon\nosalta. Jokaisella on myös oikeus turvaan työttömyyden, sairauden, tapaturman, leskeyden tai vanhuuden\nsekä muun hänen tahdostaan riippumatta tapahtuneen toimeentulon menetyksen varalta."
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "f8a1f40709df7080398ad555b365458e",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Äideillä ja lapsilla on oikeus erityiseen huoltoon ja apuun. Kaikkien lasten, riippumatta siitä, ovatko he\nsyntyneet avioliitossa tai sen ulkopuolella, tulee nauttia samaa yhteiskunnan suojaa.\n26. artikla.\nJokaisella on oikeus saada opetusta. Opetuksen on oltava ainakin alkeis- ja perusopetuksen osalta\nmaksutonta. Alkeisopetuksen on oltava pakollinen. Teknistä ja ammattiopetusta on oltava yleisesti saatavilla,\nja korkeamman opetuksen on oltava avoinna yhtäläisesti kaikille heidän kykyjensä mukaan.\nOpetuksen on pyrittävä ihmisen persoonallisuuden täyteen kehittämiseen sekä ihmisoikeuksien ja\nperusvapauksien kunnioittamisen vahvistamiseen. Sen tulee edistää ymmärtämystä, suvaitsevaisuutta ja\nystävyyttä kaikkien kansakuntien ja kaikkien rotu- ja uskontoryhmien kesken sekä pyrkiä edistämään\nYhdistyneiden Kansakuntien toimintaa rauhan ylläpitämiseksi.\nVanhemmilla on ensisijainen oikeus valita heidän lapsilleen annettavan opetuksen laatu.\n27. artikla.\nJokaisella on oikeus vapaasti osallistua yhteiskunnan sivistyselämään, nauttia taiteista sekä päästä osalliseksi\ntieteen edistyksen mukanaan tuomista eduista.\nJokaisella on oikeus niiden henkisten ja aineellisten etujen suojaamiseen, jotka johtuvat hänen luomastaan\ntieteellisestä, kirjallisesta tai taiteellisesta tuotannosta.\n28. artikla.\nJokaisella on oikeus sellaiseen yhteiskunnalliseen ja kansainväliseen järjestykseen, jonka puitteissa tässä\njulistuksessa esitetyt oikeudet ja velvollisuudet voivat täysin toteutua.\n29. artikla.",
-            "Image": "f8a1f40709df7080398ad555b365458e"
+            "Text": "Äideillä ja lapsilla on oikeus erityiseen huoltoon ja apuun. Kaikkien lasten, riippumatta siitä, ovatko he\nsyntyneet avioliitossa tai sen ulkopuolella, tulee nauttia samaa yhteiskunnan suojaa.\n26. artikla.\nJokaisella on oikeus saada opetusta. Opetuksen on oltava ainakin alkeis- ja perusopetuksen osalta\nmaksutonta. Alkeisopetuksen on oltava pakollinen. Teknistä ja ammattiopetusta on oltava yleisesti saatavilla,\nja korkeamman opetuksen on oltava avoinna yhtäläisesti kaikille heidän kykyjensä mukaan.\nOpetuksen on pyrittävä ihmisen persoonallisuuden täyteen kehittämiseen sekä ihmisoikeuksien ja\nperusvapauksien kunnioittamisen vahvistamiseen. Sen tulee edistää ymmärtämystä, suvaitsevaisuutta ja\nystävyyttä kaikkien kansakuntien ja kaikkien rotu- ja uskontoryhmien kesken sekä pyrkiä edistämään\nYhdistyneiden Kansakuntien toimintaa rauhan ylläpitämiseksi.\nVanhemmilla on ensisijainen oikeus valita heidän lapsilleen annettavan opetuksen laatu.\n27. artikla.\nJokaisella on oikeus vapaasti osallistua yhteiskunnan sivistyselämään, nauttia taiteista sekä päästä osalliseksi\ntieteen edistyksen mukanaan tuomista eduista.\nJokaisella on oikeus niiden henkisten ja aineellisten etujen suojaamiseen, jotka johtuvat hänen luomastaan\ntieteellisestä, kirjallisesta tai taiteellisesta tuotannosta.\n28. artikla.\nJokaisella on oikeus sellaiseen yhteiskunnalliseen ja kansainväliseen järjestykseen, jonka puitteissa tässä\njulistuksessa esitetyt oikeudet ja velvollisuudet voivat täysin toteutua.\n29. artikla."
         },
         "8": {
-            "Label": "9",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "b924d0347c7aa0354828ba6f93ae4dd1",
             "Index": 8,
+            "Label": "9",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Jokaisella ihmisellä on velvollisuuksia yhteiskuntaa kohtaan, koska vain sen puitteissa hänen yksilöllisen\nolemuksensa vapaa ja täysi kehitys on mahdollinen.\nKäyttäessään oikeuksiaan ja nauttiessaan vapauksiaan kukaan ei ole muiden kuin sellaisten lailla säädettyjen\nrajoitusten alainen, joiden yksinomaisena tarkoituksena on turvata toisten oikeuksien ja vapauksien\ntunnustaminen ja kunnioittaminen sekä moraalin, julkisen järjestyksen ja yleisen hyvinvoinnin oikeutetut\nvaatimukset kansanvaltaisessa yhteiskunnassa.\nNäitä oikeuksia ja vapauksia ei missään tapauksessa saa käyttää vastoin Yhdistyneiden Kansakuntien\npäämääriä ja periaatteita.\n30. artikla.\nMitään tässä julistuksessa ei saa tulkita niin, että valtio, ryhmä tai yksityinen henkilö voi sen perusteella\nkatsoa oikeudekseen tehdä sellaista, mikä voisi hävittää tässä määriteltyjä oikeuksia ja vapauksia.",
-            "Image": "b924d0347c7aa0354828ba6f93ae4dd1"
+            "Text": "Jokaisella ihmisellä on velvollisuuksia yhteiskuntaa kohtaan, koska vain sen puitteissa hänen yksilöllisen\nolemuksensa vapaa ja täysi kehitys on mahdollinen.\nKäyttäessään oikeuksiaan ja nauttiessaan vapauksiaan kukaan ei ole muiden kuin sellaisten lailla säädettyjen\nrajoitusten alainen, joiden yksinomaisena tarkoituksena on turvata toisten oikeuksien ja vapauksien\ntunnustaminen ja kunnioittaminen sekä moraalin, julkisen järjestyksen ja yleisen hyvinvoinnin oikeutetut\nvaatimukset kansanvaltaisessa yhteiskunnassa.\nNäitä oikeuksia ja vapauksia ei missään tapauksessa saa käyttää vastoin Yhdistyneiden Kansakuntien\npäämääriä ja periaatteita.\n30. artikla.\nMitään tässä julistuksessa ei saa tulkita niin, että valtio, ryhmä tai yksityinen henkilö voi sen perusteella\nkatsoa oikeudekseen tehdä sellaista, mikä voisi hävittää tässä määriteltyjä oikeuksia ja vapauksia."
         }
     }
 }

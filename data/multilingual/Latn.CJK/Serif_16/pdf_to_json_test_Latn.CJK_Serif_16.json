@@ -1,80 +1,80 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581467541,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "9b08eae340c6f471765f8a1df9270592",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "NZUO LYA MAPAPILO NYI KUSAKULA TCHA KUTESA MUKANDA UA\nMUTCHIFUTCHI TCHESWE YA KUSAKULA TCHA ATHU ESWE\nYakudaptala nyi kuilhinga ku Asembeleia Yeswe mu Kuthunga 217 A (III) ya 10 ya\nDezembro ya 1948\nKuputhuka\nHakukonsiderala ngwo kunyinguika ya vumbi ya kusa ha usoko eswe nyi kusakula jhó\njhimuwikha\nJakulinga ye fundamentu ya kulenguluka ya ululi ya zango mutchifutchi ;\nHakukonsiderala ngwo kanyinguikine , kupala tcha kusakula tcha athu, yatuala ku\nyuma yipe ize ya kuasunga mu mana jha atu nyi maliji jha tchifutchi chize atu eswe\netche alingue, ahanjike ,atayze, hanga atchine mu lamba, ya isako ngue yuma\nyatamba kukaula athu eswe.\nHakukonsiderala ngwo tchatamba kufunga tche kusakula tcha athu ha imwe regime\nya kusakula, hanga athu atchine kulinga ize azanguile,mu kutchina, ha kuhiluka ya\nyuma yipe nyi matamiso;\nHakukonsiderala ngwo tchatamba kukuasa kukolesa wue usepha hali ifuchi;\nHakukonsiderala ngwo, ha mukanda, wua athu jha ifutchi alikuata kanambe, nawa,\nngwo ufulhelo wuo ha kusakula tcha athu, ha vumbi lia athu eswe, ha kulifa ya\nkusakula jha malunga nyi mapwo mba yaha yuma yakulinga ha kukuasa yuma inende\nheswe nyi kulinga yuma yipema ha muono hua mutchima tcha kulenguluka tchinene;\nHakukonsiderala ngwo mavungo akwo halithunjika alueze, kulikuasa nyi\nakuakululieka ifutchi ya linunga, lie vumbi lia mutchifutchi nyi zango lha kusakula\ntcha athu nyi kukola tcha kulenguluka;\nHakukonsiderala ngwo kupwa tchimuikha tcha kusakula nyi kulenguluka ye ya ulemo\ninene hanga ahane kuuaha ya lhitayza tchatcho:\nYe Asembeleia Yeswe Hakusa ye declaraçao ya mutchifutchi tcheswe ya kusakula\ntcha athu ngwe ipema uikha ha kuheta kuli athu eswe ku ifutchi yeswe, hangta athu\neswe nyi jhe milimo,jipwe mu espiritu, alikolueze, ku ulongueso ua vumbi ya kusakula\nnyi kutuaka, kuluthue mu membo nyi kusuku, tche kunyinguika tcha kusa yuma\nkuswe nyi zango hali athu jha mue muihunda hakamuihi, tchize ngue yfutchi aysa hali\nakua ululi.\nSHIMBI YA 1º\nAthu eswe kakusemuka ngwe akwo, ku vumbi nyi hakusakula.Kali nyi mana,mba\nmahasa kulinga umwu hali mukwo nyi espiritu ya kuli kuasa.\nSHIMBI YA 2º\nAthu eswe mahasa kulinga yuma anazangue nyi kusakula ha yno declaraçao,kanda\nalinga katonde hali athu a ku mavungu ekha,hanjhi ha malunga nyi mapwo, ha\nmalinji,ha ngueleja,ha politica nyi hayuma ikuo,ha mumaihunda,ha upite, ha\nkusemuka nyi hesuaho.\nHa tchotcho ketchi kulinga nyi umwu katonde ha kuputuka ku shimbi,ya",
-            "Image": "9b08eae340c6f471765f8a1df9270592"
+            "Text": "NZUO LYA MAPAPILO NYI KUSAKULA TCHA KUTESA MUKANDA UA\nMUTCHIFUTCHI TCHESWE YA KUSAKULA TCHA ATHU ESWE\nYakudaptala nyi kuilhinga ku Asembeleia Yeswe mu Kuthunga 217 A (III) ya 10 ya\nDezembro ya 1948\nKuputhuka\nHakukonsiderala ngwo kunyinguika ya vumbi ya kusa ha usoko eswe nyi kusakula jhó\njhimuwikha\nJakulinga ye fundamentu ya kulenguluka ya ululi ya zango mutchifutchi ;\nHakukonsiderala ngwo kanyinguikine , kupala tcha kusakula tcha athu, yatuala ku\nyuma yipe ize ya kuasunga mu mana jha atu nyi maliji jha tchifutchi chize atu eswe\netche alingue, ahanjike ,atayze, hanga atchine mu lamba, ya isako ngue yuma\nyatamba kukaula athu eswe.\nHakukonsiderala ngwo tchatamba kufunga tche kusakula tcha athu ha imwe regime\nya kusakula, hanga athu atchine kulinga ize azanguile,mu kutchina, ha kuhiluka ya\nyuma yipe nyi matamiso;\nHakukonsiderala ngwo tchatamba kukuasa kukolesa wue usepha hali ifuchi;\nHakukonsiderala ngwo, ha mukanda, wua athu jha ifutchi alikuata kanambe, nawa,\nngwo ufulhelo wuo ha kusakula tcha athu, ha vumbi lia athu eswe, ha kulifa ya\nkusakula jha malunga nyi mapwo mba yaha yuma yakulinga ha kukuasa yuma inende\nheswe nyi kulinga yuma yipema ha muono hua mutchima tcha kulenguluka tchinene;\nHakukonsiderala ngwo mavungo akwo halithunjika alueze, kulikuasa nyi\nakuakululieka ifutchi ya linunga, lie vumbi lia mutchifutchi nyi zango lha kusakula\ntcha athu nyi kukola tcha kulenguluka;\nHakukonsiderala ngwo kupwa tchimuikha tcha kusakula nyi kulenguluka ye ya ulemo\ninene hanga ahane kuuaha ya lhitayza tchatcho:\nYe Asembeleia Yeswe Hakusa ye declaraçao ya mutchifutchi tcheswe ya kusakula\ntcha athu ngwe ipema uikha ha kuheta kuli athu eswe ku ifutchi yeswe, hangta athu\neswe nyi jhe milimo,jipwe mu espiritu, alikolueze, ku ulongueso ua vumbi ya kusakula\nnyi kutuaka, kuluthue mu membo nyi kusuku, tche kunyinguika tcha kusa yuma\nkuswe nyi zango hali athu jha mue muihunda hakamuihi, tchize ngue yfutchi aysa hali\nakua ululi.\nSHIMBI YA 1º\nAthu eswe kakusemuka ngwe akwo, ku vumbi nyi hakusakula.Kali nyi mana,mba\nmahasa kulinga umwu hali mukwo nyi espiritu ya kuli kuasa.\nSHIMBI YA 2º\nAthu eswe mahasa kulinga yuma anazangue nyi kusakula ha yno declaraçao,kanda\nalinga katonde hali athu a ku mavungu ekha,hanjhi ha malunga nyi mapwo, ha\nmalinji,ha ngueleja,ha politica nyi hayuma ikuo,ha mumaihunda,ha upite, ha\nkusemuka nyi hesuaho.\nHa tchotcho ketchi kulinga nyi umwu katonde ha kuputuka ku shimbi,ya"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "6af8c0780f79b18f7a2ddebcb83a75ff",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "nguvulu,ululi,hanji yfutchi ikuo tchipwe kuze a semukine muthu ,tchipwe tchifutchi\ntcha lihandununa,ha kutuama ukawo hanji ha umue nguvulu.\nSHIMBI YA 3º\nMuthu muswe mahasa kusakula muono,liberdade nyi kulifunga.\nSHIMBI YA 4º\nNyi umwe ketchi kapua kapinji,hanji kulinguila, upinji nyi kutalatala ya tupinji hali\nyuma,ka ku akanjisa.\nSHIMBI YA 5º\nNyi umue ketchi kulituala ha lamba nyi kumu talatala tchipi hitcha uthu ko.\nSHIMBI YA 6º\nAthu eswe mahasa kusakula, ha kunyinguika ha yhela yeswe ya athu a ululi.\nSHIMBI YA 7º\nEswe amuikha hakutuala ha shimbi, hi nyi katonde ko, mahasa kusakula, apue nyi\nkufunga shimbi. Eswe masakula kufunga tchalifa hali tchesuetcho kutalatala mutchi\nhandununa ha tchuma tcheswe, akautuala ha tchesuatcho kutala tala tcha lamba.\nSHIMBA YA 8º\nMuthu mueswe mahasa kusakula hanga atuale kuli akua ululi, uaze analingue yuma\nku ya pemene ku meso ja nguvulu akua shimbi.\nSHIMBI YA 9º\nNyi umue ketchi kumusa mu mulonga hanjhi mu phoso.\nSHIMBI YA 10º\nMuthu mueswe mahasa kusakula, kulifa nyi akuo,yuma atela aylueze kuli akua ululi\nuaze keshi masepha, hanga atale ku yuma yenyi ,hanga aytangue ngue tchize shimbi\ninambe.\nSHIMBI YA 11º\nMuthu mueswe mamba nguo yuma ypi alinga,nyi kaylinguile, mahasa kuita hanga\namufungue nyi afuphe ndo muze mamona yoze uailinga.\nNyi umwe ketchi kamuambungona ku yuma analhingue, nyi kuyapemene mu\ntchihunda hanjhi mu yfutchi.Tchizetchene,ketchi kamusa mulonga ulemu ngue muze\nalinganga yuma.\nSHIMBI YA 12º\nNyi umue keshi kamunjila mu muono uenyi, mu usoko,hanji mu nzuo,hanji\nmikanda,naua kumuihia vumbi.Ha yuma yatcho, athu eswe kali nyi akua ululi\nafungue.\nSHIMBI YA 13º",
-            "Image": "6af8c0780f79b18f7a2ddebcb83a75ff"
+            "Text": "nguvulu,ululi,hanji yfutchi ikuo tchipwe kuze a semukine muthu ,tchipwe tchifutchi\ntcha lihandununa,ha kutuama ukawo hanji ha umue nguvulu.\nSHIMBI YA 3º\nMuthu muswe mahasa kusakula muono,liberdade nyi kulifunga.\nSHIMBI YA 4º\nNyi umwe ketchi kapua kapinji,hanji kulinguila, upinji nyi kutalatala ya tupinji hali\nyuma,ka ku akanjisa.\nSHIMBI YA 5º\nNyi umue ketchi kulituala ha lamba nyi kumu talatala tchipi hitcha uthu ko.\nSHIMBI YA 6º\nAthu eswe mahasa kusakula, ha kunyinguika ha yhela yeswe ya athu a ululi.\nSHIMBI YA 7º\nEswe amuikha hakutuala ha shimbi, hi nyi katonde ko, mahasa kusakula, apue nyi\nkufunga shimbi. Eswe masakula kufunga tchalifa hali tchesuetcho kutalatala mutchi\nhandununa ha tchuma tcheswe, akautuala ha tchesuatcho kutala tala tcha lamba.\nSHIMBA YA 8º\nMuthu mueswe mahasa kusakula hanga atuale kuli akua ululi, uaze analingue yuma\nku ya pemene ku meso ja nguvulu akua shimbi.\nSHIMBI YA 9º\nNyi umue ketchi kumusa mu mulonga hanjhi mu phoso.\nSHIMBI YA 10º\nMuthu mueswe mahasa kusakula, kulifa nyi akuo,yuma atela aylueze kuli akua ululi\nuaze keshi masepha, hanga atale ku yuma yenyi ,hanga aytangue ngue tchize shimbi\ninambe.\nSHIMBI YA 11º\nMuthu mueswe mamba nguo yuma ypi alinga,nyi kaylinguile, mahasa kuita hanga\namufungue nyi afuphe ndo muze mamona yoze uailinga.\nNyi umwe ketchi kamuambungona ku yuma analhingue, nyi kuyapemene mu\ntchihunda hanjhi mu yfutchi.Tchizetchene,ketchi kamusa mulonga ulemu ngue muze\nalinganga yuma.\nSHIMBI YA 12º\nNyi umue keshi kamunjila mu muono uenyi, mu usoko,hanji mu nzuo,hanji\nmikanda,naua kumuihia vumbi.Ha yuma yatcho, athu eswe kali nyi akua ululi\nafungue.\nSHIMBI YA 13º"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "2ee209d5ffc18d9abe7003060d94104c",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Muthu muesue mahasa kusakula kuze anazangue kusa nzuo lienyi.\nMuthu muesue mahasa kuetcha tchifutchi tchenyi, nyi muze athunga,mba mahasa\nkuhiluka nawa mu tchifutchio tchenyi.\nSHIMBI YA 14º\nMuthu muesue muze mamukaula,mahasa kufupha yfutchi yekha hanga athungue ko.\nKusakula tchatcho, kanda atchimona ngue kalinga tchipi ku meso ja manguvulu.\nSHIMBI YA 15º\nMuthu muesue mahasa kupua vungu lienyi.\nNyi umue ketchi kumuamba nguo hanga atchine kupua nyi vungu liekha.\nSHIMBI YA 16º\nTchize ha miaka ytangu, lunga nyi pfwo ,mahasa kulimbata nyi kuthunga\nusoko,ketchi kunyonga ku vungu hanjhi mavungu nyi ngeleja.Muze alhimbata ndo\nmuze malhilakula eswe mahasa kusakula.\nUmbatchiso ketchi ku ulinga nyi akua kulimbata kazanguile.\nUsoko ue uahianamu yfutchi,no mahasa kusakula yoze mafunga mu unguvulu.\nSHIMBI YA 17º\nMuthu muesue, ukhauenyi hanjhi nyi akuo,mahasa kupua nyi upite.\nNyi umue ketchi kumuambila upite uenyi.\nSHIMBI YA 18º\nMuthu muesue mahasa kusakula nyi ku nyonga, ha ngueleja;mahasa kuya ku\nngueleja yekha,hanji ahanjike tcheka hakutuala ku ngueleja,ukhauenyi hanji nyi\nakuo,halhi athu eswe nyi ha ukhauenyi,ha ku ulongueso,ha kulinga,ha maliji nyi\nimbanda.\nSHIMBI YA 19º\nMuthu muesue mahasa kusakula yze mamba, yze anzajangue,inambe nguo ketchi\nkumuamba tchipi ku yze anyonga,nyi kumufupha,hanga atambule utelumuno.\nSHIMBI YA 20º\nMuthu muesue mahasa kusakula nyi yoze malinunga alhingue yuma ypema.\nNyi umue ketchi kumunumguisa kuli akuo nyi kazanguile.\nSHIMBI YA 21º\nMuthu muesuawo,mahasa kupua kulutue lia milhimo ja mu tchifutchi tcheny,tchipue\nmuene hanji uaze matongola.\nMuthu muesue mahasa kupua, ngue akuo,ha milimo ya athu eswe mu tchifutchi\ntchenyi.",
-            "Image": "2ee209d5ffc18d9abe7003060d94104c"
+            "Text": "Muthu muesue mahasa kusakula kuze anazangue kusa nzuo lienyi.\nMuthu muesue mahasa kuetcha tchifutchi tchenyi, nyi muze athunga,mba mahasa\nkuhiluka nawa mu tchifutchio tchenyi.\nSHIMBI YA 14º\nMuthu muesue muze mamukaula,mahasa kufupha yfutchi yekha hanga athungue ko.\nKusakula tchatcho, kanda atchimona ngue kalinga tchipi ku meso ja manguvulu.\nSHIMBI YA 15º\nMuthu muesue mahasa kupua vungu lienyi.\nNyi umue ketchi kumuamba nguo hanga atchine kupua nyi vungu liekha.\nSHIMBI YA 16º\nTchize ha miaka ytangu, lunga nyi pfwo ,mahasa kulimbata nyi kuthunga\nusoko,ketchi kunyonga ku vungu hanjhi mavungu nyi ngeleja.Muze alhimbata ndo\nmuze malhilakula eswe mahasa kusakula.\nUmbatchiso ketchi ku ulinga nyi akua kulimbata kazanguile.\nUsoko ue uahianamu yfutchi,no mahasa kusakula yoze mafunga mu unguvulu.\nSHIMBI YA 17º\nMuthu muesue, ukhauenyi hanjhi nyi akuo,mahasa kupua nyi upite.\nNyi umue ketchi kumuambila upite uenyi.\nSHIMBI YA 18º\nMuthu muesue mahasa kusakula nyi ku nyonga, ha ngueleja;mahasa kuya ku\nngueleja yekha,hanji ahanjike tcheka hakutuala ku ngueleja,ukhauenyi hanji nyi\nakuo,halhi athu eswe nyi ha ukhauenyi,ha ku ulongueso,ha kulinga,ha maliji nyi\nimbanda.\nSHIMBI YA 19º\nMuthu muesue mahasa kusakula yze mamba, yze anzajangue,inambe nguo ketchi\nkumuamba tchipi ku yze anyonga,nyi kumufupha,hanga atambule utelumuno.\nSHIMBI YA 20º\nMuthu muesue mahasa kusakula nyi yoze malinunga alhingue yuma ypema.\nNyi umue ketchi kumunumguisa kuli akuo nyi kazanguile.\nSHIMBI YA 21º\nMuthu muesuawo,mahasa kupua kulutue lia milhimo ja mu tchifutchi tcheny,tchipue\nmuene hanji uaze matongola.\nMuthu muesue mahasa kupua, ngue akuo,ha milimo ya athu eswe mu tchifutchi\ntchenyi."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "629967dfb0ea6fe76b3469fab83fc0fc",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Ndo athu eswe apue kanaua,mba hanga ahase ku tongola yoze mapua nguvulu, muze\nma tongola mu tukueji ha tukuji,kuli eswe,ngue tchize shimbi inambe.\nSHIMBI YA 22º\nMuthu muesuawo, mahasa kupua nyi ukuaso ua nguvulu,mahasa kuita anyinguike ha\nkutuala ku upite,ha ku ndako,tchatamba kutatamisa akua kukuasa yfutchi,ha ukuaso\nua akua kulinga nyi yuma ylhi mu yfutchi.\nSHIMBI YA 23º\nMuthu muesue, mahasa ku kilhikita,nyi yze azanga ha milhimo nyi ha kutchina kupua\nnayo.\nEswe mahasa kupua nyi milhimo nyi ufeto ngue akuo.\nYoze uakilhikita ndo mamufeta hanga eva kuwaha,hanga usoko jenhi atuame\nkanaua,nyi afungue ku yuma ykuo yeswe.\nMuthu muesue mahasa kuputhuka nyi athu akuo, mazuwo hanga atalhile yuma yo.\nSHIMBI YA 24º\nMuthu muesue mahasa kusakula nyi kuhuima, hanji nyi kutchina kukilikita,welo ndo\nmamufeta mumu kanahuimi.\nSHIMBI YA 25º\nMuthu muesue ndo mapua nyi muono upema,mba ahase kuhinduka hamuikha nyi\nusoko,tcha tamba ha kutuala ku kulha , kuku zala,ku upombelo,ku mandotolo nyi\nnaua ha milhimo ya akua kukuasa,nyi kakilhikithile tchatamba kuakuasa,ku ikola,nyi\nuafisa lunga,ha ushinakaji nyi ha yuma ykuo yze ketshi kuhasa kulhinga.\nA naye nyi ana ndo makuasa. Tuanuke eswe,asemuka mu tchima hanji kusuku lia\natato,no ndo kua kuasa.\nSHIMBI YA 26º\nMuthu muesue ndo kumulonguesa.Kulhilonguesa tchatamabile ku tchifeta,mumu\ntchatamba eswe kunyinguika. Ndo manyinguika eswe.kulhilonguesa tchikuo tcha\nkueswe; Ndo kulhilonguesa nyi tatchi mba uaze anazangue ahase kulhi ndotolala.\nKulonguesa tchatela muthu nyi muthu,wuelo ndo kulhikolueza mba hanga ahase\nkunhingueka,apue masepha nyi mavungu akuo hanjhi kaua ngueleja,nyi naua ha\nkutuala kuluthue zango mu mavungu eswe.\nA tato e masakula nyi ananyinguika, tchize malonguesa ano.\nSHIMBI YA 27º\nMuthu muesue mahasa kusakula yze malhinga ha kutuala ku ndako ja mu\nmaihunda,nyi ku kuasa hanga tchi futchi tchilhingue yuma ypema.\nEswe mahasa kusakula yze ya tamba kukaula nyi yze malhinga ngue akua\nmana,hanjhi akua kuimba nyi kusoneka.\nSHIMBI YA 28º",
-            "Image": "629967dfb0ea6fe76b3469fab83fc0fc"
+            "Text": "Ndo athu eswe apue kanaua,mba hanga ahase ku tongola yoze mapua nguvulu, muze\nma tongola mu tukueji ha tukuji,kuli eswe,ngue tchize shimbi inambe.\nSHIMBI YA 22º\nMuthu muesuawo, mahasa kupua nyi ukuaso ua nguvulu,mahasa kuita anyinguike ha\nkutuala ku upite,ha ku ndako,tchatamba kutatamisa akua kukuasa yfutchi,ha ukuaso\nua akua kulinga nyi yuma ylhi mu yfutchi.\nSHIMBI YA 23º\nMuthu muesue, mahasa ku kilhikita,nyi yze azanga ha milhimo nyi ha kutchina kupua\nnayo.\nEswe mahasa kupua nyi milhimo nyi ufeto ngue akuo.\nYoze uakilhikita ndo mamufeta hanga eva kuwaha,hanga usoko jenhi atuame\nkanaua,nyi afungue ku yuma ykuo yeswe.\nMuthu muesue mahasa kuputhuka nyi athu akuo, mazuwo hanga atalhile yuma yo.\nSHIMBI YA 24º\nMuthu muesue mahasa kusakula nyi kuhuima, hanji nyi kutchina kukilikita,welo ndo\nmamufeta mumu kanahuimi.\nSHIMBI YA 25º\nMuthu muesue ndo mapua nyi muono upema,mba ahase kuhinduka hamuikha nyi\nusoko,tcha tamba ha kutuala ku kulha , kuku zala,ku upombelo,ku mandotolo nyi\nnaua ha milhimo ya akua kukuasa,nyi kakilhikithile tchatamba kuakuasa,ku ikola,nyi\nuafisa lunga,ha ushinakaji nyi ha yuma ykuo yze ketshi kuhasa kulhinga.\nA naye nyi ana ndo makuasa. Tuanuke eswe,asemuka mu tchima hanji kusuku lia\natato,no ndo kua kuasa.\nSHIMBI YA 26º\nMuthu muesue ndo kumulonguesa.Kulhilonguesa tchatamabile ku tchifeta,mumu\ntchatamba eswe kunyinguika. Ndo manyinguika eswe.kulhilonguesa tchikuo tcha\nkueswe; Ndo kulhilonguesa nyi tatchi mba uaze anazangue ahase kulhi ndotolala.\nKulonguesa tchatela muthu nyi muthu,wuelo ndo kulhikolueza mba hanga ahase\nkunhingueka,apue masepha nyi mavungu akuo hanjhi kaua ngueleja,nyi naua ha\nkutuala kuluthue zango mu mavungu eswe.\nA tato e masakula nyi ananyinguika, tchize malonguesa ano.\nSHIMBI YA 27º\nMuthu muesue mahasa kusakula yze malhinga ha kutuala ku ndako ja mu\nmaihunda,nyi ku kuasa hanga tchi futchi tchilhingue yuma ypema.\nEswe mahasa kusakula yze ya tamba kukaula nyi yze malhinga ngue akua\nmana,hanjhi akua kuimba nyi kusoneka.\nSHIMBI YA 28º"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "a7068cbf45448ef81fccc540b0a78ce5",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Muthu muesue mahasa kuthumina,mu tchihunda nyi mu yfutchi,yno shimbi muy hasa\nkutuala ha uthulhikilo ua yno papilo.\nSHIMBI YA 29º\nMuthu muesue ndo malhinguila tchihunda,nekha ketchi kulhinga kuekha hanga\natuale vumbi lia jina lienyi.\nHa kulhinga yno yuma nyi umue kaso kupuako hanji ha shimbi jize makaula hanga\nalhingue yuma tchize tcha tamba mba hapue vumbi hali eswe,ha kutuala kulhi yesue\nnyi eswe atuame kanawa.\nHa tchuma tchesuatcho tcha kusakula nyi kulhinga yeswe, kanda nukalhinga yuma\nyekha yze mavungu alikuata kazanguile.\nSHIMBI YA 30º\nNyimwe yuma ya muno mu kuambila ketchi ka ytesa nyi mu mayhunda yesuayo,\nmuusoko hanjhi umuwikha kalhi nyi thajhi ja kuhana milhimo yesuayo hanjhi ha\nkulhinga yesuayo yuma ya kupupa tche kusakula tcha athu anambe akuno.",
-            "Image": "a7068cbf45448ef81fccc540b0a78ce5"
+            "Text": "Muthu muesue mahasa kuthumina,mu tchihunda nyi mu yfutchi,yno shimbi muy hasa\nkutuala ha uthulhikilo ua yno papilo.\nSHIMBI YA 29º\nMuthu muesue ndo malhinguila tchihunda,nekha ketchi kulhinga kuekha hanga\natuale vumbi lia jina lienyi.\nHa kulhinga yno yuma nyi umue kaso kupuako hanji ha shimbi jize makaula hanga\nalhingue yuma tchize tcha tamba mba hapue vumbi hali eswe,ha kutuala kulhi yesue\nnyi eswe atuame kanawa.\nHa tchuma tchesuatcho tcha kusakula nyi kulhinga yeswe, kanda nukalhinga yuma\nyekha yze mavungu alikuata kazanguile.\nSHIMBI YA 30º\nNyimwe yuma ya muno mu kuambila ketchi ka ytesa nyi mu mayhunda yesuayo,\nmuusoko hanjhi umuwikha kalhi nyi thajhi ja kuhana milhimo yesuayo hanjhi ha\nkulhinga yesuayo yuma ya kupupa tche kusakula tcha athu anambe akuno."
         }
     }
 }

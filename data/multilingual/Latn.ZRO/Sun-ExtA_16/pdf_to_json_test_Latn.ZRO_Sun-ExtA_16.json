@@ -1,80 +1,80 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581471649,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
+            ],
+            "Image": "34ef7c84483d17021735a672aaf85e50",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
-            ],
-            "Text": "?\nKAWIRIAJA KAYAPI RIKUANU 50 APARUA AKASUJUNUKA KUNUMASHIRA KINIANA KAYAPUINA 1948-1998\nKUNUMASHIRA KIRAKA RIKUANU KAYAPI\nKiraitia kiniana amimaja jinia, kiniana kiraka niata nuka 10 tuwijia kashikua jiania\naparua 1948 aitika aniti atijianuka kunumashira kiraka rikuanu. Kayapuina ta nuka\nikicha arishnu nukicha tia nukaka kiniana panichanu akasujunuka ikicha wikaishinu\ninianu aitika itiama iya tamanu aitikua aiti taikua ikima kiraitia niatajinia rapaka\njinia tamanu akasujunuka.\nWitsa ikicha panichanu niakawiria jinia kutarajita kawiriaja ku aramaja ikicha kupani\nmajicha.\nPanichanu tamasa taykua kayapi kupanimajicha ikicha nuka kiniana amimaja anakijaunuka\ntaikua inianu. Witsaka akasujunuka iya yakawi witsaja ikicha niakawiria nukaka kuakinu\nakasujutsaka ta nuka nukima. Panicha katsata kupanimajicha kayapi ikicha kujinianu ta\nnuka tina ku panimajicha nukicha nuka kayapi witsata ikicha taikua anakijaunu nuka\niniaunu, panichanu injia kui akuinaja tarajita kiraka kiriiana niatajinia.\nPanichanu ikicha tamanu rikuanu kupanimajicha ikicha kiaraka kiniana amimaja niatajinia\nkayapui ikimajicha nuka kau kayapi ikinu, panicha tauku, itiumu ikicha akasujunu\nnishika iya nuka ta kiniana yakawiria ikicha.\nPanicha cha nuka nishima niata akuinaja aramujun tia nuka ikicha kiaraka kiniana\namimaja niata jinia charanishujanu kiraitia witsaja kayapiwa.\nPanicha aramujun kiniana kupanicha majicha ikicha nuka ikicha utatinuka.\nKiraitia kiniana amimaja\nAkatsajuka anicha ahi\nAkatsuju kiraitia rikuanu kayapuina ta nuka tia panichanu kawiriaja niatajinia ikichanu\nnukinu panicha tia nuka aitikua nukaka ishinu kawiriaja charanishijanu ku niata jinia\ntamanuka kiniana niata jinia inauja rapakajinia.\nAkatsuju 1\nKawiriaja kayapuina ichaukui ta nuka pucha panicha kupanimajicha cha nuka nishima\nikicha kiniana panicha tamanuka kanata ikimajicha.\nAkatsuju 2\nKawiriaja jinia kayapui ikicha akasujunuka ichanu rikuanu taikua anaijiki ikicha\nimininu, amitachi, atupama, piatsau, cha nuka nishima, cha nuka miña tamanu kutukinu\nkiraitia, kutukinu, ta nuka kauraka ichakui ikichanu.\naikua nuka ikicha nuka miña ikicha cha nishima, taikua akasujunuka witsaja itiauraja\nkuanu niatajinia, kiraka niata, ku rapaka cha nuka panichanu tamanu nayapui na injia\ncha nuka miña itiama kana ti itiama kanati ikicha chama kiniana ikicha.\nAkatsuju 3\nKawiriaja kayapuina ikichanuiki rikuanu kupanimajicha quehaja ta nuka iki nuka\nkujinianu ku ikicha kayapi.",
-            "Image": "34ef7c84483d17021735a672aaf85e50"
+            "Text": "?\nKAWIRIAJA KAYAPI RIKUANU 50 APARUA AKASUJUNUKA KUNUMASHIRA KINIANA KAYAPUINA 1948-1998\nKUNUMASHIRA KIRAKA RIKUANU KAYAPI\nKiraitia kiniana amimaja jinia, kiniana kiraka niata nuka 10 tuwijia kashikua jiania\naparua 1948 aitika aniti atijianuka kunumashira kiraka rikuanu. Kayapuina ta nuka\nikicha arishnu nukicha tia nukaka kiniana panichanu akasujunuka ikicha wikaishinu\ninianu aitika itiama iya tamanu aitikua aiti taikua ikima kiraitia niatajinia rapaka\njinia tamanu akasujunuka.\nWitsa ikicha panichanu niakawiria jinia kutarajita kawiriaja ku aramaja ikicha kupani\nmajicha.\nPanichanu tamasa taykua kayapi kupanimajicha ikicha nuka kiniana amimaja anakijaunuka\ntaikua inianu. Witsaka akasujunuka iya yakawi witsaja ikicha niakawiria nukaka kuakinu\nakasujutsaka ta nuka nukima. Panicha katsata kupanimajicha kayapi ikicha kujinianu ta\nnuka tina ku panimajicha nukicha nuka kayapi witsata ikicha taikua anakijaunu nuka\niniaunu, panichanu injia kui akuinaja tarajita kiraka kiriiana niatajinia.\nPanichanu ikicha tamanu rikuanu kupanimajicha ikicha kiaraka kiniana amimaja niatajinia\nkayapui ikimajicha nuka kau kayapi ikinu, panicha tauku, itiumu ikicha akasujunu\nnishika iya nuka ta kiniana yakawiria ikicha.\nPanicha cha nuka nishima niata akuinaja aramujun tia nuka ikicha kiaraka kiniana\namimaja niata jinia charanishujanu kiraitia witsaja kayapiwa.\nPanicha aramujun kiniana kupanicha majicha ikicha nuka ikicha utatinuka.\nKiraitia kiniana amimaja\nAkatsajuka anicha ahi\nAkatsuju kiraitia rikuanu kayapuina ta nuka tia panichanu kawiriaja niatajinia ikichanu\nnukinu panicha tia nuka aitikua nukaka ishinu kawiriaja charanishijanu ku niata jinia\ntamanuka kiniana niata jinia inauja rapakajinia.\nAkatsuju 1\nKawiriaja kayapuina ichaukui ta nuka pucha panicha kupanimajicha cha nuka nishima\nikicha kiniana panicha tamanuka kanata ikimajicha.\nAkatsuju 2\nKawiriaja jinia kayapui ikicha akasujunuka ichanu rikuanu taikua anaijiki ikicha\nimininu, amitachi, atupama, piatsau, cha nuka nishima, cha nuka miña tamanu kutukinu\nkiraitia, kutukinu, ta nuka kauraka ichakui ikichanu.\naikua nuka ikicha nuka miña ikicha cha nishima, taikua akasujunuka witsaja itiauraja\nkuanu niatajinia, kiraka niata, ku rapaka cha nuka panichanu tamanu nayapui na injia\ncha nuka miña itiama kana ti itiama kanati ikicha chama kiniana ikicha.\nAkatsuju 3\nKawiriaja kayapuina ikichanuiki rikuanu kupanimajicha quehaja ta nuka iki nuka\nkujinianu ku ikicha kayapi."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
+            ],
+            "Image": "5102c9395a7fef0f09acc165f076303b",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
-            ],
-            "Text": "Akatsuju 4\nTamasa kunaja ikicha kayapuina taikua nuka kanati mashakinu ikicha.\nAkatsuju 5\nTaikua kana ti nuka ikicha, mashakinu tarajita ka taraitianu kayapuina ikicha.\nAkatsuju 6\nKawiriaja kayapui ichanu na rikuanu ja kawiriaja niata jinia.\nAkatsuju 7\nKawiriaja ichanu ta amasha nuka tauikua nukichaja, rikuanu kujinianu akatsujunuka\nrikuanu injia ikicha.\nAkatsuju 8\nKawiriaja kayapui ichanu nukaki aitimajanuka witsaja ta kiniana kiraka kuanu niata\nkatsaka cha aramujuka kana ti atakua ta nukiti nuka jinia kunumashira kiniana kiraka\nniata jinia.\nAkatsuju 9\nKana ti ikicha cha nuka ata yana chaiku taraitianu ikicha taikua nuka amunu.\nAkatsuju 10\nKawiriaja ichanu kayapi uina ta nukapanicha ikinu, ta nuka taujinuka kuanu, niatajinia,\niriaja witsa nuka ta nuka rikuanu na kupanimajicha nuka iria nishauti ta na nuka ti na\nkana ikicha charanishijanu.\nAkatsuju 11\nKawiriaja kayapui anajiki kaushicha ikicha rikuanu taikua nuka nukiti ku itiauraja\nikichanu akasujuka nuka panicha aramujuo ku ikicha.\nKana ti ikicha mashakinu taikua nuka cha miña,taikua itiauraja atija rikuanu kiraka\nniata jinia, kanakua ikicha cha nuka iya mashakinu.\nAkatsuju 12\nKanakua ku ikicha kuyajaka ku itiama, ku aramaja, ku niatajinia taikua anakijaunu.\nKawiriaja ichanu nuka ta kujinianu icha miña wikaishina wikashinu akasujuka.\nAkatsuju 13\nKawiriaka nuka ikicha rikuanu puchakinu aukukujinia panichanu ku itiama ikicha iwanu\nrapaka kiraitia niata.\nKawiriaja kayapi ichanu rikuanuka ta nuka ikuama taka niata, ku ikicha niata, chatima\nku ikuaka niata jinia.\nAkatsuju 14\nKawiriaja kayapi ichanu rikuanu nuka pajinu ikicha nuka ta ka niatajinia.",
-            "Image": "5102c9395a7fef0f09acc165f076303b"
+            "Text": "Akatsuju 4\nTamasa kunaja ikicha kayapuina taikua nuka kanati mashakinu ikicha.\nAkatsuju 5\nTaikua kana ti nuka ikicha, mashakinu tarajita ka taraitianu kayapuina ikicha.\nAkatsuju 6\nKawiriaja kayapui ichanu na rikuanu ja kawiriaja niata jinia.\nAkatsuju 7\nKawiriaja ichanu ta amasha nuka tauikua nukichaja, rikuanu kujinianu akatsujunuka\nrikuanu injia ikicha.\nAkatsuju 8\nKawiriaja kayapui ichanu nukaki aitimajanuka witsaja ta kiniana kiraka kuanu niata\nkatsaka cha aramujuka kana ti atakua ta nukiti nuka jinia kunumashira kiniana kiraka\nniata jinia.\nAkatsuju 9\nKana ti ikicha cha nuka ata yana chaiku taraitianu ikicha taikua nuka amunu.\nAkatsuju 10\nKawiriaja ichanu kayapi uina ta nukapanicha ikinu, ta nuka taujinuka kuanu, niatajinia,\niriaja witsa nuka ta nuka rikuanu na kupanimajicha nuka iria nishauti ta na nuka ti na\nkana ikicha charanishijanu.\nAkatsuju 11\nKawiriaja kayapui anajiki kaushicha ikicha rikuanu taikua nuka nukiti ku itiauraja\nikichanu akasujuka nuka panicha aramujuo ku ikicha.\nKana ti ikicha mashakinu taikua nuka cha miña,taikua itiauraja atija rikuanu kiraka\nniata jinia, kanakua ikicha cha nuka iya mashakinu.\nAkatsuju 12\nKanakua ku ikicha kuyajaka ku itiama, ku aramaja, ku niatajinia taikua anakijaunu.\nKawiriaja ichanu nuka ta kujinianu icha miña wikaishina wikashinu akasujuka.\nAkatsuju 13\nKawiriaka nuka ikicha rikuanu puchakinu aukukujinia panichanu ku itiama ikicha iwanu\nrapaka kiraitia niata.\nKawiriaja kayapi ichanu rikuanuka ta nuka ikuama taka niata, ku ikicha niata, chatima\nku ikuaka niata jinia.\nAkatsuju 14\nKawiriaja kayapi ichanu rikuanu nuka pajinu ikicha nuka ta ka niatajinia."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
+            ],
+            "Image": "aa5d2b9ed875281b92dab39c3c5819fd",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
-            ],
-            "Text": "Ta nuka rikuanu ikicha taikua panicha kaushichana charanishijanu kuyajaka ta nukaka\nkiraitia niata kiniana amimaja.\nAkatsuju 15\nKawiriaja kayapi rikuanu ichanuka kayapuina.\nKanati ikicha kuyajaka nuka ikicha kayapuina na taikua, rikuanu kuatichatai kayapuina\nikichajinia.\nAkatsuju 16\nCha nuka nishima aparua tauku, itiumu ikichanu ta nuka rikuanu cha nuta panichanu\npuchaka taikua taka ikicha kayapuina, piatasau, ikicha akamuiraka ta nuka nishika\naramaja ta ikicha tawijuka ikinu akamuiraka panikia ta nuka tamakukinia akamuiraka.\nTamanuka panicha cha nuka nishima panichanu ikicha iriyanu, irichanu akamuiraka nuka\nikicha.\nTa nuka aramaja kupanimajicha nuka kuanu niatajinia ta nuka iria kujiinianu kawiriaja\nniata jinia.\nAkatsuju 17\nKawiria kayapui na ichanu rikuanu ka ikimajicha, tamanuka nukaki kiniana ikicha.\nKanata ikicha kuyajaka ku ikimajicha.\nAkatsuju 18\nKawiriaja ikichanu nuka panicha cha nuka nishima ku tukinu, piatsau ta nuka, ikicha\nrikuanu, na kuatichatai panicha tia atijia nuka, ku piatsau, tamanu, kiniana tia\nniatajinia, tia nuka kuyaka ja ikicha nuka aiti.\nAkatsuju 19\nKawiriaja napanicha kayapi ikichanu nukaja panicha cha nuka nishima rikuanu ati, atijia\nta ikicha rikuanu cha nukiti ikicha charanishijanu ati akatsujunuka ikicha chama taikua\nnuka ikicha kanati taukimajanuka kiniana.\nAkatsuju 20\nKawiriaja kayapi ikicha ta panicha rikuanu na kiniana amimaja.\nKanati ikicha anakijaunu taikua panicha kiniana.\nAkatsuju 21\nKawiriaja kayapi ichanu rikuanu puchaka cha nuka meiri ani akaminu ku kuanu niata jinia\nikicha nukichanu panicha cha nuka icha.\nKawiriaja kayapi ichanu nuka panichanu, nuka kunaja ikicha icha.\nNiata panichanu ikicha tapuka akauminu shima aiti cha nuka ikicha ani nukicha nuka\ntawijuka kati, kati nuka kunumashira na iriaja yanachaiku atanu katsaka panicha, kana\ntina ikicha aramujuka ikinia ta kiniana panicha ikicha atanu.",
-            "Image": "aa5d2b9ed875281b92dab39c3c5819fd"
+            "Text": "Ta nuka rikuanu ikicha taikua panicha kaushichana charanishijanu kuyajaka ta nukaka\nkiraitia niata kiniana amimaja.\nAkatsuju 15\nKawiriaja kayapi rikuanu ichanuka kayapuina.\nKanati ikicha kuyajaka nuka ikicha kayapuina na taikua, rikuanu kuatichatai kayapuina\nikichajinia.\nAkatsuju 16\nCha nuka nishima aparua tauku, itiumu ikichanu ta nuka rikuanu cha nuta panichanu\npuchaka taikua taka ikicha kayapuina, piatasau, ikicha akamuiraka ta nuka nishika\naramaja ta ikicha tawijuka ikinu akamuiraka panikia ta nuka tamakukinia akamuiraka.\nTamanuka panicha cha nuka nishima panichanu ikicha iriyanu, irichanu akamuiraka nuka\nikicha.\nTa nuka aramaja kupanimajicha nuka kuanu niatajinia ta nuka iria kujiinianu kawiriaja\nniata jinia.\nAkatsuju 17\nKawiria kayapui na ichanu rikuanu ka ikimajicha, tamanuka nukaki kiniana ikicha.\nKanata ikicha kuyajaka ku ikimajicha.\nAkatsuju 18\nKawiriaja ikichanu nuka panicha cha nuka nishima ku tukinu, piatsau ta nuka, ikicha\nrikuanu, na kuatichatai panicha tia atijia nuka, ku piatsau, tamanu, kiniana tia\nniatajinia, tia nuka kuyaka ja ikicha nuka aiti.\nAkatsuju 19\nKawiriaja napanicha kayapi ikichanu nukaja panicha cha nuka nishima rikuanu ati, atijia\nta ikicha rikuanu cha nukiti ikicha charanishijanu ati akatsujunuka ikicha chama taikua\nnuka ikicha kanati taukimajanuka kiniana.\nAkatsuju 20\nKawiriaja kayapi ikicha ta panicha rikuanu na kiniana amimaja.\nKanati ikicha anakijaunu taikua panicha kiniana.\nAkatsuju 21\nKawiriaja kayapi ichanu rikuanu puchaka cha nuka meiri ani akaminu ku kuanu niata jinia\nikicha nukichanu panicha cha nuka icha.\nKawiriaja kayapi ichanu nuka panichanu, nuka kunaja ikicha icha.\nNiata panichanu ikicha tapuka akauminu shima aiti cha nuka ikicha ani nukicha nuka\ntawijuka kati, kati nuka kunumashira na iriaja yanachaiku atanu katsaka panicha, kana\ntina ikicha aramujuka ikinia ta kiniana panicha ikicha atanu."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
+            ],
+            "Image": "2eea341bf28af5f05291293ed06dd63d",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
-            ],
-            "Text": "Akatsuju 22\nKawiriaja tia nuka ikicha nuka icha kujinianu ta nuka ichanu aramujun kiraitia na\nkiniana aitimajanuka tamanu kuanu niatajia tawijuka rikuanu kauraka, kinia kayapuina,\nna irishiaiti kupanimajicha ikimajanu ta nuka panicha nishika ku ikicha taukuruka.\nAkatsuju 23\nKawiriaja kayapi ichanu nuka rikuanu kunaja panicha na icha tawijuka kunaja marutanuka\nikicha takujinianu taikua marujanu.\nKawiriaja kayapi ichanu ta nuka tina rikuanu taikua charanishijanu panicha kanaja\nkuakinu iria kaurakaikicha.\nKawiriaja kunaja kayapi rikuanu ikicha kuakinu kupanicha kauraka tawijuka kupanimajicha\naramaja nuka icha ikimajanuka kataka utatijinia cha nuka na kupanimajicha iriaja kanati\naramujun ikicha.\nKawiriaja ichanu kayapi rikuanu nishika niata kiniana kiniairi kupanimajicha kujinianu.\nAkatsuju 24\nKawiriaja ichanu kayapi nuka ta rikuanu cha nuka ta pirukuatinu tawijuka na ti na ki\npanicha kana ati na chana kunaja charanishijanu ku atinu kauraka icha jinia.\nAkatsuju 25\nKawiriaja kayapi ichanu ikicha iki kujinianu cha nuka icha ku aramaja witsaja tawijuka\nnukata kupanimajicha, atsatsaka, shiriapicha, itiama ikicha anitiama numanaka witsanu\nikicha ta nuka ikicha rikuanu aramujuna ta nuka kunaja pukuika taikua witsa mashikuka\niriripi jinia iriaja taikua ki ikicha.\nKuariu ichakui ichanu rikuanu kujinianu aramujuka kawiriaja mirasua ichakau nuka jinia\nakamuiraka tana kunumashira ichanu panichanu rikuanu aramujuna ikicha.\nAkatsuju 26\nKawiriaja kayapi ichanu ta nuka ti na rikuanu na ta aitinuka ikicha aitimajanuka aiti\nkupanimajicha nuka ta aiti kupanimajicha ukaititika anima ta ikicha kiniaja cha nishima\nkawiria witsaka aitikua ati.\nAitikua ichanu kinia nishika nuka kayapi nishima ta nuka witsa chara nishijanu nuka\nrikuanu kayapi nukata panicha ka kupanimajicha ta kutukinu, pamuchanu, tarajita,\nakuinaja, injia ku kawiria kiraitia niata jinia ta kawiria kiniana kayapuina, piatsau\nta nuka cha meiri manuka kinia niata witsakanu tsurakija ikicha.\nKumanu jinia na ichanu ikicha rikuanu cha nuka nukitia aitika jinia ku mirasua.\nAkatsuju 27\nKawiriaja kayapi ichanu ikicha iriaja ta puchaka nuka ikimajicha ku niata jinia chana\nchitiakaka cha na anima nishika cha nuka nishima ta nuka panicha witsata.\nKawiriaja kayapi ichanu ikicha rikuanu ta nuka kujinianu ikicha iki aitimajanuka ta\nikicha kupanicha icha chan a nishima arishunu, chimijauka chitianu ku ikicha.\nAkatsuju 28",
-            "Image": "2eea341bf28af5f05291293ed06dd63d"
+            "Text": "Akatsuju 22\nKawiriaja tia nuka ikicha nuka icha kujinianu ta nuka ichanu aramujun kiraitia na\nkiniana aitimajanuka tamanu kuanu niatajia tawijuka rikuanu kauraka, kinia kayapuina,\nna irishiaiti kupanimajicha ikimajanu ta nuka panicha nishika ku ikicha taukuruka.\nAkatsuju 23\nKawiriaja kayapi ichanu nuka rikuanu kunaja panicha na icha tawijuka kunaja marutanuka\nikicha takujinianu taikua marujanu.\nKawiriaja kayapi ichanu ta nuka tina rikuanu taikua charanishijanu panicha kanaja\nkuakinu iria kaurakaikicha.\nKawiriaja kunaja kayapi rikuanu ikicha kuakinu kupanicha kauraka tawijuka kupanimajicha\naramaja nuka icha ikimajanuka kataka utatijinia cha nuka na kupanimajicha iriaja kanati\naramujun ikicha.\nKawiriaja ichanu kayapi rikuanu nishika niata kiniana kiniairi kupanimajicha kujinianu.\nAkatsuju 24\nKawiriaja ichanu kayapi nuka ta rikuanu cha nuka ta pirukuatinu tawijuka na ti na ki\npanicha kana ati na chana kunaja charanishijanu ku atinu kauraka icha jinia.\nAkatsuju 25\nKawiriaja kayapi ichanu ikicha iki kujinianu cha nuka icha ku aramaja witsaja tawijuka\nnukata kupanimajicha, atsatsaka, shiriapicha, itiama ikicha anitiama numanaka witsanu\nikicha ta nuka ikicha rikuanu aramujuna ta nuka kunaja pukuika taikua witsa mashikuka\niriripi jinia iriaja taikua ki ikicha.\nKuariu ichakui ichanu rikuanu kujinianu aramujuka kawiriaja mirasua ichakau nuka jinia\nakamuiraka tana kunumashira ichanu panichanu rikuanu aramujuna ikicha.\nAkatsuju 26\nKawiriaja kayapi ichanu ta nuka ti na rikuanu na ta aitinuka ikicha aitimajanuka aiti\nkupanimajicha nuka ta aiti kupanimajicha ukaititika anima ta ikicha kiniaja cha nishima\nkawiria witsaka aitikua ati.\nAitikua ichanu kinia nishika nuka kayapi nishima ta nuka witsa chara nishijanu nuka\nrikuanu kayapi nukata panicha ka kupanimajicha ta kutukinu, pamuchanu, tarajita,\nakuinaja, injia ku kawiria kiraitia niata jinia ta kawiria kiniana kayapuina, piatsau\nta nuka cha meiri manuka kinia niata witsakanu tsurakija ikicha.\nKumanu jinia na ichanu ikicha rikuanu cha nuka nukitia aitika jinia ku mirasua.\nAkatsuju 27\nKawiriaja kayapi ichanu ikicha iriaja ta puchaka nuka ikimajicha ku niata jinia chana\nchitiakaka cha na anima nishika cha nuka nishima ta nuka panicha witsata.\nKawiriaja kayapi ichanu ikicha rikuanu ta nuka kujinianu ikicha iki aitimajanuka ta\nikicha kupanicha icha chan a nishima arishunu, chimijauka chitianu ku ikicha.\nAkatsuju 28"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
+            ],
+            "Image": "57dcbb7248480c5ffa2efcdb146f5f1e",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
-            ],
-            "Text": "Kawiriya kayapi ichanu ikicha rikuanu ta nuka ichanu kiniana ikicha niatajinia ta nuka\nriakuanu ja ata na pucha ta itiauraja ikicha icha nuka miña witsanuka.\nAkatsuju 29\nKawiriaja ichanu ikicha utatinuka charanishijanu ta nuka ku niata jinia tamanuka na\nnishika cha miña puchakinu ikicha witsanu ka ikicha.\nTa nuka cha meiri ku rikuanu ta nuka tawijuka kawiriaja kayapi ikicha nukaka tamanuka\nna tina chamaja ikicha akasujunuka ta nukaki cha nuka nishima na charanishijanu rikuanu\njinia ta nuka kiniana panicha jinia ikicha tawijuka witsaka panichanu ikinu icha\nwitsanuka kiniana puchakinia.\nKu ikicha nuka rikuanu ta nukaka puchakirinu taikua cha ikicha cha meirijanu ta ikuaka\nnuka chameiri utatinuka ikimajanuka kawirija kiniana niata jinia.\nAkatsuju30\nTaikua tamasa ikicha kayapi atijianuka ikicha akasujunuka cha nuka kutukinu ta nuka\ntina inauja rikuanu ta ikicha kuahu niatajinia ta nuka kiniana amimaja cha nuka miña\naitimajanuka kana tina ikicha witsata kanati kawirija ikicha rikuanu puchacha kiniana\ncharanisijanu ikicha itiuarajinia.",
-            "Image": "57dcbb7248480c5ffa2efcdb146f5f1e"
+            "Text": "Kawiriya kayapi ichanu ikicha rikuanu ta nuka ichanu kiniana ikicha niatajinia ta nuka\nriakuanu ja ata na pucha ta itiauraja ikicha icha nuka miña witsanuka.\nAkatsuju 29\nKawiriaja ichanu ikicha utatinuka charanishijanu ta nuka ku niata jinia tamanuka na\nnishika cha miña puchakinu ikicha witsanu ka ikicha.\nTa nuka cha meiri ku rikuanu ta nuka tawijuka kawiriaja kayapi ikicha nukaka tamanuka\nna tina chamaja ikicha akasujunuka ta nukaki cha nuka nishima na charanishijanu rikuanu\njinia ta nuka kiniana panicha jinia ikicha tawijuka witsaka panichanu ikinu icha\nwitsanuka kiniana puchakinia.\nKu ikicha nuka rikuanu ta nukaka puchakirinu taikua cha ikicha cha meirijanu ta ikuaka\nnuka chameiri utatinuka ikimajanuka kawirija kiniana niata jinia.\nAkatsuju30\nTaikua tamasa ikicha kayapi atijianuka ikicha akasujunuka cha nuka kutukinu ta nuka\ntina inauja rikuanu ta ikicha kuahu niatajinia ta nuka kiniana amimaja cha nuka miña\naitimajanuka kana tina ikicha witsata kanati kawirija ikicha rikuanu puchacha kiniana\ncharanisijanu ikicha itiuarajinia."
         }
     }
 }

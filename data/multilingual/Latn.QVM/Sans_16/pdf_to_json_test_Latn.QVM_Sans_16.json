@@ -1,145 +1,145 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581470176,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "dc0a31ff45ff7f8270a853ae85f453b8",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "INTËRU MUNDUCHO LAPAN RUNAKUNAPA DERËCHUNKUNANTA WILAKUSHQAN\nKAYNOQ NIRMI QALAYKUN\nMunashqantsita ruranantsipaq, runakuna ali jusgashqa kananpaq, y ali kawanantsipaqpis kay patsacho,\ntantyashwan imanoq lapantsikunapis bälishqantsita. Tsaynoqpa tantyashwan imanoq lapan runa\nmayintsikuna derëchun nishqankunata tsararaykashqanta. Manami pipis kay derëchun nishqankunata\nkachanmantsu.\nWakinkuna kay derëchun nishqankunata despresyar mana reqipäkushpan pasaypa mana ali kaqkunata\nrurapäkun. Rurapäkuptin interu munducho lapan runakuna shonqun rurincho rabyakärin. Tsawraqa lapanpita\nmas munashqannoq wilakärin mas alina kawapäkunanpaq kaynoq nir: \"Lapan runakuna mana mantsakuypa\nkawanmanna y pishiychöpis manami kanmannatsu. Tsaynoqpis lapan runakuna ima yarpashqankunalatapis\nparlanman y munashqankunalamanpis kriyinman\".\nLaykuna kanman runakunapa derëchun nishqankuna mana elqashqa kananpaq. Tsay presïsumi kaykan. Mana\nkaptenqa imatapis mas rurayta mana pwëdir runakuna imaykanoqpapis mana ali awturidäkunapa kontran\nsharkapakun y tukuynoqpa nakatsikoqkunata elqätsipäkun.\nTsaynoqmi lapan nasyunkuna amistächo kawapäkunman. Tsaypis presïsumi.\nLapan nasyunkunapa delegädunkuna juntakärir eskribipäkorqan Nasyones Unidas nishqanpa qalaykatsinan\nkartata. Tsay kartacho eskribipäkorqan runakunapa derëchun nishqankunapita. Tsaynoqpis eskribipäkorqan\nimanoq runakuna balurniyoq kashqanta, y olqupaq warmipaqpis derëchun nishqankuna iwal kashqanta. Tsay\neskribishqankunaman yärakärin Nasyones Unidas nishqanpa myemrunkuna. Tsaynoqpis tsay kartacho\neskribiraykan kaynoq nir: \"Librina arupäkushun ali kawayman chayapäkunantsipaq\" nir.\nNasyones Unidas nishqanpa lapan myemrunkuna promitipakorqan yanapänakur arupäkunanpaq interu",
-            "Image": "dc0a31ff45ff7f8270a853ae85f453b8"
+            "Text": "INTËRU MUNDUCHO LAPAN RUNAKUNAPA DERËCHUNKUNANTA WILAKUSHQAN\nKAYNOQ NIRMI QALAYKUN\nMunashqantsita ruranantsipaq, runakuna ali jusgashqa kananpaq, y ali kawanantsipaqpis kay patsacho,\ntantyashwan imanoq lapantsikunapis bälishqantsita. Tsaynoqpa tantyashwan imanoq lapan runa\nmayintsikuna derëchun nishqankunata tsararaykashqanta. Manami pipis kay derëchun nishqankunata\nkachanmantsu.\nWakinkuna kay derëchun nishqankunata despresyar mana reqipäkushpan pasaypa mana ali kaqkunata\nrurapäkun. Rurapäkuptin interu munducho lapan runakuna shonqun rurincho rabyakärin. Tsawraqa lapanpita\nmas munashqannoq wilakärin mas alina kawapäkunanpaq kaynoq nir: \"Lapan runakuna mana mantsakuypa\nkawanmanna y pishiychöpis manami kanmannatsu. Tsaynoqpis lapan runakuna ima yarpashqankunalatapis\nparlanman y munashqankunalamanpis kriyinman\".\nLaykuna kanman runakunapa derëchun nishqankuna mana elqashqa kananpaq. Tsay presïsumi kaykan. Mana\nkaptenqa imatapis mas rurayta mana pwëdir runakuna imaykanoqpapis mana ali awturidäkunapa kontran\nsharkapakun y tukuynoqpa nakatsikoqkunata elqätsipäkun.\nTsaynoqmi lapan nasyunkuna amistächo kawapäkunman. Tsaypis presïsumi.\nLapan nasyunkunapa delegädunkuna juntakärir eskribipäkorqan Nasyones Unidas nishqanpa qalaykatsinan\nkartata. Tsay kartacho eskribipäkorqan runakunapa derëchun nishqankunapita. Tsaynoqpis eskribipäkorqan\nimanoq runakuna balurniyoq kashqanta, y olqupaq warmipaqpis derëchun nishqankuna iwal kashqanta. Tsay\neskribishqankunaman yärakärin Nasyones Unidas nishqanpa myemrunkuna. Tsaynoqpis tsay kartacho\neskribiraykan kaynoq nir: \"Librina arupäkushun ali kawayman chayapäkunantsipaq\" nir.\nNasyones Unidas nishqanpa lapan myemrunkuna promitipakorqan yanapänakur arupäkunanpaq interu"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "6f6a59abff2b6e5fe5fbde77ed85285c",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "munducho runakunapa derëchun nishqankuna respitashqa kar kumplikänanpaq.\nKay promitishqanqa ali rurakashqa kananpaq, Iapantsikunapis juk yarpayla tantyapäkushwan kay derëchun\nnishqankunata.\nTsaymi Nasyones Unidaspa juntakashqan runakuna wilakun kayta:\nINTËRU MUNDUCHO LAPAN RUNAKUNAPA DERËCHUNKUNAPITA WILAKUSHQAN\nKay wilakushqan lapan runakunapis nasyunkunapis iwal tantyapäkunanpaq tsay derëchun\nnishqankunapitami. Tsaynoqpaqa lapan runakunapis y mandaq awturidäkunapis, kay wilakushqanman\nyarpashqala kashpanqa, yachatsipäkunman wakinkunata kay derëchun nishqankunata respitananpaq.\nTsaynoqpis juklä nasyunkunawanpis shumaq animatsipäkunman nasyunnincho kaqkunata y wakin\nmunaynincho kaqkunatapis kaynoq nir ninanpaq: \"Kay derëchun nishqankuna lapan runakunapaqmi. Noqa\ntsay derëchunkuna nishqannoqlami ali kawashaq runa mayëkunawan'.\nNISHOAN JUK (1)\nLapantsikunapis Iibrimi yurishqantsi. Bälintsimi y derëchuntsikunapis wakinkaqkunanoqlapami.\nYarpaynintsikunapis kaykanmi runa mayintsikunawan juk wawqinoq kuyanakur kawapäkunantsipaq.\nNISHQAN ISHKAY (2)\nLapantsikunapaqpis kay wilakushqancho eskribishqankaq dere.chuntsikuna. Kay derëchuntsikuna iwalla\nkanman ima räsa runakunapaqpis, yoraqpaq yanapaqpis, warmipaq olqupaqpis ima kläsi rimaqkunapaqpis,\nmayqan relijyunkunaman kriyeqkunapaqpis, tsaynoq ima politikacho pureqkunapaqpis, mayqan nasyunpita\nrunakunapaqpis, riku runakunapaq pobri runakunapaqpis, imanoq yurishqa kaqkunapaqpis, y tsaynoq\nimanoq kawaqkunapaqpis.\nKay derëchuntsikuna iwalla kanman lapantsikunapaqpis. Markantsi nasyunnoq kaptin o mana nasyunnoq",
-            "Image": "6f6a59abff2b6e5fe5fbde77ed85285c"
+            "Text": "munducho runakunapa derëchun nishqankuna respitashqa kar kumplikänanpaq.\nKay promitishqanqa ali rurakashqa kananpaq, Iapantsikunapis juk yarpayla tantyapäkushwan kay derëchun\nnishqankunata.\nTsaymi Nasyones Unidaspa juntakashqan runakuna wilakun kayta:\nINTËRU MUNDUCHO LAPAN RUNAKUNAPA DERËCHUNKUNAPITA WILAKUSHQAN\nKay wilakushqan lapan runakunapis nasyunkunapis iwal tantyapäkunanpaq tsay derëchun\nnishqankunapitami. Tsaynoqpaqa lapan runakunapis y mandaq awturidäkunapis, kay wilakushqanman\nyarpashqala kashpanqa, yachatsipäkunman wakinkunata kay derëchun nishqankunata respitananpaq.\nTsaynoqpis juklä nasyunkunawanpis shumaq animatsipäkunman nasyunnincho kaqkunata y wakin\nmunaynincho kaqkunatapis kaynoq nir ninanpaq: \"Kay derëchun nishqankuna lapan runakunapaqmi. Noqa\ntsay derëchunkuna nishqannoqlami ali kawashaq runa mayëkunawan'.\nNISHOAN JUK (1)\nLapantsikunapis Iibrimi yurishqantsi. Bälintsimi y derëchuntsikunapis wakinkaqkunanoqlapami.\nYarpaynintsikunapis kaykanmi runa mayintsikunawan juk wawqinoq kuyanakur kawapäkunantsipaq.\nNISHQAN ISHKAY (2)\nLapantsikunapaqpis kay wilakushqancho eskribishqankaq dere.chuntsikuna. Kay derëchuntsikuna iwalla\nkanman ima räsa runakunapaqpis, yoraqpaq yanapaqpis, warmipaq olqupaqpis ima kläsi rimaqkunapaqpis,\nmayqan relijyunkunaman kriyeqkunapaqpis, tsaynoq ima politikacho pureqkunapaqpis, mayqan nasyunpita\nrunakunapaqpis, riku runakunapaq pobri runakunapaqpis, imanoq yurishqa kaqkunapaqpis, y tsaynoq\nimanoq kawaqkunapaqpis.\nKay derëchuntsikuna iwalla kanman lapantsikunapaqpis. Markantsi nasyunnoq kaptin o mana nasyunnoq"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "9d010a92be3cf132e7a2fb1a0d23097c",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "kaptinpis, markantsi kikintsipa munaynintsicho kaptin o jukpa munaynincho kaptinpis, markantsipa\nawturidäninkuna imanoq kaptinpis, derëchuntsikuna iwalla kanman.\nNISHQAN KIMSA (3)\nLapantsikunapami derëchuntsi kan mana pipis wanutsimänantsipaq, Iibri munaynintsicho kawanantsipaq, y\nmana pipitapis mantsakuypa kawanantsipaq.\nNISHQAN CHUSKU (4)\nManami pipis rantishqa runanoq arunmantsu jukpaq.\nNISHOAN PITSQA (5)\nKastigashqa karpis, manami pipis fiypa nakatsishqaqa kanmantsu animal nakatsishqa kashqannoq, ni\npasaypa umillatsishqapis kanmantsu.\nNISHQAN SOQTA (6)\nLapantsikunatapis maycho tsaychöpis awturidäkuna mana jarukuylapa ali respitamashwan.\nNISHQAN QANCHIS (7)\nLaykuna jusgamashwan lapantsita iwalla. Kay karta eskribishqa kashqanpita mana käsukoqkunapita Iaykuna\nkuydamashwan lapantsikunatapis mana despresyashqa kaylapa.\nNISHQAN PUSAQ (8)\nJuk runa, nasyunninpa layninta mana käsukur, mana al ita ruramaptintsi, derëchuntsi kanmi\nawturidäkunaman kejakoq aywanantsipaq. Y tsaycho lapantsi atyendishqa kashwan iwalla.\nNISHQAN ISQUN (9)",
-            "Image": "9d010a92be3cf132e7a2fb1a0d23097c"
+            "Text": "kaptinpis, markantsi kikintsipa munaynintsicho kaptin o jukpa munaynincho kaptinpis, markantsipa\nawturidäninkuna imanoq kaptinpis, derëchuntsikuna iwalla kanman.\nNISHQAN KIMSA (3)\nLapantsikunapami derëchuntsi kan mana pipis wanutsimänantsipaq, Iibri munaynintsicho kawanantsipaq, y\nmana pipitapis mantsakuypa kawanantsipaq.\nNISHQAN CHUSKU (4)\nManami pipis rantishqa runanoq arunmantsu jukpaq.\nNISHOAN PITSQA (5)\nKastigashqa karpis, manami pipis fiypa nakatsishqaqa kanmantsu animal nakatsishqa kashqannoq, ni\npasaypa umillatsishqapis kanmantsu.\nNISHQAN SOQTA (6)\nLapantsikunatapis maycho tsaychöpis awturidäkuna mana jarukuylapa ali respitamashwan.\nNISHQAN QANCHIS (7)\nLaykuna jusgamashwan lapantsita iwalla. Kay karta eskribishqa kashqanpita mana käsukoqkunapita Iaykuna\nkuydamashwan lapantsikunatapis mana despresyashqa kaylapa.\nNISHQAN PUSAQ (8)\nJuk runa, nasyunninpa layninta mana käsukur, mana al ita ruramaptintsi, derëchuntsi kanmi\nawturidäkunaman kejakoq aywanantsipaq. Y tsaycho lapantsi atyendishqa kashwan iwalla.\nNISHQAN ISQUN (9)"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "ec6c0c9818a4756ee668aefcc0d86138",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Manami pipis lutalaqa prësutsishqa kanmantsu karsil wayiman. Ni tsaynoqpis lutalaqa qarqushqa kanmantsu\nmarkanpita.\nNISHOAN CHUNKA (10)\nLapantsikunapami derëchuntsi kan imalapitapis runakunapa nawpancho jusgashqa kanantsipaq, alipita mana\nalipitapis. Tsay mana alita jusganman juk tsaycho mana jatikashqa kaq awturidä iwalla mana mayqanpapis\nfaburnin sharkuylapa.\nNISHQAN CHUNKA JUK (11)\nLapantsikunapami derëchuntsi kan \"Jutsaynaqmi kanki\" nimänantsipaq imalapitapis akusashqa kaptintsipis\nmanaraq shumaq musyakashqa kaptenqa. Lay nishqannoq musyakashqa kanman lapan runakunapa\nnawpancho imalapis defyendikunantsipaqnoq kaykaptenqa.\nManami pipis kondenashqa kanmantsu rurashqanpita y mana rurashqanpitapis tsay jinan öraqa mana\nnawpapita patsa nasyunninpa laynincho \"tsaynoq katsun\" nishqa kaptin, y tsaynoqpis lapan nasyunkunapa\nyarpashqan layninkunachöpis. Jutsantsikunapita kastigashqa kanantsipaq kaqkunapita manami mastaqa\nkastigashqa kashwantsu jutsantsi kaptinpis.\nNISHQAN CHUNKA ISHKAY (12)\nJuk runataqa manami pipis lutalaqa imatapis ruranmantsu: kikinta, familyankunata, ni wayinkunatapis. Ni\neskribishqan kartankunatapis ama kichanmantsu. Tsaynoqpis ama ashlinmantsu. Lapantsikunapami\nderëchuntsi kan tsaykunapita laykuna kuydamänantsipaq.\nNISHQAN CHUNKA KIMSA (13)\nLapantsikunapami derëchuntsi kan maypapis libri purikunantsipaq y maychöpis nasyunnintsichöqa\ntäkunantsipaq.",
-            "Image": "ec6c0c9818a4756ee668aefcc0d86138"
+            "Text": "Manami pipis lutalaqa prësutsishqa kanmantsu karsil wayiman. Ni tsaynoqpis lutalaqa qarqushqa kanmantsu\nmarkanpita.\nNISHOAN CHUNKA (10)\nLapantsikunapami derëchuntsi kan imalapitapis runakunapa nawpancho jusgashqa kanantsipaq, alipita mana\nalipitapis. Tsay mana alita jusganman juk tsaycho mana jatikashqa kaq awturidä iwalla mana mayqanpapis\nfaburnin sharkuylapa.\nNISHQAN CHUNKA JUK (11)\nLapantsikunapami derëchuntsi kan \"Jutsaynaqmi kanki\" nimänantsipaq imalapitapis akusashqa kaptintsipis\nmanaraq shumaq musyakashqa kaptenqa. Lay nishqannoq musyakashqa kanman lapan runakunapa\nnawpancho imalapis defyendikunantsipaqnoq kaykaptenqa.\nManami pipis kondenashqa kanmantsu rurashqanpita y mana rurashqanpitapis tsay jinan öraqa mana\nnawpapita patsa nasyunninpa laynincho \"tsaynoq katsun\" nishqa kaptin, y tsaynoqpis lapan nasyunkunapa\nyarpashqan layninkunachöpis. Jutsantsikunapita kastigashqa kanantsipaq kaqkunapita manami mastaqa\nkastigashqa kashwantsu jutsantsi kaptinpis.\nNISHQAN CHUNKA ISHKAY (12)\nJuk runataqa manami pipis lutalaqa imatapis ruranmantsu: kikinta, familyankunata, ni wayinkunatapis. Ni\neskribishqan kartankunatapis ama kichanmantsu. Tsaynoqpis ama ashlinmantsu. Lapantsikunapami\nderëchuntsi kan tsaykunapita laykuna kuydamänantsipaq.\nNISHQAN CHUNKA KIMSA (13)\nLapantsikunapami derëchuntsi kan maypapis libri purikunantsipaq y maychöpis nasyunnintsichöqa\ntäkunantsipaq."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "9ded2510736c3ff97a0f1d42ae7f8236",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Lapantsikunapami derëchuntsi kan kikintsipa nasyunnintsikunapita yarqunantsipaq y tsaynoqpis\nkutimunantispaq.\nNISHQAN CHUNKA CHUSKU (14)\nLapantsikunapami derëchuntsi kan juklä nasyunkunacho wayintsita ashir täkunantsipaq\nqatikachämaqnintsikuna kaptin.\nMarkantsipa kontran ni Nasyones Unidaspa kontran juk runa ima jutsatapis rurar manami ninmantsu\n\"Noqapa derëchö kanmi juklä nasyunman aywakur täkunäpaq qatikachamaqn. kaptin.\" Jutsantsikuna ima\npolitikakunapita kaptinmi itsanqa derëchuntsi kan qeshpikunantsipaq.\nNISHQAN CHUNKA PITSQA (15)\nLapantsikunapami derëchuntsi kan may nasyunkunamanpis pertene.sinantsipaq.\nJuk nasyunman pertenësiyta munaptintsi, manami pipis lutalaqa nimashwantsu \"Manami qam\npertenësinkimantsu kay nasyunman.\" Tsaynoqpis lutalaqa nimashwantsu \"Qam manami kikikipa\nnasyunnikimanpis pertene'sinkimantsu.\"\nNISHQAN CHUNKA SOQTA (16)\nOlqupapis y warmipapis, edäninman chayaptin, derëchun kanmi kasarakunanpaq. Tsaynoq derëchun kan\nkasarakunanpaq ima räsa runakunawanpis, mayqan nasyunman pertene.seqkunawanpis, ima\nrelijyunkunaman kriyeqkunawanpis. Tsaynoq kasarakurmi derëchun kan familyanta formananpaq. Kasädu\nkar, rakikashqa kar, o mayqankuna nawpata wanuptinpis, derëchunkuna kanmi iwalla olqupaq y\nwarmipaqpis.\nManami pipis fersanmantsu kasarakunanpaqqa. Itsanqa kasarakärenqa kikinkuna awninakur\nmunanakushqalanpita.",
-            "Image": "9ded2510736c3ff97a0f1d42ae7f8236"
+            "Text": "Lapantsikunapami derëchuntsi kan kikintsipa nasyunnintsikunapita yarqunantsipaq y tsaynoqpis\nkutimunantispaq.\nNISHQAN CHUNKA CHUSKU (14)\nLapantsikunapami derëchuntsi kan juklä nasyunkunacho wayintsita ashir täkunantsipaq\nqatikachämaqnintsikuna kaptin.\nMarkantsipa kontran ni Nasyones Unidaspa kontran juk runa ima jutsatapis rurar manami ninmantsu\n\"Noqapa derëchö kanmi juklä nasyunman aywakur täkunäpaq qatikachamaqn. kaptin.\" Jutsantsikuna ima\npolitikakunapita kaptinmi itsanqa derëchuntsi kan qeshpikunantsipaq.\nNISHQAN CHUNKA PITSQA (15)\nLapantsikunapami derëchuntsi kan may nasyunkunamanpis pertene.sinantsipaq.\nJuk nasyunman pertenësiyta munaptintsi, manami pipis lutalaqa nimashwantsu \"Manami qam\npertenësinkimantsu kay nasyunman.\" Tsaynoqpis lutalaqa nimashwantsu \"Qam manami kikikipa\nnasyunnikimanpis pertene'sinkimantsu.\"\nNISHQAN CHUNKA SOQTA (16)\nOlqupapis y warmipapis, edäninman chayaptin, derëchun kanmi kasarakunanpaq. Tsaynoq derëchun kan\nkasarakunanpaq ima räsa runakunawanpis, mayqan nasyunman pertene.seqkunawanpis, ima\nrelijyunkunaman kriyeqkunawanpis. Tsaynoq kasarakurmi derëchun kan familyanta formananpaq. Kasädu\nkar, rakikashqa kar, o mayqankuna nawpata wanuptinpis, derëchunkuna kanmi iwalla olqupaq y\nwarmipaqpis.\nManami pipis fersanmantsu kasarakunanpaqqa. Itsanqa kasarakärenqa kikinkuna awninakur\nmunanakushqalanpita."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "bcc64cd72f0508a51523d14bd97ba903",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Tsay kasarashqa kaqkunapitami juntakashqa kaykan lapan markakunapis. Tsaynoqpis derëchun kanmi\nrunakuna y nasyunpa mandaqninkunapis kasarashqa kaqkunata kuydananpaq.\nNISHQAN CHUNKA QANCHIS (17)\nLapantsikunapami derëchuntsi kan imaykantsikunapis kikintsipaq kananpaq. Y tsaynoqpis derëchuntsi\nkanmi pi lawanpis imaykantsikunalachöpis dwëñunoq kapäkunantsipaq.\nManami pipis lutalaqa qechunmantsu pitapis imalankunatapis.\nNISHQAN CHUNKA PUSAQ (18)\nLapantsikunapami derëchuntsi kan shonquntsicho munashqantsita yarpanantsipaq y munashqantsi\nrelijyunman kriyinantsipaq. Tsaynoq derëchuntsi kaptin trukashwan juk relijyunpita juk relijyunmanpis.\nRelijyunnintsita rikatsikushwan japalantsi y wakin runakunawanpis, kikintsikunalapaq o runakunapa\nnawpanchöpis. Tsaynoq rikatsikushwan yachatsikushpantsi, kumplishpantsi, y kultuntsikunata rurashpantsi.\nNISHQAN CHUNKA ISQUN (19)\nLapantsikunapami derëchuntsi kan yarpashqantsita parlanantsipaq mana pipis fastidyaylapa. Tsaynoqpis\nderëchuntsi kanmi ima notisyakunalatapis ashinantsipaq runakunata mayatsinantsipaq imaykanoqpapis:\nparlaypa, eskribiypa, o radyupa pasatsiypapis mayqan nasyunkunamanpis.\nNISHQAN ISHKAY CHUNKA (20)\nLapantsikunapami derëchuntsi kan juk patsalaman juntakänantsipaq itsanqa mana búllata ruraylapa.\nMana munaptenqa manami pipis pitapis \"kay noqakunaman pertenësiy\" ninmantsu fersaypaqa.\nNISHQAN ISHKAY CHUNKA JUK (21)\nLapantsikunapami derëchuntsi kan nasyunnintsikunacho mandaq kayta munar chayanantsipaq. Tsaynoqpis",
-            "Image": "bcc64cd72f0508a51523d14bd97ba903"
+            "Text": "Tsay kasarashqa kaqkunapitami juntakashqa kaykan lapan markakunapis. Tsaynoqpis derëchun kanmi\nrunakuna y nasyunpa mandaqninkunapis kasarashqa kaqkunata kuydananpaq.\nNISHQAN CHUNKA QANCHIS (17)\nLapantsikunapami derëchuntsi kan imaykantsikunapis kikintsipaq kananpaq. Y tsaynoqpis derëchuntsi\nkanmi pi lawanpis imaykantsikunalachöpis dwëñunoq kapäkunantsipaq.\nManami pipis lutalaqa qechunmantsu pitapis imalankunatapis.\nNISHQAN CHUNKA PUSAQ (18)\nLapantsikunapami derëchuntsi kan shonquntsicho munashqantsita yarpanantsipaq y munashqantsi\nrelijyunman kriyinantsipaq. Tsaynoq derëchuntsi kaptin trukashwan juk relijyunpita juk relijyunmanpis.\nRelijyunnintsita rikatsikushwan japalantsi y wakin runakunawanpis, kikintsikunalapaq o runakunapa\nnawpanchöpis. Tsaynoq rikatsikushwan yachatsikushpantsi, kumplishpantsi, y kultuntsikunata rurashpantsi.\nNISHQAN CHUNKA ISQUN (19)\nLapantsikunapami derëchuntsi kan yarpashqantsita parlanantsipaq mana pipis fastidyaylapa. Tsaynoqpis\nderëchuntsi kanmi ima notisyakunalatapis ashinantsipaq runakunata mayatsinantsipaq imaykanoqpapis:\nparlaypa, eskribiypa, o radyupa pasatsiypapis mayqan nasyunkunamanpis.\nNISHQAN ISHKAY CHUNKA (20)\nLapantsikunapami derëchuntsi kan juk patsalaman juntakänantsipaq itsanqa mana búllata ruraylapa.\nMana munaptenqa manami pipis pitapis \"kay noqakunaman pertenësiy\" ninmantsu fersaypaqa.\nNISHQAN ISHKAY CHUNKA JUK (21)\nLapantsikunapami derëchuntsi kan nasyunnintsikunacho mandaq kayta munar chayanantsipaq. Tsaynoqpis"
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "338a37fb7d0ea153e56e521436654d7c",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "derëchuntsi kanmi kikintsi jukta munashqantsi kaqta akranantsipaqpis mandaq kananpaq.\nLapantsikunapami derëchuntsi kan iwalla awturidä kanantsipaq nasyunnintsikunachöpis.\nMarkakunapa munayninchömi churakashqa kanman gobyernupa yanapäsheqnin awturidäkuna. Tsaykuna\nrurakashqa kanman käda bötukuna watakunalacho. Tsaymi Iapantsikuna imanoq karpis munashqantsi\nkaqpaq iwalla pakaylapa bötushwan. Tsaycho gänaq kaqmi yaykunman awturidä kananpaq. Mana pakaylapa\nbötorqa juknoqpa bötushwan awturidänintsikuna markantsi munashqannoq akrashqa kananpaq.\nNISHQAN ISHKAY CHUNKA ISHKAY (22)\nLapantsikunapami derëchuntsi kan ali kawanantsipaq. Wakin imayoqpis kaqkuna yanapäshinman mana\nimayoqpis kaqkunata. Tsaynoqpis nasyunnintsipita y juklä nasyunkunapitapis pwëdishqanyaq\nyanapäshinman pishiycho kawaqkunata lapan derëchunkuna kumplikänanpaq. Tsay yanapäshiy kanman\nrespitashqa kanantsipaq y kikintsi aliyätsikunantsipaqpis.\nNISHQAN ISHKAY CHUNKA KIMSA (23)\nLapantsikunapami derëchuntsi kan kikintsikuna munashqantsinoq arunantsipaq mana despresyashqa kaylapa.\nShumaq sigurashqa kanman ima aruychöpis. Y tsaynoqpis aruynintsipita yarquptintseqa yanapäshishqa\nkashwan imalawanpis.\nLapantsikunapamj derëchuntsi kan mana despresyaylapa aruynintsikunacho iwal gänanantsipaq wakin aroq\nmayintsikunanoq.\nLapan aroqkunapami derëchun kan ali pägashqa kananpaq kikinpaqpis y familyankunapaqpis ali respitashqa\nrunanoq kawananpaq. Pishëpakoqnoq kaptenqa yanapäshishqa kanman imanoqpapis runa mayinkunapita.\nLapantsikunapami derëchuntsi kan aroq mayintsikunawan juntakaykur imalatapis formanantsipaq\nmandaqnintsikunapita respi tatsimänantsipaq.",
-            "Image": "338a37fb7d0ea153e56e521436654d7c"
+            "Text": "derëchuntsi kanmi kikintsi jukta munashqantsi kaqta akranantsipaqpis mandaq kananpaq.\nLapantsikunapami derëchuntsi kan iwalla awturidä kanantsipaq nasyunnintsikunachöpis.\nMarkakunapa munayninchömi churakashqa kanman gobyernupa yanapäsheqnin awturidäkuna. Tsaykuna\nrurakashqa kanman käda bötukuna watakunalacho. Tsaymi Iapantsikuna imanoq karpis munashqantsi\nkaqpaq iwalla pakaylapa bötushwan. Tsaycho gänaq kaqmi yaykunman awturidä kananpaq. Mana pakaylapa\nbötorqa juknoqpa bötushwan awturidänintsikuna markantsi munashqannoq akrashqa kananpaq.\nNISHQAN ISHKAY CHUNKA ISHKAY (22)\nLapantsikunapami derëchuntsi kan ali kawanantsipaq. Wakin imayoqpis kaqkuna yanapäshinman mana\nimayoqpis kaqkunata. Tsaynoqpis nasyunnintsipita y juklä nasyunkunapitapis pwëdishqanyaq\nyanapäshinman pishiycho kawaqkunata lapan derëchunkuna kumplikänanpaq. Tsay yanapäshiy kanman\nrespitashqa kanantsipaq y kikintsi aliyätsikunantsipaqpis.\nNISHQAN ISHKAY CHUNKA KIMSA (23)\nLapantsikunapami derëchuntsi kan kikintsikuna munashqantsinoq arunantsipaq mana despresyashqa kaylapa.\nShumaq sigurashqa kanman ima aruychöpis. Y tsaynoqpis aruynintsipita yarquptintseqa yanapäshishqa\nkashwan imalawanpis.\nLapantsikunapamj derëchuntsi kan mana despresyaylapa aruynintsikunacho iwal gänanantsipaq wakin aroq\nmayintsikunanoq.\nLapan aroqkunapami derëchun kan ali pägashqa kananpaq kikinpaqpis y familyankunapaqpis ali respitashqa\nrunanoq kawananpaq. Pishëpakoqnoq kaptenqa yanapäshishqa kanman imanoqpapis runa mayinkunapita.\nLapantsikunapami derëchuntsi kan aroq mayintsikunawan juntakaykur imalatapis formanantsipaq\nmandaqnintsikunapita respi tatsimänantsipaq."
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "c8b48a6760e90e1d3604ae227f488fb7",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "NISHQAN ISHKAY CHUNKA CHUSKU (24)\nLapantsikunapami derëchuntsi kan aruynintsikunapita jamakunantsipaq. Manami aläpaqa arushwantsu\npwëdishqantsipita mastaqa. Y tsaypita juk watata kumplirkuptin bakasyunnintsi kanman itsanqa pägashqa\nNISHQAN ISHKAY CHUNKA PITSQA (25)\nLapantsikunapami derëchuntsi kan ima!antsikunapis ali aypänanpaq kikintsikunapaq y\nfamilyantsikunapaqpis. Tsaykunapaqqa kanman kaykuna: mikuynintsikuna, röpantsikuna, wayintsikunapis.\nTsaynoqpis qeshyaptintsi mëdikukuna atyendimashwan, y imalachöpis wakin runakuna yanapäshimashwan.\nTsaynoqpis derëchuntsi kanmi kuydashqa kanantsipaq mana aruynintsi kaptin, qeshyaqtukur mana aruyta\npwëdiptintsipis, byúdayashqa kaptintsipis, awkin kaptintsipis, o ima desgrasya päsamaptintsipis.\nWachaq warmipa y akapa wamrankunapapis derëchun kanmi shumaq ali kuydashqa kananpaq. Kasarashqa\nkaqkunapa y mana kasarashqa kaqkunapapis wamrankuna iwalla derëchun kanmi kuydashqa kananpaq.\nNISHQAN ISHKAY CHUNKA SOQTA (26)\nLapantsikunapami derëchuntsi kan dembaldila primarya kaq eskwëlakunaman yachakoq yaykunantsipaq.\nManami ni juklaylapis mana yachakuypaqa kanmantsu. Tsaynoqpis mas jatun kaq yachakuy eskwëlakunapis\nkanman imalapis kayta munaptintsi yachakunantsipaq. Tsay eskwëlakunaqa lapan runakunata chaskinman\niwalla yachashqantupu.\nKay yachakuy kanman noqantsikuna runa mayintsikunawan ali shonquyoq kanantsipaq. Tsaynoqpis kanman\nruna mayintsikunapa derëchunkunata respitanantsipaq, tantyanakunantsipaq, pasensyantsi kananpaq y pipis\nyanasantsi kananpaq. Tsaykuna kanman markantsikunawan, juklä nasyunkunawan, jukniraq räsakunawan,\nima relijyunkunaman kriyeqkunawanpis. Tsaynoqpis yachakuy kanman yanapänantsipaq Nasyones Unidasta\nrunakunata ali kawayman churananpaq.",
-            "Image": "c8b48a6760e90e1d3604ae227f488fb7"
+            "Text": "NISHQAN ISHKAY CHUNKA CHUSKU (24)\nLapantsikunapami derëchuntsi kan aruynintsikunapita jamakunantsipaq. Manami aläpaqa arushwantsu\npwëdishqantsipita mastaqa. Y tsaypita juk watata kumplirkuptin bakasyunnintsi kanman itsanqa pägashqa\nNISHQAN ISHKAY CHUNKA PITSQA (25)\nLapantsikunapami derëchuntsi kan ima!antsikunapis ali aypänanpaq kikintsikunapaq y\nfamilyantsikunapaqpis. Tsaykunapaqqa kanman kaykuna: mikuynintsikuna, röpantsikuna, wayintsikunapis.\nTsaynoqpis qeshyaptintsi mëdikukuna atyendimashwan, y imalachöpis wakin runakuna yanapäshimashwan.\nTsaynoqpis derëchuntsi kanmi kuydashqa kanantsipaq mana aruynintsi kaptin, qeshyaqtukur mana aruyta\npwëdiptintsipis, byúdayashqa kaptintsipis, awkin kaptintsipis, o ima desgrasya päsamaptintsipis.\nWachaq warmipa y akapa wamrankunapapis derëchun kanmi shumaq ali kuydashqa kananpaq. Kasarashqa\nkaqkunapa y mana kasarashqa kaqkunapapis wamrankuna iwalla derëchun kanmi kuydashqa kananpaq.\nNISHQAN ISHKAY CHUNKA SOQTA (26)\nLapantsikunapami derëchuntsi kan dembaldila primarya kaq eskwëlakunaman yachakoq yaykunantsipaq.\nManami ni juklaylapis mana yachakuypaqa kanmantsu. Tsaynoqpis mas jatun kaq yachakuy eskwëlakunapis\nkanman imalapis kayta munaptintsi yachakunantsipaq. Tsay eskwëlakunaqa lapan runakunata chaskinman\niwalla yachashqantupu.\nKay yachakuy kanman noqantsikuna runa mayintsikunawan ali shonquyoq kanantsipaq. Tsaynoqpis kanman\nruna mayintsikunapa derëchunkunata respitanantsipaq, tantyanakunantsipaq, pasensyantsi kananpaq y pipis\nyanasantsi kananpaq. Tsaykuna kanman markantsikunawan, juklä nasyunkunawan, jukniraq räsakunawan,\nima relijyunkunaman kriyeqkunawanpis. Tsaynoqpis yachakuy kanman yanapänantsipaq Nasyones Unidasta\nrunakunata ali kawayman churananpaq."
         },
         "8": {
-            "Label": "9",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "fcf1b9943d00ec4f5d4d6964df9b84bf",
             "Index": 8,
+            "Label": "9",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Taytankunapami derëchun kan tsurinkunata munashqannoq imanoqpapis edukananpaq.\nNISHOAN ISHKAY CHUNKA QANCHI (27)\nLapantsikunapami derëchuntsi kan markantsikunacho kustumrintsikunata ruranantsipaq. Tsaynoqpa munaq\nkaqpa derëchun kan kantananpaq, dansananpaq, dibuj ananpaq, tukananpaq, puklananpaq, y imalatapis\nrurananpaq markanpa kustumrin kashqannoq. Tsaynoqpis juk yachaq imalatapis mushoqta ruraptenqa tsay\nkanman lapantsikunapaq juknintsi y juknintsipis mas ali kawanantsipaq.\nLapantsikunapami derëchuntsi kan imalatapis mushoqta ruraptintsi o eskribiptintsi kikilantsipaq\ngänashqantsi kaqkuna kananpaq. Manami pipis ninmantsu lulakushpan \"Noqami rurashqä kayta\" tsaynoqpa\napakunanpaq ruraq kaqpa derëchunta.\nNISHQAN ISHKAY CHUNKA PUSAQ (28)\nLapantsikunapami derëchuntsi kan gobyernuntsi kananpaq nasyunnintsikunacho y lapan nasyunkuna\njuntakashqanchöpis kay derëchuntsikúna rasunpa kumplikashqa kananpaq.\nNISHQAN ISHKAY CHUNKA ISQUN (29)\nLapantsikunapami ruranantsikuna kan markantsicho kumplinantsipaq. Tsaynoqlapami aliyätsikuntsi\nkikintsikuna.\nDerëchuntsikunata rurarpis mana qechushwantsu jukpa derëchunkunata. Tsaypaq kanmi laykuna\nrespitatsikunantsipaq y tsaynoqpis reqitsimänantsipaq wakinkunapa derëchunkunapis kashqanta. Tsaynoqpis\ntsay laykuna kaykan ali shonquyoq runakuna kanantsipaq, ali respitanakunantsipaq, y ali runa\nmayintsikunawan kawanantsipaq. Tsay ali kaway kaykan runakuna awturidäninkunapaq bötushqan\nnasyunkunacho.\nKay derëchuntsikunata kumplishpantsi manami Nasyones Unidas nishqankunapa kontrannin yarqushwantsu.",
-            "Image": "fcf1b9943d00ec4f5d4d6964df9b84bf"
+            "Text": "Taytankunapami derëchun kan tsurinkunata munashqannoq imanoqpapis edukananpaq.\nNISHOAN ISHKAY CHUNKA QANCHI (27)\nLapantsikunapami derëchuntsi kan markantsikunacho kustumrintsikunata ruranantsipaq. Tsaynoqpa munaq\nkaqpa derëchun kan kantananpaq, dansananpaq, dibuj ananpaq, tukananpaq, puklananpaq, y imalatapis\nrurananpaq markanpa kustumrin kashqannoq. Tsaynoqpis juk yachaq imalatapis mushoqta ruraptenqa tsay\nkanman lapantsikunapaq juknintsi y juknintsipis mas ali kawanantsipaq.\nLapantsikunapami derëchuntsi kan imalatapis mushoqta ruraptintsi o eskribiptintsi kikilantsipaq\ngänashqantsi kaqkuna kananpaq. Manami pipis ninmantsu lulakushpan \"Noqami rurashqä kayta\" tsaynoqpa\napakunanpaq ruraq kaqpa derëchunta.\nNISHQAN ISHKAY CHUNKA PUSAQ (28)\nLapantsikunapami derëchuntsi kan gobyernuntsi kananpaq nasyunnintsikunacho y lapan nasyunkuna\njuntakashqanchöpis kay derëchuntsikúna rasunpa kumplikashqa kananpaq.\nNISHQAN ISHKAY CHUNKA ISQUN (29)\nLapantsikunapami ruranantsikuna kan markantsicho kumplinantsipaq. Tsaynoqlapami aliyätsikuntsi\nkikintsikuna.\nDerëchuntsikunata rurarpis mana qechushwantsu jukpa derëchunkunata. Tsaypaq kanmi laykuna\nrespitatsikunantsipaq y tsaynoqpis reqitsimänantsipaq wakinkunapa derëchunkunapis kashqanta. Tsaynoqpis\ntsay laykuna kaykan ali shonquyoq runakuna kanantsipaq, ali respitanakunantsipaq, y ali runa\nmayintsikunawan kawanantsipaq. Tsay ali kaway kaykan runakuna awturidäninkunapaq bötushqan\nnasyunkunacho.\nKay derëchuntsikunata kumplishpantsi manami Nasyones Unidas nishqankunapa kontrannin yarqushwantsu."
         },
         "9": {
-            "Label": "10",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "05edc838502d0d4f9efed287d6ea3efa",
             "Index": 9,
+            "Label": "10",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "NISHQAN KIMSA CHUNKA (30)\nKay nishqankunacho manami qam tarinkimantsu derëchuykikuna kaptin pipa derëchunkunatapis\nelqätsinaykipaq imata rurashpaykipis. Tsaynoq kaykan qampaq, juk nasyunpaq, juntakashqa runakunapaq, o\npi runalapaqpis.",
-            "Image": "05edc838502d0d4f9efed287d6ea3efa"
+            "Text": "NISHQAN KIMSA CHUNKA (30)\nKay nishqankunacho manami qam tarinkimantsu derëchuykikuna kaptin pipa derëchunkunatapis\nelqätsinaykipaq imata rurashpaykipis. Tsaynoq kaykan qampaq, juk nasyunpaq, juntakashqa runakunapaq, o\npi runalapaqpis."
         }
     }
 }

@@ -1,99 +1,99 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581469475,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
-            "Index": 0,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
             ],
-            "Text": "Beehazą́ą Ił Chʼétʼaah\n[preamble]\nKótʼéego Hazʼaah: Baá akohwiindzingo éí ílį́ go adaanisįikéesgo nihiisílá. Áadóó aheełtʼéego dóó bee niháʼahootʼiʼígíí doo handitʼáago. Bílaʼ\nashdlaʼii éí tʼááʼ áłtsoni bée hółdziłgo beehwiidooʼaał tʼáá nííkʼeh dóó aheełtʼéego bee ahaanitsáhakeesgo éí bee ahihodíneʼenah nahasdzaan\nbikáagí.\nKótʼéego Hazʼaah: Diné doo ílį́į go baa nitsahakeesgo adeesdeeʼ éí biniinaa tʼáá naʼníleʼdii ábiʼdilʼí. Biniinaa diné biniʼ dazlį́į́ʼ dóó nahasdzáán\ntʼáá níítʼéé bílaʼ bee hideeznáá ashdlaʼii tʼáá bíniikʼeh hadeesdzih nízingo bee bá hazʼą́ą́ doo dóó yoodlą́ nígíí dóó doo yináldzidgo dóó doo\nbiniʼ siʼą́ą go tʼáá ałtsoní niʼhookááʼ dineʼé aláahdi bee baʼakohwiidzin doo.\nKótʼéego Hazʼaah: Tsíʼdó doo tʼáágéédda bílaʼ ashdlaʼiiʼ áchʼaaʼ hadeesdzih nizingo tʼáadoo leʼé bee bidiljishgo biniinaa éí bilaʼ ashdlaʼii tʼáá\nałtsoní bee baahoochįʼgo beehazáanii bá alyaa.\nKótʼéego Hazʼaah: Tsída aláahdi achʼįholʼį́ kʼé wolyé hígíí dine ałąą atʼéhígíí kéyah yee daʼahootą doo biniiyé.\nKótʼéego Hazʼaah: Bílaʼ ashdlaʼii kéyah dahnidahaazʼą́ą go yee daʼahótą́ʼ ígíí yikʼéhgo deiyíłnííshígíí yee háádaashzííh bílaʼ ashdlaʼii bee baa\nákohwiiniidzinígíí binahjįʼ bilaʼ ashdlaʼii ílį́į go baanitsínáhoodeeskééz. Diné dóó sáanii tʼáá łaʼí nízínígo aheełtéego bá adahazłʼį éé bina;hjįʼ\ndiné beeiinaʼ náás noosééł dóó iiná yáʼátʼéehii néididooléełgo bá bichąʼ hwíidóoneʼ.\nKótʼéego Hazʼaah: Kéyah yá nídaazínígíí yee ádáhadaasdzííh kodóó nídidoolyééł ahił nideiilnishgo kéyah nidahazʼą́ą go yee doʼahóótąʼígíí bił\nnáhásdzáán tʼáá níítʼéé bidineʼé yee hodísin doo. Bílaʼ ashdlaʼii bee baa hóchʼįʼígíí doo tʼáá bí bíniʼ kʼehgo hiinánánígíí.\nKótʼéego Hazʼaah: Tʼáá ałtsoní yaa akonídzin díí bee baa hóchįʼígíí dóó tʼáá yíníkʼeh iináago áláah áníłtsohgo baa nitsáʼhákeesgo binahjjįʼ baa\nákohwiinidzinígíí bee haʼoodzííh.\nKʼad Kótʼe Áłahʼ Azlį́į́ʼ ígíí Yee Ákʼihadaasdzíí\nDíí nahasdzáán bee bá haʼadziih bílaʼ ashdlaʼii bee baa hóchįʼígíí bikʼehgo óʼoolʼííłdoo biniiyé, bílaʼ ashdlaaʼii tʼáá ałtso bá áté dóó kéyah tʼáá\nátʼé sinilígíí báʼatʼé, tʼaałáʼíjinízínígo dóó bíla ashdlaʼii ninánílʼą́ą jįʼ ádííyóltąʼ dooleeł díí haʼoodziiʼígíí. Bilaʼ ashdlaaʼii áłahjįʼ biniʼnilíidoo\ndóó yee náásgóó anootįįłdoo. Áádóó bee óʼhooʼąąhdoo neeʼniʼjįʼ bee hodílzindoo díí beeʼaahóchįʼígíí dóó yíníkʼehgo bee náás ʼiiná yidiłdoo\ndíí kéyah hazʼą́ą doo dóó tówónanígóó be hołdzildoo tʼáá ałtsohjigo dóó bikʼeh ʼééhozin doo dóó dilyindoo naatʼą́ą nii kéyah yándaazínígíí\nbitahgo aadóó diné yił kééhatʼį́į́ nii yásizínígíí bił hazʼą́ą ji.\nŁáaʼii Góneʼ Biyiʼ Yisdzohígíí\nBilaʼashdaʼii tʼáá ałtsoh yiníkʼehgo bidizhchįh dóó aheełtʼeego ílį́į́ go bee baahóchįʼ. Eíí háníʼ dóó hánítshakees hwiihdaasyaʼ eíí binahjį́ʼ\nahidiníłnáhgo álíleekʼehgo kʼé bee ahił niidlį́ .",
-            "Image": "25c3399ddffc010b36797883640e9d8c"
+            "Image": "25c3399ddffc010b36797883640e9d8c",
+            "Index": 0,
+            "Label": "1",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Beehazą́ą Ił Chʼétʼaah\n[preamble]\nKótʼéego Hazʼaah: Baá akohwiindzingo éí ílį́ go adaanisįikéesgo nihiisílá. Áadóó aheełtʼéego dóó bee niháʼahootʼiʼígíí doo handitʼáago. Bílaʼ\nashdlaʼii éí tʼááʼ áłtsoni bée hółdziłgo beehwiidooʼaał tʼáá nííkʼeh dóó aheełtʼéego bee ahaanitsáhakeesgo éí bee ahihodíneʼenah nahasdzaan\nbikáagí.\nKótʼéego Hazʼaah: Diné doo ílį́į go baa nitsahakeesgo adeesdeeʼ éí biniinaa tʼáá naʼníleʼdii ábiʼdilʼí. Biniinaa diné biniʼ dazlį́į́ʼ dóó nahasdzáán\ntʼáá níítʼéé bílaʼ bee hideeznáá ashdlaʼii tʼáá bíniikʼeh hadeesdzih nízingo bee bá hazʼą́ą́ doo dóó yoodlą́ nígíí dóó doo yináldzidgo dóó doo\nbiniʼ siʼą́ą go tʼáá ałtsoní niʼhookááʼ dineʼé aláahdi bee baʼakohwiidzin doo.\nKótʼéego Hazʼaah: Tsíʼdó doo tʼáágéédda bílaʼ ashdlaʼiiʼ áchʼaaʼ hadeesdzih nizingo tʼáadoo leʼé bee bidiljishgo biniinaa éí bilaʼ ashdlaʼii tʼáá\nałtsoní bee baahoochįʼgo beehazáanii bá alyaa.\nKótʼéego Hazʼaah: Tsída aláahdi achʼįholʼį́ kʼé wolyé hígíí dine ałąą atʼéhígíí kéyah yee daʼahootą doo biniiyé.\nKótʼéego Hazʼaah: Bílaʼ ashdlaʼii kéyah dahnidahaazʼą́ą go yee daʼahótą́ʼ ígíí yikʼéhgo deiyíłnííshígíí yee háádaashzííh bílaʼ ashdlaʼii bee baa\nákohwiiniidzinígíí binahjįʼ bilaʼ ashdlaʼii ílį́į go baanitsínáhoodeeskééz. Diné dóó sáanii tʼáá łaʼí nízínígo aheełtéego bá adahazłʼį éé bina;hjįʼ\ndiné beeiinaʼ náás noosééł dóó iiná yáʼátʼéehii néididooléełgo bá bichąʼ hwíidóoneʼ.\nKótʼéego Hazʼaah: Kéyah yá nídaazínígíí yee ádáhadaasdzííh kodóó nídidoolyééł ahił nideiilnishgo kéyah nidahazʼą́ą go yee doʼahóótąʼígíí bił\nnáhásdzáán tʼáá níítʼéé bidineʼé yee hodísin doo. Bílaʼ ashdlaʼii bee baa hóchʼįʼígíí doo tʼáá bí bíniʼ kʼehgo hiinánánígíí.\nKótʼéego Hazʼaah: Tʼáá ałtsoní yaa akonídzin díí bee baa hóchįʼígíí dóó tʼáá yíníkʼeh iináago áláah áníłtsohgo baa nitsáʼhákeesgo binahjjįʼ baa\nákohwiinidzinígíí bee haʼoodzííh.\nKʼad Kótʼe Áłahʼ Azlį́į́ʼ ígíí Yee Ákʼihadaasdzíí\nDíí nahasdzáán bee bá haʼadziih bílaʼ ashdlaʼii bee baa hóchįʼígíí bikʼehgo óʼoolʼííłdoo biniiyé, bílaʼ ashdlaaʼii tʼáá ałtso bá áté dóó kéyah tʼáá\nátʼé sinilígíí báʼatʼé, tʼaałáʼíjinízínígo dóó bíla ashdlaʼii ninánílʼą́ą jįʼ ádííyóltąʼ dooleeł díí haʼoodziiʼígíí. Bilaʼ ashdlaaʼii áłahjįʼ biniʼnilíidoo\ndóó yee náásgóó anootįįłdoo. Áádóó bee óʼhooʼąąhdoo neeʼniʼjįʼ bee hodílzindoo díí beeʼaahóchįʼígíí dóó yíníkʼehgo bee náás ʼiiná yidiłdoo\ndíí kéyah hazʼą́ą doo dóó tówónanígóó be hołdzildoo tʼáá ałtsohjigo dóó bikʼeh ʼééhozin doo dóó dilyindoo naatʼą́ą nii kéyah yándaazínígíí\nbitahgo aadóó diné yił kééhatʼį́į́ nii yásizínígíí bił hazʼą́ą ji.\nŁáaʼii Góneʼ Biyiʼ Yisdzohígíí\nBilaʼashdaʼii tʼáá ałtsoh yiníkʼehgo bidizhchįh dóó aheełtʼeego ílį́į́ go bee baahóchįʼ. Eíí háníʼ dóó hánítshakees hwiihdaasyaʼ eíí binahjį́ʼ\nahidiníłnáhgo álíleekʼehgo kʼé bee ahił niidlį́ ."
         },
         "1": {
-            "Label": "2",
-            "Index": 1,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
             ],
-            "Text": "Naaki Góneʼ Biyiʼ Yisdzohígíí\nTsídí tʼáá ájítʼé beeháhazʼąʼ haahóchįʼgo dóó yiníkʼehgo nijigháo kodóó bee hooʼaʼígíí bikʼehgo tʼáadoo beeʼ ałʼą́ąʼátʼéhégóó. Jó díí dóoneʼé\nidlínígíí, hakágí anoolninígíí, asdzání dóó diné ídlį́ hígíí dóó nihizaad áádóó niheʼoodlaʼ áádóó nihiwááshindoon baa nitsiikeesígíí áádóó bee\nndahsiidzinígíí, dóó nihikéyah dóó nihiʼdizhchį́į hjį́ʼ bee nihaahóchiʼ.\nKodóó nasgóó doohaadeetʼéégodah bee ahantsiikeesda doolééł nihiwááshindoon átʼéhą́ gíí dóó nihił hazʼánígíí doodaiiʼ tówánáanígóó kéyah\nadahootʼéhígíí doodaiiʼ kéyah nijigháádę́ę́ʼ azaáshį́į́ tʼáásahdii biłhazą́ą ndi, áádóó nanáłaʼbígó bikááʼ kéhojitʼį́į go azhą́ shį́į́ doo tʼáá bi\nadahnahatʼáada ndi doodaiíʼ tʼááhó ádahnahwiijitʼáhígíí tʼáábiʼoh ndi.\nTáá Góneʼ Biyiʼ Yisdzohígíí\nTsídí tʼáá ájítʼé bee háhazʼą́ iináʼázhdoolííłgo áádóó ʼałdó tʼáá yiní kʼehgo hołdzilgo hołhazʼą́ą doo.\nDį́į́ Góneʼ Biyiʼ Yisdzohígíí\nŁaʼdah éí doo naalteehʼé dooleełda dóó dooháida yá naal aʼí dooleeł da dóó doo naaltehʼé adoolniiłgo doo bee hazʼą́ą da.\nAshdlaʼ Góneʼ Biyiʼ Yisdzohígíí\nTʼáá heíída éí doo atídoolníiłda áádóó ʼałdóʼ doo tʼáá naʼníleʼdii diné doo ídlį́į́ go baa tsehodidookosda.\nHastą́ą́ Góneʼ Biyiʼ Yisdzohígíí\nTsiʼdí Tʼáá ájítʼe há bee haazʼą́ haaʼakowhiindzingo tʼáá ałtsohjįʼ bílaʼashdlaʼii jílį́į go bee hazʼáánii yeehasʼą́ .\nTsostsʼid Góneʼ Yisdzohígíí\nTsíʼdí tʼáá ájítʼe ahejíłtʼé bee hazʼaanii binahjį́ʼ dóó doo hoʼdoolchʼį́į́ h da dooleeł aheełtʼéego haahóchįʼ bee hazʼáanii binahjįʼ tʼáá ajiłtsoh éí\nhakʼéstiʼ haahóchįʼgo binahjį́ doo hodoolchʼį́į́ da díí doo bił adodzih da. Kweʼé bee haʼoodzíhígíí doo oochʼį́į́ d habizhdiyooł łaał da.\nTseebíí Góneʼ Yisdzohígíí\nTsíʼdí tʼáá ájíłtsoh bee háhazʼą́ tʼáa dooleʼé há hashtʼe doolníiłgo wááshindoon áájí yá ʼééhósinígíí ákótʼéego bee hazʼáanii bee háʼahootʼíʼ yę́ę\nbiłaszihgo.\nNáhástʼéí Góneʼ Yisdzohígíí\nTʼáá háida éí biniinaanii ádingo doo biʼdidool tsoołda dóó doo yahʼadooltʼeeł da dóó doo chʼi dinóol cheeł da.\nNeeznáá Góneʼ Yisdzohígíí\nTʼáá ájíłtsoh bee háʼahóótʼíʼ tʼáá aheeł tʼéego diné binááł há baahwinitʼį́į go doo háájída achʼíhjí nilíígíí binááł éí há yaa nídáastʼįįdgo yee",
-            "Image": "fc26d46dc18a2dffd28ef29d9ecbcfde"
+            "Image": "fc26d46dc18a2dffd28ef29d9ecbcfde",
+            "Index": 1,
+            "Label": "2",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Naaki Góneʼ Biyiʼ Yisdzohígíí\nTsídí tʼáá ájítʼé beeháhazʼąʼ haahóchįʼgo dóó yiníkʼehgo nijigháo kodóó bee hooʼaʼígíí bikʼehgo tʼáadoo beeʼ ałʼą́ąʼátʼéhégóó. Jó díí dóoneʼé\nidlínígíí, hakágí anoolninígíí, asdzání dóó diné ídlį́ hígíí dóó nihizaad áádóó niheʼoodlaʼ áádóó nihiwááshindoon baa nitsiikeesígíí áádóó bee\nndahsiidzinígíí, dóó nihikéyah dóó nihiʼdizhchį́į hjį́ʼ bee nihaahóchiʼ.\nKodóó nasgóó doohaadeetʼéégodah bee ahantsiikeesda doolééł nihiwááshindoon átʼéhą́ gíí dóó nihił hazʼánígíí doodaiiʼ tówánáanígóó kéyah\nadahootʼéhígíí doodaiiʼ kéyah nijigháádę́ę́ʼ azaáshį́į́ tʼáásahdii biłhazą́ą ndi, áádóó nanáłaʼbígó bikááʼ kéhojitʼį́į go azhą́ shį́į́ doo tʼáá bi\nadahnahatʼáada ndi doodaiíʼ tʼááhó ádahnahwiijitʼáhígíí tʼáábiʼoh ndi.\nTáá Góneʼ Biyiʼ Yisdzohígíí\nTsídí tʼáá ájítʼé bee háhazʼą́ iináʼázhdoolííłgo áádóó ʼałdó tʼáá yiní kʼehgo hołdzilgo hołhazʼą́ą doo.\nDį́į́ Góneʼ Biyiʼ Yisdzohígíí\nŁaʼdah éí doo naalteehʼé dooleełda dóó dooháida yá naal aʼí dooleeł da dóó doo naaltehʼé adoolniiłgo doo bee hazʼą́ą da.\nAshdlaʼ Góneʼ Biyiʼ Yisdzohígíí\nTʼáá heíída éí doo atídoolníiłda áádóó ʼałdóʼ doo tʼáá naʼníleʼdii diné doo ídlį́į́ go baa tsehodidookosda.\nHastą́ą́ Góneʼ Biyiʼ Yisdzohígíí\nTsiʼdí Tʼáá ájítʼe há bee haazʼą́ haaʼakowhiindzingo tʼáá ałtsohjįʼ bílaʼashdlaʼii jílį́į go bee hazʼáánii yeehasʼą́ .\nTsostsʼid Góneʼ Yisdzohígíí\nTsíʼdí tʼáá ájítʼe ahejíłtʼé bee hazʼaanii binahjį́ʼ dóó doo hoʼdoolchʼį́į́ h da dooleeł aheełtʼéego haahóchįʼ bee hazʼáanii binahjįʼ tʼáá ajiłtsoh éí\nhakʼéstiʼ haahóchįʼgo binahjį́ doo hodoolchʼį́į́ da díí doo bił adodzih da. Kweʼé bee haʼoodzíhígíí doo oochʼį́į́ d habizhdiyooł łaał da.\nTseebíí Góneʼ Yisdzohígíí\nTsíʼdí tʼáá ájíłtsoh bee háhazʼą́ tʼáa dooleʼé há hashtʼe doolníiłgo wááshindoon áájí yá ʼééhósinígíí ákótʼéego bee hazʼáanii bee háʼahootʼíʼ yę́ę\nbiłaszihgo.\nNáhástʼéí Góneʼ Yisdzohígíí\nTʼáá háida éí biniinaanii ádingo doo biʼdidool tsoołda dóó doo yahʼadooltʼeeł da dóó doo chʼi dinóol cheeł da.\nNeeznáá Góneʼ Yisdzohígíí\nTʼáá ájíłtsoh bee háʼahóótʼíʼ tʼáá aheeł tʼéego diné binááł há baahwinitʼį́į go doo háájída achʼíhjí nilíígíí binááł éí há yaa nídáastʼįįdgo yee"
         },
         "2": {
-            "Label": "3",
-            "Index": 2,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
             ],
-            "Text": "nidahodooʼááł bee há ahootʼígíí dóó bee hóholnígíí dóó haʼátʼííshį́į́ awáalyahjí bee hakʼehástʼahígíí.\nŁaʼ Tsʼáadah Góneʼ Yisdzohígíí\nTsídí tʼááʼ ajiłtsoh hakʼihodiitʼánígíí doo ajitʼį́į́ go hanitsáhákees nléí bee hasáanii bee hahwinistʼiin doo indah tʼááʼ aanííʼ aájítʼį́į́ go\nbeehwééhozingo bee achʼaah hazhdoodzihígíí áłtso ájíílaago.\nTʼáá háiidah doo tʼááʼanííájítʼį́į go bee hakʼiho dootʼah da doo ájítʼį́į́ go. Tʼáá doo ajiitʼį́į g ́ o bee hakʼéhestʼahgo kéyah tʼáá nahwiizʼáandę́ę́ʼ dóó\ntówonanidí bibeehazáanii kʼizhnítiʼ hoʼdiʼníigo áhoodzaa yę́ę dą́ą́ʼ . Áádóó ałdóʼ bee hazʼáanii yee nihodooʼáałígíí doo biláahgo yee há\nniʼhodooʼááł da.\nNaakitsʼáadah Góneʼ Biyiʼ Yisdzohígíí\nTʼáá héiida bił hazʼánígíí báʼ áłchínííní dah bighan dah doo háii tʼáaodah éíí baa tį́į́ʼ doodáałdah. Tʼáá ajiłtsoh bee hazʼą́ą nii bikʼehgo bee\nháhóchį́ .\nTaaʼtsʼadah Góneʼ Biyiʼ Yisdzohígíí\nTʼáá ajiłtoh éí tʼáá hozhnizingóó nijigháago dóó haghan azhoolííłgo bee há hazą́ .\nTʼáá ajiłtsoh éí kéyah biiʼ hájinéehgo bee há hazą́ áádóó tʼáá hohakéyah bííʼ yahʼaníjíneehgo ałdóʼ beeháhazą́ .\nDį́į t ́ sʼáadah Góneʼ Biyiʼ Yisdzohígíí\nTʼáá ajiłtsoh náánałahjį́ kéyah biish dínóochéełgo doo atihodooníiłgo bee há hazą́ .\nÁkondi díí béehazą́ą nígíí éí doo choidooʼį́į́ł da awáalyahji naaztʼiʼígíí bikʼeezhoochééłgo. Áádóó áłdoʼ kéyah tʼaasiʼą́ą́ ndę́ę́ beheehazą́ą nii\nbiłiisihgo éí doo choiiʼ dooʼį́į́ł da.\nAshdlaʼtsʼáadah Góneʼ Biyiʼ Yisdzohígíí\nTʼáá ajiłtsǫh dooneʼé jílínígíí bee háhazʼą́ .\nHéíídah éíí dóoneʼé nilínígíí doo bąąh dootʼį́į́ł dah.\nHastąątsʼáadah Góneʼ Biyiʼ Yisdzohígíí\nDiné dóó sáanii neeyánígíí ádóoneʼé nilígíí dóó beʼoodląʼ ęíí doo bichʼą́ą hgo adooyehgo báhazą́ . Ałtsʼą́ą́ jí aheełtʼéego áhéʼeskeh\nbeehazʼą́ą́ nii bikʼéstiʼ áádóó baʼáłchiní hoodoołeelgo bee báhazą́ áádóó áłtsʼáʼítʼaashgo bee bá ahootʼįʼʼ.\nAhidiiʼ aashígíí áłtsʼąąji tʼáábiniikʼehgo áłhaadootʼash.\nHooghan hazą́ą́ doo éí iiná hadahaaztʼiʼ dinétahjį́ dóó beehazą́ą nii baanchįʼ.",
-            "Image": "1cb8596105ffaaf60583e940fe1c195b"
+            "Image": "1cb8596105ffaaf60583e940fe1c195b",
+            "Index": 2,
+            "Label": "3",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "nidahodooʼááł bee há ahootʼígíí dóó bee hóholnígíí dóó haʼátʼííshį́į́ awáalyahjí bee hakʼehástʼahígíí.\nŁaʼ Tsʼáadah Góneʼ Yisdzohígíí\nTsídí tʼááʼ ajiłtsoh hakʼihodiitʼánígíí doo ajitʼį́į́ go hanitsáhákees nléí bee hasáanii bee hahwinistʼiin doo indah tʼááʼ aanííʼ aájítʼį́į́ go\nbeehwééhozingo bee achʼaah hazhdoodzihígíí áłtso ájíílaago.\nTʼáá háiidah doo tʼááʼanííájítʼį́į go bee hakʼiho dootʼah da doo ájítʼį́į́ go. Tʼáá doo ajiitʼį́į g ́ o bee hakʼéhestʼahgo kéyah tʼáá nahwiizʼáandę́ę́ʼ dóó\ntówonanidí bibeehazáanii kʼizhnítiʼ hoʼdiʼníigo áhoodzaa yę́ę dą́ą́ʼ . Áádóó ałdóʼ bee hazʼáanii yee nihodooʼáałígíí doo biláahgo yee há\nniʼhodooʼááł da.\nNaakitsʼáadah Góneʼ Biyiʼ Yisdzohígíí\nTʼáá héiida bił hazʼánígíí báʼ áłchínííní dah bighan dah doo háii tʼáaodah éíí baa tį́į́ʼ doodáałdah. Tʼáá ajiłtsoh bee hazʼą́ą nii bikʼehgo bee\nháhóchį́ .\nTaaʼtsʼadah Góneʼ Biyiʼ Yisdzohígíí\nTʼáá ajiłtoh éí tʼáá hozhnizingóó nijigháago dóó haghan azhoolííłgo bee há hazą́ .\nTʼáá ajiłtsoh éí kéyah biiʼ hájinéehgo bee há hazą́ áádóó tʼáá hohakéyah bííʼ yahʼaníjíneehgo ałdóʼ beeháhazą́ .\nDį́į t ́ sʼáadah Góneʼ Biyiʼ Yisdzohígíí\nTʼáá ajiłtsoh náánałahjį́ kéyah biish dínóochéełgo doo atihodooníiłgo bee há hazą́ .\nÁkondi díí béehazą́ą nígíí éí doo choidooʼį́į́ł da awáalyahji naaztʼiʼígíí bikʼeezhoochééłgo. Áádóó áłdoʼ kéyah tʼaasiʼą́ą́ ndę́ę́ beheehazą́ą nii\nbiłiisihgo éí doo choiiʼ dooʼį́į́ł da.\nAshdlaʼtsʼáadah Góneʼ Biyiʼ Yisdzohígíí\nTʼáá ajiłtsǫh dooneʼé jílínígíí bee háhazʼą́ .\nHéíídah éíí dóoneʼé nilínígíí doo bąąh dootʼį́į́ł dah.\nHastąątsʼáadah Góneʼ Biyiʼ Yisdzohígíí\nDiné dóó sáanii neeyánígíí ádóoneʼé nilígíí dóó beʼoodląʼ ęíí doo bichʼą́ą hgo adooyehgo báhazą́ . Ałtsʼą́ą́ jí aheełtʼéego áhéʼeskeh\nbeehazʼą́ą́ nii bikʼéstiʼ áádóó baʼáłchiní hoodoołeelgo bee báhazą́ áádóó áłtsʼáʼítʼaashgo bee bá ahootʼįʼʼ.\nAhidiiʼ aashígíí áłtsʼąąji tʼáábiniikʼehgo áłhaadootʼash.\nHooghan hazą́ą́ doo éí iiná hadahaaztʼiʼ dinétahjį́ dóó beehazą́ą nii baanchįʼ."
         },
         "3": {
-            "Label": "4",
-            "Index": 3,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
             ],
-            "Text": "Tsostsʼidtsʼáadah Góneʼ Biyiʼ Yisdzohígíí\nTʼáá ájíłtsoh kéyah tʼáá adiighahágó hweehodooleełgo bee háhazʼą́ doodaiiʼ díkwíjíltʼéegodah kéyah dajótąʼgo beeháhazʼą́ .\nHę́ íídah éí tʼáadoo biniinaanígó kéyah doo bighah dootʼááł dah.\nTseebíítsʼáadah Góneʼ Biyiʼ Yisdzohígíí\nTʼáá ájíłtsoh bee baʼahóótʼiʼ tʼáá hó adahnahojitʼáago dóó nitsijikeesgo dóó hweʼoodląʼ hólóogo díí bee háʼahootʼiʼígíí naanáłahjį́ʼ\nhweʼoodląʼígíí beeʼizhdidooʼgáałgo bee hazʼą́ . Dinétahjį́ hweʼoodląʼígíí bee hwééhozín doo áádóó bee nazhnitin doo. Áádóó ałdóʼ áájį́ bá\nhozhdísin doo.\nNahastʼéítsʼáadah Góneʼ Biyiʼ Yisdzohígíí\nTʼáá ájíłtsoh tʼáadooleʼé baa ntsíjíkeesgo bee hazdoodzihgo bee háhazʼą́ . Díí baa ntsíjíkeesígíí éí héídah doo hániʼ iidoolííłda. Áádóó bikah\nnazhnitáago dóó nízhdiiláago bee hadeesdzih jinizingo béésh halneʼé, naalkidídah doodaiiʼ naaltsoos biyiʼjį́ʼ bee hazdoodzihgo bee háhazʼą́ .\nNaadíín Góneʼ Biyiʼ Yisdzohígíí\nTʼáá ájíłtsoh ałah nijídleehgo dóó áłhiłdajidlį́į́ go bee háhazʼą́ .\nTʼáá héídah éí doo íínízingo doo atah dooltʼeełdah.\nNaadiin Łaʼ Góneʼ Biyiʼ Yisdohígíí\nTʼáá ajiłtsoh bee háʼahóótʼį́ʼ hakéyah biwááshindoon atahjílį́į́ go doodaiiʼ naatʼáanii ninádajiʼniłgo.\nTʼáá ajiłtsoh aheełtʼéego háʼahóótʼiʼ hakáh anaʼáwʼoʼ dooleeł hakéyah biʼyiʼdi.\nDiné áyisį́ beebóholnííh biwááshindoon yee yáhwiidoolʼaałígíí. Díí bee hoʼaʼígíí bee hadoodzih dóó tʼáá bá náhooʼaa góneʼ éí anáʼáʼah dooleeł.\nÁádóó tʼáá ałtsoh aheełtʼéego ánídaʼjiʼah dooleeł tʼaadoo łaʼ bił ííshjáná ájósinį́ áádóó tʼaahójinízingo ánájiʼah doo.\nNaadiin Naakí Góneʼ Biyiʼ Yisdzohígíí\nTʼáá ajiłtsoh diné bitah jílínígíí bee há ahóótʼíʼ bee haaʼahayą́ą dooleełígíí díí tʼáá átʼé kéyah dahsiʼánígíí doo nahasdzáán yee áłkáh ánájahígíí\nbá bóhoneedzánígíí háʼatʼííshį́į́ bee hólonígíí yee adoolwoł béeso dah, áádóó bee aʼdooníłígíí binahjį́ʼ yee ílį́į́ go ádaantsíkees dooleeł tʼáá bi\nsizínígíí yee hádidooʼnííł.\nNaadiin Tááʼ Góné Biyiʼ Yisdzohígíí\nTʼáá ajiłtsoh ndazhdoolnishgo bee hahazʼą́ , tʼáá hó naanish jinízínígíí, tʼáá hó naanish hoł yáʼátʼę́ ehéígíí díí naanish adinígíí bitsʼąą áhátʼį́ .\nTʼáá ajiłtsho tʼáadoo hoʼdool chiʼį́ d į́ aheełtʼéego hachʼįʼníʼiilyéedoo naanishígíí bííghahgo.",
-            "Image": "fa8a8ad0745d7d27153c064908166b66"
+            "Image": "fa8a8ad0745d7d27153c064908166b66",
+            "Index": 3,
+            "Label": "4",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Tsostsʼidtsʼáadah Góneʼ Biyiʼ Yisdzohígíí\nTʼáá ájíłtsoh kéyah tʼáá adiighahágó hweehodooleełgo bee háhazʼą́ doodaiiʼ díkwíjíltʼéegodah kéyah dajótąʼgo beeháhazʼą́ .\nHę́ íídah éí tʼáadoo biniinaanígó kéyah doo bighah dootʼááł dah.\nTseebíítsʼáadah Góneʼ Biyiʼ Yisdzohígíí\nTʼáá ájíłtsoh bee baʼahóótʼiʼ tʼáá hó adahnahojitʼáago dóó nitsijikeesgo dóó hweʼoodląʼ hólóogo díí bee háʼahootʼiʼígíí naanáłahjį́ʼ\nhweʼoodląʼígíí beeʼizhdidooʼgáałgo bee hazʼą́ . Dinétahjį́ hweʼoodląʼígíí bee hwééhozín doo áádóó bee nazhnitin doo. Áádóó ałdóʼ áájį́ bá\nhozhdísin doo.\nNahastʼéítsʼáadah Góneʼ Biyiʼ Yisdzohígíí\nTʼáá ájíłtsoh tʼáadooleʼé baa ntsíjíkeesgo bee hazdoodzihgo bee háhazʼą́ . Díí baa ntsíjíkeesígíí éí héídah doo hániʼ iidoolííłda. Áádóó bikah\nnazhnitáago dóó nízhdiiláago bee hadeesdzih jinizingo béésh halneʼé, naalkidídah doodaiiʼ naaltsoos biyiʼjį́ʼ bee hazdoodzihgo bee háhazʼą́ .\nNaadíín Góneʼ Biyiʼ Yisdzohígíí\nTʼáá ájíłtsoh ałah nijídleehgo dóó áłhiłdajidlį́į́ go bee háhazʼą́ .\nTʼáá héídah éí doo íínízingo doo atah dooltʼeełdah.\nNaadiin Łaʼ Góneʼ Biyiʼ Yisdohígíí\nTʼáá ajiłtsoh bee háʼahóótʼį́ʼ hakéyah biwááshindoon atahjílį́į́ go doodaiiʼ naatʼáanii ninádajiʼniłgo.\nTʼáá ajiłtsoh aheełtʼéego háʼahóótʼiʼ hakáh anaʼáwʼoʼ dooleeł hakéyah biʼyiʼdi.\nDiné áyisį́ beebóholnííh biwááshindoon yee yáhwiidoolʼaałígíí. Díí bee hoʼaʼígíí bee hadoodzih dóó tʼáá bá náhooʼaa góneʼ éí anáʼáʼah dooleeł.\nÁádóó tʼáá ałtsoh aheełtʼéego ánídaʼjiʼah dooleeł tʼaadoo łaʼ bił ííshjáná ájósinį́ áádóó tʼaahójinízingo ánájiʼah doo.\nNaadiin Naakí Góneʼ Biyiʼ Yisdzohígíí\nTʼáá ajiłtsoh diné bitah jílínígíí bee há ahóótʼíʼ bee haaʼahayą́ą dooleełígíí díí tʼáá átʼé kéyah dahsiʼánígíí doo nahasdzáán yee áłkáh ánájahígíí\nbá bóhoneedzánígíí háʼatʼííshį́į́ bee hólonígíí yee adoolwoł béeso dah, áádóó bee aʼdooníłígíí binahjį́ʼ yee ílį́į́ go ádaantsíkees dooleeł tʼáá bi\nsizínígíí yee hádidooʼnííł.\nNaadiin Tááʼ Góné Biyiʼ Yisdzohígíí\nTʼáá ajiłtsoh ndazhdoolnishgo bee hahazʼą́ , tʼáá hó naanish jinízínígíí, tʼáá hó naanish hoł yáʼátʼę́ ehéígíí díí naanish adinígíí bitsʼąą áhátʼį́ .\nTʼáá ajiłtsho tʼáadoo hoʼdool chiʼį́ d į́ aheełtʼéego hachʼįʼníʼiilyéedoo naanishígíí bííghahgo."
         },
         "4": {
-            "Label": "5",
-            "Index": 4,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
             ],
-            "Text": "Tʼáá ajiłtsoh ndajilnishígíí bee há ahootʼi beełtʼeego hachʼįʼ niʼiilyʼéego binahjiʼ tʼááhó dóó há áłchini yee hináadoo biláʼ ashdlaʼii bąąh ilinígíʼ\nátʼáo áádóó biʼóhjinéelánígíí há biidootʼááł áhótʼéédąąʼ diné bee bíkáh anáʼáwoʼ adę́ę́ʼ .\nTʼáá ajiłtsoh éí bee há ahóótʼiʼ naanish yee daʼahótąʼígíí atah hazhdidooliiłgo dóó bee atah jidooghááłgo tʼááhó jizinígíí bee adaaʼáhojilyą́ą\ndoo biniyé.\nNaadiin Dííʼ Góneʼ Biyiʼ Yisdzohígíí\nTʼáá ajiłtsoh bee há ahóótʼiʼ haazhdoolyįhgo dóó nííkʼeh njigháadoo áádóó naanish aheeʼiikeedígíí bee haʼhazáánígíí átʼáo nijiłnishdoo dóó łaʼ\najį́ dah doo naʼanishgo bee hooʼ aahgo tʼáá biniyé hachʼį́ʼ azláadooleeł.\nNaadiin Ashdlaʼ Góneʼ Biyiʼ Yisdzohígíí\nTʼáá ájiłtsoh bee há ahóotʼiʼ bikʼehgoʼ iiná azhdoołííłígíí tʼáá hó hatsʼíís yineelą́ nígíí dóó haʼáłchinį́ tʼáá hooltąʼgo. Jó éí chʼiyáán lá, ééʼ lá,\nhooghan lá, dóó azeeʼ álʼį́į́ jí bee aaʼáháyánígíí lá dóó diné bee bíkaʼánawoʼ dę́ę́ áádóó bee há ahootʼiʼ háadidah naanish ásdiingo nátʼą́ą́ bee\naaʼ áháyánígíí tʼáá hólóodoo, azhą́ shį́į́ dajitsaah ndi dóó hachʼįʼanáhootʼiʼ ndi, bił hijiináanii hąą ʼádin silį́į́ goda áádóó są́ jizhlįįgo doodaiiʼ\nhweʼiinaʼ biʼoh silį́į g ́ o tʼáadooleʼé bitsʼą́ą́ doo tʼáá hó hweʼiinaʼ doo bee hóhólnįįh da silįįgo dah.\nAmá jilį́į́ go dóó áłchíní jilį́į́ go bee há ahootʼiʼ haaʼ ahayą́ą d ́ oo áádóó háká anaʼáwoʼdoo. Áłchíní tʼáá ajiłtsoh bimá dóó bizhéʼé aheeskéego\nbiʼdizhchínígíí doodai bimá dóó bizhéʼé doo aheeskéego biʼdzhchínígíí da tʼáá ajiłtsoh éí dinétahgí haa hastihgo bee ákʼi hozhdoodlį́į́ł .\nNaadiin Hastąą Góneʼ Biyiʼ Yisdzohígíí\nTʼáá ajiłtsoh íízhdoołtahgo bee haʼahootʼiʼ. Ałchíní tʼóó haʼ ałtáádoo tʼáájiikʼe ʼíidoołtah. Ałchíní yázhí éí tʼáá íyisí tʼáá íídoołtah. Naanish\nbóhooʼaah baa daʼóltaʼ dahólǫǫ doo áádóó hódahgo daʼołtaʼígíí dahólǫǫ doo tʼáá ałtsoníbá áádóó hodahgo óltaígíí ałdoʼ bizhneelą́ nígi átʼáo\niizhdoołtah.\nOltaʼ éí hólǫ́ǫ́ doo bilaʼ asdlaʼii yee hadidooníłíjiʼ áádóó yee bidziildoo binahjíʼ bee há adahaztʼíʼígíí yá hodisin doo. Díí éí yee akʼiʼdiitą́ą d ́ oo\nbee haʼjólníídoo tʼaa áłtsojíʼ kʼeh bijiníí doo náánáłaʼ dóoneʼé dóó óodlání danilinígíí. Díí binahjį́ tʼéí yá kéyah áłhiiʼ sinilígíí tʼáadoo iitsʼáʼí\nałyił dandlį́į́ doo.\nÁmá dóó ázhéʼé éí áłtsé alą́ą́ j į́ʼ bee bá ahootʼiʼ báʼ áłchíní yaa iidoołtahígíí yee yáh hadoozih.\nNaadiin Tsostsid Góneʼ Biyiʼ Yisdzohígíí\nTʼáá ajiłtsoh bee háʼáhootʼiʼ tʼáá hózhnizinjį́ʼ atah biłkeehojitʼį́ inígíí bił iiná azhdoolííł, binaʼ achʼąąh dóó łahdóó bee ázhdoolwoł bee naas bee\nidahwiidooʼ áłígíí bee ákʼihwiizhdoodlííł\nTʼáá ajiłtsoh bee há áhootʼiʼ doo álį́į́ nii dóó áʼłʼinígíí bee aaʼáhyąągo éí heishíí iłííshjání ííyiilaaígíí bizhiʼ bikáadoo.\nNaadiin Tseebíí Góneʼ Biyiʼ Yisdzohígíí",
-            "Image": "2b7f29ea75cda1e44893fce179aa2b5a"
+            "Image": "2b7f29ea75cda1e44893fce179aa2b5a",
+            "Index": 4,
+            "Label": "5",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Tʼáá ajiłtsoh ndajilnishígíí bee há ahootʼi beełtʼeego hachʼįʼ niʼiilyʼéego binahjiʼ tʼááhó dóó há áłchini yee hináadoo biláʼ ashdlaʼii bąąh ilinígíʼ\nátʼáo áádóó biʼóhjinéelánígíí há biidootʼááł áhótʼéédąąʼ diné bee bíkáh anáʼáwoʼ adę́ę́ʼ .\nTʼáá ajiłtsoh éí bee há ahóótʼiʼ naanish yee daʼahótąʼígíí atah hazhdidooliiłgo dóó bee atah jidooghááłgo tʼááhó jizinígíí bee adaaʼáhojilyą́ą\ndoo biniyé.\nNaadiin Dííʼ Góneʼ Biyiʼ Yisdzohígíí\nTʼáá ajiłtsoh bee há ahóótʼiʼ haazhdoolyįhgo dóó nííkʼeh njigháadoo áádóó naanish aheeʼiikeedígíí bee haʼhazáánígíí átʼáo nijiłnishdoo dóó łaʼ\najį́ dah doo naʼanishgo bee hooʼ aahgo tʼáá biniyé hachʼį́ʼ azláadooleeł.\nNaadiin Ashdlaʼ Góneʼ Biyiʼ Yisdzohígíí\nTʼáá ájiłtsoh bee há ahóotʼiʼ bikʼehgoʼ iiná azhdoołííłígíí tʼáá hó hatsʼíís yineelą́ nígíí dóó haʼáłchinį́ tʼáá hooltąʼgo. Jó éí chʼiyáán lá, ééʼ lá,\nhooghan lá, dóó azeeʼ álʼį́į́ jí bee aaʼáháyánígíí lá dóó diné bee bíkaʼánawoʼ dę́ę́ áádóó bee há ahootʼiʼ háadidah naanish ásdiingo nátʼą́ą́ bee\naaʼ áháyánígíí tʼáá hólóodoo, azhą́ shį́į́ dajitsaah ndi dóó hachʼįʼanáhootʼiʼ ndi, bił hijiináanii hąą ʼádin silį́į́ goda áádóó są́ jizhlįįgo doodaiiʼ\nhweʼiinaʼ biʼoh silį́į g ́ o tʼáadooleʼé bitsʼą́ą́ doo tʼáá hó hweʼiinaʼ doo bee hóhólnįįh da silįįgo dah.\nAmá jilį́į́ go dóó áłchíní jilį́į́ go bee há ahootʼiʼ haaʼ ahayą́ą d ́ oo áádóó háká anaʼáwoʼdoo. Áłchíní tʼáá ajiłtsoh bimá dóó bizhéʼé aheeskéego\nbiʼdizhchínígíí doodai bimá dóó bizhéʼé doo aheeskéego biʼdzhchínígíí da tʼáá ajiłtsoh éí dinétahgí haa hastihgo bee ákʼi hozhdoodlį́į́ł .\nNaadiin Hastąą Góneʼ Biyiʼ Yisdzohígíí\nTʼáá ajiłtsoh íízhdoołtahgo bee haʼahootʼiʼ. Ałchíní tʼóó haʼ ałtáádoo tʼáájiikʼe ʼíidoołtah. Ałchíní yázhí éí tʼáá íyisí tʼáá íídoołtah. Naanish\nbóhooʼaah baa daʼóltaʼ dahólǫǫ doo áádóó hódahgo daʼołtaʼígíí dahólǫǫ doo tʼáá ałtsoníbá áádóó hodahgo óltaígíí ałdoʼ bizhneelą́ nígi átʼáo\niizhdoołtah.\nOltaʼ éí hólǫ́ǫ́ doo bilaʼ asdlaʼii yee hadidooníłíjiʼ áádóó yee bidziildoo binahjíʼ bee há adahaztʼíʼígíí yá hodisin doo. Díí éí yee akʼiʼdiitą́ą d ́ oo\nbee haʼjólníídoo tʼaa áłtsojíʼ kʼeh bijiníí doo náánáłaʼ dóoneʼé dóó óodlání danilinígíí. Díí binahjį́ tʼéí yá kéyah áłhiiʼ sinilígíí tʼáadoo iitsʼáʼí\nałyił dandlį́į́ doo.\nÁmá dóó ázhéʼé éí áłtsé alą́ą́ j į́ʼ bee bá ahootʼiʼ báʼ áłchíní yaa iidoołtahígíí yee yáh hadoozih.\nNaadiin Tsostsid Góneʼ Biyiʼ Yisdzohígíí\nTʼáá ajiłtsoh bee háʼáhootʼiʼ tʼáá hózhnizinjį́ʼ atah biłkeehojitʼį́ inígíí bił iiná azhdoolííł, binaʼ achʼąąh dóó łahdóó bee ázhdoolwoł bee naas bee\nidahwiidooʼ áłígíí bee ákʼihwiizhdoodlííł\nTʼáá ajiłtsoh bee há áhootʼiʼ doo álį́į́ nii dóó áʼłʼinígíí bee aaʼáhyąągo éí heishíí iłííshjání ííyiilaaígíí bizhiʼ bikáadoo.\nNaadiin Tseebíí Góneʼ Biyiʼ Yisdzohígíí"
         },
         "5": {
-            "Label": "6",
-            "Index": 5,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
             ],
-            "Text": "Tʼáá ajiłtsoh beehá áhootʼiʼ diné áłą́ą́ átʼégo dóó nahasdzáán tʼáá siʼáándéé bibeehazą́ díí kwéʼé bee haʼoodzíʼígíí tʼáá átʼé bee baaʼ\nákohoniidzíí doo.\nNaadiin Náhastʼéí Góneʼ Biyiʼ Yisdzohígíí\nTʼáá ajiłtsoh biłkééhojitʼínígíí éí łahdóó naanish beeʼaká azhdoolwoł tʼáá hwozhnízíngo. Díí binahjį́ tʼááʼ hójizínígí bee hazhdidooniił.\nDíí bee há ahóótʼiʼígíí dóó tʼáá hwozhnizinjį́ bee ndooʼnishgo éí tʼáá łaʼí jínítínígo bee hóholnííh beehaząąnii yee hasáníjíʼ átʼehígíí, éí binahjįʼ\nbaa ʼákóhwiindzin dóó dilzin, náánáłaʼ bee bá áhootʼiʼígíí dóó tʼáá binizinjįʼ átʼéhígíí, éí bikʼehgo ádaʼ adaʼ alį́ nígíí tʼáa ałtsoní diné bá átʼé.\nDíí adahaztʼiʼígíí dóó tʼáániikʼeh naʼadáhígíí éí díí kéyah ałhiiʼsiníłígíí binyé ályaa éí bibehazą́ą́ nii doo bee ałʼąąʼ áʼtéedah dooleeł.\nTádíín Góneʼ Biyiʼ Yisdzohígíí\nDíí kweʼé haʼ oodziʼígíí éí heitʼáo dah nááná łaʼ kéyah da siʼą́ níígíí doodaííʼ dahjookahígíí doodaiiʼ łaʼjizį́ éí doo heitʼáo dah haʼoodzígíí\njidoołchǫǫłda.",
-            "Image": "1adc6617ad1efdc4e2bb1085450c6b04"
+            "Image": "1adc6617ad1efdc4e2bb1085450c6b04",
+            "Index": 5,
+            "Label": "6",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Tʼáá ajiłtsoh beehá áhootʼiʼ diné áłą́ą́ átʼégo dóó nahasdzáán tʼáá siʼáándéé bibeehazą́ díí kwéʼé bee haʼoodzíʼígíí tʼáá átʼé bee baaʼ\nákohoniidzíí doo.\nNaadiin Náhastʼéí Góneʼ Biyiʼ Yisdzohígíí\nTʼáá ajiłtsoh biłkééhojitʼínígíí éí łahdóó naanish beeʼaká azhdoolwoł tʼáá hwozhnízíngo. Díí binahjį́ tʼááʼ hójizínígí bee hazhdidooniił.\nDíí bee há ahóótʼiʼígíí dóó tʼáá hwozhnizinjį́ bee ndooʼnishgo éí tʼáá łaʼí jínítínígo bee hóholnííh beehaząąnii yee hasáníjíʼ átʼehígíí, éí binahjįʼ\nbaa ʼákóhwiindzin dóó dilzin, náánáłaʼ bee bá áhootʼiʼígíí dóó tʼáá binizinjįʼ átʼéhígíí, éí bikʼehgo ádaʼ adaʼ alį́ nígíí tʼáa ałtsoní diné bá átʼé.\nDíí adahaztʼiʼígíí dóó tʼáániikʼeh naʼadáhígíí éí díí kéyah ałhiiʼsiníłígíí binyé ályaa éí bibehazą́ą́ nii doo bee ałʼąąʼ áʼtéedah dooleeł.\nTádíín Góneʼ Biyiʼ Yisdzohígíí\nDíí kweʼé haʼ oodziʼígíí éí heitʼáo dah nááná łaʼ kéyah da siʼą́ níígíí doodaííʼ dahjookahígíí doodaiiʼ łaʼjizį́ éí doo heitʼáo dah haʼoodzígíí\njidoołchǫǫłda."
         }
     }
 }

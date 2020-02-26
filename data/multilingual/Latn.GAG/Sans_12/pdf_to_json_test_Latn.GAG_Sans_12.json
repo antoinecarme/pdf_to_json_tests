@@ -1,99 +1,99 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581468010,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "26d52ab4b54c68fd5a2cb33a5636e3fe",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
-            ],
-            "Text": "Insan Hakların Cümlä Deklaratiyası\nKabledildi hem bildirildi 217 A (III) Birleşmiş Milletlär Kurulun Genel Asambleyasının kararınnan 1948 yılda dekabrinin onunda\nRespublika Moldovadakı Insan hakları merkezi\nBasılêr Birleşmiş Milletlär Kurulun Moldovadakı İlerlemä Programasının Yardımınnan\nPreambula\nESABA ALARAK, ani insan aylesi azaların kişilik saygılıı, onnarın birtakım hem ayırılmaz hakların tannıması serbestliin, dooruluun hem\nömür-dünnää usluluun temelidir; hem\nESABA ALARAK, ani insan haklarına gösterilän saygısızlıktan hem aşaalıktan kaynaklanan yabannık darıldêêr insannıın üzünü, hem ani ölä\nbir dünnää kurulması, nerdä insannarda olacek söz hem düşünmak serbestlii hem olmayacek korku hem sıkıntı, insannarın bir üüsek isteyişi\ngibi bildirildi; hem\nESABA ALARAK, ani insan hakları lääzım korunsun kanon kuvedinnän, ani olmasın ölä, açan insan, bitki çözüm gibi, zorbalaa hem baskıya\nkarşı istar-istemäz kalêr yapsın kalkıntı; hem\nESABA ALARAK, ani lääzım halklar arasında dostluk baalantıların ilerlemesinä yardımcı olmaa; hem\nESABA ALARAK, ani Birleşmiş Milletlär halkları kendi Ustavında tekrarladılar inandıklannı insannarın temel haklarına, insan kişiliin\nonuruna hem kıymetinähem da adamnarlan karıların bırtakım haklarına hem karar aldılar sotial ilerlemesina yardımcı olmaa hem taa bol\nserbestliktäyaşamak koşullannı iileştirmää; hem\nESABA ALARAK, ani aza devletlär söz verdilär, Birleşmiş Milletlär Kurulunnan birliktä, cümlä insan hakların hem temel serbestliklerin\nsaygılanmasına yardımcı olmaa;\nhem\nESABA ALARAK, ani bu haklar hem serbestliklär tabeetin universal annaşılması bu baalantıyı bütünnä tamannamak içik pek maanalıdır,\nGENEL ASAMBLEYA\nbildirer bu Insan Hakların Cümlä Deklaraţlyasını ölä bir problema gibi, angısını lääzım özensinnär çözmää hepsi halklar hem devletlär, aniki\nherbir insan hem cümlenin herbir organı, dayma göz altında tutarak bu Deklaraţiyayı savaşsınnar aydınnatmaklan hem üüretmäklän yardım\netmaä bu hakların hem serbestliklerin saygılanmasına naţional hem halklararası progresiv işlärlän onnarın tanıttırılmasına hem\ntamannanmasına nicä Kurula girän devletlerin halkları arasında, ölä da o halklar arasında, angıları bulunrlar o devletlerin kanonnarı altında\nolan topraklarda.",
-            "Image": "26d52ab4b54c68fd5a2cb33a5636e3fe"
+            "Text": "Insan Hakların Cümlä Deklaratiyası\nKabledildi hem bildirildi 217 A (III) Birleşmiş Milletlär Kurulun Genel Asambleyasının kararınnan 1948 yılda dekabrinin onunda\nRespublika Moldovadakı Insan hakları merkezi\nBasılêr Birleşmiş Milletlär Kurulun Moldovadakı İlerlemä Programasının Yardımınnan\nPreambula\nESABA ALARAK, ani insan aylesi azaların kişilik saygılıı, onnarın birtakım hem ayırılmaz hakların tannıması serbestliin, dooruluun hem\nömür-dünnää usluluun temelidir; hem\nESABA ALARAK, ani insan haklarına gösterilän saygısızlıktan hem aşaalıktan kaynaklanan yabannık darıldêêr insannıın üzünü, hem ani ölä\nbir dünnää kurulması, nerdä insannarda olacek söz hem düşünmak serbestlii hem olmayacek korku hem sıkıntı, insannarın bir üüsek isteyişi\ngibi bildirildi; hem\nESABA ALARAK, ani insan hakları lääzım korunsun kanon kuvedinnän, ani olmasın ölä, açan insan, bitki çözüm gibi, zorbalaa hem baskıya\nkarşı istar-istemäz kalêr yapsın kalkıntı; hem\nESABA ALARAK, ani lääzım halklar arasında dostluk baalantıların ilerlemesinä yardımcı olmaa; hem\nESABA ALARAK, ani Birleşmiş Milletlär halkları kendi Ustavında tekrarladılar inandıklannı insannarın temel haklarına, insan kişiliin\nonuruna hem kıymetinähem da adamnarlan karıların bırtakım haklarına hem karar aldılar sotial ilerlemesina yardımcı olmaa hem taa bol\nserbestliktäyaşamak koşullannı iileştirmää; hem\nESABA ALARAK, ani aza devletlär söz verdilär, Birleşmiş Milletlär Kurulunnan birliktä, cümlä insan hakların hem temel serbestliklerin\nsaygılanmasına yardımcı olmaa;\nhem\nESABA ALARAK, ani bu haklar hem serbestliklär tabeetin universal annaşılması bu baalantıyı bütünnä tamannamak içik pek maanalıdır,\nGENEL ASAMBLEYA\nbildirer bu Insan Hakların Cümlä Deklaraţlyasını ölä bir problema gibi, angısını lääzım özensinnär çözmää hepsi halklar hem devletlär, aniki\nherbir insan hem cümlenin herbir organı, dayma göz altında tutarak bu Deklaraţiyayı savaşsınnar aydınnatmaklan hem üüretmäklän yardım\netmaä bu hakların hem serbestliklerin saygılanmasına naţional hem halklararası progresiv işlärlän onnarın tanıttırılmasına hem\ntamannanmasına nicä Kurula girän devletlerin halkları arasında, ölä da o halklar arasında, angıları bulunrlar o devletlerin kanonnarı altında\nolan topraklarda."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "a663bc466bacad8b47f3fc9f7013b552",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
-            ],
-            "Text": "Yazı 1\nInsannar hepsi duuêrlar serbest hem birtakım kendi kıymetindä hem haklarında. Onnara verilmiş akıl hem üz da läazım biri-birinä davransınnar\nkardaşlık ruhuna uygun.\nYazı 2\nHerbir insanda lääzım olsun hepsi bu Deklaraţiyada bildirilän haklar hem serbestliklär, hiçbir ayırıntısız soy, deri rengi, adam hem karı, dil,\ndin, politika yada başka inandıkları, mülk, insan boyu eki başka durum bakımından.\nBundan başka diil lääzım yapılsın hiçbir ayırıntı devletin ya insanın yaşadıı topraan politika statusuna görä, bakmayarak o toprak serbest mi,\nbakımnı mı, kendibaşına kullanmayan mı osa suverenıtetindä başka türlü sınırlamalı mı.\nYazı 3\nHerbir insanın yaşamak, serbestlik hem kışiliinä dokunmamak hakı var.\nYazı 4\nKimsey diil lääzım tutulsun esirliktä ya serbestsiz durumda; esirlik hem esir satılması hiçbirtürlü kabledilmeer.\nYazı 5\nKimsey diil lääzım zeetlensin, zorlaştırılsın yada cezalandırılsın zulumca eki insan şanını aşaalayan davranışlan.\nYazı 6\nHerbir insanın, nerdä da o bulunsa, var hakı daava subyektı olarak tanınmaa.\nYazı 7\nHerbir insan kanona karşı denk hem herkezin, bir ayırıntısız, var birtakım hakı kanonnan korunmalı olmaa. Hepsi insannarın birtakım hakı var\nbu Deklaraţiyayı bozan diskriminaţiyadan hem bölä diskriminaţiya fitlemesindän korunmalı olmaa.\nYazı 8\nHerbir msanııı hakı var legal millet daavalarından haklarını efekivli geeri almaa, eer kostituţiya ya kanon tarafından ona verilän haklar\nkorunmazsalar.\nYazı 9\nKimsey yok nasıl zakonsuz zorlan kapansın, tutulsun yada erindän kaldırılsın.\nYazı 10",
-            "Image": "a663bc466bacad8b47f3fc9f7013b552"
+            "Text": "Yazı 1\nInsannar hepsi duuêrlar serbest hem birtakım kendi kıymetindä hem haklarında. Onnara verilmiş akıl hem üz da läazım biri-birinä davransınnar\nkardaşlık ruhuna uygun.\nYazı 2\nHerbir insanda lääzım olsun hepsi bu Deklaraţiyada bildirilän haklar hem serbestliklär, hiçbir ayırıntısız soy, deri rengi, adam hem karı, dil,\ndin, politika yada başka inandıkları, mülk, insan boyu eki başka durum bakımından.\nBundan başka diil lääzım yapılsın hiçbir ayırıntı devletin ya insanın yaşadıı topraan politika statusuna görä, bakmayarak o toprak serbest mi,\nbakımnı mı, kendibaşına kullanmayan mı osa suverenıtetindä başka türlü sınırlamalı mı.\nYazı 3\nHerbir insanın yaşamak, serbestlik hem kışiliinä dokunmamak hakı var.\nYazı 4\nKimsey diil lääzım tutulsun esirliktä ya serbestsiz durumda; esirlik hem esir satılması hiçbirtürlü kabledilmeer.\nYazı 5\nKimsey diil lääzım zeetlensin, zorlaştırılsın yada cezalandırılsın zulumca eki insan şanını aşaalayan davranışlan.\nYazı 6\nHerbir insanın, nerdä da o bulunsa, var hakı daava subyektı olarak tanınmaa.\nYazı 7\nHerbir insan kanona karşı denk hem herkezin, bir ayırıntısız, var birtakım hakı kanonnan korunmalı olmaa. Hepsi insannarın birtakım hakı var\nbu Deklaraţiyayı bozan diskriminaţiyadan hem bölä diskriminaţiya fitlemesindän korunmalı olmaa.\nYazı 8\nHerbir msanııı hakı var legal millet daavalarından haklarını efekivli geeri almaa, eer kostituţiya ya kanon tarafından ona verilän haklar\nkorunmazsalar.\nYazı 9\nKimsey yok nasıl zakonsuz zorlan kapansın, tutulsun yada erindän kaldırılsın.\nYazı 10"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "2d7fac37abf72e64dbe3c4fe02d31bc0",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
-            ],
-            "Text": "Herbir insanın haklarını hem borçlarını belirtmäk için hem ona çıkarılan kabaatlamanın sebepli olup-olmadıını göstermäk için var hakı, cümlä\nbirtakımnık temelindä, ıstemäa onun daavası bakılsın açık hem dooruluk kurallarına uygun olarak baalı olmayan hem tarafsız olan sudta.\nYazı 11\nHerbir kabaatlı bulunan insanın hakı var kabaatlı sayılmamaa, eer onun kabaatı zakona görä açık araştırmaklan ortaya çıkarılmadıysa hem ona\nhertürlü korunma kolaylıı verilmediysä.\nKimsey yok nasıl cezalandırılsın ölä bir cürüm (zakona uymayan iş) yapması içiıı yada yapmaması için, eer yapıldıı zamanda o cürüm naţional\nzakonnarına görä hem halklararası haka görä cezalanan kabaat sayılmadıysa. Hem yok nasıl kabaatlıya verilsin taa aar ceza, nekadar vardı nasıl\nverilsin o vakıtta, açan cürüm yapılmış.\nYazı 12\nKimseyin yok nasıl kanonsuz karışılsın kendi kişi hem aylä yaşamasına, kanonsuz dokunulsun onun eviııä, onun Yazışma saklılıına yada\nonun kıymetinä hem adına. Herbir insanın var hakı kanonnan korunmalı olmaa bölä karışmalardan eki bölä dokunmalardan.\nYazı 13\nHerbir insanın var hakı serbest er diiştirmää hem herbir devletin sınırlarında kendisinä oturmak eri ayırmaa.\nHerbir insanın var hakı çıkmaa memlekettän, bu sırada kendi memleketindän da, hem dönmää memleketinä.\nYazı 14\nHerbir insanın var hakı sıkıştırmalardan başka memleketlerdä koruntu aaramaa hem o koruntuyu kullanmaa.\nBu hak yok nasıl kullanılsın, eer sıkıştırma yapılırsa gerçektän politikaya baalı olmayan bir kabaat için yada Birleşmiş Milletlär kurulun\nneetlerinä hem prinţiplerinä karşı gidän işlär için.\nYazı 15\nHerbir insanın var vatandaşlık hakı.\nKimseydän yok nasıl kanonsuz alınsız onun vatandaşlıı yada onun hakl kendi vatandaşlıını diiştirmää.\nYazı 16\n1.Yaşlarını dolduran adamnarın hem karıların var hakı, hiçbir sınırlamasız soy, milletlik ya din üzerinä, evlenip aylä kumıaa. Onnarın hakları\nbirtakım evlenirkän, evlenmektä bulunarkan hem ayırılarkan.\nEvleıımäk olabilir sade karşılıklı iki tarafın bütün serbestliinnän hem kayıllıınnan.",
-            "Image": "2d7fac37abf72e64dbe3c4fe02d31bc0"
+            "Text": "Herbir insanın haklarını hem borçlarını belirtmäk için hem ona çıkarılan kabaatlamanın sebepli olup-olmadıını göstermäk için var hakı, cümlä\nbirtakımnık temelindä, ıstemäa onun daavası bakılsın açık hem dooruluk kurallarına uygun olarak baalı olmayan hem tarafsız olan sudta.\nYazı 11\nHerbir kabaatlı bulunan insanın hakı var kabaatlı sayılmamaa, eer onun kabaatı zakona görä açık araştırmaklan ortaya çıkarılmadıysa hem ona\nhertürlü korunma kolaylıı verilmediysä.\nKimsey yok nasıl cezalandırılsın ölä bir cürüm (zakona uymayan iş) yapması içiıı yada yapmaması için, eer yapıldıı zamanda o cürüm naţional\nzakonnarına görä hem halklararası haka görä cezalanan kabaat sayılmadıysa. Hem yok nasıl kabaatlıya verilsin taa aar ceza, nekadar vardı nasıl\nverilsin o vakıtta, açan cürüm yapılmış.\nYazı 12\nKimseyin yok nasıl kanonsuz karışılsın kendi kişi hem aylä yaşamasına, kanonsuz dokunulsun onun eviııä, onun Yazışma saklılıına yada\nonun kıymetinä hem adına. Herbir insanın var hakı kanonnan korunmalı olmaa bölä karışmalardan eki bölä dokunmalardan.\nYazı 13\nHerbir insanın var hakı serbest er diiştirmää hem herbir devletin sınırlarında kendisinä oturmak eri ayırmaa.\nHerbir insanın var hakı çıkmaa memlekettän, bu sırada kendi memleketindän da, hem dönmää memleketinä.\nYazı 14\nHerbir insanın var hakı sıkıştırmalardan başka memleketlerdä koruntu aaramaa hem o koruntuyu kullanmaa.\nBu hak yok nasıl kullanılsın, eer sıkıştırma yapılırsa gerçektän politikaya baalı olmayan bir kabaat için yada Birleşmiş Milletlär kurulun\nneetlerinä hem prinţiplerinä karşı gidän işlär için.\nYazı 15\nHerbir insanın var vatandaşlık hakı.\nKimseydän yok nasıl kanonsuz alınsız onun vatandaşlıı yada onun hakl kendi vatandaşlıını diiştirmää.\nYazı 16\n1.Yaşlarını dolduran adamnarın hem karıların var hakı, hiçbir sınırlamasız soy, milletlik ya din üzerinä, evlenip aylä kumıaa. Onnarın hakları\nbirtakım evlenirkän, evlenmektä bulunarkan hem ayırılarkan.\nEvleıımäk olabilir sade karşılıklı iki tarafın bütün serbestliinnän hem kayıllıınnan."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "4f897b6072fc752563e00221b14421ef",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
-            ],
-            "Text": "Aylä— cümlenin bir natural hem ana kısımı hem onun var hakı cümlä hem devlet tarafından korulu olmaa.\nYazı 17\nHerbir insanın var hakı mal saabisi olmaa tek başına yada başkasınnan birliktä.\nKimseyin elindän zakonsuz mal diil lääzım alınsın.\nYazı 18\nHerbir msanın var serbestli düşünmäk, üz hem din hakı; bu haka girer serbestlik diiştirmää kendi diııini ya inandıklarını hem tutmaa kendi\ndinini ya inandıklarını tek başına ekİ başkasınnan birliktä, halka açık üürenmää, duva etmää hem din ritual adetlerini kullanmaa.\nYazı 19\nHerbir insanın var hakı serbestli fikirlerinä hem onnarın serbestli açıklamasına; bu haka girer serbestlik engelsiz kendi fikirlerinä uymaa hem\nserbestlik aaramaa, kabletmää hem daatmaa bilgi hem fıkir hertürlü hem devlet sınırlarına baalı olmayarak.\nYazı 20\nHerbir insanın var hakı uslu toplantı hem kuruluş serbestliinä.\nKimseyi yok nasıl zorlaştırmaa girsiıı nesoy-sa kurııluşa (asotiatieyä).\nYazı 21\nHerbir insanın var hakı pay almaa kendi devletin kullanmasında doorudan yada seçilmiş vatandaşlann aracılıınnan.\nHerbir insanın var birtakım hakı kendi memleketindä devlet izmetinä giräbilmää.\nHalkın isteyişi lääzım olsun önderlik kuvedin temeli; bu isteyiş laazım belli edilsin periodik hem falş olmayan seçimnerdä, angıları lääzım\nyapılsınnar universal hem birtakım seçim hakınnan, saklı kiyat atmaklan yada başka denk maanalı, kiyat atmanın serbestliini koruyan\nformalarlan.\nYazı 22\nHerbır insanın, cümlä azası olduu için, hakı var sotial yardımına hem onun saygılıın yardımnı olması için hem kişiliin serbestli ilerlemesi için\nlääzım olan ekonomika, soţial hem kultura hakların gerçekleştirmesinä national yardımnarı hem milletlärarası işbirlii yolunnan hem herbir\ndevletin yapılışına hem kaynaklarına uygun olarak.\nYazı 23\nHerbir insanın var hakı çalışmaa, serbestli iş ayırmaa, dooru hem uygun iş kolaylıklarında çalışmaa hem işsizliktän korunmalı olmaa.",
-            "Image": "4f897b6072fc752563e00221b14421ef"
+            "Text": "Aylä— cümlenin bir natural hem ana kısımı hem onun var hakı cümlä hem devlet tarafından korulu olmaa.\nYazı 17\nHerbir insanın var hakı mal saabisi olmaa tek başına yada başkasınnan birliktä.\nKimseyin elindän zakonsuz mal diil lääzım alınsın.\nYazı 18\nHerbir msanın var serbestli düşünmäk, üz hem din hakı; bu haka girer serbestlik diiştirmää kendi diııini ya inandıklarını hem tutmaa kendi\ndinini ya inandıklarını tek başına ekİ başkasınnan birliktä, halka açık üürenmää, duva etmää hem din ritual adetlerini kullanmaa.\nYazı 19\nHerbir insanın var hakı serbestli fikirlerinä hem onnarın serbestli açıklamasına; bu haka girer serbestlik engelsiz kendi fikirlerinä uymaa hem\nserbestlik aaramaa, kabletmää hem daatmaa bilgi hem fıkir hertürlü hem devlet sınırlarına baalı olmayarak.\nYazı 20\nHerbir insanın var hakı uslu toplantı hem kuruluş serbestliinä.\nKimseyi yok nasıl zorlaştırmaa girsiıı nesoy-sa kurııluşa (asotiatieyä).\nYazı 21\nHerbir insanın var hakı pay almaa kendi devletin kullanmasında doorudan yada seçilmiş vatandaşlann aracılıınnan.\nHerbir insanın var birtakım hakı kendi memleketindä devlet izmetinä giräbilmää.\nHalkın isteyişi lääzım olsun önderlik kuvedin temeli; bu isteyiş laazım belli edilsin periodik hem falş olmayan seçimnerdä, angıları lääzım\nyapılsınnar universal hem birtakım seçim hakınnan, saklı kiyat atmaklan yada başka denk maanalı, kiyat atmanın serbestliini koruyan\nformalarlan.\nYazı 22\nHerbır insanın, cümlä azası olduu için, hakı var sotial yardımına hem onun saygılıın yardımnı olması için hem kişiliin serbestli ilerlemesi için\nlääzım olan ekonomika, soţial hem kultura hakların gerçekleştirmesinä national yardımnarı hem milletlärarası işbirlii yolunnan hem herbir\ndevletin yapılışına hem kaynaklarına uygun olarak.\nYazı 23\nHerbir insanın var hakı çalışmaa, serbestli iş ayırmaa, dooru hem uygun iş kolaylıklarında çalışmaa hem işsizliktän korunmalı olmaa."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "b1a9ab0a8545207bd74d9e3cb895d180",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
-            ],
-            "Text": "Herbir insanın var hakı hiçbir ayırıntısız birtakım iş için birtakım ödek kabletmää.\nHerbir çalışan insanın var hakı almaa dooru hem kanaatlı ödek, angısı eter insanca yaşamaa ona hem onun aylesinä hem angısına, lääzım\nolduynan, eklener başka sotial yardımnarı.\nHerbir insanın var hakı kurmaa profesıonal birlikleri hem girmää profesional birliklerinä kendi intereslerini korumaa deyni.\nYazı 24\nHerbir insanın var hakı dinnenmä hem boş vakıda, bu arada çalışma günün akıllıca sınırlanmasına hem periodik ödekli izinina (otpuskaya).\nYazı 25\nHerbir ınsanın var hakı ölä yaşamak uuruna, bu sıraya girer imeesi, giyimi, evi, saalık bakımı hem lääzım olan soţial izmetleri, angısı lääzım\nolêr korumaa saalıını hem varlıını, kendisinin hem aylesinin, hem hakı yardımsız kalmamaa işsizlik, hastalık, sakatlık, ihtärlık yada başka\nolabilirli durumda, açan o kendisinä baalı olmayan sebeplär üzerinä geçinmesi için kaynaksız kalabilir.\nAnalık hem uşaklık vererlär bir ayırı bakım hem yardım hakı. Hepsi uşaklar, duuan evliliktä ya evlilik dışında, lääzım kabletsinnär birtakım\nsotial yardımı.\nYazı 26\nHerbir insanın var üürenmäk hakı. En az başlantı hem genel üürenmäk lääzım olsunnar ödeksiz. Başlantı üürenmäk lääzım olsun hepsi için.\nTehnika hem zanaat üürenmesi için yol lääzım açık olsun herkezinä, üüsek üürenmäk tä lääzım hepsi için birtakım açık olsun herkezin\nbecerdimä görä.\nÜürenmäk lääzım ön versin insan kişiliin dolu ilerlemesmä hem da insan hakların hem temel serbestliklerin taa büük saygılanmasına.\nÜürenmäk lääzım yardım etsin karşılıklı annaşmak, saburluk hem dostluk olsım hepsi miiletlär, soy hem din grupaların arasında hem yardım\netsin Birleşmiş Kurulun barış koruma çalışmalarına.\nAna-bobanın var üstün hakı kendi küçük yaşlı uşaklarına üürenmäk forması ayırmaa.\nYazı 27\nHerbir insanın var hakı serbestli pay almaa cümlenin kultura yaşamasında, hoşlanmaa incä zanaatlan, pay almaa bilim ilerlemesindä hem\nfaydalanmaa onun hayırlarınnan.\nHerbir insanın var hakı korunsun onun moral hem material interesleri, kaynaklanan oııun yaptıı bilim, lıteratura ya artistik yaratmalarından.\nYazı 28\nHerbir insanın var hakı ölä bir soţial hem halklararası düzenä, aııgısında bütün haklar hem serbestliklär, sıralanan bu Deklaraţiyada, gerçek",
-            "Image": "b1a9ab0a8545207bd74d9e3cb895d180"
+            "Text": "Herbir insanın var hakı hiçbir ayırıntısız birtakım iş için birtakım ödek kabletmää.\nHerbir çalışan insanın var hakı almaa dooru hem kanaatlı ödek, angısı eter insanca yaşamaa ona hem onun aylesinä hem angısına, lääzım\nolduynan, eklener başka sotial yardımnarı.\nHerbir insanın var hakı kurmaa profesıonal birlikleri hem girmää profesional birliklerinä kendi intereslerini korumaa deyni.\nYazı 24\nHerbir insanın var hakı dinnenmä hem boş vakıda, bu arada çalışma günün akıllıca sınırlanmasına hem periodik ödekli izinina (otpuskaya).\nYazı 25\nHerbir ınsanın var hakı ölä yaşamak uuruna, bu sıraya girer imeesi, giyimi, evi, saalık bakımı hem lääzım olan soţial izmetleri, angısı lääzım\nolêr korumaa saalıını hem varlıını, kendisinin hem aylesinin, hem hakı yardımsız kalmamaa işsizlik, hastalık, sakatlık, ihtärlık yada başka\nolabilirli durumda, açan o kendisinä baalı olmayan sebeplär üzerinä geçinmesi için kaynaksız kalabilir.\nAnalık hem uşaklık vererlär bir ayırı bakım hem yardım hakı. Hepsi uşaklar, duuan evliliktä ya evlilik dışında, lääzım kabletsinnär birtakım\nsotial yardımı.\nYazı 26\nHerbir insanın var üürenmäk hakı. En az başlantı hem genel üürenmäk lääzım olsunnar ödeksiz. Başlantı üürenmäk lääzım olsun hepsi için.\nTehnika hem zanaat üürenmesi için yol lääzım açık olsun herkezinä, üüsek üürenmäk tä lääzım hepsi için birtakım açık olsun herkezin\nbecerdimä görä.\nÜürenmäk lääzım ön versin insan kişiliin dolu ilerlemesmä hem da insan hakların hem temel serbestliklerin taa büük saygılanmasına.\nÜürenmäk lääzım yardım etsin karşılıklı annaşmak, saburluk hem dostluk olsım hepsi miiletlär, soy hem din grupaların arasında hem yardım\netsin Birleşmiş Kurulun barış koruma çalışmalarına.\nAna-bobanın var üstün hakı kendi küçük yaşlı uşaklarına üürenmäk forması ayırmaa.\nYazı 27\nHerbir insanın var hakı serbestli pay almaa cümlenin kultura yaşamasında, hoşlanmaa incä zanaatlan, pay almaa bilim ilerlemesindä hem\nfaydalanmaa onun hayırlarınnan.\nHerbir insanın var hakı korunsun onun moral hem material interesleri, kaynaklanan oııun yaptıı bilim, lıteratura ya artistik yaratmalarından.\nYazı 28\nHerbir insanın var hakı ölä bir soţial hem halklararası düzenä, aııgısında bütün haklar hem serbestliklär, sıralanan bu Deklaraţiyada, gerçek"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "b03fb95139bab959a4dc056c27a3188c",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
-            ],
-            "Text": "olabileceklär.\nYazı 29\nHerbir insanın cümlä karşısında borçları var, sade cümledä olur gerçeklensin kişiliin serbest hem bütün ilerlemesi.\nHaklarını hem serbestliklerini gerçekleştirärkän herbir insana sade ölä sınırlama yapılabilinir, angısı kanona göra uygıılanmış saade neetlän\ngerçekleştirmää aalemin haklarının hem serbestliklerinin tanınmasını hem saygılanmasını hem da demokratik toplumunda dooru moral\nısteklerinä, cümlä düzeninä hem cümlä yaşamak bolluuna uygun olması için.\nBu hakların hem serbestliklerin gerçekleştirilmesi hiçbirtürlü diil lääzım aykırı gitsin Birleşmiş Milletlär Kurulun neetlerinä hem prinţiplerinä.\nYazı 30\nBu Deklaraţiyada bişey yok nasıl yorumnansın osoy, sansın bir devletä, kişi grupasına yada ayırı kişilerä veriler hak ölä bir çalışmada\nbulunmaa, angısı önnendiriler bu Deklaraţiyada sıralanan hakları hem serbestlikleri yok etmää.",
-            "Image": "b03fb95139bab959a4dc056c27a3188c"
+            "Text": "olabileceklär.\nYazı 29\nHerbir insanın cümlä karşısında borçları var, sade cümledä olur gerçeklensin kişiliin serbest hem bütün ilerlemesi.\nHaklarını hem serbestliklerini gerçekleştirärkän herbir insana sade ölä sınırlama yapılabilinir, angısı kanona göra uygıılanmış saade neetlän\ngerçekleştirmää aalemin haklarının hem serbestliklerinin tanınmasını hem saygılanmasını hem da demokratik toplumunda dooru moral\nısteklerinä, cümlä düzeninä hem cümlä yaşamak bolluuna uygun olması için.\nBu hakların hem serbestliklerin gerçekleştirilmesi hiçbirtürlü diil lääzım aykırı gitsin Birleşmiş Milletlär Kurulun neetlerinä hem prinţiplerinä.\nYazı 30\nBu Deklaraţiyada bişey yok nasıl yorumnansın osoy, sansın bir devletä, kişi grupasına yada ayırı kişilerä veriler hak ölä bir çalışmada\nbulunmaa, angısı önnendiriler bu Deklaraţiyada sıralanan hakları hem serbestlikleri yok etmää."
         }
     }
 }

@@ -1,132 +1,132 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581467305,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "dce9375d8016158dbd1f407829eb5f5e",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "IN KIRAK -TSAPORONASOSH TPOTS ICHIGORO VANASIR TAPANA; SAMPATA MANTSIR\nTARINTSPA-ATCHA.\n[Preamble]\nMazinantsa: tpots vanasir tapi-ato ¿anoa mayamaha toxarachich? Kis tapi-ato ¿anoa mayamaha pachidchich?\nvatam tpotsiva. Pachidkinarich -Ancha yotarita -atiniya ichigoroní. Ichigoroní kis taravaztamam zadkini;\nvanasir tamam zadkini; mapironi tamam zadkiniya.\nMisha mazinagtsa: tpots nia tsiyatsia da payoragosin, kizpor yotarit taragana; tpotsia natsaragana. Anomon\nchi vanipsha tsiyantakich. Itaro, iysha anoa zadkiazini, da. Mapironi tapani atiniya. Tpots Apallia chinapí-\nato, vani chinachpa. Tpots tsiyatsia kamanpi-ato, vani kamanichpa. Tpots kis tapi-ato, xaramam vatsta\natiniya. ¿Chakaha nia da zadak? Ichigoroni zadaktánicha.\nMisha mazinagtsa: gobieron ichigoro iyá kukini kamachtachpa. -Tpots ichigorosin vanasir tapana;\ntoxararintspa -ato tayaspatachpa. Dona ashkos, paptsa; tpots varatchillinpa. Tpots kizpor tsiyantaksin -\nGoblernoa kapiatiani -táchpasinaya; vatam kis tapani atánava.\nMisha mazinagtsa: gobieron ichigoroní vashonad kis tayani atini. Ashirí, dona nia kukoz payokoni ¿tamayria\nkis tachiní? Ashirocha, ichigoroni payopani atiniya.\nMisha mazinagtsa: siro iy korakani vashonad shaniyaragoni -Yanpatatini tpotsini chinayani -táragini.- Iy\ntpotsini ichigoroni magoaz tatsamoatanicha, kizatamta. Yanpata istayani; vanasir tayani. Toxaramam\nvatsitshaparia; natsamam, misha varatamam vatstsishaparia -táragtanicha.\nMisha mazinagtsa: iysha korakani ichigoroni anoa chinaragoni -Tpotsini ichigoroni vanasir tapani;\ntoxaramam vatsta -táragoni ,- Anoari chinayani. ¿Chakaha anoa gatach? Ashiriya, ashichpachi -táragtanicha.\nMisha mazinagtsa: itsinsaroni da chinakoni ¿tamayria anoa kok payochich? Iysha korakarini -Niatsimari",
-            "Image": "dce9375d8016158dbd1f407829eb5f5e"
+            "Text": "IN KIRAK -TSAPORONASOSH TPOTS ICHIGORO VANASIR TAPANA; SAMPATA MANTSIR\nTARINTSPA-ATCHA.\n[Preamble]\nMazinantsa: tpots vanasir tapi-ato ¿anoa mayamaha toxarachich? Kis tapi-ato ¿anoa mayamaha pachidchich?\nvatam tpotsiva. Pachidkinarich -Ancha yotarita -atiniya ichigoroní. Ichigoroní kis taravaztamam zadkini;\nvanasir tamam zadkini; mapironi tamam zadkiniya.\nMisha mazinagtsa: tpots nia tsiyatsia da payoragosin, kizpor yotarit taragana; tpotsia natsaragana. Anomon\nchi vanipsha tsiyantakich. Itaro, iysha anoa zadkiazini, da. Mapironi tapani atiniya. Tpots Apallia chinapí-\nato, vani chinachpa. Tpots tsiyatsia kamanpi-ato, vani kamanichpa. Tpots kis tapi-ato, xaramam vatsta\natiniya. ¿Chakaha nia da zadak? Ichigoroni zadaktánicha.\nMisha mazinagtsa: gobieron ichigoro iyá kukini kamachtachpa. -Tpots ichigorosin vanasir tapana;\ntoxararintspa -ato tayaspatachpa. Dona ashkos, paptsa; tpots varatchillinpa. Tpots kizpor tsiyantaksin -\nGoblernoa kapiatiani -táchpasinaya; vatam kis tapani atánava.\nMisha mazinagtsa: gobieron ichigoroní vashonad kis tayani atini. Ashirí, dona nia kukoz payokoni ¿tamayria\nkis tachiní? Ashirocha, ichigoroni payopani atiniya.\nMisha mazinagtsa: siro iy korakani vashonad shaniyaragoni -Yanpatatini tpotsini chinayani -táragini.- Iy\ntpotsini ichigoroni magoaz tatsamoatanicha, kizatamta. Yanpata istayani; vanasir tayani. Toxaramam\nvatsitshaparia; natsamam, misha varatamam vatstsishaparia -táragtanicha.\nMisha mazinagtsa: iysha korakani ichigoroni anoa chinaragoni -Tpotsini ichigoroni vanasir tapani;\ntoxaramam vatsta -táragoni ,- Anoari chinayani. ¿Chakaha anoa gatach? Ashiriya, ashichpachi -táragtanicha.\nMisha mazinagtsa: itsinsaroni da chinakoni ¿tamayria anoa kok payochich? Iysha korakarini -Niatsimari"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "a1610e506394c85848d6980182a31575",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "minamari kok payoyani -táragoni ¿tamayriaha llitaritacha chinachich? Ashiriya, da toxaramam izororo\nkamachtachiniya.\nIysha tsaporonas korakarini vashonad shaniyaragoni, kukiatsini payomam kamachtaragini. Ashirocha, iyá\nkukini ichigoros mazlnagtsa.\n-Tpots tsaporonasosh ichigorosin vanasir tapana; vanpatatin xararosinapa -atini. Tpots iyá kukini\npayochiliinpa; gatosinapa atini. Gobieron ichigorosin payochillinpa. Nimari chinayarosin, kis payochillinpa;\ntayaspatachillinpa. Tayaspatat, tayaspatat shiarsin, zapishat tpots izataro magoanchillinpa. Tpots vanpatatin\nkis tamam dosha toxarachillinpa. Ashiriya, na izooro kamachtachiniya.\nKamachtamarini 1.\nIy tpotsini ichigoroni kis tamam zadkini, vatam tpotsiniva. Vatam ichigoroni magini tarova; ashiriya\nchinakaniya. Ashirocha, zovalliatsich tamaparia-ashiros sanpata chinagtsa atiniya.\nKamachtamarini 2.\nTpots vanasir tapi-ato toxararintspa; kiyog yacharintspa atini. Kadoaztata natsarintspa; mikoroatsta,\nkiristiyanatsta, natsarintspa. Kizatsta kiyog yacharintspa. Apallia magoankoanoatstat natsarintspa.\nMayamasaha tpots magosh chinako-anomon natsarintspa. Arapchiatsta tpots natsarintspa. Pokiriatsta\nnatsarintspa; virakuchiatstata natsarintspa. Ashirocha, tpots ichigorosin vanasir tapana atiniya.\nMisha, gobieron ichigorosin anoa tsiyatsis payochillinpa. Tpotsia arapchiatsta natsarintspa atiniya; vatam o\ngobieronorini taritamtava. Si anoa kasikitatiasa, ashirita natsarintspa. Siyá ksotkita, ashta tpotsia natsarintspa\natiniya.\nKamachtamarini 3.\nTpotsia pcharintspa. Tpotsia kiyog1yacharintspa. Tpots vanasir tapi-ato, vana tachiya atiniya.",
-            "Image": "a1610e506394c85848d6980182a31575"
+            "Text": "minamari kok payoyani -táragoni ¿tamayriaha llitaritacha chinachich? Ashiriya, da toxaramam izororo\nkamachtachiniya.\nIysha tsaporonas korakarini vashonad shaniyaragoni, kukiatsini payomam kamachtaragini. Ashirocha, iyá\nkukini ichigoros mazlnagtsa.\n-Tpots tsaporonasosh ichigorosin vanasir tapana; vanpatatin xararosinapa -atini. Tpots iyá kukini\npayochiliinpa; gatosinapa atini. Gobieron ichigorosin payochillinpa. Nimari chinayarosin, kis payochillinpa;\ntayaspatachillinpa. Tayaspatat, tayaspatat shiarsin, zapishat tpots izataro magoanchillinpa. Tpots vanpatatin\nkis tamam dosha toxarachillinpa. Ashiriya, na izooro kamachtachiniya.\nKamachtamarini 1.\nIy tpotsini ichigoroni kis tamam zadkini, vatam tpotsiniva. Vatam ichigoroni magini tarova; ashiriya\nchinakaniya. Ashirocha, zovalliatsich tamaparia-ashiros sanpata chinagtsa atiniya.\nKamachtamarini 2.\nTpots vanasir tapi-ato toxararintspa; kiyog yacharintspa atini. Kadoaztata natsarintspa; mikoroatsta,\nkiristiyanatsta, natsarintspa. Kizatsta kiyog yacharintspa. Apallia magoankoanoatstat natsarintspa.\nMayamasaha tpots magosh chinako-anomon natsarintspa. Arapchiatsta tpots natsarintspa. Pokiriatsta\nnatsarintspa; virakuchiatstata natsarintspa. Ashirocha, tpots ichigorosin vanasir tapana atiniya.\nMisha, gobieron ichigorosin anoa tsiyatsis payochillinpa. Tpotsia arapchiatsta natsarintspa atiniya; vatam o\ngobieronorini taritamtava. Si anoa kasikitatiasa, ashirita natsarintspa. Siyá ksotkita, ashta tpotsia natsarintspa\natiniya.\nKamachtamarini 3.\nTpotsia pcharintspa. Tpotsia kiyog1yacharintspa. Tpots vanasir tapi-ato, vana tachiya atiniya."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "325e713489ac5352c2e50651106a8818",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Kamachtamarini 4.\nTpotsia gotaritish topattagarillpa; mchachoriamis yamarintspa. Mchachorish taravaztakcho, tovapagtsa.\nShiyá kasamam zadko, vana kasachpa. Msagiarosh gotish topattagaktar ashkos, anoa vatsta atiniya.\nKamachtamarini 5.\nTpotsia kiyog yacharintspa. Tpotsia ovi tororintspa. Tpotsia kiraptarintspa. Yotarit vaniarintspa atiniya.\nKamachtamarini 6.\nGobieron tpotsia izataro ishinachpa; tatsamoro ishinagcha. ¿Tamayshtaha minoatsimsha tpots chinako, itaro\nminoatssha tpots natsach? Anoa vatsta atiniya.\nKamachtamarini 7.\nGobieron tpotsia izataro istachpa. Tpots iyá kukini kapiatkinari, montakinaria ¿tamayariaha gobieron anoa\nmago napach? Yotaritcha ano. Tpotsia ichigoro istachpa vanasiri tamama, atiniya.\nKamachtamarini 8.\nGobieron koraká vanimpaniam inachpa. Tpots korakap nayaro, korakatssha -Tpots gobiernoa kok da payoko;\nnová kiyog yachakiya -atinari, koraksha yasayaro itsinsaro vanichillinpa. Ashirocha, koraká vanimpaniam\ninachpa atiniya.\nKamachtamarini 9.\nKorak vanimpan msagiaro tpotsia potatpa. Mago tomantapa. Mago arap zagantapa. Tpots izororo yotarit\ntakinari, ashiri ptagsi; tomanagsi. Itaro, gotaritis shirintspa, atiniya.\nKamachtamarini 10.",
-            "Image": "325e713489ac5352c2e50651106a8818"
+            "Text": "Kamachtamarini 4.\nTpotsia gotaritish topattagarillpa; mchachoriamis yamarintspa. Mchachorish taravaztakcho, tovapagtsa.\nShiyá kasamam zadko, vana kasachpa. Msagiarosh gotish topattagaktar ashkos, anoa vatsta atiniya.\nKamachtamarini 5.\nTpotsia kiyog yacharintspa. Tpotsia ovi tororintspa. Tpotsia kiraptarintspa. Yotarit vaniarintspa atiniya.\nKamachtamarini 6.\nGobieron tpotsia izataro ishinachpa; tatsamoro ishinagcha. ¿Tamayshtaha minoatsimsha tpots chinako, itaro\nminoatssha tpots natsach? Anoa vatsta atiniya.\nKamachtamarini 7.\nGobieron tpotsia izataro istachpa. Tpots iyá kukini kapiatkinari, montakinaria ¿tamayariaha gobieron anoa\nmago napach? Yotaritcha ano. Tpotsia ichigoro istachpa vanasiri tamama, atiniya.\nKamachtamarini 8.\nGobieron koraká vanimpaniam inachpa. Tpots korakap nayaro, korakatssha -Tpots gobiernoa kok da payoko;\nnová kiyog yachakiya -atinari, koraksha yasayaro itsinsaro vanichillinpa. Ashirocha, koraká vanimpaniam\ninachpa atiniya.\nKamachtamarini 9.\nKorak vanimpan msagiaro tpotsia potatpa. Mago tomantapa. Mago arap zagantapa. Tpots izororo yotarit\ntakinari, ashiri ptagsi; tomanagsi. Itaro, gotaritis shirintspa, atiniya.\nKamachtamarini 10."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "2cb5565dc7c76455a4d177f7cea06c01",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Gobieron koraká natstamapaniam vayachpa. Tpots chiyá yotari tsiyatkinari, chiyá -Yotari takiya; nová\nmagotari kiyog kachiyko -atinari, chisha natstamapanip tsiyatchich. Oshtisin ichigoro mazinayarosin,\nitsinsaro natstachillinpa. Tpots ab tsiyatamam pchidintspa, atiniya.\nKamachtamarini 11.\nTpots natstamapanish chiyá -Yotari takiya; vaniagcha -atinari, koraksha ichtaro -Gotpasha atsha -táchpa.\nShiaro tpots ichigoro mazinaksin, chisha yamchich. Itaro, oshtisin itsinsaro -kchiptini paragtanicha -\natinariasinaya, kasikinariasinaya-ashiro, vanimam varitachiya. Itaro, dona kasikinari, magota atinariasina\n¿tamayariaha vanichich? Ashirocha, yammam pchidintspa atiniya.\nMisha, apaz gobieron kukoz kaniasich kamachtakiya. Kamachtakcho -Siro shi da payoragosh, na vanichilipa\n-¿tamayriaha tách? vatam kukoz kaniasichsha kamachtakova. Ashimam vatsta atiniya. Misha, vaniashish\nkaniasich kamachtakcho ¿tamayriaha - Araginasha vanichilipa -tách? ¿Tamayriaha sirapchimad yotarit\ntarago-anomada tsiyatchich? Ashimam vatsta atitamani.\nKamachtamarini 12.\nTpotsia magotari tamontarintspa. Tpotsia machirita mago itotstapa. Tpotsosh pag mago pshtotpa. Magotari\ntpotsia tashitogayaro, pagoa itotstapa. Tpotsia virkaria mago itotstapa. Tpotsia magotari yotaritam inatpa.\nGobier on vanasiri ksotachpa. Vanasir ishinkinari, dosha tpots yotari tamontachiya. Ashiriya, shigtsa.\nKamachtamarini 13.\nYap tpots ximam zadko-ab vanari xitappa; toxararintspa. Yap tamam zadko-abitam vanari tachpa. Itaro,\nminosh gobiernop xitpi-atinari, xarashish tamana tariya.\nTpots arap ximam zadko, vanatsi vatsapon natomasamam kasamam zadko, txaratpa. Vaptam kanappi-atinari,\nvanari kanapochpa.",
-            "Image": "2cb5565dc7c76455a4d177f7cea06c01"
+            "Text": "Gobieron koraká natstamapaniam vayachpa. Tpots chiyá yotari tsiyatkinari, chiyá -Yotari takiya; nová\nmagotari kiyog kachiyko -atinari, chisha natstamapanip tsiyatchich. Oshtisin ichigoro mazinayarosin,\nitsinsaro natstachillinpa. Tpots ab tsiyatamam pchidintspa, atiniya.\nKamachtamarini 11.\nTpots natstamapanish chiyá -Yotari takiya; vaniagcha -atinari, koraksha ichtaro -Gotpasha atsha -táchpa.\nShiaro tpots ichigoro mazinaksin, chisha yamchich. Itaro, oshtisin itsinsaro -kchiptini paragtanicha -\natinariasinaya, kasikinariasinaya-ashiro, vanimam varitachiya. Itaro, dona kasikinari, magota atinariasina\n¿tamayariaha vanichich? Ashirocha, yammam pchidintspa atiniya.\nMisha, apaz gobieron kukoz kaniasich kamachtakiya. Kamachtakcho -Siro shi da payoragosh, na vanichilipa\n-¿tamayriaha tách? vatam kukoz kaniasichsha kamachtakova. Ashimam vatsta atiniya. Misha, vaniashish\nkaniasich kamachtakcho ¿tamayriaha - Araginasha vanichilipa -tách? ¿Tamayriaha sirapchimad yotarit\ntarago-anomada tsiyatchich? Ashimam vatsta atitamani.\nKamachtamarini 12.\nTpotsia magotari tamontarintspa. Tpotsia machirita mago itotstapa. Tpotsosh pag mago pshtotpa. Magotari\ntpotsia tashitogayaro, pagoa itotstapa. Tpotsia virkaria mago itotstapa. Tpotsia magotari yotaritam inatpa.\nGobier on vanasiri ksotachpa. Vanasir ishinkinari, dosha tpots yotari tamontachiya. Ashiriya, shigtsa.\nKamachtamarini 13.\nYap tpots ximam zadko-ab vanari xitappa; toxararintspa. Yap tamam zadko-abitam vanari tachpa. Itaro,\nminosh gobiernop xitpi-atinari, xarashish tamana tariya.\nTpots arap ximam zadko, vanatsi vatsapon natomasamam kasamam zadko, txaratpa. Vaptam kanappi-atinari,\nvanari kanapochpa."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "5fdc4d273fb67a65ac59fe60acee75b5",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Kamachtamarini 14.\nGobieron tpotsia mago kiyog yachakinari, tpotssha lii taritap sovamam zadko, vanari sovachiya; pchidintspa.\nItaro, tpots kapanari yotari tarago ¿tamayria sovako sovach? Vanimam varitakiya. Iyá kukiatsini kapiatkinari,\nsovamam pchidagtsa.\nKamachtamarini 15.\nTpots ichigoro gobiernoa virkari payochpa. Shiaro, tpotssha -No anshochtana -táchiya No gobieiori nová\nvanasiri ishinkiya -táchiya.\nGobieron anoa virkari mago itotstapa. Tpots Ilitaritá gobiernoa virkari payopi-atinari, vani yachiya.\nKamachtamarini 16.\nTpots kizá yamapi ato, vani yamachiya. Kiz zarallpi-ato vani zaralliya. Tpotsia vachin pchidintspa,\nyamamama. Kadoaziatsta pchidintspa; mikoroatsta, kiristiyanatsta, arapchiatsta, nxakamotshochiatsta vatsta\ntárintspa. Mayamasaha magosh chinako-anomon toxararintspa. Vipagaz zadko, ashiri toxararintspa.\nVanpatatin istachillinpa. Zapish kasakta, vipá istachillinpa.\nTpots kis ayo atinari, anoa yamachillinpa. Itaro gatkinariya ¿tamayria yamachich? Yamachiazich.\nGobieron tpotsia tapachidachpa. Tpots machiritpata tachpa. Ipariatsich, izalliatstamtich dona tapachidako,\nvashonad tachiazich, dabaria. Ashiriya, vanasir ishinagtsa; tapachidagtsa.\nKamachtamarini 17.\nTpots tsapoa paxanxpi-ato pchidintspa. Tpots zapan vashonad paxanxiani-atosin pchidintspa; vani\npaxanxchillinpa.\nTpotsia vatsapon msagiaros itotsintspa.",
-            "Image": "5fdc4d273fb67a65ac59fe60acee75b5"
+            "Text": "Kamachtamarini 14.\nGobieron tpotsia mago kiyog yachakinari, tpotssha lii taritap sovamam zadko, vanari sovachiya; pchidintspa.\nItaro, tpots kapanari yotari tarago ¿tamayria sovako sovach? Vanimam varitakiya. Iyá kukiatsini kapiatkinari,\nsovamam pchidagtsa.\nKamachtamarini 15.\nTpots ichigoro gobiernoa virkari payochpa. Shiaro, tpotssha -No anshochtana -táchiya No gobieiori nová\nvanasiri ishinkiya -táchiya.\nGobieron anoa virkari mago itotstapa. Tpots Ilitaritá gobiernoa virkari payopi-atinari, vani yachiya.\nKamachtamarini 16.\nTpots kizá yamapi ato, vani yamachiya. Kiz zarallpi-ato vani zaralliya. Tpotsia vachin pchidintspa,\nyamamama. Kadoaziatsta pchidintspa; mikoroatsta, kiristiyanatsta, arapchiatsta, nxakamotshochiatsta vatsta\ntárintspa. Mayamasaha magosh chinako-anomon toxararintspa. Vipagaz zadko, ashiri toxararintspa.\nVanpatatin istachillinpa. Zapish kasakta, vipá istachillinpa.\nTpots kis ayo atinari, anoa yamachillinpa. Itaro gatkinariya ¿tamayria yamachich? Yamachiazich.\nGobieron tpotsia tapachidachpa. Tpots machiritpata tachpa. Ipariatsich, izalliatstamtich dona tapachidako,\nvashonad tachiazich, dabaria. Ashiriya, vanasir ishinagtsa; tapachidagtsa.\nKamachtamarini 17.\nTpots tsapoa paxanxpi-ato pchidintspa. Tpots zapan vashonad paxanxiani-atosin pchidintspa; vani\npaxanxchillinpa.\nTpotsia vatsapon msagiaros itotsintspa."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "02caba0b1b3fb745b92a6f02e19180d3",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Kamachtamarini 18.\nTpots mayamasaha kukoz payopi-ato, toxararintspa. Apallia kok payopi-ato, vani payochiya. Yashigoa kok\npayopi-ato, vani payochiya. Zitaminá kok payopi-ato, vani payochiya. Minoa kok kapiatiaro, llitaritsha\nchinapi-atinari, toxararintspa; vani ashchiya. Tpots vashonad Apallilam shaniyiani.atosin, toxararintspa.\nTayaspatapi-ato, yasiayani-ato, Apailpa tsiyatpi-ato, vani ashchiya; toxararintspa.\nKamachtamarini 19.\nTpots tsiyatssia chinakcho, tsiyatssia kamanpi atinari, vanari kamanchiya; vatsta tárintspa. Tsiyatssia\nmazinamam zadko, kirakamon natstayaro tsiyatssia yasapi atinari, vanari yasachiya; vatsta tárintspa.\nKamachtamarini 20.\nTpots vashonad shaniypani-atosin, pchidintspa.\nTpots shaniymam gatkinari, vani gatchiya; tamontarintspa.\nKamachtamarini 21.\nTpots goblernosh pshtopi-atinari, vani pshtochiya. Tpotsia tapshtopi-atinari, vani tapshtochiya. Pchidintspa.\nTpots goblernosh istapi-atinari, toxararintspa.\nGobieron magota tpotsia kasichpa. Yová tpots vashonad zadkana-anoa gobieron mazinachpa. Tpots vamatim\norkari iposchillinpa; iposamam pchidintspa. Tpots izataro iposchiííinpa; kirkamon -Nia tpots\nkorakariniamani inpani -atosin, vani iposchilíinpa. Pchidintspa.\nKamachtamarini 22.\nTpotsia msagiaros kpitintspa; msagiaros zaganintspa. Tpots kiyog kachiytapa. Machia pishtako-anoa vanari\npaxanxchiya. Vana tarshiam payopi-ato vanari tachiya. ¿Tamayria tpotsia ashimam pachidchich? Tpots vani",
-            "Image": "02caba0b1b3fb745b92a6f02e19180d3"
+            "Text": "Kamachtamarini 18.\nTpots mayamasaha kukoz payopi-ato, toxararintspa. Apallia kok payopi-ato, vani payochiya. Yashigoa kok\npayopi-ato, vani payochiya. Zitaminá kok payopi-ato, vani payochiya. Minoa kok kapiatiaro, llitaritsha\nchinapi-atinari, toxararintspa; vani ashchiya. Tpots vashonad Apallilam shaniyiani.atosin, toxararintspa.\nTayaspatapi-ato, yasiayani-ato, Apailpa tsiyatpi-ato, vani ashchiya; toxararintspa.\nKamachtamarini 19.\nTpots tsiyatssia chinakcho, tsiyatssia kamanpi atinari, vanari kamanchiya; vatsta tárintspa. Tsiyatssia\nmazinamam zadko, kirakamon natstayaro tsiyatssia yasapi atinari, vanari yasachiya; vatsta tárintspa.\nKamachtamarini 20.\nTpots vashonad shaniypani-atosin, pchidintspa.\nTpots shaniymam gatkinari, vani gatchiya; tamontarintspa.\nKamachtamarini 21.\nTpots goblernosh pshtopi-atinari, vani pshtochiya. Tpotsia tapshtopi-atinari, vani tapshtochiya. Pchidintspa.\nTpots goblernosh istapi-atinari, toxararintspa.\nGobieron magota tpotsia kasichpa. Yová tpots vashonad zadkana-anoa gobieron mazinachpa. Tpots vamatim\norkari iposchillinpa; iposamam pchidintspa. Tpots izataro iposchiííinpa; kirkamon -Nia tpots\nkorakariniamani inpani -atosin, vani iposchilíinpa. Pchidintspa.\nKamachtamarini 22.\nTpotsia msagiaros kpitintspa; msagiaros zaganintspa. Tpots kiyog kachiytapa. Machia pishtako-anoa vanari\npaxanxchiya. Vana tarshiam payopi-ato vanari tachiya. ¿Tamayria tpotsia ashimam pachidchich? Tpots vani"
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "c4cf82580f3c656c23df347b9aeac22d",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "kis tachpa. Gobieron ashimam istachpa. Pinasakinari, gobieron zapan vashonad istachilíinpa.\nKamachtamarini 23.\nTpots taravaztamam zadko, vani taravaztachpa. Yovashomasaha taravaztamam zadko, vani taravaztachpa;\nvatsta tárintspa. Tpots taravaztako, gotis kpitintspa.\nTpots vanasir taravaztako, vanasiritam tovapagtsa; vanasiritam napagtsa.\nTpotsia ichigoro tatsamoro tovapagtsa. Apaz tpots taravaztakcho, nigich tovapkoch, itaro llitari tpots antam\ntaravaztakch, aragiam tovapkich. Anoa vatsta. Tatsamoro tovapagtsa.\nTpots taravaztako, vanasiri tovapagtsa; kiyog kachiytapa. Tovapakchosh, vipatstam chinagtsa; istagtsa,\nvatam tpotsiva.\nKamachtamarini 24.\nTpots taravaztako, kanosamam pchidintspa. ¿Tamayria kashchiri psanpatari tsibon ashko taravaztachich?\nZari kanosish ashpatatam gotaritis tovapagtsa.\nKamachtamarini 25.\nTpots vanasir tachpa; vipá vanasir ishinachpa. Kas yotatpa. Mariz kayattapa. Zapitpa. Masaro tatpa.\nGob¡eron istachpa; irimiyá vayachpa. Gobieron tpotsia istachpa; kiyog kachiytapa. Apaz tpots taravaztamam\npinasako, apaz kas yotako, apaz mchosava, apaz mashidova, apaz kizpor vachinaro ¿tamayria da\nnayaniychich? Gobieron anoa tpots istachpa.\nKiz vipá tatsipkacho, kizpor istagtsa; napagtsa. Gobieron vanasir napachpa. Gobieron shochitamatsta vip\nvanasiri napachpa.\nKamachtamarini 26.",
-            "Image": "c4cf82580f3c656c23df347b9aeac22d"
+            "Text": "kis tachpa. Gobieron ashimam istachpa. Pinasakinari, gobieron zapan vashonad istachilíinpa.\nKamachtamarini 23.\nTpots taravaztamam zadko, vani taravaztachpa. Yovashomasaha taravaztamam zadko, vani taravaztachpa;\nvatsta tárintspa. Tpots taravaztako, gotis kpitintspa.\nTpots vanasir taravaztako, vanasiritam tovapagtsa; vanasiritam napagtsa.\nTpotsia ichigoro tatsamoro tovapagtsa. Apaz tpots taravaztakcho, nigich tovapkoch, itaro llitari tpots antam\ntaravaztakch, aragiam tovapkich. Anoa vatsta. Tatsamoro tovapagtsa.\nTpots taravaztako, vanasiri tovapagtsa; kiyog kachiytapa. Tovapakchosh, vipatstam chinagtsa; istagtsa,\nvatam tpotsiva.\nKamachtamarini 24.\nTpots taravaztako, kanosamam pchidintspa. ¿Tamayria kashchiri psanpatari tsibon ashko taravaztachich?\nZari kanosish ashpatatam gotaritis tovapagtsa.\nKamachtamarini 25.\nTpots vanasir tachpa; vipá vanasir ishinachpa. Kas yotatpa. Mariz kayattapa. Zapitpa. Masaro tatpa.\nGob¡eron istachpa; irimiyá vayachpa. Gobieron tpotsia istachpa; kiyog kachiytapa. Apaz tpots taravaztamam\npinasako, apaz kas yotako, apaz mchosava, apaz mashidova, apaz kizpor vachinaro ¿tamayria da\nnayaniychich? Gobieron anoa tpots istachpa.\nKiz vipá tatsipkacho, kizpor istagtsa; napagtsa. Gobieron vanasir napachpa. Gobieron shochitamatsta vip\nvanasiri napachpa.\nKamachtamarini 26."
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "2ef4ba7e427cc1f1d94ef67c4f031e6d",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Llorá ichigoro iskoviarash tapshtogtsa. Gobieron magotari istachpa, iskoviarama. Primaria mad\ntovapchiazich, dabaria. Itaro, llor ichigoro pshtochillinpa; gatosinapa. Tpots primaria ivapayaro, aragiam\npshtopi-atinari, yap zadko vani pshtochiya. Gobierno anoam iskoviar vayachpa. Itaro, yo mag tar-an\naraginasha pshtochpa; pchidintspa.\nIskoviarosh vanasir tayaspatachpa. Vanasiri tamam tayaspatachpa; kis tamam tayaspatachpa. Mayistor\ntayaspatako -Si ichigoros vanasir tagtsa; sanpata natsarintspa -táchpa.- Tpotsia ichigoro chinagtsa.\nArapchiatsta tonariavatsta tpots chinagtsa. Llitaritap tsap tpots taro-anshochiatsta vanasir chinagtsa. Vanotsia\nborshiavatsta, vanotskansirpiavatsta, mikorovatsta chinagtsa; ichigoros chinagtsa. Tpots Apallia chinako-\nanoa chinagtsa. Misha, yovatsta Apallia da chinako-anoatsta chinagtsa. Vashonad tsaporonasosh mapiro\ntayani -mayistor táchpa.\nTpots vipá iskoviarap llitaritap tapshtopi-atinari, vanari tapshtochpa; pchidintspa.\nKamachtamarini 27.\nTpots vamkorish napamam zadko, pchidintspa. Tpots machiatsi tinamam zadko, vanari tinachpa. Tpots\nmachiatsi payopi atinari, itotsintspa.\nTpots machiatsi llitaritamash tinakinari, kirak yadakinari, gobieronsha anoa tpotsia istachpa; llitari tpots\nshochitpa; líitari tpots anomad korikia magota potatpa.\nKamachtamarini 28.\nIy korakarini ichigoroni nia chinaragoni, kamachtaragtanicha. Ashiriya, iysha ichigoroni payopani atiniya. Si\ntpots izataros payogtamsa atiniya. Anoa kok payomam yanpata istayani.\nKamachtamarini 29.\nTpotspatari takosh, anosh istagcha. Ashkachinariasha, kispa tachsha.",
-            "Image": "2ef4ba7e427cc1f1d94ef67c4f031e6d"
+            "Text": "Llorá ichigoro iskoviarash tapshtogtsa. Gobieron magotari istachpa, iskoviarama. Primaria mad\ntovapchiazich, dabaria. Itaro, llor ichigoro pshtochillinpa; gatosinapa. Tpots primaria ivapayaro, aragiam\npshtopi-atinari, yap zadko vani pshtochiya. Gobierno anoam iskoviar vayachpa. Itaro, yo mag tar-an\naraginasha pshtochpa; pchidintspa.\nIskoviarosh vanasir tayaspatachpa. Vanasiri tamam tayaspatachpa; kis tamam tayaspatachpa. Mayistor\ntayaspatako -Si ichigoros vanasir tagtsa; sanpata natsarintspa -táchpa.- Tpotsia ichigoro chinagtsa.\nArapchiatsta tonariavatsta tpots chinagtsa. Llitaritap tsap tpots taro-anshochiatsta vanasir chinagtsa. Vanotsia\nborshiavatsta, vanotskansirpiavatsta, mikorovatsta chinagtsa; ichigoros chinagtsa. Tpots Apallia chinako-\nanoa chinagtsa. Misha, yovatsta Apallia da chinako-anoatsta chinagtsa. Vashonad tsaporonasosh mapiro\ntayani -mayistor táchpa.\nTpots vipá iskoviarap llitaritap tapshtopi-atinari, vanari tapshtochpa; pchidintspa.\nKamachtamarini 27.\nTpots vamkorish napamam zadko, pchidintspa. Tpots machiatsi tinamam zadko, vanari tinachpa. Tpots\nmachiatsi payopi atinari, itotsintspa.\nTpots machiatsi llitaritamash tinakinari, kirak yadakinari, gobieronsha anoa tpotsia istachpa; llitari tpots\nshochitpa; líitari tpots anomad korikia magota potatpa.\nKamachtamarini 28.\nIy korakarini ichigoroni nia chinaragoni, kamachtaragtanicha. Ashiriya, iysha ichigoroni payopani atiniya. Si\ntpots izataros payogtamsa atiniya. Anoa kok payomam yanpata istayani.\nKamachtamarini 29.\nTpotspatari takosh, anosh istagcha. Ashkachinariasha, kispa tachsha."
         },
         "8": {
-            "Label": "9",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "d81f7a3fd88ca2c69e786b44be36dfe3",
             "Index": 8,
+            "Label": "9",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Shi vanasir tapi-atosh, shigcha. Itaro, tpotsia kiyog yachariílpa. Tpotsia toxararilípa. Tpotsia tamontarilipa.\nTpotsia yotaritam inarilipa. Yotari tarilipa. Vashonad kis tagtsa.\nIyá kukini kpitintspa.\nKamachtamarini 30.\nXarashish minam tariya. Iyá kukini yayaros, sarich sarich shirintspa. Sarich sarich shiaros ¿mayamshita\nyosor tpotsia kiyog yachich? Ashiri, tpotsia natsarintspa; chinagtsa atiniya. Vatamcha.",
-            "Image": "d81f7a3fd88ca2c69e786b44be36dfe3"
+            "Text": "Shi vanasir tapi-atosh, shigcha. Itaro, tpotsia kiyog yachariílpa. Tpotsia toxararilípa. Tpotsia tamontarilipa.\nTpotsia yotaritam inarilipa. Yotari tarilipa. Vashonad kis tagtsa.\nIyá kukini kpitintspa.\nKamachtamarini 30.\nXarashish minam tariya. Iyá kukini yayaros, sarich sarich shirintspa. Sarich sarich shiaros ¿mayamshita\nyosor tpotsia kiyog yachich? Ashiri, tpotsia natsarintspa; chinagtsa atiniya. Vatamcha."
         }
     }
 }

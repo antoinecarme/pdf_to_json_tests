@@ -1,148 +1,148 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581468303,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "8b2a2decce788f26f50443cb40f5b329",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "DIKLAI PUM THLANGHING HAMHMOEL OL HOE NA CAYOL\n1948 kum December ni 10 vaeng ah diklai pum mawtkung(UNO roihui) rhoek ngoltunna lam ka loh\nthlanghing hamhmoel ti he khuek athui uphoei ah hoe la om. Tikah olhoe nah caa tetah a hnuk kah caa hmai\ndongah asoep cala tueng ni. Tlamtluk cilol la a ka coeng hamkoi olhoe nahhe asai phoei ah, tikah ngoltun\nnaloh laihman kah barhan rhoek boeih loh, he kah olhoe nahhe rhingpuei taeng ah kaphong ni ti khaw saeh,\nte buengmuehla ramtung cana neh ram boeih kah nainganyae paihmuen dong ah hangdang tih paekboe\nmuehla, olpui koek la saengim neh atloe cangnah boeih ah hi kah olhoe nah kong he tael hamla, rhephmuh\nna koi ah tai ham, taeham neh along a im thuicaihna ka sai ni tikhaw saeh patoeng thui la om.\nOl rhoek nah\nThlang boeihkah thlangphun rimomna thlangtom vanpitna hamhmoel boeih pompuina tah thlangboeih kah\nzalpo nah, duengtlangna, roepremna roek kah a kungpui la a om dong ah khaw ti saeh:\nThlanghing hamhmoel cina bangla nawtsap napawt he thlangtom boeih kah singyoe te aka phaekung ka thae\nkoek khoboe rhamlang la acoeng sak thai dong ah khaw ti saeh, alangya la thuikhan thaina, alangya la\nbawkthaina, rhalrih na neh khodaeng patang khang na khui lam ka loh loeih tih khosak omthenna diklai\nphueng na thai ham la, thlangtom boeih loh mah kah ngaihna asang koek la aphong coeng dong ah khaw ti\nsaeh;\nThlangtom boeih loh atuengta mueh la hnaemtaekna, ukkna, thaekhana na neh ahnukhit ah acoeng thai pawt\ndong ah lungpok haica neh caemthohna a om na pawt ham, thlanghing hamhmoel na te upadi neh dawndah\npaham la angoe dong akhaw tisaeh;\nRamtung khat neh khat roeprem cala tukkai na u thae, pomsangna ham la bisai ham a om dong ah khaw\ntisaeh;",
-            "Image": "8b2a2decce788f26f50443cb40f5b329"
+            "Text": "DIKLAI PUM THLANGHING HAMHMOEL OL HOE NA CAYOL\n1948 kum December ni 10 vaeng ah diklai pum mawtkung(UNO roihui) rhoek ngoltunna lam ka loh\nthlanghing hamhmoel ti he khuek athui uphoei ah hoe la om. Tikah olhoe nah caa tetah a hnuk kah caa hmai\ndongah asoep cala tueng ni. Tlamtluk cilol la a ka coeng hamkoi olhoe nahhe asai phoei ah, tikah ngoltun\nnaloh laihman kah barhan rhoek boeih loh, he kah olhoe nahhe rhingpuei taeng ah kaphong ni ti khaw saeh,\nte buengmuehla ramtung cana neh ram boeih kah nainganyae paihmuen dong ah hangdang tih paekboe\nmuehla, olpui koek la saengim neh atloe cangnah boeih ah hi kah olhoe nah kong he tael hamla, rhephmuh\nna koi ah tai ham, taeham neh along a im thuicaihna ka sai ni tikhaw saeh patoeng thui la om.\nOl rhoek nah\nThlang boeihkah thlangphun rimomna thlangtom vanpitna hamhmoel boeih pompuina tah thlangboeih kah\nzalpo nah, duengtlangna, roepremna roek kah a kungpui la a om dong ah khaw ti saeh:\nThlanghing hamhmoel cina bangla nawtsap napawt he thlangtom boeih kah singyoe te aka phaekung ka thae\nkoek khoboe rhamlang la acoeng sak thai dong ah khaw ti saeh, alangya la thuikhan thaina, alangya la\nbawkthaina, rhalrih na neh khodaeng patang khang na khui lam ka loh loeih tih khosak omthenna diklai\nphueng na thai ham la, thlangtom boeih loh mah kah ngaihna asang koek la aphong coeng dong ah khaw ti\nsaeh;\nThlangtom boeih loh atuengta mueh la hnaemtaekna, ukkna, thaekhana na neh ahnukhit ah acoeng thai pawt\ndong ah lungpok haica neh caemthohna a om na pawt ham, thlanghing hamhmoel na te upadi neh dawndah\npaham la angoe dong akhaw tisaeh;\nRamtung khat neh khat roeprem cala tukkai na u thae, pomsangna ham la bisai ham a om dong ah khaw\ntisaeh;"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "26e22d8a6288b7478b6697ef37d13756",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "UN roihui boeih loh mahkah hamhmoel boeih te khaw, thlanghing rimom na khaw saeh huta tungpa\nhamhmoel vanpitna khaw saeh, ka hinyah na ni tila koekthoek ah apom phoei bal ah thlanghing khosak\naroeng na neh a aomthen na atang aroeng na ham ol akam coeng dong khaw ti saeh;\nUN roihui boeih loh UN neh bongyong u tih thlanghing hamhmoel cina khaw saeh, akungsut yalpona\nhamhmoel khaw tisaeh, diklai pum ah avaina thai ham tha ka paek ni ti la ol akam coeng dong ah khaw\ntisaeh:\nTe dongah\nUNO ngoltun na loh\nRamtom thlanghing hamhmoel cayol he thlangboeih neh buping boeih loh thinkolungbuei ah akhoem doe ah\ntekah hamhmoel neh yalpona he ahinyah na u hamla ringtuk doe ah tha kahuel uhni tina khaw tiseh; UN\nroihui cana neh tikah ramtung khui kah khoram kah pilnam boeih loh, tikah hamhmoel na te acoeng thai khui\nah bit bit avai thai na hamla ramkhui ramvoel ah tha kahuel uhni tilam khaw tiseh, amaengtaeng tih ramtom\nthlanghing hamhmoel olhoena cayol te ramtom boeih, thlangtom boeih, vanpit cala abi na u thai ham la, hoe\nla om.\nCaboelna\nBoel-1.\nThlangboeih he rhimomna, vanpitna, yalpona hamhmoel ka tawn thlang la cuun la ng’om u. Thlanghing he\nathae-then paekboe thaina neh yakming thaina moeiboe ka tawn thlang la n’om u dong ah khat neh khat\nlungvat na neh thloehlan voekhlak u thae ham om.\nBoel-2.\nThlang boeih loh thlanghing hamhoel cayol dong kah hnosaithai na neh yalpona hamhmoel boeih he apang",
-            "Image": "26e22d8a6288b7478b6697ef37d13756"
+            "Text": "UN roihui boeih loh mahkah hamhmoel boeih te khaw, thlanghing rimom na khaw saeh huta tungpa\nhamhmoel vanpitna khaw saeh, ka hinyah na ni tila koekthoek ah apom phoei bal ah thlanghing khosak\naroeng na neh a aomthen na atang aroeng na ham ol akam coeng dong khaw ti saeh;\nUN roihui boeih loh UN neh bongyong u tih thlanghing hamhmoel cina khaw saeh, akungsut yalpona\nhamhmoel khaw tisaeh, diklai pum ah avaina thai ham tha ka paek ni ti la ol akam coeng dong ah khaw\ntisaeh:\nTe dongah\nUNO ngoltun na loh\nRamtom thlanghing hamhmoel cayol he thlangboeih neh buping boeih loh thinkolungbuei ah akhoem doe ah\ntekah hamhmoel neh yalpona he ahinyah na u hamla ringtuk doe ah tha kahuel uhni tina khaw tiseh; UN\nroihui cana neh tikah ramtung khui kah khoram kah pilnam boeih loh, tikah hamhmoel na te acoeng thai khui\nah bit bit avai thai na hamla ramkhui ramvoel ah tha kahuel uhni tilam khaw tiseh, amaengtaeng tih ramtom\nthlanghing hamhmoel olhoena cayol te ramtom boeih, thlangtom boeih, vanpit cala abi na u thai ham la, hoe\nla om.\nCaboelna\nBoel-1.\nThlangboeih he rhimomna, vanpitna, yalpona hamhmoel ka tawn thlang la cuun la ng’om u. Thlanghing he\nathae-then paekboe thaina neh yakming thaina moeiboe ka tawn thlang la n’om u dong ah khat neh khat\nlungvat na neh thloehlan voekhlak u thae ham om.\nBoel-2.\nThlang boeih loh thlanghing hamhoel cayol dong kah hnosaithai na neh yalpona hamhmoel boeih he apang"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "e4df5591122c506c5926e0c4143dc2b9",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "ham om. Thlangphun, vuen yong, huta-tungpa, ol, nainganyae poekna, atloetloe poekna, ramtung neh\ntukkaina, khosak na neh thawtna kong, khuehtawn koeva, khuilam ben neh atloe tloe dong ah paek boe na\nom boel saeh.\nTecoengah, thlangkhat kho asak nah ramtung tpt khoram khat kah nainganyae dong ah mai a, ukna hmuen\ndong mai a, ramtung khat neh khat tukkai na dong mai a, thlang khat khosak na hmuen dong ah mai a,\nramtung khat te amah ngaihloei ah a uk ram la aom mai a, tpt UNO loh adawndah ramtung la aom mai a, tpt\namah poek ah rakthuem ka uk u ramtung la aom mai a, tlam te amah poek ah boeih ka uk u pawh ram la ka\nom mai a khat neh khat laklo ah paekboe na om boel saeh.\nBoel-3.\nThlanghing boeih uca khaw sasueng cala ngaihloei ah hingthaina hamhmoel atawn.\nBoel-4.\nUca khaw sal la tpt salbang la tuihhno tuihba ham om pawh. Upadi kah voel ah sal na te hnopai bangla yoih\nna neh laina khang pa ni.\nBoel-5\nMebang thlang khaw a thlanghing coengna yah na pamueh la khoh tih hnaemtaek thaekha na mah pawh.\nBoel-6\n[missing]\nBoel-7\nMebang thlangkhaw, me roek akhaw upadi hmai ah thlanghing coengna hamhmoel te pom pa ham om.\nBoel-8",
-            "Image": "e4df5591122c506c5926e0c4143dc2b9"
+            "Text": "ham om. Thlangphun, vuen yong, huta-tungpa, ol, nainganyae poekna, atloetloe poekna, ramtung neh\ntukkaina, khosak na neh thawtna kong, khuehtawn koeva, khuilam ben neh atloe tloe dong ah paek boe na\nom boel saeh.\nTecoengah, thlangkhat kho asak nah ramtung tpt khoram khat kah nainganyae dong ah mai a, ukna hmuen\ndong mai a, ramtung khat neh khat tukkai na dong mai a, thlang khat khosak na hmuen dong ah mai a,\nramtung khat te amah ngaihloei ah a uk ram la aom mai a, tpt UNO loh adawndah ramtung la aom mai a, tpt\namah poek ah rakthuem ka uk u ramtung la aom mai a, tlam te amah poek ah boeih ka uk u pawh ram la ka\nom mai a khat neh khat laklo ah paekboe na om boel saeh.\nBoel-3.\nThlanghing boeih uca khaw sasueng cala ngaihloei ah hingthaina hamhmoel atawn.\nBoel-4.\nUca khaw sal la tpt salbang la tuihhno tuihba ham om pawh. Upadi kah voel ah sal na te hnopai bangla yoih\nna neh laina khang pa ni.\nBoel-5\nMebang thlang khaw a thlanghing coengna yah na pamueh la khoh tih hnaemtaek thaekha na mah pawh.\nBoel-6\n[missing]\nBoel-7\nMebang thlangkhaw, me roek akhaw upadi hmai ah thlanghing coengna hamhmoel te pom pa ham om.\nBoel-8"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "ed360a448dd2469d5a3a873b0eb3f6fb",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Thlang boeih upadi hmai ah paekboe mueh la vanpit cala dawndah ham om. He kah olhoena kah angaih na\nhe aek tih paekboena sai na neh, tlamte saiham cahoeh na lam ka loh aloeih na ham dawndah na khaw vanpit\ncala apang ni.\nBoel-9\nMebang thlangkhaw upadi ning mueh la tukna, khohna neh ramvoel la haekna om mah pawh.\nBoel-10\nU ca khaw hamhmoel cana neh taham paek na so ah oltloek vaengah mai a, tholh na so ah laitloek vaeng ah\nmai a, thlangboeih laithui yung loh khat ben khat bang haa roi mueh la rangpui hmai ah duengtlang cala\nlaithui tih laitloekna te vanpit ca la apang ham om.\nBoel-11\nRangpui hmai a upadi ning la laithui vaeng ah tholh pael nate tholh tangtang ti la lai atloek hlan khui tah\ntholhpael thlang te tholhpawh ti la poek thai na hamhmoel a tawn. Te bang laithui vaeng ah tholhpael thlang\nte, te kah lai thui na ah oeltaih thaina hamhmoel paek tangtae la om.\nThlangkhat te ramtung upadi ning lam mai a, ramtom upadi ning lam mai a, lai la ka coeng pawh bibi na tpt\nbibi na pawt ning la tholh pael pawt ham. Tecoeng ah saitholh li vaeng kah paek tueng dantat na lak ah alen\nbet dan paek pawt ham.\nBoel-12\nMebang thlang khaw mahngaih ah dingsuek la khosak na ah khaw ti saeh, mah imkhuiko, mah imlo, caa pat\nca na so ah upadi ning mueh la rolrak thai pawh. Tecoeng ah mah kah rimom nate khaw aso ben kah bangla\nthuithet mah pawh. Thlangtom tebang rolrakna neh thuithet na kui lam ka loh upadi ning la dawndah thai na\nhamhmoel atawn.",
-            "Image": "ed360a448dd2469d5a3a873b0eb3f6fb"
+            "Text": "Thlang boeih upadi hmai ah paekboe mueh la vanpit cala dawndah ham om. He kah olhoena kah angaih na\nhe aek tih paekboena sai na neh, tlamte saiham cahoeh na lam ka loh aloeih na ham dawndah na khaw vanpit\ncala apang ni.\nBoel-9\nMebang thlangkhaw upadi ning mueh la tukna, khohna neh ramvoel la haekna om mah pawh.\nBoel-10\nU ca khaw hamhmoel cana neh taham paek na so ah oltloek vaengah mai a, tholh na so ah laitloek vaeng ah\nmai a, thlangboeih laithui yung loh khat ben khat bang haa roi mueh la rangpui hmai ah duengtlang cala\nlaithui tih laitloekna te vanpit ca la apang ham om.\nBoel-11\nRangpui hmai a upadi ning la laithui vaeng ah tholh pael nate tholh tangtang ti la lai atloek hlan khui tah\ntholhpael thlang te tholhpawh ti la poek thai na hamhmoel a tawn. Te bang laithui vaeng ah tholhpael thlang\nte, te kah lai thui na ah oeltaih thaina hamhmoel paek tangtae la om.\nThlangkhat te ramtung upadi ning lam mai a, ramtom upadi ning lam mai a, lai la ka coeng pawh bibi na tpt\nbibi na pawt ning la tholh pael pawt ham. Tecoeng ah saitholh li vaeng kah paek tueng dantat na lak ah alen\nbet dan paek pawt ham.\nBoel-12\nMebang thlang khaw mahngaih ah dingsuek la khosak na ah khaw ti saeh, mah imkhuiko, mah imlo, caa pat\nca na so ah upadi ning mueh la rolrak thai pawh. Tecoeng ah mah kah rimom nate khaw aso ben kah bangla\nthuithet mah pawh. Thlangtom tebang rolrakna neh thuithet na kui lam ka loh upadi ning la dawndah thai na\nhamhmoel atawn."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "af14527be7cef21dffdd51a0b842b9a1",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Boel-13\nThlangtom boeih ramtung ramri khui ah ngaihloei ah puen u thai, kho asak thai hamhmoel atawn.\nThlangtom boeih mah khosakna ramtung lam ka loh, ramtung tloe lam ka loh puen thai na hamhmoel atawn\ncoeng ah mah ramla mael thaina ham hmoel atawn.\nBoel-14\nThlangtom boeih hnaemtaekna lam ka loh loeih na ham ramtung tloe ah dingsuek cala raehba thai na\nhamhmoel atawn.\nNainganyae neh tukkai mueh saitholh khui long mai a, UNO kah mengteng na, poek na neh kalh saitholh\nkhui long mai a, aka coeng tholh cana dong ah aka soeng tholhpael na so ah aso kah hamhmoel te hno na thai\npawh.\nBoel-15\nThlangtom boeih ramtung khat kah khosa ca la coeng thai.\nUpadi ning mueh la ucakhaw amah ramtung kah khosa ca la coeng na te bawt pa sak thai pawh. Ramtung\ntloe kah khosaca tloe la coeng na te khaw hnoel pa thai pawh.\nBoel-16\nKum ka cuep tangtae huta tungpa roek te thlangphun dong mai a, khosaca coeng na dong mai a, bawk na\ndong mai a paengnael tih pinyen mueh la yuva sak na neh imkhuiko pai thai na hamhmoel atawn. Tikah huta\nneh tungpa ayuva roi vaeng a mai a, apaek u roi vaeng amai a, kuttukna, yu loh vasak na neh ka van u\nhamhmoel te a dang tueng ni.\nCadong neh hula te amah mih kongaih na bangla ngaih loei ah yu loh va asak thai.",
-            "Image": "af14527be7cef21dffdd51a0b842b9a1"
+            "Text": "Boel-13\nThlangtom boeih ramtung ramri khui ah ngaihloei ah puen u thai, kho asak thai hamhmoel atawn.\nThlangtom boeih mah khosakna ramtung lam ka loh, ramtung tloe lam ka loh puen thai na hamhmoel atawn\ncoeng ah mah ramla mael thaina ham hmoel atawn.\nBoel-14\nThlangtom boeih hnaemtaekna lam ka loh loeih na ham ramtung tloe ah dingsuek cala raehba thai na\nhamhmoel atawn.\nNainganyae neh tukkai mueh saitholh khui long mai a, UNO kah mengteng na, poek na neh kalh saitholh\nkhui long mai a, aka coeng tholh cana dong ah aka soeng tholhpael na so ah aso kah hamhmoel te hno na thai\npawh.\nBoel-15\nThlangtom boeih ramtung khat kah khosa ca la coeng thai.\nUpadi ning mueh la ucakhaw amah ramtung kah khosa ca la coeng na te bawt pa sak thai pawh. Ramtung\ntloe kah khosaca tloe la coeng na te khaw hnoel pa thai pawh.\nBoel-16\nKum ka cuep tangtae huta tungpa roek te thlangphun dong mai a, khosaca coeng na dong mai a, bawk na\ndong mai a paengnael tih pinyen mueh la yuva sak na neh imkhuiko pai thai na hamhmoel atawn. Tikah huta\nneh tungpa ayuva roi vaeng a mai a, apaek u roi vaeng amai a, kuttukna, yu loh vasak na neh ka van u\nhamhmoel te a dang tueng ni.\nCadong neh hula te amah mih kongaih na bangla ngaih loei ah yu loh va asak thai."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "070b1cdf1dc234ec55dacde096f072e5",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Imkhuiko khat he thlanghing khuiping khat kah akungsut la om. Tikah imkhuiko te thlanghing khuiping neh\nbaran kah dawndah na adang ham om.\nBoel-17\nThlangtom boeih amah bueng mai a, thlangtloe nen maia bok u tih hnopai cina te atawn thaina hamhmoel\natawn. Upadi ning mueh la mebang thlang long khaw hnopai tawn thaina hamhmoel bawt pa sak thai pawh.\n[missing]\nBoel-18\nThlangtom boeih ngaihloei ah khopoek thai na neh phueng thaina, ngaihloei ah pom tih paithai na neh\nngaihloei ah bawk thai na om. Tikah hamhmoel te mah kah bawk na tpt oengna te ngaihloei ah puentak thai\nbueng mueh la amah bueng mai a, thlangtloe nab bok u tih mai a, rangpui boeih kah hmai ah mai a, ahuep\nlam mai a, mah kah bawk nate tpt oengna te ngaihloei ah cangpui thai, bawk thai nate ahno thaina hamhmoel\nthum.\nBoel-19\nThlangtom boeih ngaihloei ah khopoek tih ngaihloei ah phong thaina hamhmoel atawn. Tekah hamhmoel\ndong ah rolrakna om mueh la ngaihloei ah khopoek thai na thum bueng mueh la ramri cina loh kanghalh\nmueh la olthangkali neh khopoek nate cangthaina, pomthaina neh raekra thaina hil ah thum.\nBoel-20\nThlangtom boeih ngaihloei ah suepsuep tingtun thaina neh buping phueng thaina hamhmoel atawn.\nMebang thlang khaw buping khui ah athama la kun sak phung pawh.\nBoel-21",
-            "Image": "070b1cdf1dc234ec55dacde096f072e5"
+            "Text": "Imkhuiko khat he thlanghing khuiping khat kah akungsut la om. Tikah imkhuiko te thlanghing khuiping neh\nbaran kah dawndah na adang ham om.\nBoel-17\nThlangtom boeih amah bueng mai a, thlangtloe nen maia bok u tih hnopai cina te atawn thaina hamhmoel\natawn. Upadi ning mueh la mebang thlang long khaw hnopai tawn thaina hamhmoel bawt pa sak thai pawh.\n[missing]\nBoel-18\nThlangtom boeih ngaihloei ah khopoek thai na neh phueng thaina, ngaihloei ah pom tih paithai na neh\nngaihloei ah bawk thai na om. Tikah hamhmoel te mah kah bawk na tpt oengna te ngaihloei ah puentak thai\nbueng mueh la amah bueng mai a, thlangtloe nab bok u tih mai a, rangpui boeih kah hmai ah mai a, ahuep\nlam mai a, mah kah bawk nate tpt oengna te ngaihloei ah cangpui thai, bawk thai nate ahno thaina hamhmoel\nthum.\nBoel-19\nThlangtom boeih ngaihloei ah khopoek tih ngaihloei ah phong thaina hamhmoel atawn. Tekah hamhmoel\ndong ah rolrakna om mueh la ngaihloei ah khopoek thai na thum bueng mueh la ramri cina loh kanghalh\nmueh la olthangkali neh khopoek nate cangthaina, pomthaina neh raekra thaina hil ah thum.\nBoel-20\nThlangtom boeih ngaihloei ah suepsuep tingtun thaina neh buping phueng thaina hamhmoel atawn.\nMebang thlang khaw buping khui ah athama la kun sak phung pawh.\nBoel-21"
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "b70a0b220c0823975d378e6bb28bb594",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Thlangtom boeih mahkah ramtung ukna khui ah mah roe mai a, langya la atuek laipai long mai a patoeng\nthum tih bi thai na hamhmoel atawn.\nThlangtom boeih mah ramtung kah baran bibii ah kun thai na hamhmoel vanpit la adang u ni.\nPilnam kah ngaihna he ukna anaa kah akungsut la om ni. Te ngaihna te tue tang boel ve tih tuekna neh tueng\nsak ni. Tuekna ah thlangtom boeih mek paek thai ni. Te tuekna ah ahuep la mek paek na nen mai a, tebang ne\nka van u mekpaek phung nen maia sai ham om.\nBoel-22\nThlangtom boeih thlanghing khuiping kah roihui khat la aom dong ah athaethen ah sasuengna hamhmoel\natawn buengmueh la nainganyae tangna nen mai a, ramtom kah bongyong na nen mai a, ramtung takuem kah\nconstitution nen mai a, diklai khui kah phuting koeva nen mai a, tikah thlang kah rim om na neh moeiboe\naroeng na ham angoe economic, social neh singyoe hamhmoel boei ahno na thai.\nBoel-23\nThlangtom boeih bibi na ham mai a, mah kah bungkhut na bi ngaihloei ah tuek vaeng ah mai a, tuengta ca la\nbibi na hmuen ah bi thai na ham mai a, bibi khueh pawt thlangla coeng na lam ka loh dawndah na dang thai\nna hamhmoel om.\nThlangtom boeih bi pakhat so ah aphu khaw avanpit la adang ham om.\nBi ka bi thlang boeih he amah neh a imkhuiko rimom cala khosak thai ham tuengta ca neh ngaaikhuek cala bi\ntih thapang khaw adang ham om. Angoe atah, atloe long khaw bomcemna n ate adang thaina om.\nThlangtom boeih amah hoikhangna dawndah na ham la bibithlang buping cina phueng tih thumthaina\nhamhmoel atawn.",
-            "Image": "b70a0b220c0823975d378e6bb28bb594"
+            "Text": "Thlangtom boeih mahkah ramtung ukna khui ah mah roe mai a, langya la atuek laipai long mai a patoeng\nthum tih bi thai na hamhmoel atawn.\nThlangtom boeih mah ramtung kah baran bibii ah kun thai na hamhmoel vanpit la adang u ni.\nPilnam kah ngaihna he ukna anaa kah akungsut la om ni. Te ngaihna te tue tang boel ve tih tuekna neh tueng\nsak ni. Tuekna ah thlangtom boeih mek paek thai ni. Te tuekna ah ahuep la mek paek na nen mai a, tebang ne\nka van u mekpaek phung nen maia sai ham om.\nBoel-22\nThlangtom boeih thlanghing khuiping kah roihui khat la aom dong ah athaethen ah sasuengna hamhmoel\natawn buengmueh la nainganyae tangna nen mai a, ramtom kah bongyong na nen mai a, ramtung takuem kah\nconstitution nen mai a, diklai khui kah phuting koeva nen mai a, tikah thlang kah rim om na neh moeiboe\naroeng na ham angoe economic, social neh singyoe hamhmoel boei ahno na thai.\nBoel-23\nThlangtom boeih bibi na ham mai a, mah kah bungkhut na bi ngaihloei ah tuek vaeng ah mai a, tuengta ca la\nbibi na hmuen ah bi thai na ham mai a, bibi khueh pawt thlangla coeng na lam ka loh dawndah na dang thai\nna hamhmoel om.\nThlangtom boeih bi pakhat so ah aphu khaw avanpit la adang ham om.\nBi ka bi thlang boeih he amah neh a imkhuiko rimom cala khosak thai ham tuengta ca neh ngaaikhuek cala bi\ntih thapang khaw adang ham om. Angoe atah, atloe long khaw bomcemna n ate adang thaina om.\nThlangtom boeih amah hoikhangna dawndah na ham la bibithlang buping cina phueng tih thumthaina\nhamhmoel atawn."
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "f2d9cbc47af7b977ed81100c4e30765b",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Boel-24\nThlangtom boeih atingtawk la boelrai tangtae bibi tue, thapang neh angoengaih bangla ahmoel tangtae duem\ntue, bi hoeptue apang thai.\nBoel-25\nThlangtom boeih amah neh a imkhui kho taksa neh lungbui thinko sading cala kho n’sak thai naham\ncaakooh, puei naak, imlo, tuisi bomna neh thlanghing ka ngoekoi bomna boeih n’dangthai la om ni. Tebueng\nmuehla bi a om pawtvaeng a khaw tisaeh, sa a ding pawt vaeng a khaw tisaeh, kut kho a soep patvaeng a\nkhaw tisaeh, nu hmaila a om vaeng a khaw tisaeh, patong hamca vaeng a khaw tisaeh, mah kut kho loh cawi\npawt tih bungkhutna long im m’ming pawt vaeng a khaw tisaeh, ngaimong sasueng cala khosak thaina\nhamhmoel atawn.\nCa ka cuun manu cana neh camoe cana he athen cala sawtlet dawndah tih bomcen na adang thai. Upadi\nningla yuvasak na nen mai a, a tloe longim nen mai a cuun la ka om camoe boeih te vanpit cala sawtlet\ndawndah na dangthai la om ni.\nBoel-26\nThlangtom boeih cacang thaina hamhmoel atawn u. Ayol bik tangli hil ah ayoe la cang thai. Tangli hilte\ncangsak roeroe ham om. Seh ben neh bungkhut naben cuithoemna cang na he thlangboeih loh acang thai.\nCuihthoemna cang vaeng ah thlanghing moeiboe athen la aroeng naham ben neh, thlanghing hamhmoel neh\nyalpo na (fundamental freedom) ben hinyah na thai ham cangpui ni. Ram boeih, thlangphun boeih tpt\nbawkna buping boeih laklo ah kodo na neh yakming uthae doe ah pawlnaeng thai na pomsang paham\nbuengmueh la United Nations loh ralmongna khoembaelna ah colhtat thai na ham hil ah acang pui ni.\nCunkung manu napa boeih loh acana loh acang ham koi cuihthoemna te atuek pa ham om ni.",
-            "Image": "f2d9cbc47af7b977ed81100c4e30765b"
+            "Text": "Boel-24\nThlangtom boeih atingtawk la boelrai tangtae bibi tue, thapang neh angoengaih bangla ahmoel tangtae duem\ntue, bi hoeptue apang thai.\nBoel-25\nThlangtom boeih amah neh a imkhui kho taksa neh lungbui thinko sading cala kho n’sak thai naham\ncaakooh, puei naak, imlo, tuisi bomna neh thlanghing ka ngoekoi bomna boeih n’dangthai la om ni. Tebueng\nmuehla bi a om pawtvaeng a khaw tisaeh, sa a ding pawt vaeng a khaw tisaeh, kut kho a soep patvaeng a\nkhaw tisaeh, nu hmaila a om vaeng a khaw tisaeh, patong hamca vaeng a khaw tisaeh, mah kut kho loh cawi\npawt tih bungkhutna long im m’ming pawt vaeng a khaw tisaeh, ngaimong sasueng cala khosak thaina\nhamhmoel atawn.\nCa ka cuun manu cana neh camoe cana he athen cala sawtlet dawndah tih bomcen na adang thai. Upadi\nningla yuvasak na nen mai a, a tloe longim nen mai a cuun la ka om camoe boeih te vanpit cala sawtlet\ndawndah na dangthai la om ni.\nBoel-26\nThlangtom boeih cacang thaina hamhmoel atawn u. Ayol bik tangli hil ah ayoe la cang thai. Tangli hilte\ncangsak roeroe ham om. Seh ben neh bungkhut naben cuithoemna cang na he thlangboeih loh acang thai.\nCuihthoemna cang vaeng ah thlanghing moeiboe athen la aroeng naham ben neh, thlanghing hamhmoel neh\nyalpo na (fundamental freedom) ben hinyah na thai ham cangpui ni. Ram boeih, thlangphun boeih tpt\nbawkna buping boeih laklo ah kodo na neh yakming uthae doe ah pawlnaeng thai na pomsang paham\nbuengmueh la United Nations loh ralmongna khoembaelna ah colhtat thai na ham hil ah acang pui ni.\nCunkung manu napa boeih loh acana loh acang ham koi cuihthoemna te atuek pa ham om ni."
         },
         "8": {
-            "Label": "9",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "1107eef3f5161d3d826dd7af1ce35559",
             "Index": 8,
+            "Label": "9",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Boel-27\nThlangtom boeih mah khuiping kah singyoe moeiboe neh khosak na ah thum thaina, arts ah omthen bawn\nthaina, science ben ah hnothai phuengthaina neh a hoeikhangna pang thaina ah ngaihloei ah thum thai.\nThlangtom boeih he science ben kah hnosai na dong kah, arts ben sai nadong kah adang koi hoeikhang na te\ndawndah thaina hamhmoel a tawn.\nBoel-28\nThlangtom boeih he kah olhoena na khui kah ka thum hamhmoel neh yalpona te khat neh khat tukkaina-\nsawtletna,ramtom ah hno na thai.\nBoel-29\nMah kah moeiboe asoep cala, ngaihloei ah aroeng thai na khuiping pakhat ham thlang boeih loh taham\nn’tawn.\nThlangboeih loh Mah kah yalpona hamhmoel te hno na vaeng ah, thlangtloe kah hamhmoel neh yalpona te\nhinyah doe ah yakmingpui thai na ham mai a, democracy ka hno na thlanghing khuiping ah moeiboe\nbuengmueh la, khoram ralmongna ham neh pilnam hoeikhang na ham, duengtlang cala khosak thai na ham\nmai a, upadi nen bueng ni ari among n’suem pa thai.\nTe kah hamhmoel neh yalpona te mebang hno ham khaw, UN kah maengtaeng na neh mai a, kungsut ol\nninglam(principle) nen mai a akalh la hno na mah pawh.\nBoel-30\nHe kah hoena cayol khui kah hamhmoel neh yalpona te poci na ham taeng tih ramtung khat ham mai a,\nthlang roiat ham mai a, thlangkhat bueng ham mai a bithai na hamhmoel om ti lam mai a, mah roeroe loh bi",
-            "Image": "1107eef3f5161d3d826dd7af1ce35559"
+            "Text": "Boel-27\nThlangtom boeih mah khuiping kah singyoe moeiboe neh khosak na ah thum thaina, arts ah omthen bawn\nthaina, science ben ah hnothai phuengthaina neh a hoeikhangna pang thaina ah ngaihloei ah thum thai.\nThlangtom boeih he science ben kah hnosai na dong kah, arts ben sai nadong kah adang koi hoeikhang na te\ndawndah thaina hamhmoel a tawn.\nBoel-28\nThlangtom boeih he kah olhoena na khui kah ka thum hamhmoel neh yalpona te khat neh khat tukkaina-\nsawtletna,ramtom ah hno na thai.\nBoel-29\nMah kah moeiboe asoep cala, ngaihloei ah aroeng thai na khuiping pakhat ham thlang boeih loh taham\nn’tawn.\nThlangboeih loh Mah kah yalpona hamhmoel te hno na vaeng ah, thlangtloe kah hamhmoel neh yalpona te\nhinyah doe ah yakmingpui thai na ham mai a, democracy ka hno na thlanghing khuiping ah moeiboe\nbuengmueh la, khoram ralmongna ham neh pilnam hoeikhang na ham, duengtlang cala khosak thai na ham\nmai a, upadi nen bueng ni ari among n’suem pa thai.\nTe kah hamhmoel neh yalpona te mebang hno ham khaw, UN kah maengtaeng na neh mai a, kungsut ol\nninglam(principle) nen mai a akalh la hno na mah pawh.\nBoel-30\nHe kah hoena cayol khui kah hamhmoel neh yalpona te poci na ham taeng tih ramtung khat ham mai a,\nthlang roiat ham mai a, thlangkhat bueng ham mai a bithai na hamhmoel om ti lam mai a, mah roeroe loh bi"
         },
         "9": {
-            "Label": "10",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "68ebb03c83baf394f515140d5807db19",
             "Index": 9,
+            "Label": "10",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "ham hamhmoel om ti lam mai a atloe la thloep hno na mah pawh.",
-            "Image": "68ebb03c83baf394f515140d5807db19"
+            "Text": "ham hamhmoel om ti lam mai a atloe la thloep hno na mah pawh."
         }
     }
 }

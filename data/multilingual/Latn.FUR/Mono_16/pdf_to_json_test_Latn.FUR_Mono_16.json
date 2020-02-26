@@ -1,93 +1,93 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581468053,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "4621a209b030781e234e28dbc7722fde",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "DECLARAZION UNIVERSÂL DAI DERITS DAL OM\nFate buine e proclamade de Samblee gjenerâl des Nazion Unidis ai 10 di\nDecembar dal 1948. Risoluzion 217 A (III)\nPreambul\nTignût cont che il ricognossi la dignitât di ducj i membris de gjernazie\numane, i lôr derits, compagns e inalienabii, e je la fonde de libertât,\nde justizie e de pâs tal mont;\nTignût cont che il dineâ e il spreseâ i derits dal om a an puartât a\nbarbaretâts ch’a ufindin la cussience de umanitât e che al è stât\nproclamât che il divignì di un mont dulà che i oms a gjoldin la libertât\ndi peraule e di fede e la liberazion de pôre e de miserie e je la plui\ngrande braure dal om;\nTignût cont che i derits dal om bisugne ch’a sein garantîts des leçs, se\nsi intint di fâ in mût che l’om, come ultin ricors, nol scugni voltâsi\ncu la fuarce cuintri la tiranìe e la sclavitût;\nTignût cont che bisugne promovi il svilup di bogns rapuarts tra lis\nNazions;\nTignût cont che tal Statût i popui des Nazions Unidis a an tornât a\ndeclarâ la lôr fede tai derits fondamentâi dal om, te dignitât e tal\nvalôr de persone umane, te paritât dai derits dal om e de femine, e ch’a\nan decidût di promovi il progres sociâl e un miôr sistem di vite tune\nplui grande libertât;\nTignût cont che i Stâts membris a an cjapât l’impegn di otignî, in\ncooperazion cu lis Nazions Unidis, il rispiet e l’osservance universâl\ndai derits dal om e des libertâts fondamentâls;\nTignût cont che une convinzion gjenerâl sun chescj derits e sun cheste\nlibertât e je de massime impuartance par une complete realizazion di\nchescj impegns;\nla Samblee Gjenerâl des Nazions Unidis\ne proclame cheste Declarazion Universâl dai Derits dal Om come ideâl\ncomugnâl ch’a an di rivâ a vêlu ducj i popui e dutis lis Nazions par che\nogni individui e ogni strument de societât, tignint cont simpri di\ncheste Declarazion, a cirin di promovi, cu la instruzion e la educazion,\nil rispiet di chescj derits e di chestis libertâts e di garantîur,\nmidiant proviodiments progressîfs di stamp nazionâl e internazionâl, il\nricognossiment universâl e efetîf e il rispiet tant de bande dai popui\ndai Stâts membris, che de bande dai popui dai teritoris ch’a son sot de\nlôr jurisdizion.\nArticul 1\nDucj i oms a nassin libars e compagns come dignitât e derits. A an\nsintiment e cussience e bisugne che si tratin un culaltri come fradis.",
-            "Image": "4621a209b030781e234e28dbc7722fde"
+            "Text": "DECLARAZION UNIVERSÂL DAI DERITS DAL OM\nFate buine e proclamade de Samblee gjenerâl des Nazion Unidis ai 10 di\nDecembar dal 1948. Risoluzion 217 A (III)\nPreambul\nTignût cont che il ricognossi la dignitât di ducj i membris de gjernazie\numane, i lôr derits, compagns e inalienabii, e je la fonde de libertât,\nde justizie e de pâs tal mont;\nTignût cont che il dineâ e il spreseâ i derits dal om a an puartât a\nbarbaretâts ch’a ufindin la cussience de umanitât e che al è stât\nproclamât che il divignì di un mont dulà che i oms a gjoldin la libertât\ndi peraule e di fede e la liberazion de pôre e de miserie e je la plui\ngrande braure dal om;\nTignût cont che i derits dal om bisugne ch’a sein garantîts des leçs, se\nsi intint di fâ in mût che l’om, come ultin ricors, nol scugni voltâsi\ncu la fuarce cuintri la tiranìe e la sclavitût;\nTignût cont che bisugne promovi il svilup di bogns rapuarts tra lis\nNazions;\nTignût cont che tal Statût i popui des Nazions Unidis a an tornât a\ndeclarâ la lôr fede tai derits fondamentâi dal om, te dignitât e tal\nvalôr de persone umane, te paritât dai derits dal om e de femine, e ch’a\nan decidût di promovi il progres sociâl e un miôr sistem di vite tune\nplui grande libertât;\nTignût cont che i Stâts membris a an cjapât l’impegn di otignî, in\ncooperazion cu lis Nazions Unidis, il rispiet e l’osservance universâl\ndai derits dal om e des libertâts fondamentâls;\nTignût cont che une convinzion gjenerâl sun chescj derits e sun cheste\nlibertât e je de massime impuartance par une complete realizazion di\nchescj impegns;\nla Samblee Gjenerâl des Nazions Unidis\ne proclame cheste Declarazion Universâl dai Derits dal Om come ideâl\ncomugnâl ch’a an di rivâ a vêlu ducj i popui e dutis lis Nazions par che\nogni individui e ogni strument de societât, tignint cont simpri di\ncheste Declarazion, a cirin di promovi, cu la instruzion e la educazion,\nil rispiet di chescj derits e di chestis libertâts e di garantîur,\nmidiant proviodiments progressîfs di stamp nazionâl e internazionâl, il\nricognossiment universâl e efetîf e il rispiet tant de bande dai popui\ndai Stâts membris, che de bande dai popui dai teritoris ch’a son sot de\nlôr jurisdizion.\nArticul 1\nDucj i oms a nassin libars e compagns come dignitât e derits. A an\nsintiment e cussience e bisugne che si tratin un culaltri come fradis."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "1476231be773c6a8048e5d001b0c73a2",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Articul 2\nA ogni individui i spietin ducj i derits e dutis lis libertâts\nproclamâts in cheste Declarazion, cence nissune distinzion par vie di\ngjernazie, colôr, mascjo o femine, lenghe, religjon, di impinion\npolitiche o alcaltri, di zoc nazionâl o sociâl, di ricjece, di nassite o\naltre condizion.\nE no sarà fate nissune distinzion nancje par vie dal Statût politic,\njuridic o internazionâl dal paîs o de tiare che une persone i parten,\ntant se chê tiare e je indipendent che s’e je sot ministrazion\nfiduciarie o no autonime o sot cualchi altri limit di sovranitât.\nArticul 3\nOgni individui al à derit a la vite, a la libertât e a la sigurece de sô\npersone.\nArticul 4\nNissune persone e pò jessi tignude in sclavitût o servitût; la sclavitût\ne il trafic dai sclâfs di cualsisei gjenar a son improibîts.\nArticul 5\nNo si pò torturâ nissun, ni doprâ par nissune persone trataments o\npunizions barbars, disumans o vergognôs.\nArticul 6\nOgni individui al à derit, pardut là che si cjate a sei, che i vegni\nricognussude la sô personalitât juridiche.\nArticul 7\nDenant de leç a son ducj compagns e ducj a an derit, cence nissune\nparzialitât, a la stesse protezion de leç. A an ducj derit di jessi\nvuardâts di ogni discriminazion contrarie a cheste Declarazion ch’e je\nstade fate cuintri cualsisei instigazion a discriminazions di chê sorte.\nArticul 8\nOgni individui al à derit a une reâl possibilitât di ricori a tribunâi\ncompetents nazionâi cuintri di fats ch’a van cuintri dai derits\nfondamentâi che la constituzion o la leç i ricognossin.\nArticul 9\nNissune persone no pò jessi arestade, tignude in preson o mandade in\nesili cence juste reson.\nArticul 10\nOgni individui al à derit in plene paritât, a une juste e publiche\nudience denant di un tribunâl indipendent e imparziâl, par decidi dai\nsiei derits e dovês, e ancje par provâ la positivitât di cualsisei acuse\npenâl che i vegni fate.",
-            "Image": "1476231be773c6a8048e5d001b0c73a2"
+            "Text": "Articul 2\nA ogni individui i spietin ducj i derits e dutis lis libertâts\nproclamâts in cheste Declarazion, cence nissune distinzion par vie di\ngjernazie, colôr, mascjo o femine, lenghe, religjon, di impinion\npolitiche o alcaltri, di zoc nazionâl o sociâl, di ricjece, di nassite o\naltre condizion.\nE no sarà fate nissune distinzion nancje par vie dal Statût politic,\njuridic o internazionâl dal paîs o de tiare che une persone i parten,\ntant se chê tiare e je indipendent che s’e je sot ministrazion\nfiduciarie o no autonime o sot cualchi altri limit di sovranitât.\nArticul 3\nOgni individui al à derit a la vite, a la libertât e a la sigurece de sô\npersone.\nArticul 4\nNissune persone e pò jessi tignude in sclavitût o servitût; la sclavitût\ne il trafic dai sclâfs di cualsisei gjenar a son improibîts.\nArticul 5\nNo si pò torturâ nissun, ni doprâ par nissune persone trataments o\npunizions barbars, disumans o vergognôs.\nArticul 6\nOgni individui al à derit, pardut là che si cjate a sei, che i vegni\nricognussude la sô personalitât juridiche.\nArticul 7\nDenant de leç a son ducj compagns e ducj a an derit, cence nissune\nparzialitât, a la stesse protezion de leç. A an ducj derit di jessi\nvuardâts di ogni discriminazion contrarie a cheste Declarazion ch’e je\nstade fate cuintri cualsisei instigazion a discriminazions di chê sorte.\nArticul 8\nOgni individui al à derit a une reâl possibilitât di ricori a tribunâi\ncompetents nazionâi cuintri di fats ch’a van cuintri dai derits\nfondamentâi che la constituzion o la leç i ricognossin.\nArticul 9\nNissune persone no pò jessi arestade, tignude in preson o mandade in\nesili cence juste reson.\nArticul 10\nOgni individui al à derit in plene paritât, a une juste e publiche\nudience denant di un tribunâl indipendent e imparziâl, par decidi dai\nsiei derits e dovês, e ancje par provâ la positivitât di cualsisei acuse\npenâl che i vegni fate."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "5f7858895621d2450b6aea744aa129b9",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Articul 11\nOgni individui acusât di une malefate al è presumût nocent fintant che\nla sô colpe no sei stade dimostrade par vie legâl tun public proces dulà\nche i vein dât ogni garanzie par difindisi.\nNissun individui nol pò vignî condanât par une robe fate o no fate, se,\nin chel tâl moment, chê robe no jere considerade une malefate secont il\nderit locâl o internazionâl. Come che no si podarà mai dâ un cjastic\nplui grant di chel stabilît tal moment de malefate.\nArticul 12\nNissun individui nol pò jessi sogjet a interferencis arbitrariis te sô\nvite privade, te sô famee, te sô cjase, te sô corispuindince, e nancje\njessi ufindût tal so onôr e te sô stime. Ogni individui al à derit di\njessi vuardât de leç cuintri interferencis o ufesis di cheste fate.\nArticul 13\nOgni individui al à derit di stâ e di movisi dentri i confins di ogni\nStât.\nOgni individui al à derit di lâ vie di cualsisei paîs, ancje dal so, e\ndi tornâ.\nArticul 14\nOgni individui al à derit, cuintri lis persecuzions, di cirî e cjatâ\nricet in altris paîs.\nNol podarà ricori a chest derit un individui s’al è cirût par malefatis\nno politichis o par fats contraris ai fins e ai principis des Nazions\nUnidis.\nArticul 15\nOgni individui al à derit di vê une citadinance.\nA nissun individui no si pò cjoli cence une reson la sô citadinance e\nnancje il derit di cambiâle.\nArticul 16\nOms e feminis in etât adate a an il derit di sposâsi e di meti sù famee,\ncence nissune limitazion di gjernazie, citadinance o religjon. A an ducj\ni stes derits a rivuart dal matrimoni, par tant ch’al dure e cuantche si\ndisfe.\nIl matrimoni si pò fâlu dome cul libar e plen consens dai nuviçs\ndeventants.\nLa famee e je la fonde naturâl e fondamentâl de societât e e à il derit\nche la difindin la societât e il Stât.\nArticul 17",
-            "Image": "5f7858895621d2450b6aea744aa129b9"
+            "Text": "Articul 11\nOgni individui acusât di une malefate al è presumût nocent fintant che\nla sô colpe no sei stade dimostrade par vie legâl tun public proces dulà\nche i vein dât ogni garanzie par difindisi.\nNissun individui nol pò vignî condanât par une robe fate o no fate, se,\nin chel tâl moment, chê robe no jere considerade une malefate secont il\nderit locâl o internazionâl. Come che no si podarà mai dâ un cjastic\nplui grant di chel stabilît tal moment de malefate.\nArticul 12\nNissun individui nol pò jessi sogjet a interferencis arbitrariis te sô\nvite privade, te sô famee, te sô cjase, te sô corispuindince, e nancje\njessi ufindût tal so onôr e te sô stime. Ogni individui al à derit di\njessi vuardât de leç cuintri interferencis o ufesis di cheste fate.\nArticul 13\nOgni individui al à derit di stâ e di movisi dentri i confins di ogni\nStât.\nOgni individui al à derit di lâ vie di cualsisei paîs, ancje dal so, e\ndi tornâ.\nArticul 14\nOgni individui al à derit, cuintri lis persecuzions, di cirî e cjatâ\nricet in altris paîs.\nNol podarà ricori a chest derit un individui s’al è cirût par malefatis\nno politichis o par fats contraris ai fins e ai principis des Nazions\nUnidis.\nArticul 15\nOgni individui al à derit di vê une citadinance.\nA nissun individui no si pò cjoli cence une reson la sô citadinance e\nnancje il derit di cambiâle.\nArticul 16\nOms e feminis in etât adate a an il derit di sposâsi e di meti sù famee,\ncence nissune limitazion di gjernazie, citadinance o religjon. A an ducj\ni stes derits a rivuart dal matrimoni, par tant ch’al dure e cuantche si\ndisfe.\nIl matrimoni si pò fâlu dome cul libar e plen consens dai nuviçs\ndeventants.\nLa famee e je la fonde naturâl e fondamentâl de societât e e à il derit\nche la difindin la societât e il Stât.\nArticul 17"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "580a6264812b55c78f9d3924c9845ebf",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Ogni individui al à derit di vê une propietât sô personâl o comugnâl cun\naltris.\nA nissun individui no si pò cjoli la sô propietât cence une reson.\nArticul 18\nOgni individui al à derit a la libertât di pinsîr, cussience e religjon;\nchest derit al vûl dî ancje libertât di gambiâ religjon o fede, e\nlibertât di pandi dibessôl o cun altris, tant in public che in privât,\nla sô religjon o la sô fede tal insegnâ, tes pratichis, tal cult e te\nosservance des ceremoniis.\nArticul 19\nOgni individui al à derit a la libertât di impinion e di espression,\ndutun cul derit di no jessi lambicât par vie de sô idee e il derit di\ncirî, di vê e di propagandâ informazions e ideis cun ogni mieç e cence\nlimitazions.\nArticul 20\nOgni individui al à derit a la libertât di riunion e di associazion\npacjifiche.\nNo si pò obleâ nissun a fâ part di une associazion.\nArticul 21\nOgni individui al à derit di partecipâ al guviêr dal so paîs tant di\npersone che par mieç di rapresentants sielzûts liberementri.\nOgni individui al à derit di pode rivâ, in condizions di paritât, ai\npuescj di vôre publics dal so paîs.\nLa volontât popolâr e je la fonde de autoritât dai guviêrs; cheste\nvolontât si à di pandile traviers elezions periodichis e onestis, a\nsufragjo universâl e compagn, cun vôt segret o tun altri mût ch’al\ngarantissi la libertât di esprimisi.\nArticul 22\nOgni individui, come part de societât, al à derit a la sigurece sociâl,\ne ancje di realizâ, cul impegn nazionâl e la colaborazion internazionâl\ne tignint cont de organizazion e des possibilitâts di ogni Stât, i\nderits economics, sociâi e culturâi indispensabii a la sô dignitât e a\nla libare cressite de sô personalitât.\nArticul 23\nOgni individui al à derit al lavôr, a la libare sielte dal puest di\nvôre, a condizions justis e buinis di lavôr e a jessi vuardât cuintri la\ndisocupazion.\nOgni individui, cence parzialitât, al à derit di vê la stesse pae par un\nlavôr compagn.",
-            "Image": "580a6264812b55c78f9d3924c9845ebf"
+            "Text": "Ogni individui al à derit di vê une propietât sô personâl o comugnâl cun\naltris.\nA nissun individui no si pò cjoli la sô propietât cence une reson.\nArticul 18\nOgni individui al à derit a la libertât di pinsîr, cussience e religjon;\nchest derit al vûl dî ancje libertât di gambiâ religjon o fede, e\nlibertât di pandi dibessôl o cun altris, tant in public che in privât,\nla sô religjon o la sô fede tal insegnâ, tes pratichis, tal cult e te\nosservance des ceremoniis.\nArticul 19\nOgni individui al à derit a la libertât di impinion e di espression,\ndutun cul derit di no jessi lambicât par vie de sô idee e il derit di\ncirî, di vê e di propagandâ informazions e ideis cun ogni mieç e cence\nlimitazions.\nArticul 20\nOgni individui al à derit a la libertât di riunion e di associazion\npacjifiche.\nNo si pò obleâ nissun a fâ part di une associazion.\nArticul 21\nOgni individui al à derit di partecipâ al guviêr dal so paîs tant di\npersone che par mieç di rapresentants sielzûts liberementri.\nOgni individui al à derit di pode rivâ, in condizions di paritât, ai\npuescj di vôre publics dal so paîs.\nLa volontât popolâr e je la fonde de autoritât dai guviêrs; cheste\nvolontât si à di pandile traviers elezions periodichis e onestis, a\nsufragjo universâl e compagn, cun vôt segret o tun altri mût ch’al\ngarantissi la libertât di esprimisi.\nArticul 22\nOgni individui, come part de societât, al à derit a la sigurece sociâl,\ne ancje di realizâ, cul impegn nazionâl e la colaborazion internazionâl\ne tignint cont de organizazion e des possibilitâts di ogni Stât, i\nderits economics, sociâi e culturâi indispensabii a la sô dignitât e a\nla libare cressite de sô personalitât.\nArticul 23\nOgni individui al à derit al lavôr, a la libare sielte dal puest di\nvôre, a condizions justis e buinis di lavôr e a jessi vuardât cuintri la\ndisocupazion.\nOgni individui, cence parzialitât, al à derit di vê la stesse pae par un\nlavôr compagn."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "6025cc4506a3b39b00dde5359037cdc4",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Ogni individui ch’al lavore al à derit a une pae juste e buine che i\ngarantissi a lui e a la sô famee une vite secont la dignitât umane e\nstaronzade, s’al covente, cun altris mieçs di protezion sociâl.\nOgni individui al à derit di meti sù sindacâts e di fâur part par\ndifindi i siei interes.\nArticul 24\nOgni individui al à derit di polsâ e di distraisi, intindint cun chest\nun just limit des oris di lavôr e di feriis periodichis paiadis.\nArticul 25\nOgni individui al à derit a un sistem di vite bon di garantî la salût e\nil bonstâ so e de sô famee, massime pal nudriment, il vestiari, une\ncjase, la assistence mediche, e ai servizis sociâi necessaris; al à\nderit a la sigurece in câs di disocupazion, malatie, invaliditât,\nveduance, vecjae o in ogni altri câs di piardite dai mieçs di\nsussistence par robis che no dipendin dal so volê.\nLa maternitât e la infanzie e an derit a curis speciâls e assistence.\nDucj i fruts nassûts tal matrimoni o fûr, a an di gjoldi de stesse\nprotezion sociâl.\nArticul 26\nOgni individui al à derit a la instruzion. La instruzion e à di jessi a\ngratis almancul pes classis elementârs e fondamentâls. La instruzion\nelementâr e à di jessi obligatorie. La instruzion tecniche e\nprofessionâl e à di jessi possibil a ducj e cussì la instruzion superiôr\ne à di jessi possibil a ducj daûr dal merit.\nLa instruzion e à di jessi indreçade a une plene incressite de\npersonalitât umane e a un simpri plui grant rispiet dai derits dal om e\ndes libertâts fondamentâls. La instruzion e à di fâ cressi la\ncomprension, il bon cûr, la amicizie fra dutis lis Nazions, lis\ncomunitâts etnichis e religjosis, e dâ une man a la vôre des Nazions\nUnidis par mantignî la pâs.\nI gjenitôrs a an prin di ducj derit di sielzi il gjenar de instruzion\npai lôr fîs.\nArticul 27\nOgni individui al à derit di jessi a part de vite culturâl de comunitât,\ndi gjoldi des arts e di dâ di vôre al progres de sience e usufruî dai\nsiei beneficis.\nOgni individui al à derit a la difese dal interes morâl e matereâl ch’a\ndivegnin di une produzion sientifiche, leterarie e artistiche che lui al\nvedi fate.\nArticul 28\nOgni individui al à derit di cjatâsi a vivi tun sistem sociâl e",
-            "Image": "6025cc4506a3b39b00dde5359037cdc4"
+            "Text": "Ogni individui ch’al lavore al à derit a une pae juste e buine che i\ngarantissi a lui e a la sô famee une vite secont la dignitât umane e\nstaronzade, s’al covente, cun altris mieçs di protezion sociâl.\nOgni individui al à derit di meti sù sindacâts e di fâur part par\ndifindi i siei interes.\nArticul 24\nOgni individui al à derit di polsâ e di distraisi, intindint cun chest\nun just limit des oris di lavôr e di feriis periodichis paiadis.\nArticul 25\nOgni individui al à derit a un sistem di vite bon di garantî la salût e\nil bonstâ so e de sô famee, massime pal nudriment, il vestiari, une\ncjase, la assistence mediche, e ai servizis sociâi necessaris; al à\nderit a la sigurece in câs di disocupazion, malatie, invaliditât,\nveduance, vecjae o in ogni altri câs di piardite dai mieçs di\nsussistence par robis che no dipendin dal so volê.\nLa maternitât e la infanzie e an derit a curis speciâls e assistence.\nDucj i fruts nassûts tal matrimoni o fûr, a an di gjoldi de stesse\nprotezion sociâl.\nArticul 26\nOgni individui al à derit a la instruzion. La instruzion e à di jessi a\ngratis almancul pes classis elementârs e fondamentâls. La instruzion\nelementâr e à di jessi obligatorie. La instruzion tecniche e\nprofessionâl e à di jessi possibil a ducj e cussì la instruzion superiôr\ne à di jessi possibil a ducj daûr dal merit.\nLa instruzion e à di jessi indreçade a une plene incressite de\npersonalitât umane e a un simpri plui grant rispiet dai derits dal om e\ndes libertâts fondamentâls. La instruzion e à di fâ cressi la\ncomprension, il bon cûr, la amicizie fra dutis lis Nazions, lis\ncomunitâts etnichis e religjosis, e dâ une man a la vôre des Nazions\nUnidis par mantignî la pâs.\nI gjenitôrs a an prin di ducj derit di sielzi il gjenar de instruzion\npai lôr fîs.\nArticul 27\nOgni individui al à derit di jessi a part de vite culturâl de comunitât,\ndi gjoldi des arts e di dâ di vôre al progres de sience e usufruî dai\nsiei beneficis.\nOgni individui al à derit a la difese dal interes morâl e matereâl ch’a\ndivegnin di une produzion sientifiche, leterarie e artistiche che lui al\nvedi fate.\nArticul 28\nOgni individui al à derit di cjatâsi a vivi tun sistem sociâl e"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "f1a1ae582ddf04e53be5304e0b4e7881",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "internazionâl dulà che i derits e lis libertâts proclamadis in cheste\nDeclarazion a sein metûts in pratiche dal dut.\nArticul 29\nOgni individui al à dovês viers la comunitât, là che lui al pò madressi\nadimplen e cun libertât.\nTal doprâ i siei derits e lis sôs libertâts, ognun al à di tignî cont\ndome dai limits prescrits de leç par che si ricognossin e che si\nrispietin pardabon i derits e lis libertâts di chei altris e par\ncontentâ lis esigjencis justis de morâl, dal ordin public e dal benjessi\ngjenerâl di une societât democratiche.\nNo si pò doprâ mâl chescj derits e chestis libertâts cuintri i fins e i\nprincipis des Nazions Unidis.\nArticul 30\nNissun Stât, grop o persone a puedin cjapâ alc di cheste Declarazion par\ncampâ derits di meti sù trafics o combinâ vôris ch’a cirin di dineâ\ncualchi derit o libertât ch’e je stade metude in clâr culì.",
-            "Image": "f1a1ae582ddf04e53be5304e0b4e7881"
+            "Text": "internazionâl dulà che i derits e lis libertâts proclamadis in cheste\nDeclarazion a sein metûts in pratiche dal dut.\nArticul 29\nOgni individui al à dovês viers la comunitât, là che lui al pò madressi\nadimplen e cun libertât.\nTal doprâ i siei derits e lis sôs libertâts, ognun al à di tignî cont\ndome dai limits prescrits de leç par che si ricognossin e che si\nrispietin pardabon i derits e lis libertâts di chei altris e par\ncontentâ lis esigjencis justis de morâl, dal ordin public e dal benjessi\ngjenerâl di une societât democratiche.\nNo si pò doprâ mâl chescj derits e chestis libertâts cuintri i fins e i\nprincipis des Nazions Unidis.\nArticul 30\nNissun Stât, grop o persone a puedin cjapâ alc di cheste Declarazion par\ncampâ derits di meti sù trafics o combinâ vôris ch’a cirin di dineâ\ncualchi derit o libertât ch’e je stade metude in clâr culì."
         }
     }
 }

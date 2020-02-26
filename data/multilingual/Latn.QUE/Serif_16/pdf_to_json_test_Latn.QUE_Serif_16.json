@@ -1,80 +1,80 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581470150,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "ec6be02f97eebcfc65be99198e6820de",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "TUCUY RUNACUNAPAC HATUM RIMAY\nCALLARI\nYuyashpa ima shina quishpiri, taripa, sumac causay pachapi, mashcanga ricsipi\ncusilla causayta, ayacunapi mana pi miticuchum, runacunapac ucullapi tián.\nYuyashpa mana ricsicuna runaman millayhuán ricuchum ñausashina pishihuán.\nCaycuna tucuy llaquicunata apamushca; chaymantami tucuylla ninchic, runacuna,\npacha callaricpi mana manchay, huaccha llaqui charic carca, quishipita munashpa,\nrimaytapes cusilla cacharishpa, paycunahuánmi huiñarca.\nYuyashpa runacunapac ancha allimi taripacuna mitsachum, mana runacuna cayta\nricushpa hatum piñayhuán jatarichum.\nYuyashpa mashcanami llactacunaman, pay pura, mayjanpes cachum tandarishpa alli\ncausayta catina.\nYuyashpa imashinami llactacuna tinguinacushca HATUM SUYUPI, catishpa alli\nyuyayhuán quella rurashcata, mana astahuán runacunata llaquichichum sumaclla\ncari, huarmicuna shuc maquillahuán causachum; chaymanta ninchic, puricunahuán\nshucla pachaman chayashum quishpicunahuán.\nYuyashpa imashina llactacunapes mingayta rurashca, tandarishca mama suyupi,\nrimayta cushcami tucuy runa quishpihuán causachum.\nYuyashpa chay taripacunaca astahuán allimi tucuyllacunapac, runacunapac,\nmaypipes tiacuchum cay ura pachapi.\nHATUM TANDARI\nNin, cay shuricunata, tucuy runacuna uyachum, imashina llactacuna, utiuc, hatum\ncachum tandari quipa sumacta rimarishpa, tutamanta, punlla, chishi, tuta cachum,\nllactacunallatac, ayllucunaman runacunama yachay huasipi shina yachachinga cay\nnishcacunata. Chaymantami pacarina shina llugshinga quishpicuna, alli causaycuna\ntucuypaglla.\nShayana 1\nTucuy runacuna quishpirihuán huiñán, pactacunahuampes, pay pura, umahuán,\nayahuán chay shucuna shina, chaymantami shuclla shina causangacuna.\nShayana 2\nTucuy runacuna paycunapac charín quishpita; rimaycunapi nishcata, misho, yana,\nquillu cachum, cayta, chayta nichum, rimachum, Pachacamac charichum mana\ncharichum, charic cachum, mana charic cachum, caypi huiñashca cachum, shuctac\nllactapi huiñashca cachum.\nChasnalatac mana astahuán alli llacta cangachu, paypac allpacuna shuctac\nmaquicunapi tiacuc, quishpilla cacpipes. Quishpicunata sisachinallami, millay\nrunacuna munacpi, mana munacpi.\nShayana 3\nTucuy runacunami quiquin causayta, quishpita charín, mana pi shuashina caminga.",
-            "Image": "ec6be02f97eebcfc65be99198e6820de"
+            "Text": "TUCUY RUNACUNAPAC HATUM RIMAY\nCALLARI\nYuyashpa ima shina quishpiri, taripa, sumac causay pachapi, mashcanga ricsipi\ncusilla causayta, ayacunapi mana pi miticuchum, runacunapac ucullapi tián.\nYuyashpa mana ricsicuna runaman millayhuán ricuchum ñausashina pishihuán.\nCaycuna tucuy llaquicunata apamushca; chaymantami tucuylla ninchic, runacuna,\npacha callaricpi mana manchay, huaccha llaqui charic carca, quishipita munashpa,\nrimaytapes cusilla cacharishpa, paycunahuánmi huiñarca.\nYuyashpa runacunapac ancha allimi taripacuna mitsachum, mana runacuna cayta\nricushpa hatum piñayhuán jatarichum.\nYuyashpa mashcanami llactacunaman, pay pura, mayjanpes cachum tandarishpa alli\ncausayta catina.\nYuyashpa imashinami llactacuna tinguinacushca HATUM SUYUPI, catishpa alli\nyuyayhuán quella rurashcata, mana astahuán runacunata llaquichichum sumaclla\ncari, huarmicuna shuc maquillahuán causachum; chaymanta ninchic, puricunahuán\nshucla pachaman chayashum quishpicunahuán.\nYuyashpa imashina llactacunapes mingayta rurashca, tandarishca mama suyupi,\nrimayta cushcami tucuy runa quishpihuán causachum.\nYuyashpa chay taripacunaca astahuán allimi tucuyllacunapac, runacunapac,\nmaypipes tiacuchum cay ura pachapi.\nHATUM TANDARI\nNin, cay shuricunata, tucuy runacuna uyachum, imashina llactacuna, utiuc, hatum\ncachum tandari quipa sumacta rimarishpa, tutamanta, punlla, chishi, tuta cachum,\nllactacunallatac, ayllucunaman runacunama yachay huasipi shina yachachinga cay\nnishcacunata. Chaymantami pacarina shina llugshinga quishpicuna, alli causaycuna\ntucuypaglla.\nShayana 1\nTucuy runacuna quishpirihuán huiñán, pactacunahuampes, pay pura, umahuán,\nayahuán chay shucuna shina, chaymantami shuclla shina causangacuna.\nShayana 2\nTucuy runacuna paycunapac charín quishpita; rimaycunapi nishcata, misho, yana,\nquillu cachum, cayta, chayta nichum, rimachum, Pachacamac charichum mana\ncharichum, charic cachum, mana charic cachum, caypi huiñashca cachum, shuctac\nllactapi huiñashca cachum.\nChasnalatac mana astahuán alli llacta cangachu, paypac allpacuna shuctac\nmaquicunapi tiacuc, quishpilla cacpipes. Quishpicunata sisachinallami, millay\nrunacuna munacpi, mana munacpi.\nShayana 3\nTucuy runacunami quiquin causayta, quishpita charín, mana pi shuashina caminga."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "e3af460ddf7423cf543c07a89acec851",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Shayana 4\nMana pi cay pachapi yanacuna, mitayucuna canga; yana catuc anchurichum tucuy\nllactacunapi.\nShayana 5\nMana pi ñacaychinga, pingay macaycunatapes mana cungachum runacunaman.\nShayana 6\nTucuy runacunami paycunapac quiquin causayta charín taripa allichicunahuán.\nShayana 7\nTucuymi chasnallatac can taripa ñaupapi, tucuymi paypac alli maquipi churaringa.\nTucuymi shuclla causaymanta huiñarcanchic, mana pi cayta quichuchum.\nShayana 8\nTucuy runacunami taripa huasicunaman chayanga, chaypi mashcangapac mana chay\nshuccuna millayta mashcachum. Hatum quellacunami tucuy llactacunapi caytucuyta\nricunga sinchi ñahuihuán.\nShayana 9\nMana pi amsa ucuman apanga, shuctac allpacunamantapes pi surcunga.\nShayana 10\nTucuy runacunami shinallatac canga quiquin pura shina, caypica pay nishcacunata\nuyanga cuna, rucucuna cacpi, taripa cacpi, chaypimi quellacunata ricunga mana\nmillayta uyashpa.\nShayana 11\nTucuy runacunami llaquita charishpa paypac millacunahuán mashcanga mana\nchaychu nishpa, imashina taripacuna nin. Yaya taripacuna mashcanga mitsata.\nMana pi amsa ucuman apanga pandari nishcamanta, imashina nin quiquin\nllactacunapac quellca, mashcanacungami haum llaquichi, tucuylla allí ricuyhuán\nricushpa.\nShayana 12\nMana pi shuctac miticucpi urmanga quiquin causaypi, ayllucunapipes, alli shutipipes\nillaringa chasnacuna millayta cushca nishpaca.\nShayana 13\nTucuy runacunami maipipes puringallami, paypac allpa llactapi.\nTucuy runacunami llugshingalla shuctan llactacunaman, cutín paypac quiquin\nllactaman tigrangapac.\nShayana 14",
-            "Image": "e3af460ddf7423cf543c07a89acec851"
+            "Text": "Shayana 4\nMana pi cay pachapi yanacuna, mitayucuna canga; yana catuc anchurichum tucuy\nllactacunapi.\nShayana 5\nMana pi ñacaychinga, pingay macaycunatapes mana cungachum runacunaman.\nShayana 6\nTucuy runacunami paycunapac quiquin causayta charín taripa allichicunahuán.\nShayana 7\nTucuymi chasnallatac can taripa ñaupapi, tucuymi paypac alli maquipi churaringa.\nTucuymi shuclla causaymanta huiñarcanchic, mana pi cayta quichuchum.\nShayana 8\nTucuy runacunami taripa huasicunaman chayanga, chaypi mashcangapac mana chay\nshuccuna millayta mashcachum. Hatum quellacunami tucuy llactacunapi caytucuyta\nricunga sinchi ñahuihuán.\nShayana 9\nMana pi amsa ucuman apanga, shuctac allpacunamantapes pi surcunga.\nShayana 10\nTucuy runacunami shinallatac canga quiquin pura shina, caypica pay nishcacunata\nuyanga cuna, rucucuna cacpi, taripa cacpi, chaypimi quellacunata ricunga mana\nmillayta uyashpa.\nShayana 11\nTucuy runacunami llaquita charishpa paypac millacunahuán mashcanga mana\nchaychu nishpa, imashina taripacuna nin. Yaya taripacuna mashcanga mitsata.\nMana pi amsa ucuman apanga pandari nishcamanta, imashina nin quiquin\nllactacunapac quellca, mashcanacungami haum llaquichi, tucuylla allí ricuyhuán\nricushpa.\nShayana 12\nMana pi shuctac miticucpi urmanga quiquin causaypi, ayllucunapipes, alli shutipipes\nillaringa chasnacuna millayta cushca nishpaca.\nShayana 13\nTucuy runacunami maipipes puringallami, paypac allpa llactapi.\nTucuy runacunami llugshingalla shuctan llactacunaman, cutín paypac quiquin\nllactaman tigrangapac.\nShayana 14"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "888621d4b2770bf54b113131d22fd95e",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Pi caticucpi, runacuna maypi miticunata mashcan, mana pi chaymantaca\nllugshichinga, mayjan llactapi cachum.\nCay miticunapi, masna taripa nicpi, runa millay cacpipes mana llacta cayahuán\nricunga.\nShayana 15\nTucuy runacuna quiquin llactata charinga.\nMana piman quiquin llactata quichunga, nishpapes shuctala llactata mashcanga.\nShayana 16\nCaricuna, huarmicuna, longocuna cashpa, mana pi munashpa shuctac carahuán,\nshuctac llactahuán tinguinacungallami yaya, mama cangapac, chasna causangallami\nalli tandarishca, tinguinacuymi cari, huarmi zapalla saquiricpi.\nCari, huarmi nicpila tinguinacunga cuna.\nAyllucuna ñaupamanta shamun, paycunami tucuy allpapi tandarishpa llactata rurán.\nShayana 17\nTucuy runacunami paycunapac quiquin allpata charinga, paycunala, hatum\ntandaripacpes.\nMana paycunapac allpacunata quichunga.\nShayana 18\nTucuy runacuna yuyay quishpita, Pachacamac yuyacta charín; chaylapitac\nsaquingacuna Pachacamac yuyay shuctac yuyacunahuán. Caycunataca paylatac,\ntandarishca cacpipes chayshuc cuna uyachum yuyaycunapi cacharichum.\nShayana 19\nTucuy runacunami yuyanata, rimanata quishpichingalla. Mana pi paypac\nyuyaycunamanta caminga, quichunga. Rimay cunatapes cacharincunallami caycuna\nalli cacpi ushacunata catishpa imashinapes cachum.\nShayana 20\nTucuy runacunami quishpi tandaycuna ruranga mana pi piñachichum.\nMana pi cay tandaycunaman piña nishpa apanga.\nShayana 21\nTucuy runacunami llacta camayu cunapi curaga shina ruranga paylatac, shuctac\ncunapi shutipi.\nTucuy runacunami camayuc cunaman chayanga, mana shuccuna astahuán chayshu\ncanahuán cachum.\nAyllucunapac quiquin yuyaycunahuán camayucunata purichinga; chaycunataca alli\nacllayhuán mashcanga; cay alli aclla tandarica huata, huata quipa ruraringa,",
-            "Image": "888621d4b2770bf54b113131d22fd95e"
+            "Text": "Pi caticucpi, runacuna maypi miticunata mashcan, mana pi chaymantaca\nllugshichinga, mayjan llactapi cachum.\nCay miticunapi, masna taripa nicpi, runa millay cacpipes mana llacta cayahuán\nricunga.\nShayana 15\nTucuy runacuna quiquin llactata charinga.\nMana piman quiquin llactata quichunga, nishpapes shuctala llactata mashcanga.\nShayana 16\nCaricuna, huarmicuna, longocuna cashpa, mana pi munashpa shuctac carahuán,\nshuctac llactahuán tinguinacungallami yaya, mama cangapac, chasna causangallami\nalli tandarishca, tinguinacuymi cari, huarmi zapalla saquiricpi.\nCari, huarmi nicpila tinguinacunga cuna.\nAyllucuna ñaupamanta shamun, paycunami tucuy allpapi tandarishpa llactata rurán.\nShayana 17\nTucuy runacunami paycunapac quiquin allpata charinga, paycunala, hatum\ntandaripacpes.\nMana paycunapac allpacunata quichunga.\nShayana 18\nTucuy runacuna yuyay quishpita, Pachacamac yuyacta charín; chaylapitac\nsaquingacuna Pachacamac yuyay shuctac yuyacunahuán. Caycunataca paylatac,\ntandarishca cacpipes chayshuc cuna uyachum yuyaycunapi cacharichum.\nShayana 19\nTucuy runacunami yuyanata, rimanata quishpichingalla. Mana pi paypac\nyuyaycunamanta caminga, quichunga. Rimay cunatapes cacharincunallami caycuna\nalli cacpi ushacunata catishpa imashinapes cachum.\nShayana 20\nTucuy runacunami quishpi tandaycuna ruranga mana pi piñachichum.\nMana pi cay tandaycunaman piña nishpa apanga.\nShayana 21\nTucuy runacunami llacta camayu cunapi curaga shina ruranga paylatac, shuctac\ncunapi shutipi.\nTucuy runacunami camayuc cunaman chayanga, mana shuccuna astahuán chayshu\ncanahuán cachum.\nAyllucunapac quiquin yuyaycunahuán camayucunata purichinga; chaycunataca alli\nacllayhuán mashcanga; cay alli aclla tandarica huata, huata quipa ruraringa,"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "a42127073ace1073f6174dd342ad1852",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "acllapica upalla shitanga, ama shitay amsapi chingarichum.\nShayana 22\nTucuy runacunami ayllupac cashpa charingacuna sumac ricuy, llactacunallapitac\nquiquin pura mashcanga cuna, paycunapac ancha ministicuna, allí yuyaycunahuán\ntucuy causachum.\nShayana 23\nTucuy runacunami llangata charinga paycunalatacmi llanga mayta mashcanga, mana\nchasnalla shitashca causangapac.\nTucuy runacunami alli cullquita japinga, mana shuc cunaca alli, chayshuc cunaca\nyaricay puchu cunahuán.\nTucuy runacunami paypac llangacunamanta cullquita japinga, pay, huarmi, huahua\nayllucuna micunapac, churanapac charichum.\nTucuy runacunami nishpaca tandarita ruranga, paylatac chaypi tandaringa shuctac\ncunahuán.\nShayana 24\nTucuy runacunami samayta charinga llanga quipaca, chasnallatac punllacunapi cayta,\nchayta puringa, rimanga shuyunata quichungapac, chaypacca cullquita japinga.\nShayana 25\nTucuy runacunami alli causayta charinga, paypac huarmi, huahuapes chasnallatac\ncausanga, unguyta quichushpa, micunapes alli cachum, churanacuna, huasitapes\ntucuyllami charinga; mana llanga charishpa, unguyhuán, rucuyashpa, huacchayashpa\nhatum apucuna tucuyta chasna cachum ricunga.\nChichu huarmipes, llullu huahuacunapes alli causaytami charinga. Tucuy llullu\nhuahuacuna, tinguy mana tinguy huiñashca, chasnallatac shumay causayta charinga\ncuna.\nShayana 26\nTucuy runacunami yachachi huasiman chayanga. Yachayca mana cullquihuán\nrandinachu, tucuypacmi yangalla huahua huasicunamanta hatum yachay huasiman\nringa.\nYachachimi canga uma hatumhuán, aicha sinchiyachum, chaylapitac quishpita\napachum tucuy llactacuna tandarichum sumaclla, quiquin pura alli causachum.\nYayacuna paycunalatac mashcanga manashca yachachita churi, hushushicunaman.\nShayana 27\nTucuy runacunami paypac ayllucunapac causayta causanga. Hatum\nyachanacunatapes ministishpa mashcanga paypac chayshu cunapapes.\nTucuy runacunami yachayuc manta japinga masna paymanta shuctac yachayuc\ncuchum.",
-            "Image": "a42127073ace1073f6174dd342ad1852"
+            "Text": "acllapica upalla shitanga, ama shitay amsapi chingarichum.\nShayana 22\nTucuy runacunami ayllupac cashpa charingacuna sumac ricuy, llactacunallapitac\nquiquin pura mashcanga cuna, paycunapac ancha ministicuna, allí yuyaycunahuán\ntucuy causachum.\nShayana 23\nTucuy runacunami llangata charinga paycunalatacmi llanga mayta mashcanga, mana\nchasnalla shitashca causangapac.\nTucuy runacunami alli cullquita japinga, mana shuc cunaca alli, chayshuc cunaca\nyaricay puchu cunahuán.\nTucuy runacunami paypac llangacunamanta cullquita japinga, pay, huarmi, huahua\nayllucuna micunapac, churanapac charichum.\nTucuy runacunami nishpaca tandarita ruranga, paylatac chaypi tandaringa shuctac\ncunahuán.\nShayana 24\nTucuy runacunami samayta charinga llanga quipaca, chasnallatac punllacunapi cayta,\nchayta puringa, rimanga shuyunata quichungapac, chaypacca cullquita japinga.\nShayana 25\nTucuy runacunami alli causayta charinga, paypac huarmi, huahuapes chasnallatac\ncausanga, unguyta quichushpa, micunapes alli cachum, churanacuna, huasitapes\ntucuyllami charinga; mana llanga charishpa, unguyhuán, rucuyashpa, huacchayashpa\nhatum apucuna tucuyta chasna cachum ricunga.\nChichu huarmipes, llullu huahuacunapes alli causaytami charinga. Tucuy llullu\nhuahuacuna, tinguy mana tinguy huiñashca, chasnallatac shumay causayta charinga\ncuna.\nShayana 26\nTucuy runacunami yachachi huasiman chayanga. Yachayca mana cullquihuán\nrandinachu, tucuypacmi yangalla huahua huasicunamanta hatum yachay huasiman\nringa.\nYachachimi canga uma hatumhuán, aicha sinchiyachum, chaylapitac quishpita\napachum tucuy llactacuna tandarichum sumaclla, quiquin pura alli causachum.\nYayacuna paycunalatac mashcanga manashca yachachita churi, hushushicunaman.\nShayana 27\nTucuy runacunami paypac ayllucunapac causayta causanga. Hatum\nyachanacunatapes ministishpa mashcanga paypac chayshu cunapapes.\nTucuy runacunami yachayuc manta japinga masna paymanta shuctac yachayuc\ncuchum."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "7d8ec1b9c5f3937babfc80ac0442df8d",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Shayana 28\nTucuy runacunami paypac quiquin llactapi, chayshuc llactacunapipes quishpicunata,\nalli cunatapes hatum quellcapi nishcata taringa, ima shina llacta mama rurarca.\nShayana 29\nTucuy runacunami chayshuc cunahuán llactaman anchata cuyanga, paycunalatac\nquipaca quishipirichum.\nCaytucuy nishcacunata tucuyllami yachan, chaymantami huaquichina mana\nchingarichum; ayllucuna, llactacuna sumaclla tiachum, mana chayshu cunaman\nquichushpa, camishpa, millashpa. Llactacuna alla shayarichum, quipa mana\nhuacangapac.\nCay quishpi cunaca mana pi japingachu jarcangapac mana hatum llacta nishca\ncunata, paypac hatum tandari quipa.\nShayana 30\nMana ima cay rimaycunamanta rimanallachu, shuctac llactacunaca mana cayta\njapingachu quiquinta rurangapac, runacunapes, ayllucunapes mana shinallatac\npaypac causaypi churunga chayshuc cunaman quichusha nishpa caya sumac rimayta.",
-            "Image": "7d8ec1b9c5f3937babfc80ac0442df8d"
+            "Text": "Shayana 28\nTucuy runacunami paypac quiquin llactapi, chayshuc llactacunapipes quishpicunata,\nalli cunatapes hatum quellcapi nishcata taringa, ima shina llacta mama rurarca.\nShayana 29\nTucuy runacunami chayshuc cunahuán llactaman anchata cuyanga, paycunalatac\nquipaca quishipirichum.\nCaytucuy nishcacunata tucuyllami yachan, chaymantami huaquichina mana\nchingarichum; ayllucuna, llactacuna sumaclla tiachum, mana chayshu cunaman\nquichushpa, camishpa, millashpa. Llactacuna alla shayarichum, quipa mana\nhuacangapac.\nCay quishpi cunaca mana pi japingachu jarcangapac mana hatum llacta nishca\ncunata, paypac hatum tandari quipa.\nShayana 30\nMana ima cay rimaycunamanta rimanallachu, shuctac llactacunaca mana cayta\njapingachu quiquinta rurangapac, runacunapes, ayllucunapes mana shinallatac\npaypac causaypi churunga chayshuc cunaman quichusha nishpa caya sumac rimayta."
         }
     }
 }

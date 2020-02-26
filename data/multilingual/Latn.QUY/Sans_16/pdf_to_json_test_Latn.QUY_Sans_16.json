@@ -1,145 +1,145 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581470089,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "a4e2e9f6f92a443b786f13219415229e",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Chunka punchaw diciembre killapim 1948 watapi Hukllawasqa Nacionkuna huñunakuspanku allinmi\nnirqaku hinaspam reqsichirqaku runakunapa lliw derechonkunata, chaymi kay librochapi tukuy nisqanku\nkachkan.\nChay hatun huñunakuypim rimanakurgaku lliw Runakunapa Derechonkuna sapakama nacionkunapi\nreqsichisqa, yachachisqa hinaspa leesqa kananpaq, reqsichisqamá kanan tukuy rikchaq yachay\nwasikunapipas, chaynataqa rurana chay nacionkunapa mana imayna kasqantapas qawaspam.\nHUKLLAWASQA NACIONKUNAPA REQSICHISQAN LLAPA RUNAKUNAPA DERECHONKUNA\nQallariynin\nQAWARISUNYA: Libre kawsakuywan kay pachapi tukuy imapi hawka kawsakuyqa sumaq sapichasqam\nkachkan kaykunapi: Lliw runakunaqa mamanchikpa wachakuwasqanchikmantapunim mana pipapas\nusuchisqan allin qawasqa hinaspa igual derechoyoq kananchik.\nQAWARISUNYA: Runakunam tukuy mana allin ruwaykunaman chayarunku, runapa derechonkunata mana\nsumaqta reqsispanku otaq yachachkaspankupas chaykunata mana kaqpaqpas hapispanku, lliw runakunam\nmunanchik hamuq punchawkunapi allin kawsakuyta; tukuy manchakuykuna hinaspa muchuyllapi wakcha\nkaykuna chinkaruptinqa lliw runakunam mana manchakuspaña rimarisun imam umanchikpi kaqta, mana\nmanchakuspataqmi chaskisun imam yachay munasqanchiktapas.\nQAWARISUNYA: Kananmi Runakunapa Derechon waqaychaq munayniyoq kamachikuykuna, chay\nkamachikuykunam mana pimanpas sayapakuspa yanapanan derechon valechiy munaq sarutyasqa hinaspa\nusuchisqa runakunata.\nQAWARISUNYA: Kay pachapi nacionkuna amistadta armanankupaqmi sonqonchikpi munaypaq-\nmunananchik hinaspam chay munayta cheqechinanchik.",
-            "Image": "a4e2e9f6f92a443b786f13219415229e"
+            "Text": "Chunka punchaw diciembre killapim 1948 watapi Hukllawasqa Nacionkuna huñunakuspanku allinmi\nnirqaku hinaspam reqsichirqaku runakunapa lliw derechonkunata, chaymi kay librochapi tukuy nisqanku\nkachkan.\nChay hatun huñunakuypim rimanakurgaku lliw Runakunapa Derechonkuna sapakama nacionkunapi\nreqsichisqa, yachachisqa hinaspa leesqa kananpaq, reqsichisqamá kanan tukuy rikchaq yachay\nwasikunapipas, chaynataqa rurana chay nacionkunapa mana imayna kasqantapas qawaspam.\nHUKLLAWASQA NACIONKUNAPA REQSICHISQAN LLAPA RUNAKUNAPA DERECHONKUNA\nQallariynin\nQAWARISUNYA: Libre kawsakuywan kay pachapi tukuy imapi hawka kawsakuyqa sumaq sapichasqam\nkachkan kaykunapi: Lliw runakunaqa mamanchikpa wachakuwasqanchikmantapunim mana pipapas\nusuchisqan allin qawasqa hinaspa igual derechoyoq kananchik.\nQAWARISUNYA: Runakunam tukuy mana allin ruwaykunaman chayarunku, runapa derechonkunata mana\nsumaqta reqsispanku otaq yachachkaspankupas chaykunata mana kaqpaqpas hapispanku, lliw runakunam\nmunanchik hamuq punchawkunapi allin kawsakuyta; tukuy manchakuykuna hinaspa muchuyllapi wakcha\nkaykuna chinkaruptinqa lliw runakunam mana manchakuspaña rimarisun imam umanchikpi kaqta, mana\nmanchakuspataqmi chaskisun imam yachay munasqanchiktapas.\nQAWARISUNYA: Kananmi Runakunapa Derechon waqaychaq munayniyoq kamachikuykuna, chay\nkamachikuykunam mana pimanpas sayapakuspa yanapanan derechon valechiy munaq sarutyasqa hinaspa\nusuchisqa runakunata.\nQAWARISUNYA: Kay pachapi nacionkuna amistadta armanankupaqmi sonqonchikpi munaypaq-\nmunananchik hinaspam chay munayta cheqechinanchik."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "3e51fa29563fa323510eb592a1aee649",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "QAWARISUNYA: Huñunasqaman perteneceq nacionkunam kay qellqapi cheqapyachirqaku Iliw\nrunakunapa derechonpi creesqankuta hinaspam rimanakurqaku runakunaqa qari kaspapas otaq warmi\nkaspapas igual derechoyoqkama kasqan reqsichiyta. Tukuy chaykunata sumaqta yachaykuspaqa libre\nkawsakuyninchikpa kallpanchasqanmi aswan sumaqtaraq llamkasunchik llaqtanchik hatunyananpaq.\nQAWARISUNYA: Huñunasqaman perteneceq nacionkunam rimanakurunku lliw runakunapa\nderechonchikqa hinaspa libre kayninchikqa llapallanpa allin chaskisqan kananpaq.\nQAWARISU NYA: Runakunapa derechonchikwan libre kayninchik allin reqsisqa kaspaqa cheqapmi kanqa.\nHATUN HUÑUNAKUYPI RUNAKUNAPA DERECHON REQSICHISQA KASQANMANTA\nHatun rimanakuyman lliw nacionkunamanta hamuqkunam kay qellqapi reqsichinku lliw mundontin\nrunakunapa derechonkunata, chaynapi runakuna maypiña yachaspapas kay qeliqata qawaspanku respetayta\nhinaspa libre kawsakuyta yachanankupaq; atisqankuman hinam wakinkunamanpas reqsichinqaku tukuy\nkaykuna cheqappuni kananpaq; kaykunataqa ruwanqaku hukllawasqaman perteneceq nacionkunapi\nkawsaqkunam otaq kay nacionkunapa amparonpi kaqkunam.\nPUNTA KAQ (1)\nLliw runakunam nacesqanchikmantapacha libre kanchik, lliw derechonchikpipas iguallataqmi kanchik.\nYuyayniyoq kasqanchikraykum hawkalla aylluntin hina kawsayta debenchik llapa runakunawan.\nISKAY KAQ (2)\nKay qellqapi tarikuq derechonchikmanta yachachikuykunaqa lliwchanchikpaqmi, manam imananchu huk\nrunapa imayrikuq kayninpas nitaq qari warmi kayninpas nitaq imayna rimasqanpas nitaq ima diospi\ncreesqanpas, manam imananchu imayna formapi gobierno kananpaq piensasqankunapas nitaq maylawmanta\nkasqanpas nitaq wakcha-apu kasqanpas nitaq imaynaña kasqanpas.",
-            "Image": "3e51fa29563fa323510eb592a1aee649"
+            "Text": "QAWARISUNYA: Huñunasqaman perteneceq nacionkunam kay qellqapi cheqapyachirqaku Iliw\nrunakunapa derechonpi creesqankuta hinaspam rimanakurqaku runakunaqa qari kaspapas otaq warmi\nkaspapas igual derechoyoqkama kasqan reqsichiyta. Tukuy chaykunata sumaqta yachaykuspaqa libre\nkawsakuyninchikpa kallpanchasqanmi aswan sumaqtaraq llamkasunchik llaqtanchik hatunyananpaq.\nQAWARISUNYA: Huñunasqaman perteneceq nacionkunam rimanakurunku lliw runakunapa\nderechonchikqa hinaspa libre kayninchikqa llapallanpa allin chaskisqan kananpaq.\nQAWARISU NYA: Runakunapa derechonchikwan libre kayninchik allin reqsisqa kaspaqa cheqapmi kanqa.\nHATUN HUÑUNAKUYPI RUNAKUNAPA DERECHON REQSICHISQA KASQANMANTA\nHatun rimanakuyman lliw nacionkunamanta hamuqkunam kay qellqapi reqsichinku lliw mundontin\nrunakunapa derechonkunata, chaynapi runakuna maypiña yachaspapas kay qeliqata qawaspanku respetayta\nhinaspa libre kawsakuyta yachanankupaq; atisqankuman hinam wakinkunamanpas reqsichinqaku tukuy\nkaykuna cheqappuni kananpaq; kaykunataqa ruwanqaku hukllawasqaman perteneceq nacionkunapi\nkawsaqkunam otaq kay nacionkunapa amparonpi kaqkunam.\nPUNTA KAQ (1)\nLliw runakunam nacesqanchikmantapacha libre kanchik, lliw derechonchikpipas iguallataqmi kanchik.\nYuyayniyoq kasqanchikraykum hawkalla aylluntin hina kawsayta debenchik llapa runakunawan.\nISKAY KAQ (2)\nKay qellqapi tarikuq derechonchikmanta yachachikuykunaqa lliwchanchikpaqmi, manam imananchu huk\nrunapa imayrikuq kayninpas nitaq qari warmi kayninpas nitaq imayna rimasqanpas nitaq ima diospi\ncreesqanpas, manam imananchu imayna formapi gobierno kananpaq piensasqankunapas nitaq maylawmanta\nkasqanpas nitaq wakcha-apu kasqanpas nitaq imaynaña kasqanpas."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "6e032dc606d75b97e08ee0ecebfb305e",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Lliw nacionkunam libre kaspapas otaq mana libre kaspapas imaymana rikchaq gobiernoyoq kanchik,\nwakinñataqmi huk nacionkunaman hapipasqa kanku, ichaqa imaynaña kaspapas manam hukmanpaq\nqawasqachu kananchik.\nKIMSA KAQ (3)\nLliw runakunam derechoyoq kanchik kawsananchikpaq libre kananchikpaq hinaspa waqaychasqa\nkananchikpaq.\nTAWA KAQ (4)\nManam pipas usurpasqa sirvienteqa kachwanchu, tukuy formapi prohibisqam runakunata dueñochakuruspa\nsirvichikuyqa hinaspa runa rantinakuyqa.\nPICHQA KAQ (5)\nManam pipas imaymana ñakariykunaman churasqaqa kachwanchu, manataqmi runa kayninchikta\npenqayman churaykuspa castigasqaqa kachwanchu.\nSOQTA KAQ (6)\nLliw runakunam maypiña tarikuspapas derechoyoq kanchik ima juiciopipas valechikunanchikpaq.\nQANCHIS KAQ (7)\nLliw runakunam derechoyoq kanchik igualkama leypapas chaskisqan kananchikpaq, leyqa mana pimanpas\nsayapakuspanmi amparawananchik. Kantaqmi derechonchik kay yachachikuykunata mana kasukuspa\ncontranchikpi sayariy munaqkunamanta. Derechoyoqtaqmi kanchik kay yachachikuykuna qonqayta pantaypi\nkaptin leypa waqaychasqan kananchikpaqpas.\nPUSAQ KAQ (8)",
-            "Image": "6e032dc606d75b97e08ee0ecebfb305e"
+            "Text": "Lliw nacionkunam libre kaspapas otaq mana libre kaspapas imaymana rikchaq gobiernoyoq kanchik,\nwakinñataqmi huk nacionkunaman hapipasqa kanku, ichaqa imaynaña kaspapas manam hukmanpaq\nqawasqachu kananchik.\nKIMSA KAQ (3)\nLliw runakunam derechoyoq kanchik kawsananchikpaq libre kananchikpaq hinaspa waqaychasqa\nkananchikpaq.\nTAWA KAQ (4)\nManam pipas usurpasqa sirvienteqa kachwanchu, tukuy formapi prohibisqam runakunata dueñochakuruspa\nsirvichikuyqa hinaspa runa rantinakuyqa.\nPICHQA KAQ (5)\nManam pipas imaymana ñakariykunaman churasqaqa kachwanchu, manataqmi runa kayninchikta\npenqayman churaykuspa castigasqaqa kachwanchu.\nSOQTA KAQ (6)\nLliw runakunam maypiña tarikuspapas derechoyoq kanchik ima juiciopipas valechikunanchikpaq.\nQANCHIS KAQ (7)\nLliw runakunam derechoyoq kanchik igualkama leypapas chaskisqan kananchikpaq, leyqa mana pimanpas\nsayapakuspanmi amparawananchik. Kantaqmi derechonchik kay yachachikuykunata mana kasukuspa\ncontranchikpi sayariy munaqkunamanta. Derechoyoqtaqmi kanchik kay yachachikuykuna qonqayta pantaypi\nkaptin leypa waqaychasqan kananchikpaqpas.\nPUSAQ KAQ (8)"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "f96429841e81af01315ee2bed5e02e45",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Lliw runakunam derechoyoq kanchik justiciapi uyarisqa kaspanchik amparachikunanchikpaq, leyman hina\nderechonchikpa contranpi ruwaqkunamantam waqaychasqa kananchik.\nISQON KAQ (9)\nFaltanta mana sumaqta yachachkaspaqa manam pipas detenesqaqa, presochasqaqa nitaq hukláw nacionman\nqarqosqaqa kanmanchu.\nCHUNKA KAQ (10)\nLliw runakunam igual kasqanchikrayku mana sayapakuq justiciawan uyarichikunanchikpaq derechoyoq\nkanchik, derechoyoqmi kanchik juiciopi ima deberninchikpas otaq derechonchikpas yachananchikpaq.\nImamanta tumpasqa karuspapas yachananchikpaqmi sumaqta qawachiwananchik.\nCHUNKA HUKNIYOQ (11)\nLIiw runakunam ima huchamanta tumpasqa kaspanchikpas inocente kasqanchik valechikunanchikpaq\nderechoyoq kanchik, leyman hina juiciopi huchayoq kasqanchikta tarinankukama. Chay juiciopipas kanmi\nderechonchik garantiata chaskispanchik cheqaptapuni difiendesqa kananchikpaq.\nHuk runapa imapas ruwarusqanmantaqa manam sentenciaruspanku castiganmankuchu sichum chay\nruwasqan punchawkunapi manaraq ley lloqsispa delito kasqanta qawachichkaptinqa. Castigasqaqa kanqa\nchay hucha ruwasqan punchawkunapi leyman hina castigokunallawanmi.\nCHUNKA ISKAYNIYOQ (12)\nManam pipas yanqapas yanqaqa chaqwanmanchu vidanchiktaqa nitaq ayllunchikkunapatapas, manam\nyanqapuniqa yaykukuykunmanchu wasinchikmanpas, manataqmi cartanchiktapas yanqaqa pipas\nIeekurunmanchu. Lliwmi derechoyoq kanchik kaykunamanta leywan amparachikunanchikpaq.",
-            "Image": "f96429841e81af01315ee2bed5e02e45"
+            "Text": "Lliw runakunam derechoyoq kanchik justiciapi uyarisqa kaspanchik amparachikunanchikpaq, leyman hina\nderechonchikpa contranpi ruwaqkunamantam waqaychasqa kananchik.\nISQON KAQ (9)\nFaltanta mana sumaqta yachachkaspaqa manam pipas detenesqaqa, presochasqaqa nitaq hukláw nacionman\nqarqosqaqa kanmanchu.\nCHUNKA KAQ (10)\nLliw runakunam igual kasqanchikrayku mana sayapakuq justiciawan uyarichikunanchikpaq derechoyoq\nkanchik, derechoyoqmi kanchik juiciopi ima deberninchikpas otaq derechonchikpas yachananchikpaq.\nImamanta tumpasqa karuspapas yachananchikpaqmi sumaqta qawachiwananchik.\nCHUNKA HUKNIYOQ (11)\nLIiw runakunam ima huchamanta tumpasqa kaspanchikpas inocente kasqanchik valechikunanchikpaq\nderechoyoq kanchik, leyman hina juiciopi huchayoq kasqanchikta tarinankukama. Chay juiciopipas kanmi\nderechonchik garantiata chaskispanchik cheqaptapuni difiendesqa kananchikpaq.\nHuk runapa imapas ruwarusqanmantaqa manam sentenciaruspanku castiganmankuchu sichum chay\nruwasqan punchawkunapi manaraq ley lloqsispa delito kasqanta qawachichkaptinqa. Castigasqaqa kanqa\nchay hucha ruwasqan punchawkunapi leyman hina castigokunallawanmi.\nCHUNKA ISKAYNIYOQ (12)\nManam pipas yanqapas yanqaqa chaqwanmanchu vidanchiktaqa nitaq ayllunchikkunapatapas, manam\nyanqapuniqa yaykukuykunmanchu wasinchikmanpas, manataqmi cartanchiktapas yanqaqa pipas\nIeekurunmanchu. Lliwmi derechoyoq kanchik kaykunamanta leywan amparachikunanchikpaq."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "6100e792c4db47a6f614d52e64a90f57",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "CHUNKA KIMSAYOQ (13)\nLliw runakunam maypipas purinanchikpaq derechoyoq kanchik, derechoyoqtaqmi kanchik\nnacionninchikpiqa maypi wasichakunapaqpas.\nLliw runakunapam derecho kapuwanchik kikin nacionninchikmanta otaq maylaw nacionmantapas\nlloqsinanchikpaq hinaspa kikin nacionninchikman kutimunanchikpaq.\nCHUNKA TAWAYOQ (14)\nSichum huk runa persiguisqa kanman nacionninpa gobiernon hina mana piensasqanrayku, hinaspaqa payqa\nderechoyoqmi huklaw nacionman ayqekuspa amparasqa kananpaq.\nNacionninpi cheqap hucha rurarusqanmanta justiciapa qatikachasqan runaqa manam runakunapa\nderechonman hapipakunmanchu huklaw nacionman ayqekuspa chaypiña libre kawsakunanpaq.\nCHUNKA PICHQAYOQ (15)\nSapakama runakunam derechoyoq kanchik huk nacionman pertenecenanchikpaq.\nKay derechonchiktaqa manam pipas yanqamantaqa qechuwachwanchu. Kantaqmi derechonchik\nnacionmanta cambiakuyta munaptinchik mana pipas harkakuwananchikpaq.\nCHUNKA SOQTAYOQ (16)\nQaripas warmipas casarakuy tiempoman chayaruptinchikqa kanñam derechonchik casarakuspanchik\nfamiliayoq kananchikpaq, manam imananchu ima castamantam otaq maylawmantam kayninchikpas, qaripas\nwarmipas igual derechoyoqmi kanchik casado kayninchikpi allin kawsakunanchikpaq chaynataq\nrakinakunanchikpaqpas.\nQaripas warmipas mana munaspaqa manam casarakuchwanchu.",
-            "Image": "6100e792c4db47a6f614d52e64a90f57"
+            "Text": "CHUNKA KIMSAYOQ (13)\nLliw runakunam maypipas purinanchikpaq derechoyoq kanchik, derechoyoqtaqmi kanchik\nnacionninchikpiqa maypi wasichakunapaqpas.\nLliw runakunapam derecho kapuwanchik kikin nacionninchikmanta otaq maylaw nacionmantapas\nlloqsinanchikpaq hinaspa kikin nacionninchikman kutimunanchikpaq.\nCHUNKA TAWAYOQ (14)\nSichum huk runa persiguisqa kanman nacionninpa gobiernon hina mana piensasqanrayku, hinaspaqa payqa\nderechoyoqmi huklaw nacionman ayqekuspa amparasqa kananpaq.\nNacionninpi cheqap hucha rurarusqanmanta justiciapa qatikachasqan runaqa manam runakunapa\nderechonman hapipakunmanchu huklaw nacionman ayqekuspa chaypiña libre kawsakunanpaq.\nCHUNKA PICHQAYOQ (15)\nSapakama runakunam derechoyoq kanchik huk nacionman pertenecenanchikpaq.\nKay derechonchiktaqa manam pipas yanqamantaqa qechuwachwanchu. Kantaqmi derechonchik\nnacionmanta cambiakuyta munaptinchik mana pipas harkakuwananchikpaq.\nCHUNKA SOQTAYOQ (16)\nQaripas warmipas casarakuy tiempoman chayaruptinchikqa kanñam derechonchik casarakuspanchik\nfamiliayoq kananchikpaq, manam imananchu ima castamantam otaq maylawmantam kayninchikpas, qaripas\nwarmipas igual derechoyoqmi kanchik casado kayninchikpi allin kawsakunanchikpaq chaynataq\nrakinakunanchikpaqpas.\nQaripas warmipas mana munaspaqa manam casarakuchwanchu."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "75d113facf17d4f3638aca0ff3a47dcc",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Tayta-mamam llapa familiantin estadopa waqaychasqan kananchikpaq derechoyoq kanchik, ñoqanchikqariki\nnacionta wiñachiq huk hatun ayllum kanchik.\nCHUNKA QANCHISNIYOQ (17)\nLliwmi derechoyoq kanchik sapallanchikpas otaq iskay kimsa runakunawan kuskapas kapuqniyoq\nkananchikpaq.\nManam kapuqninchiktaqa yanqaqa pipas qechuwachwanchu.\nCHUNKA PUSAQNIYOQ (18)\nLliw runakunam derechoyoq kanchik imayna formapipas piensananchikpaq, conciencianchikman hina\nkawsakunanchikpaq hinaspa ima diospi creenanchikpaqpas. Kay derechonchikman hinaqa librem kanchik\nima religiontapas chaskinanchikpaq hinaspa imayna formapipas creesqanchikta ruwananchikpaq.\nSapallanchikpipas otaq huk huñunakuypipas ruwachwanmi chay creesqanchiktaqa hinaspapas\nyachachichwanmi wasinchikpi otaq maypipas.\nCHUNKA ISQONNIYOQ (19)\nLliw runakunam imayna piensasqanchiktapas rimarinanchikpaq derechoyoq kanchik, erechoyoqtaqmi\nkanchik mana pipa harkakusqan chaykunata willakunanchikpaqpas, chaskichwantaqmi hukkunapa\npiensasqantapas.\nISKAY CHUNKA (20)\nKanmi derechonchik huñunakunapaq chaynataq ima huñunakuyta hawkalla hatarichinapaqpas.\nManam pipas obligasqaqa kachwanchu ima huñunakuymanpas mana munastin pertenecenanchikpaqqa.\nISKAY CHUNKA HUKNIYOQ (21)",
-            "Image": "75d113facf17d4f3638aca0ff3a47dcc"
+            "Text": "Tayta-mamam llapa familiantin estadopa waqaychasqan kananchikpaq derechoyoq kanchik, ñoqanchikqariki\nnacionta wiñachiq huk hatun ayllum kanchik.\nCHUNKA QANCHISNIYOQ (17)\nLliwmi derechoyoq kanchik sapallanchikpas otaq iskay kimsa runakunawan kuskapas kapuqniyoq\nkananchikpaq.\nManam kapuqninchiktaqa yanqaqa pipas qechuwachwanchu.\nCHUNKA PUSAQNIYOQ (18)\nLliw runakunam derechoyoq kanchik imayna formapipas piensananchikpaq, conciencianchikman hina\nkawsakunanchikpaq hinaspa ima diospi creenanchikpaqpas. Kay derechonchikman hinaqa librem kanchik\nima religiontapas chaskinanchikpaq hinaspa imayna formapipas creesqanchikta ruwananchikpaq.\nSapallanchikpipas otaq huk huñunakuypipas ruwachwanmi chay creesqanchiktaqa hinaspapas\nyachachichwanmi wasinchikpi otaq maypipas.\nCHUNKA ISQONNIYOQ (19)\nLliw runakunam imayna piensasqanchiktapas rimarinanchikpaq derechoyoq kanchik, erechoyoqtaqmi\nkanchik mana pipa harkakusqan chaykunata willakunanchikpaqpas, chaskichwantaqmi hukkunapa\npiensasqantapas.\nISKAY CHUNKA (20)\nKanmi derechonchik huñunakunapaq chaynataq ima huñunakuyta hawkalla hatarichinapaqpas.\nManam pipas obligasqaqa kachwanchu ima huñunakuymanpas mana munastin pertenecenanchikpaqqa.\nISKAY CHUNKA HUKNIYOQ (21)"
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "12c77f6de3ef4d2c3ea191974c8b5a91",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Lliw runakunam derechoyoq kanchik nacionninchikpa gobiernonpi servikunanchikpaq, chaytaqa\nrurachwanmi kikinchikpunipas otaq munasqanchikta akllaspapas.\nLliw runakunam igual derechoyoq kanchik gobiernonchikpa atiendenan wasikunaman yaykuspa chaypi\natiendechikunanchikpaq.\nGobiernopa atiyninqa kachkan lliw llaqtakuna munaspanchik chay autoridadta qoptillanchikmi, chay\nmunasqanchiktam reqsichinchik librepuni votaspanchik; chay vototam ruwayta debenchik mana pipa\nyachasqanta chaynapi munasqanchikpaq votananchikpaq.\nISKAY CHUNKA ISKAYNIYOQ (22)\nLlapallan runakunam derechoyoq kanchik educacionpi, kupuqninchikpi hinaspa imayna kawsayninchikpipas\namparasqa kananchikpaq chaynapi tukuy allin kayman chayananchikpaq. Chay seguridadtam chaskinchik\nkaykunawan: Gobiernom organizasqa kaspan ñoqanchikpaq atisqanta ruranan imakunam nacionninchikpi\nkaqkunawan, allinninchikpaqmi ruranan kallpanman hina otaq huklaw nacionkunapa yanapasqanpas.\nISKAY CHUNKA KIMSAYOQ (23)\nLIiw runakunam munasqanchikpi iiamkananchikpaq derechoyoq kanchik, derechoyoqtaqmi kanchik mana\nilamkayniyoqkunapas llarnkayta maskaspa tarinanchikpaq, manam pipas munarispanqa qarqowachwanchu\nllamkayninchikmantaqa.\nLIiw runakunam derechoyoq kanchik mana ima sayapakuykunawan trabajonchikman hina pago\nchaskinanchikpaq.\nLliw runakunam derechoyoq kanchik sasapas facilpas iiarnkasqanchikman hina pagonchik\nchaskinanchikpaq, chaynapi allin kawsakuyman hina familiantin allin kawsananchikpaq; mana chayqa\nchaskinam yanapakuyta chaypaq hina hatarichisqa yanapakuqkunamanta.",
-            "Image": "12c77f6de3ef4d2c3ea191974c8b5a91"
+            "Text": "Lliw runakunam derechoyoq kanchik nacionninchikpa gobiernonpi servikunanchikpaq, chaytaqa\nrurachwanmi kikinchikpunipas otaq munasqanchikta akllaspapas.\nLliw runakunam igual derechoyoq kanchik gobiernonchikpa atiendenan wasikunaman yaykuspa chaypi\natiendechikunanchikpaq.\nGobiernopa atiyninqa kachkan lliw llaqtakuna munaspanchik chay autoridadta qoptillanchikmi, chay\nmunasqanchiktam reqsichinchik librepuni votaspanchik; chay vototam ruwayta debenchik mana pipa\nyachasqanta chaynapi munasqanchikpaq votananchikpaq.\nISKAY CHUNKA ISKAYNIYOQ (22)\nLlapallan runakunam derechoyoq kanchik educacionpi, kupuqninchikpi hinaspa imayna kawsayninchikpipas\namparasqa kananchikpaq chaynapi tukuy allin kayman chayananchikpaq. Chay seguridadtam chaskinchik\nkaykunawan: Gobiernom organizasqa kaspan ñoqanchikpaq atisqanta ruranan imakunam nacionninchikpi\nkaqkunawan, allinninchikpaqmi ruranan kallpanman hina otaq huklaw nacionkunapa yanapasqanpas.\nISKAY CHUNKA KIMSAYOQ (23)\nLIiw runakunam munasqanchikpi iiamkananchikpaq derechoyoq kanchik, derechoyoqtaqmi kanchik mana\nilamkayniyoqkunapas llarnkayta maskaspa tarinanchikpaq, manam pipas munarispanqa qarqowachwanchu\nllamkayninchikmantaqa.\nLIiw runakunam derechoyoq kanchik mana ima sayapakuykunawan trabajonchikman hina pago\nchaskinanchikpaq.\nLliw runakunam derechoyoq kanchik sasapas facilpas iiarnkasqanchikman hina pagonchik\nchaskinanchikpaq, chaynapi allin kawsakuyman hina familiantin allin kawsananchikpaq; mana chayqa\nchaskinam yanapakuyta chaypaq hina hatarichisqa yanapakuqkunamanta."
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "a2797e9eca9b748daa7d220aff408146",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Lliw runakunam derechoyoq kanchik lamkaq-masinchikkunaWan grupota formaspa otaq chayna\ngrupokunaman pertenecespa derechonchik vechikunanchikpaq.\nISKAY CHUNKA TAWAYOQ (24)\nLliw runakunam derechoyoq kanchik samananchikpaq hinaspa samarispa asirikunanchikpaq,\nderechoyoqtaqmi kanchik atisqanchikman hinalla sapa punchaw llamkananchikpaqpas hinaspa\nvacacionalninchik chaskinanchikpaqpas.\nISKAY CHUNKA PICHQAYOQ (25)\nLliw runakunam derechoyoq kanchik allin kawsayta tarispa familiantin allin mikusqa, allin pachasqa hinaspa\nsano kawsakunapaq. Derechoyoqtaqmi kanchik amparasqa kananchikpaq, invalido kaspapas, viudo otaq\nviuda kaspapas, machu otaq paya kaspapas; derechoyoqtaqmi kanchik trabajota mana tarispapas otaq\nqonqayta ima mantenikunanchikpaq kaqta pierderuspapas amparasqa kananchikpaq.\nWiksayoq warmikunapas chaynataq warmachakunapas derechoyoqmi kanku allin mantienesqa kanankupaq.\nCasadómanta otaq mana casadomanta kaspapas lliw warmachakunaqa igual derechoyoqmi kanku amparasqa\nkanankupaq.\nISKAY CHUNKA SOQTAYOQ (26)\nLliw runakunam derechoyoq kanchik educasqa kananchikpaq. Mana qollqellapaqmi primariaqa chaymi\nobligatorio primariayoqllapas lliw kanankupaq. Allin notanchikman hinaqa lliwmi mastaraq\neducakuchwanchik chaynapi imam munasqanchikman chayananchikpaq.\nEducacionpa rurunqa kanan runakunapa allin kawsakuyninmi hinaspa lliw derechonkuna sumaq reqsiymi\nchaynapi libre kaynin allin respetasqa kananpaq. Hawkalla kaspanchikmi comprendenakunanchik huklaw\nnacionkunawan, wakin castakunawan hinaspa ima diospi creeqkunawanpas. Huñunasqa nacionkunatapas",
-            "Image": "a2797e9eca9b748daa7d220aff408146"
+            "Text": "Lliw runakunam derechoyoq kanchik lamkaq-masinchikkunaWan grupota formaspa otaq chayna\ngrupokunaman pertenecespa derechonchik vechikunanchikpaq.\nISKAY CHUNKA TAWAYOQ (24)\nLliw runakunam derechoyoq kanchik samananchikpaq hinaspa samarispa asirikunanchikpaq,\nderechoyoqtaqmi kanchik atisqanchikman hinalla sapa punchaw llamkananchikpaqpas hinaspa\nvacacionalninchik chaskinanchikpaqpas.\nISKAY CHUNKA PICHQAYOQ (25)\nLliw runakunam derechoyoq kanchik allin kawsayta tarispa familiantin allin mikusqa, allin pachasqa hinaspa\nsano kawsakunapaq. Derechoyoqtaqmi kanchik amparasqa kananchikpaq, invalido kaspapas, viudo otaq\nviuda kaspapas, machu otaq paya kaspapas; derechoyoqtaqmi kanchik trabajota mana tarispapas otaq\nqonqayta ima mantenikunanchikpaq kaqta pierderuspapas amparasqa kananchikpaq.\nWiksayoq warmikunapas chaynataq warmachakunapas derechoyoqmi kanku allin mantienesqa kanankupaq.\nCasadómanta otaq mana casadomanta kaspapas lliw warmachakunaqa igual derechoyoqmi kanku amparasqa\nkanankupaq.\nISKAY CHUNKA SOQTAYOQ (26)\nLliw runakunam derechoyoq kanchik educasqa kananchikpaq. Mana qollqellapaqmi primariaqa chaymi\nobligatorio primariayoqllapas lliw kanankupaq. Allin notanchikman hinaqa lliwmi mastaraq\neducakuchwanchik chaynapi imam munasqanchikman chayananchikpaq.\nEducacionpa rurunqa kanan runakunapa allin kawsakuyninmi hinaspa lliw derechonkuna sumaq reqsiymi\nchaynapi libre kaynin allin respetasqa kananpaq. Hawkalla kaspanchikmi comprendenakunanchik huklaw\nnacionkunawan, wakin castakunawan hinaspa ima diospi creeqkunawanpas. Huñunasqa nacionkunatapas"
         },
         "8": {
-            "Label": "9",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "918a8f27405f966b041073a6d6eb1bb8",
             "Index": 8,
+            "Label": "9",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "yanapananchikmi tukuy kay pachapi hawka kawsakuy kananpaq.\nTayta-mamakunaqa derechoyoqmi kanchik imayna educacionta familianchik chaskinanpaqpas.\nISKAY CHUNKA QANCHISNIYOQ (27)\nLIiw runakunam derechoyoq kanchik maymi yachasqanchikpi ima ruray kaptinpas yanapakunanchikpaq.\nYanapakuchwanmi tukuy imapi llaqtanchik sumaqílataña wiñananpaq hinaspapas derechoyoqmi kanchik\nchay llaqtapa imapas qowasqanchikta chaskikunapaq.\nSichum umallanchikmanta imapas valorniyoq kaqta horqoruchwan otaq pipapas manaraq rurasqanta\nimatapas chayraq ruwaruchwan, hinaspaqa derechoyoqmi kanchik chay paqarichisqanchikkunapa valorniyoq\nkasqanta amparachinanchikpaq.\nISKAY CHUNKA PUSAQNIYOQ (28)\nDerechoyoqmi kanchik nacionninchikpi hinaspa lIiw nacionkunapipas runakunapa derechon valechiq\norganizacion kananpaq, chaynapi kay tukuy qawasqanchik derechonchik hinaspa libre kasqanchik\nhaypananchikpaq.\nISKAY CHUNKA ISQONNIYOQ (29)\nLliw runakunam llaqtanchikpi qespinchik, chayraykum llaqtanchikpaq deberniyoq kanchik.\nDerechonchik otaq libre kayninchik valechikunanchikmantaqa leyllam harkakuwachwan, chaynaqa kanman\nwakinpa derechonkuna otaq libre kayninku mana usurpasqa kananpaqmi, chaynapi chaqwakuna mana\nkananpaq. Chaynapitaq lliw runakunaqa sapakama kikin nacionninchikpi hawkalla kawsakunanchikpaq.\nKay lliw derechonchikqa otaq libre kayninchikqa manam valechisqaqa kanmanchu, sichum imayna\nformapipas hukllawasqa nacionkunapa munasqanpa contranpi kaspaqa.",
-            "Image": "918a8f27405f966b041073a6d6eb1bb8"
+            "Text": "yanapananchikmi tukuy kay pachapi hawka kawsakuy kananpaq.\nTayta-mamakunaqa derechoyoqmi kanchik imayna educacionta familianchik chaskinanpaqpas.\nISKAY CHUNKA QANCHISNIYOQ (27)\nLIiw runakunam derechoyoq kanchik maymi yachasqanchikpi ima ruray kaptinpas yanapakunanchikpaq.\nYanapakuchwanmi tukuy imapi llaqtanchik sumaqílataña wiñananpaq hinaspapas derechoyoqmi kanchik\nchay llaqtapa imapas qowasqanchikta chaskikunapaq.\nSichum umallanchikmanta imapas valorniyoq kaqta horqoruchwan otaq pipapas manaraq rurasqanta\nimatapas chayraq ruwaruchwan, hinaspaqa derechoyoqmi kanchik chay paqarichisqanchikkunapa valorniyoq\nkasqanta amparachinanchikpaq.\nISKAY CHUNKA PUSAQNIYOQ (28)\nDerechoyoqmi kanchik nacionninchikpi hinaspa lIiw nacionkunapipas runakunapa derechon valechiq\norganizacion kananpaq, chaynapi kay tukuy qawasqanchik derechonchik hinaspa libre kasqanchik\nhaypananchikpaq.\nISKAY CHUNKA ISQONNIYOQ (29)\nLliw runakunam llaqtanchikpi qespinchik, chayraykum llaqtanchikpaq deberniyoq kanchik.\nDerechonchik otaq libre kayninchik valechikunanchikmantaqa leyllam harkakuwachwan, chaynaqa kanman\nwakinpa derechonkuna otaq libre kayninku mana usurpasqa kananpaqmi, chaynapi chaqwakuna mana\nkananpaq. Chaynapitaq lliw runakunaqa sapakama kikin nacionninchikpi hawkalla kawsakunanchikpaq.\nKay lliw derechonchikqa otaq libre kayninchikqa manam valechisqaqa kanmanchu, sichum imayna\nformapipas hukllawasqa nacionkunapa munasqanpa contranpi kaspaqa."
         },
         "9": {
-            "Label": "10",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "fcafab77c4cb38c719beda83e5e63e3c",
             "Index": 9,
+            "Label": "10",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "KIMSA CHUNKA (30)\nKay qelíqapa nisqankunaman hapipakuspaqa manam pipas otaq gobiernopas imatapas ruwanmanchu,\nderechonchikta hinaspa libre kayninchikta usurpanankupaqa.",
-            "Image": "fcafab77c4cb38c719beda83e5e63e3c"
+            "Text": "KIMSA CHUNKA (30)\nKay qelíqapa nisqankunaman hapipakuspaqa manam pipas otaq gobiernopas imatapas ruwanmanchu,\nderechonchikta hinaspa libre kayninchikta usurpanankupaqa."
         }
     }
 }

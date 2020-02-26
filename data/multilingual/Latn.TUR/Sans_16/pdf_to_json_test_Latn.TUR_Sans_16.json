@@ -1,127 +1,127 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581471095,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "84807ff11bce02f307d24220347f9d51",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "İnsan hakları evrensel beyannamesi\nÖnsöz\nİnsanlık ailesinin bütün üyelerinde bulunan haysiyetin ve bunların eşit ve devir kabul etmez haklarının\ntanınması hususunun, hürriyetin, adaletin ve dünya barışının temeli olmasına,\nİnsan haklarının tanınmaması ve hor görülmesinin insanlık vicdanını isyana sevkeden vahşiliklere sebep\nolmuş bulunmasına, dehşetten ve yoksulluktan kurtulmuş insanların, içinde söz ve inanma hürriyetlerine\nsahip olacakları bir dünyanın kurulması en yüksek amaçları oralak ilan edilmiş bulunmasına,\nİnsanin zulüm ve baskıya karşı son çare olarak ayaklanmaya mecbur kalmaması için insan haklarının bir\nhukuk rejimi ile korunmasının esaslı bir zaruret olmasına,\nUluslararasında dostça ilişkiler geliştirilmesini teşvik etmenin esaslı bir zaruret olmasına,\nBirleşmiş Milletler halklarının, Antlaşmada, insanın ana haklarına, insan şahsının haysiyet ve değerine,\nerkek ve kadınların eşitliğine olan imanlarını bir kere daha ilan etmiş olmalarına ve sosyal ilerlemeyi\nkolaylaştırmaya, daha geniş bir hürriyet içerisinde daha iyi hayat şartları kurmaya karar verdiklerini beyan\netmiş bulunmalarına,\nÜye devletlerin, Birleşmiş Milletler Teşkilatı ile işbirliği ederek insan haklarına ve ana hürriyetlerine bütün\ndünyada gerçekten saygı gösterilmesinin teminini taahhüt etmiş olmalarına,\nBu haklar ve hürriyetlerin herkesçe aynı şekilde anlaşılmasının yukarıdaki taahhüdün yerine getirilmesi için\nson derece önemli bulunmasına göre,\nBirleşmiş Milletler Genel Kurulu,\nİnsanlık topluluğunun bütün fertleriyle uzuvlarının bu beyannameyi daima gözönünde tutarak",
-            "Image": "84807ff11bce02f307d24220347f9d51"
+            "Text": "İnsan hakları evrensel beyannamesi\nÖnsöz\nİnsanlık ailesinin bütün üyelerinde bulunan haysiyetin ve bunların eşit ve devir kabul etmez haklarının\ntanınması hususunun, hürriyetin, adaletin ve dünya barışının temeli olmasına,\nİnsan haklarının tanınmaması ve hor görülmesinin insanlık vicdanını isyana sevkeden vahşiliklere sebep\nolmuş bulunmasına, dehşetten ve yoksulluktan kurtulmuş insanların, içinde söz ve inanma hürriyetlerine\nsahip olacakları bir dünyanın kurulması en yüksek amaçları oralak ilan edilmiş bulunmasına,\nİnsanin zulüm ve baskıya karşı son çare olarak ayaklanmaya mecbur kalmaması için insan haklarının bir\nhukuk rejimi ile korunmasının esaslı bir zaruret olmasına,\nUluslararasında dostça ilişkiler geliştirilmesini teşvik etmenin esaslı bir zaruret olmasına,\nBirleşmiş Milletler halklarının, Antlaşmada, insanın ana haklarına, insan şahsının haysiyet ve değerine,\nerkek ve kadınların eşitliğine olan imanlarını bir kere daha ilan etmiş olmalarına ve sosyal ilerlemeyi\nkolaylaştırmaya, daha geniş bir hürriyet içerisinde daha iyi hayat şartları kurmaya karar verdiklerini beyan\netmiş bulunmalarına,\nÜye devletlerin, Birleşmiş Milletler Teşkilatı ile işbirliği ederek insan haklarına ve ana hürriyetlerine bütün\ndünyada gerçekten saygı gösterilmesinin teminini taahhüt etmiş olmalarına,\nBu haklar ve hürriyetlerin herkesçe aynı şekilde anlaşılmasının yukarıdaki taahhüdün yerine getirilmesi için\nson derece önemli bulunmasına göre,\nBirleşmiş Milletler Genel Kurulu,\nİnsanlık topluluğunun bütün fertleriyle uzuvlarının bu beyannameyi daima gözönünde tutarak"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "db868c757b4c9b0204393dc35585281c",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "öğretim ve eğitim yoluyla bu haklar ve hürriyetlere saygıyı geliştirmeye, gittikçe artan milli ve milletlerarası\ntedbirlerle gerek bizzat üye devletler ahalisi gerekse bu devletlerin idaresi altındaki ülkeler ahalisi arasında\nbu hakların dünyaca fiilen tanınmasını ve tatbik edilmesini sağlamaya gayret etmeleri amacıyla bütün halklar\nve milletler için ulaşılacak ortak ideal olarak işbu İnsan Hakları Evrensel Beyannamesini ilan eder.\nMadde 1\nBütün insanlar hür, haysiyet ve haklar bakımından eşit doğarlar. Akıl ve vicdana sahiptirler ve birbirlerine\nkarşı kardeşlik zihniyeti ile hareket etmelidirler.\nMadde 2\nHerkes, ırk, renk, cinsiyet, dil, din, siyasi veya diğer herhangi bir akide, milli veya içtimai menşe, servet,\ndoğuş veya herhangi diğer bir fark gözetilmeksizin işbu Beyannamede ilan olunan tekmil haklardan ve\nbütün hürriyetlerden istifade edebilir.\nBundan başka, bağımsız memleket uyruğu olsun, vesayet altında bulunan, gayri muhtar veya sair bir\negemenlik kayıtlamasına tabi ülke uyruğu olsun, bir şahıs hakkında, uyruğu bulunduğu memleket veya\nülkenin siyasi, hukuki veya milletlerarası statüsü bakımından hiçbir ayrılık gözetilmeyecektir.\nMadde 3\nYaşamak, hürriyet ve kişi emniyeti her ferdin hakkıdır.\nMadde 4\nHiç kimse kölelik veya kulluk altında bulundurulamaz; kölelik ve köle ticareti her türlü şekliyle yasaktır.\nMadde 5\nHiç kimse işkenceye, zalimane, gayriinsani, haysiyet kırıcı cezalara veya muamelelere tabi tutulamaz.",
-            "Image": "db868c757b4c9b0204393dc35585281c"
+            "Text": "öğretim ve eğitim yoluyla bu haklar ve hürriyetlere saygıyı geliştirmeye, gittikçe artan milli ve milletlerarası\ntedbirlerle gerek bizzat üye devletler ahalisi gerekse bu devletlerin idaresi altındaki ülkeler ahalisi arasında\nbu hakların dünyaca fiilen tanınmasını ve tatbik edilmesini sağlamaya gayret etmeleri amacıyla bütün halklar\nve milletler için ulaşılacak ortak ideal olarak işbu İnsan Hakları Evrensel Beyannamesini ilan eder.\nMadde 1\nBütün insanlar hür, haysiyet ve haklar bakımından eşit doğarlar. Akıl ve vicdana sahiptirler ve birbirlerine\nkarşı kardeşlik zihniyeti ile hareket etmelidirler.\nMadde 2\nHerkes, ırk, renk, cinsiyet, dil, din, siyasi veya diğer herhangi bir akide, milli veya içtimai menşe, servet,\ndoğuş veya herhangi diğer bir fark gözetilmeksizin işbu Beyannamede ilan olunan tekmil haklardan ve\nbütün hürriyetlerden istifade edebilir.\nBundan başka, bağımsız memleket uyruğu olsun, vesayet altında bulunan, gayri muhtar veya sair bir\negemenlik kayıtlamasına tabi ülke uyruğu olsun, bir şahıs hakkında, uyruğu bulunduğu memleket veya\nülkenin siyasi, hukuki veya milletlerarası statüsü bakımından hiçbir ayrılık gözetilmeyecektir.\nMadde 3\nYaşamak, hürriyet ve kişi emniyeti her ferdin hakkıdır.\nMadde 4\nHiç kimse kölelik veya kulluk altında bulundurulamaz; kölelik ve köle ticareti her türlü şekliyle yasaktır.\nMadde 5\nHiç kimse işkenceye, zalimane, gayriinsani, haysiyet kırıcı cezalara veya muamelelere tabi tutulamaz."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "4720ebaef677c6b0da41a56f80758ce9",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Madde 6\nHerkes her nerede olursa olsun hukuk kişiliğinin tanınması hakkını haizdir.\nMadde 7\nKanun önünde herkes eşittir ve farksız olarak kanunun eşit korumasından istifade hakkını haizdir. Herkesin\nişbu Beyannameye aykırı her türlü ayırdedici mualeleye karşı ve böyle bir ayırdedici muamele için\nyapılacak her türlü kışkırtmaya karşı eşit korunma hakkı vardır.\nMadde 8\nHer şahsın kendine anayasa veya kanun ile tanınan ana haklara aykırı muamelelere karşı fiilli netice verecek\nşekilde milli mahkemelere müracaat hakkı vardır.\nMadde 9\nHiç kimse keyfi olarak tutuklanamaz, alıkonulanamaz veya sürülemez.\nMadde 10\nHerkes, haklarının, vecibelerinin veya kendisine karşı cezai mahiyette herhangi bir isnadın tespitinde, tam\nbir eşitlikle, davasının bağımsız ve tarafsız bir mahkeme tarafından adil bir şekilde ve açık olarak görülmesi\nhakkına sahiptir.\nMadde 11\nBir suç işlemekten sanık herkes, savunması için kendisine gerekli bütün tertibatın sağlanmış bulunduğu\naçık bir yargılama ile kanunen suçlu olduğu tespit edilmedikçe masum sayılır.\nHiç kimse işlendikleri sırada milli veya milletlerarası hukuka göre suç teşkil etmeyen fiillerden veya\nihmallerden ötürü mahkum edilemez. Bunun gibi, suçun işlendiği sırada uygulanabilecek olan cezadan daha",
-            "Image": "4720ebaef677c6b0da41a56f80758ce9"
+            "Text": "Madde 6\nHerkes her nerede olursa olsun hukuk kişiliğinin tanınması hakkını haizdir.\nMadde 7\nKanun önünde herkes eşittir ve farksız olarak kanunun eşit korumasından istifade hakkını haizdir. Herkesin\nişbu Beyannameye aykırı her türlü ayırdedici mualeleye karşı ve böyle bir ayırdedici muamele için\nyapılacak her türlü kışkırtmaya karşı eşit korunma hakkı vardır.\nMadde 8\nHer şahsın kendine anayasa veya kanun ile tanınan ana haklara aykırı muamelelere karşı fiilli netice verecek\nşekilde milli mahkemelere müracaat hakkı vardır.\nMadde 9\nHiç kimse keyfi olarak tutuklanamaz, alıkonulanamaz veya sürülemez.\nMadde 10\nHerkes, haklarının, vecibelerinin veya kendisine karşı cezai mahiyette herhangi bir isnadın tespitinde, tam\nbir eşitlikle, davasının bağımsız ve tarafsız bir mahkeme tarafından adil bir şekilde ve açık olarak görülmesi\nhakkına sahiptir.\nMadde 11\nBir suç işlemekten sanık herkes, savunması için kendisine gerekli bütün tertibatın sağlanmış bulunduğu\naçık bir yargılama ile kanunen suçlu olduğu tespit edilmedikçe masum sayılır.\nHiç kimse işlendikleri sırada milli veya milletlerarası hukuka göre suç teşkil etmeyen fiillerden veya\nihmallerden ötürü mahkum edilemez. Bunun gibi, suçun işlendiği sırada uygulanabilecek olan cezadan daha"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "5dc92eba62b0d091659c9f27515bc0f1",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "şiddetli bir ceza verilemez.\nMadde 12\nHiç kimse özel hayatı, ailesi, meskeni veya yazışması hususlarında keyfi karışmalara, şeref ve şöhretine\nkarşı tecavüzlere maruz bırakılamaz. Herkesin bu karışma ve tecavüzlere karşı kanun ile korunmaya hakkı\nvardır.\nMadde 13\nHerkes herhangi bir devletin sınırları dahilinde serbestçe dolaşma ve yerleşme hakkına haizdir.\nHerkes, kendi memleketi de dahil, herhangi bir memleketi terketmek ve memleketine dönmek hakkına\nhaizdir.\nMadde 14\nHerkes zulüm karşısında başka memleketlerden mülteci olarak kabulü talep etmek ve memleketler\ntarafından mülteci muamelesi görmek hakkını haizdir.\nBu hak, gerçekten adi bir cürüme veya Birleşmiş Milletler prensip ve amaçlarına aykırı faaliyetlere müstenit\nkovuşturmalar halinde ileri sürülemez.\nMadde 15\nHer ferdin bir uyrukluk hakkı vardır.\nHiç kimse keyfi olarak uyrukluğundan ve uyrukluğunu değiştirmek hakkından mahrum edilemez.\nMadde 16\nEvlilik çağına varan her erkek ve kadın, ırk, uyrukluk veya din bakımından hiçbir kısıtlamaya tabi",
-            "Image": "5dc92eba62b0d091659c9f27515bc0f1"
+            "Text": "şiddetli bir ceza verilemez.\nMadde 12\nHiç kimse özel hayatı, ailesi, meskeni veya yazışması hususlarında keyfi karışmalara, şeref ve şöhretine\nkarşı tecavüzlere maruz bırakılamaz. Herkesin bu karışma ve tecavüzlere karşı kanun ile korunmaya hakkı\nvardır.\nMadde 13\nHerkes herhangi bir devletin sınırları dahilinde serbestçe dolaşma ve yerleşme hakkına haizdir.\nHerkes, kendi memleketi de dahil, herhangi bir memleketi terketmek ve memleketine dönmek hakkına\nhaizdir.\nMadde 14\nHerkes zulüm karşısında başka memleketlerden mülteci olarak kabulü talep etmek ve memleketler\ntarafından mülteci muamelesi görmek hakkını haizdir.\nBu hak, gerçekten adi bir cürüme veya Birleşmiş Milletler prensip ve amaçlarına aykırı faaliyetlere müstenit\nkovuşturmalar halinde ileri sürülemez.\nMadde 15\nHer ferdin bir uyrukluk hakkı vardır.\nHiç kimse keyfi olarak uyrukluğundan ve uyrukluğunu değiştirmek hakkından mahrum edilemez.\nMadde 16\nEvlilik çağına varan her erkek ve kadın, ırk, uyrukluk veya din bakımından hiçbir kısıtlamaya tabi"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "8a023eeb9cd57c4f3bd51b540b0aa7a3",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "olmaksızın evlenmek ve aile kurmak hakkına haizdir. Her erkek ve kadın evlenme konusunda, evlilik\nsüresince ve evliliğin sona ermesinde eşit hakları haizdir.\nEvlenme akdi ancak müstakbel eşlerin serbest ve tam rızasıyla yapılır.\nAile, cemiyetin tabii ve temel unsurudur, cemiyet ve devlet tarafından korunmak hakkını haizdir.\nMadde 17\nHer şahıs tek başına veya başkalarıyla birlikte mal ve mülk sahibi olmak hakkını haizdir.\nHiç kimse keyfi olarak mal ve mülkünden mahrum edilemez.\nMadde 18\nHer şahsın, fikir, vicdan ve din hürriyetine hakkı vardır; bu hak, din veya kanaat değiştirmek hürriyeti,\ndinini veya kanaatini tek başına veya topluca, açık olarak veya özel surette, öğretim, tatbikat, ibadet ve\nayinlerle izhar etmek hürriyetini içerir.\nMadde 19\nHer ferdin fikir ve fikirlerini açıklamak hürriyetine hakkı vardır. Bu hak fikirlerinden ötürü rahatsız\nedilmemek, memleket sınırları mevzubahis olmaksızın malümat ve fikirleri her vasıta ile aramak, elde etmek\nveya yaymak hakkını içerir.\nMadde 20\nHer şahıs saldırısız toplanma ve dernek kurma ve derneğe katılma serbestisine maliktir.\nHiç kimse bir derneğe mensup olmaya zorlanamaz.\nMadde 21",
-            "Image": "8a023eeb9cd57c4f3bd51b540b0aa7a3"
+            "Text": "olmaksızın evlenmek ve aile kurmak hakkına haizdir. Her erkek ve kadın evlenme konusunda, evlilik\nsüresince ve evliliğin sona ermesinde eşit hakları haizdir.\nEvlenme akdi ancak müstakbel eşlerin serbest ve tam rızasıyla yapılır.\nAile, cemiyetin tabii ve temel unsurudur, cemiyet ve devlet tarafından korunmak hakkını haizdir.\nMadde 17\nHer şahıs tek başına veya başkalarıyla birlikte mal ve mülk sahibi olmak hakkını haizdir.\nHiç kimse keyfi olarak mal ve mülkünden mahrum edilemez.\nMadde 18\nHer şahsın, fikir, vicdan ve din hürriyetine hakkı vardır; bu hak, din veya kanaat değiştirmek hürriyeti,\ndinini veya kanaatini tek başına veya topluca, açık olarak veya özel surette, öğretim, tatbikat, ibadet ve\nayinlerle izhar etmek hürriyetini içerir.\nMadde 19\nHer ferdin fikir ve fikirlerini açıklamak hürriyetine hakkı vardır. Bu hak fikirlerinden ötürü rahatsız\nedilmemek, memleket sınırları mevzubahis olmaksızın malümat ve fikirleri her vasıta ile aramak, elde etmek\nveya yaymak hakkını içerir.\nMadde 20\nHer şahıs saldırısız toplanma ve dernek kurma ve derneğe katılma serbestisine maliktir.\nHiç kimse bir derneğe mensup olmaya zorlanamaz.\nMadde 21"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "186d4bde7eeaead05a8028be6b054538",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Her şahıs, doğrudan doğruya veya serbestçe seçilmiş temsilciler vasıtasıyla, memleketin kamu işleri\nyönetimine katılmak hakkını haizdir.\nHer şahıs memleketin kamu hizmetlerine eşitlikle girme hakkını haizdir.\nHalkın iradesi kamu otoritesinin esasıdır; bu irade, gizli şekilde veya serbestliği sağlayacak muadil bir usul\nile cereyan edecek, genel ve eşit oy verme yoluyla yapılacak olan devri ve dürüst seçimlerle ifade edilir.\nMadde 22\nHer şahsın, cemiyetin bir üyesi olmak itibariyle, sosyal güvenliğe hakkı vardır; haysiyeti için ve şahsiyetinin\nserbestçe gelişmesi için zaruri olan ekonomik, sosyal ve kültürel hakların milli gayret ve milletlerarası\nişbirliği yoluyla ve her devletin teşkilatı ve kaynaklarıyla mütenasip olarak gerçekleştirilmesine hakkı\nvardır.\nMadde 23\nHer şahsın çalışmaya, işini serbestçe seçmeye, adil ve elverişli çalışma şartlarına ve işsizlikten korunmaya\nhakkı vardır.\nHerkesin, hiçbir fark gözetilmeksizin, eşit iş karşılığında eşit ücrete hakkı vardır.\nçalışan her kimsenin kendisine ve ailesine insanlık haysiyetine uygun bir yaşayış sağlayan ve gerekirse her\ntürlü sosyal koruma vasıtalarıyla da tamamlanan adil ve elverişli bir ücrete hakkı vardır.\nHerkesin menfaatlerinin korunmasi için sendikalar kurmaya ve bunlara katılmaya hakkı vardır.\nMadde 24\nHer şahsın dinlenmeye, eğlenmeye, bilhassa çalışma müddetinin makul surette sınırlandırılmasına ve\nmuayyen devrelerde ücretli tatillere hakkı vardır.",
-            "Image": "186d4bde7eeaead05a8028be6b054538"
+            "Text": "Her şahıs, doğrudan doğruya veya serbestçe seçilmiş temsilciler vasıtasıyla, memleketin kamu işleri\nyönetimine katılmak hakkını haizdir.\nHer şahıs memleketin kamu hizmetlerine eşitlikle girme hakkını haizdir.\nHalkın iradesi kamu otoritesinin esasıdır; bu irade, gizli şekilde veya serbestliği sağlayacak muadil bir usul\nile cereyan edecek, genel ve eşit oy verme yoluyla yapılacak olan devri ve dürüst seçimlerle ifade edilir.\nMadde 22\nHer şahsın, cemiyetin bir üyesi olmak itibariyle, sosyal güvenliğe hakkı vardır; haysiyeti için ve şahsiyetinin\nserbestçe gelişmesi için zaruri olan ekonomik, sosyal ve kültürel hakların milli gayret ve milletlerarası\nişbirliği yoluyla ve her devletin teşkilatı ve kaynaklarıyla mütenasip olarak gerçekleştirilmesine hakkı\nvardır.\nMadde 23\nHer şahsın çalışmaya, işini serbestçe seçmeye, adil ve elverişli çalışma şartlarına ve işsizlikten korunmaya\nhakkı vardır.\nHerkesin, hiçbir fark gözetilmeksizin, eşit iş karşılığında eşit ücrete hakkı vardır.\nçalışan her kimsenin kendisine ve ailesine insanlık haysiyetine uygun bir yaşayış sağlayan ve gerekirse her\ntürlü sosyal koruma vasıtalarıyla da tamamlanan adil ve elverişli bir ücrete hakkı vardır.\nHerkesin menfaatlerinin korunmasi için sendikalar kurmaya ve bunlara katılmaya hakkı vardır.\nMadde 24\nHer şahsın dinlenmeye, eğlenmeye, bilhassa çalışma müddetinin makul surette sınırlandırılmasına ve\nmuayyen devrelerde ücretli tatillere hakkı vardır."
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "fddd50e27a8fe36daee1da21b341b77f",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Madde 25\nHer şahsın, gerek kendisi gerekse ailesi için, yiyecek, giyim, mesken, tıbbi bakım, gerekli sosyal hizmetler\ndahil olmak üzere sağlığı ve refahını temin edecek uygun bir hayat seviyesine ve işsizlik, hastalık, sakatlık,\ndulluk, ihtiyarlık veya geçim imkânlarından iradesi dışında mahrum bırakacak diğer hallerde güvenliğe\nhakkı vardır.\nAna ve çocuk özel ihtimam ve yardım görmek hakkını haizdir. Bütün çocuklar, evlilik içinde veya dışında\ndoğsunlar, aynı sosyal korunmadan faydalanırlar.\nMadde 26\nHer şahsın öğrenim hakkı vardır. Öğrenim hiç olmazsa ilk ve temel safhalarında parasızdır. İlk öğretim\nmecburidir. Teknik ve mesleki öğretimden herkes istifade edebilmelidir. Yüksek öğretim, liyakatlerine göre\nherkese tam eşitlikle açık olmalıdır.\nÖğretim insan şahsiyetinin tam gelişmesini ve insan haklarıyla ana hürriyetlerine saygının kuvvetlenmesini\nhedef almalıdır. Öğretim bütün milletler, ırk ve din grupları arasında anlayış, hoşgörü ve dostluğu teşvik\netmeli ve Birleşmiş Milletlerin barışın idamesi yolundaki çalışmalarını geliştirmelidir.\nAna baba, çocuklarına verilecek eğitim türünü seçmek hakkını öncelikle haizdirler.\nMadde 27\nHerkes, topluluğun kültürel faaliyetine serbestçe katılmak, güzel sanatları tatmak, ilim sahasındaki ilerleyişe\niştirak etmek ve bundan faydalanmak hakkını haizdir.\nHerkesin yarattığı, her türlü bilim, edebiyat veya sanat eserlerinden mütevellit manevi ve maddi menfaatlerin\nkorunmasına hakkı vardır.",
-            "Image": "fddd50e27a8fe36daee1da21b341b77f"
+            "Text": "Madde 25\nHer şahsın, gerek kendisi gerekse ailesi için, yiyecek, giyim, mesken, tıbbi bakım, gerekli sosyal hizmetler\ndahil olmak üzere sağlığı ve refahını temin edecek uygun bir hayat seviyesine ve işsizlik, hastalık, sakatlık,\ndulluk, ihtiyarlık veya geçim imkânlarından iradesi dışında mahrum bırakacak diğer hallerde güvenliğe\nhakkı vardır.\nAna ve çocuk özel ihtimam ve yardım görmek hakkını haizdir. Bütün çocuklar, evlilik içinde veya dışında\ndoğsunlar, aynı sosyal korunmadan faydalanırlar.\nMadde 26\nHer şahsın öğrenim hakkı vardır. Öğrenim hiç olmazsa ilk ve temel safhalarında parasızdır. İlk öğretim\nmecburidir. Teknik ve mesleki öğretimden herkes istifade edebilmelidir. Yüksek öğretim, liyakatlerine göre\nherkese tam eşitlikle açık olmalıdır.\nÖğretim insan şahsiyetinin tam gelişmesini ve insan haklarıyla ana hürriyetlerine saygının kuvvetlenmesini\nhedef almalıdır. Öğretim bütün milletler, ırk ve din grupları arasında anlayış, hoşgörü ve dostluğu teşvik\netmeli ve Birleşmiş Milletlerin barışın idamesi yolundaki çalışmalarını geliştirmelidir.\nAna baba, çocuklarına verilecek eğitim türünü seçmek hakkını öncelikle haizdirler.\nMadde 27\nHerkes, topluluğun kültürel faaliyetine serbestçe katılmak, güzel sanatları tatmak, ilim sahasındaki ilerleyişe\niştirak etmek ve bundan faydalanmak hakkını haizdir.\nHerkesin yarattığı, her türlü bilim, edebiyat veya sanat eserlerinden mütevellit manevi ve maddi menfaatlerin\nkorunmasına hakkı vardır."
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "e4fe5e82cdf7b03eb14b851cb15fcc2f",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
-            ],
-            "Text": "Madde 28\nHerkesin, işbu Beyannamede derpiş edilen hak ve hürriyetlerin tam tatbikini sağlayacak bir sosyal ve\nmilletlerarası nizama hakkı vardır.\nMadde 29\nHer şahsın, şahsiyetinin serbest ve tam gelişmesi ancak bir topluluk içinde mümkündür ve şahsın bu\ntopluluğa karşı görevleri vardır.\nHerkes, haklarının ve hürriyetlerinin kullanılmasında, sadece, başkalarının haklarının ve hürriyetlerinin\ngereğince tanınması ve bunlara saygı gösterilmesi amacıyla ve ancak demokratik bir cemiyette ahlâkın,\nkamu düzeninin ve genel refahın haklı icaplarını yerine getirmek maksadıyla kanunla belirlenmiş\nsınırlamalara tabi tutulabilir.\nBu hak ve hürriyetler hiçbir veçhile Birleşmiş Milletlerin amaç ve prensiplerine aykırı olarak kullanılamaz.\nMadde 30\nİşbu Beyannamenin hiçbir hükmü, herhangi bir devlete, zümreye ya da ferde, bu Beyannamede ilan olunan\nhak ve hürriyetleri yoketmeye yönelik bir faaliyete girişme ya da eylemde bulunma hakkını verir şekilde\nyorumlanamaz.",
-            "Image": "e4fe5e82cdf7b03eb14b851cb15fcc2f"
+            "Text": "Madde 28\nHerkesin, işbu Beyannamede derpiş edilen hak ve hürriyetlerin tam tatbikini sağlayacak bir sosyal ve\nmilletlerarası nizama hakkı vardır.\nMadde 29\nHer şahsın, şahsiyetinin serbest ve tam gelişmesi ancak bir topluluk içinde mümkündür ve şahsın bu\ntopluluğa karşı görevleri vardır.\nHerkes, haklarının ve hürriyetlerinin kullanılmasında, sadece, başkalarının haklarının ve hürriyetlerinin\ngereğince tanınması ve bunlara saygı gösterilmesi amacıyla ve ancak demokratik bir cemiyette ahlâkın,\nkamu düzeninin ve genel refahın haklı icaplarını yerine getirmek maksadıyla kanunla belirlenmiş\nsınırlamalara tabi tutulabilir.\nBu hak ve hürriyetler hiçbir veçhile Birleşmiş Milletlerin amaç ve prensiplerine aykırı olarak kullanılamaz.\nMadde 30\nİşbu Beyannamenin hiçbir hükmü, herhangi bir devlete, zümreye ya da ferde, bu Beyannamede ilan olunan\nhak ve hürriyetleri yoketmeye yönelik bir faaliyete girişme ya da eylemde bulunma hakkını verir şekilde\nyorumlanamaz."
         }
     }
 }

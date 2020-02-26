@@ -1,85 +1,85 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581468016,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "49f8fc1cc4308bac421da0c8b592c4d1",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
-            ],
-            "Text": "NUKAN MAAMƐNI YƐNƐYII ƁO PƐLƐ HU\nDɔn juwoo gbalatɔmaa\nA kɛ kaalonna da tɔɔi gaa nukan ɲei yɛnɛ yiihu diə lɛgbɔɔɓa laa, təlinmo laa da lilaa di nwundɔɔi.\nA kɛ lənɛɛ nukan dɔɔi gaa maanɛ yɛnɛ nuan diə pɛli kweiwoo ɓoi, diə laa di maamɛni la, yi di hwa kɛ ɲɛimaaɲɔn da mɔnɔ di hu, ɓə kele\nyɛnɛnuan kaa bɔi.\nA kɛ tɔɔi gaa nukan ɲei yɛnɛyii hu ɓə maanɛ maa ə kɔnwɔ, hogɛ nukan hwəpa pənə hwə gwɛi təĝə hemɛi iɔi hu ɲɛitɔwɔnuan diə.\nA kɛ lɔiŋaa kele yepuɔ gehu ɓə maanɛ gu hwaŋa tɛĝɛ bɔi.\nA kɛ lɔi kele hu nuan ɓowoo ɓa, tɔɔi lele gaa hinaa di wɔɔ Kaalonnaa hu, yai a di wɔɔ tɛtɔwɔ yii lɛlɛ ɲɛikulo, yɛ pənə yɛ di wɔɔ yii\nɲaanɛ lɛgbɔɔɓa laa hui.\nA kɛ yɛnɛ lɔi kele da ŋɔɔ kpɔn gɛnɛi ɓə di liimu ə həĝə nɛgbɔɔɓa lelei da tɔɔi gaa ɲɛi yɛnɛ yii hu maa mɛni ɓai.\nA kɛ giliɲahiə tɔnɔi ti hwilən nukan dɔɔi da ŋɔɔ lɛgbɔɔɓa laa ɓə gɛ, əlɛ yaɓə kɛ a di liimu həĝɛɛ a gbɔɔkpɔ, yili ɓə a gɛ lɔi kele\ndiwɔɔ ɲaakpɔn gɛnɛ ə ɓo yɛnɛ.\nMaanɛ nutɛitɛi, ə makɛ a kpɔma yiŋaa di gɔl diə, maakwɛli, da hutɔ ɓə da nɛgbɔɔɓa, da tɔɔi gaa nukan ɲei yɛnɛyii hu di hee di kpanɲa\nkɛnaa kele ɓə, ə makɛ ɓɛyi ə wɔ ɲaawooɓo kaa lai, yili kele ɓə gɛi yɛnɛ bilibili gemɛi ŋɔ ɲaakpɔn gɛnɛi ɲɛi zea kaa Aməlik lɔi hui, ə\ndɔn ŋaa ɲɛi laa a pɔlɔ kpalaa ŋɔ holo pou (10) gwəlan nwaatɔnɔ pulu ŋun mɛinan yenan kɔu mɛihaaba (1948).\nDɔn ŋoo toloo 1\nNukan gele kaa pələ kaa tanɔn, yiliɓa nu kəle maawiyə pələ da tɔɔi gaa ɲei yɛnɛyii hu kɛpələ kaalɔ tanɔn; di kɛmɛni a nukan ŋaa ɓə\ngɛɛ hwəkɛli wɛlikɛmaa ə lɔ di luwai.\nDɔn ŋoo veelɛ 2\nDɔn ɲɛi huwoo kaa nukele ɓa tanɔn, guloju hwə ma yɛ ə kɛ a huwu mɛni, gu kɔlɔ kɛpələ, gu lawoo, ɲaala mɛni kɛna bələ, kiliɲahie\nhuwu lɔpe, nɛi hu yii ɓo pələ ɓa, hɛn jɔlɔɓo pələ pɔ da nukaapələ da zəĝei, yɛ ə kɛ a hulonu da nɛnu yilipulu, yɛ ə kɛ lɔi gaa gbɔɔɓa ju\nmun, yɛ ə kɛ a lɔi yi gaa nii məlan nɔi yemu a ju mun dɔn ɲɛi huwoo kaa nukele ɓa tanɔn.\nDɔn ŋoo zaaɓa 3\nMaala kaa nukele yei ə yɛnɛkɛ, ə lɛgbɔɔɓa laa hɔlɔɓo, əlɛ gbinimaa yɛ kɔŋɔ.\nDɔn ŋoo naan 4",
-            "Image": "49f8fc1cc4308bac421da0c8b592c4d1"
+            "Text": "NUKAN MAAMƐNI YƐNƐYII ƁO PƐLƐ HU\nDɔn juwoo gbalatɔmaa\nA kɛ kaalonna da tɔɔi gaa nukan ɲei yɛnɛ yiihu diə lɛgbɔɔɓa laa, təlinmo laa da lilaa di nwundɔɔi.\nA kɛ lənɛɛ nukan dɔɔi gaa maanɛ yɛnɛ nuan diə pɛli kweiwoo ɓoi, diə laa di maamɛni la, yi di hwa kɛ ɲɛimaaɲɔn da mɔnɔ di hu, ɓə kele\nyɛnɛnuan kaa bɔi.\nA kɛ tɔɔi gaa nukan ɲei yɛnɛyii hu ɓə maanɛ maa ə kɔnwɔ, hogɛ nukan hwəpa pənə hwə gwɛi təĝə hemɛi iɔi hu ɲɛitɔwɔnuan diə.\nA kɛ lɔiŋaa kele yepuɔ gehu ɓə maanɛ gu hwaŋa tɛĝɛ bɔi.\nA kɛ lɔi kele hu nuan ɓowoo ɓa, tɔɔi lele gaa hinaa di wɔɔ Kaalonnaa hu, yai a di wɔɔ tɛtɔwɔ yii lɛlɛ ɲɛikulo, yɛ pənə yɛ di wɔɔ yii\nɲaanɛ lɛgbɔɔɓa laa hui.\nA kɛ yɛnɛ lɔi kele da ŋɔɔ kpɔn gɛnɛi ɓə di liimu ə həĝə nɛgbɔɔɓa lelei da tɔɔi gaa ɲɛi yɛnɛ yii hu maa mɛni ɓai.\nA kɛ giliɲahiə tɔnɔi ti hwilən nukan dɔɔi da ŋɔɔ lɛgbɔɔɓa laa ɓə gɛ, əlɛ yaɓə kɛ a di liimu həĝɛɛ a gbɔɔkpɔ, yili ɓə a gɛ lɔi kele\ndiwɔɔ ɲaakpɔn gɛnɛ ə ɓo yɛnɛ.\nMaanɛ nutɛitɛi, ə makɛ a kpɔma yiŋaa di gɔl diə, maakwɛli, da hutɔ ɓə da nɛgbɔɔɓa, da tɔɔi gaa nukan ɲei yɛnɛyii hu di hee di kpanɲa\nkɛnaa kele ɓə, ə makɛ ɓɛyi ə wɔ ɲaawooɓo kaa lai, yili kele ɓə gɛi yɛnɛ bilibili gemɛi ŋɔ ɲaakpɔn gɛnɛi ɲɛi zea kaa Aməlik lɔi hui, ə\ndɔn ŋaa ɲɛi laa a pɔlɔ kpalaa ŋɔ holo pou (10) gwəlan nwaatɔnɔ pulu ŋun mɛinan yenan kɔu mɛihaaba (1948).\nDɔn ŋoo toloo 1\nNukan gele kaa pələ kaa tanɔn, yiliɓa nu kəle maawiyə pələ da tɔɔi gaa ɲei yɛnɛyii hu kɛpələ kaalɔ tanɔn; di kɛmɛni a nukan ŋaa ɓə\ngɛɛ hwəkɛli wɛlikɛmaa ə lɔ di luwai.\nDɔn ŋoo veelɛ 2\nDɔn ɲɛi huwoo kaa nukele ɓa tanɔn, guloju hwə ma yɛ ə kɛ a huwu mɛni, gu kɔlɔ kɛpələ, gu lawoo, ɲaala mɛni kɛna bələ, kiliɲahie\nhuwu lɔpe, nɛi hu yii ɓo pələ ɓa, hɛn jɔlɔɓo pələ pɔ da nukaapələ da zəĝei, yɛ ə kɛ a hulonu da nɛnu yilipulu, yɛ ə kɛ lɔi gaa gbɔɔɓa ju\nmun, yɛ ə kɛ a lɔi yi gaa nii məlan nɔi yemu a ju mun dɔn ɲɛi huwoo kaa nukele ɓa tanɔn.\nDɔn ŋoo zaaɓa 3\nMaala kaa nukele yei ə yɛnɛkɛ, ə lɛgbɔɔɓa laa hɔlɔɓo, əlɛ gbinimaa yɛ kɔŋɔ.\nDɔn ŋoo naan 4"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "ee6cf0b98b84cfc420ea69d82e4bbb74",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
-            ],
-            "Text": "Nuta hwa pɛli lɛɛi lualaa hu da tɔlaalaa hu, luolaa da luoyɔu huĝu lɔpe da kpɛ.\nDɔn ŋoo nɔɔli 5\nDi hwə kia pai nuta mɔnɔɓoi, di hwə kia pai mɛni ɲaanwana laai nuta ɓa, yi a nu kulo nulaa hu əlɛ ɛyɛ mɛlɛkpɛ ma.\nDɔn ŋoo mɛida 6\nKɛnɛ lɔpe gele, maanɛ nu kele ŋɔ kaa lonna, ə kɛ a gɔlɔn ŋaa ma.\nDɔn ŋoo mɛihwelɛ 7\nNu kele pɛliai a ge tɔn niila ɲe tɔnɔ mɛi. Nu kele hon bələ kaa tanɔn nukan maatɔn ɲɛi liila.\nDɔn ŋoo mɛihaaɓa 8\nMaala kaa nukele yei ə li kititəĝə pɛlɛ la; a gaa yɛ maamɛni yɛ ə piliju.\nDɔn ŋoo mɛinaan 9\nDi hwa nu too gahwə ɲa, yi ŋun və mai. A wwalakɛti di maakwiya ŋɔɔ lɔiɓa gahwa mɛni ŋɔɔ pələhu.\nDɔn ŋoo bou 10\nMaala ka nukele yei, ə ŋɔɔ tian makɔŋɔ kititə ĝə pɛlɛla, əlɛ dian ti ə kɛ a kɔlɔn ŋaa ə makɛ mɛni lɔpee daa zenwuɔn.\nDɔn ŋoo boukɔutanɔn 11\nNui lɔpee da mɛniɲɔŋɔɔ laahe ŋuɔ, mɛniti hwa pɛli kɛi a jɔn, yi jɔn ti hwə kɔlɔn ni ponoɲa kitikɛpɛlɛ la, maakɔŋɔnuaan ɲɛi ɓa.\nTɔn hwa pɛli nui lɔpe honji mɛnita ɓa yiyai mɛni ti kɛi lowai, dɔn ti hwə kɛ laali; yilipulu mɛnikɛi lowai tɔn mə a laa nui ti mɛi, ə makɛ a\nkwia.\nDɔn ŋoo boukɔu hweelɛ 12\nNuta hwa naa lɔ məlan ɲii pələ hu, lɔ kpɛli-kpɛli, ɲei bɛlɛn mɛni hu, da gbiniɓa mɛni tamaa hu, naa kala pələ pɔ.\nDɔn ŋoo boukɔu haaɓa 13\nMaala kaa nukele yei ə hiə a niiɓapələ, əlɛ ə he niiɓa kɛnaa ŋɔ lɔi hu.\nMaala kaa nukele yei yɛ pɛli kuloi lɔi lɔpe hu, ə makɛ gbɔɔ lɔi, əlɛ ə pənə ə ɲa gbɔɔ lɔi ti hu.\nDɔn ŋoo boukɔu naan 14\nNui lɔpe da ɲɛikɔu kpɔlu jeei, maala kaa ɲei ə maakilə lɔi takpɛli hu, yiyan nɔiti a pɛli ɲee hee mu.",
-            "Image": "ee6cf0b98b84cfc420ea69d82e4bbb74"
+            "Text": "Nuta hwa pɛli lɛɛi lualaa hu da tɔlaalaa hu, luolaa da luoyɔu huĝu lɔpe da kpɛ.\nDɔn ŋoo nɔɔli 5\nDi hwə kia pai nuta mɔnɔɓoi, di hwə kia pai mɛni ɲaanwana laai nuta ɓa, yi a nu kulo nulaa hu əlɛ ɛyɛ mɛlɛkpɛ ma.\nDɔn ŋoo mɛida 6\nKɛnɛ lɔpe gele, maanɛ nu kele ŋɔ kaa lonna, ə kɛ a gɔlɔn ŋaa ma.\nDɔn ŋoo mɛihwelɛ 7\nNu kele pɛliai a ge tɔn niila ɲe tɔnɔ mɛi. Nu kele hon bələ kaa tanɔn nukan maatɔn ɲɛi liila.\nDɔn ŋoo mɛihaaɓa 8\nMaala kaa nukele yei ə li kititəĝə pɛlɛ la; a gaa yɛ maamɛni yɛ ə piliju.\nDɔn ŋoo mɛinaan 9\nDi hwa nu too gahwə ɲa, yi ŋun və mai. A wwalakɛti di maakwiya ŋɔɔ lɔiɓa gahwa mɛni ŋɔɔ pələhu.\nDɔn ŋoo bou 10\nMaala ka nukele yei, ə ŋɔɔ tian makɔŋɔ kititə ĝə pɛlɛla, əlɛ dian ti ə kɛ a kɔlɔn ŋaa ə makɛ mɛni lɔpee daa zenwuɔn.\nDɔn ŋoo boukɔutanɔn 11\nNui lɔpee da mɛniɲɔŋɔɔ laahe ŋuɔ, mɛniti hwa pɛli kɛi a jɔn, yi jɔn ti hwə kɔlɔn ni ponoɲa kitikɛpɛlɛ la, maakɔŋɔnuaan ɲɛi ɓa.\nTɔn hwa pɛli nui lɔpe honji mɛnita ɓa yiyai mɛni ti kɛi lowai, dɔn ti hwə kɛ laali; yilipulu mɛnikɛi lowai tɔn mə a laa nui ti mɛi, ə makɛ a\nkwia.\nDɔn ŋoo boukɔu hweelɛ 12\nNuta hwa naa lɔ məlan ɲii pələ hu, lɔ kpɛli-kpɛli, ɲei bɛlɛn mɛni hu, da gbiniɓa mɛni tamaa hu, naa kala pələ pɔ.\nDɔn ŋoo boukɔu haaɓa 13\nMaala kaa nukele yei ə hiə a niiɓapələ, əlɛ ə he niiɓa kɛnaa ŋɔ lɔi hu.\nMaala kaa nukele yei yɛ pɛli kuloi lɔi lɔpe hu, ə makɛ gbɔɔ lɔi, əlɛ ə pənə ə ɲa gbɔɔ lɔi ti hu.\nDɔn ŋoo boukɔu naan 14\nNui lɔpe da ɲɛikɔu kpɔlu jeei, maala kaa ɲei ə maakilə lɔi takpɛli hu, yiyan nɔiti a pɛli ɲee hee mu."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "abddd54db9ff6e17991cf5e8bd9b4a5d",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
-            ],
-            "Text": "Maakiləlaa ti hwa pɛli tɛĝɛi mɛni nɔŋɔn kɛmun gbɔɔkpɔ pɔ yi hwə ɓa lɔi ŋun ma mɛniɲɔŋɔn da kaala.\nDɔn ŋoo boukɔu lɔɔli 15\nMaala kaa nukele yei ə lɔi lonna hɔlɔɓo.\nDi hwa pɛli lɔilonna kuloi nu yei hulu mɛni hu əlɛ maala hwə ŋɔnɔ nu yei hwə ŋɔ lɔilonna maahwalin.\nDɔn ŋoo boukɔumɛida 16\nNɛɛnu da hulonu da həli kpilayela da di laŋayela da pɛli heei di kepɔ guloju hwə ma yɛkɛ la a huĝu mɛni, lɔilon na mɛni, əlɛ yala pələ\nmɛni. Di pɛliɛ a di ke ɲiiɓoo ti hu, ə makɛ di taĝai lowai.\nLɛgbɔɔɓa da laana ɓe a hilətai laa ma.\nPɛlɛn mə ɓa a kpɔmaayi hɔɔtɔma, əlɛ maala ka ɲei gbɔmayii ti da nɔi ɲɛitɔwɔ nuaan di maakɔŋɔn.\nDɔn ŋoo boukɔumɛihweelɛ 17\nNukan lɔpee jɔlɔɓo hɛn gaa a ɓɔɔ, ə makɛ g boukɔuaa kpɔn ju.\nDi hwa nu yee kpilan di hwə jɔlɔɓo hɛn gulo ɲei.\nDɔn ŋoo boukɔumɛihaaɓa 18\nNui lɔpee a pɛli gbɔwɔ kiliɲahiə kɛi, niiɓa yiiɓo pələ hu. Mukulaa ɓa a pɛli niiɓa kalan gɛi, ə niiɓa yiiɓo juwu yii ɓo pələ hu.\nDɔn ŋoo boukɔumɛinan 19\nMaala kaa nui lɔpee gəle yei ŋɔɔ kiliɲahie lɛ ə gweiwooɓo, ə gilipuju kwɛli, ə jɔlɔɓo ə nɛi nuta kpɛli ŋaa diə kɛnakele yi ɲɔu hwa kɛ ju.\nDɔn ŋoo bouhwweelɛ 20\nMaala kaa nukele yei ə ŋundɔ kɛ, əlɛ ə kpɔn naa liilaa hu.\nDi hwa nu yee kpəlan di hwə nɔ kpɔn ju.\nDɔn ŋoo bouhwweelɛ kɔu tanɔn 21\nMaala kaa nukele yei, ə tɔɔi hɔlɔɓo ŋɔɔ lɔi ɲawooɓo mɛni hu, a wala kɛ a yaa kpinii, ə kɛ nui a ɲee lɛmai.\nMaala kaa nukele yei, ə kolokɛ gahanama ɓa ŋɔɔ lɔi hu. Yiyan nuta hon bətlə hwa tɛĝɛ məlan ma.\nLɔilonnii kiliɲahiə pələ ɓə lɔi ɲawoɓoɔ a kuloju. Giliɲahiə ti a kɔlɔn nɔi nɔi ɲaawoɓo nuan he luwai a kɛ a nɔi kwei nuan kəle\nlaamaawoo.",
-            "Image": "abddd54db9ff6e17991cf5e8bd9b4a5d"
+            "Text": "Maakiləlaa ti hwa pɛli tɛĝɛi mɛni nɔŋɔn kɛmun gbɔɔkpɔ pɔ yi hwə ɓa lɔi ŋun ma mɛniɲɔŋɔn da kaala.\nDɔn ŋoo boukɔu lɔɔli 15\nMaala kaa nukele yei ə lɔi lonna hɔlɔɓo.\nDi hwa pɛli lɔilonna kuloi nu yei hulu mɛni hu əlɛ maala hwə ŋɔnɔ nu yei hwə ŋɔ lɔilonna maahwalin.\nDɔn ŋoo boukɔumɛida 16\nNɛɛnu da hulonu da həli kpilayela da di laŋayela da pɛli heei di kepɔ guloju hwə ma yɛkɛ la a huĝu mɛni, lɔilon na mɛni, əlɛ yala pələ\nmɛni. Di pɛliɛ a di ke ɲiiɓoo ti hu, ə makɛ di taĝai lowai.\nLɛgbɔɔɓa da laana ɓe a hilətai laa ma.\nPɛlɛn mə ɓa a kpɔmaayi hɔɔtɔma, əlɛ maala ka ɲei gbɔmayii ti da nɔi ɲɛitɔwɔ nuaan di maakɔŋɔn.\nDɔn ŋoo boukɔumɛihweelɛ 17\nNukan lɔpee jɔlɔɓo hɛn gaa a ɓɔɔ, ə makɛ g boukɔuaa kpɔn ju.\nDi hwa nu yee kpilan di hwə jɔlɔɓo hɛn gulo ɲei.\nDɔn ŋoo boukɔumɛihaaɓa 18\nNui lɔpee a pɛli gbɔwɔ kiliɲahiə kɛi, niiɓa yiiɓo pələ hu. Mukulaa ɓa a pɛli niiɓa kalan gɛi, ə niiɓa yiiɓo juwu yii ɓo pələ hu.\nDɔn ŋoo boukɔumɛinan 19\nMaala kaa nui lɔpee gəle yei ŋɔɔ kiliɲahie lɛ ə gweiwooɓo, ə gilipuju kwɛli, ə jɔlɔɓo ə nɛi nuta kpɛli ŋaa diə kɛnakele yi ɲɔu hwa kɛ ju.\nDɔn ŋoo bouhwweelɛ 20\nMaala kaa nukele yei ə ŋundɔ kɛ, əlɛ ə kpɔn naa liilaa hu.\nDi hwa nu yee kpəlan di hwə nɔ kpɔn ju.\nDɔn ŋoo bouhwweelɛ kɔu tanɔn 21\nMaala kaa nukele yei, ə tɔɔi hɔlɔɓo ŋɔɔ lɔi ɲawooɓo mɛni hu, a wala kɛ a yaa kpinii, ə kɛ nui a ɲee lɛmai.\nMaala kaa nukele yei, ə kolokɛ gahanama ɓa ŋɔɔ lɔi hu. Yiyan nuta hon bətlə hwa tɛĝɛ məlan ma.\nLɔilonnii kiliɲahiə pələ ɓə lɔi ɲawoɓoɔ a kuloju. Giliɲahiə ti a kɔlɔn nɔi nɔi ɲaawoɓo nuan he luwai a kɛ a nɔi kwei nuan kəle\nlaamaawoo."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "a804a0b6078a21ee5efe03a3ad55a336",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
-            ],
-            "Text": "Dɔn ŋoo bouhwweelɛ kɔuweelɛ 22\nNu kele kɛmɛni a kpɔnjuyii ɓo mun mə gɛ, yɛ kɛ kpɔn ninimu. Ninin ti ɓə maanɛ ə pa ɓɔ a yeelaholon; yelɔgei, kaalɔnnaa, əlɛ mɛni\nkɔlɔn ŋa.\nDɔn ŋoo bouhwweelɛ kɔu haaɓa 23\nMaala kaa nukele yei ə kolo kɛ, ə niiɓa kolokɛ təlinmo da ɲaanɛ pələ mɛi; ə gɛ hwə pa kɛ a nui kolo hwɔ ma.\nNu kɛkolo ɓə maanɛ di zalama; ə kɛ a hulonu da nɛnu.\nKolokɛmun lɔpee a pɛli kolokɛnuan maakɔŋa kpɔn naai; a wala kɛti ə to da hu.\nKolokɛmun nɔpee maala kaa ɲei ə viitɔ, ə niiɓa pələ ŋaa kɛ. Gɛ kolo kɛi nowai ɲɛn ə kɛ a dɔɔ; əlɛ yilipulu ŋɔɔ hwitɔ lowai yɛ hala ma.\nDɔn ŋoo bouhwweelɛ kɔu naan 24\nMaala kaa nukan ɲei ŋɔɔ yii ə kɛ a bɛliya ju, gɔlɔi hwə toa pono, yaa da nainuaan di kɛ di ɲaanɛ hu; yii hwilənna: kɔnɔn mɛni,\nmaayilimɛni, yii mɛni, da hali mɛni, bɛlɛ di maamɛni walawala ɲɛi kulo mɛni kele ɓa.\nDɔn ŋoo bouhwweelɛ kɔu lɔɔli 25\nKolo a wala kɛ ɲei, ɲɔn a pɛlɛma, kolo hwaa kpɛ ɲei, kalanənnaa a jɔlɔɓo, a pɔlɔ, a wala kɛti mɛni ta kpɛli a pɛlɛma, yi hwa pɛli gbɔɔmu,\nmaala kaa ɲei yi maakpɔmaa ə ɓo.\nMaala kaa logaa laa da lokolo di yei di kpɔmaa hɔlɔɓo. Gbɔmaa ti a pɛli kɛi logele ɓa, ə makɛ a wɛlilon.\nDɔn ŋoo bouhwweelɛ kɔu mɛida 26\nMaala kaa nukele yei di jutɔ. Jutɔ ti hɔŋɔ hwə ma, yi kpɔ hwilən maakwɛli kɔwɔtɔɔ ɓa. Maanɛ kolo maakwɛli lakwəli ə kɛ kɛna kəle.\nMaanɛ lakwəli kɛnɛ kɛɛ laa ə kɛ kɛnaa kəle tɔwɔ, nui lɔpe gɛ hwaŋa a kɛ ɲei.\nMaakwɛli ŋun ma ya ɓaa ə nukan holoon naa ɓo, ə dɔɔ gaa ɲəi yɛnɛ yii hu maawiyɛ. Ya ɓə maanɛ ə wooman, ɲɛimaa hwɛli, da\nwɛlikɛmaa di lɔ lɔi kəle lowai, huwu ŋaa kəle lowai ə gɛ liila ə kɛ diyei.\nMaala kaa a longaanuaan yei di di loni hutɔ pələ lɛn.\nDɔn ŋoo bouhwweelɛ kɔumɛihweelɛ 27\nMaala kaa nukele yei ə gɛti kɛ nɔi ŋɔɔ tɛtɔwɔ laa kpaalə mɛi, ə pɛlima ə dɔlɔ kulo.\nMaala kaa nukele yei bɛlihɛn, gulohɛn, maa ə kɔŋɔ.\nDɔn ŋoo bouhwweelɛ kɔumɛihaaɓa 28",
-            "Image": "a804a0b6078a21ee5efe03a3ad55a336"
+            "Text": "Dɔn ŋoo bouhwweelɛ kɔuweelɛ 22\nNu kele kɛmɛni a kpɔnjuyii ɓo mun mə gɛ, yɛ kɛ kpɔn ninimu. Ninin ti ɓə maanɛ ə pa ɓɔ a yeelaholon; yelɔgei, kaalɔnnaa, əlɛ mɛni\nkɔlɔn ŋa.\nDɔn ŋoo bouhwweelɛ kɔu haaɓa 23\nMaala kaa nukele yei ə kolo kɛ, ə niiɓa kolokɛ təlinmo da ɲaanɛ pələ mɛi; ə gɛ hwə pa kɛ a nui kolo hwɔ ma.\nNu kɛkolo ɓə maanɛ di zalama; ə kɛ a hulonu da nɛnu.\nKolokɛmun lɔpee a pɛli kolokɛnuan maakɔŋa kpɔn naai; a wala kɛti ə to da hu.\nKolokɛmun nɔpee maala kaa ɲei ə viitɔ, ə niiɓa pələ ŋaa kɛ. Gɛ kolo kɛi nowai ɲɛn ə kɛ a dɔɔ; əlɛ yilipulu ŋɔɔ hwitɔ lowai yɛ hala ma.\nDɔn ŋoo bouhwweelɛ kɔu naan 24\nMaala kaa nukan ɲei ŋɔɔ yii ə kɛ a bɛliya ju, gɔlɔi hwə toa pono, yaa da nainuaan di kɛ di ɲaanɛ hu; yii hwilənna: kɔnɔn mɛni,\nmaayilimɛni, yii mɛni, da hali mɛni, bɛlɛ di maamɛni walawala ɲɛi kulo mɛni kele ɓa.\nDɔn ŋoo bouhwweelɛ kɔu lɔɔli 25\nKolo a wala kɛ ɲei, ɲɔn a pɛlɛma, kolo hwaa kpɛ ɲei, kalanənnaa a jɔlɔɓo, a pɔlɔ, a wala kɛti mɛni ta kpɛli a pɛlɛma, yi hwa pɛli gbɔɔmu,\nmaala kaa ɲei yi maakpɔmaa ə ɓo.\nMaala kaa logaa laa da lokolo di yei di kpɔmaa hɔlɔɓo. Gbɔmaa ti a pɛli kɛi logele ɓa, ə makɛ a wɛlilon.\nDɔn ŋoo bouhwweelɛ kɔu mɛida 26\nMaala kaa nukele yei di jutɔ. Jutɔ ti hɔŋɔ hwə ma, yi kpɔ hwilən maakwɛli kɔwɔtɔɔ ɓa. Maanɛ kolo maakwɛli lakwəli ə kɛ kɛna kəle.\nMaanɛ lakwəli kɛnɛ kɛɛ laa ə kɛ kɛnaa kəle tɔwɔ, nui lɔpe gɛ hwaŋa a kɛ ɲei.\nMaakwɛli ŋun ma ya ɓaa ə nukan holoon naa ɓo, ə dɔɔ gaa ɲəi yɛnɛ yii hu maawiyɛ. Ya ɓə maanɛ ə wooman, ɲɛimaa hwɛli, da\nwɛlikɛmaa di lɔ lɔi kəle lowai, huwu ŋaa kəle lowai ə gɛ liila ə kɛ diyei.\nMaala kaa a longaanuaan yei di di loni hutɔ pələ lɛn.\nDɔn ŋoo bouhwweelɛ kɔumɛihweelɛ 27\nMaala kaa nukele yei ə gɛti kɛ nɔi ŋɔɔ tɛtɔwɔ laa kpaalə mɛi, ə pɛlima ə dɔlɔ kulo.\nMaala kaa nukele yei bɛlihɛn, gulohɛn, maa ə kɔŋɔ.\nDɔn ŋoo bouhwweelɛ kɔumɛihaaɓa 28"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "92e4f5a4cf67e6813884bc9ba19503f3",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
-            ],
-            "Text": "Maala kaa nukele yei, ə gɛtikɛ, yɛ dɔn ŋooŋaa ɲɛi ɓo di lɛ di kpaalə mɛi.\nDɔn ŋoo bouhwweelɛ kɔu mɛinaan 29\nNu yaakpɛli gɛti kaama kpɔmaa yii hu. Maahɔlɔɓo gbɔmaa yii ti ɓə a pɛli ŋɔɔ nukan naa laakuloi a nele.\nTɔɔi gaa nu yei yɛnɛyii hu da ŋɔɔ lɛgbɔɓa laa, maala kele hɔlɔɓoɔ ɲɛn lɔ gaama, ya ɓaa a məlaa diwɛi kɔwɔtɔi, kpɔmaa yii hu yi hulu\nmɛni hwə laa.\nMaala ŋaa ti da lɛgbɔɔɓa ŋaa ti, gɛ pələ hwa pɛli kɛi a juwu takpɛli yi yɛnɛ kele puɔ geɓa hwə mo li.\nDɔn ŋoo bouhaaɓa 30\nKpalə ta kpɛli hwə laa yi a pɛli dɔn ŋaa ɲɛi maamɛni piliju, yɛ nu ŋɔɔ tɔɔ gaa ɲei yɛnɛyii hu da ŋɔɔ lɛgbɔɔɓa laa kuloi ɲei: yɛ ə kɛ a\nlɔi, a kpɔn, ə make gu tɛitɛi.",
-            "Image": "92e4f5a4cf67e6813884bc9ba19503f3"
+            "Text": "Maala kaa nukele yei, ə gɛtikɛ, yɛ dɔn ŋooŋaa ɲɛi ɓo di lɛ di kpaalə mɛi.\nDɔn ŋoo bouhwweelɛ kɔu mɛinaan 29\nNu yaakpɛli gɛti kaama kpɔmaa yii hu. Maahɔlɔɓo gbɔmaa yii ti ɓə a pɛli ŋɔɔ nukan naa laakuloi a nele.\nTɔɔi gaa nu yei yɛnɛyii hu da ŋɔɔ lɛgbɔɓa laa, maala kele hɔlɔɓoɔ ɲɛn lɔ gaama, ya ɓaa a məlaa diwɛi kɔwɔtɔi, kpɔmaa yii hu yi hulu\nmɛni hwə laa.\nMaala ŋaa ti da lɛgbɔɔɓa ŋaa ti, gɛ pələ hwa pɛli kɛi a juwu takpɛli yi yɛnɛ kele puɔ geɓa hwə mo li.\nDɔn ŋoo bouhaaɓa 30\nKpalə ta kpɛli hwə laa yi a pɛli dɔn ŋaa ɲɛi maamɛni piliju, yɛ nu ŋɔɔ tɔɔ gaa ɲei yɛnɛyii hu da ŋɔɔ lɛgbɔɔɓa laa kuloi ɲei: yɛ ə kɛ a\nlɔi, a kpɔn, ə make gu tɛitɛi."
         }
     }
 }

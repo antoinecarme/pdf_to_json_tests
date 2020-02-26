@@ -1,158 +1,158 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581468865,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "21280b78d6e18896b55ab67e766c365d",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "EBIRI OMO KISAKANGO EKYEKIHUGHO KYOSI EKIKAHAMULHA OBUHOLHO NEKISUMBI\nKYO'BUNDUEKYAMABIRIKANIBWAKO AHEGHULHU\nEBYERITSUKIRAKO:\nAbandu bosi omo kihugho, omobubuthiranwa, balingirirene omo kitsumbi hayima nobuthoki\nobuthebwangathokekana eribalhusibwako. Oyo ghomusingi owobuholho nobulingirirania omo kihugho\nkyosi. Abandu bamabya bathe bangakolesya 'erijema' ngekyamlhwa ekighunzerereyo, eriyitsuna obuthabali\nkutse obusinga obutsurumire kutse obuthawithe lukogho kandi ibukasulhusuthaya neribulya abandu\nobuholho bwabo; nikwa kitholere obuholho ne kitsumbi ibyathabalhwa ebihano.\nEkithunga ekyebihugho ebihindahindene (United Nations), omo kisakango kyakyo, kikanganaya\nngokukimanire nerhamirya hayima nerisikya ekitsumbi kyabandu kandi nerihiramukyo olhukengerwa\nomubwoswire. Nikwa kolithya indi kyabirilhabyaho erihabulha abandu erighenda embere neriyitsingirira\nobubuya obweryuwania emibere yesyongebe neribyaho, omomibere eyithekene.\nEbihugho ebiwithe obumember (member States) omokithunga kino, byabirihamulha nerithwamo\neriwathikania hayima nekithunga ekyebihugho ebihindahindene, erihabulha nerikamirirya abandu bosi\neririnda nerihiramo ekitsumbi ekyo'buholho nobwiranda bw'OBUNDU Nemisingi yabo.\nErihabuka ndeke obuthoki (Rights) nobuholho bw'obundu (Personality Freedom) ngokokire kikulhu\nkutsibutsibu, kandi neriberererya eriyilhagha\nnhulhu olhwebihugho ebihindahindene (The United Nations General Assembly), Ihukahabulha nerihererya\nekihano ekikathabalha nerihamulha OBUHOLHO BW'ABANDU BOSI EHOSI OMMOKIHUGHO.\nAbandu bosi, ehosi eribya nenzumwa nguma (Ekilhubirirwa) ekyebihugho byosi, batholere eryibuka\nERIHAMULYA LINO hayima neriyikambikania erihabulha, erithendeka hayima nerikamirirya erihiiramo",
-            "Image": "21280b78d6e18896b55ab67e766c365d"
+            "Text": "EBIRI OMO KISAKANGO EKYEKIHUGHO KYOSI EKIKAHAMULHA OBUHOLHO NEKISUMBI\nKYO'BUNDUEKYAMABIRIKANIBWAKO AHEGHULHU\nEBYERITSUKIRAKO:\nAbandu bosi omo kihugho, omobubuthiranwa, balingirirene omo kitsumbi hayima nobuthoki\nobuthebwangathokekana eribalhusibwako. Oyo ghomusingi owobuholho nobulingirirania omo kihugho\nkyosi. Abandu bamabya bathe bangakolesya 'erijema' ngekyamlhwa ekighunzerereyo, eriyitsuna obuthabali\nkutse obusinga obutsurumire kutse obuthawithe lukogho kandi ibukasulhusuthaya neribulya abandu\nobuholho bwabo; nikwa kitholere obuholho ne kitsumbi ibyathabalhwa ebihano.\nEkithunga ekyebihugho ebihindahindene (United Nations), omo kisakango kyakyo, kikanganaya\nngokukimanire nerhamirya hayima nerisikya ekitsumbi kyabandu kandi nerihiramukyo olhukengerwa\nomubwoswire. Nikwa kolithya indi kyabirilhabyaho erihabulha abandu erighenda embere neriyitsingirira\nobubuya obweryuwania emibere yesyongebe neribyaho, omomibere eyithekene.\nEbihugho ebiwithe obumember (member States) omokithunga kino, byabirihamulha nerithwamo\neriwathikania hayima nekithunga ekyebihugho ebihindahindene, erihabulha nerikamirirya abandu bosi\neririnda nerihiramo ekitsumbi ekyo'buholho nobwiranda bw'OBUNDU Nemisingi yabo.\nErihabuka ndeke obuthoki (Rights) nobuholho bw'obundu (Personality Freedom) ngokokire kikulhu\nkutsibutsibu, kandi neriberererya eriyilhagha\nnhulhu olhwebihugho ebihindahindene (The United Nations General Assembly), Ihukahabulha nerihererya\nekihano ekikathabalha nerihamulha OBUHOLHO BW'ABANDU BOSI EHOSI OMMOKIHUGHO.\nAbandu bosi, ehosi eribya nenzumwa nguma (Ekilhubirirwa) ekyebihugho byosi, batholere eryibuka\nERIHAMULYA LINO hayima neriyikambikania erihabulha, erithendeka hayima nerikamirirya erihiiramo"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "e4ae73f546cac9d7f8f813a95745ecae",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "obuholho bw'obundu ekitsumbi, nerikangania kinyithungi eririnda ebihano omobandu abali omo kipindi ekiri\nomo buthoki bw'ebyalha byaghu.\nEndeko eno (General Assembly), omo kisakango kyayo yikahulhukayamo ebihano bikulhubikulhu 30\n(Makumi asathu) ngokubisakira ahikwa bithya;\nEkipindi 1.\nAbandu omububuthiranwa bakabuthawa ibanawithe obuthoki nobuholho obulingirirene, mobahangikwa\nibanawithe amenge, neryo ibakathoka erighabania abathya ekibuya nekisandire. Nokweryo buli muyima\natholere eryanza munyikiwe ngababuthenwe.\nEkipindi 2.\nBuli puyima awithe obuthoki eribya nobuholho obukabughawako omo kisango kino ahathe erighabaniamo\nlyomuhanda wosiwosi eriseghemera ngokobinu; oko rangi eyolhuhwe lhwiwe, oko mubughe wiwe, oko\nkihanda ekyobubuthiranwa bwiwe, oko kihugho ekyakalhwiramo kutse abuthirwemo, oko malengekania\nwiwe awemibere eyobyobuthabali, omo lhughanda alwakabuthawamo, nimukali kuse nimulhume,\nnimutheke kutse nimunaku, nimutheke omoby'ekisomo ekyamenge kutse syalyathalholha omo kitabo\nkyosikyosi, nebindi ebisosene ngebyo sibirilhusaya mundu wosi kw'obuholho bwiwe nimukyanabya\nekitsumbi kiwe.\nEkipindi 3.\nBuli mundu wosi niweribya wangebe kandi wabitsange emighulhu yiwe yosi esihahali sulhusuthibwa\nomomibere yosiyosi.\nEkipindi 4.\nSihali namuyima oyowangalembererwa omubunzenda, kandi nobusuburi obw'obunzende sibulyanzibawa",
-            "Image": "e4ae73f546cac9d7f8f813a95745ecae"
+            "Text": "obuholho bw'obundu ekitsumbi, nerikangania kinyithungi eririnda ebihano omobandu abali omo kipindi ekiri\nomo buthoki bw'ebyalha byaghu.\nEndeko eno (General Assembly), omo kisakango kyayo yikahulhukayamo ebihano bikulhubikulhu 30\n(Makumi asathu) ngokubisakira ahikwa bithya;\nEkipindi 1.\nAbandu omububuthiranwa bakabuthawa ibanawithe obuthoki nobuholho obulingirirene, mobahangikwa\nibanawithe amenge, neryo ibakathoka erighabania abathya ekibuya nekisandire. Nokweryo buli muyima\natholere eryanza munyikiwe ngababuthenwe.\nEkipindi 2.\nBuli puyima awithe obuthoki eribya nobuholho obukabughawako omo kisango kino ahathe erighabaniamo\nlyomuhanda wosiwosi eriseghemera ngokobinu; oko rangi eyolhuhwe lhwiwe, oko mubughe wiwe, oko\nkihanda ekyobubuthiranwa bwiwe, oko kihugho ekyakalhwiramo kutse abuthirwemo, oko malengekania\nwiwe awemibere eyobyobuthabali, omo lhughanda alwakabuthawamo, nimukali kuse nimulhume,\nnimutheke kutse nimunaku, nimutheke omoby'ekisomo ekyamenge kutse syalyathalholha omo kitabo\nkyosikyosi, nebindi ebisosene ngebyo sibirilhusaya mundu wosi kw'obuholho bwiwe nimukyanabya\nekitsumbi kiwe.\nEkipindi 3.\nBuli mundu wosi niweribya wangebe kandi wabitsange emighulhu yiwe yosi esihahali sulhusuthibwa\nomomibere yosiyosi.\nEkipindi 4.\nSihali namuyima oyowangalembererwa omubunzenda, kandi nobusuburi obw'obunzende sibulyanzibawa"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "a622f33226613f161bd6cb43db2fbf28",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "nimulyanabya erikiriribwa omokihugho kyosi.\nEkipindi 5.\nSihali namuyima eyotholere erisulhusuthibwa, erihemulikanibwa, neryaghalibwa erikatsandaya esyongebe\nsiwe.\nEkipindi 6.\nBuli muyima awithe obuthoki (Rights) eribya nekitsumbi ngekyoghundi mundu wosiwosi embere syebihano\nehosi ohwali.\nEkipindi 7.\nAbandu bosi balingirirene embere syebihano kandi bawithe obuholho eririndwa nebihahano ahathe\nkasolholho. Neryo nno buli mundu niwabuholho eriyilhakira neritsunirwa amabya enyamakolhwa nabi kutse\ninyamasolholhwa omomibere yosiyosi eyithekiriribawa nerihamulha eriri omo kisakango kino.\nEkipindi 8.\nBuli muyima awithe obuholho erithwalha obulitho bwiwe omubyaghanda ebyobulekya ebyasibwe\nnerihamulhwa ekyaghanda kikulhu ekyobusinga ekyekihugho ekyo, ekyathoka erimulekya nerimutsinura\noko bulitho obo, kyamanya indi habereho eryaghalibwa omongebe siwe hayima nobuholho obukamuhebwa\nnerihamulha lyebihano ebyckyaghanda kikulhu ekyekihugho ekyalimo.\nEkindi 9.\nSihali mundu wosiwosi eyowangahambwa akathwalibwa omo muliki buyirayira (Arbitrary arrests) kutse\nerithibithwako akahulhukibwa eyihya ye kihugho kyewabo (exile), mulyanabya erimukingira omo muliki\nmolhughumerere butsira thongana omo kyaghanda kyebihano ebyekihugho kiwe.",
-            "Image": "a622f33226613f161bd6cb43db2fbf28"
+            "Text": "nimulyanabya erikiriribwa omokihugho kyosi.\nEkipindi 5.\nSihali namuyima eyotholere erisulhusuthibwa, erihemulikanibwa, neryaghalibwa erikatsandaya esyongebe\nsiwe.\nEkipindi 6.\nBuli muyima awithe obuthoki (Rights) eribya nekitsumbi ngekyoghundi mundu wosiwosi embere syebihano\nehosi ohwali.\nEkipindi 7.\nAbandu bosi balingirirene embere syebihano kandi bawithe obuholho eririndwa nebihahano ahathe\nkasolholho. Neryo nno buli mundu niwabuholho eriyilhakira neritsunirwa amabya enyamakolhwa nabi kutse\ninyamasolholhwa omomibere yosiyosi eyithekiriribawa nerihamulha eriri omo kisakango kino.\nEkipindi 8.\nBuli muyima awithe obuholho erithwalha obulitho bwiwe omubyaghanda ebyobulekya ebyasibwe\nnerihamulhwa ekyaghanda kikulhu ekyobusinga ekyekihugho ekyo, ekyathoka erimulekya nerimutsinura\noko bulitho obo, kyamanya indi habereho eryaghalibwa omongebe siwe hayima nobuholho obukamuhebwa\nnerihamulha lyebihano ebyckyaghanda kikulhu ekyekihugho ekyalimo.\nEkindi 9.\nSihali mundu wosiwosi eyowangahambwa akathwalibwa omo muliki buyirayira (Arbitrary arrests) kutse\nerithibithwako akahulhukibwa eyihya ye kihugho kyewabo (exile), mulyanabya erimukingira omo muliki\nmolhughumerere butsira thongana omo kyaghanda kyebihano ebyekihugho kiwe."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "92aa3efb04181787209d4b6cbbefed48",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Ekipindi 10.\nBuli mundu nuwabuholho, ahathe erisolholha, erikiriribwa eriyithonganira oko Ihubanza Ihosi\nolhukamubiribawako, embere sye'kyaghanda ekyasibwe ngekyabalekya ekithawithe Ihuhande kutse\nkasolholho. Neryo ekyathoka erimulekya oko Ihubanza kutse erilholho eryalyakolha erikaghanibawa,\neryalyakolha nerithwa ebihano ngokobiri omokisakango ekyekyaghanda eky'ekihugho ekyo kutse\neky'ekikugho ebihindahindene ekyahamulha ekisakango kino.\nEkipindi 11.\nBuli mundu wosi amabya indi awithe olhubanza kutse erilholho eriakumbughawako indi akolire, kandi\niryangamukolya okwighalibwa omongebe siwe nerimubohesya omo nyumba yomuliki, awithe obuholho\neririndwa kutse erimutsunga ng'oyotheko Ihubanza erikolya ebihano ahobikendimulhumanirya omo\nkyaghanda ekyabalekya. Naho aliryo inyane wabuholho neritusungwa kandi nerikiriribwa eriyithonganira\nneririndwa ebihano omumibere eyitholerene omo kitsumbi ky'obundu.\nSihali mundu namuyima eyotholere erighanzwa ngoyowithe olhubanza kutse ngomunyamuliki, kandi\nneryaghalibwa esyongebe siwe, nibya ekikamwaghalisaya isikyabya kyerimuhira omolhubanza Ihungana\nnolho, omomughulhu kyakolerawamo, omomighanza eyebihano ebyomukyaghanda ekyabalekya\neky'ekihugho kiwe kutse eky'ebugho ebihindahindene ngokobyasibwe ehosi. Omomibere yenemiyama, sihali\neyowangathunga eryaghalibwa (ekifubiro) erilhabire (heavier penalty) kutse erilhusibwamoembanulho\neyilhabiryirye okweghalibwa eryanagthungire omomughulhu akolha olhubanza kutse erilholho eryo.\nEkipindi 12.\nSihale namuyima eyowithe obuthoki, nomubwanabya obusinga, eyowangayingirya omo myatsi kutse omo\nbindu byamundu wosi wosi ebiri omo maboko kutse omo buthoki bwiwe thubughe; omuyi wiwe, kutse\nmwatse wahe owakahambangana oko byesyombitha siwe nga; ahakakesaya, ebisakango byiwe kutse eryanza",
-            "Image": "92aa3efb04181787209d4b6cbbefed48"
+            "Text": "Ekipindi 10.\nBuli mundu nuwabuholho, ahathe erisolholha, erikiriribwa eriyithonganira oko Ihubanza Ihosi\nolhukamubiribawako, embere sye'kyaghanda ekyasibwe ngekyabalekya ekithawithe Ihuhande kutse\nkasolholho. Neryo ekyathoka erimulekya oko Ihubanza kutse erilholho eryalyakolha erikaghanibawa,\neryalyakolha nerithwa ebihano ngokobiri omokisakango ekyekyaghanda eky'ekihugho ekyo kutse\neky'ekikugho ebihindahindene ekyahamulha ekisakango kino.\nEkipindi 11.\nBuli mundu wosi amabya indi awithe olhubanza kutse erilholho eriakumbughawako indi akolire, kandi\niryangamukolya okwighalibwa omongebe siwe nerimubohesya omo nyumba yomuliki, awithe obuholho\neririndwa kutse erimutsunga ng'oyotheko Ihubanza erikolya ebihano ahobikendimulhumanirya omo\nkyaghanda ekyabalekya. Naho aliryo inyane wabuholho neritusungwa kandi nerikiriribwa eriyithonganira\nneririndwa ebihano omumibere eyitholerene omo kitsumbi ky'obundu.\nSihali mundu namuyima eyotholere erighanzwa ngoyowithe olhubanza kutse ngomunyamuliki, kandi\nneryaghalibwa esyongebe siwe, nibya ekikamwaghalisaya isikyabya kyerimuhira omolhubanza Ihungana\nnolho, omomughulhu kyakolerawamo, omomighanza eyebihano ebyomukyaghanda ekyabalekya\neky'ekihugho kiwe kutse eky'ebugho ebihindahindene ngokobyasibwe ehosi. Omomibere yenemiyama, sihali\neyowangathunga eryaghalibwa (ekifubiro) erilhabire (heavier penalty) kutse erilhusibwamoembanulho\neyilhabiryirye okweghalibwa eryanagthungire omomughulhu akolha olhubanza kutse erilholho eryo.\nEkipindi 12.\nSihale namuyima eyowithe obuthoki, nomubwanabya obusinga, eyowangayingirya omo myatsi kutse omo\nbindu byamundu wosi wosi ebiri omo maboko kutse omo buthoki bwiwe thubughe; omuyi wiwe, kutse\nmwatse wahe owakahambangana oko byesyombitha siwe nga; ahakakesaya, ebisakango byiwe kutse eryanza"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "add1b34427087def4889925e62b95253",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "erimutsandirya erina liwe, ekitsumbi kiwe, mulyanabya erimuhemulikania omo bandu. Neryo buli mundu ali\nomo byalha byobuthoki no'mobuholho bwebihano omo bulingirirania.\nEkipindi 13.\nOmundu wosi niwabuholho erighrnda ngokwanzire neriyisonderya ahakanza erikalha ono kihugho kyewabo.\nBuli mundu niwabuholho erihuma omo kihugho kutse omo kipindi, nimukyanginabya inikihugho kyewabo,\nerighenda nerisondya ohwakakwa muhwa eribya kutse erighenda erisaba obwikalho omo kihugho ekindi\nekyanginamwikirirya erimuhabo. Kandi nibya niwabuholho erisuba omo kihugho kyewabo amayanzira\neyowenewene.\nEkipindi 14.\nHamabyaho erithibithwako (Persecution) kutse erihima oko mundu wosi wosi, akabya inyawithe obuholho\nomo kihugho ekyanga enyanzire erisabamo obwikalho, neriberamo wabwiranda omwekyo ekyabiryanza,\nnerikiriribwa eribyamukyo.\nObuthoki kutse obuholho obo, sibwangalhusibwa oko mundu busana neribya indi awithe olhubanza busana\nnerithwa ebihano ebyanulikaghulhu (Common Law) kutse emibere eyabuli kaghulhu eyomukihugho ekyo.\nKandi nimukyanabya indi syalithakolha ngerisonda eryemibere eye'bihano ebyendeko ngulhu eyebihugho.\nEkipindi 15.\nBuli mundu awithe obuthoki eribya nobunyandulhani obwekihugho ekya kagaghanzirawamo nhekiwe\n(Nationality).\nSihali buthoki bwangalhusya oko mundu wosi ko'bunyandulhani bwiwe amabya isyalithayanzira athya.\nNimulyanabya erimughania eribindulha obunyandulhani bwiwe nhokwanzire.",
-            "Image": "add1b34427087def4889925e62b95253"
+            "Text": "erimutsandirya erina liwe, ekitsumbi kiwe, mulyanabya erimuhemulikania omo bandu. Neryo buli mundu ali\nomo byalha byobuthoki no'mobuholho bwebihano omo bulingirirania.\nEkipindi 13.\nOmundu wosi niwabuholho erighrnda ngokwanzire neriyisonderya ahakanza erikalha ono kihugho kyewabo.\nBuli mundu niwabuholho erihuma omo kihugho kutse omo kipindi, nimukyanginabya inikihugho kyewabo,\nerighenda nerisondya ohwakakwa muhwa eribya kutse erighenda erisaba obwikalho omo kihugho ekindi\nekyanginamwikirirya erimuhabo. Kandi nibya niwabuholho erisuba omo kihugho kyewabo amayanzira\neyowenewene.\nEkipindi 14.\nHamabyaho erithibithwako (Persecution) kutse erihima oko mundu wosi wosi, akabya inyawithe obuholho\nomo kihugho ekyanga enyanzire erisabamo obwikalho, neriberamo wabwiranda omwekyo ekyabiryanza,\nnerikiriribwa eribyamukyo.\nObuthoki kutse obuholho obo, sibwangalhusibwa oko mundu busana neribya indi awithe olhubanza busana\nnerithwa ebihano ebyanulikaghulhu (Common Law) kutse emibere eyabuli kaghulhu eyomukihugho ekyo.\nKandi nimukyanabya indi syalithakolha ngerisonda eryemibere eye'bihano ebyendeko ngulhu eyebihugho.\nEkipindi 15.\nBuli mundu awithe obuthoki eribya nobunyandulhani obwekihugho ekya kagaghanzirawamo nhekiwe\n(Nationality).\nSihali buthoki bwangalhusya oko mundu wosi ko'bunyandulhani bwiwe amabya isyalithayanzira athya.\nNimulyanabya erimughania eribindulha obunyandulhani bwiwe nhokwanzire."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "d37df686425e814cb6721144b8241caf",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Ekipindi 16.\nOmundu wosi anyabirihika oko mughulhu owobukulhu bwiwe owerithahiryamo kutse erithahibirwamo,\nsihali buthoki bwosi obwangamukagha kutse erimughania erikolha athya, amabya enyabiryanza erithahya\nkutse erithahibwa. Sihali Ihubibi Ihosi erilhaba omo Ihughanda olwalhwiremo, erangi eyolhuhwe Ijwiwe,\nekisomo (Religion) ekyakikirirayamo. Kandi nubya omo ndambi yosi yosi eyibakagunza ebanathahenie,\nbakabya ibanalingirirene, kyanabya indi bamanza erirekangana, bakabya ibakinalingirirene oko kathambi\nako omo buthoki bwabo bamabya ikubanzire batha.\nErilhusyaho, anathahengenie bano bamabya ibakayanzira bathya, erithahangania lyabo siryangabya erihikire\nkutse eryasibwe ngomuyi owakabya enyasibwe indi athekire.\nEmiyi yonzuko ey'obundu, neryo yitholere eyathunga nerirekerayo ekitsumbi kyayo obuthalekerera kutse\nebiro byosi. Kandi nibya olhukwamirwa olhweririnda neritsunga emiyi eyo, nobusinga (Government)\nbunawithe kulho.\nEkipindi 17.\nOmundu wosi ali eyowene kutse nabalikiwe, awithe obuthoki eriyithungira obutheke bwiwe-bwiwe\neyowenewene (Personal Property).\nSihale mundu wangalhusibwako obutheke bwiwe obo mbino inyalyayanzira eyowenewene.\nEkipindi 18.\nOmundu wosi awithe obuholho eriyilhusiryamo ekibi nekibuya erisoma ekisomo ekyanzire. Obuholho buno\nbukakundikiribawamo eriyiha obuthoki eribindulha erilhwa omo kisomo (Ddini) kiwe ekyalimo nerisuba\nomo kindi ekyanzire, kinyithungi kutse bubisobiso erikangania eddini nerikirirya likuwiwe akakangirirya\nkutse omo mikolere kutse omo bisakango ngekisomo kikuwiwe kokikamulhaghira.",
-            "Image": "d37df686425e814cb6721144b8241caf"
+            "Text": "Ekipindi 16.\nOmundu wosi anyabirihika oko mughulhu owobukulhu bwiwe owerithahiryamo kutse erithahibirwamo,\nsihali buthoki bwosi obwangamukagha kutse erimughania erikolha athya, amabya enyabiryanza erithahya\nkutse erithahibwa. Sihali Ihubibi Ihosi erilhaba omo Ihughanda olwalhwiremo, erangi eyolhuhwe Ijwiwe,\nekisomo (Religion) ekyakikirirayamo. Kandi nubya omo ndambi yosi yosi eyibakagunza ebanathahenie,\nbakabya ibanalingirirene, kyanabya indi bamanza erirekangana, bakabya ibakinalingirirene oko kathambi\nako omo buthoki bwabo bamabya ikubanzire batha.\nErilhusyaho, anathahengenie bano bamabya ibakayanzira bathya, erithahangania lyabo siryangabya erihikire\nkutse eryasibwe ngomuyi owakabya enyasibwe indi athekire.\nEmiyi yonzuko ey'obundu, neryo yitholere eyathunga nerirekerayo ekitsumbi kyayo obuthalekerera kutse\nebiro byosi. Kandi nibya olhukwamirwa olhweririnda neritsunga emiyi eyo, nobusinga (Government)\nbunawithe kulho.\nEkipindi 17.\nOmundu wosi ali eyowene kutse nabalikiwe, awithe obuthoki eriyithungira obutheke bwiwe-bwiwe\neyowenewene (Personal Property).\nSihale mundu wangalhusibwako obutheke bwiwe obo mbino inyalyayanzira eyowenewene.\nEkipindi 18.\nOmundu wosi awithe obuholho eriyilhusiryamo ekibi nekibuya erisoma ekisomo ekyanzire. Obuholho buno\nbukakundikiribawamo eriyiha obuthoki eribindulha erilhwa omo kisomo (Ddini) kiwe ekyalimo nerisuba\nomo kindi ekyanzire, kinyithungi kutse bubisobiso erikangania eddini nerikirirya likuwiwe akakangirirya\nkutse omo mikolere kutse omo bisakango ngekisomo kikuwiwe kokikamulhaghira."
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "d87772ba9cb861d80f98a72096df0589",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Ekipindi 19.\nOmundu niwabuholho eriyibughira neribya no'bulengekenia bwiwe, eriyiisakira neryisomera\nngobulengekania bwiwe ngokwabuli,. Obuholho buno bukakundikirawamo erikolesya obulengekania bwiwe\nahathe erimubandako amabya omo nzira eyerisondya nerihulhukya omulenge nowatsi owebirengekanio\nbyiwe ahosi hosi ohwangalhabyaho. Thubughe; oko Radio, omo bisakanyo by'ebitabo nebindi nebindi.\nEkipindi 20.\nOmundu wosi wosi awithe obuthoki kandi niwabuholho erihindahindana omo ndeko yosi yosi kutse\nerilhaliryayo, kyamaminyikalha ndeke indi siyerisulhusuthya obuholho bwabandu.\nSihali namyuima erikakwa ind athenithabya wakithunga kirebe.\nEkipindi 21.\nBuli muyima niwabuholho erithunga obwembembethya omo businga obw'ekihugho kiwe.\nKandi nibya awithe obuthoki obulingirirene no'bwabanyikiwe, eriyithungira omubiiri kutse ekithongole\nekyangathoka eryembembethya omo buthabale obw'ekihugho kiwe, kutse erihererya nerikolera obubuya\nbwanyikiwe.\nEryanza nerithwamo lyabandu lyerikathekawa eryaseghemerako eribyaho no'buthoki obw'obusinga\n(Government). Erithwamo lino litholere eryabyaho omukaghulhu akapimimire omo Ihulengo Ihomughulhu\nmulebe ewatholere. Kandi nerisombolha eryabya ly'abandu bosi abakabya ibahikire omomyaka yobukulhu\nbwabo (Mature) abali omo kihugho ekyo. Neryo erisombolha eryo eryabya indi buli mundu muyima\nenyathoya ekithuli kiyima omukasanduko kayima okwanzire ekane omombitha.\nEkipindi 22.",
-            "Image": "d87772ba9cb861d80f98a72096df0589"
+            "Text": "Ekipindi 19.\nOmundu niwabuholho eriyibughira neribya no'bulengekenia bwiwe, eriyiisakira neryisomera\nngobulengekania bwiwe ngokwabuli,. Obuholho buno bukakundikirawamo erikolesya obulengekania bwiwe\nahathe erimubandako amabya omo nzira eyerisondya nerihulhukya omulenge nowatsi owebirengekanio\nbyiwe ahosi hosi ohwangalhabyaho. Thubughe; oko Radio, omo bisakanyo by'ebitabo nebindi nebindi.\nEkipindi 20.\nOmundu wosi wosi awithe obuthoki kandi niwabuholho erihindahindana omo ndeko yosi yosi kutse\nerilhaliryayo, kyamaminyikalha ndeke indi siyerisulhusuthya obuholho bwabandu.\nSihali namyuima erikakwa ind athenithabya wakithunga kirebe.\nEkipindi 21.\nBuli muyima niwabuholho erithunga obwembembethya omo businga obw'ekihugho kiwe.\nKandi nibya awithe obuthoki obulingirirene no'bwabanyikiwe, eriyithungira omubiiri kutse ekithongole\nekyangathoka eryembembethya omo buthabale obw'ekihugho kiwe, kutse erihererya nerikolera obubuya\nbwanyikiwe.\nEryanza nerithwamo lyabandu lyerikathekawa eryaseghemerako eribyaho no'buthoki obw'obusinga\n(Government). Erithwamo lino litholere eryabyaho omukaghulhu akapimimire omo Ihulengo Ihomughulhu\nmulebe ewatholere. Kandi nerisombolha eryabya ly'abandu bosi abakabya ibahikire omomyaka yobukulhu\nbwabo (Mature) abali omo kihugho ekyo. Neryo erisombolha eryo eryabya indi buli mundu muyima\nenyathoya ekithuli kiyima omukasanduko kayima okwanzire ekane omombitha.\nEkipindi 22."
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "24963ed38fd68ba9468f12bb95b7e71d",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Buli mundu iyo ngomunyandulhani, akethekawa enyasikira omo buholho, kandi neribya namaha indi\nobusinga bw'ekihugho kiwe erimuhiriraho emibere eyitholerene erimuthokesya erikulhakulhana liwe.\nThubughe indi; niyerisondererya obutheke kutse oby'obubuthiranwabwiwe. Neryo obusinga obw'ekihugho\nekyo nerikolhangana nebihugho ebihindahindene, buwithe olukwamirwa nerilhangira indi omunyandulhani\nakathunga emibere eyowene omo byerithungo, eribya bwiranda omo kitsumbi kyobbuthiranwa bwiwe,\nnerimusighira obuholho neryo angathunga esyonzira esy'erikulhana omo ngebe sikuwiwe.\nEkipindi 23.\nOmundu wosi awithe obuthoki (Rights) erithunga omubiri. Ekyo kibo-herwemo eribya wabuholho\neriyisombolera omubiiri owakayowa athe anzire erikolha, kandi atholere enyabya omo mibere eyowene omo\nmubiiri oyo. Neryo kolitha awithe obuholho obusinga erilhangira indi kwenenekwenene akathunga omubiri.\nBuli mundu atholere eribya enyakathuhawa omusara wiwe kutse olhuhembo Ihwiwe omo bilingirirania\nhayima na banyikiwe, olhuhikene nomubiri wiwe owlyakolha kandi omusara oyo atholere eribya\ninyakathoka eribya enyakamwimanayaho ndeke iyo nabe'nyumba yiwe.\nBuli eyokakolha awithe obuthoki (Right) erithunga omusara kutse olhuhembo olhutholerene kandi olhuhikire\nerimuthekaho kutse rimughunza ndeke iyo ne'ka yiwe omo kitsumbi ekitholere erimulingirirania omo mibere\neyisosone neyabanyikiwe. Kandi nibya atholere inyongerwa kyabanika indi omusara wiwe syalireka\nakalingirirana omo kitsumbi ekiringirirene hayima nabanyikiwe.\nBuli muyima awithe obuthoki eryingira omo kithunga kyabakoli kuts eribumbabumbakyo, neryo angathoka\neriyilhwirako nerighusa omulenge amabya inyawithe ebikamulhuma omo 'byeringirya (Working Conditions)\nerithandimuthokesya eriberererya eriyitsutsa liwe omo kihugho.\nEkipindi 24.\nBuli mundu atholere erithunga akathambi akerihmulikanirako bul'ikolha omubiiri atholere",
-            "Image": "24963ed38fd68ba9468f12bb95b7e71d"
+            "Text": "Buli mundu iyo ngomunyandulhani, akethekawa enyasikira omo buholho, kandi neribya namaha indi\nobusinga bw'ekihugho kiwe erimuhiriraho emibere eyitholerene erimuthokesya erikulhakulhana liwe.\nThubughe indi; niyerisondererya obutheke kutse oby'obubuthiranwabwiwe. Neryo obusinga obw'ekihugho\nekyo nerikolhangana nebihugho ebihindahindene, buwithe olukwamirwa nerilhangira indi omunyandulhani\nakathunga emibere eyowene omo byerithungo, eribya bwiranda omo kitsumbi kyobbuthiranwa bwiwe,\nnerimusighira obuholho neryo angathunga esyonzira esy'erikulhana omo ngebe sikuwiwe.\nEkipindi 23.\nOmundu wosi awithe obuthoki (Rights) erithunga omubiri. Ekyo kibo-herwemo eribya wabuholho\neriyisombolera omubiiri owakayowa athe anzire erikolha, kandi atholere enyabya omo mibere eyowene omo\nmubiiri oyo. Neryo kolitha awithe obuholho obusinga erilhangira indi kwenenekwenene akathunga omubiri.\nBuli mundu atholere eribya enyakathuhawa omusara wiwe kutse olhuhembo Ihwiwe omo bilingirirania\nhayima na banyikiwe, olhuhikene nomubiri wiwe owlyakolha kandi omusara oyo atholere eribya\ninyakathoka eribya enyakamwimanayaho ndeke iyo nabe'nyumba yiwe.\nBuli eyokakolha awithe obuthoki (Right) erithunga omusara kutse olhuhembo olhutholerene kandi olhuhikire\nerimuthekaho kutse rimughunza ndeke iyo ne'ka yiwe omo kitsumbi ekitholere erimulingirirania omo mibere\neyisosone neyabanyikiwe. Kandi nibya atholere inyongerwa kyabanika indi omusara wiwe syalireka\nakalingirirana omo kitsumbi ekiringirirene hayima nabanyikiwe.\nBuli muyima awithe obuthoki eryingira omo kithunga kyabakoli kuts eribumbabumbakyo, neryo angathoka\neriyilhwirako nerighusa omulenge amabya inyawithe ebikamulhuma omo 'byeringirya (Working Conditions)\nerithandimuthokesya eriberererya eriyitsutsa liwe omo kihugho.\nEkipindi 24.\nBuli mundu atholere erithunga akathambi akerihmulikanirako bul'ikolha omubiiri atholere"
         },
         "8": {
-            "Label": "9",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "979673c7ee06a24e27800f1f05c55f4c",
             "Index": 8,
+            "Label": "9",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "enyahumuliryahgo. Eki kiboherwemo endambieytholere kandi eyipimire eyakakolerako buli'hinga oko\nmubiiri. Atholere enyathunga buli kirimo (Annually), erilhuhuka eririko erithuha.\nEkipindi 25.\nBuli mundu awithe obuthoki eribya omo buholho nemibere eyikamuthokesaya eririndira esyongebe siwe\nomo mibere eyisitholerene erithunga amaghalha amabuya. Oko ndambi yenenguma awithe obuholho\neriyilhwirako nerilhangira athi akakolerera nerirembera abandu benyumba yiwe bo ndeke. Omo muli\neribalisya, eribambalya neribalholerera oko malhwere awabulikiro nawakanyambuthukira. Kandi\nnerilhangira athi akawathikayab oerilhangira indi thubughe; omundu wiwe amalhwalha oko mubiri,\namasyakulhuha, amabya ndimethime. Ebindu ebiri ngebi byamabya indi byamahika oko mundu wiwe,\nongumbe enyabya enyanawithe erisika kandi namaha indi obudinga obw'ekihugho kiwe bunamuwithire\nemibeghekere eyeowene eyakaseghemerako indi akendisighalha enyane omo kitsumbi eky'obundu ngabandu\nabandi banyikiwe.\nEsyomekeke nabamaama wabo bakatholerana ibalholererwa ndeke omo mibere eyembaghane kandi\neyowene. Abana bosi, babuthirwe omo muyi awasibwa ngomuyi owathehenie kutse maama na thatha wabo\nsibathehenie, abana abo bakathekawa ibalholererwa omubilingirania.\nEkipindi 26.\nBuli mundu awithe obuholho nobuthoki erithenekwa neri kangulwa eritheko eririhisibwa aliryo erikahebawa\nbuyira a no'businga obwe kihugho ekyo, hakire hakire omu bithumbi eby'eritsukirako ebyasibwe ng'ebye\n(Primary). Lino niryabuli mundu ahathe musighalire. Amathendekero awakangirira emibiiri eye'byalha,\nemibiire eyamenge awamalengekania awo'bwongo nagho ahtolere enyakingulhwa neribya indi buli mundi\neyowabirilhaba ebibulyo biwe erihika oko Ihulengo olhuhamibirwe nekithunga ekyobukangiriya\nobwe'kihugho ekyo, athekwa erikiriribwa nemukingulira olhuyi omo mathendekero ayo omo bulingirirania.",
-            "Image": "979673c7ee06a24e27800f1f05c55f4c"
+            "Text": "enyahumuliryahgo. Eki kiboherwemo endambieytholere kandi eyipimire eyakakolerako buli'hinga oko\nmubiiri. Atholere enyathunga buli kirimo (Annually), erilhuhuka eririko erithuha.\nEkipindi 25.\nBuli mundu awithe obuthoki eribya omo buholho nemibere eyikamuthokesaya eririndira esyongebe siwe\nomo mibere eyisitholerene erithunga amaghalha amabuya. Oko ndambi yenenguma awithe obuholho\neriyilhwirako nerilhangira athi akakolerera nerirembera abandu benyumba yiwe bo ndeke. Omo muli\neribalisya, eribambalya neribalholerera oko malhwere awabulikiro nawakanyambuthukira. Kandi\nnerilhangira athi akawathikayab oerilhangira indi thubughe; omundu wiwe amalhwalha oko mubiri,\namasyakulhuha, amabya ndimethime. Ebindu ebiri ngebi byamabya indi byamahika oko mundu wiwe,\nongumbe enyabya enyanawithe erisika kandi namaha indi obudinga obw'ekihugho kiwe bunamuwithire\nemibeghekere eyeowene eyakaseghemerako indi akendisighalha enyane omo kitsumbi eky'obundu ngabandu\nabandi banyikiwe.\nEsyomekeke nabamaama wabo bakatholerana ibalholererwa ndeke omo mibere eyembaghane kandi\neyowene. Abana bosi, babuthirwe omo muyi awasibwa ngomuyi owathehenie kutse maama na thatha wabo\nsibathehenie, abana abo bakathekawa ibalholererwa omubilingirania.\nEkipindi 26.\nBuli mundu awithe obuholho nobuthoki erithenekwa neri kangulwa eritheko eririhisibwa aliryo erikahebawa\nbuyira a no'businga obwe kihugho ekyo, hakire hakire omu bithumbi eby'eritsukirako ebyasibwe ng'ebye\n(Primary). Lino niryabuli mundu ahathe musighalire. Amathendekero awakangirira emibiiri eye'byalha,\nemibiire eyamenge awamalengekania awo'bwongo nagho ahtolere enyakingulhwa neribya indi buli mundi\neyowabirilhaba ebibulyo biwe erihika oko Ihulengo olhuhamibirwe nekithunga ekyobukangiriya\nobwe'kihugho ekyo, athekwa erikiriribwa nemukingulira olhuyi omo mathendekero ayo omo bulingirirania."
         },
         "9": {
-            "Label": "10",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "2287216325f5a525806dd6e1510a86db",
             "Index": 9,
+            "Label": "10",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Erithendekwa lyosi litholere eniryerilhangira indi olhughobe Ihwalyo Ihosi Ihutholere eribya enilhweriretha\nemibere nerithungisya omundu obuholho busa busa. Kandi buli mundu atholere eribya indi akathekawa\nerihiramo ekitsumbi obuholho bw'omundu obw'obubuthiranwa. Abiyi bakathekawa ibathendekwa\nnerikuthirwa oko, bukulhu nomubongo wabandu. Nimukyana indi abandu sibawithe malengekania\nawasosene, kutse sibasosene oko rangi yolhuhwe, kutse sibalikolerana, batholere ibanzana, ibahindahindana\nhayima nerikamirirya emikolere eyebyo si byo ebyobihugho ebihindahinane (United Nations) byakolha\nhaweririnda obuholho nekitsumbi kyabandu omo kihugho.\nAbabuthi bawithe obuthoki, obw'okubanza, erisonderya abana babo, hayima neribasombolera,\nnganibuthendekwa bwamuthinaki obutholere erihebwa abana abo.\nEkipindi 27.\nBuli mundu awithe obuthoki eryingira nerikolerana nabanyikiwe, omo bwoswire, nomo bwiranda\nobwobuthiranwa obwabandu obwikere nabo, kandi neritsangira ebibuya ebikakolhawa abawithe amenge\nomo byobuthiranwa hayima nerighanabana oko bibuya ebikalhwa omo menge awlengethukire awalhwire\nomo byerikulhakulhana ebyekinyamenge (Scientific Development).\nBuli muyima awithe obuthoki eriyiwathikania omo mikolere eyikabya eyiriho habweriretha obuholho\nobwamalengekenia hayima nemitse, kandi nobutheke bwebindu omo bandu, nerighabana okwebyo ebikaya\nebyalhwire mo; kutse nibyerisakanga ebitabo, erilhusya oko bandu kw'ebitsutsu byabo (Ebisosano) kutse\nkindu kyosi kyosi.\nEkipindi 28.\nBuli mundu wosi awithe obuthoki erilhangira athi ebyosi ebyabughirweko omo kisakango kino,\nekikahamulha nerisungasinga obuholho nekitsumbi ky'omundu bikahirawa omo mikolere.\nEkipindi 29.",
-            "Image": "2287216325f5a525806dd6e1510a86db"
+            "Text": "Erithendekwa lyosi litholere eniryerilhangira indi olhughobe Ihwalyo Ihosi Ihutholere eribya enilhweriretha\nemibere nerithungisya omundu obuholho busa busa. Kandi buli mundu atholere eribya indi akathekawa\nerihiramo ekitsumbi obuholho bw'omundu obw'obubuthiranwa. Abiyi bakathekawa ibathendekwa\nnerikuthirwa oko, bukulhu nomubongo wabandu. Nimukyana indi abandu sibawithe malengekania\nawasosene, kutse sibasosene oko rangi yolhuhwe, kutse sibalikolerana, batholere ibanzana, ibahindahindana\nhayima nerikamirirya emikolere eyebyo si byo ebyobihugho ebihindahinane (United Nations) byakolha\nhaweririnda obuholho nekitsumbi kyabandu omo kihugho.\nAbabuthi bawithe obuthoki, obw'okubanza, erisonderya abana babo, hayima neribasombolera,\nnganibuthendekwa bwamuthinaki obutholere erihebwa abana abo.\nEkipindi 27.\nBuli mundu awithe obuthoki eryingira nerikolerana nabanyikiwe, omo bwoswire, nomo bwiranda\nobwobuthiranwa obwabandu obwikere nabo, kandi neritsangira ebibuya ebikakolhawa abawithe amenge\nomo byobuthiranwa hayima nerighanabana oko bibuya ebikalhwa omo menge awlengethukire awalhwire\nomo byerikulhakulhana ebyekinyamenge (Scientific Development).\nBuli muyima awithe obuthoki eriyiwathikania omo mikolere eyikabya eyiriho habweriretha obuholho\nobwamalengekenia hayima nemitse, kandi nobutheke bwebindu omo bandu, nerighabana okwebyo ebikaya\nebyalhwire mo; kutse nibyerisakanga ebitabo, erilhusya oko bandu kw'ebitsutsu byabo (Ebisosano) kutse\nkindu kyosi kyosi.\nEkipindi 28.\nBuli mundu wosi awithe obuthoki erilhangira athi ebyosi ebyabughirweko omo kisakango kino,\nekikahamulha nerisungasinga obuholho nekitsumbi ky'omundu bikahirawa omo mikolere.\nEkipindi 29."
         },
         "10": {
-            "Label": "11",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "37bdef9862b175fad7eb77caa947981b",
             "Index": 10,
+            "Label": "11",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Buli mundu awithe olhukwamira erilhangira indi abandu bosi bakathunga erikulhakulhana. Kusangwa oyo\nghomulingo nayo owangalhabamo erimukolya okwekulhakulhana liwe.\nOmo mikolere eyerikamirirya obuthoki nobuholho, buli mundu akathekawa eribya omo byalha by'obuthoki\nbwebihano bisa ebihirirweho habweririnda obuholho, eriminyikalha, nolhukengerwa hayima nobuthoki\nobweribya bwiranda obwa'bandu bosi, kandi ebikalhwira obubuya nobulingirirania omo bandu bosi.\n[Missing]\nEkipindi 30.\nSihali omo bihano bino ebikahamulha obuholho nekitsumbi ky'abandu, ekitholerene eribindulhwa indi\nmbwino kiwathire oko kihugho kirebe, bandu balebe, kithongole kirebe kutse mundu mulebe erikolesya\nobuthoki obw'ekisakango kino, eriyikolesya eby'esyonye, ebikatsandaya obuthoki nobuholho\nobwerihamulhwa erye'kisakango kino.",
-            "Image": "37bdef9862b175fad7eb77caa947981b"
+            "Text": "Buli mundu awithe olhukwamira erilhangira indi abandu bosi bakathunga erikulhakulhana. Kusangwa oyo\nghomulingo nayo owangalhabamo erimukolya okwekulhakulhana liwe.\nOmo mikolere eyerikamirirya obuthoki nobuholho, buli mundu akathekawa eribya omo byalha by'obuthoki\nbwebihano bisa ebihirirweho habweririnda obuholho, eriminyikalha, nolhukengerwa hayima nobuthoki\nobweribya bwiranda obwa'bandu bosi, kandi ebikalhwira obubuya nobulingirirania omo bandu bosi.\n[Missing]\nEkipindi 30.\nSihali omo bihano bino ebikahamulha obuholho nekitsumbi ky'abandu, ekitholerene eribindulhwa indi\nmbwino kiwathire oko kihugho kirebe, bandu balebe, kithongole kirebe kutse mundu mulebe erikolesya\nobuthoki obw'ekisakango kino, eriyikolesya eby'esyonye, ebikatsandaya obuthoki nobuholho\nobwerihamulhwa erye'kisakango kino."
         }
     }
 }

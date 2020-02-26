@@ -1,93 +1,93 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581467690,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "b64ae96dd1fd4f80a750238f2f4b6db3",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "DATGANIAD CYFFREDINOL O HAWLIAU DYNOL\nRhagair\nGan mai cydnabod urddas cynhenid a hawliau cydradd a phriod holl\naelodau’r teulu dynol yw sylfaen rhyddid, cyfiawnder a heddwch yn y byd,\nGan i anwybyddu a dirmygu hawliau dynol arwain at weithredoedd\nbarbaraidd a dreisiodd gydwybod dynolryw, a bod dyfodiad byd lle y gall\npob unigolyn fwynhau rhyddid i siarad a chredu a rhyddid rhag ofn ac\nangau wedi ei gyhoeddi yn ddyhead uchaf y bobl gyffredin,\nGan fod yn rhaid amddiffyn hawliau dynol a rheolaeth cyfraith, os nad yw\npob unigolyn dan orfod yn y pendraw i wrthryfela yn erbyn gormes a\nthrais,\nGan fod yn rhaid hyrwyddo cysylltiadau cyfeillgar rhwng Cenhedloedd,\nGan fod pobloedd y Cenhedloedd Unedig yn y Siarter wedi ail ddatgan\nffydd mewn hawliau sylfaenol yr unigolyn, mewn urddas a gwerth y person\ndynol ac mewn hawliau cydradd\ngwr a gwragedd, ac wedi penderfynu hyrwyddo cynnydd cymdeithasol a\nsafonau byw gwell mewn rhyddid helaethach,\nGan fod y Gwladwriaethau sy’n Aelodau wedi ymrwymo, mewn cydweithrediad\nâ’r Cenhedloedd Unedig, i sicrhau hyrwyddo parch cyffredinol i hawliau\ndynol a’r rhyddfreintiau sylfaenol, a’u cadw,\nGan fod deall yr hawliau a’r rhyddfreintiau hyn gan bawb o’r pwys mwyaf\ni lwyr sylweddoli’r ymrwymiad hwn,\nFelly, y mae’r\nCynulliad Cyffredinol\nyn awr yn cyhoeddi’r\nDatganiad Cyffredinol hwn o Hawliau Dynol\nyn ddelfryd cyffredin i’r holl bobloedd a’r holl genhedloedd ymgyrraedd\nato, fel y bo i bob person ac i bob offeryn cymdeithasol, gan ddal y\nDatganiad hwn mewn cof yn wastad, ymdrechu trwy ddysgu a hyfforddi i\nsicrhau parch i’r hawliau a’r rhyddfreintiau hyn, a thrwy ffyrdd\nblaengar, cenedlaethol a chydgenedlaethol, i sicrhau eu cydnabod a’u\ncadw yn gyffredinol ac yn effeithiol, ymysg pobloedd y Gwladwriaethau\nsy’n Aelodau eu hunain yn ogystal ag ymysg pobloedd y tiriogaethau sydd\ndan eu rheolaeth.\nErthygl 1\nGenir pawb yn rhydd ac yn gydradd â’i gilydd mewn urddas a hawliau. Fe’u\ncynysgaeddir â rheswm a chydwybod, a dylai pawb ymddwyn y naill at y\nllall mewn ysbryd cymodlon.\nErthygl 2",
-            "Image": "b64ae96dd1fd4f80a750238f2f4b6db3"
+            "Text": "DATGANIAD CYFFREDINOL O HAWLIAU DYNOL\nRhagair\nGan mai cydnabod urddas cynhenid a hawliau cydradd a phriod holl\naelodau’r teulu dynol yw sylfaen rhyddid, cyfiawnder a heddwch yn y byd,\nGan i anwybyddu a dirmygu hawliau dynol arwain at weithredoedd\nbarbaraidd a dreisiodd gydwybod dynolryw, a bod dyfodiad byd lle y gall\npob unigolyn fwynhau rhyddid i siarad a chredu a rhyddid rhag ofn ac\nangau wedi ei gyhoeddi yn ddyhead uchaf y bobl gyffredin,\nGan fod yn rhaid amddiffyn hawliau dynol a rheolaeth cyfraith, os nad yw\npob unigolyn dan orfod yn y pendraw i wrthryfela yn erbyn gormes a\nthrais,\nGan fod yn rhaid hyrwyddo cysylltiadau cyfeillgar rhwng Cenhedloedd,\nGan fod pobloedd y Cenhedloedd Unedig yn y Siarter wedi ail ddatgan\nffydd mewn hawliau sylfaenol yr unigolyn, mewn urddas a gwerth y person\ndynol ac mewn hawliau cydradd\ngwr a gwragedd, ac wedi penderfynu hyrwyddo cynnydd cymdeithasol a\nsafonau byw gwell mewn rhyddid helaethach,\nGan fod y Gwladwriaethau sy’n Aelodau wedi ymrwymo, mewn cydweithrediad\nâ’r Cenhedloedd Unedig, i sicrhau hyrwyddo parch cyffredinol i hawliau\ndynol a’r rhyddfreintiau sylfaenol, a’u cadw,\nGan fod deall yr hawliau a’r rhyddfreintiau hyn gan bawb o’r pwys mwyaf\ni lwyr sylweddoli’r ymrwymiad hwn,\nFelly, y mae’r\nCynulliad Cyffredinol\nyn awr yn cyhoeddi’r\nDatganiad Cyffredinol hwn o Hawliau Dynol\nyn ddelfryd cyffredin i’r holl bobloedd a’r holl genhedloedd ymgyrraedd\nato, fel y bo i bob person ac i bob offeryn cymdeithasol, gan ddal y\nDatganiad hwn mewn cof yn wastad, ymdrechu trwy ddysgu a hyfforddi i\nsicrhau parch i’r hawliau a’r rhyddfreintiau hyn, a thrwy ffyrdd\nblaengar, cenedlaethol a chydgenedlaethol, i sicrhau eu cydnabod a’u\ncadw yn gyffredinol ac yn effeithiol, ymysg pobloedd y Gwladwriaethau\nsy’n Aelodau eu hunain yn ogystal ag ymysg pobloedd y tiriogaethau sydd\ndan eu rheolaeth.\nErthygl 1\nGenir pawb yn rhydd ac yn gydradd â’i gilydd mewn urddas a hawliau. Fe’u\ncynysgaeddir â rheswm a chydwybod, a dylai pawb ymddwyn y naill at y\nllall mewn ysbryd cymodlon.\nErthygl 2"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "b92b8acbc8065b1a0d0fff91076e04b8",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Y mae gan bawb hawl i’r holl hawliau a’r rhyddfreintiau a nodir yn y\nDatganiad hwn, heb unrhyw wahaniaeth o gwbl, yn arbennig unrhyw\nwahaniaeth hil, lliw, rhyw, iaith, crefydd, barn boliticaidd neu unrhyw\nfarn arall, tarddiad cenedlaethol neu gymdeithasol, eiddo, geni neu\nsafle arall.\nYmhellach, ni ddylid gwahaniaethu ar sail safle politicaidd, gyfreithiol\nna chydwladol unrhyw wlad neu diriogaeth y mae pawb yn perthyn iddi,\np’un ai yw honno’n annibynnol, dan nawdd, heb hunanlywodraeth, neu dan\nunrhyw gyfyngiad arall ar ei sofraniaeth.\nErthygl 3\nY mae gan bawb hawl i fywyd, rhyddid a diogelwch.\nErthygl 4\nNi ddylid dal neb yn gaethwas nac mewn caethiwed; dylid gwahardd\ncaethwasiaeth a’r fasnach gaethweision ym mhob un o’u hagweddau.\nErthygl 5\nNi ddylid poenydio neb, na thrin na chosbi neb yn greulon, annynol na’n\nddiraddiol.\nErthygl 6\nY mae gan bawb hawl i gael cydnabyddiaeth ym mhobman fel person yng\nngydd y gyfraith.\nErthygl 7\nY mae pawb yn gydradd yng ngolwg y gyfraith gyda’r hawl yn ddiwahân i’r\nun amddiffyniad gan y gyfraith. Y mae gan bawb hawl i’r un amddiffyniad\nyn erbyn unrhyw wahaniaethu sy’n groes i’r datganiad hwn neu unrhyw\nanogaeth i wahaniaethu.\nErthygl 8\nY mae gan bawb hawl i ymwared effeithiol gan y llysoedd cenedlaethol\ncymwys rhag gweithredoedd sy’n troseddu’r hawliau sylfaenol a roddwyd\niddynt gan y cyfansoddiad neu gan y gyfraith.\nErthygl 9\nNi ddylai neb gael eu dwyn i ddalfa, na’u caethiwo na’u halltudio yn\nfympwyol.\nErthygl 10\nY mae gan bawb hawl, mewn cydraddoldeb llawn, i gael gwrandawiad teg a\nchyhoeddus gan lys annibynnol a diduedd, wrth benderfynu eu hawliau a’u\nrhwymedigaethau ac unrhyw gyhuddiad troseddol yn eu herbyn.\nErthygl 11\nY mae gan bawb a gyhuddir o drosedd gosbadwy hawl i gael eu hystyried yn",
-            "Image": "b92b8acbc8065b1a0d0fff91076e04b8"
+            "Text": "Y mae gan bawb hawl i’r holl hawliau a’r rhyddfreintiau a nodir yn y\nDatganiad hwn, heb unrhyw wahaniaeth o gwbl, yn arbennig unrhyw\nwahaniaeth hil, lliw, rhyw, iaith, crefydd, barn boliticaidd neu unrhyw\nfarn arall, tarddiad cenedlaethol neu gymdeithasol, eiddo, geni neu\nsafle arall.\nYmhellach, ni ddylid gwahaniaethu ar sail safle politicaidd, gyfreithiol\nna chydwladol unrhyw wlad neu diriogaeth y mae pawb yn perthyn iddi,\np’un ai yw honno’n annibynnol, dan nawdd, heb hunanlywodraeth, neu dan\nunrhyw gyfyngiad arall ar ei sofraniaeth.\nErthygl 3\nY mae gan bawb hawl i fywyd, rhyddid a diogelwch.\nErthygl 4\nNi ddylid dal neb yn gaethwas nac mewn caethiwed; dylid gwahardd\ncaethwasiaeth a’r fasnach gaethweision ym mhob un o’u hagweddau.\nErthygl 5\nNi ddylid poenydio neb, na thrin na chosbi neb yn greulon, annynol na’n\nddiraddiol.\nErthygl 6\nY mae gan bawb hawl i gael cydnabyddiaeth ym mhobman fel person yng\nngydd y gyfraith.\nErthygl 7\nY mae pawb yn gydradd yng ngolwg y gyfraith gyda’r hawl yn ddiwahân i’r\nun amddiffyniad gan y gyfraith. Y mae gan bawb hawl i’r un amddiffyniad\nyn erbyn unrhyw wahaniaethu sy’n groes i’r datganiad hwn neu unrhyw\nanogaeth i wahaniaethu.\nErthygl 8\nY mae gan bawb hawl i ymwared effeithiol gan y llysoedd cenedlaethol\ncymwys rhag gweithredoedd sy’n troseddu’r hawliau sylfaenol a roddwyd\niddynt gan y cyfansoddiad neu gan y gyfraith.\nErthygl 9\nNi ddylai neb gael eu dwyn i ddalfa, na’u caethiwo na’u halltudio yn\nfympwyol.\nErthygl 10\nY mae gan bawb hawl, mewn cydraddoldeb llawn, i gael gwrandawiad teg a\nchyhoeddus gan lys annibynnol a diduedd, wrth benderfynu eu hawliau a’u\nrhwymedigaethau ac unrhyw gyhuddiad troseddol yn eu herbyn.\nErthygl 11\nY mae gan bawb a gyhuddir o drosedd gosbadwy hawl i gael eu hystyried yn"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "974d74c79a8af4bbc6ec447290178987",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "ddieuog tan y profir hwynt yn euog yn ôl y gyfraith mewn prawf cyhoeddus\nlle y byddant wedi cael pob gwarant angenrheidiol at eu hamddiffyniad.\nNi ddylid dyfarnu neb yn euog o drosedd gosbadwy oherwydd unrhyw\nweithred neu wall nad oedd yn drosedd, yn ôl cyfraith genedlaethol neu\nryngwladol, pan gyflawnwyd hi. Ni ddylid ychwaith osod cosb drymach na’r\nun a oedd yn gymwys ar yr adeg y cyflawnwyd y drosedd gosbadwy.\nErthygl 12\nNi ddylid ymyrryd yn fympwyol â bywyd preifat neb, na’u teulu, na’u\ncartref, na’u gohebiaeth, nac ymosod ar eu hanrhydedd na’u henw da. Y\nmae gan bawb hawl i amddiffyniad gan y gyfraith rhag y fath ymyrraeth ac\nymosod.\nErthygl 13\nY mae gan bawb hawl i symud fel y mynnant ac i breswylio lle y mynnant o\nfewn terfynau’r Wladwriaeth.\nY mae gan bawb hawl i adael unrhyw wlad, gan gynnwys eu gwlad eu hunain,\na hawl i ddychwelyd iddi.\nErthygl 14\nY mae gan bawb hawl i geisio ac i gael mewn gwledydd eraill noddfa rhag\nerledigaeth.\nNi ellir hawlio hyn mewn achosion o erledigaeth sy’n gwir ddilyn\ntroseddau anwleidyddol neu weithredoedd croes i amcanion ac egwyddorion\ny Cenhedloedd Unedig.\nErthygl 15\nY mae gan bawb hawl i genedligrwydd.\nNi ddylid amddifadu neb yn fympwyol o’u cenedligrwydd na gwrthod iddynt\nyr hawl i newid eu cenedligrwydd.\nErthygl 16\nY mae gan bawb mewn oed, yn wryw a benyw, heb unrhyw gyfyngiadau o ran\nhil, cenedligrwydd na chrefydd, hawl i briodi a sefydlu teulu. Y mae\nganddynt hefyd hawliau cyfartal yngln â phriodas, yn ystod priodas ac\nwrth ei diddymu.\nNi ddylid priodi ond o lwyr fodd y ddau sy’n golygu gwneud hynny.\nY teulu yw uned naturiol a sylfaenol cymdeithas a chanddo’r hawl i\namddiffyniad gan gymdeithas a’r Wladwriaeth.\nErthygl 17\nY mae gan bawb hawl i feddu eiddo unigol yn ogystal â chydag eraill.\nNi ddylid amddifadu neb o’u heiddo yn fympwyol.",
-            "Image": "974d74c79a8af4bbc6ec447290178987"
+            "Text": "ddieuog tan y profir hwynt yn euog yn ôl y gyfraith mewn prawf cyhoeddus\nlle y byddant wedi cael pob gwarant angenrheidiol at eu hamddiffyniad.\nNi ddylid dyfarnu neb yn euog o drosedd gosbadwy oherwydd unrhyw\nweithred neu wall nad oedd yn drosedd, yn ôl cyfraith genedlaethol neu\nryngwladol, pan gyflawnwyd hi. Ni ddylid ychwaith osod cosb drymach na’r\nun a oedd yn gymwys ar yr adeg y cyflawnwyd y drosedd gosbadwy.\nErthygl 12\nNi ddylid ymyrryd yn fympwyol â bywyd preifat neb, na’u teulu, na’u\ncartref, na’u gohebiaeth, nac ymosod ar eu hanrhydedd na’u henw da. Y\nmae gan bawb hawl i amddiffyniad gan y gyfraith rhag y fath ymyrraeth ac\nymosod.\nErthygl 13\nY mae gan bawb hawl i symud fel y mynnant ac i breswylio lle y mynnant o\nfewn terfynau’r Wladwriaeth.\nY mae gan bawb hawl i adael unrhyw wlad, gan gynnwys eu gwlad eu hunain,\na hawl i ddychwelyd iddi.\nErthygl 14\nY mae gan bawb hawl i geisio ac i gael mewn gwledydd eraill noddfa rhag\nerledigaeth.\nNi ellir hawlio hyn mewn achosion o erledigaeth sy’n gwir ddilyn\ntroseddau anwleidyddol neu weithredoedd croes i amcanion ac egwyddorion\ny Cenhedloedd Unedig.\nErthygl 15\nY mae gan bawb hawl i genedligrwydd.\nNi ddylid amddifadu neb yn fympwyol o’u cenedligrwydd na gwrthod iddynt\nyr hawl i newid eu cenedligrwydd.\nErthygl 16\nY mae gan bawb mewn oed, yn wryw a benyw, heb unrhyw gyfyngiadau o ran\nhil, cenedligrwydd na chrefydd, hawl i briodi a sefydlu teulu. Y mae\nganddynt hefyd hawliau cyfartal yngln â phriodas, yn ystod priodas ac\nwrth ei diddymu.\nNi ddylid priodi ond o lwyr fodd y ddau sy’n golygu gwneud hynny.\nY teulu yw uned naturiol a sylfaenol cymdeithas a chanddo’r hawl i\namddiffyniad gan gymdeithas a’r Wladwriaeth.\nErthygl 17\nY mae gan bawb hawl i feddu eiddo unigol yn ogystal â chydag eraill.\nNi ddylid amddifadu neb o’u heiddo yn fympwyol."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "e9ec4d001ff45427d5be38541f860b52",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Erthygl 18\nY mae gan bawb hawl i ryddid meddwl, cydwybod a chrefydd; fe gynnwys hyn\nryddid iddynt newid eu crefydd neu eu cred, a rhyddid hefyd, naill ai ar\neu pen eu hunain neu gydag eraill, yn gyhoeddus neu’n breifat, i amlygu\neu crefydd neu ei gred trwy addysgu, arddel, addoli a chadw defodau.\nErthygl 19\nY mae gan bawb ryddid barn a mynegiant; fe gynnwys hyn yr hawl i ryddid\nbarn, heb ymyrraeth gan neb, a rhyddid i geisio, derbyn a chyfrannu\ngwybodaeth a syniadau trwy unrhyw gyfryngau, heb ystyried ffiniau gwlad.\nErthygl 20\nY mae gan bawb hawl i ryddid ymgynnull a chymdeithasu heddychlon.\nNi ellir gorfodi neb i berthyn i unrhyw gymdeithas.\nErthygl 21\nY mae gan bawb hawl i gymryd rhan yn llywodraeth eu gwlad, yn\nuniongyrchol neu drwy gynrychiolwyr wedi eu dewis yn agored.\nY mae gan bawb hawl gyfartal i wasanaeth cyhoeddus yn eu gwlad.\nEwyllys y bobl fydd sail awdurdod llywodraeth; mynegir yr ewyllys hon\ndrwy etholiadau dilys o bryd i’w gilydd, drwy bleidleisio cyffredinol a\nchyfartal, a thrwy bleidlais ddirgel neu ddull pleidleisio rhydd tebyg.\nErthygl 22\nY mae gan bawb, fel aelod o gymdeithas, hawl i ddiogelwch cymdeithasol,\ni allu mwynhau hawliau economaidd, cymdeithasol a diwylliannol sy’n\nanhepgorol i’w hurddas ac i ddatblygiad rhydd eu personoliaeth, trwy\nymdrech genedlaethol a chydweithrediad rhyngwladol ac yn unol â\nthrefniadaeth ac adnoddau pob Gwladwriaeth.\nErthygl 23\nY mae gan bawb hawl i waith, i ddewis eu gyrfa yn rhydd, i amodau gwaith\ncyfiawn a boddhaol, ac i amddiffyniad rhag diweithdra.\nY mae gan bawb, yn ddiwahân, hawl i dâl cyfartal am waith cyfartal.\nY mae gan bawb sy’n gweithio hawl i dâl teg a boddhaol gan sicrhau\niddo’u hunain ac i’w teulu fodolaeth deilwng o urddas dynol, ac\nychwanegu at hynny, os bydd rhaid, drwy ffyrdd eraill o nawdd\ncymdeithasol.\nY mae gan bawb hawl i ffurfio undebau llafur ac i ymuno â hwy i\namddiffyn eu buddiannau.\nErthygl 24\nY mae gan bawb hawl i orffwys a hamdden gan gynnwys cyfyngiad rhesymol\nar oriau gwaith, ac i wyliau cyfnodol gyda thâl.",
-            "Image": "e9ec4d001ff45427d5be38541f860b52"
+            "Text": "Erthygl 18\nY mae gan bawb hawl i ryddid meddwl, cydwybod a chrefydd; fe gynnwys hyn\nryddid iddynt newid eu crefydd neu eu cred, a rhyddid hefyd, naill ai ar\neu pen eu hunain neu gydag eraill, yn gyhoeddus neu’n breifat, i amlygu\neu crefydd neu ei gred trwy addysgu, arddel, addoli a chadw defodau.\nErthygl 19\nY mae gan bawb ryddid barn a mynegiant; fe gynnwys hyn yr hawl i ryddid\nbarn, heb ymyrraeth gan neb, a rhyddid i geisio, derbyn a chyfrannu\ngwybodaeth a syniadau trwy unrhyw gyfryngau, heb ystyried ffiniau gwlad.\nErthygl 20\nY mae gan bawb hawl i ryddid ymgynnull a chymdeithasu heddychlon.\nNi ellir gorfodi neb i berthyn i unrhyw gymdeithas.\nErthygl 21\nY mae gan bawb hawl i gymryd rhan yn llywodraeth eu gwlad, yn\nuniongyrchol neu drwy gynrychiolwyr wedi eu dewis yn agored.\nY mae gan bawb hawl gyfartal i wasanaeth cyhoeddus yn eu gwlad.\nEwyllys y bobl fydd sail awdurdod llywodraeth; mynegir yr ewyllys hon\ndrwy etholiadau dilys o bryd i’w gilydd, drwy bleidleisio cyffredinol a\nchyfartal, a thrwy bleidlais ddirgel neu ddull pleidleisio rhydd tebyg.\nErthygl 22\nY mae gan bawb, fel aelod o gymdeithas, hawl i ddiogelwch cymdeithasol,\ni allu mwynhau hawliau economaidd, cymdeithasol a diwylliannol sy’n\nanhepgorol i’w hurddas ac i ddatblygiad rhydd eu personoliaeth, trwy\nymdrech genedlaethol a chydweithrediad rhyngwladol ac yn unol â\nthrefniadaeth ac adnoddau pob Gwladwriaeth.\nErthygl 23\nY mae gan bawb hawl i waith, i ddewis eu gyrfa yn rhydd, i amodau gwaith\ncyfiawn a boddhaol, ac i amddiffyniad rhag diweithdra.\nY mae gan bawb, yn ddiwahân, hawl i dâl cyfartal am waith cyfartal.\nY mae gan bawb sy’n gweithio hawl i dâl teg a boddhaol gan sicrhau\niddo’u hunain ac i’w teulu fodolaeth deilwng o urddas dynol, ac\nychwanegu at hynny, os bydd rhaid, drwy ffyrdd eraill o nawdd\ncymdeithasol.\nY mae gan bawb hawl i ffurfio undebau llafur ac i ymuno â hwy i\namddiffyn eu buddiannau.\nErthygl 24\nY mae gan bawb hawl i orffwys a hamdden gan gynnwys cyfyngiad rhesymol\nar oriau gwaith, ac i wyliau cyfnodol gyda thâl."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "40e27762c8973668e21ee85c2481d4cb",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Erthygl 25\nY mae gan bawb hawl i safon byw digonol i’w hiechyd a’u ffyniant eu\nhunain a’u teulu, gan gynnwys bwyd, dillad, annedd a gofal meddygol ac i\nwasanaethau cymdeithasol angenrheidiol; a hawl i sicrwydd cynhaliaeth os\ndigwydd diweithdra, afiechyd, anabledd, gweddwdod, henaint neu unrhyw\nfethiant bywoliaeth arall pan fo’r amgylchiadau tu hwnt i’w rheolaeth.\nY mae gan famolaeth a phlentyndod hawl i ofal a chymorth arbennig. Dylai\npob plentyn, p’un ai wedi eu geni o fewn neu du allan i briodas,\nfwynhau’r un diogelwch cymdeithasol.\nErthygl 26\nY mae gan bawb hawl i addysg. Dylai addysg fod yn rhydd, o leiaf addysg\nelfennol a sylfaenol. Dylai addysg elfennol fod yn orfodol. Dylid gwneud\naddysg dechnegol a phroffesiynol yn agored i bawb, a dylai fod mynediad\nllawn a chydradd i bawb i addysg uwchradd ar sail teilyngdod.\nDylai addysg amcanu datblygu personoliaeth llawn yr unigolyn a chryfhau\nparch i hawliau dynol a’r rhyddfreintiau sylfaenol. Dylai hyrwyddo\ndealltwriaeth, goddefgarwch a chyfeillgarwch ymysg yr holl genhedloedd\nac ymysg grwpiau hiliol neu grefyddol, a dylai hefyd hyrwyddo gwaith y\nCenhedloedd Unedig dros heddwch.\nGan rieni y mae’r hawl cyntaf i ddewis y math o addysg a roddir i’w\nplant.\nErthygl 27\nY mae gan bawb yr hawl i gymryd rhan ym mywyd diwylliannol eu\ncymdeithas, i fwynhau’r celfyddydau ac i gyfranogi o gynnydd gwyddonol\na’i fuddiannau.\nY mae gan bawb yr hawl i fynnu diogelwch i’r buddiannau moesol a materol\nsy’n deillio o unrhyw gynnyrch gwyddonol, llenyddol neu artistig y maent\nyn awdur iddo.\nErthygl 28\nY mae gan bawb hawl i drefn gymdeithasol a rhyngwladol lle y gellir\nllawn sylweddoli’r hawliau a’r rhyddfreintiau a nodir yn y Datganiad\nhwn.\nErthygl 29\nY mae gan bawb eu dyletswyddau i gymdeithas, lle yn unig y mae\ndatblygiad rhydd a llawn eu personoliaeth yn bosibl.\nNi ddylid cyfyngu ar neb, wrth iddynt arfer eu hawliau a’u\nrhyddfreintiau, ond pan bennir hynny gan gyfraith gyda’r unig amcan o\nsicrhau cydnabod a pharchu hawliau a rhyddfreintiau pobl eraill, ac i\ngyfarfod â gofynion cyfiawn moesoldeb, trefn gyhoeddus a ffyniant\ncyffredinol mewn cymdeithas ddemocrataidd.\nNi ellir arfer yr hawliau a’r rhyddfreintiau hyn mewn unrhyw achos yn",
-            "Image": "40e27762c8973668e21ee85c2481d4cb"
+            "Text": "Erthygl 25\nY mae gan bawb hawl i safon byw digonol i’w hiechyd a’u ffyniant eu\nhunain a’u teulu, gan gynnwys bwyd, dillad, annedd a gofal meddygol ac i\nwasanaethau cymdeithasol angenrheidiol; a hawl i sicrwydd cynhaliaeth os\ndigwydd diweithdra, afiechyd, anabledd, gweddwdod, henaint neu unrhyw\nfethiant bywoliaeth arall pan fo’r amgylchiadau tu hwnt i’w rheolaeth.\nY mae gan famolaeth a phlentyndod hawl i ofal a chymorth arbennig. Dylai\npob plentyn, p’un ai wedi eu geni o fewn neu du allan i briodas,\nfwynhau’r un diogelwch cymdeithasol.\nErthygl 26\nY mae gan bawb hawl i addysg. Dylai addysg fod yn rhydd, o leiaf addysg\nelfennol a sylfaenol. Dylai addysg elfennol fod yn orfodol. Dylid gwneud\naddysg dechnegol a phroffesiynol yn agored i bawb, a dylai fod mynediad\nllawn a chydradd i bawb i addysg uwchradd ar sail teilyngdod.\nDylai addysg amcanu datblygu personoliaeth llawn yr unigolyn a chryfhau\nparch i hawliau dynol a’r rhyddfreintiau sylfaenol. Dylai hyrwyddo\ndealltwriaeth, goddefgarwch a chyfeillgarwch ymysg yr holl genhedloedd\nac ymysg grwpiau hiliol neu grefyddol, a dylai hefyd hyrwyddo gwaith y\nCenhedloedd Unedig dros heddwch.\nGan rieni y mae’r hawl cyntaf i ddewis y math o addysg a roddir i’w\nplant.\nErthygl 27\nY mae gan bawb yr hawl i gymryd rhan ym mywyd diwylliannol eu\ncymdeithas, i fwynhau’r celfyddydau ac i gyfranogi o gynnydd gwyddonol\na’i fuddiannau.\nY mae gan bawb yr hawl i fynnu diogelwch i’r buddiannau moesol a materol\nsy’n deillio o unrhyw gynnyrch gwyddonol, llenyddol neu artistig y maent\nyn awdur iddo.\nErthygl 28\nY mae gan bawb hawl i drefn gymdeithasol a rhyngwladol lle y gellir\nllawn sylweddoli’r hawliau a’r rhyddfreintiau a nodir yn y Datganiad\nhwn.\nErthygl 29\nY mae gan bawb eu dyletswyddau i gymdeithas, lle yn unig y mae\ndatblygiad rhydd a llawn eu personoliaeth yn bosibl.\nNi ddylid cyfyngu ar neb, wrth iddynt arfer eu hawliau a’u\nrhyddfreintiau, ond pan bennir hynny gan gyfraith gyda’r unig amcan o\nsicrhau cydnabod a pharchu hawliau a rhyddfreintiau pobl eraill, ac i\ngyfarfod â gofynion cyfiawn moesoldeb, trefn gyhoeddus a ffyniant\ncyffredinol mewn cymdeithas ddemocrataidd.\nNi ellir arfer yr hawliau a’r rhyddfreintiau hyn mewn unrhyw achos yn"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "6b0256b3d6c94e7f61c0aed48ad39a56",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "groes i amcanion ac egwyddorion y Cenhedloedd Unedig.\nErthygl 30\nNi ellir dehongli dim yn y Datganiad hwn i olygu bod gan Wladwriaeth,\ngrp neu berson unrhyw hawl i ymroddi i unrhyw weithgarwch neu i gyflawni\nunrhyw weithred gyda’r bwriad o ddistrywio unrhyw un o’r hawliau a’r\nrhyddfreintiau a nodir yma.",
-            "Image": "6b0256b3d6c94e7f61c0aed48ad39a56"
+            "Text": "groes i amcanion ac egwyddorion y Cenhedloedd Unedig.\nErthygl 30\nNi ellir dehongli dim yn y Datganiad hwn i olygu bod gan Wladwriaeth,\ngrp neu berson unrhyw hawl i ymroddi i unrhyw weithgarwch neu i gyflawni\nunrhyw weithred gyda’r bwriad o ddistrywio unrhyw un o’r hawliau a’r\nrhyddfreintiau a nodir yma."
         }
     }
 }

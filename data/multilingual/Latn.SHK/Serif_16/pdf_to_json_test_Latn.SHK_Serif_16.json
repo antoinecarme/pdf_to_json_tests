@@ -1,80 +1,80 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581470542,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "7333591356f9266bb73beb3a55bb2499",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "MØG-A ÁCÏMMI YI KÖMI LÄBØ KI RI GÏG-A DWADDI KIPER DHANHØ BËNE\nG.A. res. 217A (III), U.N. Doc A/810 at 71 (1948)\nTHYËRØ\nKa árum yïëëyii kinni wøri bëëdi dhanhø á dhanhø pere tek, ki kinni gïn-a cwøl á\ndhanhø pär bëne, o di dwaddø kinni bëëd ji bënn ki kömi piny ki mër, ge gøgg-a dyër,\ne bong ngan geny,\nKà bëëd wøyi dhanhø nyii känø ki bëëdø me raj, ki liny geki rënyi rumi dhanhø, ka\nbëën-a di bëëd ji ge køm-a dyër e bong ngan mään kwøbi kej dhøge, o yïëye bëëde á\ncwagge kete, e dhanhø pa böggi rumø yïëyø kinni bene bëën-a tyer yi ji bënn,\nKà bëëde á gïn pere tek kinni keløg dhanhø odhalø yi räji bëëdø, nyii rumø kinni\nóyiel-a yi ngänyi wäye kipe kà guud wange, ngan ni menani di ceg ka korrø yi cigg,\nKà bëëde á gïn pere teg kinni bëëd pödhhi kömi piny bënn ki mër, e ri gen ngänyi yi\ngen,\nKà árum yïëëyii yi Buri Pödhhi Kömi Piny, ka cïb yi gen á Cigg kinni dhanhø bëne pär,\no ko mään gïndøj men-a dwdde, má ji ceg bëëdrø ga ji bënn ceth, o ge pär bënn ying\nga cwøw walà männ, ge di dwaddø kinni køny gen ki tyenyi bëëdi gen, o ge dönyi gen\nge bënn,\nKà árum yïëëyii yi Pödhh-a Yij Buri Kömi Piny, ka ge okööbø kinni ge ógöögø kiper\ntyëgi møg-a áyïëy yi gen ki gwøgø, kyeel ki Buri Pödhhi Kömi Piny, a løg kønyi\ndhanhø bëne ki wøri ree, ki korri ji bënn,\nKà örum yodii yii ji kinni gïg-a dwaddi yi dhanhø bëne päär ki kinni bëëd dhanhø wïje,\nbene gen a per gen teg kiper dhanhø bëne,\nAnan, ki bang møgani bënn,\nBuri Kömi Piny Bëne\nCeg-a cïb ki Gïg-a Dwaddi Kiper Dhanhø bëne ki Kömi Läbø; møgani cïb ga møg\nmïdhi yi ji bënn ki pödhh bënn; ge ködd-a kömi dhanhø geki tyëng-a bëëd gen ki kej\nákyel, bëëd gen ceth ge mïdh-a Møg-a Ácïb ki wädhi gen, ka gïgani pwönyi teedø,\nkiep kinni o ji dïd gen ki wøri ri gen, o gïgdwaddi møg-a ácïb kipe bëëdi ji ki wädhi\ngen ge pa böggi mïdhi ki wuödø kì yij pödhø kete ki kelli pödhhi kömi piny, kipe mïdhi\ndøøji burø kì kömi piny bëne, e ji ri gen gänyi yi gen, o ge wør-a ri gen kì yedhi\nPödhh-a Yij Buri Kömi Piny, kì kelli tyëng-a bëëdø ki yedhi pinyi pödhhani ge mïdh-a\ncigg.\nCigg 1\nDhanhø bëne ba anywølø e path ki bäng, ge pär ki yij bëëdø geki dyërø. gïn-a dwaddi\nkiper gen yï gen da rumi ki bëëdø mø göög gen ki pyëw akyel ga nyimëgg.\nCigg 2\nDhanhø bëne yïe da cwagge kipe gïn-a dwadde kí bongi bängø men-a ácïb ki yij buri\njur bënn, e bong geny, kiri jur wala kïdø wala ki bëëdø á dhajø wala jalø, wala kwøbbi\npödhø wala keløg e da rum mø bëën pödhi wun wala tha gøl wun wala jammi wala\nnywølø ki bëëdø.",
-            "Image": "7333591356f9266bb73beb3a55bb2499"
+            "Text": "MØG-A ÁCÏMMI YI KÖMI LÄBØ KI RI GÏG-A DWADDI KIPER DHANHØ BËNE\nG.A. res. 217A (III), U.N. Doc A/810 at 71 (1948)\nTHYËRØ\nKa árum yïëëyii kinni wøri bëëdi dhanhø á dhanhø pere tek, ki kinni gïn-a cwøl á\ndhanhø pär bëne, o di dwaddø kinni bëëd ji bënn ki kömi piny ki mër, ge gøgg-a dyër,\ne bong ngan geny,\nKà bëëd wøyi dhanhø nyii känø ki bëëdø me raj, ki liny geki rënyi rumi dhanhø, ka\nbëën-a di bëëd ji ge køm-a dyër e bong ngan mään kwøbi kej dhøge, o yïëye bëëde á\ncwagge kete, e dhanhø pa böggi rumø yïëyø kinni bene bëën-a tyer yi ji bënn,\nKà bëëde á gïn pere tek kinni keløg dhanhø odhalø yi räji bëëdø, nyii rumø kinni\nóyiel-a yi ngänyi wäye kipe kà guud wange, ngan ni menani di ceg ka korrø yi cigg,\nKà bëëde á gïn pere teg kinni bëëd pödhhi kömi piny bënn ki mër, e ri gen ngänyi yi\ngen,\nKà árum yïëëyii yi Buri Pödhhi Kömi Piny, ka cïb yi gen á Cigg kinni dhanhø bëne pär,\no ko mään gïndøj men-a dwdde, má ji ceg bëëdrø ga ji bënn ceth, o ge pär bënn ying\nga cwøw walà männ, ge di dwaddø kinni køny gen ki tyenyi bëëdi gen, o ge dönyi gen\nge bënn,\nKà árum yïëëyii yi Pödhh-a Yij Buri Kömi Piny, ka ge okööbø kinni ge ógöögø kiper\ntyëgi møg-a áyïëy yi gen ki gwøgø, kyeel ki Buri Pödhhi Kömi Piny, a løg kønyi\ndhanhø bëne ki wøri ree, ki korri ji bënn,\nKà örum yodii yii ji kinni gïg-a dwaddi yi dhanhø bëne päär ki kinni bëëd dhanhø wïje,\nbene gen a per gen teg kiper dhanhø bëne,\nAnan, ki bang møgani bënn,\nBuri Kömi Piny Bëne\nCeg-a cïb ki Gïg-a Dwaddi Kiper Dhanhø bëne ki Kömi Läbø; møgani cïb ga møg\nmïdhi yi ji bënn ki pödhh bënn; ge ködd-a kömi dhanhø geki tyëng-a bëëd gen ki kej\nákyel, bëëd gen ceth ge mïdh-a Møg-a Ácïb ki wädhi gen, ka gïgani pwönyi teedø,\nkiep kinni o ji dïd gen ki wøri ri gen, o gïgdwaddi møg-a ácïb kipe bëëdi ji ki wädhi\ngen ge pa böggi mïdhi ki wuödø kì yij pödhø kete ki kelli pödhhi kömi piny, kipe mïdhi\ndøøji burø kì kömi piny bëne, e ji ri gen gänyi yi gen, o ge wør-a ri gen kì yedhi\nPödhh-a Yij Buri Kömi Piny, kì kelli tyëng-a bëëdø ki yedhi pinyi pödhhani ge mïdh-a\ncigg.\nCigg 1\nDhanhø bëne ba anywølø e path ki bäng, ge pär ki yij bëëdø geki dyërø. gïn-a dwaddi\nkiper gen yï gen da rumi ki bëëdø mø göög gen ki pyëw akyel ga nyimëgg.\nCigg 2\nDhanhø bëne yïe da cwagge kipe gïn-a dwadde kí bongi bängø men-a ácïb ki yij buri\njur bënn, e bong geny, kiri jur wala kïdø wala ki bëëdø á dhajø wala jalø, wala kwøbbi\npödhø wala keløg e da rum mø bëën pödhi wun wala tha gøl wun wala jammi wala\nnywølø ki bëëdø."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "24508b275ef856d0ef116bd25e16fd30",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Cigg 3\nDhanhø bëne dwadd-a nënnì kì kömi läbø, ki bongi bängø ki kori dëële.\nCigg 4\nKo di dhanhø me mïdhi wala ngew a bäng Ngyew ki bängg ba akerø ki yëdh-a nyi\ngøgii bënn.\nCigg 5\nDhanhø ko pwöd wala dwany, wala ko göggi ki gïn-a pa nyi göggi dhanhø wala møg-a\nraj wala ko göggi ki abaarø.\nCigg 6\nDhanhø bëne di dwaddø kinni wør á dhanhø ceth ki bøli cigg.\nCigg 7\nDhanhø bëne pär ki bøli cigg, o ge dwadd-a bëëdø e bong geny, o bëëd ji bënn ge\nokorrø yi cigg.\nCigg 8\nDhanhø bëne ócuggø kedhi buri pödhø keløg e ogöggø ki raj ki kömi gëë men-a\nmëggii yi cigg.\nCigg 9\nBong dhanhø me mag wala mään wala kyeew kej megø.\nCigg 10\nDhanhø bëne bëëde e par ki ji bënn ki bøli burø. Ka gønye lidh kì burø me yije bong\ngeny kì ruj.\nCigg 11\nDhanhø men köme di cay bëëd a acwag kinni yïe bär gïti na keny-a ocayii, e cáyani\nkøøl-a kömi cigg.\nBong dhanhø men cuggi cayø kipe gïn-a gwøg yi en wala men-a nuti gwøgø yì en gïtì\nkeny-a o yodì kìnnì cigg mø pödhø wala mø kömi läbø gï pyeem en ki bøli keny-a\nocwöb kwøbani. Thyew, ko cay kí cáy mø lod møg-a caayii kì bøli keny-a acwøb\nrajjani.\nCigg 12\nKo di dhanhø me göggi ki raj kì yij bëëde wala gøle wala keny-a bëëde. wala köme ko\nkööb ki kwøb mø rënyi nyinge. Dhanhø bëne di dwaddø kinni kor yi cigg.\nCigg 13\nDhanhø bëne ba ayïëy kinni wele. wlala bëëde ki yij keew pödhø bëne.\nDhanhø bëne ba ayïëy ki dägi pödhø megø. Ócuggø dhwödhø ki pödhi gen, o ócuggø",
-            "Image": "24508b275ef856d0ef116bd25e16fd30"
+            "Text": "Cigg 3\nDhanhø bëne dwadd-a nënnì kì kömi läbø, ki bongi bängø ki kori dëële.\nCigg 4\nKo di dhanhø me mïdhi wala ngew a bäng Ngyew ki bängg ba akerø ki yëdh-a nyi\ngøgii bënn.\nCigg 5\nDhanhø ko pwöd wala dwany, wala ko göggi ki gïn-a pa nyi göggi dhanhø wala møg-a\nraj wala ko göggi ki abaarø.\nCigg 6\nDhanhø bëne di dwaddø kinni wør á dhanhø ceth ki bøli cigg.\nCigg 7\nDhanhø bëne pär ki bøli cigg, o ge dwadd-a bëëdø e bong geny, o bëëd ji bënn ge\nokorrø yi cigg.\nCigg 8\nDhanhø bëne ócuggø kedhi buri pödhø keløg e ogöggø ki raj ki kömi gëë men-a\nmëggii yi cigg.\nCigg 9\nBong dhanhø me mag wala mään wala kyeew kej megø.\nCigg 10\nDhanhø bëne bëëde e par ki ji bënn ki bøli burø. Ka gønye lidh kì burø me yije bong\ngeny kì ruj.\nCigg 11\nDhanhø men köme di cay bëëd a acwag kinni yïe bär gïti na keny-a ocayii, e cáyani\nkøøl-a kömi cigg.\nBong dhanhø men cuggi cayø kipe gïn-a gwøg yi en wala men-a nuti gwøgø yì en gïtì\nkeny-a o yodì kìnnì cigg mø pödhø wala mø kömi läbø gï pyeem en ki bøli keny-a\nocwöb kwøbani. Thyew, ko cay kí cáy mø lod møg-a caayii kì bøli keny-a acwøb\nrajjani.\nCigg 12\nKo di dhanhø me göggi ki raj kì yij bëëde wala gøle wala keny-a bëëde. wala köme ko\nkööb ki kwøb mø rënyi nyinge. Dhanhø bëne di dwaddø kinni kor yi cigg.\nCigg 13\nDhanhø bëne ba ayïëy kinni wele. wlala bëëde ki yij keew pödhø bëne.\nDhanhø bëne ba ayïëy ki dägi pödhø megø. Ócuggø dhwödhø ki pödhi gen, o ócuggø"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "09bdb841fb8d85284ba54f981ece8e67",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "ki dwöögø yije.\nCigg 14\nDhanhø bëne ba ayïëy ki yömi pödhø megø keløg wange oguudø ki pödhi gen.\nDyër menani ko mään dhanhø keløg e da guudi nying, kí mød kipe kwøbbi jyägø. wala\nkipe mø bään ki møg-a ácïb yi Buri Kömi Piny.\nCigg 15\nDhanhø bëne yïe da dyër me käbbe kí jïnsïa mi pödhø me path ki pödhi gen.\nBong dhanhø me cuggi määnø ki jïnsia mee ki mi podhø megø.\nCigg 16\nDhajø geki jalø møg-a wädhi runni nywöm yï gen da dyërø me nywøm gen ri gen, o ge\ngöög gen ki kal e bong gïn jog gen kiri kwøbbi Jwøk wala købbi jur, nimi ka nywøm\ngen ri gen, yï gen da dyër kiri nywöm geki täng.\nNywöm dwada cuggø ki kaam dhajø geki jalø e bong cïïr.\nKal áwöni pere teeg ceth ki buri ji, o kor ceth yi burani kì pödhø.\nCigg 17\nDhanhø bëne ceg bëëdø á ayïëy kí mïdhø ki jammi, ying gï mïdhe ga møge ket wala\nmøge geki ji møøgø.\nJammi dhanhø ko wöl ki kabø.\nCigg 18\nDhanhø bëne yïe da dyërø me rume, ki bëëdø ki kwøbbi Jwøk. O dyërø menani thödha\ngøn ki teegø me wile kwøbbi Jwøge wala yiëye kete wala geki ji møgø.\nCigg 19\nDhanhø bëne yïe da dyërø mi kwøb ki nyudhø ki gïn-ao røm yi en, dyërø menani wëga\nen yëyø ki rumi ji møgø e bong cïr, ócuggø tïngø ki wödd ki yï ji räädi ki wäjj e bong\nngan määnii.\nCigg 20\nDhanhø bëne yïe da dyërø me rëbe ki bur møggø ki akudd-a yedhi gïn yïdde mër.\nBong dhanhø me cir kipe o rëbe ki akud megø.\nCigg 21\nDhanhø bëne yïe da dyërø me gööge kì yij mïri mi pödhø, keløg e gsøg ki kenyani\nyood en ka cwagge wala kwa ny-a yi ji møøgø.\nDhanhø bëne yïe da dyër me nimi ngan-a kyeelø o gööge ki käjji gwögg kì yij pödhø.\nYïëyø mi ji en a re kääl yi teegi mïri, ø yiëyani kääl-a bang leeng men-a nyi leeng ji o\ncugi bëëdø a leeng tïngi cing wala men-a nyi gwed.",
-            "Image": "09bdb841fb8d85284ba54f981ece8e67"
+            "Text": "ki dwöögø yije.\nCigg 14\nDhanhø bëne ba ayïëy ki yömi pödhø megø keløg wange oguudø ki pödhi gen.\nDyër menani ko mään dhanhø keløg e da guudi nying, kí mød kipe kwøbbi jyägø. wala\nkipe mø bään ki møg-a ácïb yi Buri Kömi Piny.\nCigg 15\nDhanhø bëne yïe da dyër me käbbe kí jïnsïa mi pödhø me path ki pödhi gen.\nBong dhanhø me cuggi määnø ki jïnsia mee ki mi podhø megø.\nCigg 16\nDhajø geki jalø møg-a wädhi runni nywöm yï gen da dyërø me nywøm gen ri gen, o ge\ngöög gen ki kal e bong gïn jog gen kiri kwøbbi Jwøk wala købbi jur, nimi ka nywøm\ngen ri gen, yï gen da dyër kiri nywöm geki täng.\nNywöm dwada cuggø ki kaam dhajø geki jalø e bong cïïr.\nKal áwöni pere teeg ceth ki buri ji, o kor ceth yi burani kì pödhø.\nCigg 17\nDhanhø bëne ceg bëëdø á ayïëy kí mïdhø ki jammi, ying gï mïdhe ga møge ket wala\nmøge geki ji møøgø.\nJammi dhanhø ko wöl ki kabø.\nCigg 18\nDhanhø bëne yïe da dyërø me rume, ki bëëdø ki kwøbbi Jwøk. O dyërø menani thödha\ngøn ki teegø me wile kwøbbi Jwøge wala yiëye kete wala geki ji møgø.\nCigg 19\nDhanhø bëne yïe da dyërø mi kwøb ki nyudhø ki gïn-ao røm yi en, dyërø menani wëga\nen yëyø ki rumi ji møgø e bong cïr, ócuggø tïngø ki wödd ki yï ji räädi ki wäjj e bong\nngan määnii.\nCigg 20\nDhanhø bëne yïe da dyërø me rëbe ki bur møggø ki akudd-a yedhi gïn yïdde mër.\nBong dhanhø me cir kipe o rëbe ki akud megø.\nCigg 21\nDhanhø bëne yïe da dyërø me gööge kì yij mïri mi pödhø, keløg e gsøg ki kenyani\nyood en ka cwagge wala kwa ny-a yi ji møøgø.\nDhanhø bëne yïe da dyër me nimi ngan-a kyeelø o gööge ki käjji gwögg kì yij pödhø.\nYïëyø mi ji en a re kääl yi teegi mïri, ø yiëyani kääl-a bang leeng men-a nyi leeng ji o\ncugi bëëdø a leeng tïngi cing wala men-a nyi gwed."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "e4a7af3dbf9f8f6598d41d90f4d3a66b",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Cigg 22\nBëëdi dhanhø á ákyel kì kelli tyëng pödhø wang-a kinni, burani ki bang gsøg pödhø ki\nnywäg kömi läbø geki møg-a nywag, ki tyëny pödhø ki jamm-a nyi nywøl en ki møg-a\nkäni ki ngyëny, ki bëëdø kì kej akyel, ki øddi gwedd møg-a bong kär, ki teegi peri\ndhanhø ki kunø e bong bäängø kipe dhanhø.\nCigg 23\nDhanhø bëne yïe da dyër o gööge; ki gwøng-a dwaddi yi en, ka pödhø kore o bëëdø e\nbong ngan jad ki gwøg.\nNyi cuddi dhanhø kì köögi men-a kyëëw ki gwøng-a gwøge e bong geny.\nDhanhø bëne men-a göögø yïe da dyërø me cudii ki köögi men rømi kipere kí gøle.\nDhanhø bëne yïe da dyërø me køøgii keny-a órum gwøge á (makäpï) me köme pädhi\nyi en geki gøle, o köme ócuggø ki kïdhø kipe kinni wange ko cyäni keny-a ódøøg cinge\nree.\nCigg 24\nDhanhø bëne yïe da dyërø kipe cyäng ywömø ka cuddi ceth keløg e ogöögø ki cyääng\nywömø.\nCigg 25\nDhanhø bëne yïe da dyërø ki yij bëëdø, kipe kori dëële, ki cwage, ki gøle, gïgcaam, ki\nogødh, ki ød, kori rämi dël ki jam døj kipe bëëdø, thyew ki dyër me korii ke bong yïe\ngwøg, rämi dël nyødhi dël, ki kïjø, ki döng.\nMëgg ki othønhø yï gen da dyër mi kori gen ki kønyi gen, othønhø bënn dwata korø,\nmøg-a nywøl kiri yuu nywöm wala møg-a nywø1 ki yëdhh møøgø.\nCigg 26\nDhanhø bëne yïe da dyërø mi dïdø ki gwed ka cugge. Gwed dwatá bëëd e bang gïn\ncol. Ka dwate bëëd a cïr kipe cukø, yiëy nyi gwed wala nyi gwed ki ød gwed men-a\nying mal dwatá käl bang pödhø me.\nDïdø dwata bëëdø á men tïng bëëdi dhanhø o wøre dyërø ki bongi bängø kipe lïngi\ndhøg, ki dwög laaw piny ki kelli teedø ki kelli jur møg-a gënyø, ki tyëng kwøbbi Jwøk\nmøg- a bän, møgani køny-a tyëng buri kömi läbø ki kori mër.\nWëgg yï gen da dyër kipe yeny yöö men-a dïd yi nywølli gen.\nCigg 27\nDhanhø bëne yïe da dyërø me nywäge kiri kwöng bëëdi ji ki kunyø kipe dïdø.\nDhanhø bëne yïe da dyër kipe kori köngi ki jamm-a nywø1 yi dïdø.\nCigg 28\nBëëd dhanhø e okorø yi cigg møg; gen a cigg-a ácïb ga møg ri gen bëëd yi pödhø kí\nbëëndøj geki pödhh-a kyeelø e da korri gïg-a dwaddi kipe døøji burø, ki täbbø, ni ka\nácïb gen ceth ga møg mïdhi.",
-            "Image": "e4a7af3dbf9f8f6598d41d90f4d3a66b"
+            "Text": "Cigg 22\nBëëdi dhanhø á ákyel kì kelli tyëng pödhø wang-a kinni, burani ki bang gsøg pödhø ki\nnywäg kömi läbø geki møg-a nywag, ki tyëny pödhø ki jamm-a nyi nywøl en ki møg-a\nkäni ki ngyëny, ki bëëdø kì kej akyel, ki øddi gwedd møg-a bong kär, ki teegi peri\ndhanhø ki kunø e bong bäängø kipe dhanhø.\nCigg 23\nDhanhø bëne yïe da dyër o gööge; ki gwøng-a dwaddi yi en, ka pödhø kore o bëëdø e\nbong ngan jad ki gwøg.\nNyi cuddi dhanhø kì köögi men-a kyëëw ki gwøng-a gwøge e bong geny.\nDhanhø bëne men-a göögø yïe da dyërø me cudii ki köögi men rømi kipere kí gøle.\nDhanhø bëne yïe da dyërø me køøgii keny-a órum gwøge á (makäpï) me köme pädhi\nyi en geki gøle, o köme ócuggø ki kïdhø kipe kinni wange ko cyäni keny-a ódøøg cinge\nree.\nCigg 24\nDhanhø bëne yïe da dyërø kipe cyäng ywömø ka cuddi ceth keløg e ogöögø ki cyääng\nywömø.\nCigg 25\nDhanhø bëne yïe da dyërø ki yij bëëdø, kipe kori dëële, ki cwage, ki gøle, gïgcaam, ki\nogødh, ki ød, kori rämi dël ki jam døj kipe bëëdø, thyew ki dyër me korii ke bong yïe\ngwøg, rämi dël nyødhi dël, ki kïjø, ki döng.\nMëgg ki othønhø yï gen da dyër mi kori gen ki kønyi gen, othønhø bënn dwata korø,\nmøg-a nywøl kiri yuu nywöm wala møg-a nywø1 ki yëdhh møøgø.\nCigg 26\nDhanhø bëne yïe da dyërø mi dïdø ki gwed ka cugge. Gwed dwatá bëëd e bang gïn\ncol. Ka dwate bëëd a cïr kipe cukø, yiëy nyi gwed wala nyi gwed ki ød gwed men-a\nying mal dwatá käl bang pödhø me.\nDïdø dwata bëëdø á men tïng bëëdi dhanhø o wøre dyërø ki bongi bängø kipe lïngi\ndhøg, ki dwög laaw piny ki kelli teedø ki kelli jur møg-a gënyø, ki tyëng kwøbbi Jwøk\nmøg- a bän, møgani køny-a tyëng buri kömi läbø ki kori mër.\nWëgg yï gen da dyër kipe yeny yöö men-a dïd yi nywølli gen.\nCigg 27\nDhanhø bëne yïe da dyërø me nywäge kiri kwöng bëëdi ji ki kunyø kipe dïdø.\nDhanhø bëne yïe da dyër kipe kori köngi ki jamm-a nywø1 yi dïdø.\nCigg 28\nBëëd dhanhø e okorø yi cigg møg; gen a cigg-a ácïb ga møg ri gen bëëd yi pödhø kí\nbëëndøj geki pödhh-a kyeelø e da korri gïg-a dwaddi kipe døøji burø, ki täbbø, ni ka\nácïb gen ceth ga møg mïdhi."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "40fb18f89eab4d4e84d5454b974eda68",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Cigg 29\nDhanhø bëne yïe da mwøg me dwati gwøgø yi en ki buri ji.\nKiri gwøøg dyër ki bongi bääng, dhanhø bëne dwata bëëd nimi ka dwatii yi cigg, kipe\nkori yiëyø ki wøri dyër kí bongi bäängø mi ji møøgø.\nDyër møgani kí bongi bäängø, mïdhi gen ceth kí yuu-a dwaddi yi Buri Pödhhi Kömi\nPiny.\nCigg 30\nKi yij nyudhø men, bong gïn cuggi løgø me nëngi pödhø wala ji wala dhanhø ki teegø\nme gööge kipe rënyi gïg-a ácïb møg ki bongi bäängø mø bään ki møg-a ácïb ki yij\nwänyø men; a 1øg Møg-a Acïb yi Buri Pödhhi Kömi Piny.",
-            "Image": "40fb18f89eab4d4e84d5454b974eda68"
+            "Text": "Cigg 29\nDhanhø bëne yïe da mwøg me dwati gwøgø yi en ki buri ji.\nKiri gwøøg dyër ki bongi bääng, dhanhø bëne dwata bëëd nimi ka dwatii yi cigg, kipe\nkori yiëyø ki wøri dyër kí bongi bäängø mi ji møøgø.\nDyër møgani kí bongi bäängø, mïdhi gen ceth kí yuu-a dwaddi yi Buri Pödhhi Kömi\nPiny.\nCigg 30\nKi yij nyudhø men, bong gïn cuggi løgø me nëngi pödhø wala ji wala dhanhø ki teegø\nme gööge kipe rënyi gïg-a ácïb møg ki bongi bäängø mø bään ki møg-a ácïb ki yij\nwänyø men; a 1øg Møg-a Acïb yi Buri Pödhhi Kömi Piny."
         }
     }
 }

@@ -1,183 +1,183 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581466839,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "6e2bd186631ad0355000c7a292b8dbf8",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Arrpa' anaret ̃ allohuen allpon derechos ñeñt ̃ e'ñe po'ñoc̈ h yocop ñeñt̃ cha' atet ̃ yep̃ a'yena allohueney\nacheñeneshay ama't errap̃ aren arr patsro\nAhuat ̃ añ fecha 10 de diciembre 1948 ñeñt ̃ Asamblea General de las Naciones Unidas, ñetpa' quellquët ora\nallpon derechos ñeñt ̃ e'ñe po'ñoc̈ h yocop allohuenacpay acheñeneshay ama't errap̃ aren arr patsro. Allochñapa'\norrtachet añ ñoñets ñeñt ̃ atet ̃ anaret ̃ derechos; ñeñt̃ pa' ñeñt̃ ara orrtetsa arr añ pap̃ llo. Allempo o' orrtachet añ\npapell ñapa' otyesan ora allohuen anetsoc̈ hno ñeñt ̃ orrtatene Naciones Unidas, t̃ orretepa' att̃ och epa'hua añ\nñoñets errap̃ aren arr patsro. Orrtachetepa' erracmañen allcha' lleya'yeset ora allpon pa'namen acheñenesha'\narr patsro. Nam̃ a yec̈ hatyesetepa' añ derechos ora allpon escuelac̈ hno ñam̃ a ora allohuen anetsoc̈ hno ama't\nerrot̃ eneta po'gobiernoret.\nÑeñt ̃ ñanom\nYapa' yeñoteñ ñerra'm yemneñ o'ch yeyc̈ hena e'ñe cohuen añe patsro, ama yemneñe o'ch eñalleta ñeñtcha'\nyepatare'tene' ñeñt ̃ yoct̃ en ya; ñam̃ ia ñeñt ̃ cha' ya'm̃ cha'noc̈ htana'tenaya ama yemneñe o'ch orrta.\nÑerra'm yemneñ o'ch e'ñe pocte' es yep̃ anna'ta ñam̃ a ñerra'm yemneñ o'ch e'ñe cohuen mueche't ̃ yeyc̈ hena\nañe patsro, añ poctetsa o'ch yeñotua. Att̃ o ye'ñalletyesa arr patsro e'ñe att̃ ecma cohuen yesherb̃ a'yen\nallohueney ñeñt̃ ey yec̈ ha'yetsa añe patsro, amach eñalle ñeñt ̃ atsenatpo' entenet.\nÑam̃ a allohuenacpay ñeñt̃ ey arromñat̃ ey e'ñe att̃ ecma eñall ñeñt ̃ otenet derechos ñeñt̃ cha' e'ñe cohuen\nyocshatene' añe patsro. Ñeñt̃ pa' ama't eseshapa' amach puerratam̃ perryeto ama't errponaña. Tarraña yeñoteñ\nahuat̃ ot̃ eñ ñerra'm esempo acheñenesha'pa' ama esoye eñchete't̃ e añ derechos, ñetpa' errot̃ uanen p̃ a'yesete't\npo'potantañ ñeñt̃ tsena'tenet. Ñeñt̃ pa' yeñoteñ yeyoc̈ hro ama ap̃ apahuoyaye. Ñam̃ a yeñoteñ añ atarr cohuen\nallohuenacpay ñerra'm chap allempo allohueney e'ñe cohueno'tsa'yeney arr patsro. T̃ arro'mar ñerra'm atet\nyocsha'yena arr patsro amach es ya'm̃ cha' - nochtana'tenaye, amach eñalle ñeñt ̃ cha' yemueroc̈ htatene'. Ama't\nallempo es yeños po'poñ ñeñt ̃ cohuen yenten ya, amach eñalle ñeñt ̃ cha' yote' eso'mart̃ e' peñen po'poñ",
-            "Image": "6e2bd186631ad0355000c7a292b8dbf8"
+            "Text": "Arrpa' anaret ̃ allohuen allpon derechos ñeñt ̃ e'ñe po'ñoc̈ h yocop ñeñt̃ cha' atet ̃ yep̃ a'yena allohueney\nacheñeneshay ama't errap̃ aren arr patsro\nAhuat ̃ añ fecha 10 de diciembre 1948 ñeñt ̃ Asamblea General de las Naciones Unidas, ñetpa' quellquët ora\nallpon derechos ñeñt ̃ e'ñe po'ñoc̈ h yocop allohuenacpay acheñeneshay ama't errap̃ aren arr patsro. Allochñapa'\norrtachet añ ñoñets ñeñt ̃ atet ̃ anaret ̃ derechos; ñeñt̃ pa' ñeñt̃ ara orrtetsa arr añ pap̃ llo. Allempo o' orrtachet añ\npapell ñapa' otyesan ora allohuen anetsoc̈ hno ñeñt ̃ orrtatene Naciones Unidas, t̃ orretepa' att̃ och epa'hua añ\nñoñets errap̃ aren arr patsro. Orrtachetepa' erracmañen allcha' lleya'yeset ora allpon pa'namen acheñenesha'\narr patsro. Nam̃ a yec̈ hatyesetepa' añ derechos ora allpon escuelac̈ hno ñam̃ a ora allohuen anetsoc̈ hno ama't\nerrot̃ eneta po'gobiernoret.\nÑeñt ̃ ñanom\nYapa' yeñoteñ ñerra'm yemneñ o'ch yeyc̈ hena e'ñe cohuen añe patsro, ama yemneñe o'ch eñalleta ñeñtcha'\nyepatare'tene' ñeñt ̃ yoct̃ en ya; ñam̃ ia ñeñt ̃ cha' ya'm̃ cha'noc̈ htana'tenaya ama yemneñe o'ch orrta.\nÑerra'm yemneñ o'ch e'ñe pocte' es yep̃ anna'ta ñam̃ a ñerra'm yemneñ o'ch e'ñe cohuen mueche't ̃ yeyc̈ hena\nañe patsro, añ poctetsa o'ch yeñotua. Att̃ o ye'ñalletyesa arr patsro e'ñe att̃ ecma cohuen yesherb̃ a'yen\nallohueney ñeñt̃ ey yec̈ ha'yetsa añe patsro, amach eñalle ñeñt ̃ atsenatpo' entenet.\nÑam̃ a allohuenacpay ñeñt̃ ey arromñat̃ ey e'ñe att̃ ecma eñall ñeñt ̃ otenet derechos ñeñt̃ cha' e'ñe cohuen\nyocshatene' añe patsro. Ñeñt̃ pa' ama't eseshapa' amach puerratam̃ perryeto ama't errponaña. Tarraña yeñoteñ\nahuat̃ ot̃ eñ ñerra'm esempo acheñenesha'pa' ama esoye eñchete't̃ e añ derechos, ñetpa' errot̃ uanen p̃ a'yesete't\npo'potantañ ñeñt̃ tsena'tenet. Ñeñt̃ pa' yeñoteñ yeyoc̈ hro ama ap̃ apahuoyaye. Ñam̃ a yeñoteñ añ atarr cohuen\nallohuenacpay ñerra'm chap allempo allohueney e'ñe cohueno'tsa'yeney arr patsro. T̃ arro'mar ñerra'm atet\nyocsha'yena arr patsro amach es ya'm̃ cha' - nochtana'tenaye, amach eñalle ñeñt ̃ cha' yemueroc̈ htatene'. Ama't\nallempo es yeños po'poñ ñeñt ̃ cohuen yenten ya, amach eñalle ñeñt ̃ cha' yote' eso'mart̃ e' peñen po'poñ"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "354b11f456d6d2b108814aa1cff69edd",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "cot̃ ap̃ ñats. Ñerra'm yapa' yame'ñeña po'poñ ñeñt ̃ cohuen yenten ya amach eñalle ñeñt̃ cha' yepatare'tene'.\nÑeñt ̃ o'mar yeñoteñ e'ñe pocte' o'ch yene' ñoñets att̃ och yeñotatanna'tyena ora allpon añ derechos att̃ och\nallohueney e'ñech cohuen yentannena allochñapa' amach eñalle acheñ ñeñt ̃ amueroc̈ htataret̃ tetsa.\nAllochñapa' amach orrtateneto at̃ parñats ñeñt ̃ atet̃ amueroc̈ htatarettenet.\nÑam̃ a yeñoteñ e'ñe pocte' e'ñech cohuen yamo'tstannena po'poñ acheñenesha' ñeñt ̃ yec̈ ha'yetsa po'poñ\nanetso'mar arr patsro.\nÑam̃ a yeñoteñ allohuen allpon pa'namen anetso'marnesha' ñeñt ̃ orrtatene ñeñt ̃ otenet Naciones Unidas, ñetpa\nñeñt̃ a e'ñe cohuen entenet ñet. Ñeñt̃ o'mar ñet nenet ñoñets all quellco att̃ o allohueney arromñat̃ ey ñeñt̃ ey\neñalletyetsa arr patsro e'ñech att̃ ecma cohuen yesherb̃ a'yen ñam̃ a allohuenacpay att̃ ecma eñall ñeñt̃ otenet\nderechos att̃ och e'ñe cohuen yocsha'yena arr patsro allohueney ama t coyaneshohuen. Ñeñt ̃ o'mar ñetpa' añ\ne'nenet o'ch orrtatenet ñeñt ̃ cohuen sherbets allohuenacpay acheñeneshay arr patsro. Allochñapa' att̃ och\nallo'na yesen yenpanna'tnomtsa att̃ och yocsha'yena e'ñe cohuen arr patsro o'ch yechyen ñeñt̃ yepallta'yena\nñam̃ a amach eñalle ñeñt ̃ am̃ cha 'noc̈ htana 'tenaye, e 'ñech cohueno 'tsa 'yeney.\nÑam̃ a yeñoteñ allohuen pa'namen anetso' marnesha' ñeñt ̃ orrtatene' Naciones Unidas ñetpa' net po'ñoñ att̃ och\nt̃ orra'yeset att̃ och ame'ñachet allohuen acheñenesha' ñeñt ̃ errap̃ aro'tsa'yenet añ patsro, allochñapa' att̃ och\ne'ñech cohuen entuenet añ derechos ñamet; ñeñt̃ pa' allohuenacpuet e'ñech cohueno'tsa'yenet.\nÑam̃ a yeñoteñ ñerra'm po'ñoc̈ h e'ñech cohuen yetsotuer e'ñe atet ̃ yene' yeñoñ añ poctetsa o'ch yeñotatanna'ta\nañ derechos ñeñt ̃ allohuenacpay allochñapa' e'ñech cohueno'tsa 'yeney.\nÑeñt̃ o'mar t̃ e'pa'\nASSAMBLEA GENERAL ñeñt̃ ara Naciones Unidas arrpa' orrtatenet\nORA ALLPON DERECHOS NENT ALLOHUENACPAY NENTEY PA'NAMENEY ACHENENESHAY.",
-            "Image": "354b11f456d6d2b108814aa1cff69edd"
+            "Text": "cot̃ ap̃ ñats. Ñerra'm yapa' yame'ñeña po'poñ ñeñt ̃ cohuen yenten ya amach eñalle ñeñt̃ cha' yepatare'tene'.\nÑeñt ̃ o'mar yeñoteñ e'ñe pocte' o'ch yene' ñoñets att̃ och yeñotatanna'tyena ora allpon añ derechos att̃ och\nallohueney e'ñech cohuen yentannena allochñapa' amach eñalle acheñ ñeñt ̃ amueroc̈ htataret̃ tetsa.\nAllochñapa' amach orrtateneto at̃ parñats ñeñt ̃ atet̃ amueroc̈ htatarettenet.\nÑam̃ a yeñoteñ e'ñe pocte' e'ñech cohuen yamo'tstannena po'poñ acheñenesha' ñeñt ̃ yec̈ ha'yetsa po'poñ\nanetso'mar arr patsro.\nÑam̃ a yeñoteñ allohuen allpon pa'namen anetso'marnesha' ñeñt ̃ orrtatene ñeñt ̃ otenet Naciones Unidas, ñetpa\nñeñt̃ a e'ñe cohuen entenet ñet. Ñeñt̃ o'mar ñet nenet ñoñets all quellco att̃ o allohueney arromñat̃ ey ñeñt̃ ey\neñalletyetsa arr patsro e'ñech att̃ ecma cohuen yesherb̃ a'yen ñam̃ a allohuenacpay att̃ ecma eñall ñeñt̃ otenet\nderechos att̃ och e'ñe cohuen yocsha'yena arr patsro allohueney ama t coyaneshohuen. Ñeñt ̃ o'mar ñetpa' añ\ne'nenet o'ch orrtatenet ñeñt ̃ cohuen sherbets allohuenacpay acheñeneshay arr patsro. Allochñapa' att̃ och\nallo'na yesen yenpanna'tnomtsa att̃ och yocsha'yena e'ñe cohuen arr patsro o'ch yechyen ñeñt̃ yepallta'yena\nñam̃ a amach eñalle ñeñt ̃ am̃ cha 'noc̈ htana 'tenaye, e 'ñech cohueno 'tsa 'yeney.\nÑam̃ a yeñoteñ allohuen pa'namen anetso' marnesha' ñeñt ̃ orrtatene' Naciones Unidas ñetpa' net po'ñoñ att̃ och\nt̃ orra'yeset att̃ och ame'ñachet allohuen acheñenesha' ñeñt ̃ errap̃ aro'tsa'yenet añ patsro, allochñapa' att̃ och\ne'ñech cohuen entuenet añ derechos ñamet; ñeñt̃ pa' allohuenacpuet e'ñech cohueno'tsa'yenet.\nÑam̃ a yeñoteñ ñerra'm po'ñoc̈ h e'ñech cohuen yetsotuer e'ñe atet ̃ yene' yeñoñ añ poctetsa o'ch yeñotatanna'ta\nañ derechos ñeñt ̃ allohuenacpay allochñapa' e'ñech cohueno'tsa 'yeney.\nÑeñt̃ o'mar t̃ e'pa'\nASSAMBLEA GENERAL ñeñt̃ ara Naciones Unidas arrpa' orrtatenet\nORA ALLPON DERECHOS NENT ALLOHUENACPAY NENTEY PA'NAMENEY ACHENENESHAY."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "b346121ee96b77b684ef44b319b0b081",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Allochñapa' att̃ och allohuen c̈ hocmach yeyerpa'yena allohuen derechos ñeñt ̃ aquellcaret̃ tetsa arr. Ñam̃ a\nc̈ hocma yeyc̈ hach po'potantañ att̃ och ñetpa'c̈ ho'ña e'ñech cohuen am̃ cha na'tpo' entuenet ñamet añ derechos.\nAllochñapa' att̃ och ama't erracmañen arr patsro eñotueretcha' añ derechos ñam̃ a po'ñoc̈ h atet̃ cha' cohuen\nyemorrentanna'tuerra. Ñeñt̃ pa' att̃ epa'ch perra arr yepatsño ama't ñam̃ a ora errap̃ aren po'potantañ anetso'mar\narr patsro. Att̃ epa'ch perra allohuen anetso'marnesha' ñeñt ̃ orrtatene' Naciones Unidas ama't ñam̃ a po'potantañ\nñeñt̃ yenpuenet ñet. Allpon derechos ñeñt ̃ yechyen att̃ och e'ñech cohuen yeyc̈ ha'yena arr patsro ñeñtpa'\nañec̈ hno:\nCot̃ ap̃ ñats 1.\nAllohueney ñeñtey arromñatey att̃ o ye'ñalletyesa arr patsro e'ñe att̃ ecma cohuen yesherb̃ a'yen. Ñam̃ a yechyen\nallpon derechos att̃ och e'ñech cohueno'tsa'yeney arr patsro. Ñam̃ a allohuen att̃ ecma yechyen alloch yoct̃ ape'\nchyen cohuen ñam̃ a yeñotyen yeyoc̈ hro ñeñt ̃ e'ne pocte' enten acheñenesha' ñam̃ a ñeñt ̃ ama pocteye' enteneto.\nYeñoteñ añ poctetsa e'ñe yemo'nasheñ yep̃ annena ama't ora allohuen allpon acheñenesha' ñeñt ̃ añe\npatsro'tsa'yeney.\nCot̃ ap̃ ñats 2.\nOra allohuen allpon acheñenesha' ñeñt ̃ añe patsro'tsa'yen, att̃ ecma echyenet añ derechos att̃ och e'ñe cohuen\nyec̈ ha'yenet arr patsro. Allohuenet att̃ ecma echyenet añ derechos ama't erra'tsent̃ e' po'm̃ reñtsoret penet, ñam̃ a\nama't errot̃ ena orrtenet, ama't quelluareret ama't ñam̃ a ñeñt ̃ huallama't̃ areret, ama't coyaneshohuenet att̃ ecma\nechenet añ derechos. Ñam̃ a ama't erra'tsent̃ e' ñeñt ̃ po'yomporer penet ñam̃ a ama't erra'tsen cot̃ ape'chyenet\nñeñt ̃ cohuen entyenet po' gobiernocop ama't po'poñ poct̃ ap̃ ñar e'ñe att̃ ecma echenet añ derechos ñeñt\nallohuenacpay ñeñt̃ ey arromñat̃ ey arr patsro.\nAma't ñeñt ̃ huocchañetets arr patsro, ñeñt ̃ ama es echyetso arr patsro ñeñt ̃ ama esoye' enteneto, ñetpa'c̈ ho'ña\ne'ñe att̃ ecma echenet añ derechos ñeñt ̃ allohuenacpay ñeñt ̃ ey arromñat̃ ey. Ñam̃ a att̃ ecma echenet añ",
-            "Image": "b346121ee96b77b684ef44b319b0b081"
+            "Text": "Allochñapa' att̃ och allohuen c̈ hocmach yeyerpa'yena allohuen derechos ñeñt ̃ aquellcaret̃ tetsa arr. Ñam̃ a\nc̈ hocma yeyc̈ hach po'potantañ att̃ och ñetpa'c̈ ho'ña e'ñech cohuen am̃ cha na'tpo' entuenet ñamet añ derechos.\nAllochñapa' att̃ och ama't erracmañen arr patsro eñotueretcha' añ derechos ñam̃ a po'ñoc̈ h atet̃ cha' cohuen\nyemorrentanna'tuerra. Ñeñt̃ pa' att̃ epa'ch perra arr yepatsño ama't ñam̃ a ora errap̃ aren po'potantañ anetso'mar\narr patsro. Att̃ epa'ch perra allohuen anetso'marnesha' ñeñt ̃ orrtatene' Naciones Unidas ama't ñam̃ a po'potantañ\nñeñt̃ yenpuenet ñet. Allpon derechos ñeñt ̃ yechyen att̃ och e'ñech cohuen yeyc̈ ha'yena arr patsro ñeñtpa'\nañec̈ hno:\nCot̃ ap̃ ñats 1.\nAllohueney ñeñtey arromñatey att̃ o ye'ñalletyesa arr patsro e'ñe att̃ ecma cohuen yesherb̃ a'yen. Ñam̃ a yechyen\nallpon derechos att̃ och e'ñech cohueno'tsa'yeney arr patsro. Ñam̃ a allohuen att̃ ecma yechyen alloch yoct̃ ape'\nchyen cohuen ñam̃ a yeñotyen yeyoc̈ hro ñeñt ̃ e'ne pocte' enten acheñenesha' ñam̃ a ñeñt ̃ ama pocteye' enteneto.\nYeñoteñ añ poctetsa e'ñe yemo'nasheñ yep̃ annena ama't ora allohuen allpon acheñenesha' ñeñt ̃ añe\npatsro'tsa'yeney.\nCot̃ ap̃ ñats 2.\nOra allohuen allpon acheñenesha' ñeñt ̃ añe patsro'tsa'yen, att̃ ecma echyenet añ derechos att̃ och e'ñe cohuen\nyec̈ ha'yenet arr patsro. Allohuenet att̃ ecma echyenet añ derechos ama't erra'tsent̃ e' po'm̃ reñtsoret penet, ñam̃ a\nama't errot̃ ena orrtenet, ama't quelluareret ama't ñam̃ a ñeñt ̃ huallama't̃ areret, ama't coyaneshohuenet att̃ ecma\nechenet añ derechos. Ñam̃ a ama't erra'tsent̃ e' ñeñt ̃ po'yomporer penet ñam̃ a ama't erra'tsen cot̃ ape'chyenet\nñeñt ̃ cohuen entyenet po' gobiernocop ama't po'poñ poct̃ ap̃ ñar e'ñe att̃ ecma echenet añ derechos ñeñt\nallohuenacpay ñeñt̃ ey arromñat̃ ey arr patsro.\nAma't ñeñt ̃ huocchañetets arr patsro, ñeñt ̃ ama es echyetso arr patsro ñeñt ̃ ama esoye' enteneto, ñetpa'c̈ ho'ña\ne'ñe att̃ ecma echenet añ derechos ñeñt ̃ allohuenacpay ñeñt ̃ ey arromñat̃ ey. Ñam̃ a att̃ ecma echenet añ"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "c942c3234d4d515e71518fe150aed3ed",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "derechos ama't erra'tsena anets all yec̈ ha'yenet ñam̃ a ama't errot̃ en po'gobierno echenet all pa'netsro. Ama't\npo'gobierno am̃ cha'noc̈ htana'tanetañ amapa' e'ñe cohueno'tsa 'yenet e'ñe att̃ ecma echenet añ derechos ñeñt\nallohuenacpay ñeñt̃ ey arromñat̃ ey arr patsro.\nCot̃ ap̃ ñats 3.\nAllohueney yechen derecho o'ch yocrrena arr patsro amach eñalle ñeñt̃ cha' am̃ icha'noc̈ htana'tenaya. Elloña\neñall ñeñt̃ cha' yemoñenaya.\nCot̃ ap̃ ñats 4.\nAma't puesheñarraya acheñey amach ataruasataret̃ eye e'ñe att̃ a. Amuepa'ch pomueñeto acheñ ñeñt̃ cha'\ntaruasatenet e'ñe att̃ a, ama't errot̃ ena.\nCot̃ ap̃ ñats 5.\nAma't puesheñarra amuepa'ch amueroc̈ htataret̃ teno ene att̃ a, amach atserrp̃ aret̃ teneto atet̃ ñerra 'mrrat̃ e' berr\natserrpenet.\nCot̃ ap̃ ñats 6.\nOra allpon leyes ñeñt ̃ anaret̃ e'tyetsa allohuen acheñeneshacop ñeñt̃ pa' ñeñt̃ cha' a'poctatyenahuet ama't\npuesheña'ttset ñerra'm esempo echyenet problema.\nCot̃ ap̃ ñats 7.\nAmach eñalle acheñ ñeñt̃ ecop ama sherbeno añ leyes ñeñt ̃ atet ̃ anaret̃ . Att̃ ecmach yenpuenana ama't\nallohuen acheñenesha', amach eñalle acheñ ñeñt̃ ama amorrentaret̃ eyaye. Ñam̃ a añ derechos ñeñt ̃ aquellcaret\narr, ñeñt̃ pa'c̈ ho'ña att̃ ecmach allohuenacop ñeñt̃ cha' moñenaya ama 't erra'tsena acheñer ñerra'm esempo eñall\nñeñt̃ cha' puerratam̃ psahuetañ añ derechos.",
-            "Image": "c942c3234d4d515e71518fe150aed3ed"
+            "Text": "derechos ama't erra'tsena anets all yec̈ ha'yenet ñam̃ a ama't errot̃ en po'gobierno echenet all pa'netsro. Ama't\npo'gobierno am̃ cha'noc̈ htana'tanetañ amapa' e'ñe cohueno'tsa 'yenet e'ñe att̃ ecma echenet añ derechos ñeñt\nallohuenacpay ñeñt̃ ey arromñat̃ ey arr patsro.\nCot̃ ap̃ ñats 3.\nAllohueney yechen derecho o'ch yocrrena arr patsro amach eñalle ñeñt̃ cha' am̃ icha'noc̈ htana'tenaya. Elloña\neñall ñeñt̃ cha' yemoñenaya.\nCot̃ ap̃ ñats 4.\nAma't puesheñarraya acheñey amach ataruasataret̃ eye e'ñe att̃ a. Amuepa'ch pomueñeto acheñ ñeñt̃ cha'\ntaruasatenet e'ñe att̃ a, ama't errot̃ ena.\nCot̃ ap̃ ñats 5.\nAma't puesheñarra amuepa'ch amueroc̈ htataret̃ teno ene att̃ a, amach atserrp̃ aret̃ teneto atet̃ ñerra 'mrrat̃ e' berr\natserrpenet.\nCot̃ ap̃ ñats 6.\nOra allpon leyes ñeñt ̃ anaret̃ e'tyetsa allohuen acheñeneshacop ñeñt̃ pa' ñeñt̃ cha' a'poctatyenahuet ama't\npuesheña'ttset ñerra'm esempo echyenet problema.\nCot̃ ap̃ ñats 7.\nAmach eñalle acheñ ñeñt̃ ecop ama sherbeno añ leyes ñeñt ̃ atet ̃ anaret̃ . Att̃ ecmach yenpuenana ama't\nallohuen acheñenesha', amach eñalle acheñ ñeñt̃ ama amorrentaret̃ eyaye. Ñam̃ a añ derechos ñeñt ̃ aquellcaret\narr, ñeñt̃ pa'c̈ ho'ña att̃ ecmach allohuenacop ñeñt̃ cha' moñenaya ama 't erra'tsena acheñer ñerra'm esempo eñall\nñeñt̃ cha' puerratam̃ psahuetañ añ derechos."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "6e0beaf531c30aa0337d39e368d1f88e",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Cot̃ ap̃ ñats 8.\nÑam̃ a ñerra'm esempo esesha'pa' mueneneñ o'ch puerratam̃ psan acheñenesha' añ derechos ñetpa' e'ñe pocte\no'ch e'nenet autoridades ñeñt̃ cha' a'poctaterrahuet ñeñt ̃ atet ̃ anaret ̃ po'leyes ñam̃ a po'constitución.\nCot̃ ap̃ ñats 9.\nAmuepa'ch arrmataret̃ teno acheñ e'ñe att̃ a. Amuepa'ch yottam̃ pesyeneto acheñ e'ñe att̃ a. Amuepa'ch mueño '\nteneto acheñ b̃ ac̈ hayo allcha' mueroc̈ htena.\nCot̃ ap̃ ñats 10.\nÑam̃ a allohuen acheñenesha' ama't esesha' ñerra'm esempo otteñe'charet̃ tena ñapa' echenancha' derecho o'ch\na'poctater ñoñets e'ñe cohuen juezesho. Juezpa' e'ñech cohuen o'ch eñoch ñerra'm po'ñoc̈ h atet ̃ o' p̃ ohua.\nAmach e'ñe att̃ a atserrpeñeto. Ñam̃ a ñeñt ̃ otteñe'charet̃ tetsa juezpa' o'ch eñotach ñeñt ̃ derechos echen ñam̃ a\nñeñt ̃ po'deberes. Amach es a'nahua o'pateñeto ama't puesheñarra acheñ.\nCot̃ ap̃ ñats 11.\nÑam̃ a ama't esesha' ñeñt ̃ otteñe'charet̃ tetsa allo'tsen autoridades, amuepa'ch ahuen otatsteto autoridades añ\nacheñ po'ñoc̈ h atet ̃ o' p̃ ohua. Añcha' ñanom e'm̃ ñochetepa' ñeñt̃ cha' yenpuene' ñeñt ̃ otteñe'charet̃ tetsa. E'ñech\ncohuen acop̃ a eñochet po'ñoc̈ ht̃ e' atet̃ o' p̃ ohua. Ñeñt̃ pa' atet̃ cha' penet allo'tsa'yen shonte' acheñenesha',\namuepa'ch a'nahua o'pateñeto.\nÑam̃ a añecpuepa'ch coñchachet acheñ ñeñt ̃ at̃ pare'tene' ñoñets ñeñt ̃ atet̃ anaret̃ e'ñe allempo. Ñam̃ a ñeñt ̃ atet\nanaret̃ ñeñt̃ cha' atet̃ coñchachet acheñ ñerra'm at̃ pare'chet añ ñoñets ñeñt ̃ atet̃ anaret̃ ñeñt̃ ach coñchachet\nallempo. Amuepa'chña añe'na coñchateñeto acheñ ñeñt ̃ ahuat̃ ot̃ eñ atet̃ petsa allempo ama eñalle ley ñeñt\notets atet̃ cha' sep̃ a. Ñam̃ a añach coñchatenet ñeñt ̃ at̃ pare'tene ley e'ñe atet̃ anaret̃ . Amachña añe'na\ncoñchateneto aton ñeñt ̃ ama att̃ eye' anaret̃ tena allempo at̃ pare'tena.",
-            "Image": "6e0beaf531c30aa0337d39e368d1f88e"
+            "Text": "Cot̃ ap̃ ñats 8.\nÑam̃ a ñerra'm esempo esesha'pa' mueneneñ o'ch puerratam̃ psan acheñenesha' añ derechos ñetpa' e'ñe pocte\no'ch e'nenet autoridades ñeñt̃ cha' a'poctaterrahuet ñeñt ̃ atet ̃ anaret ̃ po'leyes ñam̃ a po'constitución.\nCot̃ ap̃ ñats 9.\nAmuepa'ch arrmataret̃ teno acheñ e'ñe att̃ a. Amuepa'ch yottam̃ pesyeneto acheñ e'ñe att̃ a. Amuepa'ch mueño '\nteneto acheñ b̃ ac̈ hayo allcha' mueroc̈ htena.\nCot̃ ap̃ ñats 10.\nÑam̃ a allohuen acheñenesha' ama't esesha' ñerra'm esempo otteñe'charet̃ tena ñapa' echenancha' derecho o'ch\na'poctater ñoñets e'ñe cohuen juezesho. Juezpa' e'ñech cohuen o'ch eñoch ñerra'm po'ñoc̈ h atet ̃ o' p̃ ohua.\nAmach e'ñe att̃ a atserrpeñeto. Ñam̃ a ñeñt ̃ otteñe'charet̃ tetsa juezpa' o'ch eñotach ñeñt ̃ derechos echen ñam̃ a\nñeñt ̃ po'deberes. Amach es a'nahua o'pateñeto ama't puesheñarra acheñ.\nCot̃ ap̃ ñats 11.\nÑam̃ a ama't esesha' ñeñt ̃ otteñe'charet̃ tetsa allo'tsen autoridades, amuepa'ch ahuen otatsteto autoridades añ\nacheñ po'ñoc̈ h atet ̃ o' p̃ ohua. Añcha' ñanom e'm̃ ñochetepa' ñeñt̃ cha' yenpuene' ñeñt ̃ otteñe'charet̃ tetsa. E'ñech\ncohuen acop̃ a eñochet po'ñoc̈ ht̃ e' atet̃ o' p̃ ohua. Ñeñt̃ pa' atet̃ cha' penet allo'tsa'yen shonte' acheñenesha',\namuepa'ch a'nahua o'pateñeto.\nÑam̃ a añecpuepa'ch coñchachet acheñ ñeñt ̃ at̃ pare'tene' ñoñets ñeñt ̃ atet̃ anaret̃ e'ñe allempo. Ñam̃ a ñeñt ̃ atet\nanaret̃ ñeñt̃ cha' atet̃ coñchachet acheñ ñerra'm at̃ pare'chet añ ñoñets ñeñt ̃ atet̃ anaret̃ ñeñt̃ ach coñchachet\nallempo. Amuepa'chña añe'na coñchateñeto acheñ ñeñt ̃ ahuat̃ ot̃ eñ atet̃ petsa allempo ama eñalle ley ñeñt\notets atet̃ cha' sep̃ a. Ñam̃ a añach coñchatenet ñeñt ̃ at̃ pare'tene ley e'ñe atet̃ anaret̃ . Amachña añe'na\ncoñchateneto aton ñeñt ̃ ama att̃ eye' anaret̃ tena allempo at̃ pare'tena."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "930d0ee3b08cd602cc21cef1b7d9045a",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Cot̃ ap̃ ñats 12.\nÑam̃ a ñeñt ̃ e'ñe yocpa atet̃ ñerra'm yepaquell ñamia yamo'tsesha' ñeñt ̃ parro yeyc̈ hena ñam̃ a allohuen ñeñt\nyechen ñeñt̃ pa' e'ñe yocpa. Po'potantañpa ama pocteyaye o ch be't̃ oset att̃ och o'patapretenyet ñeñt ̃ e'ñe yo.\nÑam̃ a amach asasaretpahuoyayye, ñam̃ a amach asochatse'tpahuoyayye. Ñam̃ a allohuen ñeñt̃ asasaret̃ tetsa\ne'ñe att̃ a ñam̃ a ñeñt ̃ asochatse'taret̃ tetsa e'ñe att̃ a, ñetpa' echenet derecho o'ch moñenanet añ ley ñeñt ̃ atet\nanaret̃ .\nCot̃ ap̃ ñats 13.\nÑam̃ a allohuen acheñenesha' echenet derecho o'ch chope'chyeset ama't erra sechyenet allohuanen puen\nEstado alí yec̈ henet.\nÑam̃ a echenet derecho ñerra'm monenet o'ch salerret ama't erra'tsena Estadot ̃ ama't ñerra'm muenenet o'ch\nsalerret ama't ñet pue'stadot̃ pa e'ñe pocte'. Ñam̃ a echenet derecho o'ch c̈ hac̈ herret pue'stado ñerra'm esempo\nmonenet.\nCot̃ ap̃ ñats 14.\nÑam̃ a ñerra'm esempo amueroc̈ htataret̃ ta ama't puesheñarra e'ñe att̃ a poctã p ̃ ño'maret ñetpa' echenet derecho\no'ch yeterret, ahuerret po'poñ anetso allcha' agaparet̃ terret e'ñe cohuen.\nT̃ arraña ñerra'm acoñchataret̃ tet tã rro'mar o' muetset acheñ amapa' at̃ pare'tet po'poñ leyes amapa' añ derechos\nñeñt ̃ nen Naciones Unidas ñerra'm ñeñt̃ ecop acoñchataret̃ tet amach agaparet̃ teto po'poñ anetso.\nCot̃ ap̃ ñats 15.\nÑama allohuen acheñenesha' echenet derecho ñeñt̃ cha' pa 'netser penet.\nÑam̃ a amach errot̃ enot ̃ puerratam̃ p ̃ seto acheñ po'derecho att̃ o pa'netser penet. T̃ arraña ñerra'm esesha' mone'",
-            "Image": "930d0ee3b08cd602cc21cef1b7d9045a"
+            "Text": "Cot̃ ap̃ ñats 12.\nÑam̃ a ñeñt ̃ e'ñe yocpa atet̃ ñerra'm yepaquell ñamia yamo'tsesha' ñeñt ̃ parro yeyc̈ hena ñam̃ a allohuen ñeñt\nyechen ñeñt̃ pa' e'ñe yocpa. Po'potantañpa ama pocteyaye o ch be't̃ oset att̃ och o'patapretenyet ñeñt ̃ e'ñe yo.\nÑam̃ a amach asasaretpahuoyayye, ñam̃ a amach asochatse'tpahuoyayye. Ñam̃ a allohuen ñeñt̃ asasaret̃ tetsa\ne'ñe att̃ a ñam̃ a ñeñt ̃ asochatse'taret̃ tetsa e'ñe att̃ a, ñetpa' echenet derecho o'ch moñenanet añ ley ñeñt ̃ atet\nanaret̃ .\nCot̃ ap̃ ñats 13.\nÑam̃ a allohuen acheñenesha' echenet derecho o'ch chope'chyeset ama't erra sechyenet allohuanen puen\nEstado alí yec̈ henet.\nÑam̃ a echenet derecho ñerra'm monenet o'ch salerret ama't erra'tsena Estadot ̃ ama't ñerra'm muenenet o'ch\nsalerret ama't ñet pue'stadot̃ pa e'ñe pocte'. Ñam̃ a echenet derecho o'ch c̈ hac̈ herret pue'stado ñerra'm esempo\nmonenet.\nCot̃ ap̃ ñats 14.\nÑam̃ a ñerra'm esempo amueroc̈ htataret̃ ta ama't puesheñarra e'ñe att̃ a poctã p ̃ ño'maret ñetpa' echenet derecho\no'ch yeterret, ahuerret po'poñ anetso allcha' agaparet̃ terret e'ñe cohuen.\nT̃ arraña ñerra'm acoñchataret̃ tet tã rro'mar o' muetset acheñ amapa' at̃ pare'tet po'poñ leyes amapa' añ derechos\nñeñt ̃ nen Naciones Unidas ñerra'm ñeñt̃ ecop acoñchataret̃ tet amach agaparet̃ teto po'poñ anetso.\nCot̃ ap̃ ñats 15.\nÑama allohuen acheñenesha' echenet derecho ñeñt̃ cha' pa 'netser penet.\nÑam̃ a amach errot̃ enot ̃ puerratam̃ p ̃ seto acheñ po'derecho att̃ o pa'netser penet. T̃ arraña ñerra'm esesha' mone'"
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "755b772340956e87b1089071dfa3e7fa",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "o'ch yec̈ ha'huerret po'poñ anetsro ñeñt̃ cha'pa'netser perr allempot̃ eñ ñeñt̃ pa' e'ñe pocte' ñeñt̃ pa' po 'derecho.\nCot̃ ap̃ ñats 16.\nÑam̃ a allohuen acheñ ñeñt ̃ po'nare' ñerra'm muenen o'ch sena'ta ñam̃ a coyanesha' ñerra'm muenen o'ch\nsome'ta, ñeñt̃ pa' e'ñe pocte' ñeñt̃ pa' po'derecho. Pocte' o'ch yoranna'tet att̃ och chemere'tet. Ama't esesha'\nmuenats e'ñe pocte ama't erra'tsent̃ e' po'm̃ reñtsoret penet, ama't erra'tsent̃ e' ñeñt ̃ pa 'netser penet, ama't\nerra'tsent̃ e' po'yomporer penet. Ñam̃ a coyanesha' att̃ ecma echenan derechos ñeñt ̃ echen yacmanesha' ñerra'm\nesempo o'ch some'ta. Ñama allponmat yoranna'tet coyanesha'pa' ñeñt̃ ecma derechos echen ñam̃ a ñerra'm\nsannerretpa' coyanesha'pa' att̃ ecma echenan derechos.\nTarraña ñerra'm esesha' ama muenenaye o'ch yoran po'psheñeñ ñeñt̃ cha' puerrollar p̃ a' amapa yacma ama\nmueno ñeñt̃ cha' puetã por p̃ a', pamo'mte'pa' amach errot̃ enot ̃ apano po'psheñeñ yacma e'ñe ña po'huamencot\nñerra'm coyanesha' ama mueneñe.\nÑam̃ a ñeñt ̃ yec̈ hetsa parro pa'pacllo ñeñt ̃ pamo'tsna'tar p̃ annena ñeñt̃ pa' e'ñe pocte' atet̃ yeyc̈ hen arr patsro.\nÑeñt̃ o'mar ñeñt̃ pa' gobiernocop o'ch cohuam̃ penan allohuen familias ñeñt ̃ parro yec̈ ha'yenet.\nCot̃ ap̃ ñats 17.\nÑam̃ a allohuen acheñenesha' echenet derecho o'patetepa' ñeñt ̃ e'ñe ñocmuet, atet ̃ ñerra'm pa'paquell,\npo'patseñ, payara. Ñam̃ a e'ñe pocte' o'ch o'pataprecha po'potantañ ñeñt ̃ parrocma taruasa'yenet.\nÑam̃ a ama aprratam̃ pespahuoyaye e'ñe att̃ a ñeñt ̃ yo'patena ya atet̃ ñerra'm yepaquell, yepatseñ, yayara.\nCot̃ ap̃ ñats 18.\nÑam̃ a allohuen acheñenesha' ama't erra'tsena acheñer echenet derecho o'ch cotã pe'chyenet ñeñt ̃ e'ñe cohuen\nentenet ñet pueyoc̈ hreto. Ñam̃ a allohuen acheñpa' echenet derecho o'ch po'yomporer peñet ñeñt ̃ e'ñe cohuen\nentenet ñet. Ñam̃ a ñerra'm esempo muenenet o'ch po'poñet po'yompor-ret, ñeñt̃ pa'c̈ ho'ña e'ñe ñocpuet",
-            "Image": "755b772340956e87b1089071dfa3e7fa"
+            "Text": "o'ch yec̈ ha'huerret po'poñ anetsro ñeñt̃ cha'pa'netser perr allempot̃ eñ ñeñt̃ pa' e'ñe pocte' ñeñt̃ pa' po 'derecho.\nCot̃ ap̃ ñats 16.\nÑam̃ a allohuen acheñ ñeñt ̃ po'nare' ñerra'm muenen o'ch sena'ta ñam̃ a coyanesha' ñerra'm muenen o'ch\nsome'ta, ñeñt̃ pa' e'ñe pocte' ñeñt̃ pa' po'derecho. Pocte' o'ch yoranna'tet att̃ och chemere'tet. Ama't esesha'\nmuenats e'ñe pocte ama't erra'tsent̃ e' po'm̃ reñtsoret penet, ama't erra'tsent̃ e' ñeñt ̃ pa 'netser penet, ama't\nerra'tsent̃ e' po'yomporer penet. Ñam̃ a coyanesha' att̃ ecma echenan derechos ñeñt ̃ echen yacmanesha' ñerra'm\nesempo o'ch some'ta. Ñama allponmat yoranna'tet coyanesha'pa' ñeñt̃ ecma derechos echen ñam̃ a ñerra'm\nsannerretpa' coyanesha'pa' att̃ ecma echenan derechos.\nTarraña ñerra'm esesha' ama muenenaye o'ch yoran po'psheñeñ ñeñt̃ cha' puerrollar p̃ a' amapa yacma ama\nmueno ñeñt̃ cha' puetã por p̃ a', pamo'mte'pa' amach errot̃ enot ̃ apano po'psheñeñ yacma e'ñe ña po'huamencot\nñerra'm coyanesha' ama mueneñe.\nÑam̃ a ñeñt ̃ yec̈ hetsa parro pa'pacllo ñeñt ̃ pamo'tsna'tar p̃ annena ñeñt̃ pa' e'ñe pocte' atet̃ yeyc̈ hen arr patsro.\nÑeñt̃ o'mar ñeñt̃ pa' gobiernocop o'ch cohuam̃ penan allohuen familias ñeñt ̃ parro yec̈ ha'yenet.\nCot̃ ap̃ ñats 17.\nÑam̃ a allohuen acheñenesha' echenet derecho o'patetepa' ñeñt ̃ e'ñe ñocmuet, atet ̃ ñerra'm pa'paquell,\npo'patseñ, payara. Ñam̃ a e'ñe pocte' o'ch o'pataprecha po'potantañ ñeñt ̃ parrocma taruasa'yenet.\nÑam̃ a ama aprratam̃ pespahuoyaye e'ñe att̃ a ñeñt ̃ yo'patena ya atet̃ ñerra'm yepaquell, yepatseñ, yayara.\nCot̃ ap̃ ñats 18.\nÑam̃ a allohuen acheñenesha' ama't erra'tsena acheñer echenet derecho o'ch cotã pe'chyenet ñeñt ̃ e'ñe cohuen\nentenet ñet pueyoc̈ hreto. Ñam̃ a allohuen acheñpa' echenet derecho o'ch po'yomporer peñet ñeñt ̃ e'ñe cohuen\nentenet ñet. Ñam̃ a ñerra'm esempo muenenet o'ch po'poñet po'yompor-ret, ñeñt̃ pa'c̈ ho'ña e'ñe ñocpuet"
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "f186cc32411e9607f04a7e5453d481df",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "po'derecho. Ñam̃ a e'ñe pocte' o'ch apc̈ ha'yenet epuet po'potantañ ñeñt ̃ parrocma ame'ñenet. Ñam̃ a e'ñe pocte\no'ch yec̈ hatyesan po'potantañ ñeñt ̃ muenene' o'ch eñoteret ñamet. E'ñe pocte' o'ch etsoteñet ora att̃ och\nsherbeñet po 'yompor-ret.\nCot̃ ap̃ ñats 19.\nÑam̃ a allohuen acheñenesha' ama't erra tsena acheñer echenet derecho o'ch serrpare'tatanna'tyeset ñeñt ̃ atet\ncotã pe'chyenet ñet ñeñt ̃ cohuen entyenet ñet. Amach e'moñe'taret̃ eye att̃ o yapa yoctẽ n añ derecho. Ñam̃ a e'ñe\npocte' o'ch e'nyenet att̃ och eñoteret erra'tsent̃ e' cot̃ ap̃ ñatser ñeñt ̃ cohuen entyenet ñet. E'ñe pocte' o'ch\nagapyenet añ cot̃ ap̃ ñatser pueyc̈ hateña, ñam̃ a e'ñe pocte' o'ch eñotachet po'potantañ ñeñt ̃ atet̃ pena añ\ncot̃ ap̃ ñats. Ama't errot̃ enot eñotachet po'potantañ acheñ, ñeñt̃ pa' e'ñe pocte' ama't po'quellcot ̃ ama't radiot ̃ ma't\nerrot̃ enota. E'ñe pocte' o'ch c̈ hapatyeset ñeñt ̃ cot̃ ap̃ ñats po'poñ anetso'mar.\nCot̃ ap̃ ñats 20.\nÑam̃ a allohuen acheñenesha' echenet derecho o'ch apc̈ ha'yenet ora allohuen ñeñt ̃ parrocma ame'ñenet\nñerra'm e'ñe cohuen mueche't ̃ serrpare'tanna'tyenet añ poctã p ̃ ñet.\nÑerra'm esesha' ama muenenaye o'ch cotã pe'chet e'ñe parrocma po'potantañ poctã p ̃ ñet, ama pocteyaye\nñerra'm po'potantañ po'huamencotẽ tpa' o 'ch ame 'ñatateñet ñeñt ̃ ñet poctã p ̃ ña.\nCot̃ ap̃ ñats 21.\nÑam̃ a allohuen acheñenesha' ama't erra'tsena acheñer echenet derecho o'ch cotã pe'chatyeset ñeñl\npa'm̃ cha'taret̃ erneshet. Ñam̃ a allohuen acheñenesha' ama't erra'tsena acheñer echenet derecho o'ch votet\nañecop ñeñt̃ cha' sherb̃ ats gobiernocop.\nÑam̃ a allohuen acheñenesha' ama't erra'tsena acheñer ñeñt ̃ muenene o'ch taruasapretan gobierno allohuenet\ne'ñe att̃ ecma echyenet derecho.",
-            "Image": "f186cc32411e9607f04a7e5453d481df"
+            "Text": "po'derecho. Ñam̃ a e'ñe pocte' o'ch apc̈ ha'yenet epuet po'potantañ ñeñt ̃ parrocma ame'ñenet. Ñam̃ a e'ñe pocte\no'ch yec̈ hatyesan po'potantañ ñeñt ̃ muenene' o'ch eñoteret ñamet. E'ñe pocte' o'ch etsoteñet ora att̃ och\nsherbeñet po 'yompor-ret.\nCot̃ ap̃ ñats 19.\nÑam̃ a allohuen acheñenesha' ama't erra tsena acheñer echenet derecho o'ch serrpare'tatanna'tyeset ñeñt ̃ atet\ncotã pe'chyenet ñet ñeñt ̃ cohuen entyenet ñet. Amach e'moñe'taret̃ eye att̃ o yapa yoctẽ n añ derecho. Ñam̃ a e'ñe\npocte' o'ch e'nyenet att̃ och eñoteret erra'tsent̃ e' cot̃ ap̃ ñatser ñeñt ̃ cohuen entyenet ñet. E'ñe pocte' o'ch\nagapyenet añ cot̃ ap̃ ñatser pueyc̈ hateña, ñam̃ a e'ñe pocte' o'ch eñotachet po'potantañ ñeñt ̃ atet̃ pena añ\ncot̃ ap̃ ñats. Ama't errot̃ enot eñotachet po'potantañ acheñ, ñeñt̃ pa' e'ñe pocte' ama't po'quellcot ̃ ama't radiot ̃ ma't\nerrot̃ enota. E'ñe pocte' o'ch c̈ hapatyeset ñeñt ̃ cot̃ ap̃ ñats po'poñ anetso'mar.\nCot̃ ap̃ ñats 20.\nÑam̃ a allohuen acheñenesha' echenet derecho o'ch apc̈ ha'yenet ora allohuen ñeñt ̃ parrocma ame'ñenet\nñerra'm e'ñe cohuen mueche't ̃ serrpare'tanna'tyenet añ poctã p ̃ ñet.\nÑerra'm esesha' ama muenenaye o'ch cotã pe'chet e'ñe parrocma po'potantañ poctã p ̃ ñet, ama pocteyaye\nñerra'm po'potantañ po'huamencotẽ tpa' o 'ch ame 'ñatateñet ñeñt ̃ ñet poctã p ̃ ña.\nCot̃ ap̃ ñats 21.\nÑam̃ a allohuen acheñenesha' ama't erra'tsena acheñer echenet derecho o'ch cotã pe'chatyeset ñeñl\npa'm̃ cha'taret̃ erneshet. Ñam̃ a allohuen acheñenesha' ama't erra'tsena acheñer echenet derecho o'ch votet\nañecop ñeñt̃ cha' sherb̃ ats gobiernocop.\nÑam̃ a allohuen acheñenesha' ama't erra'tsena acheñer ñeñt ̃ muenene o'ch taruasapretan gobierno allohuenet\ne'ñe att̃ ecma echyenet derecho."
         },
         "8": {
-            "Label": "9",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "a31201598e0f29c4b986f5590c03dde8",
             "Index": 8,
+            "Label": "9",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Ñam̃ a erra'tsent̃ e' cot̃ ap̃ ñatser ñeñt ̃ cohuen enten acheñenesha' ñerra'm shonte' acheñ ñeñt̃ atet ̃ muenenet,\natet̃ cha' perra po'gobierno. Ñam̃ a att̃ och eñochet este' po'ñoc̈ h muenen allohuen acheñenesha' eñalletepa'ch\nelecciones ama t errot̃ enot̃ a; allcha' vota'yenet añecop ñeñt ̃ e'ñe cohuen entyenet ñet. Ñam̃ a ñeñt̃ pa' e'ñech\na'nahua vota'yenet att̃ och po'potantañpa' amach errot̃ enot ̃ po'huamencot̃ eye' votatenaneto ñeñt ̃ atet ̃ muenenet\nñet. Ñam̃ a allohuen acheñenesha' e'ñe pocte' vota'yeset añecop ñeñt ̃ cohuen entyenet ñet.\nCot̃ ap̃ ñats 22.\nAllohuen acheñenesha' ama't erra'tsena acheñer echenet derecho o'ch agapueñet seguridad social ñeñt ̃ atet\nyenpuenanet po'gobierno ñerra'm esempo machayot̃ a es pasahuet. Allochñapa' att̃ och amach tama\npenca'yeneto, e'ñech att̃ era cohuen orrtatyenet. Ñehua, ama't erra'tsena anetser a'poctatenan pa'cheñeneshar\nañ derechos ñeñt ̃ otenet seguridad sociales.\nCot̃ ap̃ ñats 23.\nÑam̃ a allohuen acheñenesha' ama't erra'tsena acheñer echenet derecho o'ch taruasa'yeset att̃ och gana'yeset\nquelle. Ñam̃ a e'ñe pocte' erra'tsent̃ e' taruas muenenet allcha'ña taruasa'yenet. Ñam̃ a ñeñt̃ taruasatenahuet\ne'ñepa'ch cohuen apa'yesanet allcha' taruasatyesanet. Ñam̃ a amuepa'ch huañapeseto po'taruaset att̃ och amach\npallteneto quelle.\nÑam̃ a allohuen ñeñt̃ att̃ ecma taruasa yetset allponeshacmuetepa'ch gana'yenet quelle. Arepa'ch eñalle ñeñt\nama amorrentaret̃ eyaye.\nÑam̃ a allohuen ñeñt ̃ taruasets atsa'tataret̃ tetepa'ch allpon ñeñt ̃ poctetsa allochñapa' att̃ och cohuen\nyec̈ ha'yenet pamo'tseshohuen amach tama penca'yeneto puepallteñot̃ et. Ñerra'm allpon gana'yenet ama\nalcanseno att̃ och yora'yeset ñeñt̃ allpon pallta'yenet eñalletepa'ch seguridad social ñeñt̃ cha' yenpa'yenahuet.\nÑam̃ a allohuen ama't erra'tsena acheñer echenet derecho o'ch parrocmatet epuet sindicato ñeñt̃ cha'\nmoñenahuet ñeñt ̃ e'ñe ñocpueta all taruasa'yenet.",
-            "Image": "a31201598e0f29c4b986f5590c03dde8"
+            "Text": "Ñam̃ a erra'tsent̃ e' cot̃ ap̃ ñatser ñeñt ̃ cohuen enten acheñenesha' ñerra'm shonte' acheñ ñeñt̃ atet ̃ muenenet,\natet̃ cha' perra po'gobierno. Ñam̃ a att̃ och eñochet este' po'ñoc̈ h muenen allohuen acheñenesha' eñalletepa'ch\nelecciones ama t errot̃ enot̃ a; allcha' vota'yenet añecop ñeñt ̃ e'ñe cohuen entyenet ñet. Ñam̃ a ñeñt̃ pa' e'ñech\na'nahua vota'yenet att̃ och po'potantañpa' amach errot̃ enot ̃ po'huamencot̃ eye' votatenaneto ñeñt ̃ atet ̃ muenenet\nñet. Ñam̃ a allohuen acheñenesha' e'ñe pocte' vota'yeset añecop ñeñt ̃ cohuen entyenet ñet.\nCot̃ ap̃ ñats 22.\nAllohuen acheñenesha' ama't erra'tsena acheñer echenet derecho o'ch agapueñet seguridad social ñeñt ̃ atet\nyenpuenanet po'gobierno ñerra'm esempo machayot̃ a es pasahuet. Allochñapa' att̃ och amach tama\npenca'yeneto, e'ñech att̃ era cohuen orrtatyenet. Ñehua, ama't erra'tsena anetser a'poctatenan pa'cheñeneshar\nañ derechos ñeñt ̃ otenet seguridad sociales.\nCot̃ ap̃ ñats 23.\nÑam̃ a allohuen acheñenesha' ama't erra'tsena acheñer echenet derecho o'ch taruasa'yeset att̃ och gana'yeset\nquelle. Ñam̃ a e'ñe pocte' erra'tsent̃ e' taruas muenenet allcha'ña taruasa'yenet. Ñam̃ a ñeñt̃ taruasatenahuet\ne'ñepa'ch cohuen apa'yesanet allcha' taruasatyesanet. Ñam̃ a amuepa'ch huañapeseto po'taruaset att̃ och amach\npallteneto quelle.\nÑam̃ a allohuen ñeñt̃ att̃ ecma taruasa yetset allponeshacmuetepa'ch gana'yenet quelle. Arepa'ch eñalle ñeñt\nama amorrentaret̃ eyaye.\nÑam̃ a allohuen ñeñt ̃ taruasets atsa'tataret̃ tetepa'ch allpon ñeñt ̃ poctetsa allochñapa' att̃ och cohuen\nyec̈ ha'yenet pamo'tseshohuen amach tama penca'yeneto puepallteñot̃ et. Ñerra'm allpon gana'yenet ama\nalcanseno att̃ och yora'yeset ñeñt̃ allpon pallta'yenet eñalletepa'ch seguridad social ñeñt̃ cha' yenpa'yenahuet.\nÑam̃ a allohuen ama't erra'tsena acheñer echenet derecho o'ch parrocmatet epuet sindicato ñeñt̃ cha'\nmoñenahuet ñeñt ̃ e'ñe ñocpueta all taruasa'yenet."
         },
         "9": {
-            "Label": "10",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "b1e9df151dbadc86a4b16a263709feb0",
             "Index": 9,
+            "Label": "10",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Cot̃ ap̃ ñats 24.\nÑam̃ a allohuen ama't erra'tsena acheñer echyenet derecho o'ch amesa'yenet allpon horas ñam̃ ia allpon yet̃ .\nAmach ellapenete't̃ e arepenete't̃ e taruasatset. Ñam̃ a amesyesetepa'ch allponmat ñeñt ̃ vacación,\natsa'tataret̃ tetepa'ch ama't allponmat echenet vacación.\nCot̃ ap̃ ñats 25.\nÑam̃ a allohuen ama't erra'tsena acheñer echyenet derecho o'ch echyenet allpon att̃ och yec̈ ha'yenet cohuen arr\npatsro ama't pamo'tseshohuen att̃ och yora'yenet puerrar, pa'shtam, pa'paquellet ñam̃ a att̃ och partatyenet ñam̃ a\natt̃ och yenpa'yenanet po'potantañ pamo'tseshac̈ hno. Ñam̃ a ñerra'm palltapesyenet po'taruaset alloch\ngana'yenet quelle echyenet derecho o'ch ayenparet̃ tet. Amapa' ñerra'm atsna'tyenet att̃ och ama taruaseneto\nallponmat echyenet derecho o'ch ayenparet̃ tet. Amapa' ñerra'm machayota atserrpenet, amapa' ñerra'm\nrret̃ orrnanesha' amapa' ñerra'm po'nme'ten amapa ñerra'm esempo es huapoya echyenet derecho o'ch\nayenparet̃ tet.\nÑam̃ a allohuen ñeñt ̃ achoyoreshai ñam̃ a allohuen cheshaneshac̈ hno ñetpa' echyenet derecho o'ch\nacuam̃ p ̃ saret̃ tyenet ama't ñeñt̃ ellopnanesha' ñamet.\nCot̃ ap̃ ñats 26.\nÑam̃ a allohuen ama't erra'tsena acheñer echyenan derecho o'ch estudia'yeset escuelo. Ñam̃ a att̃ och\nestudia'yeset escuelo amach cobraneto ñeñt ̃ Primariacop. Allohuen cheshanesha' atet ̃ anaret ̃ ñocpuet c̈ hocma\nestudienet Primaria, ñeñt ̃ obligatoria. Ñam̃ a eñalletepa' escuelas allcha' estudia'yenet ñeñt̃ cha' po'taruas penet\nñam̃ a eñalletepa' escuelas allcha' estudia'yenet estudios mas avanzados ama't añecop ñeñt ̃ atarr t̃ orretsa ñeñt\natarr es eñotets.\nÑam̃ a añecop sherben att̃ o yec̈ hateñet cheshanesha' att̃ ochcha' eñotyenet ñeñt ̃ atarr sherbets arr patsro att̃ och\ne'ñech cohuen eñotatyenan po'potantañ acheñenesha'. Allochñapa' att̃ ochcha' amach muena'yeneto o'ch",
-            "Image": "b1e9df151dbadc86a4b16a263709feb0"
+            "Text": "Cot̃ ap̃ ñats 24.\nÑam̃ a allohuen ama't erra'tsena acheñer echyenet derecho o'ch amesa'yenet allpon horas ñam̃ ia allpon yet̃ .\nAmach ellapenete't̃ e arepenete't̃ e taruasatset. Ñam̃ a amesyesetepa'ch allponmat ñeñt ̃ vacación,\natsa'tataret̃ tetepa'ch ama't allponmat echenet vacación.\nCot̃ ap̃ ñats 25.\nÑam̃ a allohuen ama't erra'tsena acheñer echyenet derecho o'ch echyenet allpon att̃ och yec̈ ha'yenet cohuen arr\npatsro ama't pamo'tseshohuen att̃ och yora'yenet puerrar, pa'shtam, pa'paquellet ñam̃ a att̃ och partatyenet ñam̃ a\natt̃ och yenpa'yenanet po'potantañ pamo'tseshac̈ hno. Ñam̃ a ñerra'm palltapesyenet po'taruaset alloch\ngana'yenet quelle echyenet derecho o'ch ayenparet̃ tet. Amapa' ñerra'm atsna'tyenet att̃ och ama taruaseneto\nallponmat echyenet derecho o'ch ayenparet̃ tet. Amapa' ñerra'm machayota atserrpenet, amapa' ñerra'm\nrret̃ orrnanesha' amapa' ñerra'm po'nme'ten amapa ñerra'm esempo es huapoya echyenet derecho o'ch\nayenparet̃ tet.\nÑam̃ a allohuen ñeñt ̃ achoyoreshai ñam̃ a allohuen cheshaneshac̈ hno ñetpa' echyenet derecho o'ch\nacuam̃ p ̃ saret̃ tyenet ama't ñeñt̃ ellopnanesha' ñamet.\nCot̃ ap̃ ñats 26.\nÑam̃ a allohuen ama't erra'tsena acheñer echyenan derecho o'ch estudia'yeset escuelo. Ñam̃ a att̃ och\nestudia'yeset escuelo amach cobraneto ñeñt ̃ Primariacop. Allohuen cheshanesha' atet ̃ anaret ̃ ñocpuet c̈ hocma\nestudienet Primaria, ñeñt ̃ obligatoria. Ñam̃ a eñalletepa' escuelas allcha' estudia'yenet ñeñt̃ cha' po'taruas penet\nñam̃ a eñalletepa' escuelas allcha' estudia'yenet estudios mas avanzados ama't añecop ñeñt ̃ atarr t̃ orretsa ñeñt\natarr es eñotets.\nÑam̃ a añecop sherben att̃ o yec̈ hateñet cheshanesha' att̃ ochcha' eñotyenet ñeñt ̃ atarr sherbets arr patsro att̃ och\ne'ñech cohuen eñotatyenan po'potantañ acheñenesha'. Allochñapa' att̃ ochcha' amach muena'yeneto o'ch"
         },
         "10": {
-            "Label": "11",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "bdc2c98bad51398d91f5c355ccfa2b0a",
             "Index": 10,
+            "Label": "11",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "puerratam̃ p ̃ sanet po'potantañ po'derechos att̃ och mueroc̈ htatanet. Cohuencha' yeñotatanna'tyena ama't pa\n'namen acheñeneshay. Cohuencha' ya'huanten po'potantañ ñeñt ̃ po'poñ cotã pe'chyenet ñet. Ñam̃ a\nc̈ hocmuepa'ch yamo'ts yep̃ anna'tyena ama't pa'namen anetsoc̈ hno all yeyc̈ ha'yena, ama't pa'namen\nmereñtsorec̈ hno ñeñt ̃ parro ye ñalletyesa, ama't pa'namen yeyomporer yep̃ a'yen. Añecop yeyc̈ hach\ncheshanesha' cohuen att̃ och e'ñech cohuen torra'yerret ñamet añecop ñeñt ̃ cohuen enten Naciones Unidas\nallochñapa' att̃ och allohueney e'ñech cohuen mueche't ̃ yeyc̈ ha'yena arr patsro.\nÑeñt ̃ chesha' ñeñt ̃ ama po'nena' pamo'mtepa' echenan derecho o'ch mueñanet erra'tsent̃ e', escuelo ñeñt\ncohuen enten pamo 'mte.\nCot̃ ap̃ ñats 27.\nÑam̃ a allohuen ama't erra'tsena acheñer echyenan derecho o'ch tõ rra'yenet ñeñt ̃ atet̃ yec̈ ha'yenet ñet, ñeñt\ncohuen entyenet ñet. ñam̃ ia e'ñe pocte' o'ch cosha'yeñet po'taruas ñeñt ̃ coc̈ hnesha' entyenet ñet. Ñam̃ a ñeñt\neñotyenet ñeñt̃ atarr sherbets alloch progresa'yenet cientifico'marecop, ñeñt ̃ pa' ñeñt̃ cha' yenpuenahuet alloch\nello atarr cohuen yec̈ ha'yenet arr patsro.\nÑam̃ a ñerra'm esesha' yec̈ hcatene' ñeñt ̃ atarr sherbets allohuenacop atet ̃ ñerra'm ñeñt ̃ cientifico'marecop\namapa'ñerra'm libro ñeñt ̃ que1lquënet allohuenacpuet amapa'erra'tsen po'taruas ñeñt̃ atarr sherbets\nallohuenacop, ñapa'echenan derecho att̃ och ganena quelle po'taruasot ̃ ñam̃ a echenan derecho att̃ och\ncoshapreteñet po'taruas, amuepa 'ch aprratam̃ p ̃ saret̃ tena po'derecho.\nCot̃ ap̃ ñats 28.\nÑam̃ a ora allpon derechos ñeñt ̃ aquellcaret ̃ arr, allohuen ama't erra'tsena acheñer echenet derecho o'ch e'ñe\natet̃ perret. Ñeñt̃ o'mar añ poctetsa patẽ 'tets anetso orrtatyesetepa' pa'namen cohuen proyectos att̃ och\nacheñenesha'pa' entyerret ora allpon po'derechos.\nCot̃ ap̃ ñats 29.",
-            "Image": "bdc2c98bad51398d91f5c355ccfa2b0a"
+            "Text": "puerratam̃ p ̃ sanet po'potantañ po'derechos att̃ och mueroc̈ htatanet. Cohuencha' yeñotatanna'tyena ama't pa\n'namen acheñeneshay. Cohuencha' ya'huanten po'potantañ ñeñt ̃ po'poñ cotã pe'chyenet ñet. Ñam̃ a\nc̈ hocmuepa'ch yamo'ts yep̃ anna'tyena ama't pa'namen anetsoc̈ hno all yeyc̈ ha'yena, ama't pa'namen\nmereñtsorec̈ hno ñeñt ̃ parro ye ñalletyesa, ama't pa'namen yeyomporer yep̃ a'yen. Añecop yeyc̈ hach\ncheshanesha' cohuen att̃ och e'ñech cohuen torra'yerret ñamet añecop ñeñt ̃ cohuen enten Naciones Unidas\nallochñapa' att̃ och allohueney e'ñech cohuen mueche't ̃ yeyc̈ ha'yena arr patsro.\nÑeñt ̃ chesha' ñeñt ̃ ama po'nena' pamo'mtepa' echenan derecho o'ch mueñanet erra'tsent̃ e', escuelo ñeñt\ncohuen enten pamo 'mte.\nCot̃ ap̃ ñats 27.\nÑam̃ a allohuen ama't erra'tsena acheñer echyenan derecho o'ch tõ rra'yenet ñeñt ̃ atet̃ yec̈ ha'yenet ñet, ñeñt\ncohuen entyenet ñet. ñam̃ ia e'ñe pocte' o'ch cosha'yeñet po'taruas ñeñt ̃ coc̈ hnesha' entyenet ñet. Ñam̃ a ñeñt\neñotyenet ñeñt̃ atarr sherbets alloch progresa'yenet cientifico'marecop, ñeñt ̃ pa' ñeñt̃ cha' yenpuenahuet alloch\nello atarr cohuen yec̈ ha'yenet arr patsro.\nÑam̃ a ñerra'm esesha' yec̈ hcatene' ñeñt ̃ atarr sherbets allohuenacop atet ̃ ñerra'm ñeñt ̃ cientifico'marecop\namapa'ñerra'm libro ñeñt ̃ que1lquënet allohuenacpuet amapa'erra'tsen po'taruas ñeñt̃ atarr sherbets\nallohuenacop, ñapa'echenan derecho att̃ och ganena quelle po'taruasot ̃ ñam̃ a echenan derecho att̃ och\ncoshapreteñet po'taruas, amuepa 'ch aprratam̃ p ̃ saret̃ tena po'derecho.\nCot̃ ap̃ ñats 28.\nÑam̃ a ora allpon derechos ñeñt ̃ aquellcaret ̃ arr, allohuen ama't erra'tsena acheñer echenet derecho o'ch e'ñe\natet̃ perret. Ñeñt̃ o'mar añ poctetsa patẽ 'tets anetso orrtatyesetepa' pa'namen cohuen proyectos att̃ och\nacheñenesha'pa' entyerret ora allpon po'derechos.\nCot̃ ap̃ ñats 29."
         },
         "11": {
-            "Label": "12",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+            ],
+            "Image": "461ea891054331eea2bf5168668525a6",
             "Index": 11,
+            "Label": "12",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Ñam̃ a allohuen ama't erra'tsena acheñer echenan po'deberes po'potantañecop ñeñt̃ ara pamo'tsesha' ñeñt ̃ parro\nyec̈ henet pa'netsro. Ñeñt ̃ deberespa' ñeñt̃ pa' atfo e'ñe cohuen yeyenpannena. Ñerra'm atet ̃ yeperra e ne all\nyamo'tsesheshopa' e'ñech cohuen yeyc̈ hen att̃ och yetsotuerr ñeñt ̃ e'ñe cohuen puesheña'ttsocpay.\nAma't yechyeneñ shonte' pa'namen derechos ñeñt̃ cha' yorrtatyen, t̃ arraña amach aña yorrtatatsto ñeñt̃ att̃ o\nerrot̃ uanen yepeñ po'psheñeñ. T̃ arro'mar ñeñt̃ pa' ama ap̃ apahuoyaye ñeñt̃ atet ̃ oteney ley ñeñt̃ anaret.\nT̃ arro'mar ñerra'm errot̃ uanen yepeñ po'psheñeñpa' att̃ oña yeprratam̃ peñ ña po'derechos. T̃ arraña ñerra'm e'ñe\ncohuen yeyenpannena ñam̃ a e'ñe mueche't yeyc̈ hena, ñeñt ̃ pa' ñeñt ̃ a poctetsa. Ñeñt̃ pa' c̈ hocmach yorrtaten\nñerra'm yechen gobierno democrática all am̃ cha 'taret̃ tapreteñet allohuen acheñenesha'.\nÑam̃ a ama't shonte' pa'namen derechos yechyen ñeñt ̃ anaret ̃ arr, yapa' amach yorrtatsto añ derechos añecop\nñeñt ̃ ama pocteye' enteñe Naciones Unidas. Añcha'ña yorrtaten ñeñt ̃ cohuen enten Naciones Unidas.\nCot̃ ap̃ ñats 30.\nOra allpon derechos ñeñt ̃ aquellcaret ̃ arr, ama't patr̃ ra derecho amach ahuapore 'tpahuoyaye ama't errot̃ ena.",
-            "Image": "461ea891054331eea2bf5168668525a6"
+            "Text": "Ñam̃ a allohuen ama't erra'tsena acheñer echenan po'deberes po'potantañecop ñeñt̃ ara pamo'tsesha' ñeñt ̃ parro\nyec̈ henet pa'netsro. Ñeñt ̃ deberespa' ñeñt̃ pa' atfo e'ñe cohuen yeyenpannena. Ñerra'm atet ̃ yeperra e ne all\nyamo'tsesheshopa' e'ñech cohuen yeyc̈ hen att̃ och yetsotuerr ñeñt ̃ e'ñe cohuen puesheña'ttsocpay.\nAma't yechyeneñ shonte' pa'namen derechos ñeñt̃ cha' yorrtatyen, t̃ arraña amach aña yorrtatatsto ñeñt̃ att̃ o\nerrot̃ uanen yepeñ po'psheñeñ. T̃ arro'mar ñeñt̃ pa' ama ap̃ apahuoyaye ñeñt̃ atet ̃ oteney ley ñeñt̃ anaret.\nT̃ arro'mar ñerra'm errot̃ uanen yepeñ po'psheñeñpa' att̃ oña yeprratam̃ peñ ña po'derechos. T̃ arraña ñerra'm e'ñe\ncohuen yeyenpannena ñam̃ a e'ñe mueche't yeyc̈ hena, ñeñt ̃ pa' ñeñt ̃ a poctetsa. Ñeñt̃ pa' c̈ hocmach yorrtaten\nñerra'm yechen gobierno democrática all am̃ cha 'taret̃ tapreteñet allohuen acheñenesha'.\nÑam̃ a ama't shonte' pa'namen derechos yechyen ñeñt ̃ anaret ̃ arr, yapa' amach yorrtatsto añ derechos añecop\nñeñt ̃ ama pocteye' enteñe Naciones Unidas. Añcha'ña yorrtaten ñeñt ̃ cohuen enten Naciones Unidas.\nCot̃ ap̃ ñats 30.\nOra allpon derechos ñeñt ̃ aquellcaret ̃ arr, ama't patr̃ ra derecho amach ahuapore 'tpahuoyaye ama't errot̃ ena."
         }
     }
 }

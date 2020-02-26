@@ -1,80 +1,80 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581466974,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "b96040d487d3fa5def465c713723d6fd",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "AKAPACH JAQE WALINKAÑAPATAKI INOQAT ARU\nQalltañataki\nUNANCHASA, aka pachana jaqejh munañanïsina, cheqpacha amuyasisa, cheqa thakir\nsarjhatasa, jilan sullkanjama arnaqasa, jan nuwasisa utjañaru wayt'asiñ yati;\nUNANCHASA, jaqen walinkañapataki wakisir arunaka armasna, yaqhep jaqejh\nmasinakaparu khuyañ autuyi, mututanakasti, uñatatasisa, wajcha kankañapa\natipasna, jan khitirus ajhsarasa, cheq-cheqa qhana arumpi arustatasjhapjhe;\nUNANCHASA, jaqen walinkañapataki inoqat arujha arjhatatäñapaw jan jaqe\nñanqhachirinakaru ch'ajhwa qalítasna waninchapjhañapataki;\nUNANCHASA, taqpacha markanakajh kunti munapjhe ukanaka jikjhatañatakiejh\njupanakpacha sumäñat arusthapisipjhañapaw;\nUNANCHASA, Mathapit Mayachat Markanakan Arupa taqjhatasna akham\nmarkanakajh amuyasi: Taqe mayniwa, chachas warmis, jaqe kankañanísinjha, ch\n'amachasisna má ch 'ulla chachjama jaqen walinkañapa jíkjhatañaru wayt'asipjhe;\nUNANCHASA, taqe mrakanakajh Matahapit Markanakamp chika akham amtapjhe:\nsapaqat markanjha aniw jaqejh inaki arknaqatäkaspati; jakañapans yänakapans\narjhatatäñapaw;\nUNANCHASA, Mathapit Markanakan amuyasitanakapa yatisina khuskat\ntaqpachanipaw wayt'asipjhañapa phoqasiñapataki.\nMAYACHAT MARKANAKAJH JACH'A MATHAPIWINAKAPAN JAQEN\nWALINKAÑAPATAKI INOQAT ARU YATIYI\nTaqpacha jaqenaka, ayllunaka, markanaka, aka arunakaru iyau sasna\nch'amachasipjhañapaw, isk'alalanakas, wayna tawaqonakas, chuymani jaqenakas,\nmarkapan qorpap manqhana yatichatäpjhañapaw. Ukhamarus qorpamarkanakampi\njaya markanakampi arusthapisisa taqpacha markanakajh khuskat\nch'amachasipjhatapampi alajh toqeru wayt asitapjaniw.\n1. T'aqa\nTaqpach jaqejh khuskat uñjatatäpjhewa munañapansa, lurañapansa,\namuyasiñapansa, ukatwa jilani sullkanípjhaspas ukham uñjasipjhañapawa.\n2. T'aqa\nTaqpacha jaqenakajh chikasitapjhew; inajaqes, mistis, janq'os, ch'iyaras, chachas,\nwarmis, amiris, wajchas taqe mayniw khuskat uñjatapjhe.\nUkhamaraki, janiw juk'ampíkaspas ukhama uñjasispati jach'a markanakaru isk'a\nmarkanakat sipanjha; taqpacha markanakajh tinkusitäpjhew, jaqenakapasti\nchikasitapjharakiw.\n3. T'aqa\nSapaqat jaqejh jan khitirus ajhsarasa jakañapa, munañapa, amuyasiñapa, jaqe\nkankañapa taqjhatasiñapaw.",
-            "Image": "b96040d487d3fa5def465c713723d6fd"
+            "Text": "AKAPACH JAQE WALINKAÑAPATAKI INOQAT ARU\nQalltañataki\nUNANCHASA, aka pachana jaqejh munañanïsina, cheqpacha amuyasisa, cheqa thakir\nsarjhatasa, jilan sullkanjama arnaqasa, jan nuwasisa utjañaru wayt'asiñ yati;\nUNANCHASA, jaqen walinkañapataki wakisir arunaka armasna, yaqhep jaqejh\nmasinakaparu khuyañ autuyi, mututanakasti, uñatatasisa, wajcha kankañapa\natipasna, jan khitirus ajhsarasa, cheq-cheqa qhana arumpi arustatasjhapjhe;\nUNANCHASA, jaqen walinkañapataki inoqat arujha arjhatatäñapaw jan jaqe\nñanqhachirinakaru ch'ajhwa qalítasna waninchapjhañapataki;\nUNANCHASA, taqpacha markanakajh kunti munapjhe ukanaka jikjhatañatakiejh\njupanakpacha sumäñat arusthapisipjhañapaw;\nUNANCHASA, Mathapit Mayachat Markanakan Arupa taqjhatasna akham\nmarkanakajh amuyasi: Taqe mayniwa, chachas warmis, jaqe kankañanísinjha, ch\n'amachasisna má ch 'ulla chachjama jaqen walinkañapa jíkjhatañaru wayt'asipjhe;\nUNANCHASA, taqe mrakanakajh Matahapit Markanakamp chika akham amtapjhe:\nsapaqat markanjha aniw jaqejh inaki arknaqatäkaspati; jakañapans yänakapans\narjhatatäñapaw;\nUNANCHASA, Mathapit Markanakan amuyasitanakapa yatisina khuskat\ntaqpachanipaw wayt'asipjhañapa phoqasiñapataki.\nMAYACHAT MARKANAKAJH JACH'A MATHAPIWINAKAPAN JAQEN\nWALINKAÑAPATAKI INOQAT ARU YATIYI\nTaqpacha jaqenaka, ayllunaka, markanaka, aka arunakaru iyau sasna\nch'amachasipjhañapaw, isk'alalanakas, wayna tawaqonakas, chuymani jaqenakas,\nmarkapan qorpap manqhana yatichatäpjhañapaw. Ukhamarus qorpamarkanakampi\njaya markanakampi arusthapisisa taqpacha markanakajh khuskat\nch'amachasipjhatapampi alajh toqeru wayt asitapjaniw.\n1. T'aqa\nTaqpach jaqejh khuskat uñjatatäpjhewa munañapansa, lurañapansa,\namuyasiñapansa, ukatwa jilani sullkanípjhaspas ukham uñjasipjhañapawa.\n2. T'aqa\nTaqpacha jaqenakajh chikasitapjhew; inajaqes, mistis, janq'os, ch'iyaras, chachas,\nwarmis, amiris, wajchas taqe mayniw khuskat uñjatapjhe.\nUkhamaraki, janiw juk'ampíkaspas ukhama uñjasispati jach'a markanakaru isk'a\nmarkanakat sipanjha; taqpacha markanakajh tinkusitäpjhew, jaqenakapasti\nchikasitapjharakiw.\n3. T'aqa\nSapaqat jaqejh jan khitirus ajhsarasa jakañapa, munañapa, amuyasiñapa, jaqe\nkankañapa taqjhatasiñapaw."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "51ee2fddaa7214def36dd691ed3ff480",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "4. T'aqa\nJaniw j aqenakat maynikisa uywarj ama aljhatäkaspati, ukhamarus jan jupa munasin\njaniw kuna urañarus, irnaqañarus wayt'asitäspati.\n5. T'aqa\nJanirakiw taqe jaqenakat maynikis khuyaña mutuñanakampi chhojrinchatäñapati.\n6. T'aqa\nJaqejh, jaqëtapat layku, kauki markankipansa jaqe kankañapajh wali\nchaninchatëñapaw.\n7. T'aqa\nJiliri p'eqeñanakajh taqe mayniru khuskat uñjapjhañapaw. Taqe mayniw\narjhatatäñapa; kunapachati markanakan hualinkañapataki inoqat arunaka khitis\nt'unjaña munaspa ukajha, qhananchatäñapaw.\n8. T'aqa\nKhititejh ñanqhachat uñjasisp ukajha, jach'a j ilirinakaruwa yatiyasiñapa\narjhatatäñapataki.\n9. T'aqa\nJaniw khitis markapana mutuyatäniti, janirakiw khitis markapata alismukutäniti.\n10. T'aqa\nTaqe mayniw juchanchata uñjasisa mä cheqa arun jilirimpi ist'ayasiñap wakisi\nqhananchayasiñataki, uka qepatsti cheq cheqaru t 'aqayasiñataki.\n11. T'aqa\nJaniw khitirus jucharu jalantatjama uñjañäkiti, khititejh lutintata uñjasispajha,\nch'ajwa t 'aqeri j ilirin nayraqatapan mä arjhatasirimpi taqjhatat\nqhananchayasiñapaw, ukchañkamasti jan juchanjama uñjatäñapaw.\nMarkasana yaqha markanakansa wakisiri inoqat arunak phoqasawa jucharu\njalantirinakarojh uñjaña, mutuñanakasti juchanakampitj amaw wakisitäñapa.\n12. T'aqa\nJaniw k'umiñas, ñanqachañas, ch 'inanchañas utjkaspati jaqen kankañapjhata,\nutapjhata, qellqasitapjhata. Taqe maynir arjhatañatakiw kamachit jach'a arunakas\nqellqanakas utji.\n13. T'aqa\nMarkapanjh taqe mayniw kawkiruti sarañ muni ukarojh saraskakispaw; kauki ujarus\nutjnoqasiñ munipaniha utjnoqasiskakispaw, janiw khitis kuns sañapäkiti.\nMarkapatsa yaqha markatsa taqe mayniw mistuñ munipanjha mistukispaw, pachparu\nkutt ' aña munipans kutt'askakispaw.",
-            "Image": "51ee2fddaa7214def36dd691ed3ff480"
+            "Text": "4. T'aqa\nJaniw j aqenakat maynikisa uywarj ama aljhatäkaspati, ukhamarus jan jupa munasin\njaniw kuna urañarus, irnaqañarus wayt'asitäspati.\n5. T'aqa\nJanirakiw taqe jaqenakat maynikis khuyaña mutuñanakampi chhojrinchatäñapati.\n6. T'aqa\nJaqejh, jaqëtapat layku, kauki markankipansa jaqe kankañapajh wali\nchaninchatëñapaw.\n7. T'aqa\nJiliri p'eqeñanakajh taqe mayniru khuskat uñjapjhañapaw. Taqe mayniw\narjhatatäñapa; kunapachati markanakan hualinkañapataki inoqat arunaka khitis\nt'unjaña munaspa ukajha, qhananchatäñapaw.\n8. T'aqa\nKhititejh ñanqhachat uñjasisp ukajha, jach'a j ilirinakaruwa yatiyasiñapa\narjhatatäñapataki.\n9. T'aqa\nJaniw khitis markapana mutuyatäniti, janirakiw khitis markapata alismukutäniti.\n10. T'aqa\nTaqe mayniw juchanchata uñjasisa mä cheqa arun jilirimpi ist'ayasiñap wakisi\nqhananchayasiñataki, uka qepatsti cheq cheqaru t 'aqayasiñataki.\n11. T'aqa\nJaniw khitirus jucharu jalantatjama uñjañäkiti, khititejh lutintata uñjasispajha,\nch'ajwa t 'aqeri j ilirin nayraqatapan mä arjhatasirimpi taqjhatat\nqhananchayasiñapaw, ukchañkamasti jan juchanjama uñjatäñapaw.\nMarkasana yaqha markanakansa wakisiri inoqat arunak phoqasawa jucharu\njalantirinakarojh uñjaña, mutuñanakasti juchanakampitj amaw wakisitäñapa.\n12. T'aqa\nJaniw k'umiñas, ñanqachañas, ch 'inanchañas utjkaspati jaqen kankañapjhata,\nutapjhata, qellqasitapjhata. Taqe maynir arjhatañatakiw kamachit jach'a arunakas\nqellqanakas utji.\n13. T'aqa\nMarkapanjh taqe mayniw kawkiruti sarañ muni ukarojh saraskakispaw; kauki ujarus\nutjnoqasiñ munipaniha utjnoqasiskakispaw, janiw khitis kuns sañapäkiti.\nMarkapatsa yaqha markatsa taqe mayniw mistuñ munipanjha mistukispaw, pachparu\nkutt ' aña munipans kutt'askakispaw."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "80413d0e4cdb82bc76e846332286c667",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "14. T'aqa\nKhitiruti ñanqhachañataki arknaqasipkasp ukajha, kaukir markampis\narjhatayasiskakispaw.\nUka arjhatañasti janiw ina juchanakamp juchanchasir jaqetakfkiti, ukhamarus haniw\nMayachat Markanakan inoqat aruparu jan phoqeri jaqetakïkiti.\n15. T'aqa\nJaniw mä ch 'ulla jaqes jan markanejh utjkiti.\nJanirakiw jaqerojh markapjama uñtasitapjha apaqañjamäkiti, ukhamarus khitis\nmarkap lanti yaqha markampi trukasikispaw, munaña patjamaw.\n16. T'aqa\nYoqallanakas imillanakas chuymaniptjhasin paninchasipjhakispaw munasinjha, janiw\nkhitis jark 'askaspati; chachas warmis purapatha uñjasipjhañapaw paninchasiwinsa\njaljtasiwinsa.\nChachamp warmimpi panipa arusthapisisakiw paninchasiñapatak wakisi.\nAuki, tayka, wawanakapas ayllu taypin saphipjama inoqataw, ukatwa\nayllumasinakapat jach'a jilirinakapats arjhatat uñja sipjhañapaw.\n17. T'aqa\nTaqe jaqetakiw wakisi utanïña, oraqenïña, jupa sapas ayllumasinakapampi chikas.\nJaniw khitisa utaps oraqeps inaki aparkaspati.\n18. T'aqa\nAkhama inoqat arú utji: Taqe maynin munañapatjamaw yupaychañapas\namuyasiñapas. Kuna munañanakaps, amtañanakaps, amuyasitanakaps trukaña\nmunasina trukakispaw; ukanaksti taqe jaqen nayraqatapata arsuña, mayninakar\nyatichañsa, kauki toqeru ch 'eqeyañsa.\n19. T'aqa\nTaqe maynejh kuna amuyasitanakapsa arsukispaw, ukhamarak yaqha jaqenakan\namuyasitanakap qatoqasina ch'eqtatayakispaw markapans yaqha markanakansa,\njaniw khitis jark'askaspati.\n20. T'aqa\nTaqe mayniw munañapata yaqha jaqenakampi arusthapisisa mathapisiskakispaw jan\nch'ajhwa apanaqasna.\nJaniw khitirus ch'amakamajh kuna amtawiñarus mantayksnati.\n21. T'aqa\nTaqe markanakanjh jach'a jilirinakapajh jaqen munañapata uskutäpjhañapaw. Taqe\njaqesti jaqe masipan munañapata jilirjama ajllitakispaw.",
-            "Image": "80413d0e4cdb82bc76e846332286c667"
+            "Text": "14. T'aqa\nKhitiruti ñanqhachañataki arknaqasipkasp ukajha, kaukir markampis\narjhatayasiskakispaw.\nUka arjhatañasti janiw ina juchanakamp juchanchasir jaqetakfkiti, ukhamarus haniw\nMayachat Markanakan inoqat aruparu jan phoqeri jaqetakïkiti.\n15. T'aqa\nJaniw mä ch 'ulla jaqes jan markanejh utjkiti.\nJanirakiw jaqerojh markapjama uñtasitapjha apaqañjamäkiti, ukhamarus khitis\nmarkap lanti yaqha markampi trukasikispaw, munaña patjamaw.\n16. T'aqa\nYoqallanakas imillanakas chuymaniptjhasin paninchasipjhakispaw munasinjha, janiw\nkhitis jark 'askaspati; chachas warmis purapatha uñjasipjhañapaw paninchasiwinsa\njaljtasiwinsa.\nChachamp warmimpi panipa arusthapisisakiw paninchasiñapatak wakisi.\nAuki, tayka, wawanakapas ayllu taypin saphipjama inoqataw, ukatwa\nayllumasinakapat jach'a jilirinakapats arjhatat uñja sipjhañapaw.\n17. T'aqa\nTaqe jaqetakiw wakisi utanïña, oraqenïña, jupa sapas ayllumasinakapampi chikas.\nJaniw khitisa utaps oraqeps inaki aparkaspati.\n18. T'aqa\nAkhama inoqat arú utji: Taqe maynin munañapatjamaw yupaychañapas\namuyasiñapas. Kuna munañanakaps, amtañanakaps, amuyasitanakaps trukaña\nmunasina trukakispaw; ukanaksti taqe jaqen nayraqatapata arsuña, mayninakar\nyatichañsa, kauki toqeru ch 'eqeyañsa.\n19. T'aqa\nTaqe maynejh kuna amuyasitanakapsa arsukispaw, ukhamarak yaqha jaqenakan\namuyasitanakap qatoqasina ch'eqtatayakispaw markapans yaqha markanakansa,\njaniw khitis jark'askaspati.\n20. T'aqa\nTaqe mayniw munañapata yaqha jaqenakampi arusthapisisa mathapisiskakispaw jan\nch'ajhwa apanaqasna.\nJaniw khitirus ch'amakamajh kuna amtawiñarus mantayksnati.\n21. T'aqa\nTaqe markanakanjh jach'a jilirinakapajh jaqen munañapata uskutäpjhañapaw. Taqe\njaqesti jaqe masipan munañapata jilirjama ajllitakispaw."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "aa150fe6be326c4b963ab672b6282b7d",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Jaqenakajh khuskata, taqe maynin taypita, jilirjama markapa aski apnaqañatakiejh\nkhitirus aj llisipkakispaw.\nAyllunakan, markanakan munañapaw mä qhauqha marat mara jilirinakaparu cheqa\najlliñajh. Uka amtatanakapasti janiw khitis q'eutaykaspati.\n22. T'aqa\nJaqejh mä markan utjasina masinakapamp chika, walinkañapana, k'umara utj\nañapana, yatiñapana, yänak jikjhatasitapana, arjhatatäñapaw. Uka ch'amapampi\nlurañanakansti jilirinakajh yaqha jilirinakamp arusthapisisa mayni markanakampi\nyanapt'ayasispaw.\n23. T'aqa\nTaqe mayniw kun luraña munipansa Iurakispaw; yaqha jaqetaki Iuratanakapasti\nchaninchatäñapaw; inakt'awinsti jan luraña utjatap layku, yanapatäñapaw.\nKhuska jaqetaki kipka lurañanakanjh kipkarakiw chaninchañ wakisi.\nTaqe ch'amachasiri jaqejha Iuratapat chanip qatoqasiñapaw, ukampisti warmipa\nwawanakapamp chika jaqjama utjañapataki, jani ukhamäsp ukasti yanapatäñapaw.\nTaqe mayniw jupjama ch'amachasir jaqenakamp mathapisiñ munasinjh\nmathapisiskakispaw wakisitanakap arjhatasiñataki.\n24. T'aqa\nCh'amjasiri jaqejh sapa mara phoqasina samarañapaw wakisita, ukhamaraki jan\nlurawi urunakanjh. Uka samarawinakapansti ch'amjasiskaspas ukhama\nchanichatäñapaw.\n25. T'aqa\nKhitis inakt'aspa usuntasna, ijmaptasna, usurmuktasna, achachiptasna, janiraki\nqolqenïspa isi, manq'a, qollanaka alañataki, marka jach'a jilirejh wajcha jaqerjama\nuñjasna yanapañapaw, ukatakisti kunaymana yanapanakaw utji.\nWawachiri warminakajh, asunakajh taqe isk'a wawanakapas khuskata\narjhatatäñapaw.\n26. T'aqa\nTaqe mayniw yatichatäñapa. Uka yatichawejh janiw qelqaña mayatakïkaspati, taqe\nkuna yateqañatakïñapaw, chanin 'uka yateqawimpejh wayt 'asiñataki.\nYateqawejh inakïñapaw, ukhamat wayna tawaqonakas juk'ampi yatiñanakaru arkañ\nmunasinjha arkasipkakispaw, ukatakisti jach'a jilirejh taqe maynitaki yanapanak\nuchañapaw.\nSapa maynin jaqe kankañapa wayt'asiñapataki, inoqat aru taqjhatañataki, markasana\nmaya markanakampinsa jaqe masisaru yäqañataki, jaqen amuytasitanakap jan\njark'atäñapaki, ukatakiw taqe mayniru churatäñapa. Auki taykakiw munañanejh\najliiñataki kuna yatiñanaks wakisispa wawanakapataki.\n27. T'aqa",
-            "Image": "aa150fe6be326c4b963ab672b6282b7d"
+            "Text": "Jaqenakajh khuskata, taqe maynin taypita, jilirjama markapa aski apnaqañatakiejh\nkhitirus aj llisipkakispaw.\nAyllunakan, markanakan munañapaw mä qhauqha marat mara jilirinakaparu cheqa\najlliñajh. Uka amtatanakapasti janiw khitis q'eutaykaspati.\n22. T'aqa\nJaqejh mä markan utjasina masinakapamp chika, walinkañapana, k'umara utj\nañapana, yatiñapana, yänak jikjhatasitapana, arjhatatäñapaw. Uka ch'amapampi\nlurañanakansti jilirinakajh yaqha jilirinakamp arusthapisisa mayni markanakampi\nyanapt'ayasispaw.\n23. T'aqa\nTaqe mayniw kun luraña munipansa Iurakispaw; yaqha jaqetaki Iuratanakapasti\nchaninchatäñapaw; inakt'awinsti jan luraña utjatap layku, yanapatäñapaw.\nKhuska jaqetaki kipka lurañanakanjh kipkarakiw chaninchañ wakisi.\nTaqe ch'amachasiri jaqejha Iuratapat chanip qatoqasiñapaw, ukampisti warmipa\nwawanakapamp chika jaqjama utjañapataki, jani ukhamäsp ukasti yanapatäñapaw.\nTaqe mayniw jupjama ch'amachasir jaqenakamp mathapisiñ munasinjh\nmathapisiskakispaw wakisitanakap arjhatasiñataki.\n24. T'aqa\nCh'amjasiri jaqejh sapa mara phoqasina samarañapaw wakisita, ukhamaraki jan\nlurawi urunakanjh. Uka samarawinakapansti ch'amjasiskaspas ukhama\nchanichatäñapaw.\n25. T'aqa\nKhitis inakt'aspa usuntasna, ijmaptasna, usurmuktasna, achachiptasna, janiraki\nqolqenïspa isi, manq'a, qollanaka alañataki, marka jach'a jilirejh wajcha jaqerjama\nuñjasna yanapañapaw, ukatakisti kunaymana yanapanakaw utji.\nWawachiri warminakajh, asunakajh taqe isk'a wawanakapas khuskata\narjhatatäñapaw.\n26. T'aqa\nTaqe mayniw yatichatäñapa. Uka yatichawejh janiw qelqaña mayatakïkaspati, taqe\nkuna yateqañatakïñapaw, chanin 'uka yateqawimpejh wayt 'asiñataki.\nYateqawejh inakïñapaw, ukhamat wayna tawaqonakas juk'ampi yatiñanakaru arkañ\nmunasinjha arkasipkakispaw, ukatakisti jach'a jilirejh taqe maynitaki yanapanak\nuchañapaw.\nSapa maynin jaqe kankañapa wayt'asiñapataki, inoqat aru taqjhatañataki, markasana\nmaya markanakampinsa jaqe masisaru yäqañataki, jaqen amuytasitanakap jan\njark'atäñapaki, ukatakiw taqe mayniru churatäñapa. Auki taykakiw munañanejh\najliiñataki kuna yatiñanaks wakisispa wawanakapataki.\n27. T'aqa"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "c90e4eecdc5d475be5aeb3c6d0adc299",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Taqe jaqen munañapankiw masinakapampi chika ch'amasisa aski yatiñanak\njikjhatañataki ayllupatakis markapatakis, ukhamarak uka yatiwinakampejh juk'amp\nwayt'asita utjañatakispaw.\nSapa mayninkakiw amuytasitanakapas, luratanakapas, qellpatakapas; janiw khitis\njupankaspas ukhama ukanakjh uñstaykaspati. Maynin inoqatapa lunthatirejh\ncheqanchatäñapaw.\n28. T'aqa\nKhitis wayt 'askakispaw taqe jaqenakan walinkañapataki, aka inoqat aru\nphoqasiñapataki; ul:hamatjamaw markasans mayni markanakans cheqa thakiru sarj\nhatañasataki.\n29. T'aqa\nSapa mayniw aylluparu yächañapa kunat-ti ayllup manqhanakwa kankañapjha\njikjhatani.\nJaniw khitis munañap-pin lurkaspati kunat-ti ayllu masipaw ñanqhachata uñjasispa,\nukhamarus taqe mayniw sayt'apjhaspa ñanqhachataru arjhatañataki. Uka lantinjha\ntaqpachani kamachit arunaka phoqasna, suma jakañ thaki patjharu sarjhatasna, jan\npitu uñstayasna mä ch'ulla chachjama nukt'añasaw taqe maynin walinkañapa.\nAka Mathapita Markanakan Arupajh janipiniw khitis maykiptkaspati munañapa\nlurañataki. Wakisiw inoqata arupa arjhataña.\n30. T'aqa\nJaniw kaukir markasa, khiti jaqesa sapapakis masinakapampis arusthapisinsa, j aqen\nwalinkañapatak inoqat arunaka q'eujtayasna kuna lurañanakamp, amtañanakamp\ntumpampi, jaqeru arknaqasina, munañanakapa, yatinoqtatapa, irnaqasiñanakapa,\namuyasiñanakapa apaqapkaspati.",
-            "Image": "c90e4eecdc5d475be5aeb3c6d0adc299"
+            "Text": "Taqe jaqen munañapankiw masinakapampi chika ch'amasisa aski yatiñanak\njikjhatañataki ayllupatakis markapatakis, ukhamarak uka yatiwinakampejh juk'amp\nwayt'asita utjañatakispaw.\nSapa mayninkakiw amuytasitanakapas, luratanakapas, qellpatakapas; janiw khitis\njupankaspas ukhama ukanakjh uñstaykaspati. Maynin inoqatapa lunthatirejh\ncheqanchatäñapaw.\n28. T'aqa\nKhitis wayt 'askakispaw taqe jaqenakan walinkañapataki, aka inoqat aru\nphoqasiñapataki; ul:hamatjamaw markasans mayni markanakans cheqa thakiru sarj\nhatañasataki.\n29. T'aqa\nSapa mayniw aylluparu yächañapa kunat-ti ayllup manqhanakwa kankañapjha\njikjhatani.\nJaniw khitis munañap-pin lurkaspati kunat-ti ayllu masipaw ñanqhachata uñjasispa,\nukhamarus taqe mayniw sayt'apjhaspa ñanqhachataru arjhatañataki. Uka lantinjha\ntaqpachani kamachit arunaka phoqasna, suma jakañ thaki patjharu sarjhatasna, jan\npitu uñstayasna mä ch'ulla chachjama nukt'añasaw taqe maynin walinkañapa.\nAka Mathapita Markanakan Arupajh janipiniw khitis maykiptkaspati munañapa\nlurañataki. Wakisiw inoqata arupa arjhataña.\n30. T'aqa\nJaniw kaukir markasa, khiti jaqesa sapapakis masinakapampis arusthapisinsa, j aqen\nwalinkañapatak inoqat arunaka q'eujtayasna kuna lurañanakamp, amtañanakamp\ntumpampi, jaqeru arknaqasina, munañanakapa, yatinoqtatapa, irnaqasiñanakapa,\namuyasiñanakapa apaqapkaspati."
         }
     }
 }

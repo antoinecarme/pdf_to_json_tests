@@ -1,99 +1,99 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581468327,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "924585ace55c50236f05828b130e9fb1",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
-            ],
-            "Text": "Powšitkowne wozjewjenje čłowjećich prawow\nZjednoćenych narodow wot 10. 12. 1948\nPreambla\nDokelž twori płipóznaće wšěm čłonam čłowjeskeje swójby płisłušaceje dostojnosće a jich jenakich a njeparujomnych prawow zakład\nswobody, sprawnosće a měra w swěće,\ndokelž stej njedopóznaće a znajechanje čłowječich prawow k aktam barbarstwa wjedłoj, kotrež su swědomje člowjestwa hłuboko zranili, a\ndokelž je so wutworjenje swěta, w kotrymž spožči so člowjekam, swobodnym wot stracha a nuzy, swoboda rěčenja a wěry, jako najwyše\nprócowanje čłowjestwa wozjewiło,\ndokelž je bytostne, člowječe prawa z knjejstwom prawa škitać, zo njeby so čłowjek k zběžkej płećiwo tyranstwu a potłóčowanju jako\nposlednjemu srědkej nuzował,\ndokelž je bytostne, wuwiće płećelskich poćahow mjez narodami spěchować,\ndokelž su ludy Zjednoćenych narodow we wustawkach znowa swoju wěru do zakładnych čłowječich prawow, do dostojnosće a hódnoty\nčłowjeskeje wosoby a do runoprawosće muža a žony wobkrućili a wobzamknyli, socialny postup a lěpše žiwjenske poměry płi wjetšej\nswobodźe spěchować,\ndokelž su so sobustawske staty zawjazali, w zhromadnym dźěle ze Zjednoćenymi narodami powšitkowne respektowanje a zwoprawdźenje\nčlowječich prawow a zakładnych swobodow płesadźić,\ndokelž je zhromadne měnjenje wo tutych prawach a swobodach płewšo wažne za połne spjelnjenje tutoho zawjazka,\nproklamuje Generalna zhromadźizna\ntute Powšitkowne wozjewjenje člowjecičh prawow jako zhromadny ideal, kotryž ma so wot wšěch ludow a narodow docpěć, zo bychu\nkóždy jednotliwc a wšě organy towaršnosće tute wozjewjenje stajnje w pomjatku měli a so prócowali, płez wučbu a kubłanje respektowanje\ntutych prawow a swobodow spěchować a płez postupowace naprawy w narodnym a mjezynarodnym wobłuku jich powšitkowne a faktiske\npłipóznaće a zwoprawdźenje pola wobydlerstwa kaž sobustawskich statow tak tež tych jich nadknjejstwu podstejacych teritorijow zaručeć.\nArtikl 1\nWšitcy čłowjekojo su wot naroda swobodni a su jenacy po dostojnosći a prawach. Woni su z rozumom a swědomjom wobdarjeni a maja\nmjezsobu w duchu bratrowstwa wobchadźeć.\nArtikl 2",
-            "Image": "924585ace55c50236f05828b130e9fb1"
+            "Text": "Powšitkowne wozjewjenje čłowjećich prawow\nZjednoćenych narodow wot 10. 12. 1948\nPreambla\nDokelž twori płipóznaće wšěm čłonam čłowjeskeje swójby płisłušaceje dostojnosće a jich jenakich a njeparujomnych prawow zakład\nswobody, sprawnosće a měra w swěće,\ndokelž stej njedopóznaće a znajechanje čłowječich prawow k aktam barbarstwa wjedłoj, kotrež su swědomje člowjestwa hłuboko zranili, a\ndokelž je so wutworjenje swěta, w kotrymž spožči so člowjekam, swobodnym wot stracha a nuzy, swoboda rěčenja a wěry, jako najwyše\nprócowanje čłowjestwa wozjewiło,\ndokelž je bytostne, člowječe prawa z knjejstwom prawa škitać, zo njeby so čłowjek k zběžkej płećiwo tyranstwu a potłóčowanju jako\nposlednjemu srědkej nuzował,\ndokelž je bytostne, wuwiće płećelskich poćahow mjez narodami spěchować,\ndokelž su ludy Zjednoćenych narodow we wustawkach znowa swoju wěru do zakładnych čłowječich prawow, do dostojnosće a hódnoty\nčłowjeskeje wosoby a do runoprawosće muža a žony wobkrućili a wobzamknyli, socialny postup a lěpše žiwjenske poměry płi wjetšej\nswobodźe spěchować,\ndokelž su so sobustawske staty zawjazali, w zhromadnym dźěle ze Zjednoćenymi narodami powšitkowne respektowanje a zwoprawdźenje\nčlowječich prawow a zakładnych swobodow płesadźić,\ndokelž je zhromadne měnjenje wo tutych prawach a swobodach płewšo wažne za połne spjelnjenje tutoho zawjazka,\nproklamuje Generalna zhromadźizna\ntute Powšitkowne wozjewjenje člowjecičh prawow jako zhromadny ideal, kotryž ma so wot wšěch ludow a narodow docpěć, zo bychu\nkóždy jednotliwc a wšě organy towaršnosće tute wozjewjenje stajnje w pomjatku měli a so prócowali, płez wučbu a kubłanje respektowanje\ntutych prawow a swobodow spěchować a płez postupowace naprawy w narodnym a mjezynarodnym wobłuku jich powšitkowne a faktiske\npłipóznaće a zwoprawdźenje pola wobydlerstwa kaž sobustawskich statow tak tež tych jich nadknjejstwu podstejacych teritorijow zaručeć.\nArtikl 1\nWšitcy čłowjekojo su wot naroda swobodni a su jenacy po dostojnosći a prawach. Woni su z rozumom a swědomjom wobdarjeni a maja\nmjezsobu w duchu bratrowstwa wobchadźeć.\nArtikl 2"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "c6628cc075147619dceb8bd7a30fec04",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
-            ],
-            "Text": "Kóždy je woprawnjeny, w tutym wozjewjenju proklamowane prawa a swobody wužiwać, a to bjez kóždehožkuli rozeznawanja, kaž po rasy,\nbarbje, splahu, rěči, religiji, politiskim abo druhim płeswědčenju, narodnym abo socialnym pochadźe, po zamóženju, narodźe abo druhim\nstatusu .\nDale njesmědźa so žane rozdźěle činić na zakładźe politiskeje, prawniskeje abo mjezynarodneje pozicije kraja abo teritorija, kotremuž\nwosoba płisłuša, njedźiwajo na to, hač je njewotwisny, hač pod rukowaćelstwom steji, hač njewobsedźi swójske knježerstwo abo hač podleži\nněkajkemu druhemu wobmjezowanju swojeje suwerenity.\nArtikl 3\nKóždy ma prawo na žiwjenje, swobodu a wěstotu wosohy.\nArtikl 4\nNichtó njesmě so w njewólnistwje abo roboćanstwje dźeržeć; njewólnistwo a wikowanje z njewólnikami stej we wšěch swojich formach\nzakazanej.\nArtikl 5\nNichtó njesmě so podćisnyć ćwělowanju abo surowemu, nječłowjeskemu abo ponižowacemu wobchadźenju abo chłostanju.\nArtikl 6\nKóždy ma prawo, wšudźe jako prawakmany płipóznaty hyć.\nArtikl 7\nWšitcy čłowjekojo su płed zakonjom runi a maja b jez diskriminaeije prawo na jenaki škit płez zakoń. Wšitey maja pawo na jenaki škit\npłećiwo kóždej diskriminaciji, kotraž by płedležace wozjewjen je zraniła, a płećiwo pozbudźen ju k tajkej diskriminaciji.\nArtikl 8\nKóždy ma prawo na skutkownu juristisku pomoe pola płisłušnych nutłkostatnych sudnistwow płećiwo jednanjam, kotrež jeho jemu po\nwustawje abo po zakonju płistejace zakładne prawa ranja.\nArtikl 9\nNichtó njesmě so swojowólnje zajeć w jatbje dźržeć abo z kraja wupokazać.\nArtikl 10\nKóždy ma w połne; runoprawosći prawo na to, zo so wo jeho prawaćh a winowatosćach a wo kóždej płećiwo njemu zapoloženj;",
-            "Image": "c6628cc075147619dceb8bd7a30fec04"
+            "Text": "Kóždy je woprawnjeny, w tutym wozjewjenju proklamowane prawa a swobody wužiwać, a to bjez kóždehožkuli rozeznawanja, kaž po rasy,\nbarbje, splahu, rěči, religiji, politiskim abo druhim płeswědčenju, narodnym abo socialnym pochadźe, po zamóženju, narodźe abo druhim\nstatusu .\nDale njesmědźa so žane rozdźěle činić na zakładźe politiskeje, prawniskeje abo mjezynarodneje pozicije kraja abo teritorija, kotremuž\nwosoba płisłuša, njedźiwajo na to, hač je njewotwisny, hač pod rukowaćelstwom steji, hač njewobsedźi swójske knježerstwo abo hač podleži\nněkajkemu druhemu wobmjezowanju swojeje suwerenity.\nArtikl 3\nKóždy ma prawo na žiwjenje, swobodu a wěstotu wosohy.\nArtikl 4\nNichtó njesmě so w njewólnistwje abo roboćanstwje dźeržeć; njewólnistwo a wikowanje z njewólnikami stej we wšěch swojich formach\nzakazanej.\nArtikl 5\nNichtó njesmě so podćisnyć ćwělowanju abo surowemu, nječłowjeskemu abo ponižowacemu wobchadźenju abo chłostanju.\nArtikl 6\nKóždy ma prawo, wšudźe jako prawakmany płipóznaty hyć.\nArtikl 7\nWšitcy čłowjekojo su płed zakonjom runi a maja b jez diskriminaeije prawo na jenaki škit płez zakoń. Wšitey maja pawo na jenaki škit\npłećiwo kóždej diskriminaciji, kotraž by płedležace wozjewjen je zraniła, a płećiwo pozbudźen ju k tajkej diskriminaciji.\nArtikl 8\nKóždy ma prawo na skutkownu juristisku pomoe pola płisłušnych nutłkostatnych sudnistwow płećiwo jednanjam, kotrež jeho jemu po\nwustawje abo po zakonju płistejace zakładne prawa ranja.\nArtikl 9\nNichtó njesmě so swojowólnje zajeć w jatbje dźržeć abo z kraja wupokazać.\nArtikl 10\nKóždy ma w połne; runoprawosći prawo na to, zo so wo jeho prawaćh a winowatosćach a wo kóždej płećiwo njemu zapoloženj;"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "dae240636747b7a5cfe505c25a497e91",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
-            ],
-            "Text": "chłostanskoprawnej skóržbje płez njewotwisne a njestronske sudnistwo sprawnje a zjawnje jedna.\nArtikl 11\nKóždy chłostajomneho jednanja dla wobskorženy ma prawo na to, jako n jewinowaty plaćić, dołhož njeje jeho wina w zjawnynl jednanju, w\nkotrymž je wšě za swoje zakitowanje trěbne garantije mět, wotpowědujo zakon jej dopokazana\nNichtó njesmě so dla jednanja abo zanjechnanja něčeho zasudźić, štož njebě w času, hdyž je so to stało, po nutłkokrajnym abo po\nmjezynarodnym prawje chłostajomne. Runje tak njesmě so žane ćeše chłostan je wuprajič hač te w času chłostajolnneho jednanja płihrožene\nchłostanje.\nArtikl 12\nNichtó njesmě swojowólnym zapłimnjenjam do swojeho priwatneno žiwjenja, swojeje swójby, swojeho bydlenja a swojeje korespondency\nabo njezakonskim škodam swojeje česće a swojeho mjena wustajeny być. Kóždy ma prawo na juristiski škit płećiwo tajkim zapłimnjenjam a\nškodam.\nArtikl 13\nKóždy ma prawo, so znutłka slata swobodnje pohibować a sej swoje bydlenje swobodnje wuzwolić.\nKóždy ma prawo, kóždy kra; inkluziwn je swój swójski kraj wopušcić a so do swojeho kraja wróćić.\nArtikl 14\nKóždy ma prawo, w drunich krajach płed płesćěhanjom azyl pytać a wužiwać.\nTute prawo njemóže so wužiwać w padźe płesćěhanja dla ryzy njepolitiskicn złóstnistwow abo jednanjow, kotrež ranja cile a zasady\nZjednoćenycn narodow.\nArtikl 15\nKóždy ma prawo na statnu płisłušnosć.\nNikomu njesmě so jeho statna płisłušnosć swojowólnje sćazać ani zaprajić prawo, swoju statnu płisłušnosć změnić.\nArtikl 16\nMužojo a žony w žeńtwykmanej starobje maja bjez wobmjezowanja na zakładźe rasy, statne je płisłušnosće abo religije prawo, do\nmandželstwa .stupić a swójbu založić.\nWoni maja jenake prawa płi zmandźelenju, w mandźelstwje a płi rozwjazanju mandźelstwa.",
-            "Image": "dae240636747b7a5cfe505c25a497e91"
+            "Text": "chłostanskoprawnej skóržbje płez njewotwisne a njestronske sudnistwo sprawnje a zjawnje jedna.\nArtikl 11\nKóždy chłostajomneho jednanja dla wobskorženy ma prawo na to, jako n jewinowaty plaćić, dołhož njeje jeho wina w zjawnynl jednanju, w\nkotrymž je wšě za swoje zakitowanje trěbne garantije mět, wotpowědujo zakon jej dopokazana\nNichtó njesmě so dla jednanja abo zanjechnanja něčeho zasudźić, štož njebě w času, hdyž je so to stało, po nutłkokrajnym abo po\nmjezynarodnym prawje chłostajomne. Runje tak njesmě so žane ćeše chłostan je wuprajič hač te w času chłostajolnneho jednanja płihrožene\nchłostanje.\nArtikl 12\nNichtó njesmě swojowólnym zapłimnjenjam do swojeho priwatneno žiwjenja, swojeje swójby, swojeho bydlenja a swojeje korespondency\nabo njezakonskim škodam swojeje česće a swojeho mjena wustajeny być. Kóždy ma prawo na juristiski škit płećiwo tajkim zapłimnjenjam a\nškodam.\nArtikl 13\nKóždy ma prawo, so znutłka slata swobodnje pohibować a sej swoje bydlenje swobodnje wuzwolić.\nKóždy ma prawo, kóždy kra; inkluziwn je swój swójski kraj wopušcić a so do swojeho kraja wróćić.\nArtikl 14\nKóždy ma prawo, w drunich krajach płed płesćěhanjom azyl pytać a wužiwać.\nTute prawo njemóže so wužiwać w padźe płesćěhanja dla ryzy njepolitiskicn złóstnistwow abo jednanjow, kotrež ranja cile a zasady\nZjednoćenycn narodow.\nArtikl 15\nKóždy ma prawo na statnu płisłušnosć.\nNikomu njesmě so jeho statna płisłušnosć swojowólnje sćazać ani zaprajić prawo, swoju statnu płisłušnosć změnić.\nArtikl 16\nMužojo a žony w žeńtwykmanej starobje maja bjez wobmjezowanja na zakładźe rasy, statne je płisłušnosće abo religije prawo, do\nmandželstwa .stupić a swójbu založić.\nWoni maja jenake prawa płi zmandźelenju, w mandźelstwje a płi rozwjazanju mandźelstwa."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "f67cc1251689e3feb110b14914681986",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
-            ],
-            "Text": "Zmandźelenje smě so jenož w swobodnej a dospołnej płezjednosći płichodneju mandźelskeju stać.\nArtikl 17\nKóždy ma prawo, sam abo zhromadnje z druhimi wobsydstwo měć.\nNichtó njesmě swojowólnje swoje wobsydstwo zhubić.\nArtikl 18\nKóždy ma prawo na swobodu myslow, swědomja a religije; tute prawo wopłija swobodu, swoju religiju a swój swětonahlad změnić, kaž tež\nswobodu, swoju religiju abo swój swětonahlad sam abo w znromadnosći z drunimi, zjawnje abo priwatnje płez wučbu, praktikowanje, božu\nslužbu a wobkedžbowanjc nabožnych naložkow zwuraznić.\nArtikl 19\nKóždy ma prawo na swobodu měnjenja a wuprajenje měnjenja tute prawo wopłija njehaćenu swobodu měnjenja a swobodu, sej njedźiwajo\nna statne hranicy informacije a ideje ze srědkami kóždehožkuli razu wobstarać, płijimować a dale dawać.\nArtikl 20\nKóždy ma prawo na swobodu zhromadźnja a zjednoćenja za měrliwe zaměry.\nNichtó n jesmě so nuzowač, zjednoćenstwu płisłušeć.\nArtikl 21\nKóždy ma prawo, so płi rjadowanju zjawnych naležnosćow swojeho kraja njeposrědnje abo płez swobodnje wolenycn zastupjerjow\nwobdźělić.\nKóždy ma pod jenakimi wuměnjenjemi prawo na płistup k zjawnym zastojnstwam w swojim kraju.\nWola ludu twori zakład za awtoritu zjawneje mocy; tuta wola dyrbi so zwuraznić płez so wospjetowace, woprawdźite, powšitkowne a rune\nwólby, kotrež wotměwaja so z tajnym wotedaćom hłosow abo po tomu runohódnym swobodnym wólbnym modusu.\nArtikl 22\nKóždy ma jako čłon towaršnosće prawo na socialnu wěstotu a móže płez nutłkostatne naprawy a mjezynarodne zhromadne dźěło\nwobkedźbujo organizaciju a pomocne srědki kóždeho stata wužiwać za swoju dostojnosć a swobodne wuwiće swojeje wosobiny\nnjeparujomne hospodarske, socialne a kulturne prawa\nArtikl 23",
-            "Image": "f67cc1251689e3feb110b14914681986"
+            "Text": "Zmandźelenje smě so jenož w swobodnej a dospołnej płezjednosći płichodneju mandźelskeju stać.\nArtikl 17\nKóždy ma prawo, sam abo zhromadnje z druhimi wobsydstwo měć.\nNichtó njesmě swojowólnje swoje wobsydstwo zhubić.\nArtikl 18\nKóždy ma prawo na swobodu myslow, swědomja a religije; tute prawo wopłija swobodu, swoju religiju a swój swětonahlad změnić, kaž tež\nswobodu, swoju religiju abo swój swětonahlad sam abo w znromadnosći z drunimi, zjawnje abo priwatnje płez wučbu, praktikowanje, božu\nslužbu a wobkedžbowanjc nabožnych naložkow zwuraznić.\nArtikl 19\nKóždy ma prawo na swobodu měnjenja a wuprajenje měnjenja tute prawo wopłija njehaćenu swobodu měnjenja a swobodu, sej njedźiwajo\nna statne hranicy informacije a ideje ze srědkami kóždehožkuli razu wobstarać, płijimować a dale dawać.\nArtikl 20\nKóždy ma prawo na swobodu zhromadźnja a zjednoćenja za měrliwe zaměry.\nNichtó n jesmě so nuzowač, zjednoćenstwu płisłušeć.\nArtikl 21\nKóždy ma prawo, so płi rjadowanju zjawnych naležnosćow swojeho kraja njeposrědnje abo płez swobodnje wolenycn zastupjerjow\nwobdźělić.\nKóždy ma pod jenakimi wuměnjenjemi prawo na płistup k zjawnym zastojnstwam w swojim kraju.\nWola ludu twori zakład za awtoritu zjawneje mocy; tuta wola dyrbi so zwuraznić płez so wospjetowace, woprawdźite, powšitkowne a rune\nwólby, kotrež wotměwaja so z tajnym wotedaćom hłosow abo po tomu runohódnym swobodnym wólbnym modusu.\nArtikl 22\nKóždy ma jako čłon towaršnosće prawo na socialnu wěstotu a móže płez nutłkostatne naprawy a mjezynarodne zhromadne dźěło\nwobkedźbujo organizaciju a pomocne srědki kóždeho stata wužiwać za swoju dostojnosć a swobodne wuwiće swojeje wosobiny\nnjeparujomne hospodarske, socialne a kulturne prawa\nArtikl 23"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "5c5ba14b04788f4875a2dc7a3b872972",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
-            ],
-            "Text": "Kóždy ma prawo na dźělo, na swobodnu wólbu powołanja, na płiměrjene a spokojace dźělowe wuměnjenja kaž tež na škit płećiwo\nbjezdźěłnosći.\nWšitcy čłowjekojo maja bjcz kóždeje diskriminacije prawo na jenaku mzdu za jenake dźěło.\nKóždy, kiž dźěła, ma prawo na sprawne a płihódne zarunanje dźěła, kotrež jemu a jeho swójbje čłowjeskej dostojnosći wotpowědowacu\neksistencu zawěsća a kotrež ma so, jeli trjeba, z druhimi socialnymi škitnynli naprawami dopjelnić.\nKóždy ma prawo, za škit swojich zajimow dźěłarnistwa załoźić a tajkim płistupić.\nArtikl 24\nKóždy ma prawo na dźěłowe płestawki a swobodny čas inkluziwnje płiměrjene wobmjezowanje dźěloweho časa kaž tež na prawidłowny\npłaćeny dowol.\nArtikl 25\nKóždy ma prawo na za swo ju strowotu a derjeměće a tu swojeje swójby płiměrjeny žiwjenski standard, inkluziwnje dosahace zežiwjenje,\ndrasćenje, bydlenje, lěkarske zastaranje a trěbne socialne posłužby, kaž tež dale prawo na wěstotu w padźe bjezdźěłnosće, chorosće,\ninwalidity, zwudowjenja staroby abo druheje straty swojich zežiwjenskich srědkow płez njezawinowane wobstejnosće.\nMaćerje a dźěći maja prawo na wosebitu pomoc a podpěru. Wšěm dźěćom, mandźelskim a njemandźelskim, płisteji jenaki socialny škit.\nArtikl 26\nKóždy ma prawo na kubłanje. Wučba dyrbi znajmjeńša w elementarnym abo zakładnym schodźenku darmotna być. Elementarna wučba je\nobligatoriska. Fachowo- a powołanskošulska wučba dyrbi powšitkownje płistupna być, a wysokošulska wučba dyrbi wšěm wotpowědnje\njich kmanosćam na jenake wašnje wotewrjena być.\nKublanje dyrbi na połne rozwiće čłowjeskeje wosobiny a na sylnjenje respektowanja čłowječich prawow a zakładnycn swobodow\nwusměrjene być. Wone dyrbi zrozumjenje, tolerancu a płećelstwo mjez wšěmi ludami a wšěmi rasowymi abo nabožnymi skupinami\nspěchowac a dźěławosć Zjednoćenycn narodow za zdźerženje měra podpěrować.\nStarši maja prěnjorjadne prawo družinu kubłanja wuzwolić, kotrež ma so jich dźěćom posrědkować.\nArtikl 27\nKóždy ma prawo, so na kulturnym žiwjenju zhronladnosće swobodnje wobdźěleć, so nad wuměłstwami wjeselić a na wědomostnym\npostupje a jeho wudobyćacn dźěl brać.\nKóždy ma prawo na škit duchownych a matericelnych zajimow, kotrež wurostuja za njeho jako tworićela z dźěłow wědomosće, literatury",
-            "Image": "5c5ba14b04788f4875a2dc7a3b872972"
+            "Text": "Kóždy ma prawo na dźělo, na swobodnu wólbu powołanja, na płiměrjene a spokojace dźělowe wuměnjenja kaž tež na škit płećiwo\nbjezdźěłnosći.\nWšitcy čłowjekojo maja bjcz kóždeje diskriminacije prawo na jenaku mzdu za jenake dźěło.\nKóždy, kiž dźěła, ma prawo na sprawne a płihódne zarunanje dźěła, kotrež jemu a jeho swójbje čłowjeskej dostojnosći wotpowědowacu\neksistencu zawěsća a kotrež ma so, jeli trjeba, z druhimi socialnymi škitnynli naprawami dopjelnić.\nKóždy ma prawo, za škit swojich zajimow dźěłarnistwa załoźić a tajkim płistupić.\nArtikl 24\nKóždy ma prawo na dźěłowe płestawki a swobodny čas inkluziwnje płiměrjene wobmjezowanje dźěloweho časa kaž tež na prawidłowny\npłaćeny dowol.\nArtikl 25\nKóždy ma prawo na za swo ju strowotu a derjeměće a tu swojeje swójby płiměrjeny žiwjenski standard, inkluziwnje dosahace zežiwjenje,\ndrasćenje, bydlenje, lěkarske zastaranje a trěbne socialne posłužby, kaž tež dale prawo na wěstotu w padźe bjezdźěłnosće, chorosće,\ninwalidity, zwudowjenja staroby abo druheje straty swojich zežiwjenskich srědkow płez njezawinowane wobstejnosće.\nMaćerje a dźěći maja prawo na wosebitu pomoc a podpěru. Wšěm dźěćom, mandźelskim a njemandźelskim, płisteji jenaki socialny škit.\nArtikl 26\nKóždy ma prawo na kubłanje. Wučba dyrbi znajmjeńša w elementarnym abo zakładnym schodźenku darmotna być. Elementarna wučba je\nobligatoriska. Fachowo- a powołanskošulska wučba dyrbi powšitkownje płistupna być, a wysokošulska wučba dyrbi wšěm wotpowědnje\njich kmanosćam na jenake wašnje wotewrjena być.\nKublanje dyrbi na połne rozwiće čłowjeskeje wosobiny a na sylnjenje respektowanja čłowječich prawow a zakładnycn swobodow\nwusměrjene być. Wone dyrbi zrozumjenje, tolerancu a płećelstwo mjez wšěmi ludami a wšěmi rasowymi abo nabožnymi skupinami\nspěchowac a dźěławosć Zjednoćenycn narodow za zdźerženje měra podpěrować.\nStarši maja prěnjorjadne prawo družinu kubłanja wuzwolić, kotrež ma so jich dźěćom posrědkować.\nArtikl 27\nKóždy ma prawo, so na kulturnym žiwjenju zhronladnosće swobodnje wobdźěleć, so nad wuměłstwami wjeselić a na wědomostnym\npostupje a jeho wudobyćacn dźěl brać.\nKóždy ma prawo na škit duchownych a matericelnych zajimow, kotrež wurostuja za njeho jako tworićela z dźěłow wědomosće, literatury"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "65d1bce7107d94af8210afbc7f3a51cf",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
-            ],
-            "Text": "abo wuměłstwa.\nArtikl 28\nKóždy ma prawo na socialny a mjezylnarodny porjad, w kotrymž móža so w tutym wozjewjenju wuprajene prawa a swobody połnje\nzwoprawdźić.\nArtikl 29\nKóždy ma winowatosće napłećo tej zhromadnosći, w kotrejž je jeničce móžne swobodne a połne wuwiće jeno wosobiny.\nKóždy podleži płi wužiwanju swojich prawow a swobodow jenož tym wobmjezowanjam, kotrež zakoń jeničce za tón zaměr płedwidźi,\npłipóznaće a respektowanje prawow a swobodow druhich zawěsćić a sprawnym žadanjam moralki, zjawneno porjada a powšitkowneho\nderjeměća w demokratiskej towaršnosći wotpowědować.\nTute prawa a swobody njesmedza so w žanym padźe w napłećiwku k cilam a zasadam Zjednoćenych narodow wužiwać.\nArtikl 30\nNičo w tutym wozjewjenju njesmě so do toho směra wułozować, zo so za stat, za skupinu abo wosobu prawo stwori, tajke dźěło wukonjeć\nabo tajki skutk zwoprawdźić, kiž so na wotstronjenje w tutym wozjewjen ju wuprajenycn prawow a swobodow měritej.",
-            "Image": "65d1bce7107d94af8210afbc7f3a51cf"
+            "Text": "abo wuměłstwa.\nArtikl 28\nKóždy ma prawo na socialny a mjezylnarodny porjad, w kotrymž móža so w tutym wozjewjenju wuprajene prawa a swobody połnje\nzwoprawdźić.\nArtikl 29\nKóždy ma winowatosće napłećo tej zhromadnosći, w kotrejž je jeničce móžne swobodne a połne wuwiće jeno wosobiny.\nKóždy podleži płi wužiwanju swojich prawow a swobodow jenož tym wobmjezowanjam, kotrež zakoń jeničce za tón zaměr płedwidźi,\npłipóznaće a respektowanje prawow a swobodow druhich zawěsćić a sprawnym žadanjam moralki, zjawneno porjada a powšitkowneho\nderjeměća w demokratiskej towaršnosći wotpowědować.\nTute prawa a swobody njesmedza so w žanym padźe w napłećiwku k cilam a zasadam Zjednoćenych narodow wužiwać.\nArtikl 30\nNičo w tutym wozjewjenju njesmě so do toho směra wułozować, zo so za stat, za skupinu abo wosobu prawo stwori, tajke dźěło wukonjeć\nabo tajki skutk zwoprawdźić, kiž so na wotstronjenje w tutym wozjewjen ju wuprajenycn prawow a swobodow měritej."
         }
     }
 }

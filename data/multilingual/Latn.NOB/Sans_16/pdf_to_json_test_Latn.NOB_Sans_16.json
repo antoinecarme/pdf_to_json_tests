@@ -1,132 +1,132 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581469623,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "800a5a8376688c2b249406b83da50335",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Den 10. desember 1948 vedtok og kunngjorde De Forente Nasjoners tredje Generalforsamling\nVerdenserklæringen om Menneskerettighetene. Erklæringen ble vedtatt med 48 lands ja-stemmer. Ingen land\nstemte mot. 8 land avsto.\nUmiddelbart etter denne historiske begivenhet henstilte Generalforsamlingen til alle medlemsstater å\nbekjentgjøre Erklæringens tekst og \"sørge for at den blir distribuert, framvist, lest og forklart spesielt i skoler\nog andre læreinstitusjoner, uten hensyn til de forskjellige lands eller områders politiske status\".\nErklæringens offisielle tekst foreligger på FNs seks arbeidsspråk: arabisk, engelsk, fransk, kinesisk, russisk\nog spansk. En lang rekke av FNs medlemsstater har fulgt Generalforsamlingens oppfordring og oversatt\nErklæringen til de nasjonale språk.\nDenne oversettelsen til norsk er utarbeidet i Utenriksdepartementet.\nPå henvendelse til FNs nordiske informasjonskontor i København kan en få gratis eksemplarer av\nErklæringen på FNs offisielle språk, de øvrige nordiske språk og et begrenset antall andre språk.\nVERDENSERKLÆRINGEN OM MENNESKERETTIGHETENE\nINNLEDNING\nDa anerkjennelsen av menneskeverd og like og umistelige rettigheter for alle medlemmer av\nmenneskeslekten er grunnlaget for frihet, rettferdighet og fred i verden,\nda tilsidesettelse av og forakt for menneskerettighetene har ført til barbariske handlinger som har rystet\nmenneskehetens samvittighet, og da framveksten av en verden hvor menneskene har tale- og trosfrihet og\nfrihet fra frykt og nød, er blitt kunngjort som folkenes høyeste mål,\nda det er nødvendig at menneskerettighetene blir beskyttet av loven for at menneskene ikke skal tvinges til",
-            "Image": "800a5a8376688c2b249406b83da50335"
+            "Text": "Den 10. desember 1948 vedtok og kunngjorde De Forente Nasjoners tredje Generalforsamling\nVerdenserklæringen om Menneskerettighetene. Erklæringen ble vedtatt med 48 lands ja-stemmer. Ingen land\nstemte mot. 8 land avsto.\nUmiddelbart etter denne historiske begivenhet henstilte Generalforsamlingen til alle medlemsstater å\nbekjentgjøre Erklæringens tekst og \"sørge for at den blir distribuert, framvist, lest og forklart spesielt i skoler\nog andre læreinstitusjoner, uten hensyn til de forskjellige lands eller områders politiske status\".\nErklæringens offisielle tekst foreligger på FNs seks arbeidsspråk: arabisk, engelsk, fransk, kinesisk, russisk\nog spansk. En lang rekke av FNs medlemsstater har fulgt Generalforsamlingens oppfordring og oversatt\nErklæringen til de nasjonale språk.\nDenne oversettelsen til norsk er utarbeidet i Utenriksdepartementet.\nPå henvendelse til FNs nordiske informasjonskontor i København kan en få gratis eksemplarer av\nErklæringen på FNs offisielle språk, de øvrige nordiske språk og et begrenset antall andre språk.\nVERDENSERKLÆRINGEN OM MENNESKERETTIGHETENE\nINNLEDNING\nDa anerkjennelsen av menneskeverd og like og umistelige rettigheter for alle medlemmer av\nmenneskeslekten er grunnlaget for frihet, rettferdighet og fred i verden,\nda tilsidesettelse av og forakt for menneskerettighetene har ført til barbariske handlinger som har rystet\nmenneskehetens samvittighet, og da framveksten av en verden hvor menneskene har tale- og trosfrihet og\nfrihet fra frykt og nød, er blitt kunngjort som folkenes høyeste mål,\nda det er nødvendig at menneskerettighetene blir beskyttet av loven for at menneskene ikke skal tvinges til"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "f053cfbc900e0d82fb3e0944de9e13ed",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "som siste utvei å gjøre opprør mot tyranni og undertrykkelse,\nda det er viktig å fremme utviklingen av vennskapelige forhold mellom nasjonene,\nda De Forente Nasjoners folk i Pakten på ny har bekreftet sin tro på grunnleggende menneskerettigheter, på\nmenneskeverd og på like rett for menn og kvinner og har besluttet å arbeide for sosialt framskritt og bedre\nlevevilkår under større Frihet,\nda medlemsstatene har forpliktet seg til i samarbeid med De Forente Nasjoner å sikre at\nmenneskerettighetene og de grunnleggende friheter blir alminnelig respektert og overholdt,\nda en allmenn forståelse av disse rettigheter og friheter er av den største betydning for å virkeliggjøre denne\nforpliktelse,\nkunngjør\nGENERALFORSAMLINGEN\nnå denne VERDENSERKLÆRING OM MENNESKERETTIGHETENE som et felles mål for alle folk og\nalle nasjoner, for at hvert individ og hver samfunnsmyndighet, med denne erklæring stadig i tankene, skal\nsøke gjennom undervisning og oppdragelse å fremme respekt for disse rettigheter og friheter, og ved\nnasjonale og internasjonale tiltak å sikre at de blir allment og effektivt anerkjent og overholdt både blant\nfolkene i medlemsstatene selv og blant folkene i de områder som står under deres overhøyhet.\nArtikkel 1.\nAlle mennesker er født frie og med samme menneskeverd og menneskerettigheter. De er utstyrt med fornuft\nog samvittighet og bør handle mot hverandre i brorskapets ånd.\nArtikkel 2.",
-            "Image": "f053cfbc900e0d82fb3e0944de9e13ed"
+            "Text": "som siste utvei å gjøre opprør mot tyranni og undertrykkelse,\nda det er viktig å fremme utviklingen av vennskapelige forhold mellom nasjonene,\nda De Forente Nasjoners folk i Pakten på ny har bekreftet sin tro på grunnleggende menneskerettigheter, på\nmenneskeverd og på like rett for menn og kvinner og har besluttet å arbeide for sosialt framskritt og bedre\nlevevilkår under større Frihet,\nda medlemsstatene har forpliktet seg til i samarbeid med De Forente Nasjoner å sikre at\nmenneskerettighetene og de grunnleggende friheter blir alminnelig respektert og overholdt,\nda en allmenn forståelse av disse rettigheter og friheter er av den største betydning for å virkeliggjøre denne\nforpliktelse,\nkunngjør\nGENERALFORSAMLINGEN\nnå denne VERDENSERKLÆRING OM MENNESKERETTIGHETENE som et felles mål for alle folk og\nalle nasjoner, for at hvert individ og hver samfunnsmyndighet, med denne erklæring stadig i tankene, skal\nsøke gjennom undervisning og oppdragelse å fremme respekt for disse rettigheter og friheter, og ved\nnasjonale og internasjonale tiltak å sikre at de blir allment og effektivt anerkjent og overholdt både blant\nfolkene i medlemsstatene selv og blant folkene i de områder som står under deres overhøyhet.\nArtikkel 1.\nAlle mennesker er født frie og med samme menneskeverd og menneskerettigheter. De er utstyrt med fornuft\nog samvittighet og bør handle mot hverandre i brorskapets ånd.\nArtikkel 2."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "b0ef437f9184a94b5e2bdf7a7bc30fd5",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Enhver har krav på alle de rettigheter og friheter som er nevnt i denne erklæring, uten forskjell av noen art, f.\neks. på grunn av rase, farge, kjønn, språk, religion, politisk eller annen oppfatning, nasjonal eller sosial\nopprinnelse eiendom, fødsel eller annet forhold.\nDet skal heller ikke gjøres noen forskjell på grunn av den politiske, rettslige eller internasjonale stilling som\ninnehas av det land eller det område en person hører til, enten landet er uavhengig, står under tilsyn, er ikke-\nselvstyrende, eller på annen måte har begrenset suverenitet.\nArtikkel 3.\nEnhver har rett til liv, frihet og personlig sikkerhet.\nArtikkel 4.\nIngen må holdes i slaveri eller trelldom. Slaveri og slavehandel i alle former er forbudt.\nArtikkel 5.\nIngen må utsettes for tortur eller grusom, umenneskelig eller nedverdigende behandling eller straff.\nArtikkel 6.\nEthvert menneske har krav på overalt å bli anerkjent som rettssubjekt.\nArtikkel 7.\nAlle er like for loven og har uten diskriminering rett til samme beskyttelse av loven. Alle har krav på samme\nbeskyttelse mot diskriminering i strid med denne erklæring og mot enhver oppfordring til slik\ndiskriminering.\nArtikkel 8.",
-            "Image": "b0ef437f9184a94b5e2bdf7a7bc30fd5"
+            "Text": "Enhver har krav på alle de rettigheter og friheter som er nevnt i denne erklæring, uten forskjell av noen art, f.\neks. på grunn av rase, farge, kjønn, språk, religion, politisk eller annen oppfatning, nasjonal eller sosial\nopprinnelse eiendom, fødsel eller annet forhold.\nDet skal heller ikke gjøres noen forskjell på grunn av den politiske, rettslige eller internasjonale stilling som\ninnehas av det land eller det område en person hører til, enten landet er uavhengig, står under tilsyn, er ikke-\nselvstyrende, eller på annen måte har begrenset suverenitet.\nArtikkel 3.\nEnhver har rett til liv, frihet og personlig sikkerhet.\nArtikkel 4.\nIngen må holdes i slaveri eller trelldom. Slaveri og slavehandel i alle former er forbudt.\nArtikkel 5.\nIngen må utsettes for tortur eller grusom, umenneskelig eller nedverdigende behandling eller straff.\nArtikkel 6.\nEthvert menneske har krav på overalt å bli anerkjent som rettssubjekt.\nArtikkel 7.\nAlle er like for loven og har uten diskriminering rett til samme beskyttelse av loven. Alle har krav på samme\nbeskyttelse mot diskriminering i strid med denne erklæring og mot enhver oppfordring til slik\ndiskriminering.\nArtikkel 8."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "cdd9eadd1bf5f9520d0eb7698172e8a9",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Enhver har rett til effektiv hjelp av de kompetente nasjonale domstoler mot handlinger som krenker de\ngrunnleggende rettigheter han er gitt i forfatning eller lov.\nArtikkel 9.\nIngen må utsettes for vilkårlig arrest, fengsling eller landsforvisning.\nArtikkel 10.\nEnhver har krav på under full likestilling å få sin sak rettferdig og offentlig behandlet av en uavhengig og\nupartisk domstol når hans rettigheter og plikter skal fastsettes,og når en straffeanklage mot ham skal\navgjøres.\nArtikkel 11.\nEnhver som er anklaget for en straffbar handling har rett til å bli ansett som uskyldig til det er bevist ved\noffentlig domstolsbehandling, hvor han har hatt alle de garantier som er nødvendig for hans forsvar, at han er\nskyldig etter loven.\nIngen må dømmes for en handling eller unnlatelse som i henhold til nasjonal lov eller folkeretten ikke var\nstraffbar på den tid da den ble begått. Heller ikke skal det kunne idømmes strengere straff enn den som det\nvar hjemmel for på den tid da den straffbare handling ble begått.\nArtikkel 12.\nIngen må utsettes for vilkårlig innblanding i privatliv, familie, hjem og korrespondanse, eller for angrep på\nære og anseelse. Enhver har rett til lovens beskyttelse mot slik innblanding eller slike angrep.\nArtikkel 13.\nEnhver har rett til å bevege seg fritt og til fritt å velge oppholdssted innenfor en stats grenser.",
-            "Image": "cdd9eadd1bf5f9520d0eb7698172e8a9"
+            "Text": "Enhver har rett til effektiv hjelp av de kompetente nasjonale domstoler mot handlinger som krenker de\ngrunnleggende rettigheter han er gitt i forfatning eller lov.\nArtikkel 9.\nIngen må utsettes for vilkårlig arrest, fengsling eller landsforvisning.\nArtikkel 10.\nEnhver har krav på under full likestilling å få sin sak rettferdig og offentlig behandlet av en uavhengig og\nupartisk domstol når hans rettigheter og plikter skal fastsettes,og når en straffeanklage mot ham skal\navgjøres.\nArtikkel 11.\nEnhver som er anklaget for en straffbar handling har rett til å bli ansett som uskyldig til det er bevist ved\noffentlig domstolsbehandling, hvor han har hatt alle de garantier som er nødvendig for hans forsvar, at han er\nskyldig etter loven.\nIngen må dømmes for en handling eller unnlatelse som i henhold til nasjonal lov eller folkeretten ikke var\nstraffbar på den tid da den ble begått. Heller ikke skal det kunne idømmes strengere straff enn den som det\nvar hjemmel for på den tid da den straffbare handling ble begått.\nArtikkel 12.\nIngen må utsettes for vilkårlig innblanding i privatliv, familie, hjem og korrespondanse, eller for angrep på\nære og anseelse. Enhver har rett til lovens beskyttelse mot slik innblanding eller slike angrep.\nArtikkel 13.\nEnhver har rett til å bevege seg fritt og til fritt å velge oppholdssted innenfor en stats grenser."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "2c708a81e8646f376ba6118bbf6686b0",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Enhver har rett til å forlate et hvilket som helst land innbefattet sitt eget og til å vende tilbake til sitt land.\nArtikkel 14.\nEnhver har rett til i andre land å søke og ta imot asyl mot forfølgelse.\nDenne rett kan ikke påberopes ved rettsforfølgelse som har reelt grunnlag i upolitiske forbrytelser eller\nhandlinger som strider mot De Forente Nasjoners formål og prinsipper.\nArtikkel 15.\nEnhver har rett til et statsborgerskap.\nIngen skal vilkårlig berøves sitt statsborgerskap eller nektes retten til å forandre det.\nArtikkel 16.\nVoksne menn og kvinner har rett til å gifte seg og stifte familie uten noen begrensning som skyldes rase,\nnasjonalitet eller religion. De har krav på like rettigheter ved inngåelse av ekteskapet, under ekteskapet og\nved dets oppløsning.\nEkteskap må bare inngås etter fritt og fullt samtykke av de vordende ektefeller.\nFamilien er den naturlige og grunnleggende enhet i samfunnet og har krav på samfunnets og statens\nbeskyttelse.\nArtikkel 17.\nEnhver har rett til å eie eiendom alene eller sammen med andre.\nIngen må vilkårlig fratas sin eiendom.\nArtikkel 18.",
-            "Image": "2c708a81e8646f376ba6118bbf6686b0"
+            "Text": "Enhver har rett til å forlate et hvilket som helst land innbefattet sitt eget og til å vende tilbake til sitt land.\nArtikkel 14.\nEnhver har rett til i andre land å søke og ta imot asyl mot forfølgelse.\nDenne rett kan ikke påberopes ved rettsforfølgelse som har reelt grunnlag i upolitiske forbrytelser eller\nhandlinger som strider mot De Forente Nasjoners formål og prinsipper.\nArtikkel 15.\nEnhver har rett til et statsborgerskap.\nIngen skal vilkårlig berøves sitt statsborgerskap eller nektes retten til å forandre det.\nArtikkel 16.\nVoksne menn og kvinner har rett til å gifte seg og stifte familie uten noen begrensning som skyldes rase,\nnasjonalitet eller religion. De har krav på like rettigheter ved inngåelse av ekteskapet, under ekteskapet og\nved dets oppløsning.\nEkteskap må bare inngås etter fritt og fullt samtykke av de vordende ektefeller.\nFamilien er den naturlige og grunnleggende enhet i samfunnet og har krav på samfunnets og statens\nbeskyttelse.\nArtikkel 17.\nEnhver har rett til å eie eiendom alene eller sammen med andre.\nIngen må vilkårlig fratas sin eiendom.\nArtikkel 18."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "af8434a8adc6f46d17f3785feaa808ff",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Enhver har rett til tanke-, samvittighets- og religionsfrihet. Denne rett omfatter frihet til å skifte religion eller\ntro, og frihet til enten alene eller sammen med andre, og offentlig eller privat, å gi uttrykk for sin religion\neller tro gjennom undervisning, utøvelse, tilbedelse og ritualer.\nArtikkel 19.\nEnhver har rett til menings- og ytringsfrihet. Denne rett omfatter frihet til å hevde meninger uten innblanding\nog til å søke, motta og meddele opplysninger og ideer gjennom ethvert meddelelsesmiddel og uten hensyn til\nlandegrenser.\nArtikkel 20.\nEnhver har rett til fritt å delta i fredelige møter og organisasjoner.\nIngen må tvinges til å tilhøre en organisasjon.\nArtikkel 21.\nEnhver har rett til å ta del i sitt lands styre, direkte eller gjennom fritt valgte representanter.\nEnhver har rett til lik adgang til offentlig tjeneste i sitt land.\nFolkets vilje skal være grunnlaget for offentlig myndighet. Denne vilje skal komme til uttrykk gjennom\nperiodiske og reelle valg med allmenn og lik stemmerett og med hemmelig avstemning eller likeverdig fri\nstemmemåte.\nArtikkel 22.\nEnhver har som medlem av samfunnet rett til sosial trygghet og har krav på at de økonomiske, sosiale og\nkulturelle goder som er uunnværlige for hans verdighet og den frie utvikling av hans personlighet, blir\nskaffet til veie gjennom nasjonale tiltak og internasjonalt samarbeid i samsvar med hver enkelt stats",
-            "Image": "af8434a8adc6f46d17f3785feaa808ff"
+            "Text": "Enhver har rett til tanke-, samvittighets- og religionsfrihet. Denne rett omfatter frihet til å skifte religion eller\ntro, og frihet til enten alene eller sammen med andre, og offentlig eller privat, å gi uttrykk for sin religion\neller tro gjennom undervisning, utøvelse, tilbedelse og ritualer.\nArtikkel 19.\nEnhver har rett til menings- og ytringsfrihet. Denne rett omfatter frihet til å hevde meninger uten innblanding\nog til å søke, motta og meddele opplysninger og ideer gjennom ethvert meddelelsesmiddel og uten hensyn til\nlandegrenser.\nArtikkel 20.\nEnhver har rett til fritt å delta i fredelige møter og organisasjoner.\nIngen må tvinges til å tilhøre en organisasjon.\nArtikkel 21.\nEnhver har rett til å ta del i sitt lands styre, direkte eller gjennom fritt valgte representanter.\nEnhver har rett til lik adgang til offentlig tjeneste i sitt land.\nFolkets vilje skal være grunnlaget for offentlig myndighet. Denne vilje skal komme til uttrykk gjennom\nperiodiske og reelle valg med allmenn og lik stemmerett og med hemmelig avstemning eller likeverdig fri\nstemmemåte.\nArtikkel 22.\nEnhver har som medlem av samfunnet rett til sosial trygghet og har krav på at de økonomiske, sosiale og\nkulturelle goder som er uunnværlige for hans verdighet og den frie utvikling av hans personlighet, blir\nskaffet til veie gjennom nasjonale tiltak og internasjonalt samarbeid i samsvar med hver enkelt stats"
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "18e40b572afb6680c232584423530900",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "organisasjon og ressurser.\nArtikkel 23.\nEnhver har rett til arbeid, til fritt valg av yrke, til rettferdige og gode arbeidsforhold og til beskyttelse mot\narbeidsløshet.\nEnhver har uten diskriminering rett til lik betaling for likt arbeid.\nEnhver som arbeider har rett til en rettferdig og god betaling som sikrer hans familie og ham selv en\nmenneskeverdig tilværelse, og som om nødvendig blir utfylt ved annen sosial beskyttelse.\nEnhver har rett til å danne og gå inn i fagforeninger for å beskytte sine interesser.\nArtikkel 24.\nEnhver har rett til hvile og fritid, herunder rimelig begrensning av arbeidstiden og regelmessige ferier med\nlønn.\nArtikkel 25.\nEnhver har rett til en levestandard som er tilstrekkelig for hans og hans families helse og velvære, og som\nomfatter mat, klær, bolig og helseomsorg og nødvendige sosiale ytelser, og rett til trygghet i tilfelle av\narbeidsløshet, sykdom, arbeidsuførhet, enkestand, alderdom eller annen mangel på eksistensmuligheter som\nskyldes forhold han ikke er herre over.\nMødre og barn har rett til spesiell omsorg og hjelp. Alle barn skal ha samme sosiale beskyttelse enten de er\nfødt i eller utenfor ekteskap.\nArtikkel 26.\nEnhver har rett til undervisning. Undervisningen skal være gratis, i det minste på de elementære og",
-            "Image": "18e40b572afb6680c232584423530900"
+            "Text": "organisasjon og ressurser.\nArtikkel 23.\nEnhver har rett til arbeid, til fritt valg av yrke, til rettferdige og gode arbeidsforhold og til beskyttelse mot\narbeidsløshet.\nEnhver har uten diskriminering rett til lik betaling for likt arbeid.\nEnhver som arbeider har rett til en rettferdig og god betaling som sikrer hans familie og ham selv en\nmenneskeverdig tilværelse, og som om nødvendig blir utfylt ved annen sosial beskyttelse.\nEnhver har rett til å danne og gå inn i fagforeninger for å beskytte sine interesser.\nArtikkel 24.\nEnhver har rett til hvile og fritid, herunder rimelig begrensning av arbeidstiden og regelmessige ferier med\nlønn.\nArtikkel 25.\nEnhver har rett til en levestandard som er tilstrekkelig for hans og hans families helse og velvære, og som\nomfatter mat, klær, bolig og helseomsorg og nødvendige sosiale ytelser, og rett til trygghet i tilfelle av\narbeidsløshet, sykdom, arbeidsuførhet, enkestand, alderdom eller annen mangel på eksistensmuligheter som\nskyldes forhold han ikke er herre over.\nMødre og barn har rett til spesiell omsorg og hjelp. Alle barn skal ha samme sosiale beskyttelse enten de er\nfødt i eller utenfor ekteskap.\nArtikkel 26.\nEnhver har rett til undervisning. Undervisningen skal være gratis, i det minste på de elementære og"
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "0df26bbb7a085298d969836bb98fe054",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "grunnleggende trinn. Elementærundervisning skal være obligatorisk. Alle skal ha adgang til yrkesopplæring,\nog det skal være lik adgang for alle til høyere undervisning på grunnlag av kvalifikasjoner.\nUndervisningen skal ta sikte på å utvikle den menneskelige personlighet og styrke respekten for\nmenneskerettighetene og de grunnleggende friheter. Den skal fremme forståelse, toleranse og vennskap\nmellom alle nasjoner og rasegrupper eller religiøse grupper og skal støtte De Forente Nasjoners arbeid for å\nopprettholde fred.\nForeldre har fortrinnsrett til å bestemme hva slags undervisning deres barn skal få.\nArtikkel 27.\nEnhver har rett til fritt å delta i samfunnets kulturelle liv, til å nyte kunst og til å få del i den vitenskapelige\nframgang og dens goder.\nEnhver har rett til beskyttelse av de åndelige og materielle interesser som er et resultat av ethvert\nvitenskapelig, litterært eller kunstnerisk verk som han har skapt.\nArtikkel 28.\nEnhver har krav på en sosial og internasjonal orden som fullt ut kan virkeliggjøre de rettigheter og friheter\nsom er nevnt i denne erklæring.\nArtikkel 29.\nEnhver har plikter overfor samfunnet som alene gjør den frie og fulle utvikling av hans personlighet mulig.\nUnder utøvelsen av sine rettigheter og friheter skal enhver bare være undergitt slike begrensninger som er\nfastsatt i lov utelukkende med det formål å sikre den nødvendige anerkjennelse av og respekt for andres\nrettigheter og friheter, og de krav som moralen, den offentlige orden og den alminnelige velferd i et",
-            "Image": "0df26bbb7a085298d969836bb98fe054"
+            "Text": "grunnleggende trinn. Elementærundervisning skal være obligatorisk. Alle skal ha adgang til yrkesopplæring,\nog det skal være lik adgang for alle til høyere undervisning på grunnlag av kvalifikasjoner.\nUndervisningen skal ta sikte på å utvikle den menneskelige personlighet og styrke respekten for\nmenneskerettighetene og de grunnleggende friheter. Den skal fremme forståelse, toleranse og vennskap\nmellom alle nasjoner og rasegrupper eller religiøse grupper og skal støtte De Forente Nasjoners arbeid for å\nopprettholde fred.\nForeldre har fortrinnsrett til å bestemme hva slags undervisning deres barn skal få.\nArtikkel 27.\nEnhver har rett til fritt å delta i samfunnets kulturelle liv, til å nyte kunst og til å få del i den vitenskapelige\nframgang og dens goder.\nEnhver har rett til beskyttelse av de åndelige og materielle interesser som er et resultat av ethvert\nvitenskapelig, litterært eller kunstnerisk verk som han har skapt.\nArtikkel 28.\nEnhver har krav på en sosial og internasjonal orden som fullt ut kan virkeliggjøre de rettigheter og friheter\nsom er nevnt i denne erklæring.\nArtikkel 29.\nEnhver har plikter overfor samfunnet som alene gjør den frie og fulle utvikling av hans personlighet mulig.\nUnder utøvelsen av sine rettigheter og friheter skal enhver bare være undergitt slike begrensninger som er\nfastsatt i lov utelukkende med det formål å sikre den nødvendige anerkjennelse av og respekt for andres\nrettigheter og friheter, og de krav som moralen, den offentlige orden og den alminnelige velferd i et"
         },
         "8": {
-            "Label": "9",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "3c56cc3a09feecd14fa70b8fef63ad5e",
             "Index": 8,
+            "Label": "9",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "demokratisk samfunn med rette stiller.\nDisse rettigheter og friheter må ikke i noe tilfelle utøves i strid med De Forente Nasjoners formål og\nprinsipper.\nArtikkel 30.\nIntet i denne erklæring skal tolkes slik at det gir noen stat, gruppe eller person rett til å ta del i noen\nvirksomhet eller foreta noen handling som tar sikte på å ødelegge noen av de rettigheter og friheter som er\nnevnt i Erklæringen.",
-            "Image": "3c56cc3a09feecd14fa70b8fef63ad5e"
+            "Text": "demokratisk samfunn med rette stiller.\nDisse rettigheter og friheter må ikke i noe tilfelle utøves i strid med De Forente Nasjoners formål og\nprinsipper.\nArtikkel 30.\nIntet i denne erklæring skal tolkes slik at det gir noen stat, gruppe eller person rett til å ta del i noen\nvirksomhet eller foreta noen handling som tar sikte på å ødelegge noen av de rettigheter og friheter som er\nnevnt i Erklæringen."
         }
     }
 }

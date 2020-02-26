@@ -1,80 +1,80 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581469159,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "3d4663404cd970d2f4b77ac9f30be14a",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "KUDITEJA CHA KAYI KEJIMA HA NSHIMBI JA WUNTU\nPREAMBLE\nKuhitila mu kwiteja nakulemesha muntu, chakubuka kwambula chisaka cha muntu wejima munu mukayi hichikunku kwafuma kulubuka\nnakudimena, wusompeshi hamu na kuwunda munu mu kayi kejima.\nKubula kulondela nshimbi ja wuntu chinaleteshi kubula kutiyangana hakachi kwawantu atela kwikala na nshimbi jakudihoshela\nkuditongojokela chakadi kutiya nachu woma, chuma chalema mu kuhanda kwamuntu.\nChekala chasweja kulema neyi abuli kunukanjikija nakukenga kufubukila akwawu adi na kumukakesha, ilanga muntu watela kukinge wa na\nnshimbi.\nMu chitiyangenu chawaka United Nations, eteja chikuhwelelu chawu mu nshimbi ja wuntu, ekala iyala hela mubanda, nikumona nawu antu\nenjima anatwali kumbidi chahandilu.\nMatunga amu United Nations adishika kumona nawu hadichitiyangenu, kalemesha ni kulondela nshimbi ja wuntu.\nNshimbi yeniyi ya kayi kejima ya Wuntu wa Muntu, hi njila yimu yakuwahishilamu chihandilu chawantu hamu nanyidimu yamatunga, dichi\nmuntu wejima hela yipompelu yawantu eteja kulondela nshimbi yamuchidiwu watela kuzata mweneni nakumona neyi natangishi nshimbi ja\nwuntu, mu kukenga kuleta chitiyangenu mu kachi kamatunga hamu ekala ma memba hamu nawantu ejima munu mu kayi.\nINSHIMBI JETUNG'A JAWUNTU\nChikunku 1\nMuntu wejima wasemuka walukbuka wesekana hamu ni akwawu mukumulemesha. Wenkewa kutong'ojoka nikuzatila hamu nimukwawu\nmuntu muwunta'a.\nChikunku 2\nMuntu wejima watela kwiluka inshimbi jawuntu nikwila wakasuluka kulondela kudishika kweniku chakadi kusakula muchidi, ikowa, iyala indi\nmubanda hela kuchisaka kwafumahi nikutala hamaheta. Nayuma yikwawu.\nKosi kumwekesha chambu hakachi kawantu mulongg'a wakutala hetung'a kwafumayi itung'a neyi datambula chiyulu indi tahindi nehi hela\nkutala munjila adina itung'a chadiyulang'awu.\nChikunku 3\nMuntu wejima watela kuhanda chiwahi mukushakama kwindi, walubuka nikumona nawu waking'ewa mumakabi adi ejima.",
-            "Image": "3d4663404cd970d2f4b77ac9f30be14a"
+            "Text": "KUDITEJA CHA KAYI KEJIMA HA NSHIMBI JA WUNTU\nPREAMBLE\nKuhitila mu kwiteja nakulemesha muntu, chakubuka kwambula chisaka cha muntu wejima munu mukayi hichikunku kwafuma kulubuka\nnakudimena, wusompeshi hamu na kuwunda munu mu kayi kejima.\nKubula kulondela nshimbi ja wuntu chinaleteshi kubula kutiyangana hakachi kwawantu atela kwikala na nshimbi jakudihoshela\nkuditongojokela chakadi kutiya nachu woma, chuma chalema mu kuhanda kwamuntu.\nChekala chasweja kulema neyi abuli kunukanjikija nakukenga kufubukila akwawu adi na kumukakesha, ilanga muntu watela kukinge wa na\nnshimbi.\nMu chitiyangenu chawaka United Nations, eteja chikuhwelelu chawu mu nshimbi ja wuntu, ekala iyala hela mubanda, nikumona nawu antu\nenjima anatwali kumbidi chahandilu.\nMatunga amu United Nations adishika kumona nawu hadichitiyangenu, kalemesha ni kulondela nshimbi ja wuntu.\nNshimbi yeniyi ya kayi kejima ya Wuntu wa Muntu, hi njila yimu yakuwahishilamu chihandilu chawantu hamu nanyidimu yamatunga, dichi\nmuntu wejima hela yipompelu yawantu eteja kulondela nshimbi yamuchidiwu watela kuzata mweneni nakumona neyi natangishi nshimbi ja\nwuntu, mu kukenga kuleta chitiyangenu mu kachi kamatunga hamu ekala ma memba hamu nawantu ejima munu mu kayi.\nINSHIMBI JETUNG'A JAWUNTU\nChikunku 1\nMuntu wejima wasemuka walukbuka wesekana hamu ni akwawu mukumulemesha. Wenkewa kutong'ojoka nikuzatila hamu nimukwawu\nmuntu muwunta'a.\nChikunku 2\nMuntu wejima watela kwiluka inshimbi jawuntu nikwila wakasuluka kulondela kudishika kweniku chakadi kusakula muchidi, ikowa, iyala indi\nmubanda hela kuchisaka kwafumahi nikutala hamaheta. Nayuma yikwawu.\nKosi kumwekesha chambu hakachi kawantu mulongg'a wakutala hetung'a kwafumayi itung'a neyi datambula chiyulu indi tahindi nehi hela\nkutala munjila adina itung'a chadiyulang'awu.\nChikunku 3\nMuntu wejima watela kuhanda chiwahi mukushakama kwindi, walubuka nikumona nawu waking'ewa mumakabi adi ejima."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "25b998944b9d31f40afb9cb56ab1f7a4",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "Chikunku 4\nKosi muntu akahembawu chineyi indung'u hela kwikala indung'u. Yuma yejima yadikuma kuwundung'u yatela kulekewa.\nChikunku 5\nKosi muntu akayandishawu munjila yakubula kutela hela kubabeshewa munjila yidi yejoma yatama.\nChikunku 6\nMuntu wejima atela kumulemesha kwejima kwadiyi kulondela inshimbi jetung'a.\nChikunku 7\nAntu ejima ekala esekana muchihandilu chawu kweseka nanshimbi dichi itung'a datela kuking'a ona muntu mukulondela muchitiyang'enu\nchenichi.\nChikunku 8\nMuntu wejima wekala nang'ovu jakudiking'a munyilong'a yidi yejima mukulondela inshimbi jakuking'a muntu.\nChikunku 9\nKosi muntu akakasawu chakadi kulondela inshimbi hela kutumewa mwitung'a dacheng'i chakadi kulondela inshimbi.\nChikunku 10\nMuntu wejima wenkewa ing'ovu jakumona nindi anasompi nyilong'a yindi chiwahi mu chota chanyilong'a mukulondela inshimbi nakudiking'a\nomweni munyilong'a.\nChikunku 11\nMuntu wejima anawani namulong'a atela kumuhemba neyi muntu walong'a ninichi chakumusompeshawu nakumuwana namulong'a.\nKosi kwinka muntu mulong'a chakadi wunsahu walalaku. Muntu neyi nazati mulong' dichi enza nakumusompesha henohu inshimbi jamatung'a\njinahimpewi, iwu muntu atela kumukasa kulondela impinji yamuweniwu namulong'a bayi neyi kulondela inshimbi jajihaku.\nChikunku 12\nKosi muntu akalung'esahwu muchihandilu chindi hela inshakaminu yindi nachisaka chindiku hela kutamisha ijina dindiku. Muntu wejima\nwatela kuking'ewa muyuma yamuchidiwu.\nChikunku 13",
-            "Image": "25b998944b9d31f40afb9cb56ab1f7a4"
+            "Text": "Chikunku 4\nKosi muntu akahembawu chineyi indung'u hela kwikala indung'u. Yuma yejima yadikuma kuwundung'u yatela kulekewa.\nChikunku 5\nKosi muntu akayandishawu munjila yakubula kutela hela kubabeshewa munjila yidi yejoma yatama.\nChikunku 6\nMuntu wejima atela kumulemesha kwejima kwadiyi kulondela inshimbi jetung'a.\nChikunku 7\nAntu ejima ekala esekana muchihandilu chawu kweseka nanshimbi dichi itung'a datela kuking'a ona muntu mukulondela muchitiyang'enu\nchenichi.\nChikunku 8\nMuntu wejima wekala nang'ovu jakudiking'a munyilong'a yidi yejima mukulondela inshimbi jakuking'a muntu.\nChikunku 9\nKosi muntu akakasawu chakadi kulondela inshimbi hela kutumewa mwitung'a dacheng'i chakadi kulondela inshimbi.\nChikunku 10\nMuntu wejima wenkewa ing'ovu jakumona nindi anasompi nyilong'a yindi chiwahi mu chota chanyilong'a mukulondela inshimbi nakudiking'a\nomweni munyilong'a.\nChikunku 11\nMuntu wejima anawani namulong'a atela kumuhemba neyi muntu walong'a ninichi chakumusompeshawu nakumuwana namulong'a.\nKosi kwinka muntu mulong'a chakadi wunsahu walalaku. Muntu neyi nazati mulong' dichi enza nakumusompesha henohu inshimbi jamatung'a\njinahimpewi, iwu muntu atela kumukasa kulondela impinji yamuweniwu namulong'a bayi neyi kulondela inshimbi jajihaku.\nChikunku 12\nKosi muntu akalung'esahwu muchihandilu chindi hela inshakaminu yindi nachisaka chindiku hela kutamisha ijina dindiku. Muntu wejima\nwatela kuking'ewa muyuma yamuchidiwu.\nChikunku 13"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "ae96a7f33bc6b6867d80028e6ff96f68",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "Muntu wejima watela kwenda munakukeng'elayi omweni nikushakama kwilug'a kunakuke'a omwenindi.\nMuntu wejima natweshi kuya kwitung'a dacheng'i nikufunta mwitung'a dindi chakadi kuwana kukala mukwenda kwindi.\nChikunku 14\nMuntu wejima wenkewa ing'ovu jakuya nakushaka mwitung'a dacheng'i kuchina nyilong'a mwitung'a dindi.\nIlang'a iyi nshimbi hiyinatweshi kuzata kudi muntu nazati mulong'a wadikuma mukutamisha nfulumendi yetung'a dinaku hela nabuli kulondela\ninshimbi jawaka United Nations.\nChikunku 15\nMuntu wejima natweshi kusemukila kwitung'a kudi kwejima.\nKosi muntu akayandishawu mulong'a wakwiilung'a kwasemukilayi hela kuhimpa.\nChikunku 16\nMayala ni ambanda akula dhim enkewa ing'ovu jakusakula muntu wakusumbula chakadi kusakula ikowa muchidi chakala nakenji\nomwendindi. Awa enkewa ing'ovu jakushakama muntu namuketala didindi ninichi chacadisengawi.\nAntu akadisumbula mukukeng'a kwawu.\nChisaka hichuma chanentesha neyi kwikali kushakama hamu mwitung'a dichi chisaka chatela kuking'ewa.\nChikunku 17\nMuntu wekala nang'ovu jakwikala namaheta inkawindi hela nawakwawu antu.\nKosi muntu akatambulawu maheta chakadi kuchikeng'a omweni.\nChikunku 18\nMuntu wejima wenkewa ing'ovu jakuditong'ojokela nikusakula kuchachi kunakukeng'ayi omweni, natweshi kuya kuchachi yacheng'i neyi\nnachimoni nindi chalo'a mukuzatila hamu ni akwawu, kutang'isha nikulondela inshimbi mukulombela kwindi.\nChikunku 19\nMuntu wejima wenkewa ing'ovu yakutong'ojoka nikuhosha hansang'a yidi yejima chakadi kutiya womaku mukukeng'a kwiluka wunsahu\nwalala hansang'u yinakuleng'ayi kwiluka chiwahi.\nChikunku 20",
-            "Image": "ae96a7f33bc6b6867d80028e6ff96f68"
+            "Text": "Muntu wejima watela kwenda munakukeng'elayi omweni nikushakama kwilug'a kunakuke'a omwenindi.\nMuntu wejima natweshi kuya kwitung'a dacheng'i nikufunta mwitung'a dindi chakadi kuwana kukala mukwenda kwindi.\nChikunku 14\nMuntu wejima wenkewa ing'ovu jakuya nakushaka mwitung'a dacheng'i kuchina nyilong'a mwitung'a dindi.\nIlang'a iyi nshimbi hiyinatweshi kuzata kudi muntu nazati mulong'a wadikuma mukutamisha nfulumendi yetung'a dinaku hela nabuli kulondela\ninshimbi jawaka United Nations.\nChikunku 15\nMuntu wejima natweshi kusemukila kwitung'a kudi kwejima.\nKosi muntu akayandishawu mulong'a wakwiilung'a kwasemukilayi hela kuhimpa.\nChikunku 16\nMayala ni ambanda akula dhim enkewa ing'ovu jakusakula muntu wakusumbula chakadi kusakula ikowa muchidi chakala nakenji\nomwendindi. Awa enkewa ing'ovu jakushakama muntu namuketala didindi ninichi chacadisengawi.\nAntu akadisumbula mukukeng'a kwawu.\nChisaka hichuma chanentesha neyi kwikali kushakama hamu mwitung'a dichi chisaka chatela kuking'ewa.\nChikunku 17\nMuntu wekala nang'ovu jakwikala namaheta inkawindi hela nawakwawu antu.\nKosi muntu akatambulawu maheta chakadi kuchikeng'a omweni.\nChikunku 18\nMuntu wejima wenkewa ing'ovu jakuditong'ojokela nikusakula kuchachi kunakukeng'ayi omweni, natweshi kuya kuchachi yacheng'i neyi\nnachimoni nindi chalo'a mukuzatila hamu ni akwawu, kutang'isha nikulondela inshimbi mukulombela kwindi.\nChikunku 19\nMuntu wejima wenkewa ing'ovu yakutong'ojoka nikuhosha hansang'a yidi yejima chakadi kutiya womaku mukukeng'a kwiluka wunsahu\nwalala hansang'u yinakuleng'ayi kwiluka chiwahi.\nChikunku 20"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "9b567fc6a8a9afb7e47fd9a5e6c00e43",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "Muntu wejima wenkewa ing'ovu jakudiwana nawakwawu muyipompelu.\nKosi muntu akakanjikijawu kwikala membala muchipompelu chidi chejima.\nChinkuku 21\nMuntu wejima wenkewa ing'ovu jakuzatila nfulumendi hela kuhitila mudi akwawu mukukeng'a kwindi.\nMuntu wejima wenkewa ing'ovu jakuzata nyidimu yanfulumendi mwitung'a dindi.\nItung'a dikayulewa mukukeng'a kwawantu hanyima yakusakula kwawantu akuyiemenaku chikekalang'a hampinji hampinji.\nChikunku 22\nMuntu wejima wenkew ing'ovu jakudiking'a muchihandilu chindi kuhitila muku zatila hamu nikulondela maheta etung'a chihandilu chamuntu\nnichisemwa mulong'a chakadi yena kwikala wakashinshi hikunatweshi kutwala chihandilu chindi kumbidiku.\nChikunku 23\nMuntu wejima wenkewa ing'ovu jakuzata mudimu tinakukeng'ayi nikumona nindi ndiking'a hanyidimu yindi.\nMuntu wejima chakadi kusakula hela kunentahu chambu watela kutambula infwetu jindi kwesekana nanyidimu yinakuzatayi.\nMuntu wejima watela kumona nindi infwetu jindi jinatweshi kukwasha yena hamu nichisaka chindi muchihandilu chawu.\nMuntu wejima natweshi kwikala membala wachibalu chatalang'a hadi ankong'i mukuyikwasha mumakabi awu.\nChikunku 24\nMuntu wejima watela kunoka nikuzata mumpinji yatela nikuya nakunooka ninfwetu jindi. Muntu wejima wenkewa ing'ovu jakumona\nhanyidimu yindi nikumona nindi natambuli infwetu jindi impinji achidiyi nakunoka.\nChikunku 25\nMuntu wejima wenkewa ing'ovu jakumona nindi chisaka chindi chinakuhanda chiwahi, anakuda chiwahi anakukama mwitala dadiwahi,\nanakutambula yitumbu yalong'a kuchipatela nikumona nindi mumpinji yakuleka nyidimu iwu muntu anamuking'i mulong'a hadaha wakata,\nchifwayi nakuli nankashi dichi hanatweshi kutwalekahu nakuzataku hela wafwisha hela kudi chuma chinanenteshi nawu abuli kutwalekahu\nnakuzata nyidimu.\nMukweyayai hamu nimwana atela kuking'ewa nikuhembewa chiwahi nikumona nawu anakuyikwasha. Anyana ejima asemuka muwujila hela\nachidi kushakama nawanvwali jawu atela kuking'ewa munjila yidi yejima.\nChikunku 26",
-            "Image": "9b567fc6a8a9afb7e47fd9a5e6c00e43"
+            "Text": "Muntu wejima wenkewa ing'ovu jakudiwana nawakwawu muyipompelu.\nKosi muntu akakanjikijawu kwikala membala muchipompelu chidi chejima.\nChinkuku 21\nMuntu wejima wenkewa ing'ovu jakuzatila nfulumendi hela kuhitila mudi akwawu mukukeng'a kwindi.\nMuntu wejima wenkewa ing'ovu jakuzata nyidimu yanfulumendi mwitung'a dindi.\nItung'a dikayulewa mukukeng'a kwawantu hanyima yakusakula kwawantu akuyiemenaku chikekalang'a hampinji hampinji.\nChikunku 22\nMuntu wejima wenkew ing'ovu jakudiking'a muchihandilu chindi kuhitila muku zatila hamu nikulondela maheta etung'a chihandilu chamuntu\nnichisemwa mulong'a chakadi yena kwikala wakashinshi hikunatweshi kutwala chihandilu chindi kumbidiku.\nChikunku 23\nMuntu wejima wenkewa ing'ovu jakuzata mudimu tinakukeng'ayi nikumona nindi ndiking'a hanyidimu yindi.\nMuntu wejima chakadi kusakula hela kunentahu chambu watela kutambula infwetu jindi kwesekana nanyidimu yinakuzatayi.\nMuntu wejima watela kumona nindi infwetu jindi jinatweshi kukwasha yena hamu nichisaka chindi muchihandilu chawu.\nMuntu wejima natweshi kwikala membala wachibalu chatalang'a hadi ankong'i mukuyikwasha mumakabi awu.\nChikunku 24\nMuntu wejima watela kunoka nikuzata mumpinji yatela nikuya nakunooka ninfwetu jindi. Muntu wejima wenkewa ing'ovu jakumona\nhanyidimu yindi nikumona nindi natambuli infwetu jindi impinji achidiyi nakunoka.\nChikunku 25\nMuntu wejima wenkewa ing'ovu jakumona nindi chisaka chindi chinakuhanda chiwahi, anakuda chiwahi anakukama mwitala dadiwahi,\nanakutambula yitumbu yalong'a kuchipatela nikumona nindi mumpinji yakuleka nyidimu iwu muntu anamuking'i mulong'a hadaha wakata,\nchifwayi nakuli nankashi dichi hanatweshi kutwalekahu nakuzataku hela wafwisha hela kudi chuma chinanenteshi nawu abuli kutwalekahu\nnakuzata nyidimu.\nMukweyayai hamu nimwana atela kuking'ewa nikuhembewa chiwahi nikumona nawu anakuyikwasha. Anyana ejima asemuka muwujila hela\nachidi kushakama nawanvwali jawu atela kuking'ewa munjila yidi yejima.\nChikunku 26"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "2b39775f5ee254488bb2d481721db56a",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "Muntu wejima amwinka ing'ovu jakuya kushikola nakutang'a. Kosi muntu wakafwetang mali hakutang'isha kumasikola anyanya. Muntu\nwejima natweshi kutwalekahu kutang'a kulondela maana adiyi nawu amweni.\nKutang'a kukekalang'a koku kulonda chikakwashi muntu muchihandilu chindi nikumona nindi anakumulemesha kulondela inshimbi jamuntu.\nChikakwasha antu kutiyang'ana hakachi kamatung'a, nyichidi nikumona nawu anakushakama mwilung'a mudi chiwunda kulondela inshimbi\njawaka United Nations.\nAnvwali ekala nang'ovu jakusakula mashikola awanyaanawu.\nChikunku 27\nMuntu wejima wenkewa ing'ovu jakuzatila hamu mukutwala chisemwa cawu kumbidi mwilung'a nunakushakamawu nikunoma nawu\nchinakuyikwasha.\n(missing)\nChikunku 28\nMuntu wejima wenkewa ing'ovu muchihandilu chindi mwitung'a. Muntu wejima wenkewa ing'ovu jakumona nindi ichi chitiyang'enu\nchamukayi kejima anachinjikiji muchihandilu chindi.\nChikunku 29\nMuntu wejima wekala namudimu wakumona nindi yuma yinakuya kumbidi mwilung'a munakushakamayi.\nMukuzatisha ing'ovu jamwinkawu muntu, muntu wejima wakazatila hamu ni antu lenkawu ing'ovu jakuyula akwawu mukuking'a nikulemesha\ninshimbi jawuntu mwilung'a dawu.\nIji nshimbi hijatela kuzatishewa munjila yabula kulong'a nakwesekana nanshimbi jawaka United Nations.\nChikunku 30\nIji nshimbi hijatela kuluwang'eshaku mwitung'a hela muntu mukukeng'a kujikisa muijila yidi yejima.",
-            "Image": "2b39775f5ee254488bb2d481721db56a"
+            "Text": "Muntu wejima amwinka ing'ovu jakuya kushikola nakutang'a. Kosi muntu wakafwetang mali hakutang'isha kumasikola anyanya. Muntu\nwejima natweshi kutwalekahu kutang'a kulondela maana adiyi nawu amweni.\nKutang'a kukekalang'a koku kulonda chikakwashi muntu muchihandilu chindi nikumona nindi anakumulemesha kulondela inshimbi jamuntu.\nChikakwasha antu kutiyang'ana hakachi kamatung'a, nyichidi nikumona nawu anakushakama mwilung'a mudi chiwunda kulondela inshimbi\njawaka United Nations.\nAnvwali ekala nang'ovu jakusakula mashikola awanyaanawu.\nChikunku 27\nMuntu wejima wenkewa ing'ovu jakuzatila hamu mukutwala chisemwa cawu kumbidi mwilung'a nunakushakamawu nikunoma nawu\nchinakuyikwasha.\n(missing)\nChikunku 28\nMuntu wejima wenkewa ing'ovu muchihandilu chindi mwitung'a. Muntu wejima wenkewa ing'ovu jakumona nindi ichi chitiyang'enu\nchamukayi kejima anachinjikiji muchihandilu chindi.\nChikunku 29\nMuntu wejima wekala namudimu wakumona nindi yuma yinakuya kumbidi mwilung'a munakushakamayi.\nMukuzatisha ing'ovu jamwinkawu muntu, muntu wejima wakazatila hamu ni antu lenkawu ing'ovu jakuyula akwawu mukuking'a nikulemesha\ninshimbi jawuntu mwilung'a dawu.\nIji nshimbi hijatela kuzatishewa munjila yabula kulong'a nakwesekana nanshimbi jawaka United Nations.\nChikunku 30\nIji nshimbi hijatela kuluwang'eshaku mwitung'a hela muntu mukukeng'a kujikisa muijila yidi yejima."
         }
     }
 }

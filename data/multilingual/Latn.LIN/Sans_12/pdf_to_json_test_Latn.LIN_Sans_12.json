@@ -1,97 +1,97 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581469018,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
-            "Index": 0,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
             ],
-            "Text": "Lisakoli ya molongo ya makoki ya moto\nMaloba ya yambo\nNa botalaka ’te kondima limemya ya bato nyonso ya molongo pe makoki ma bango oyo ezali ndenge moko pe bakoki kopimela moto te ezali\ntina ya bonsomi, bosembo pe kimpa kati ya molongo. Na botalaka ’te komona pamba pe koboya kotosa esengeli ya moto ebatelama na bokonzi\nya bosembo po te, na sima yango, moto akoma na botombiki esongo na minyokoli te,\nNa botalaka ’te esengeli kolendisa boyokani na kati ya bikolo,\nNa botalaka ’te na kati ya Mokanda ya Mibeko ya Lisanga ya Bikolo ya Molongo, bato ya molongo bayebisi lisusu lolenge bandimi maloki ya\ntina yo moto, limemya pe lokumu ya moto, bokokani ya makoki ya basi pe mibali pe na botalaka ’te bango bayebisi ’te bazwi mokano ya\nkobongisa ezaleli ya moto pe kosala ’te moto azwa bomoi malamu penza na kati ya bonsomi ya monene penza,\nNa botalaka ’te kozala bato nyonso na makanisi ndenge moko po na makoki pe bonsomi yango, ezali na tina monene po ’te oyo bakani elonga,\nLIKITA MONENE\nezali koyebisa\nLISAKOLI YA MOLONGO OYO YA MAKOKI YA MOTO\nlokola eloko oyo bato pe bikolo nyonso balingi babwa, po te bato pe mangomba nyonso, na bobatelaka tango nyonso Lisakoli yango na\nmoteme, basala makasi na boteyi pe bokolisi bwanya, po ’te makoki pe bonsomi yango etosama pe basala ’te bandima pe basalela yango na\nbosolo penza na molongo mobimba, ezala na kati ya bato ya Bikolo ya Lisanga bango moko to na kati ya ekolo pe molongo mobimba.\nETENI YA yambo (1)\nBato nyonso na mbotama bazali nzomi pe bakokani na limemya pe makoki. Bazali na mayele pe basengeli kofanda na bondeko okati na bango.\nETENI YA 2\nMoto nyonso azali na makoki pe bonsomi nyonso oyo elimbolami na kati ya Lisakoli oyo, bokeseni ata moke te, na mambi matali loposo ya\nnzoto, bomwasi to bobali, lokota, lingomba ya nzambe, makanisi ya politiki to ya ndenge mosusu, ekolo to longomba ya bato, bokulaka,\nmbotama to makambo mosusu.\nEpai mosusu, na botalaka eloko ya moto, epikisami kosala bokeseni na mambi matali mibeko ya politiki, mibeko ya bosambisi to ya boyokani\nna mikili mosusu, ezala ekolo to mabele ya nsomi to oyo eyangelemani na bauta, to oyo ezwi bonsomi ya sikisiki te.\nETENI YA 3",
-            "Image": "d8b02a5e033a82a44d380264ae1befc3"
+            "Image": "d8b02a5e033a82a44d380264ae1befc3",
+            "Index": 0,
+            "Label": "1",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Lisakoli ya molongo ya makoki ya moto\nMaloba ya yambo\nNa botalaka ’te kondima limemya ya bato nyonso ya molongo pe makoki ma bango oyo ezali ndenge moko pe bakoki kopimela moto te ezali\ntina ya bonsomi, bosembo pe kimpa kati ya molongo. Na botalaka ’te komona pamba pe koboya kotosa esengeli ya moto ebatelama na bokonzi\nya bosembo po te, na sima yango, moto akoma na botombiki esongo na minyokoli te,\nNa botalaka ’te esengeli kolendisa boyokani na kati ya bikolo,\nNa botalaka ’te na kati ya Mokanda ya Mibeko ya Lisanga ya Bikolo ya Molongo, bato ya molongo bayebisi lisusu lolenge bandimi maloki ya\ntina yo moto, limemya pe lokumu ya moto, bokokani ya makoki ya basi pe mibali pe na botalaka ’te bango bayebisi ’te bazwi mokano ya\nkobongisa ezaleli ya moto pe kosala ’te moto azwa bomoi malamu penza na kati ya bonsomi ya monene penza,\nNa botalaka ’te kozala bato nyonso na makanisi ndenge moko po na makoki pe bonsomi yango, ezali na tina monene po ’te oyo bakani elonga,\nLIKITA MONENE\nezali koyebisa\nLISAKOLI YA MOLONGO OYO YA MAKOKI YA MOTO\nlokola eloko oyo bato pe bikolo nyonso balingi babwa, po te bato pe mangomba nyonso, na bobatelaka tango nyonso Lisakoli yango na\nmoteme, basala makasi na boteyi pe bokolisi bwanya, po ’te makoki pe bonsomi yango etosama pe basala ’te bandima pe basalela yango na\nbosolo penza na molongo mobimba, ezala na kati ya bato ya Bikolo ya Lisanga bango moko to na kati ya ekolo pe molongo mobimba.\nETENI YA yambo (1)\nBato nyonso na mbotama bazali nzomi pe bakokani na limemya pe makoki. Bazali na mayele pe basengeli kofanda na bondeko okati na bango.\nETENI YA 2\nMoto nyonso azali na makoki pe bonsomi nyonso oyo elimbolami na kati ya Lisakoli oyo, bokeseni ata moke te, na mambi matali loposo ya\nnzoto, bomwasi to bobali, lokota, lingomba ya nzambe, makanisi ya politiki to ya ndenge mosusu, ekolo to longomba ya bato, bokulaka,\nmbotama to makambo mosusu.\nEpai mosusu, na botalaka eloko ya moto, epikisami kosala bokeseni na mambi matali mibeko ya politiki, mibeko ya bosambisi to ya boyokani\nna mikili mosusu, ezala ekolo to mabele ya nsomi to oyo eyangelemani na bauta, to oyo ezwi bonsomi ya sikisiki te.\nETENI YA 3"
         },
         "1": {
-            "Label": "2",
-            "Index": 1,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
             ],
-            "Text": "Moto nyonso azali na likoki ya kozala na bomoi, a kozala somi pe kozala motema sei na bomoto na ye.\nETENI YA 4\nMoto ata moke te asengeli kozala moumbu; boumbu pe boteki baumbu epikisami na ndenge nyonso.\nETENI YA 5\nMoto ata moke te asengeli konyokama pe kosalelama makambo ya bonyama pe oyo ezanga bomoto na lokumu.\nETENI YA 6\nMoto nyonso azali na likoki ’te bayeba makoki na ye bipai nyonso.\nETENI YA 7\nBato nyonso bakokani liboso ya mobeko pe bazali na likoki ya kobatelama na mobeko se ndenge moko. Banso bazali na likoki ya kobatelama\nse ndenge moko esongo na bikela nyonso ya bokesenisi elongobani te na Lisakoli oyo pe esengo na bikela nyonso oyo ekobota bokesenisi\nyango.\nETENI YA 8\nMoto nyonso azali na likoki ya koluka lisalisi ya solo penza na liboso ya mangomba ya bosambisi ya ekolo oyo ezali na bwanya esongo na\nbikela oyo ekotangola maloki ya tina endimami na mibeko po na ye.\nETENI YA 9\nMoto moko te akoki kokangama to kobengisama tina te.\nETENI YA 10\nMoto nyonso azali na likoki ’te likambo na ye lokola ya bato nyonso, essambisama na bosembo pe na miso ya bato nyonso na esambiselo ya\nsomi pe ya epai moko te, oyo ekozwa mikano engebene na makoki pe masenginia ye to engebene na bosolo ya likambo ye afundami.\nETENI YA 11\nMoto nyonso oyo afundami na likambo azali naino maboko pembe tee tango bakotatola engebene na mobeko, mabe ye asali, na libanza oyo\nekosalama na miso ya bato nyonso, epai wapi manso esengeli kosalama po te mofundami azwa na ye.\nMoto ata moko te asengeli kozwa etumbu po na makambo to botiki oyo, tango esalamaki, ezalikaki naino mbeba te, engebene na mibeko ya\nekolo to ya molongo. So lolenge yango, bakoki te kopesa moto etumbu koleka oyo ezalaka kopesama na tango likambo esalamaki.\nETENI YA 12",
-            "Image": "2843a2a45516f5ea316c16b716710f11"
+            "Image": "2843a2a45516f5ea316c16b716710f11",
+            "Index": 1,
+            "Label": "2",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Moto nyonso azali na likoki ya kozala na bomoi, a kozala somi pe kozala motema sei na bomoto na ye.\nETENI YA 4\nMoto ata moke te asengeli kozala moumbu; boumbu pe boteki baumbu epikisami na ndenge nyonso.\nETENI YA 5\nMoto ata moke te asengeli konyokama pe kosalelama makambo ya bonyama pe oyo ezanga bomoto na lokumu.\nETENI YA 6\nMoto nyonso azali na likoki ’te bayeba makoki na ye bipai nyonso.\nETENI YA 7\nBato nyonso bakokani liboso ya mobeko pe bazali na likoki ya kobatelama na mobeko se ndenge moko. Banso bazali na likoki ya kobatelama\nse ndenge moko esongo na bikela nyonso ya bokesenisi elongobani te na Lisakoli oyo pe esengo na bikela nyonso oyo ekobota bokesenisi\nyango.\nETENI YA 8\nMoto nyonso azali na likoki ya koluka lisalisi ya solo penza na liboso ya mangomba ya bosambisi ya ekolo oyo ezali na bwanya esongo na\nbikela oyo ekotangola maloki ya tina endimami na mibeko po na ye.\nETENI YA 9\nMoto moko te akoki kokangama to kobengisama tina te.\nETENI YA 10\nMoto nyonso azali na likoki ’te likambo na ye lokola ya bato nyonso, essambisama na bosembo pe na miso ya bato nyonso na esambiselo ya\nsomi pe ya epai moko te, oyo ekozwa mikano engebene na makoki pe masenginia ye to engebene na bosolo ya likambo ye afundami.\nETENI YA 11\nMoto nyonso oyo afundami na likambo azali naino maboko pembe tee tango bakotatola engebene na mobeko, mabe ye asali, na libanza oyo\nekosalama na miso ya bato nyonso, epai wapi manso esengeli kosalama po te mofundami azwa na ye.\nMoto ata moko te asengeli kozwa etumbu po na makambo to botiki oyo, tango esalamaki, ezalikaki naino mbeba te, engebene na mibeko ya\nekolo to ya molongo. So lolenge yango, bakoki te kopesa moto etumbu koleka oyo ezalaka kopesama na tango likambo esalamaki.\nETENI YA 12"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Image": "ac32c3da04eded3fdeaff1ba746fee4e",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "Moto ata moko te akoki kokota pamba na makambo etali ezaleli, libota, ndako pe mikanda ya ngana to pe kobebisa lokumu na ye. Moto\nnyonso azali na likoki ya kobatelama na mobeko esongo na bikota-kota yango.\nETENI YA 13\nMoto nyonso azali na makoki ya kotambola ndenge alingi pe kopona esika ya kovanda kati ya ekolo.\nMoto nyonso azali na makoki ya kotika ekolo nyonso ata ya ye moko po na kokenda na ekolo mosusu; ye akoki pe kozonga na ekolo na ye.\nETENI YA 14\nNa liboso ya monyokoli, moto nyonso azali na likoki ya koluka pe kozwa esika ya kobomba nzoto na bikolo mosusu.\nLikoki yango likopesama te na moto afundami na likambo ya makasi to na bikela oyo elongombani te na mibeko ya Linsaga ya Bikolo ya\nMolongo.\nETENI YA 15\nMoto nyonso azali na likoki ya koyebana mosi-ekolo.\nBakoki te kopimela moto likoki ya kozala mosi-ekolo to ya kokoma moto ya ekolo mosusu.\nETENI YA 16\nSoki mobu ya kobalana ekoki, mobali pe mwasi bakoki kokwelana pe kotonga libota pe masimbisi ezala te na makambo etali loposo, ekolo to\nlongomba ya nzambe. Bango bazali na makoki se ndenge moko na makambo etali makwela, ezala tango ya makwela to tango ya bokabwani.\nLibala ekoki kosalama se soki mwasi na mobali bango mei bandimi na motema moko.\nLibala ezali longomba ya tina po na bato pe ezali na likoki ya kobatelama na bato pe Leta.\nETENI YA 17\nMoto nyonso azala ye moko to na kati ya lisanga, azali na likoki ya mokolo-ekolo.\nBakoki ata moke te kopimela to kobotola moto eloko na ye soki tina ezali te.\nETENI YA 18\nMoto nyonso azali na likoki, ya kozala na makanisi na ye, mayele na ye ya motema pe lingomba na ye ya nzambe; likoki yango ekopesa ye\nndingisa ya kopona lingomba ya nzambe to kobongola makanisi na ye, ye moko to elongo na baninga, ezala na miso ya bato ya mei; na boteyi,\nna bikela, na bokumisi nzambe pe milulu.\nETENI YA 19",
-            "Image": "ac32c3da04eded3fdeaff1ba746fee4e"
+            "Text": "Moto ata moko te akoki kokota pamba na makambo etali ezaleli, libota, ndako pe mikanda ya ngana to pe kobebisa lokumu na ye. Moto\nnyonso azali na likoki ya kobatelama na mobeko esongo na bikota-kota yango.\nETENI YA 13\nMoto nyonso azali na makoki ya kotambola ndenge alingi pe kopona esika ya kovanda kati ya ekolo.\nMoto nyonso azali na makoki ya kotika ekolo nyonso ata ya ye moko po na kokenda na ekolo mosusu; ye akoki pe kozonga na ekolo na ye.\nETENI YA 14\nNa liboso ya monyokoli, moto nyonso azali na likoki ya koluka pe kozwa esika ya kobomba nzoto na bikolo mosusu.\nLikoki yango likopesama te na moto afundami na likambo ya makasi to na bikela oyo elongombani te na mibeko ya Linsaga ya Bikolo ya\nMolongo.\nETENI YA 15\nMoto nyonso azali na likoki ya koyebana mosi-ekolo.\nBakoki te kopimela moto likoki ya kozala mosi-ekolo to ya kokoma moto ya ekolo mosusu.\nETENI YA 16\nSoki mobu ya kobalana ekoki, mobali pe mwasi bakoki kokwelana pe kotonga libota pe masimbisi ezala te na makambo etali loposo, ekolo to\nlongomba ya nzambe. Bango bazali na makoki se ndenge moko na makambo etali makwela, ezala tango ya makwela to tango ya bokabwani.\nLibala ekoki kosalama se soki mwasi na mobali bango mei bandimi na motema moko.\nLibala ezali longomba ya tina po na bato pe ezali na likoki ya kobatelama na bato pe Leta.\nETENI YA 17\nMoto nyonso azala ye moko to na kati ya lisanga, azali na likoki ya mokolo-ekolo.\nBakoki ata moke te kopimela to kobotola moto eloko na ye soki tina ezali te.\nETENI YA 18\nMoto nyonso azali na likoki, ya kozala na makanisi na ye, mayele na ye ya motema pe lingomba na ye ya nzambe; likoki yango ekopesa ye\nndingisa ya kopona lingomba ya nzambe to kobongola makanisi na ye, ye moko to elongo na baninga, ezala na miso ya bato ya mei; na boteyi,\nna bikela, na bokumisi nzambe pe milulu.\nETENI YA 19"
         },
         "3": {
-            "Label": "4",
-            "Index": 3,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
             ],
-            "Text": "Moto nyonso azali na likoki ya bokanisi pe bolobi; yango ekopesa ye ndingisa ya kozala na bomo na motema te likolo ya makanisi na ye\nndingisa ya koluka, kozwa pe kopanza mayebisi na makanisi esika na esika, na ndenge alingi koyebisa yango.\nETENI YA 20\nMoto nyonso azali na likoki ya kozala na likita pe lingomba oyo ezali na kinya.\nEkoki te kosengama na makasi te moto akota na lingomba.\nETENI YA 21\nMoto nyonso azali na likoki ya kotia maboko na bokambi misala ya ekolo na ye ezala ye moko to na batoma ye moko aponi.\nMoto nyonso azali na likoki, lokola baninga nyonso ya kosala misala ya Leta.\nBolingi yango esengeli komonana na maponi ya sembo oyo esengeli kosalama mbala na mbala, na liponeli ya bato nyonso pe na boponi ya\nLingomba to na ndenge mosusu ekokani na yango pe ekosala ’te bato bapona na bonsomi nyonso.\nETENI YA 22\nMoto nyonso, lokola azali moko ya lingomba, azali na likoki ya kozwa lisalisi ya esalelo-lisungi, oyo ezali na ndingisa ya kopesa moto makoki\nya ye ya mosolo, ya bomoi pe ezaleli, po na lokumu pe bokoli malamu ya bomoto na ye, na lisalisi ya bokasi ya ekolo pe ya boyokani ya mikili\nna mikili, engebene na mwango pe bokulaka ya ekolo na ekolo.\nETENI YA 23\nMoto nyonso azali na likoki ya kozwa mosala, ya kopona mosala ye alingi, na ndenge ya sembo elongobani na mosala, pe basengeli kobatela\nya esongo na bosomele.\nBato nyonso bazali na likoki, bokeseni ata te, ya kozwa lifuta ekokani po na mosala ekokani.\nMoto nyonso akosala, azali na likoki ya kozwa lifuta ya sembo pe elongobani, oyo ekosala te ye na libota na ye bazwa bomoi elongobani na\nlokumu ya moto, pe ekoki kobongisama lisusu na ndenge nyonso ya bobateli bomoi.\nMoto nyonso azali na likoki ya kokela basendika elongo na baninga pe kokota na basendika po na kokengela maloki na ye.\nETENI YA 24\nMoto nyonso azali na likoki ya bopemisi pe bopemisi nzoto, mingi ya bozwui eleko ya sembo ya boumeli na mosala pe na bozwi lifuta na\nbakonzi ya mbala na mbala.\nETENI YA 25",
-            "Image": "ae71dd68b61a98c05d81f88380d0b126"
+            "Image": "ae71dd68b61a98c05d81f88380d0b126",
+            "Index": 3,
+            "Label": "4",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Moto nyonso azali na likoki ya bokanisi pe bolobi; yango ekopesa ye ndingisa ya kozala na bomo na motema te likolo ya makanisi na ye\nndingisa ya koluka, kozwa pe kopanza mayebisi na makanisi esika na esika, na ndenge alingi koyebisa yango.\nETENI YA 20\nMoto nyonso azali na likoki ya kozala na likita pe lingomba oyo ezali na kinya.\nEkoki te kosengama na makasi te moto akota na lingomba.\nETENI YA 21\nMoto nyonso azali na likoki ya kotia maboko na bokambi misala ya ekolo na ye ezala ye moko to na batoma ye moko aponi.\nMoto nyonso azali na likoki, lokola baninga nyonso ya kosala misala ya Leta.\nBolingi yango esengeli komonana na maponi ya sembo oyo esengeli kosalama mbala na mbala, na liponeli ya bato nyonso pe na boponi ya\nLingomba to na ndenge mosusu ekokani na yango pe ekosala ’te bato bapona na bonsomi nyonso.\nETENI YA 22\nMoto nyonso, lokola azali moko ya lingomba, azali na likoki ya kozwa lisalisi ya esalelo-lisungi, oyo ezali na ndingisa ya kopesa moto makoki\nya ye ya mosolo, ya bomoi pe ezaleli, po na lokumu pe bokoli malamu ya bomoto na ye, na lisalisi ya bokasi ya ekolo pe ya boyokani ya mikili\nna mikili, engebene na mwango pe bokulaka ya ekolo na ekolo.\nETENI YA 23\nMoto nyonso azali na likoki ya kozwa mosala, ya kopona mosala ye alingi, na ndenge ya sembo elongobani na mosala, pe basengeli kobatela\nya esongo na bosomele.\nBato nyonso bazali na likoki, bokeseni ata te, ya kozwa lifuta ekokani po na mosala ekokani.\nMoto nyonso akosala, azali na likoki ya kozwa lifuta ya sembo pe elongobani, oyo ekosala te ye na libota na ye bazwa bomoi elongobani na\nlokumu ya moto, pe ekoki kobongisama lisusu na ndenge nyonso ya bobateli bomoi.\nMoto nyonso azali na likoki ya kokela basendika elongo na baninga pe kokota na basendika po na kokengela maloki na ye.\nETENI YA 24\nMoto nyonso azali na likoki ya bopemisi pe bopemisi nzoto, mingi ya bozwui eleko ya sembo ya boumeli na mosala pe na bozwi lifuta na\nbakonzi ya mbala na mbala.\nETENI YA 25"
         },
         "4": {
-            "Label": "5",
-            "Index": 4,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
             ],
-            "Text": "Moto nyonso azali na likoki ya kobikela na ndenge elongobani po ’te azwa bokolongonu, bozala malamu ya ye pe ya libota na ye epusi na\nmakambo etali kolia, kolata, kovanda, kosalisa nzoto pe kosungama na ndenge esengeli; ye azali na likoki ya kosalisama na tango ya bosemele,\nbokono, bosele, bozenge, bobange to na tango mosusu ye akozanga mosolo ya kobikela na sima ya makambo esalami na bolinga na ye te.\nBomama pe bomwana ezali na likoki ya kosungama na ndenge elongobani. Mwana nyonso abotama kati ya makwela to na libanda asengeli\nkobatelama to ndenge moko.\nETENI YA 26\nMoto nyonso azali na likoki ya bokolisi bwanya pe mayele. Mateya esengeli kopesama pamba, mosolo te, ata na bakelasi ya mabandela.\nMateya ya mabandela esengeni kopesama na moto nyonso. Mateya ya tekiniki pe ya mosala esengeli kopesama bipai nyonso; eposa ya kozwa\nmateya ya kelasi ya minene esengeli kopesama na bato nyonso, se ndenge moko, engebene na mayele na bango.\nBokolisi bwanya pe mayele esengeli kosala te moto akola na ndenge nyonso pe atosa malamu penza makoki pe bonsomi ya tina na moto.\nYango esengeli komema boyokani, boboto, bolingo kati ya bikolo pe mangomba ya bato oyo loposo pe boyambi ekeseni; yango pe esengeli\nkobongisa misala ya Lisanga ya Bikolo ya Molongo po na bobateli kimya.\nBaboti bazali na likoki ya yambo, ya boponi ndenge ya mateya esengeli kopesama na bana na bango.\nETENI YA 27\nMoto nyonso azali na likoki ya kotia maboko ndenge alingi na misala ya bokolisi bwanyaya lingomba, kopesela na nkoti, pe kotia maboko na\nbotomboli zebi pe bolamu ya yango.\nMoto nyonso azali na likoki ’te matomba ya misala ya ye ya zebi, ya bokomi pe ya nkoti ebatelama.\nETENI YA 28\nMoto nyonso azali na likoki ’te kati ya bato pe bikolo, nyonso ebonga po te makoki pe bonsomi oyo ekomami kati ya Lisakoli oyo elonga.\nETENI YA 29\nMoto azali na mikumba epai ya lingomba oyo ekopesa ye eposa ya bokolisi bomoto na ye na ndenge elongobani.\nMoto nyonso, na botalaka makoki pe bonsomi na ye, asengeli kosala se mikumba oyo eyebani na mobeko se po ’te bayeba pe bakumisa maloki\npe bonsomi ya baninga, pe po na kotosa mibeko ya sembo ya ezalela kinya ya bato pe bozali malamu kati ya lingomba ya boyangeli lisanga.\nMakoki pe bonsomi yango ekoki, ata moke te, kozala esongo na masengi ya Lisanga ya Bikolo ya Molongo.\nETENI YA 30\nMobeko ata moko te ya Lisanga oyo ekoki kozala po na Leta, na lisanga ya bato, to na moto, likoki ya kosala likambo oyo ekonyata makoki pe",
-            "Image": "5c35f690ab6517042eae4f2867b32cc6"
-        },
-        "5": {
-            "Label": "6",
-            "Index": 5,
+            "Image": "5c35f690ab6517042eae4f2867b32cc6",
+            "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
+            "Text": "Moto nyonso azali na likoki ya kobikela na ndenge elongobani po ’te azwa bokolongonu, bozala malamu ya ye pe ya libota na ye epusi na\nmakambo etali kolia, kolata, kovanda, kosalisa nzoto pe kosungama na ndenge esengeli; ye azali na likoki ya kosalisama na tango ya bosemele,\nbokono, bosele, bozenge, bobange to na tango mosusu ye akozanga mosolo ya kobikela na sima ya makambo esalami na bolinga na ye te.\nBomama pe bomwana ezali na likoki ya kosungama na ndenge elongobani. Mwana nyonso abotama kati ya makwela to na libanda asengeli\nkobatelama to ndenge moko.\nETENI YA 26\nMoto nyonso azali na likoki ya bokolisi bwanya pe mayele. Mateya esengeli kopesama pamba, mosolo te, ata na bakelasi ya mabandela.\nMateya ya mabandela esengeni kopesama na moto nyonso. Mateya ya tekiniki pe ya mosala esengeli kopesama bipai nyonso; eposa ya kozwa\nmateya ya kelasi ya minene esengeli kopesama na bato nyonso, se ndenge moko, engebene na mayele na bango.\nBokolisi bwanya pe mayele esengeli kosala te moto akola na ndenge nyonso pe atosa malamu penza makoki pe bonsomi ya tina na moto.\nYango esengeli komema boyokani, boboto, bolingo kati ya bikolo pe mangomba ya bato oyo loposo pe boyambi ekeseni; yango pe esengeli\nkobongisa misala ya Lisanga ya Bikolo ya Molongo po na bobateli kimya.\nBaboti bazali na likoki ya yambo, ya boponi ndenge ya mateya esengeli kopesama na bana na bango.\nETENI YA 27\nMoto nyonso azali na likoki ya kotia maboko ndenge alingi na misala ya bokolisi bwanyaya lingomba, kopesela na nkoti, pe kotia maboko na\nbotomboli zebi pe bolamu ya yango.\nMoto nyonso azali na likoki ’te matomba ya misala ya ye ya zebi, ya bokomi pe ya nkoti ebatelama.\nETENI YA 28\nMoto nyonso azali na likoki ’te kati ya bato pe bikolo, nyonso ebonga po te makoki pe bonsomi oyo ekomami kati ya Lisakoli oyo elonga.\nETENI YA 29\nMoto azali na mikumba epai ya lingomba oyo ekopesa ye eposa ya bokolisi bomoto na ye na ndenge elongobani.\nMoto nyonso, na botalaka makoki pe bonsomi na ye, asengeli kosala se mikumba oyo eyebani na mobeko se po ’te bayeba pe bakumisa maloki\npe bonsomi ya baninga, pe po na kotosa mibeko ya sembo ya ezalela kinya ya bato pe bozali malamu kati ya lingomba ya boyangeli lisanga.\nMakoki pe bonsomi yango ekoki, ata moke te, kozala esongo na masengi ya Lisanga ya Bikolo ya Molongo.\nETENI YA 30\nMobeko ata moko te ya Lisanga oyo ekoki kozala po na Leta, na lisanga ya bato, to na moto, likoki ya kosala likambo oyo ekonyata makoki pe"
+        },
+        "5": {
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
             ],
-            "Text": "bonsomi awa.",
-            "Image": "36b7a81e094478401564d369aaa58a2a"
+            "Image": "36b7a81e094478401564d369aaa58a2a",
+            "Index": 5,
+            "Label": "6",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "bonsomi awa."
         }
     }
 }

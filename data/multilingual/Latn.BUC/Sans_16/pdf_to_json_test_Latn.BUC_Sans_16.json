@@ -1,141 +1,141 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581467192,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
-            "Index": 0,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "TAFASWIRI AN-KIƁUSHI NIM-MATEKELEZO KI DUNIA NIN-HAKI-L-ADAMÌ\nALUHA NIN-VUDIN’NI KURAŊA\nAn-fahitaŋa amba, fikuɓaliaŋa amba ɓinadamu djabi nitirahinyi ndreka usheu ndreka haki meraŋa nandzari\nro musingi nin-nafasi, nin-haki ndreka usalama duniani ;\nAn-fahitaŋa amba, tsifahizaŋa ndreka fipuzisaŋa haki-l-adamì ro mikutsonga faŋanovaŋa shitrendro ki\nkatili maneitri rohu nin-umati djabi, amin’ni zenyi, fitunga nin-ulemengu mbu kuruhusu ɓinadamu ivulaŋa\nndreka ikwamini aminnafasi, ɓilà tahutru wala taãɓu nin-ufukara, ro nikutekelezaŋa kirasimi, ustaãraɓu\nbeheben-djabi ninhulumbelu ;\nAn-An- fahitaŋa amba, aŋatin’ni sharia-musingi nin-ndreu, zanatani nin-Uvumoja nin-Twaifa (Shama nin-\nDaula nin-Ulemengu) nikutekeleza mara hafa uaminifu nin-ndreu amin’ni haki musingi nim-ɓinadamu ;\namin’ni usheu ndreka kima ninhulu an-rohuni, amin’ni fihiraŋa nin-haki nin-lalahi ndreka viavi, amin’zenyi,\nreu nampahei amba reu nangala ãzima ampadeha aluha faŋadzarisaŋa maisha nimɓinadamu ndreka\nampiditri an-lalaŋa raha mbu andei tanafu tsara am-maisha nin-nafasi nankitinyi nimɓinadamu ;ahitaŋa\namba, nikulazimu natou nguvu fihavaŋana ɓainan’ni tani ndreka tani ;\nAn- fahitaŋa amba, Daula Aŋatin-shama itì ndreka shama nin-Uvumoja nin-Twaifa (Shama nin-Daula nin-\nUlemengu) nangala wahadi an-ndreu aŋaraka kaɓaru retu atà haki-ladamì ndreka nafasi musingi ikustehinyi\nnankitinyi amin’ni dunia mafia ;\nAn- fahitaŋa amba, fikutrugaŋa djumla nin-sharia ndreka nafasi retu nandzari muhimu swafi an-fikustehiaŋa\nnamuna kulazimu, wahadi itì ;\nTrengwe djumla nampahei amba Matekelezo ki Dunia nin-Haki-l-Adamì itì\nro daradja aŋabuŋabun-djabi nin-ustaãraɓu nikulazimu nahazu nin-kula karazaŋa zanatani ndreka nishani,",
-            "Image": "3af4322c140618fb8e3bb2f2664c087a"
+            "Image": "3af4322c140618fb8e3bb2f2664c087a",
+            "Index": 0,
+            "Label": "1",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "TAFASWIRI AN-KIƁUSHI NIM-MATEKELEZO KI DUNIA NIN-HAKI-L-ADAMÌ\nALUHA NIN-VUDIN’NI KURAŊA\nAn-fahitaŋa amba, fikuɓaliaŋa amba ɓinadamu djabi nitirahinyi ndreka usheu ndreka haki meraŋa nandzari\nro musingi nin-nafasi, nin-haki ndreka usalama duniani ;\nAn-fahitaŋa amba, tsifahizaŋa ndreka fipuzisaŋa haki-l-adamì ro mikutsonga faŋanovaŋa shitrendro ki\nkatili maneitri rohu nin-umati djabi, amin’ni zenyi, fitunga nin-ulemengu mbu kuruhusu ɓinadamu ivulaŋa\nndreka ikwamini aminnafasi, ɓilà tahutru wala taãɓu nin-ufukara, ro nikutekelezaŋa kirasimi, ustaãraɓu\nbeheben-djabi ninhulumbelu ;\nAn-An- fahitaŋa amba, aŋatin’ni sharia-musingi nin-ndreu, zanatani nin-Uvumoja nin-Twaifa (Shama nin-\nDaula nin-Ulemengu) nikutekeleza mara hafa uaminifu nin-ndreu amin’ni haki musingi nim-ɓinadamu ;\namin’ni usheu ndreka kima ninhulu an-rohuni, amin’ni fihiraŋa nin-haki nin-lalahi ndreka viavi, amin’zenyi,\nreu nampahei amba reu nangala ãzima ampadeha aluha faŋadzarisaŋa maisha nimɓinadamu ndreka\nampiditri an-lalaŋa raha mbu andei tanafu tsara am-maisha nin-nafasi nankitinyi nimɓinadamu ;ahitaŋa\namba, nikulazimu natou nguvu fihavaŋana ɓainan’ni tani ndreka tani ;\nAn- fahitaŋa amba, Daula Aŋatin-shama itì ndreka shama nin-Uvumoja nin-Twaifa (Shama nin-Daula nin-\nUlemengu) nangala wahadi an-ndreu aŋaraka kaɓaru retu atà haki-ladamì ndreka nafasi musingi ikustehinyi\nnankitinyi amin’ni dunia mafia ;\nAn- fahitaŋa amba, fikutrugaŋa djumla nin-sharia ndreka nafasi retu nandzari muhimu swafi an-fikustehiaŋa\nnamuna kulazimu, wahadi itì ;\nTrengwe djumla nampahei amba Matekelezo ki Dunia nin-Haki-l-Adamì itì\nro daradja aŋabuŋabun-djabi nin-ustaãraɓu nikulazimu nahazu nin-kula karazaŋa zanatani ndreka nishani,"
         },
         "1": {
-            "Label": "2",
-            "Index": 1,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "anga ɓinadamu djabi ndreka kula karazaŋa ninfikueshiŋandreu, ihisi Matekelezo itì daima amin’ni luhan-\nndreu, aŋanu djitihadi amin’ni fampidzuruaŋa ndreka fitarimiaŋa, ampiasa masitaha nin-sharia ndreka nafasi\nretu ; amin’ni zenyi, aŋanu modeli ata, amin’ndreu maŋapiditri an-lalaŋa moramora-moramora satua\nmifotutru tani ou mifotutru dunia, reu ikutsonga ata fikuɓaliaŋa ndreka fikurumiaŋa reu itì, ike nin-ankitinyi\namin’ni dunia mafiha ; rangu amin’ni zanatani nin-Daula aŋatin’ni Uvumoja nin-Twaifa (Shama nin-Daula\nnin-Ulemengu) ata an-tani amin’ni hifadhwi ni sharian-ndreu.\nKanuni aluha\nƁinadamu djabi nitirahinyi an-nafasi, reu bokeu miraŋa amin’ni usheu ndreka haki. Reu teraka ndreka ãkili\nndreka hikima, amin’ni zenyi, reu nikulazimu nisi tweraŋa nin-fihavaŋa reu sambi reu.\nKanuni faha aroini :\nKula huluŋu meti mikudai fikurumianaŋa amin’nazi ninsharia ndreka nafasi retu djabi, nivulaŋana amin’ni\nMatekelezo itì, wala tsisi fifidanaŋa tsokao yotsi, mfano mifotutru kaɓila, range (nin-nenyi), lalahi au viavi,\nfivulaŋana, dini, fikira ki siasa au fikira hafa tu, tani nibwahaŋa au daradjan-huluŋu, mali, teraka au kabaru\nhafa tu.\nBoka eu, tsi uhisi fifidanaŋa tsokao yotsi mbu atou hatasiɓaɓun’ ni daradja nin-siasa, nim-mahakama au\nhatasiɓaɓun’ni abezan-tani au gitro nin-tani nibwaha ninhuluŋu ; neka tani iu au gitro nin-tani iu huru,\nnikutawalan’ni tani hafa, tsi mahaleu teŋa au nikupunguzaŋa yezi.\nKanuni faha teluni :\nKula shumbe-ɓinadamu misi haki an-fikueshiaŋa, annafasi ndreka an-hifadhwi nin-nafusini.\nKanuni faha efatrani :\nTsisi huluŋu mbu atou andevu au andivuzaŋa : fandivuzaŋa ndreka kula kalite nin-fanyiraha ki andevu, tsi",
-            "Image": "f704854ade30b0ece2a7ad4361628a79"
+            "Image": "f704854ade30b0ece2a7ad4361628a79",
+            "Index": 1,
+            "Label": "2",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "anga ɓinadamu djabi ndreka kula karazaŋa ninfikueshiŋandreu, ihisi Matekelezo itì daima amin’ni luhan-\nndreu, aŋanu djitihadi amin’ni fampidzuruaŋa ndreka fitarimiaŋa, ampiasa masitaha nin-sharia ndreka nafasi\nretu ; amin’ni zenyi, aŋanu modeli ata, amin’ndreu maŋapiditri an-lalaŋa moramora-moramora satua\nmifotutru tani ou mifotutru dunia, reu ikutsonga ata fikuɓaliaŋa ndreka fikurumiaŋa reu itì, ike nin-ankitinyi\namin’ni dunia mafiha ; rangu amin’ni zanatani nin-Daula aŋatin’ni Uvumoja nin-Twaifa (Shama nin-Daula\nnin-Ulemengu) ata an-tani amin’ni hifadhwi ni sharian-ndreu.\nKanuni aluha\nƁinadamu djabi nitirahinyi an-nafasi, reu bokeu miraŋa amin’ni usheu ndreka haki. Reu teraka ndreka ãkili\nndreka hikima, amin’ni zenyi, reu nikulazimu nisi tweraŋa nin-fihavaŋa reu sambi reu.\nKanuni faha aroini :\nKula huluŋu meti mikudai fikurumianaŋa amin’nazi ninsharia ndreka nafasi retu djabi, nivulaŋana amin’ni\nMatekelezo itì, wala tsisi fifidanaŋa tsokao yotsi, mfano mifotutru kaɓila, range (nin-nenyi), lalahi au viavi,\nfivulaŋana, dini, fikira ki siasa au fikira hafa tu, tani nibwahaŋa au daradjan-huluŋu, mali, teraka au kabaru\nhafa tu.\nBoka eu, tsi uhisi fifidanaŋa tsokao yotsi mbu atou hatasiɓaɓun’ ni daradja nin-siasa, nim-mahakama au\nhatasiɓaɓun’ni abezan-tani au gitro nin-tani nibwaha ninhuluŋu ; neka tani iu au gitro nin-tani iu huru,\nnikutawalan’ni tani hafa, tsi mahaleu teŋa au nikupunguzaŋa yezi.\nKanuni faha teluni :\nKula shumbe-ɓinadamu misi haki an-fikueshiaŋa, annafasi ndreka an-hifadhwi nin-nafusini.\nKanuni faha efatrani :\nTsisi huluŋu mbu atou andevu au andivuzaŋa : fandivuzaŋa ndreka kula kalite nin-fanyiraha ki andevu, tsi"
         },
         "2": {
-            "Label": "3",
-            "Index": 2,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "kuruhusuŋu.\nKanuni faha dimini :\nTsisi huluŋu mbu atou matriko, wala fihezinyi ou kudilinyi kara raha tsisi manani ou atou raha mikulanisa\nizi.\nKanuni faha tshutani :\nKula huluŋu misi haki an-fikuɓaliaŋa haki nazi kula mahala misi izi.\nKanuni faha fituni :\nHuluŋu djabi miraŋa an-lalaŋa ki sharia ndreka misi haki djabi ɓilà fifidanaŋa, an-hifadhwi miraŋa nin-\nsharia. Huluŋu djabi misi haki miraŋa an-sharia mikuhifadhwi huluŋu ndreka kula uɓanguzi mandeha\nkinyume ndreka Matekelezo itì, ndreka kula fikutsotsaŋa uɓanguzi itì.\nKanuni faha valuni :\nKula huluŋu misi haki an-fandihanaŋa mikushitaki ammahakama nin-tani misi maãrifa amin’ni kabaru nazi,\nneka haki-musingi nazi, boka eu nikuɓalin’ni sharia be musingi ou sharia tu, tsi nikusutehinyi.\nKanuni faha sivini :\nTsisi huluŋu mbu heti tanin-sirikali ou gadrani lajoli ou atuwatanini ɓilà siɓaɓu.\nKanuni faha fuluni :\nKula huluŋu misi haki, an-fihiraŋa swafi, an-faŋanovani modeli atà hadja nazi urenyim-mahakama tsi\nkisirikali, tsi mampinonu hila, an-lalaŋa nin-haki ndreka anyivunntrengwe. Mahakama itì ro mbu ahei neka\nhuluŋu itì amin’ni haki nazi ndreka farudhwi nazi au mashitaka natoŋa izi itì maŋaraka lalaŋa.",
-            "Image": "bc4e00f700531c61d79b462de5094ed6"
+            "Image": "bc4e00f700531c61d79b462de5094ed6",
+            "Index": 2,
+            "Label": "3",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "kuruhusuŋu.\nKanuni faha dimini :\nTsisi huluŋu mbu atou matriko, wala fihezinyi ou kudilinyi kara raha tsisi manani ou atou raha mikulanisa\nizi.\nKanuni faha tshutani :\nKula huluŋu misi haki an-fikuɓaliaŋa haki nazi kula mahala misi izi.\nKanuni faha fituni :\nHuluŋu djabi miraŋa an-lalaŋa ki sharia ndreka misi haki djabi ɓilà fifidanaŋa, an-hifadhwi miraŋa nin-\nsharia. Huluŋu djabi misi haki miraŋa an-sharia mikuhifadhwi huluŋu ndreka kula uɓanguzi mandeha\nkinyume ndreka Matekelezo itì, ndreka kula fikutsotsaŋa uɓanguzi itì.\nKanuni faha valuni :\nKula huluŋu misi haki an-fandihanaŋa mikushitaki ammahakama nin-tani misi maãrifa amin’ni kabaru nazi,\nneka haki-musingi nazi, boka eu nikuɓalin’ni sharia be musingi ou sharia tu, tsi nikusutehinyi.\nKanuni faha sivini :\nTsisi huluŋu mbu heti tanin-sirikali ou gadrani lajoli ou atuwatanini ɓilà siɓaɓu.\nKanuni faha fuluni :\nKula huluŋu misi haki, an-fihiraŋa swafi, an-faŋanovani modeli atà hadja nazi urenyim-mahakama tsi\nkisirikali, tsi mampinonu hila, an-lalaŋa nin-haki ndreka anyivunntrengwe. Mahakama itì ro mbu ahei neka\nhuluŋu itì amin’ni haki nazi ndreka farudhwi nazi au mashitaka natoŋa izi itì maŋaraka lalaŋa."
         },
         "3": {
-            "Label": "4",
-            "Index": 3,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Kanuni faha fulu areki ambini :\nKula huluŋu nikuhutumuŋu ndreka taɓia ratsi, kaza taninyi ndreka halathwi paka izi kuhukumuŋu kirasimi\nam-mahakama mbiaŋa an-trengwe, amin’izi eu, kula kabaru miditri amin’ni difãi nazi djabi nikurumianaŋa.\nTsisi huluŋu mbu vangoŋa kubei hatasiɓaɓun’ni ãmali au raha tsi nishugulinyi, ndreka wakati naŋanovaŋa\nreu itì, reu tsi nalaŋa amba taɓia ratsi amin’ni sharia nin-tani au nin-ulemengu. Boka eu kua, tsisi raha rati\nmandiltra inyi fa vua huluŋu lera naŋanovaŋa taɓia rati retu, mbu vua huluŋu kua.\nKanuni faha fulu aroi ambini :\nTsisi huluŋu mbu hidiraŋa ɓila siɓaɓu, am-maisha ninantanana nazi, amin’ni havaŋa nazi, amin’ni traŋu\nnazi au amin’ni ɓarua nazi ; wala tsisi huluŋu mbu hiditri amin’ni kabaru mbu ikupua huluŋu usheu, mbu\nandatsaka izi. Kula huluŋu misi haki an-hifadhwi ninsharia mamahaŋa fidiraŋa an-huluŋu ndreka\nfikufutsuhaŋa maisha nin-huluŋu.\nKanuni faha fulu telu ambini :\nKula huluŋu misi haki an-fidiraŋa ndreka fibwahaŋa an-nafasi ndreka an-fifidanaŋa mahala ipitrahani\naŋatin’ni Daula .\nKula huluŋu misi haki an-fibwahani an-nakwakila tani, ata an-tani nazi, ndreka an-fipudiani an-tani nazi.\nKanuni faha fulu efatra ambini :\nAm-mahala misi udilifu, kula huluŋu misi ruhusa mitsakaraka mahala ififiaŋa, boka eu, misi furswa ahazu\nmahala ififiani amin’ni tani hafa.\nSharia iti tsi heti kurumianaŋa neka huluŋu mila ikurumianaŋa izi itì, tsakarahin’ni sirikali hatasiɓaɓun’ni\nshidrendro natoni niditri amin’ni ɓaãdhwi nin-shidrendro nikudukuruŋu amin’ni sharia djumla au",
-            "Image": "65967beaf822f87adbf2977f64248d97"
+            "Image": "65967beaf822f87adbf2977f64248d97",
+            "Index": 3,
+            "Label": "4",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Kanuni faha fulu areki ambini :\nKula huluŋu nikuhutumuŋu ndreka taɓia ratsi, kaza taninyi ndreka halathwi paka izi kuhukumuŋu kirasimi\nam-mahakama mbiaŋa an-trengwe, amin’izi eu, kula kabaru miditri amin’ni difãi nazi djabi nikurumianaŋa.\nTsisi huluŋu mbu vangoŋa kubei hatasiɓaɓun’ni ãmali au raha tsi nishugulinyi, ndreka wakati naŋanovaŋa\nreu itì, reu tsi nalaŋa amba taɓia ratsi amin’ni sharia nin-tani au nin-ulemengu. Boka eu kua, tsisi raha rati\nmandiltra inyi fa vua huluŋu lera naŋanovaŋa taɓia rati retu, mbu vua huluŋu kua.\nKanuni faha fulu aroi ambini :\nTsisi huluŋu mbu hidiraŋa ɓila siɓaɓu, am-maisha ninantanana nazi, amin’ni havaŋa nazi, amin’ni traŋu\nnazi au amin’ni ɓarua nazi ; wala tsisi huluŋu mbu hiditri amin’ni kabaru mbu ikupua huluŋu usheu, mbu\nandatsaka izi. Kula huluŋu misi haki an-hifadhwi ninsharia mamahaŋa fidiraŋa an-huluŋu ndreka\nfikufutsuhaŋa maisha nin-huluŋu.\nKanuni faha fulu telu ambini :\nKula huluŋu misi haki an-fidiraŋa ndreka fibwahaŋa an-nafasi ndreka an-fifidanaŋa mahala ipitrahani\naŋatin’ni Daula .\nKula huluŋu misi haki an-fibwahani an-nakwakila tani, ata an-tani nazi, ndreka an-fipudiani an-tani nazi.\nKanuni faha fulu efatra ambini :\nAm-mahala misi udilifu, kula huluŋu misi ruhusa mitsakaraka mahala ififiaŋa, boka eu, misi furswa ahazu\nmahala ififiani amin’ni tani hafa.\nSharia iti tsi heti kurumianaŋa neka huluŋu mila ikurumianaŋa izi itì, tsakarahin’ni sirikali hatasiɓaɓun’ni\nshidrendro natoni niditri amin’ni ɓaãdhwi nin-shidrendro nikudukuruŋu amin’ni sharia djumla au"
         },
         "4": {
-            "Label": "5",
-            "Index": 4,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "hatasiɓaɓun’ni taɓia natoni tsi miaraka ndreka madhumuni ndreka makuswada nin-Uvumoja nin-Twaifa\n(Shama nin-Daula nin-Ulemengu).\nKanuni faha fulu dimi ambini :\nKula huluŋu misi haki an-fazahuaŋa uraĩa.\nTsisi huluŋu mbu heti fahaŋana kaza ahazu uraĩa au amadiki uraĩa, ɓilà siɓaɓu.\nKanuni faha fulu tshuta ambini :\nNeka reu fa kutsimu, lalahi ndreka viavi nin-kula nishani, kula uraĩa au kula dini, meti manambadi ndreka\nmiteraka zanakan-ndreu. Hakin-ndreu amin’ni kabaru mifotutru vadiaŋa meraŋa, lera reu amin’ni vadiaŋa\nndreka lera reu miboŋu.\nVadiaŋa mbu heti atou neka bwana harusi ndreka bweni harusi nikuɓali izi itì.\nFihisiaŋa havaŋa iu raha amin’ni vatan-huluŋu boka eu muhimu amin’ni maisha ki udjamaã ; izi itì misi\nfurswa ahazu hifadhwi nin-udjamaã ndreka nin-Daula.\nKanuni faha fulu fitu ambini :\nKula huluŋu, rangu inyi mipetraka izi areki ata inyi mipetraka an-djamaã, misi furswa amba izi hu\ntompinshandza.\nTsisi huluŋu mbu heti fahaŋana ɓilà siɓaɓu amba izi kaza utompin-shandza.\nKanuni faha fulu valu ambini :\nKula huluŋu misi haki an-fihisiaŋa nafasi nin-fikufikiriaŋa, nin-fikurumianaŋa ãkili-musingi ndreka nin-\nfihisiaŋa dini ; haki itì mikuruhusu huluŋu mamadiki dini au fikira, ndreka maŋamia huluŋu nafasi\nmampahei dini au fikira nazi izi areki au ndreka ri namani rangu an-karamandza ata an-traŋuni ; amin’ni",
-            "Image": "802886d330f67fbda54ce01d9cd290e4"
+            "Image": "802886d330f67fbda54ce01d9cd290e4",
+            "Index": 4,
+            "Label": "5",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "hatasiɓaɓun’ni taɓia natoni tsi miaraka ndreka madhumuni ndreka makuswada nin-Uvumoja nin-Twaifa\n(Shama nin-Daula nin-Ulemengu).\nKanuni faha fulu dimi ambini :\nKula huluŋu misi haki an-fazahuaŋa uraĩa.\nTsisi huluŋu mbu heti fahaŋana kaza ahazu uraĩa au amadiki uraĩa, ɓilà siɓaɓu.\nKanuni faha fulu tshuta ambini :\nNeka reu fa kutsimu, lalahi ndreka viavi nin-kula nishani, kula uraĩa au kula dini, meti manambadi ndreka\nmiteraka zanakan-ndreu. Hakin-ndreu amin’ni kabaru mifotutru vadiaŋa meraŋa, lera reu amin’ni vadiaŋa\nndreka lera reu miboŋu.\nVadiaŋa mbu heti atou neka bwana harusi ndreka bweni harusi nikuɓali izi itì.\nFihisiaŋa havaŋa iu raha amin’ni vatan-huluŋu boka eu muhimu amin’ni maisha ki udjamaã ; izi itì misi\nfurswa ahazu hifadhwi nin-udjamaã ndreka nin-Daula.\nKanuni faha fulu fitu ambini :\nKula huluŋu, rangu inyi mipetraka izi areki ata inyi mipetraka an-djamaã, misi furswa amba izi hu\ntompinshandza.\nTsisi huluŋu mbu heti fahaŋana ɓilà siɓaɓu amba izi kaza utompin-shandza.\nKanuni faha fulu valu ambini :\nKula huluŋu misi haki an-fihisiaŋa nafasi nin-fikufikiriaŋa, nin-fikurumianaŋa ãkili-musingi ndreka nin-\nfihisiaŋa dini ; haki itì mikuruhusu huluŋu mamadiki dini au fikira, ndreka maŋamia huluŋu nafasi\nmampahei dini au fikira nazi izi areki au ndreka ri namani rangu an-karamandza ata an-traŋuni ; amin’ni"
         },
         "5": {
-            "Label": "6",
-            "Index": 5,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "fidzuruaŋa izi, amin’ni faŋanovaŋa izi, amin’ni faŋanovaŋa ĩɓada ndreka mahafala mifotrutu dini itì.\nKanuni faha fulu sivi ambini :\nKula huluŋu misi haki an-fihisiaŋa nafasi ninfaŋabwahaŋa fikira ndreka nin-fivulaŋana ; maãnani iu,\nhuluŋu misi haki an-tsifiampidzaliŋa huluŋu hatasiɓaɓu nin-fikira nazi ; an-fahazuaŋa ndreka faŋabuŋuaŋa\nɓila tsisi fikutundaŋa mupaka, kabaru ndreka fikira, an-kula lalaŋa mbu kurumianaŋa.\nKanuni faha arompuluni :\nKula huluŋu misi haki an-fihisiaŋa nafasi nin-fivuriaŋa ndreka nin-faŋanovaŋa shama tsisi tashahushi.\nTsisi huluŋu mbu atou nguvu ihiditri an-shama.\nKanuni faha arompulu areki ambini :\nKula huluŋu misi haki an-fangalaŋa fuvu anfaŋandesaŋa kabaru mifotutru huluŋu djabi an-tani nazi, nahika\nro huluŋu tompini au amin’ni huluŋu maŋatitri wakala nifidanaŋa an-nafasi.\nKula huluŋu misi haki an-fihisiaŋa lalaŋa, mikustehi masharutwi nin-fihiraŋa, iditri an-hasa ki sirikali nin-\ntani nazi.\nNia nin-zanatani io ro musingi nin-yezi nin-sirikali ; nia itì nikulazimu kutekelezaŋa amin’ni voti mazava\nnikulazimu natou kula mumba muda, amin’ni lalaŋa mikukarɓisa huluŋu djabi an-fihiraŋana, amin’ni voti\nninsiri au maŋaraka fomba miraŋa ndreka voti nin-siri, mikuruhusu unafasi nin-voti.\nKanuni faha arompulu aroi ambini :\nKula huluŋu, amin’izi huluŋu nin-djamaã, misi haki anfazahuaŋa hifadhwi ki fihavaŋana (ki siraki) ;\nmusingi nin-hifadhwi iu, ro fikutsimidzaŋa haki mifotutru ãkiɓa, udjamaã ndreka utamaduni muhimu an-\nhishima nazi ndreka an-huvambufu an-nafasi nin-tweraŋa, hatasiɓaɓun’ni djitihadi ki tani ndreka",
-            "Image": "9b9e0b390c109c987d0537b7183b9938"
+            "Image": "9b9e0b390c109c987d0537b7183b9938",
+            "Index": 5,
+            "Label": "6",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "fidzuruaŋa izi, amin’ni faŋanovaŋa izi, amin’ni faŋanovaŋa ĩɓada ndreka mahafala mifotrutu dini itì.\nKanuni faha fulu sivi ambini :\nKula huluŋu misi haki an-fihisiaŋa nafasi ninfaŋabwahaŋa fikira ndreka nin-fivulaŋana ; maãnani iu,\nhuluŋu misi haki an-tsifiampidzaliŋa huluŋu hatasiɓaɓu nin-fikira nazi ; an-fahazuaŋa ndreka faŋabuŋuaŋa\nɓila tsisi fikutundaŋa mupaka, kabaru ndreka fikira, an-kula lalaŋa mbu kurumianaŋa.\nKanuni faha arompuluni :\nKula huluŋu misi haki an-fihisiaŋa nafasi nin-fivuriaŋa ndreka nin-faŋanovaŋa shama tsisi tashahushi.\nTsisi huluŋu mbu atou nguvu ihiditri an-shama.\nKanuni faha arompulu areki ambini :\nKula huluŋu misi haki an-fangalaŋa fuvu anfaŋandesaŋa kabaru mifotutru huluŋu djabi an-tani nazi, nahika\nro huluŋu tompini au amin’ni huluŋu maŋatitri wakala nifidanaŋa an-nafasi.\nKula huluŋu misi haki an-fihisiaŋa lalaŋa, mikustehi masharutwi nin-fihiraŋa, iditri an-hasa ki sirikali nin-\ntani nazi.\nNia nin-zanatani io ro musingi nin-yezi nin-sirikali ; nia itì nikulazimu kutekelezaŋa amin’ni voti mazava\nnikulazimu natou kula mumba muda, amin’ni lalaŋa mikukarɓisa huluŋu djabi an-fihiraŋana, amin’ni voti\nninsiri au maŋaraka fomba miraŋa ndreka voti nin-siri, mikuruhusu unafasi nin-voti.\nKanuni faha arompulu aroi ambini :\nKula huluŋu, amin’izi huluŋu nin-djamaã, misi haki anfazahuaŋa hifadhwi ki fihavaŋana (ki siraki) ;\nmusingi nin-hifadhwi iu, ro fikutsimidzaŋa haki mifotutru ãkiɓa, udjamaã ndreka utamaduni muhimu an-\nhishima nazi ndreka an-huvambufu an-nafasi nin-tweraŋa, hatasiɓaɓun’ni djitihadi ki tani ndreka"
         },
         "6": {
-            "Label": "7",
-            "Index": 6,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "fishirikaŋa ki ulemengu, hatasiɓaɓun’ni namuna nin-kupangaŋa ndreka rasulimali nin-kula tani.\nKanuni faha arompulu telu ambini :\nKula huluŋu misi haki an-fazahuani hasa ndreka anfihisiani shaɓaha an-fifidanani hasa amin’ni lalaŋa\nninhaki bokeu kusutou nin-hasa ; ndreka misi haki anfikuhafadhwiaŋa izi ndreka fipitrahaŋa-ɓure.\nHuluŋu djabi, wala tsisi fifidanaŋa, misi haki anfazahuaŋa mushahara meraŋa an-faŋanovaŋa hasa miraŋa.\nKula huluŋu miasa, misi haki an-fazahuaŋa mushahara kusutou, modeli nikulazimu mbu ikuruhusu izi\nndreka ri havani uhisi maisha ki uɓinadamu, bokeu meti susohinyi ndreka musada hafa nin-hifadhwi ki\nudjamaã.\nKula huluŋu misi haki an-fikupangana ndreki ri havani, shama nin-fikudaiaŋa haki nin-huluŋu nin-hasa, an-\nfihidirani an-shama mikudifaĩ tanafu nazi.\nKanuni faha arompulu efatra ambini :\nKula huluŋu misi haki an-faŋabwahaŋa vaha ndreka fangalaŋa nafasi, amin’ni zenyi, an-faŋanovaŋa\nmupaka mikustahiki amin’ni muda nin-hasa ndreka anfaŋabwahaŋa vaha ifaŋa nim-muda.\nKanuni faha arompulu dimi ambini :\nKula huluŋu misi haki an-fihisiaŋa daradja ninfikueshiaŋa kiasi, mikuruhusu izi uhisi swiha tsara, ahazu\nfaivaŋana, izi ndreka ri havaŋa nazi, an-kabaru mifoturu, fihinanaŋa, fisikinaŋa, fihisiaŋa traŋu, fazahuaŋa\naudi ki lopitali ndreka fazahuan-huluŋu zema ki sirikali muhimu : izi misi haki an-fazahuani musada\nanwakati nin-fipitrahaŋa-ɓure, nin-aretinyi, ninfikupunguzan’ni ziga, nin-fati nin-vadi, ninhauɓakokuaŋa,\nau am-mukaɓala nin-fihafahan-raha mampahazu huluŋu maisha, hatasiɓaɓu nin-fandihana nin-kabaru ɓila\nuvhendza nazi.",
-            "Image": "49c6cae2c7e879c7cfc120cc5a0fc0b0"
+            "Image": "49c6cae2c7e879c7cfc120cc5a0fc0b0",
+            "Index": 6,
+            "Label": "7",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "fishirikaŋa ki ulemengu, hatasiɓaɓun’ni namuna nin-kupangaŋa ndreka rasulimali nin-kula tani.\nKanuni faha arompulu telu ambini :\nKula huluŋu misi haki an-fazahuani hasa ndreka anfihisiani shaɓaha an-fifidanani hasa amin’ni lalaŋa\nninhaki bokeu kusutou nin-hasa ; ndreka misi haki anfikuhafadhwiaŋa izi ndreka fipitrahaŋa-ɓure.\nHuluŋu djabi, wala tsisi fifidanaŋa, misi haki anfazahuaŋa mushahara meraŋa an-faŋanovaŋa hasa miraŋa.\nKula huluŋu miasa, misi haki an-fazahuaŋa mushahara kusutou, modeli nikulazimu mbu ikuruhusu izi\nndreka ri havani uhisi maisha ki uɓinadamu, bokeu meti susohinyi ndreka musada hafa nin-hifadhwi ki\nudjamaã.\nKula huluŋu misi haki an-fikupangana ndreki ri havani, shama nin-fikudaiaŋa haki nin-huluŋu nin-hasa, an-\nfihidirani an-shama mikudifaĩ tanafu nazi.\nKanuni faha arompulu efatra ambini :\nKula huluŋu misi haki an-faŋabwahaŋa vaha ndreka fangalaŋa nafasi, amin’ni zenyi, an-faŋanovaŋa\nmupaka mikustahiki amin’ni muda nin-hasa ndreka anfaŋabwahaŋa vaha ifaŋa nim-muda.\nKanuni faha arompulu dimi ambini :\nKula huluŋu misi haki an-fihisiaŋa daradja ninfikueshiaŋa kiasi, mikuruhusu izi uhisi swiha tsara, ahazu\nfaivaŋana, izi ndreka ri havaŋa nazi, an-kabaru mifoturu, fihinanaŋa, fisikinaŋa, fihisiaŋa traŋu, fazahuaŋa\naudi ki lopitali ndreka fazahuan-huluŋu zema ki sirikali muhimu : izi misi haki an-fazahuani musada\nanwakati nin-fipitrahaŋa-ɓure, nin-aretinyi, ninfikupunguzan’ni ziga, nin-fati nin-vadi, ninhauɓakokuaŋa,\nau am-mukaɓala nin-fihafahan-raha mampahazu huluŋu maisha, hatasiɓaɓu nin-fandihana nin-kabaru ɓila\nuvhendza nazi."
         },
         "7": {
-            "Label": "8",
-            "Index": 7,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Fitirahaŋa ndreka hauzazaŋa misi haki an-fazahuaŋa musada ndreka fikututuɓiaŋa mahususu. Zaza djabi,\nrangu reu nitirahinyi an-vadiaŋa atà reu nitirahinyi antani, misi haki miraŋa an-fazahuaŋa hifadhwi nin-\ntaãɓu nim-maisha.\nKanuni faha arompulu tshuta ambini :\nKula huluŋu misi haki an-fidzuruaŋa. Fidzuruaŋa nikulazimu ɓure, shingani ro, fidzuruaŋa an-likoli\nmadiniki. Fidzuruaŋa hasan-taŋana nikulazimu mibiaŋa an-huluŋu djabi ; fidiraŋa an-likoli nin-daradja\naŋabu ninfidzuruaŋa nikulazimu nibiaŋa an-fihiraŋa nin-ankitinyi, an-kula huluŋu djabi misi maãrifa\nuhiditri.\nFidzuruaŋa nikulazimu nikusudia utsatsarufu nimɓinadamu, faŋanovaŋa nguvu mastaha nin-haki-l-adamì\nndreka nafasi musingi. Izi tihì nikulazimu nampandehaaluha fikuelewaŋa, muswamaha ndreka\nfiwandzaniaŋa nin-tani djabi, ndreka shikao nin-kaɓila au nin-dini ndreka fandihanaŋa-aluha nin-ãmali nin-\nUvumoja nin Twaifa (Shama nin-Daula nin-Ulemengu) fikututuɓiaŋa usalama.\nRi huluŋu maventi nin-huluŋu, misi haki an-fifidanaŋa amin’ni raha muhimu amin’ndreu, fidzuruaŋa\ntokutru ahazun-ndri zanakan-ndreu.\nKanuni faha arompulu fitu ambini :\nKula huluŋu misi haki an-fangalaŋa fuvu neka izi shoku, am-maisha ki tamaduni nin-djamaã, an-fangalaŋa\nɓastwi nin-swanaã ndreka an-fangalaŋa ɓandza amin’ni fandihanaŋa-aluha nin-sayãsi ndreka atsaraŋa\nahazuŋu an-raha retu.\nKula huluŋu misi haki an-fikuafadhwiaŋa zavatra nazi, rangu reu mifotutru ĩlimu ata zombo nikumbaŋa\nanfikurumianaŋa sayãsi, fanurataŋa buku au fikutrungaŋa kabaru, neka izi ro tompin’ni raha retu.\nKanuni faha arompulu valu ambini :",
-            "Image": "747b8f54e206b2634780a0fe1be0b9bd"
+            "Image": "747b8f54e206b2634780a0fe1be0b9bd",
+            "Index": 7,
+            "Label": "8",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Fitirahaŋa ndreka hauzazaŋa misi haki an-fazahuaŋa musada ndreka fikututuɓiaŋa mahususu. Zaza djabi,\nrangu reu nitirahinyi an-vadiaŋa atà reu nitirahinyi antani, misi haki miraŋa an-fazahuaŋa hifadhwi nin-\ntaãɓu nim-maisha.\nKanuni faha arompulu tshuta ambini :\nKula huluŋu misi haki an-fidzuruaŋa. Fidzuruaŋa nikulazimu ɓure, shingani ro, fidzuruaŋa an-likoli\nmadiniki. Fidzuruaŋa hasan-taŋana nikulazimu mibiaŋa an-huluŋu djabi ; fidiraŋa an-likoli nin-daradja\naŋabu ninfidzuruaŋa nikulazimu nibiaŋa an-fihiraŋa nin-ankitinyi, an-kula huluŋu djabi misi maãrifa\nuhiditri.\nFidzuruaŋa nikulazimu nikusudia utsatsarufu nimɓinadamu, faŋanovaŋa nguvu mastaha nin-haki-l-adamì\nndreka nafasi musingi. Izi tihì nikulazimu nampandehaaluha fikuelewaŋa, muswamaha ndreka\nfiwandzaniaŋa nin-tani djabi, ndreka shikao nin-kaɓila au nin-dini ndreka fandihanaŋa-aluha nin-ãmali nin-\nUvumoja nin Twaifa (Shama nin-Daula nin-Ulemengu) fikututuɓiaŋa usalama.\nRi huluŋu maventi nin-huluŋu, misi haki an-fifidanaŋa amin’ni raha muhimu amin’ndreu, fidzuruaŋa\ntokutru ahazun-ndri zanakan-ndreu.\nKanuni faha arompulu fitu ambini :\nKula huluŋu misi haki an-fangalaŋa fuvu neka izi shoku, am-maisha ki tamaduni nin-djamaã, an-fangalaŋa\nɓastwi nin-swanaã ndreka an-fangalaŋa ɓandza amin’ni fandihanaŋa-aluha nin-sayãsi ndreka atsaraŋa\nahazuŋu an-raha retu.\nKula huluŋu misi haki an-fikuafadhwiaŋa zavatra nazi, rangu reu mifotutru ĩlimu ata zombo nikumbaŋa\nanfikurumianaŋa sayãsi, fanurataŋa buku au fikutrungaŋa kabaru, neka izi ro tompin’ni raha retu.\nKanuni faha arompulu valu ambini :"
         },
         "8": {
-            "Label": "9",
-            "Index": 8,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Kula huluŋu misi haki an-faŋanovaŋa modeli atà utrilivu amin’ni maisha ki ɓinadamu ndreka amin’ni\nulemengu ikuɓala atà haki ndreka unafasi nikudukuruŋu aŋatim- Matekelezo itì, ikurumianaŋa namuna nin-\nkulazimu.\nKanuni faha arompulu sivi ambini :\nƁinadamu misi raha diasinyi ndreka izi amin’ni djamaã nazi ; amin’izi itì, fikuvambusan’ni tweraŋa nazi an-\nnafasi, iu tu ro raha isiani ruhusa maŋanu azi.\nAmin’ni fikurumianaŋa hakin-huluŋu, ndreka fihisianhuluŋu nafasi, raha retu djabi misi mupaka\nnapetrakansharia. Makuswada nim-mupaka retu, izi ro faŋanovaŋa modeli ata fikuɓaliaŋa ndreka mastaha\nnin-haki ndreka nafasi nin-havaŋa ikueshi ; amin’ni fikusutehiaŋa kua, masharutwi nin-uɓinadamu, nin-\nutrulivu nin-trengwe ndreka fiatsaraŋa djumla nin-djamaã nin-ki nafasi.\nHaki ndreka nafasi retu, ãla-kulli-hali, tsi uheti ikurumianaŋa amin’ni lalaŋa tsi miaraka ndreka makswada\nndreka masharutwi nin-Uvumoja nin-Twaifa (Shama nin-Daula nin-Ulemengu).\nKanuni faha telumpuluni :\nTsisi atà sharia areki nim-Matekelezo itì mbu heti kutafaswirinyi amin’ni lalaŋa mikuruhusu, Daula, shikao\nau huluŋu areki, ihisi haki itsokao yotsi nin-faŋanovaŋa mahafala au ãmali mandrubaka haki ndreka unafasi\nnikudukuruŋu etu.",
-            "Image": "dcc0b7dc79344edf49db19d45c335d70"
+            "Image": "dcc0b7dc79344edf49db19d45c335d70",
+            "Index": 8,
+            "Label": "9",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Kula huluŋu misi haki an-faŋanovaŋa modeli atà utrilivu amin’ni maisha ki ɓinadamu ndreka amin’ni\nulemengu ikuɓala atà haki ndreka unafasi nikudukuruŋu aŋatim- Matekelezo itì, ikurumianaŋa namuna nin-\nkulazimu.\nKanuni faha arompulu sivi ambini :\nƁinadamu misi raha diasinyi ndreka izi amin’ni djamaã nazi ; amin’izi itì, fikuvambusan’ni tweraŋa nazi an-\nnafasi, iu tu ro raha isiani ruhusa maŋanu azi.\nAmin’ni fikurumianaŋa hakin-huluŋu, ndreka fihisianhuluŋu nafasi, raha retu djabi misi mupaka\nnapetrakansharia. Makuswada nim-mupaka retu, izi ro faŋanovaŋa modeli ata fikuɓaliaŋa ndreka mastaha\nnin-haki ndreka nafasi nin-havaŋa ikueshi ; amin’ni fikusutehiaŋa kua, masharutwi nin-uɓinadamu, nin-\nutrulivu nin-trengwe ndreka fiatsaraŋa djumla nin-djamaã nin-ki nafasi.\nHaki ndreka nafasi retu, ãla-kulli-hali, tsi uheti ikurumianaŋa amin’ni lalaŋa tsi miaraka ndreka makswada\nndreka masharutwi nin-Uvumoja nin-Twaifa (Shama nin-Daula nin-Ulemengu).\nKanuni faha telumpuluni :\nTsisi atà sharia areki nim-Matekelezo itì mbu heti kutafaswirinyi amin’ni lalaŋa mikuruhusu, Daula, shikao\nau huluŋu areki, ihisi haki itsokao yotsi nin-faŋanovaŋa mahafala au ãmali mandrubaka haki ndreka unafasi\nnikudukuruŋu etu."
         }
     }
 }

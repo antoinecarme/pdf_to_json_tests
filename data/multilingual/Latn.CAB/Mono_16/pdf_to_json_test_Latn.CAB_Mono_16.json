@@ -1,93 +1,93 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581467275,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "61bb875f9958a2e1f31491f3b77d60c5",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Adamuridagunt to Tagumairagüdaru Garada to Ayanuhabaun luagu le yubat\nhaun gürigia ubauwagu\nTagúmeseha\nSubúsewati ubauwagu, dan lan ligirún gürigia lun ladúgüni le ligundan,\nibihalai le yubai lun lidan deregüdaguaü, ligia lan lagüchabai gudúmei\nhadan sun idúheñu.\nSubúsewatiluagu, dan lan meferen lan luma mabahüdüniwa lan le yubai lun\ngürigia, ru lan ubafu lun afásihani, mañuragunti giñe saminaü ubauwagu.\nLigia lichigunbai subudi lun giarabailan liñúragun gürigia lidangien\nanúfudei labu yumúraü le gadanbalin, lun lubá gia láwagachun lau le\naubai magundan lan, ariñegalai me le uáguti lafiñera;\nSubúsewatiluagu megeiwa tan aban lúrudu lun taunigiruni sun le yubai\nhaun gürigia, lun lubá gia úalá afosuruti lun ladügüni le mabusienru\nlubai tanágangien lúrudu;\nSubúsewati giñe luagu megeiwa lan lahimeidun umádaguaü lidan sun ubau;\nSubúsewati luagu, sun lan fulasu le áundarubai tidaun Ubau Uarati\nrúhamali hafiñe tuagu Garada to, mamai tichiga inébehabu hawagu idúheñu\nfulásurugu, ayánuha luagu le yubai lun gürigia, ru tugia me úarani lun\nwügüritabu würi ubauwagu; afiñewati luagu lawánsera lan me sun ubau\nlugundu hawiwanda me gürigia lidan ibágari richati;\nSubúsewati luagu, sun lan ubau le áundarubai tidaun Adámuri Lani Ubau\nUarati ariñegaña luagu ñeibai lan inébehabu luagu le yubai lun gürigia\nadügalai me ligúndan:\nSubúsewati luagu, dan úara lan saminaü sigénewali, lagúnfuliruba daradu:\nadamuridagunt to\nTagumairagüdaru\ngarada to ayanuhabaun luagu le\nyubathaun gürigia ubauwagu\nLun lubá gia hasubudiragüdüni tila lun sun ubau, haun sun gürigia. Aban\ngárada íchigutu adundehaní haun sun mutu lun lubá gia inebe lan sun\nsaminaü le tídanbai, haucha wagia me lun taraudún tidan luban furendei,\nhaun furumieguarügü dandu lidan hagaira ha asibihabalún kaisi lidan sun\nfulasu le aubai teréreha.\nSaminaü 1\nSun gürigia nasíruati yuti lun, lidan úarani, lawiwanduní libágari kai\nle aubai labúsienra, gatu giñe lanagun lungua buidu hadan líbegu.\nSaminaü 2\nKa gürigia, würi, wügüri, yuti lun libíhini sun buidu le tídanbai Gárada\nto, katai yebe, linásinñu, lewegerún, lagücha, lafiñe, liñeñe, lisáminan",
-            "Image": "61bb875f9958a2e1f31491f3b77d60c5"
+            "Text": "Adamuridagunt to Tagumairagüdaru Garada to Ayanuhabaun luagu le yubat\nhaun gürigia ubauwagu\nTagúmeseha\nSubúsewati ubauwagu, dan lan ligirún gürigia lun ladúgüni le ligundan,\nibihalai le yubai lun lidan deregüdaguaü, ligia lan lagüchabai gudúmei\nhadan sun idúheñu.\nSubúsewatiluagu, dan lan meferen lan luma mabahüdüniwa lan le yubai lun\ngürigia, ru lan ubafu lun afásihani, mañuragunti giñe saminaü ubauwagu.\nLigia lichigunbai subudi lun giarabailan liñúragun gürigia lidangien\nanúfudei labu yumúraü le gadanbalin, lun lubá gia láwagachun lau le\naubai magundan lan, ariñegalai me le uáguti lafiñera;\nSubúsewatiluagu megeiwa tan aban lúrudu lun taunigiruni sun le yubai\nhaun gürigia, lun lubá gia úalá afosuruti lun ladügüni le mabusienru\nlubai tanágangien lúrudu;\nSubúsewati giñe luagu megeiwa lan lahimeidun umádaguaü lidan sun ubau;\nSubúsewati luagu, sun lan fulasu le áundarubai tidaun Ubau Uarati\nrúhamali hafiñe tuagu Garada to, mamai tichiga inébehabu hawagu idúheñu\nfulásurugu, ayánuha luagu le yubai lun gürigia, ru tugia me úarani lun\nwügüritabu würi ubauwagu; afiñewati luagu lawánsera lan me sun ubau\nlugundu hawiwanda me gürigia lidan ibágari richati;\nSubúsewati luagu, sun lan ubau le áundarubai tidaun Adámuri Lani Ubau\nUarati ariñegaña luagu ñeibai lan inébehabu luagu le yubai lun gürigia\nadügalai me ligúndan:\nSubúsewati luagu, dan úara lan saminaü sigénewali, lagúnfuliruba daradu:\nadamuridagunt to\nTagumairagüdaru\ngarada to ayanuhabaun luagu le\nyubathaun gürigia ubauwagu\nLun lubá gia hasubudiragüdüni tila lun sun ubau, haun sun gürigia. Aban\ngárada íchigutu adundehaní haun sun mutu lun lubá gia inebe lan sun\nsaminaü le tídanbai, haucha wagia me lun taraudún tidan luban furendei,\nhaun furumieguarügü dandu lidan hagaira ha asibihabalún kaisi lidan sun\nfulasu le aubai teréreha.\nSaminaü 1\nSun gürigia nasíruati yuti lun, lidan úarani, lawiwanduní libágari kai\nle aubai labúsienra, gatu giñe lanagun lungua buidu hadan líbegu.\nSaminaü 2\nKa gürigia, würi, wügüri, yuti lun libíhini sun buidu le tídanbai Gárada\nto, katai yebe, linásinñu, lewegerún, lagücha, lafiñe, liñeñe, lisáminan"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "a92075a25e785e2226fe4b621bfed426",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "luagu gumadi, lúyeri libágari, lagüriahaun odi le auti lanagua lungua.\nSiñabai giñe, ñei lan díseguaü luagu ligáburi saminaü anügüti ubafu\nbagaira ni luagu tigáburi lúrudu to agumairutu ñei, siñá memebai giñe\nñei lan díseguaü luagu lúyeri aruwaihaní arainiruti bagaira, dipeni yebe\nligia luaigien amu.\nSaminaü 3\nKa gürigia yuti lun labágaridun kai le aubai labúsienra, lun\nlasáriñahan, adügalai me le ligundan inébewa ligia me.\nSaminaü 4\nUati lunti lamuridún ni lun lamúdihan, lubá amúdihani luma lalugurún\ngürigia kai idámuni, faini lumuti lúrudu.\nSaminaü 5\nSiñati basufuriragüdün gürigia, barügüda, busíganu, anáneiha lun ñeigien\nbachúraguai.\nSaminaü 6\nKa gürigia yuti lun, le ñei lumuti, lun inébewa lan lau lumágagun,\nlugundgu ka mutu amu lináhuri luai amu.\nSaminaü 7\nSun mutu aban habu tigíbugien lúrudu, ani yuti giñe tun lúrudu taríhin\nhau. Yuti giñe tun lúrudu, lidan úarani, tererehan hau gürigia\nligibugien furumieguarügü lúyeri nabahüdüni.\nSaminaü 8\nYuti tun lúrudu taríhin lau gürigia dan lérereguní likésin, gounigitai\nme hawai láganigu.\nSaminaü 9\nTanágangien lúrudu, siñati lasiadirún gürigia, siñati lebélurun furísun,\nsiñá labugún lagairagien.\nSaminaü 10\nKa gürigia yuti lun, lidan úarani, lagambúniwa ligíbugien gumadi lun\nlubá gia lasubudiragun lungua, kalan yubai lun, luma le lunbail\nladüuguüni tagánagua lúrudu.\nSaminaü 11\nYuti tun lúrudu tíchigun ubafu lun fulédeiwati lun layánuhan luaugua\nlidan agúseruni.\nSiñabai ladaünragüdünibu gumadi anhain úa lubai bidúrun tidan lúrudu.\nSiñabai giñe badaürün luagu saragu dan luai le tídanbai lúrudu.",
-            "Image": "a92075a25e785e2226fe4b621bfed426"
+            "Text": "luagu gumadi, lúyeri libágari, lagüriahaun odi le auti lanagua lungua.\nSiñabai giñe, ñei lan díseguaü luagu ligáburi saminaü anügüti ubafu\nbagaira ni luagu tigáburi lúrudu to agumairutu ñei, siñá memebai giñe\nñei lan díseguaü luagu lúyeri aruwaihaní arainiruti bagaira, dipeni yebe\nligia luaigien amu.\nSaminaü 3\nKa gürigia yuti lun labágaridun kai le aubai labúsienra, lun\nlasáriñahan, adügalai me le ligundan inébewa ligia me.\nSaminaü 4\nUati lunti lamuridún ni lun lamúdihan, lubá amúdihani luma lalugurún\ngürigia kai idámuni, faini lumuti lúrudu.\nSaminaü 5\nSiñati basufuriragüdün gürigia, barügüda, busíganu, anáneiha lun ñeigien\nbachúraguai.\nSaminaü 6\nKa gürigia yuti lun, le ñei lumuti, lun inébewa lan lau lumágagun,\nlugundgu ka mutu amu lináhuri luai amu.\nSaminaü 7\nSun mutu aban habu tigíbugien lúrudu, ani yuti giñe tun lúrudu taríhin\nhau. Yuti giñe tun lúrudu, lidan úarani, tererehan hau gürigia\nligibugien furumieguarügü lúyeri nabahüdüni.\nSaminaü 8\nYuti tun lúrudu taríhin lau gürigia dan lérereguní likésin, gounigitai\nme hawai láganigu.\nSaminaü 9\nTanágangien lúrudu, siñati lasiadirún gürigia, siñati lebélurun furísun,\nsiñá labugún lagairagien.\nSaminaü 10\nKa gürigia yuti lun, lidan úarani, lagambúniwa ligíbugien gumadi lun\nlubá gia lasubudiragun lungua, kalan yubai lun, luma le lunbail\nladüuguüni tagánagua lúrudu.\nSaminaü 11\nYuti tun lúrudu tíchigun ubafu lun fulédeiwati lun layánuhan luaugua\nlidan agúseruni.\nSiñabai ladaünragüdünibu gumadi anhain úa lubai bidúrun tidan lúrudu.\nSiñabai giñe badaürün luagu saragu dan luai le tídanbai lúrudu."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "d2f810189acecaa239877dfe608457d6",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Saminaü 12\nUati lunti láchachan liuma lidaun libágari amu ni lanáneihan haun\nlidúheñu, madárahan ligia me hagáradan amu, ua meáuseraguti. Yuti giñe\ntun lúrudu terèérehan laugien furumieguarügü anhain asúsereda aban\nlídangien lamíselu le.\nSaminaü 13\nKa gürigia yuti lun lasáriñahan le ñeihin lumuti labúsienra, wiwan ligia\nme lidan furumieguarügü fulasu le auti lagúndara.\nKa gürigia yuti lun láfuridun lidangien furumieguarügü fulasu, íbini\nlagairagien, giríbuya ligia me lagairaun.\nSaminaü 14\nDan lasigirún odi láibahaun furumieguarügü gürigia, yuti lun laríahan\nmúñansu lidan furumieguarügü ubau ani gatu giñe lamuñadún.\nSiñabai giñe ladaünrün amuñadahauti luagu furumieguarügü duru anhain üa\nlubai lúyeri duru ligia tidan gárada to agumairubaun túmagien Ubau\nUaratu.\nSaminaü 15\nKa gürigia yuti lun gagaira lan.\nSiñati beréderuni gürigia luai gagaria lan, siñá beréderuni anhain\nbusien lubai lasansiruni lagaira.\nSaminaü 16\nSun wügüriña hama würiña dan busienguaña lan haungua, yuti haun hadügüni\nhabágari le auti helédaguai, katai yebe hanásiñun, hagaira labu hafiñe;\nwiwan hamai mesun le líchigunbai sibili, lagánagua hamágualu hamán, labu\nlarigien hígiragun.\nAnhain hínsiñegua habai gadara-duntiñu haungua, gawarabai hasibilirún\nanhaña busien.\nUmari habu isanigu hagia lagüchabaña ibágari lidan furumieguarügü\nadámuri, ani yuti giñe lun adámuri labu uruwai láunigiruniña.\nSaminaü 17\nYuti lun ka gürigia larihin lau le lánibai luma le hánibai sungua luagu.\nSiñatiberéderuni gürigia luai le lánibai kaisi luai le yubai lun.\nSaminaü 18\nSun gürigia yuti haun hasáminarun le autí habúsienra, lun hadügüni le\nlíchigun haritagun haun, subudigüda hamai me hafiñe lun ubau; gawarati\ngiñe hasansiruni kaisi hagumairagüduni, ánhaña busien.\nSaminaü 19",
-            "Image": "d2f810189acecaa239877dfe608457d6"
+            "Text": "Saminaü 12\nUati lunti láchachan liuma lidaun libágari amu ni lanáneihan haun\nlidúheñu, madárahan ligia me hagáradan amu, ua meáuseraguti. Yuti giñe\ntun lúrudu terèérehan laugien furumieguarügü anhain asúsereda aban\nlídangien lamíselu le.\nSaminaü 13\nKa gürigia yuti lun lasáriñahan le ñeihin lumuti labúsienra, wiwan ligia\nme lidan furumieguarügü fulasu le auti lagúndara.\nKa gürigia yuti lun láfuridun lidangien furumieguarügü fulasu, íbini\nlagairagien, giríbuya ligia me lagairaun.\nSaminaü 14\nDan lasigirún odi láibahaun furumieguarügü gürigia, yuti lun laríahan\nmúñansu lidan furumieguarügü ubau ani gatu giñe lamuñadún.\nSiñabai giñe ladaünrün amuñadahauti luagu furumieguarügü duru anhain üa\nlubai lúyeri duru ligia tidan gárada to agumairubaun túmagien Ubau\nUaratu.\nSaminaü 15\nKa gürigia yuti lun gagaira lan.\nSiñati beréderuni gürigia luai gagaria lan, siñá beréderuni anhain\nbusien lubai lasansiruni lagaira.\nSaminaü 16\nSun wügüriña hama würiña dan busienguaña lan haungua, yuti haun hadügüni\nhabágari le auti helédaguai, katai yebe hanásiñun, hagaira labu hafiñe;\nwiwan hamai mesun le líchigunbai sibili, lagánagua hamágualu hamán, labu\nlarigien hígiragun.\nAnhain hínsiñegua habai gadara-duntiñu haungua, gawarabai hasibilirún\nanhaña busien.\nUmari habu isanigu hagia lagüchabaña ibágari lidan furumieguarügü\nadámuri, ani yuti giñe lun adámuri labu uruwai láunigiruniña.\nSaminaü 17\nYuti lun ka gürigia larihin lau le lánibai luma le hánibai sungua luagu.\nSiñatiberéderuni gürigia luai le lánibai kaisi luai le yubai lun.\nSaminaü 18\nSun gürigia yuti haun hasáminarun le autí habúsienra, lun hadügüni le\nlíchigun haritagun haun, subudigüda hamai me hafiñe lun ubau; gawarati\ngiñe hasansiruni kaisi hagumairagüduni, ánhaña busien.\nSaminaü 19"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "b8f7cdd07f1e4c6d7b2e8c292bb78e24",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Yuti lun ka gürigia laríñeguni lubáliti lidan adamuridaguni bidaudu\nlamanichagüdüniwa, gawara ligia ladügün akútihani, libihin, ariñahaní,\nsubudigüdalai tidangien furumieguarügü gasibu, umálali tuma garüdia.\nSaminaü 20\nSun gürigia yuti haun hadamuridagun hama ha úmati habúsienra kaisi\nhaundaruh tidaun furumieguarügü adámuri súñeitu.\nSiñati bafósurun gürigia lun lebélurun tidaun aban adámuri.\nSaminaü 21\nYuti lun ka gürigia habúduhan lílana lagaira luagu haucha ligia me\nluaugua lun lebélurun lidaun gumadi.\nSun gürigia yuti haun, lidan úarani, habíhin wadágimanu luma le\narruwaihabai hagaira.\nLe ligundan ubau ligia lagüchabai ubafu lani gumadi; igundani le,\narihúati dan ñei lan asuesihani le ligíaguti, kaisi dan ñei lan\nabúduhani lidan larúman.\nSaminaü 22\nKa gürigia kai lílana fulasu, yuti lun libihin sun lúyeri idemuai-\nseinsu, ibágari, aníchigudandu hámagien lílana lagaira kaisi\nlasúrunigien, lun lubá gia lasandiragun lungua kai aban gürigia\nseríwiti.\nSaminaü 23\nKa gürigia yuti lun lidan úarani, libihin aban wadágimanu, lun laríahan\nwadagimanu lehínsiñeti lun, kai gubairügü libihin idemuai dan mayábun\nlan.\nYuti lun ka gürigia, lidan úarani, libihin aban meme fayei luagu aban\nmeme lúyeri wadágimanu.\nYuti lun ka gürigia awadigimariduti, libihin fayei lun gawarabai lan\nlawíwandun habu lánigu, ibiha ligia me, anhain emégeira, amu idemuai\nlumagien uruwai.\nYuti sun gürigia hadügün aban adámuri lenébese wadágimanu, belú hagia me\ntidaun, lun lubá gia haunigiruní le yubai haun.\nSaminaü 24\nSun gürigia yuti haun, heméragun larigien somu dan wadágimanu, lun\nhasáriñahan dan mawadigimaridun hamán, kaisi tafayeirún hasáriñahan\nhaun.\nSaminaü 25\nKa gürigia yuti lun lamnúgün aban lúyeri ibágari richati, lun lubá gia\ngawara lan ladairun atuadini, araini, aigini, daüguaü, muna, lafaáyeirun\nsurúsia luma furumieguarügü megeiguaü haun lánigu. Yuti giñe lun,",
-            "Image": "b8f7cdd07f1e4c6d7b2e8c292bb78e24"
+            "Text": "Yuti lun ka gürigia laríñeguni lubáliti lidan adamuridaguni bidaudu\nlamanichagüdüniwa, gawara ligia ladügün akútihani, libihin, ariñahaní,\nsubudigüdalai tidangien furumieguarügü gasibu, umálali tuma garüdia.\nSaminaü 20\nSun gürigia yuti haun hadamuridagun hama ha úmati habúsienra kaisi\nhaundaruh tidaun furumieguarügü adámuri súñeitu.\nSiñati bafósurun gürigia lun lebélurun tidaun aban adámuri.\nSaminaü 21\nYuti lun ka gürigia habúduhan lílana lagaira luagu haucha ligia me\nluaugua lun lebélurun lidaun gumadi.\nSun gürigia yuti haun, lidan úarani, habíhin wadágimanu luma le\narruwaihabai hagaira.\nLe ligundan ubau ligia lagüchabai ubafu lani gumadi; igundani le,\narihúati dan ñei lan asuesihani le ligíaguti, kaisi dan ñei lan\nabúduhani lidan larúman.\nSaminaü 22\nKa gürigia kai lílana fulasu, yuti lun libihin sun lúyeri idemuai-\nseinsu, ibágari, aníchigudandu hámagien lílana lagaira kaisi\nlasúrunigien, lun lubá gia lasandiragun lungua kai aban gürigia\nseríwiti.\nSaminaü 23\nKa gürigia yuti lun lidan úarani, libihin aban wadágimanu, lun laríahan\nwadagimanu lehínsiñeti lun, kai gubairügü libihin idemuai dan mayábun\nlan.\nYuti lun ka gürigia, lidan úarani, libihin aban meme fayei luagu aban\nmeme lúyeri wadágimanu.\nYuti lun ka gürigia awadigimariduti, libihin fayei lun gawarabai lan\nlawíwandun habu lánigu, ibiha ligia me, anhain emégeira, amu idemuai\nlumagien uruwai.\nYuti sun gürigia hadügün aban adámuri lenébese wadágimanu, belú hagia me\ntidaun, lun lubá gia haunigiruní le yubai haun.\nSaminaü 24\nSun gürigia yuti haun, heméragun larigien somu dan wadágimanu, lun\nhasáriñahan dan mawadigimaridun hamán, kaisi tafayeirún hasáriñahan\nhaun.\nSaminaü 25\nKa gürigia yuti lun lamnúgün aban lúyeri ibágari richati, lun lubá gia\ngawara lan ladairun atuadini, araini, aigini, daüguaü, muna, lafaáyeirun\nsurúsia luma furumieguarügü megeiguaü haun lánigu. Yuti giñe lun,"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "7e6558770f3685e102abe4428d1b9593",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "libihin idemuai dan mayábun lan, dan lasándirun, dan lasiñaragún lungua,\ndan hilaru, lúmari, dan lawaiyadun, kai gubairügü furumieguarügü idemuai\ndan mama lan ligia íchiga üma lun leferidiruní lébuna libágari.\nYuti haun dagainatiñu habu iráhüñü lun letenirún haun, lau duári. Sun\niráhüñü ha nasíruatiñu lidan odi bárugudi luai sinbili, yuti haun\nhauniguirún lidan aban.\nSaminaü 26\nSun güurigia yuti haun habihin furendei. Anhaña atúriaha tidan luban\nfurumieti furendei, mafayeirúbaña ni aban gáwanü. Yuti lun uruwai\nlaturiagüdüniña gürigia tidabn luban furumieti furuendei. Aturiahaní\ntidan luban segandi furendei aban memebai lila haun sun mutu. Liabin ti\nebéluruni tidaun luban furundei iñuti, hafu lauchun gürigia luaugua.\nSun furendei mosu taríahan tahímeidun lusan gürigia, ru ligia inébehabu\nluagu sun le yubai haun lílana fulasu; luyéri furendei le lunbai\nlibihini gürigia gatu giñe líchigun saminaü lun ñeibai lan gufúrandaü,\nawandahani labu umádaguaü hadan sun mutu, itararügübai gawara lan\nlawándahani labu umádaguaü hadan sun mutu, itararügübai gawara lan\nlawánserun tuádigimari Ubau Uaratu, lun lubá gia ñei meme lan darangilaü\nubauwagu.\nYuti haun agüburigu hasuesihaní luyéri furendei le lunbai habihini\nhasanigu.\nSaminaü 27\nYuti lun ka gürigia láundarun lidaun lechun lagaira, le auti labúsienra,\nlun layúsurun lídangien hadíñeburi, ideha ligia me lun lawanserun\nlagaira.\nKa gürigia yuti lun taunigirún lidíñeburikai hamuga: garúdia, akútihani,\nféindiraeréreha tugia me lúrudu laugien.\nSaminaü 28\nKa gürigia yuti lun lauchun, lun ñeibai lan aban ürudúni lun giarabai\nlan lagúmairun sun saminaü le tídanbai Gárada to.\nSaminaü 29\nSun gürigia anihain lunti ladügüni luagu lagaira, mamai ñei\nlagüriahauwa, ñei tahímeida lusan.\nSun gürigia mosu inébebaun tan lúrudu lun, ladüga tugiarügüñaun lan\nariha lau le yubai haun amu, tugia aunigirubalin ibagari fulásrugu, ru\ntugia buídumei lun bawíwandun tidan aban adámuri úaratu.\nMauwebudunbai sun saminaü le tídanbaun Gárada to, anhawa magúnfulirun\nlau tubáliti Ubau Uaratu.\nSaminaü 30\nUati ni aban saminaü tidan gárada to lun hamuga líchigun ubafu lun",
-            "Image": "7e6558770f3685e102abe4428d1b9593"
+            "Text": "libihin idemuai dan mayábun lan, dan lasándirun, dan lasiñaragún lungua,\ndan hilaru, lúmari, dan lawaiyadun, kai gubairügü furumieguarügü idemuai\ndan mama lan ligia íchiga üma lun leferidiruní lébuna libágari.\nYuti haun dagainatiñu habu iráhüñü lun letenirún haun, lau duári. Sun\niráhüñü ha nasíruatiñu lidan odi bárugudi luai sinbili, yuti haun\nhauniguirún lidan aban.\nSaminaü 26\nSun güurigia yuti haun habihin furendei. Anhaña atúriaha tidan luban\nfurumieti furendei, mafayeirúbaña ni aban gáwanü. Yuti lun uruwai\nlaturiagüdüniña gürigia tidabn luban furumieti furuendei. Aturiahaní\ntidan luban segandi furendei aban memebai lila haun sun mutu. Liabin ti\nebéluruni tidaun luban furundei iñuti, hafu lauchun gürigia luaugua.\nSun furendei mosu taríahan tahímeidun lusan gürigia, ru ligia inébehabu\nluagu sun le yubai haun lílana fulasu; luyéri furendei le lunbai\nlibihini gürigia gatu giñe líchigun saminaü lun ñeibai lan gufúrandaü,\nawandahani labu umádaguaü hadan sun mutu, itararügübai gawara lan\nlawándahani labu umádaguaü hadan sun mutu, itararügübai gawara lan\nlawánserun tuádigimari Ubau Uaratu, lun lubá gia ñei meme lan darangilaü\nubauwagu.\nYuti haun agüburigu hasuesihaní luyéri furendei le lunbai habihini\nhasanigu.\nSaminaü 27\nYuti lun ka gürigia láundarun lidaun lechun lagaira, le auti labúsienra,\nlun layúsurun lídangien hadíñeburi, ideha ligia me lun lawanserun\nlagaira.\nKa gürigia yuti lun taunigirún lidíñeburikai hamuga: garúdia, akútihani,\nféindiraeréreha tugia me lúrudu laugien.\nSaminaü 28\nKa gürigia yuti lun lauchun, lun ñeibai lan aban ürudúni lun giarabai\nlan lagúmairun sun saminaü le tídanbai Gárada to.\nSaminaü 29\nSun gürigia anihain lunti ladügüni luagu lagaira, mamai ñei\nlagüriahauwa, ñei tahímeida lusan.\nSun gürigia mosu inébebaun tan lúrudu lun, ladüga tugiarügüñaun lan\nariha lau le yubai haun amu, tugia aunigirubalin ibagari fulásrugu, ru\ntugia buídumei lun bawíwandun tidan aban adámuri úaratu.\nMauwebudunbai sun saminaü le tídanbaun Gárada to, anhawa magúnfulirun\nlau tubáliti Ubau Uaratu.\nSaminaü 30\nUati ni aban saminaü tidan gárada to lun hamuga líchigun ubafu lun"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "976d5f1908548c4280415cd2a5d026b3",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "furumieguarügü (kai hamúga gürigia, adámuri, uruwai) lun gawarabai lan\nladügün somu katai barúnati luagun tubáliti gáarada to.",
-            "Image": "976d5f1908548c4280415cd2a5d026b3"
+            "Text": "furumieguarügü (kai hamúga gürigia, adámuri, uruwai) lun gawarabai lan\nladügün somu katai barúnati luagun tubáliti gáarada to."
         }
     }
 }

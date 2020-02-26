@@ -1,93 +1,93 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581470095,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "a8d42f25720ab056c9b95c3fc2732aeb",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Diklarason Mundial di Diritus di Pekadur\nAsembleia di Nasons Unidu setal i programal konformi si resoluson 271 A\n(III) di 10 di Dezembru di 1948.\nIntroduson\nAsembleia Jeral nota kuma, rikuñisimentu di dignidadi ku tudu pekaduris\nten, ku se diritus igual ku ka pudi mudadu, i sedu alisersu di\nliberdadi, justisa ku pas na mundu;\nI nota kuma, falta di kunsi diritus di tudu jinti, o disprezu di ki\ndiritus, i ta leba jintis pa atus brabu ku ta ofindi konsiensia di tudu\npekadur; e nota tambi kuma, vison di un mundu nunde ku jinti sta libri\npa papia i pa ten se fe, pa goza di libertadi di medu ku miseria, i\nproklamadu suma inspirason mas altu di pekadur;\nI nota kuma, i pirsis proteji diritus di tudu jinti atraves di sistema\ndi sosiedadi di diritu, pa omi, ku falta di utru meiu, ka sinti obrigadu\npa ravolta kontra otridadis ku na maltrata o kalka jinti;\nI nota kuma, i pirsis nkoraja disinvolvimentu di amisadi ku bon relasons\nna metadi di nasons;\nI nota kuma, na Karta, membrus di Nasons Unidu torna proklama se fe na\ndiritus fundamental di tudu jinti, na dignidadi ku balur di kada\npekadur, na igualdadi di diritus di omis ku minjeris; e diklara kuma e\nsta risolvidu pa sta na ladu di progresu sosial, tambi pa forma minjor\nkondisons di vida dentru di un sosiedadi di mas liberdadi;\nI nota kuma, Stadus ku sedu membrus toma kumprumis di nkoraja, na\nkooperason ku Organizason di Nasons Unidu, pa ten rispitu mundial di\ndiritus di tudu jinti, ku liberdadis fundamental;\nI nota kuma, pa kumpri ki kumprumis diritu, i muitu importanti pa tudu\nmembrus junta na ki un ideia son di diritus ku liberdadis;\nAsembleia Jeral\nProklama e Diklarason Mundial di Diritus di Pekadur suma alvu ku tudu\nrasas ku tudu nasons pudi junta pa yangasa, pa kada pekadur, ku tudu\norgans di sosiedadi, pudi tene ki alvu sempri se dianti, e pudi sforsa,\natraves di nsinu ku edukason, pa disinvolvi rispitu pa e diritus ku\nliberdadis; e pudi toma mididas ku na lebadu dianti, nasional ku\ninternasional, pa ki diritus pudi rikuñisidu, tambi pa e aplikadu ku bon\nrusultadu na tudu parti di mundu, na metadi di populason di propi Stadus\nku sedu membrus, suma tambi na teras ku sta bas di se otridadi.\nArtigu 1\nTudu pekaduris ta padidu libri i igual na balur suma na diritus. Suma e\ndadu kapasidadi di pensa, e tene tambi konsiensia, e dibi di trata ñutru\nsuma ermons.\nArtigu 2",
-            "Image": "a8d42f25720ab056c9b95c3fc2732aeb"
+            "Text": "Diklarason Mundial di Diritus di Pekadur\nAsembleia di Nasons Unidu setal i programal konformi si resoluson 271 A\n(III) di 10 di Dezembru di 1948.\nIntroduson\nAsembleia Jeral nota kuma, rikuñisimentu di dignidadi ku tudu pekaduris\nten, ku se diritus igual ku ka pudi mudadu, i sedu alisersu di\nliberdadi, justisa ku pas na mundu;\nI nota kuma, falta di kunsi diritus di tudu jinti, o disprezu di ki\ndiritus, i ta leba jintis pa atus brabu ku ta ofindi konsiensia di tudu\npekadur; e nota tambi kuma, vison di un mundu nunde ku jinti sta libri\npa papia i pa ten se fe, pa goza di libertadi di medu ku miseria, i\nproklamadu suma inspirason mas altu di pekadur;\nI nota kuma, i pirsis proteji diritus di tudu jinti atraves di sistema\ndi sosiedadi di diritu, pa omi, ku falta di utru meiu, ka sinti obrigadu\npa ravolta kontra otridadis ku na maltrata o kalka jinti;\nI nota kuma, i pirsis nkoraja disinvolvimentu di amisadi ku bon relasons\nna metadi di nasons;\nI nota kuma, na Karta, membrus di Nasons Unidu torna proklama se fe na\ndiritus fundamental di tudu jinti, na dignidadi ku balur di kada\npekadur, na igualdadi di diritus di omis ku minjeris; e diklara kuma e\nsta risolvidu pa sta na ladu di progresu sosial, tambi pa forma minjor\nkondisons di vida dentru di un sosiedadi di mas liberdadi;\nI nota kuma, Stadus ku sedu membrus toma kumprumis di nkoraja, na\nkooperason ku Organizason di Nasons Unidu, pa ten rispitu mundial di\ndiritus di tudu jinti, ku liberdadis fundamental;\nI nota kuma, pa kumpri ki kumprumis diritu, i muitu importanti pa tudu\nmembrus junta na ki un ideia son di diritus ku liberdadis;\nAsembleia Jeral\nProklama e Diklarason Mundial di Diritus di Pekadur suma alvu ku tudu\nrasas ku tudu nasons pudi junta pa yangasa, pa kada pekadur, ku tudu\norgans di sosiedadi, pudi tene ki alvu sempri se dianti, e pudi sforsa,\natraves di nsinu ku edukason, pa disinvolvi rispitu pa e diritus ku\nliberdadis; e pudi toma mididas ku na lebadu dianti, nasional ku\ninternasional, pa ki diritus pudi rikuñisidu, tambi pa e aplikadu ku bon\nrusultadu na tudu parti di mundu, na metadi di populason di propi Stadus\nku sedu membrus, suma tambi na teras ku sta bas di se otridadi.\nArtigu 1\nTudu pekaduris ta padidu libri i igual na balur suma na diritus. Suma e\ndadu kapasidadi di pensa, e tene tambi konsiensia, e dibi di trata ñutru\nsuma ermons.\nArtigu 2"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "ac14d93cd57890a4dd806f28ddb1adfe",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Tudu pekaduris pudi purbita di ki diritus ku leberdadis ku proklamadu ne\nDiklarason, sin kalker diferensa, di rasa, kor, seksu, lingua, rilijion,\nopinion pulitiku, o di utru faktor, nasional o sosial, di rikesa o\nkoitadesa, di nasimentu o di kalker utru situason.\nFora di kila, i ka na fasidu nin un diferensa fundadu na lei pulitiku,\nlegal o internasional di nason o tera nunde ku algin padidu, nin si ki\nnason o tera i indipendenti, bas di proteson di utru, autonomu o\nlimitadu na di diritus di guberna.\nArtigu 3\nTudu pekadur ten diritu di tene vida, liberdadi ku suguransa pisoal.\nArtigu 4\nNigin ka na tenedu suma katibu. Katiberasku ku nogos di bindi o kumpra\npekadur, na tudu si formas, i pruibidu.\nArtigu 5\nNingin ka na sufri tortura nin kastigus o tratamentu kruel, ku ta\numilyal, ku ka dignu di usadu na kalker pekadur.\nArtigu 6\nTudu pekadur ten diritu di tene si personalidadi juridiku rikuñisidu na\ntudu kau.\nArtigu 7\nTudu jinti i igual dianti di lei; sin kalker diferensa e ten diritu di\nrisibi igual proteson di lei. Tudu jinti ten diritu di proteson igual\nkontra kalker diskriminason ku ta kebra regra de Diklarason, tambi\nkontra kalker atu di cuci diskriminason.\nArtigu 8\nKada pekadu ten diritu di bai pa otridadis nasional kompetenti pa buska\najuda kontra atus ku kebra regras di diritus fundamental ku Konstituison\no lei rikuñisi.\nArtigu 9\nNigin ka pudi prindidu o ficadu na kalabus, nin i ka pudi serkadu na\ntera, sin roson dianti di lei.\nArtigu 10\nTudu pekadur ten diritu, ku tudu liberdadi, pa si kasu jugadu\npublikamenti, ku igualdadi, pa tribunal indipendenti lu ka ta diferensia\njintis, ku na fasi disison aserka di si diritus ku obrigasons, o aserka\ndi roson di kalker akusason ku fasidu kontra el.\nArtigu 11\nTudu algin ku akusadu di un krimi i dibi di ocadu nosenti tok si kulpa",
-            "Image": "ac14d93cd57890a4dd806f28ddb1adfe"
+            "Text": "Tudu pekaduris pudi purbita di ki diritus ku leberdadis ku proklamadu ne\nDiklarason, sin kalker diferensa, di rasa, kor, seksu, lingua, rilijion,\nopinion pulitiku, o di utru faktor, nasional o sosial, di rikesa o\nkoitadesa, di nasimentu o di kalker utru situason.\nFora di kila, i ka na fasidu nin un diferensa fundadu na lei pulitiku,\nlegal o internasional di nason o tera nunde ku algin padidu, nin si ki\nnason o tera i indipendenti, bas di proteson di utru, autonomu o\nlimitadu na di diritus di guberna.\nArtigu 3\nTudu pekadur ten diritu di tene vida, liberdadi ku suguransa pisoal.\nArtigu 4\nNigin ka na tenedu suma katibu. Katiberasku ku nogos di bindi o kumpra\npekadur, na tudu si formas, i pruibidu.\nArtigu 5\nNingin ka na sufri tortura nin kastigus o tratamentu kruel, ku ta\numilyal, ku ka dignu di usadu na kalker pekadur.\nArtigu 6\nTudu pekadur ten diritu di tene si personalidadi juridiku rikuñisidu na\ntudu kau.\nArtigu 7\nTudu jinti i igual dianti di lei; sin kalker diferensa e ten diritu di\nrisibi igual proteson di lei. Tudu jinti ten diritu di proteson igual\nkontra kalker diskriminason ku ta kebra regra de Diklarason, tambi\nkontra kalker atu di cuci diskriminason.\nArtigu 8\nKada pekadu ten diritu di bai pa otridadis nasional kompetenti pa buska\najuda kontra atus ku kebra regras di diritus fundamental ku Konstituison\no lei rikuñisi.\nArtigu 9\nNigin ka pudi prindidu o ficadu na kalabus, nin i ka pudi serkadu na\ntera, sin roson dianti di lei.\nArtigu 10\nTudu pekadur ten diritu, ku tudu liberdadi, pa si kasu jugadu\npublikamenti, ku igualdadi, pa tribunal indipendenti lu ka ta diferensia\njintis, ku na fasi disison aserka di si diritus ku obrigasons, o aserka\ndi roson di kalker akusason ku fasidu kontra el.\nArtigu 11\nTudu algin ku akusadu di un krimi i dibi di ocadu nosenti tok si kulpa"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "283a790a7d36ad23fb287b193991c52b",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "sta probadu dianti di lei na un prosesu publiku nunde ki tene tudu\noportunidadis ki pirsis pa difindi si kasu.\nNingin ka na kondenadu pa kusa ki fasi, o pa falta di fasi un dever, si,\nna ki ora, ki atu o falta ka seduba krimi dianti di diritu internu o\ninternasional. Asin, i ka pudi risibi kastigu mas garandi di ki kil ki\nna mersiba na ora ku krimi fasidu.\nArtigu 12\nNingin ka na sufri pa jintis miti na si vida privadu, nin na si familia,\nsi kasa o si kartas, nin i ka na atakadu kontra si rispitu o si bon\nnomi. Kada pekadur ten diritu di risibi proteson di lei kontra ki\nkoldadi atakis o ntromiti.\nArtigu 13\nKada pekadur ten diritu di yanda ku liberdadi, i kuji si kau di mora\ndentru di un pais.\nKada pekadur ten diritu di bandona tera ki sta nel, si i si propi tera o\nnau; i ten diritu tambi pa riba pa si tera.\nArtigu 14\nTudu pekadur ku oca kuma i na pirsigidu i ten diritu di buska i purbita\ndi gasaju na utru tera.\nNa kasu ku ki algin sta ja na prosesu pabia di un krimi kontra diritu di\npekadur, o pabia di kusas ki fasi ku sta kontra leis ku alvus di Nasons\nUnidu, i ka ten ki diritu di buska gasaju na utru tera.\nArtigu 15\nKada pekadu ten diritu di tene si nasionalidadi.\nNingin ka pudi tiradu, sin roson legal, si nasionalidadi nin si diritu\ndi muda si nasionalidadi.\nArtigu 16\nOra ke tene ja idadi di kasa, omi ku minjer ten diritu di kasa pa e\nforma un familia, sin limitason pabia di rasa, nasionalidadi o rilijion.\nNa kasamenti o na tempu di divorsia, elis tudu dus ten diritus igual.\nKasamenti ka pudi fasidu si i ka di libri vontadi di kilis ku na kasa.\nFamilia i ki elementu natural i fundamental di sosiedadi; i ten diritu\ndi risibi proteson di sosiedadi ku Stadu.\nArtigu 17\nTudu pekadur, el son o juntu ku utrus, ten diritu di tene propriedadi.\nNinging ka pudi tiradu si propriedadi sin roson legal.\nArtigu 18",
-            "Image": "283a790a7d36ad23fb287b193991c52b"
+            "Text": "sta probadu dianti di lei na un prosesu publiku nunde ki tene tudu\noportunidadis ki pirsis pa difindi si kasu.\nNingin ka na kondenadu pa kusa ki fasi, o pa falta di fasi un dever, si,\nna ki ora, ki atu o falta ka seduba krimi dianti di diritu internu o\ninternasional. Asin, i ka pudi risibi kastigu mas garandi di ki kil ki\nna mersiba na ora ku krimi fasidu.\nArtigu 12\nNingin ka na sufri pa jintis miti na si vida privadu, nin na si familia,\nsi kasa o si kartas, nin i ka na atakadu kontra si rispitu o si bon\nnomi. Kada pekadur ten diritu di risibi proteson di lei kontra ki\nkoldadi atakis o ntromiti.\nArtigu 13\nKada pekadur ten diritu di yanda ku liberdadi, i kuji si kau di mora\ndentru di un pais.\nKada pekadur ten diritu di bandona tera ki sta nel, si i si propi tera o\nnau; i ten diritu tambi pa riba pa si tera.\nArtigu 14\nTudu pekadur ku oca kuma i na pirsigidu i ten diritu di buska i purbita\ndi gasaju na utru tera.\nNa kasu ku ki algin sta ja na prosesu pabia di un krimi kontra diritu di\npekadur, o pabia di kusas ki fasi ku sta kontra leis ku alvus di Nasons\nUnidu, i ka ten ki diritu di buska gasaju na utru tera.\nArtigu 15\nKada pekadu ten diritu di tene si nasionalidadi.\nNingin ka pudi tiradu, sin roson legal, si nasionalidadi nin si diritu\ndi muda si nasionalidadi.\nArtigu 16\nOra ke tene ja idadi di kasa, omi ku minjer ten diritu di kasa pa e\nforma un familia, sin limitason pabia di rasa, nasionalidadi o rilijion.\nNa kasamenti o na tempu di divorsia, elis tudu dus ten diritus igual.\nKasamenti ka pudi fasidu si i ka di libri vontadi di kilis ku na kasa.\nFamilia i ki elementu natural i fundamental di sosiedadi; i ten diritu\ndi risibi proteson di sosiedadi ku Stadu.\nArtigu 17\nTudu pekadur, el son o juntu ku utrus, ten diritu di tene propriedadi.\nNinging ka pudi tiradu si propriedadi sin roson legal.\nArtigu 18"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "18cd30e5d9254c334cdc4b4b8a8a6808",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Tudu pekadur ten diritu di liberdadi di pensamentu, konsiensia ku\nrilijion. I ten diritu pa muda si rilijion o si opinion, suma tambi di\nmanifesta si rilijion o opinion, el son o juntu ku utru jinti, na kau\npubliku o na kau privadu; i pudi nsinal, i pratikal, a kultu o na\nsirmonias.\nArtigu 19\nKada pekadur ten diritu di liberdadi di opinion, tambi di konta ke ki na\nsinti, ku sedu diritu di ka kalantadu pabia di si opinions; i ten diritu\ndi buska, risibi i konta utru jinti informason ku ideias, pa kalker\nmeiu, sin limitason di fronteras.\nArtigu 20\nKada pekadur ten diritu di liberdadi pa junta ku utru jinti na runion o\nna kalker sosiason pasifiku.\nNingin ka pudi obrigadu pa fasi parti di un sosiason.\nArtigu 21\nKada pekadur ten diritu di toma parti na direson di asuntus publiku di\nsi tera, o diretamenti, o atraves di representatis ku kujidu ku tudu\nliberdadi.\nKada pekadur ten diritu di yentra, na kondisons di igualdadi, pa funsons\npubliku di si tera.\nVontadi di pobu i aliersu di puder di otridadis publiku. Ki vontandi\ndibi di ten vos atraves di elesons limpu pus, ku ta fasidu na tempus\nmarkadu, ku igualdadi di votu, tambi ku votu sekretu, o konformi utru\nprosesu ku ta proteji liberdadi di votu.\nArtigu 22\nKaka pekadur, suma i membru di sosiedadi, ten diritu di suguransa\nsosial; konformi lei i pudi iziji ku diritus ikonomiku, sosial i\nkultural ki pirsisa pa si rispitu ku libri disinvolvimentu di si\npersonalidadi. Es i pusivel pabia di sforsu nasional ku kooperason\ninternasional, di armonia ku organizason ku rikursus di kada tera.\nArtigu 23\nKada pekadur ten diritu di tene tarbaju; i ten diritu di kuji si tarbaju\nku liberdadi, ku kondisons di tarbaju justu ku ta kontental, ku proteson\nkontra falta di mpregu.\nTudu jinti ten diritu di risibi pagamentu igual pa tarbaju igual, sin\nkalker diskriminason.\nAlgin ku ta tarbaja ten diritu di pagamentu justu, ku ta kontental, ku\nta dal, juntu ku si familia, un vida konformi si balur suma ser umanu. I\ndibi di risibi tambi, si i pusivel, tudu utru koldadi proteson sosial.\nKada pekadur ten diritu di kria sindikatus, juntu ku utru jinti; tambi i",
-            "Image": "18cd30e5d9254c334cdc4b4b8a8a6808"
+            "Text": "Tudu pekadur ten diritu di liberdadi di pensamentu, konsiensia ku\nrilijion. I ten diritu pa muda si rilijion o si opinion, suma tambi di\nmanifesta si rilijion o opinion, el son o juntu ku utru jinti, na kau\npubliku o na kau privadu; i pudi nsinal, i pratikal, a kultu o na\nsirmonias.\nArtigu 19\nKada pekadur ten diritu di liberdadi di opinion, tambi di konta ke ki na\nsinti, ku sedu diritu di ka kalantadu pabia di si opinions; i ten diritu\ndi buska, risibi i konta utru jinti informason ku ideias, pa kalker\nmeiu, sin limitason di fronteras.\nArtigu 20\nKada pekadur ten diritu di liberdadi pa junta ku utru jinti na runion o\nna kalker sosiason pasifiku.\nNingin ka pudi obrigadu pa fasi parti di un sosiason.\nArtigu 21\nKada pekadur ten diritu di toma parti na direson di asuntus publiku di\nsi tera, o diretamenti, o atraves di representatis ku kujidu ku tudu\nliberdadi.\nKada pekadur ten diritu di yentra, na kondisons di igualdadi, pa funsons\npubliku di si tera.\nVontadi di pobu i aliersu di puder di otridadis publiku. Ki vontandi\ndibi di ten vos atraves di elesons limpu pus, ku ta fasidu na tempus\nmarkadu, ku igualdadi di votu, tambi ku votu sekretu, o konformi utru\nprosesu ku ta proteji liberdadi di votu.\nArtigu 22\nKaka pekadur, suma i membru di sosiedadi, ten diritu di suguransa\nsosial; konformi lei i pudi iziji ku diritus ikonomiku, sosial i\nkultural ki pirsisa pa si rispitu ku libri disinvolvimentu di si\npersonalidadi. Es i pusivel pabia di sforsu nasional ku kooperason\ninternasional, di armonia ku organizason ku rikursus di kada tera.\nArtigu 23\nKada pekadur ten diritu di tene tarbaju; i ten diritu di kuji si tarbaju\nku liberdadi, ku kondisons di tarbaju justu ku ta kontental, ku proteson\nkontra falta di mpregu.\nTudu jinti ten diritu di risibi pagamentu igual pa tarbaju igual, sin\nkalker diskriminason.\nAlgin ku ta tarbaja ten diritu di pagamentu justu, ku ta kontental, ku\nta dal, juntu ku si familia, un vida konformi si balur suma ser umanu. I\ndibi di risibi tambi, si i pusivel, tudu utru koldadi proteson sosial.\nKada pekadur ten diritu di kria sindikatus, juntu ku utru jinti; tambi i"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "6fb2c628437fbb6d21986e5bf2067384",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "ten diritu di toma parti na un sindikatu pa pudi difindi si interes.\nArtigu 24\nKada pekadur ten diritu di tempu di diskansu ku divirtimentu, tambi di\nlimitason razoavel di oras di tarbaju, ku ferias pagadu na tempus\nmarkadu.\nArtigu 25\nKada pekadur ten diritu di un nivel di vida ku ta sugural, ku si\nfamilia, saudi ku bon stadu, spesialmenti na ladu di kumida, ropa, kau\ndi mora ku ajuda mediku, ku utru sirvis sosial i pirsis; i ten diritu di\nsuguransa ora ki ka tene tarbaju, o na duensa o kalker utru frakesa\nfisiku; viuvas ku bejotis, ku utru jintis ku ka tene manera di sustenta\nse kabesa, nin si e tene tudu vontadi, e dibi di ten suguransa.\nMames ku mininus pikininu ten diritu di ajuda spesial. Tudu mininus, nin\nsi padidu dentru o fora di kasamenti, dibi di tene ki mesmu proteson\nsosial.\nArtigu 26\nKada pekadur ten diritu di edukason. Edukason dibi di sedu di grasa,\npelu menus nsinu primariu fundamental. Nsinu primariu i obrigatoriu.\nNsinu tekniku ku profisional dibi di sedu pa tudu jinti; oportunidadi pa\nstudus superior dibi di sta abertu pa tudu jinti ku tudu igualdadi,\nkonformi se kapasidadi.\nEdukason dibi di tene alvu di disinvolvi personalidadi di alunu, di\nreforsa diritus di pekadur, tambi di juda na ntindimentu, toleransi ku\namisadi anti di tudu nasons ku tudu grupus di rasa o rilijon, suma tambi\ndisinvolvimentu di atividadis di Nsasons Unida pa manti pas.\nI papes ku tene prioridadi di diritu di kuji koldadi edukason ke na\nranja pa se fijus.\nArtigu 27\nKada pekadur ten diritu di toma parti ku tudu liberdadi na vida kultural\ndi kuminidadi, di purbita di artis, tambi di partisipa na progresu\nsientifiku ku si purbitus.\nKada pekadur ten diritu di proteson di interes moral i finanseru ku sta\nligadu ku kalker kusa sientifiku, literariu or artistiku ku el propi i\nfasi.\nArtigu 28\nKada pekadur ten diritu, konformi planu sosial ku planu internasional,\ndi oja un sistema di otridadi ku pudi pui na pratika ki diritus ku\nliberdadis ku comadu ne Diklarason.\nArtigu 29\nKada pekadur ten deveris pa kumunidadi; sin kumpri ki deveris, si",
-            "Image": "6fb2c628437fbb6d21986e5bf2067384"
+            "Text": "ten diritu di toma parti na un sindikatu pa pudi difindi si interes.\nArtigu 24\nKada pekadur ten diritu di tempu di diskansu ku divirtimentu, tambi di\nlimitason razoavel di oras di tarbaju, ku ferias pagadu na tempus\nmarkadu.\nArtigu 25\nKada pekadur ten diritu di un nivel di vida ku ta sugural, ku si\nfamilia, saudi ku bon stadu, spesialmenti na ladu di kumida, ropa, kau\ndi mora ku ajuda mediku, ku utru sirvis sosial i pirsis; i ten diritu di\nsuguransa ora ki ka tene tarbaju, o na duensa o kalker utru frakesa\nfisiku; viuvas ku bejotis, ku utru jintis ku ka tene manera di sustenta\nse kabesa, nin si e tene tudu vontadi, e dibi di ten suguransa.\nMames ku mininus pikininu ten diritu di ajuda spesial. Tudu mininus, nin\nsi padidu dentru o fora di kasamenti, dibi di tene ki mesmu proteson\nsosial.\nArtigu 26\nKada pekadur ten diritu di edukason. Edukason dibi di sedu di grasa,\npelu menus nsinu primariu fundamental. Nsinu primariu i obrigatoriu.\nNsinu tekniku ku profisional dibi di sedu pa tudu jinti; oportunidadi pa\nstudus superior dibi di sta abertu pa tudu jinti ku tudu igualdadi,\nkonformi se kapasidadi.\nEdukason dibi di tene alvu di disinvolvi personalidadi di alunu, di\nreforsa diritus di pekadur, tambi di juda na ntindimentu, toleransi ku\namisadi anti di tudu nasons ku tudu grupus di rasa o rilijon, suma tambi\ndisinvolvimentu di atividadis di Nsasons Unida pa manti pas.\nI papes ku tene prioridadi di diritu di kuji koldadi edukason ke na\nranja pa se fijus.\nArtigu 27\nKada pekadur ten diritu di toma parti ku tudu liberdadi na vida kultural\ndi kuminidadi, di purbita di artis, tambi di partisipa na progresu\nsientifiku ku si purbitus.\nKada pekadur ten diritu di proteson di interes moral i finanseru ku sta\nligadu ku kalker kusa sientifiku, literariu or artistiku ku el propi i\nfasi.\nArtigu 28\nKada pekadur ten diritu, konformi planu sosial ku planu internasional,\ndi oja un sistema di otridadi ku pudi pui na pratika ki diritus ku\nliberdadis ku comadu ne Diklarason.\nArtigu 29\nKada pekadur ten deveris pa kumunidadi; sin kumpri ki deveris, si"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "40f4ffbfbf7d3ef68c0bdd4649349a52",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "personalidadi ka pudi disinvolvi na un manera libri i positivu.\nPa purbitu de diritus ku liberdadis, ningin ka sta sujetu, si i ka son\npa limitis ku lei pui ku alvu son di juda na rikuñisimentu ku rispitu di\ndiritus ku iberdadis di utru jintis, pa i pudi ten un soseidadi\ndemokratiku di justisa, moralidadi, ordi publiku ku bon stadu di tudu\njinti.\nNa nin un kasu e diritus ku liberdadis ka pudi pudu na pratika na un\nmanera ku sta kontra leis ku alvus di Nasons Unidu.\nArtigu 30\nNin un proposta de Diklarason ka pudi ntindidu na un manera ku kalker\nStadu, grupu o pekadur pudi sinti kuma i ten diritu di miti na un\natividadi o fasi kalker kusa ku pudi dana diritus ku liberdadis ku\ncomadu li.",
-            "Image": "40f4ffbfbf7d3ef68c0bdd4649349a52"
+            "Text": "personalidadi ka pudi disinvolvi na un manera libri i positivu.\nPa purbitu de diritus ku liberdadis, ningin ka sta sujetu, si i ka son\npa limitis ku lei pui ku alvu son di juda na rikuñisimentu ku rispitu di\ndiritus ku iberdadis di utru jintis, pa i pudi ten un soseidadi\ndemokratiku di justisa, moralidadi, ordi publiku ku bon stadu di tudu\njinti.\nNa nin un kasu e diritus ku liberdadis ka pudi pudu na pratika na un\nmanera ku sta kontra leis ku alvus di Nasons Unidu.\nArtigu 30\nNin un proposta de Diklarason ka pudi ntindidu na un manera ku kalker\nStadu, grupu o pekadur pudi sinti kuma i ten diritu di miti na un\natividadi o fasi kalker kusa ku pudi dana diritus ku liberdadis ku\ncomadu li."
         }
     }
 }

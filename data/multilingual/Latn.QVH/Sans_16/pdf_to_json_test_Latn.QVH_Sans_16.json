@@ -1,158 +1,158 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581470164,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "4646e3c2a09787956a823a3d7103470b",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "LAPAN RUNAKUNA IMANAWPA RISPITASH KAYÄNANPAQ KASHQANKUNA KAYNAW NIRMI\nQALAYKUN\n[Preamble]\nLapan runakunapis libri kananpaq, jusayuqkunata kastigakänanpaq y iusaynaqkunata mana kastigaypa y\npiwanpis mana pelyaypa kushish kay pasachaw kawayqa kanqa ali; runakuna imanawpis kashqanta mana\nqechuymi y lapan runakuna yarpashqankunatapis mana michashqa kananpaq;\nRunakuna rispitash kayänanpaq kashqanta mana reqiypami y reqiykarpis iarukuyashqanta kanan\nyarparkushqaqa seqaypa ajanaypaq kaptinmi kanan lapan runakunapis alichaw kananta munayashpämi\nkaykunata wilakuyä. Lapan runakunapis ali kawakuyman chaykur; mansakuypita y pishëpakuypita librash\nkarqa, munashqannawmj lapantapis parlakuyanqa y munashqanmanmj krigikuyanqa;\nLapan kaykunatamj rurakänan, runakuna shumaq rispitash kayänanpaq. Saynawpaqa runakuna manami\nyarpäyanqasu imaykanawpapis awturdäkunapa kontran sharkuyta y tukuynawpa nakasikuqkunata elaqäsiyta;\nSaynawmi ali kanman lapan nasyunkuna shumaq wilanakur tukuynawpa jukninwan jukninwan yanapänakur\naruyaptin; Askaq nasyunkunapita runakuna shuntakaykärir, rasunpaypa alimi niyashpan yärakuyan,\nrunakuna rispitash kayänanpaq niyashqan qelqaraykaqman. Kay qelqaraykaqchawqa kaykan runakuna\nrasunpa rispitash kananpaq, lapan runakunapis mana jarukushqa kayänanpaq, warmipis olqupis rispitash\nkayänanpaq. Saynawpami rasunpa kaykuna rurakänanpaq wilanakuyashkä lapan markakuna y nasyunkuna\nali kayman chäyänanpaq, lapan runakunapis ali kawayänanpaq, saynaw kashqanta musyar runakuna librina\nkar shumaqna kawakuyanqa;\nKaychaq lapan runa qotukaqkuna awniyashqa lapan kaykunata rurananpaq, askaq nasyunkunawan wilanakur\nyanapänakuypa lapan runakuna rispitashqa kayananpaq. Runakuna lapan rispitash karqa rasunpaypami y\nlibrimi kakuyanqa ali kaqkunataqa rurayanqa munayashqannaw, y;",
-            "Image": "4646e3c2a09787956a823a3d7103470b"
+            "Text": "LAPAN RUNAKUNA IMANAWPA RISPITASH KAYÄNANPAQ KASHQANKUNA KAYNAW NIRMI\nQALAYKUN\n[Preamble]\nLapan runakunapis libri kananpaq, jusayuqkunata kastigakänanpaq y iusaynaqkunata mana kastigaypa y\npiwanpis mana pelyaypa kushish kay pasachaw kawayqa kanqa ali; runakuna imanawpis kashqanta mana\nqechuymi y lapan runakuna yarpashqankunatapis mana michashqa kananpaq;\nRunakuna rispitash kayänanpaq kashqanta mana reqiypami y reqiykarpis iarukuyashqanta kanan\nyarparkushqaqa seqaypa ajanaypaq kaptinmi kanan lapan runakunapis alichaw kananta munayashpämi\nkaykunata wilakuyä. Lapan runakunapis ali kawakuyman chaykur; mansakuypita y pishëpakuypita librash\nkarqa, munashqannawmj lapantapis parlakuyanqa y munashqanmanmj krigikuyanqa;\nLapan kaykunatamj rurakänan, runakuna shumaq rispitash kayänanpaq. Saynawpaqa runakuna manami\nyarpäyanqasu imaykanawpapis awturdäkunapa kontran sharkuyta y tukuynawpa nakasikuqkunata elaqäsiyta;\nSaynawmi ali kanman lapan nasyunkuna shumaq wilanakur tukuynawpa jukninwan jukninwan yanapänakur\naruyaptin; Askaq nasyunkunapita runakuna shuntakaykärir, rasunpaypa alimi niyashpan yärakuyan,\nrunakuna rispitash kayänanpaq niyashqan qelqaraykaqman. Kay qelqaraykaqchawqa kaykan runakuna\nrasunpa rispitash kananpaq, lapan runakunapis mana jarukushqa kayänanpaq, warmipis olqupis rispitash\nkayänanpaq. Saynawpami rasunpa kaykuna rurakänanpaq wilanakuyashkä lapan markakuna y nasyunkuna\nali kayman chäyänanpaq, lapan runakunapis ali kawayänanpaq, saynaw kashqanta musyar runakuna librina\nkar shumaqna kawakuyanqa;\nKaychaq lapan runa qotukaqkuna awniyashqa lapan kaykunata rurananpaq, askaq nasyunkunawan wilanakur\nyanapänakuypa lapan runakuna rispitashqa kayananpaq. Runakuna lapan rispitash karqa rasunpaypami y\nlibrimi kakuyanqa ali kaqkunataqa rurayanqa munayashqannaw, y;"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "f43c3246c8461f48c3a8a485bcb6ea67",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Lapansikunapis juk yarpayla, kay runakuna rispitash kayänanpaq, pipis mana jarukushqa y Iibri\nkakuyänanpaq yarpashqaqa seqay alimi kanqa; saynaw rurashun nishqansikuna lapan rurakänanpaq.\nALI YARPAY KAPTIN KAYKUNATAMI WILAKUYAN KAY PASACHAW LAPAN RUNAKUNA\nRISPITASH KAYÄNANPAQ NIYASHQAN\nLapan markakunapis, nasyunkunapis juk yarpayla yawayänanpaqmi lakipakuyänan imaykanawpapis.\nSaynawpaqa lapan runakunapis y mandaq awturdäkunapis, kay wilakuyashqäman yarpakushla kayashpanqa,\nshumaq juknaw alitana rurayanman yachasiyashpan y yachakuyashpan. Saynawpami mansapakuypa\nrurayänan, runakunata mana jarukuypa rispitana kashqanta y libri kashqankunata, Saynawpaqa yarpänansj\nlapan nasyunninsik y juklä nasyunkuna ali kawayman chananpaqmi. Kaykunataqa musyayänan y lapan\nrunapis nishqannaw rasunpaypa rurayänan, lapan qotukaq runakunapa markankuna, nasyunninkun y\nwakinkaq kay nasyunpa ruñnkunachaw kaykaq markakunapis.\nNISFIQAN JUK (1)\nLapan runakunapis yurikuyan librimi y wakinkaqkunanaw rispitashqa, mana jarukushqa kayänanpaq.\nSaynawmi runakunaqa yuriyan shumaq yarpayyuq, alitapis mana alitapis reqiykar y seqay kuyapäkuyyuq.\nSaymi runakuna ali kawakuyänan jukninwan jukninwanpis.\nNISHQAN ISHKAY (2)\nLapan runakuna rispitashqa y mana jarukushqami kayänan y ali kananpaq wilakuyashqächaw nishqannaw\nlibrimi kayänanpis. Manami chikish kanansu juk kasta kashqanpita yana o yuraq kashqanpita, warmi ni olqu\nkashqanpita, imanawkaq parlayta parlaq kashqanpita, imamanpis krigishqanpita,\nSaypis manami bäjuman churashqa kanqasu mayqan alikaq o mana alikaq niyänansu, runakuna markakunata\nmandananpaq askaq shuntakaykuptin, runakuna mana jarukush kananpaq alita ruraqkunata o lapan nasyun\nrunakunapaq o mayninpapis markankunapa siñalninkuna rurinchaw juk runa mandaq kaptin. Saynaw",
-            "Image": "f43c3246c8461f48c3a8a485bcb6ea67"
+            "Text": "Lapansikunapis juk yarpayla, kay runakuna rispitash kayänanpaq, pipis mana jarukushqa y Iibri\nkakuyänanpaq yarpashqaqa seqay alimi kanqa; saynaw rurashun nishqansikuna lapan rurakänanpaq.\nALI YARPAY KAPTIN KAYKUNATAMI WILAKUYAN KAY PASACHAW LAPAN RUNAKUNA\nRISPITASH KAYÄNANPAQ NIYASHQAN\nLapan markakunapis, nasyunkunapis juk yarpayla yawayänanpaqmi lakipakuyänan imaykanawpapis.\nSaynawpaqa lapan runakunapis y mandaq awturdäkunapis, kay wilakuyashqäman yarpakushla kayashpanqa,\nshumaq juknaw alitana rurayanman yachasiyashpan y yachakuyashpan. Saynawpami mansapakuypa\nrurayänan, runakunata mana jarukuypa rispitana kashqanta y libri kashqankunata, Saynawpaqa yarpänansj\nlapan nasyunninsik y juklä nasyunkuna ali kawayman chananpaqmi. Kaykunataqa musyayänan y lapan\nrunapis nishqannaw rasunpaypa rurayänan, lapan qotukaq runakunapa markankuna, nasyunninkun y\nwakinkaq kay nasyunpa ruñnkunachaw kaykaq markakunapis.\nNISFIQAN JUK (1)\nLapan runakunapis yurikuyan librimi y wakinkaqkunanaw rispitashqa, mana jarukushqa kayänanpaq.\nSaynawmi runakunaqa yuriyan shumaq yarpayyuq, alitapis mana alitapis reqiykar y seqay kuyapäkuyyuq.\nSaymi runakuna ali kawakuyänan jukninwan jukninwanpis.\nNISHQAN ISHKAY (2)\nLapan runakuna rispitashqa y mana jarukushqami kayänan y ali kananpaq wilakuyashqächaw nishqannaw\nlibrimi kayänanpis. Manami chikish kanansu juk kasta kashqanpita yana o yuraq kashqanpita, warmi ni olqu\nkashqanpita, imanawkaq parlayta parlaq kashqanpita, imamanpis krigishqanpita,\nSaypis manami bäjuman churashqa kanqasu mayqan alikaq o mana alikaq niyänansu, runakuna markakunata\nmandananpaq askaq shuntakaykuptin, runakuna mana jarukush kananpaq alita ruraqkunata o lapan nasyun\nrunakunapaq o mayninpapis markankunapa siñalninkuna rurinchaw juk runa mandaq kaptin. Saynaw"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "bb90c086f1179df31aaaec904819a9f0",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "kanman juk nasyun marka, pipis mana mandash kaptinpis y markakunapa siñalninkuna surinchaw shumaq\nimanawpapis rurayta mana kamäpakuq kayaptin o kikinkuna mana mandar juk mandash karpis o juk marka\nseqaypa mandar imaykapitapis michashqa imanawpis nishqanchaw kanansu manami.\nNISHQAN KIMSA (3)\nLapan runakunapis shumaq rispitashqami kawakuyänan, librimi imaykapitapis kakuyänan y imapis\npäsananta awturdäkuna rispitasinan ali kakuyänanpaq.\nNISHQAN CHUSKU (4)\nManami pipis ashmayman churashqa kanansu ni pipa tukuy rurayninkunapaq kanmansu. Ashmaykaq y\nashmayta saray; runakuna imanaw rurananpaq kaqkunachawqa pasaypami michar kundinan lapankunatapis y\ntukuynawpa ashmay saraqkunatapis.\nNISHQAN PISQA (5)\nManami pipis fiyupa nakasishqa ni lakipaypaq o munashqannaw nakasishqa, runa kashqankunata mana\nkuyapaypa tukuyta nishqa kanansu.\nNISIlQAN SOQTA (6)\nLapan runakunami maysaychawpis seqaypa rispitashqa kanan y runa kaynintapis saynaw rispitasikunan,\npipis mana jarukunanpaq.\nNISHQAN QANCHIS (7)\nRunakuna imatapis rurananpaq kashqankunachawqa lapansipis iwalmi kansi. Saynawmi pitapis ali kashqanta\nni mana ali kashqanta mana akraypa, runakuna rurananpaq kashqanwan sapakuyänan tukuypita. Lapan\nrunakunami iwal rispitasikuyänan, wakin runakuna jamurpar jarukur ushayänanpita y manakaqkunata",
-            "Image": "bb90c086f1179df31aaaec904819a9f0"
+            "Text": "kanman juk nasyun marka, pipis mana mandash kaptinpis y markakunapa siñalninkuna surinchaw shumaq\nimanawpapis rurayta mana kamäpakuq kayaptin o kikinkuna mana mandar juk mandash karpis o juk marka\nseqaypa mandar imaykapitapis michashqa imanawpis nishqanchaw kanansu manami.\nNISHQAN KIMSA (3)\nLapan runakunapis shumaq rispitashqami kawakuyänan, librimi imaykapitapis kakuyänan y imapis\npäsananta awturdäkuna rispitasinan ali kakuyänanpaq.\nNISHQAN CHUSKU (4)\nManami pipis ashmayman churashqa kanansu ni pipa tukuy rurayninkunapaq kanmansu. Ashmaykaq y\nashmayta saray; runakuna imanaw rurananpaq kaqkunachawqa pasaypami michar kundinan lapankunatapis y\ntukuynawpa ashmay saraqkunatapis.\nNISHQAN PISQA (5)\nManami pipis fiyupa nakasishqa ni lakipaypaq o munashqannaw nakasishqa, runa kashqankunata mana\nkuyapaypa tukuyta nishqa kanansu.\nNISIlQAN SOQTA (6)\nLapan runakunami maysaychawpis seqaypa rispitashqa kanan y runa kaynintapis saynaw rispitasikunan,\npipis mana jarukunanpaq.\nNISHQAN QANCHIS (7)\nRunakuna imatapis rurananpaq kashqankunachawqa lapansipis iwalmi kansi. Saynawmi pitapis ali kashqanta\nni mana ali kashqanta mana akraypa, runakuna rurananpaq kashqanwan sapakuyänan tukuypita. Lapan\nrunakunami iwal rispitasikuyänan, wakin runakuna jamurpar jarukur ushayänanpita y manakaqkunata"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "82125827bcf5561adb162792ece9e921",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "parlarkur, kay runa rispitash kananpaq wilakuyashqäkunapjta kontran parlar puriqkunapita y luta jarukur\nushash kananpita.\nNISHQAN PUWAQ (8)\nLapan runakunapis kejakuyänanmj, jatusaq kay nasyunchaw kaq awturdäkunaman, runa rispitash kananpaq\nkashqankunata pipis jarukur ushaptin, awturdäkunapis sapänanmi, imanaw runakuna rurananpaq\nkashqanchaw parlashqannaw saypaqmi qelqaraykan, saywan pipis sapakuyänanpaq.\nNISHQAN ESQUN (9)\nManami mayqan runatapis luta la sarir kalapósuman apar wechqaräsinansu, ni markanpita jukläman jitar\nushashqaqa kanansu.\nNISHQAN CHUNKA (10)\nLapan runakunami rasunpaypa Iapanpis iwal kayayninpa, aska runakunapa puntanchaw wiyashqa kanan\njusan o mana jusan kaptinpis y juk awturdäta wilapänan. Kay awturdäqa manami mayqanpaqpis faburnin\nsharkunansu lutalaqa, jukninpaq jukninpaqpis. Saynawpami musyanqa mayqankaq ali rispitash kananpaqpis\ny imanaw rurananpaqpis. Saynawpami musyanqa mayqan jusayuq kashqanta y mayqan jusaynaq\nkashqantapis. Niykurnami isanqa imanawpis ruranqa wechqananpaq o mana wechqananpaqpis.\nNISHQAN CHUNKA JUK (11)\nIma jusanpitapis mayqan runa kejashqa karpis, manaraq rasunpaypa jusan kashqanta musyakashqanyaqqa\nimaykanawpapis rispitasikunanmi jusaynaqlaraq kashqanta. Saynaw rispitasikunan lapan runapa\nnawpanchaw rasunpa mana jusan kashqanta y runa kashqanta mana jarukuyänanpaq.\nManami pipis kondinashqa kanansu imatapis mana rurash kaykaptinqa o imatapis ruraykashqanta jinan öra\nmana taripash kaptinqa; imanawmi nin runakuna rispitash kananpaq wilakuyashqankuna, kay nasyunpaq y",
-            "Image": "82125827bcf5561adb162792ece9e921"
+            "Text": "parlarkur, kay runa rispitash kananpaq wilakuyashqäkunapjta kontran parlar puriqkunapita y luta jarukur\nushash kananpita.\nNISHQAN PUWAQ (8)\nLapan runakunapis kejakuyänanmj, jatusaq kay nasyunchaw kaq awturdäkunaman, runa rispitash kananpaq\nkashqankunata pipis jarukur ushaptin, awturdäkunapis sapänanmi, imanaw runakuna rurananpaq\nkashqanchaw parlashqannaw saypaqmi qelqaraykan, saywan pipis sapakuyänanpaq.\nNISHQAN ESQUN (9)\nManami mayqan runatapis luta la sarir kalapósuman apar wechqaräsinansu, ni markanpita jukläman jitar\nushashqaqa kanansu.\nNISHQAN CHUNKA (10)\nLapan runakunami rasunpaypa Iapanpis iwal kayayninpa, aska runakunapa puntanchaw wiyashqa kanan\njusan o mana jusan kaptinpis y juk awturdäta wilapänan. Kay awturdäqa manami mayqanpaqpis faburnin\nsharkunansu lutalaqa, jukninpaq jukninpaqpis. Saynawpami musyanqa mayqankaq ali rispitash kananpaqpis\ny imanaw rurananpaqpis. Saynawpami musyanqa mayqan jusayuq kashqanta y mayqan jusaynaq\nkashqantapis. Niykurnami isanqa imanawpis ruranqa wechqananpaq o mana wechqananpaqpis.\nNISHQAN CHUNKA JUK (11)\nIma jusanpitapis mayqan runa kejashqa karpis, manaraq rasunpaypa jusan kashqanta musyakashqanyaqqa\nimaykanawpapis rispitasikunanmi jusaynaqlaraq kashqanta. Saynaw rispitasikunan lapan runapa\nnawpanchaw rasunpa mana jusan kashqanta y runa kashqanta mana jarukuyänanpaq.\nManami pipis kondinashqa kanansu imatapis mana rurash kaykaptinqa o imatapis ruraykashqanta jinan öra\nmana taripash kaptinqa; imanawmi nin runakuna rispitash kananpaq wilakuyashqankuna, kay nasyunpaq y"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "413570911e3f2bb38227221ede0262a7",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "juklä nasyunkunapaq saychaw nishqannaw. Jusankunapita kastigashqa kananpaq kaqkunapita mastaqa\nmanami nakasir kastigakänansu jusan kaptinpis.\nNISHQAN CHUNKA ISHKAY (12)\nManami mayqan runatapis pipis lutaqa imatapis rimapänansu shuyni kawakuqtaqa, kastankunatapis,\nwayinkunata o paypa kaqtaqa imantapis; imanaw ali o mana ali kakuptinpis, runa kayninta chikipänansu.\nLapan runakunami sapakunan, runakuna imanawpis rurananpaq kaykashqanchaw qelqaraykaqwan,\ntukuynawpa imaykatapis manakaqpita rimapänanpita.\nNISHQAN CHUNKA KIMSA (13)\nLapan runakunapis librimi purikuyänan maysaypapis. Saynawmi may nasyunchawpis rurakunan\nwayinkunata saychaw täkunanpaq.\nLapan runakunapis yarquyänanmi may nasyunpitapis, kikinpa nasyunninpita juk nasyunman y niykurpis\nsaynawmi kutikunan nasyunninman.\nNISHQAN CHUNKA CHUSKU (14)\nMayqan runatapis wakinkaqkuna imapitapis qatikachaptinqa kikin ashinan maychawpis ali täkunanpaq.\nSaynawpami kushish täkunqa mayqan nasyunchaw karpis.\nKay wilakuyashqäkunaqa manami pasaypapis joqarishqasu kanqa mana alita ruraqkuna, alichaw\nyarqunanpaqqa ni noqakuna askaq wi!anakurkur \"ali kananpaq\" nir wilakuyashqäpa kontran yarpaqkunatapis\nmanami yanapanqasu.\nNISHQAN CHUNKA PISQA (15)\nLapan runakunapis kayanan juk nasyunchaw yurishqalami.",
-            "Image": "413570911e3f2bb38227221ede0262a7"
+            "Text": "juklä nasyunkunapaq saychaw nishqannaw. Jusankunapita kastigashqa kananpaq kaqkunapita mastaqa\nmanami nakasir kastigakänansu jusan kaptinpis.\nNISHQAN CHUNKA ISHKAY (12)\nManami mayqan runatapis pipis lutaqa imatapis rimapänansu shuyni kawakuqtaqa, kastankunatapis,\nwayinkunata o paypa kaqtaqa imantapis; imanaw ali o mana ali kakuptinpis, runa kayninta chikipänansu.\nLapan runakunami sapakunan, runakuna imanawpis rurananpaq kaykashqanchaw qelqaraykaqwan,\ntukuynawpa imaykatapis manakaqpita rimapänanpita.\nNISHQAN CHUNKA KIMSA (13)\nLapan runakunapis librimi purikuyänan maysaypapis. Saynawmi may nasyunchawpis rurakunan\nwayinkunata saychaw täkunanpaq.\nLapan runakunapis yarquyänanmi may nasyunpitapis, kikinpa nasyunninpita juk nasyunman y niykurpis\nsaynawmi kutikunan nasyunninman.\nNISHQAN CHUNKA CHUSKU (14)\nMayqan runatapis wakinkaqkuna imapitapis qatikachaptinqa kikin ashinan maychawpis ali täkunanpaq.\nSaynawpami kushish täkunqa mayqan nasyunchaw karpis.\nKay wilakuyashqäkunaqa manami pasaypapis joqarishqasu kanqa mana alita ruraqkuna, alichaw\nyarqunanpaqqa ni noqakuna askaq wi!anakurkur \"ali kananpaq\" nir wilakuyashqäpa kontran yarpaqkunatapis\nmanami yanapanqasu.\nNISHQAN CHUNKA PISQA (15)\nLapan runakunapis kayanan juk nasyunchaw yurishqalami."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "5a52c2a6c6f58121e690e55540002358",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Manami mayqan runatapis lutaqa michänansu pipis nasyunninpita ni juk!ä nasyuriman aywaykur\ntäkunantapis manami michashqa kanansu.\nNISHQAN CHUNKA SOQTA (16)\nOlqupis warmipis tyempunman charnaqa, pipis mana michashqami kasarakuyänan. Manami michashqa\nkayänansu juk kolur qarankuna kayninpa, juklä nasyun kayninpa, imanawpis krigiq kashqanpita. Lapanpis\nkasarar shuynina täkuyänan wayita ruraykur, shumaq täyänan lapanpis rispitanakur kasaraykärirqa. Saynaw\nkayänan imayyaqpis kasarashqa karqa y rakikarpis saynawmi iwalpura imatapis rakipänakunan.\nWarmi olqupis rasunpaypa munanakur imayyaqpis kasarar täyänanpaq awninakush kaqkunami\nkasarayänanqa.\nJuk ayllumi kikinkaq umanqa y seqay alikaqqa lapan marka kananpaqpis. Saymi lapan markakunapi\nrispitasinan ayllukuna mana jarukush kananpaq y nasyun mandaqkunapis rispitasiyänan.\nNISHQAN CHUNKA QANCHIS (17)\nLapan runakunapami wayinkuna y chakrankuna kanan, juk runalapapis kanmanmi y askaq qorikash\nrunakunapis saräyänanmi.\nWayinkunapita y chakrankunapita manami pipis qarqushqa kayänansu.\nNISHQAN CHUNKA PUWAQ (18)\nLapan runakunapis librimi yarpachakuyänan, kuyapäkuyninpis ali o mana alipis kakunan y munashqanman\nimamanpis krigikunman. Saynawmi munarqa trukasinan jukman krigishqanpita jukkaqmanpis. Imamanpis\nkrigirqa wakinkaq runakunatapis wilapänan y parlanan krigishqanpaq. Parlayänanmi juk juklapis o askaqpis,\naskaq runakuna wiyananchawpis o shuyni wayinkunalachawpis, yachasiyashpan, wakinpis rurananpaq,\nalikaqta rurar y lapantapis shumaq ruraypa.",
-            "Image": "5a52c2a6c6f58121e690e55540002358"
+            "Text": "Manami mayqan runatapis lutaqa michänansu pipis nasyunninpita ni juk!ä nasyuriman aywaykur\ntäkunantapis manami michashqa kanansu.\nNISHQAN CHUNKA SOQTA (16)\nOlqupis warmipis tyempunman charnaqa, pipis mana michashqami kasarakuyänan. Manami michashqa\nkayänansu juk kolur qarankuna kayninpa, juklä nasyun kayninpa, imanawpis krigiq kashqanpita. Lapanpis\nkasarar shuynina täkuyänan wayita ruraykur, shumaq täyänan lapanpis rispitanakur kasaraykärirqa. Saynaw\nkayänan imayyaqpis kasarashqa karqa y rakikarpis saynawmi iwalpura imatapis rakipänakunan.\nWarmi olqupis rasunpaypa munanakur imayyaqpis kasarar täyänanpaq awninakush kaqkunami\nkasarayänanqa.\nJuk ayllumi kikinkaq umanqa y seqay alikaqqa lapan marka kananpaqpis. Saymi lapan markakunapi\nrispitasinan ayllukuna mana jarukush kananpaq y nasyun mandaqkunapis rispitasiyänan.\nNISHQAN CHUNKA QANCHIS (17)\nLapan runakunapami wayinkuna y chakrankuna kanan, juk runalapapis kanmanmi y askaq qorikash\nrunakunapis saräyänanmi.\nWayinkunapita y chakrankunapita manami pipis qarqushqa kayänansu.\nNISHQAN CHUNKA PUWAQ (18)\nLapan runakunapis librimi yarpachakuyänan, kuyapäkuyninpis ali o mana alipis kakunan y munashqanman\nimamanpis krigikunman. Saynawmi munarqa trukasinan jukman krigishqanpita jukkaqmanpis. Imamanpis\nkrigirqa wakinkaq runakunatapis wilapänan y parlanan krigishqanpaq. Parlayänanmi juk juklapis o askaqpis,\naskaq runakuna wiyananchawpis o shuyni wayinkunalachawpis, yachasiyashpan, wakinpis rurananpaq,\nalikaqta rurar y lapantapis shumaq ruraypa."
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "9bc94a147b39e7fde328471f8568ef87",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "NISHQAN CHUNKA ESQUN (19)\nLapan runakunapis yarpäyashqannawmi parlayänan y rimakuyänan imanaw ali y mana ali kashqantapis.\nSaynawmi imanirpis parlaptin pipis rimanansu ni qayapar ajanäsinansu imapaqpis rimakushqanpita.\nWiyashqankunatapis rasunpa kashqanta shumaq mayapakunan, tukuy wilakuykunatapis chaskinanmi y\nchaskinan wakinkaqkuna imanaw yarpäyashqankunatawan. Saynaw wiyashqanta, chaskishqanta y\nyarpashqankunata lapan runakunata musyasinan munayashqannaw imaykatapis mana michashqa lapannawpa\nimawanpis runata wiyasina y mayasina kaqkunawanqa.\nNISHQAN ISHKAY CHUNKA (20)\nLapan runakunapis librimi yorikäkuyänan y askaqpis shuntakäkuyänanmi imatapis alikaqkunata\nrurayänanpaq pipis mana michashqa.\nMana munaykaqtaqa manami pitapis shuntakäyashqanchaw kananpaq apayänansu.\nNISHQAN ISHKAY CHUNKA JUK (21)\nLapan runakunapis nasyunninchaw mandaq kayman char yanapänakuyänanmi, kikinkuna karpis o alinninta y\nyachaqninta shumaq akraykärirpis mandaq kananpaq churakuyänan librimi.\nLapan runakunapis iwalmi ima kaymanpis chäyanan, nasyunninkunachaw ima kaymanpis chäyänan,\nnasyunninkunachaw ima awturdäpis kayänan y ima aruymanpis yaykuyänan wakinkaqkunanaw.\nMarkachaw pipis awturdä mandaq kananpaq, lapan runakunami awniyänan ali kashqanta. Lapan runakuna\npipis awturdä kananpaq awniyashqantaqa musyakanqa bötuwanmi, kikinkuna churakuyanqa pi kananpaqpis.\nSaynaw rurayanqa bötu kashqan örala, lapanmi bötayänan pakaylapa, pipis manami michänansu ni\njuklaylapaq jitananpaq parlapänansu, lapanpis iwalmi rurayänan. Librimi pipaq karpis jitakuyänan\nbötunkunachaw.",
-            "Image": "9bc94a147b39e7fde328471f8568ef87"
+            "Text": "NISHQAN CHUNKA ESQUN (19)\nLapan runakunapis yarpäyashqannawmi parlayänan y rimakuyänan imanaw ali y mana ali kashqantapis.\nSaynawmi imanirpis parlaptin pipis rimanansu ni qayapar ajanäsinansu imapaqpis rimakushqanpita.\nWiyashqankunatapis rasunpa kashqanta shumaq mayapakunan, tukuy wilakuykunatapis chaskinanmi y\nchaskinan wakinkaqkuna imanaw yarpäyashqankunatawan. Saynaw wiyashqanta, chaskishqanta y\nyarpashqankunata lapan runakunata musyasinan munayashqannaw imaykatapis mana michashqa lapannawpa\nimawanpis runata wiyasina y mayasina kaqkunawanqa.\nNISHQAN ISHKAY CHUNKA (20)\nLapan runakunapis librimi yorikäkuyänan y askaqpis shuntakäkuyänanmi imatapis alikaqkunata\nrurayänanpaq pipis mana michashqa.\nMana munaykaqtaqa manami pitapis shuntakäyashqanchaw kananpaq apayänansu.\nNISHQAN ISHKAY CHUNKA JUK (21)\nLapan runakunapis nasyunninchaw mandaq kayman char yanapänakuyänanmi, kikinkuna karpis o alinninta y\nyachaqninta shumaq akraykärirpis mandaq kananpaq churakuyänan librimi.\nLapan runakunapis iwalmi ima kaymanpis chäyanan, nasyunninkunachaw ima kaymanpis chäyänan,\nnasyunninkunachaw ima awturdäpis kayänan y ima aruymanpis yaykuyänan wakinkaqkunanaw.\nMarkachaw pipis awturdä mandaq kananpaq, lapan runakunami awniyänan ali kashqanta. Lapan runakuna\npipis awturdä kananpaq awniyashqantaqa musyakanqa bötuwanmi, kikinkuna churakuyanqa pi kananpaqpis.\nSaynaw rurayanqa bötu kashqan örala, lapanmi bötayänan pakaylapa, pipis manami michänansu ni\njuklaylapaq jitananpaq parlapänansu, lapanpis iwalmi rurayänan. Librimi pipaq karpis jitakuyänan\nbötunkunachaw."
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "3956440e7592b0f25e7246df4dac7a73",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "NISHQAN ISHKAY CHUNKA ISHKAY (22)\nLapan runakunapis, marka runa kayninpa y juk markachaw taq kayninpa, lapan awturdäkuna markachaw\nrispitasinan pipis mana jarukunanpaq y ali kawakuyänanpaq. Saynawpami shumaq kawananpaq tarinqa lapan\nnasyunchaw kaq runakuna lakipakuyninpa y wakinkaq nasyunkunawanpis yanapänakuypa, wakin shuyni\nqorikaq runakunawan y nasyunchaw mandaq runakuna churakushqan y rurayashqankunawan. Saynawpami\nlapan runakunata imanpis mikunanpaq o rantinanpaq pishipakuptin qonqa, lapan markakunapaqpis y imata\nyachakuyänanpaqpis kanqa gastunkuna, kaykunami mana pishiypa kanan lapan runakunapaq, shumaq\nrispitash runa kayänanpaq. Y saynawmi runakunapis lakipakuyänan kikinkunapa jamulankunapita ali runa\nkayänanpaq.\nNISHQAN ISHKAY CHUNKA KIMSA (23)\nLapan runakunapami ima aruylankunapis kanan; kikinkunami ima aruychaw aruyänanpaqpis akrakuyänan,\naruyninkuna alimi kanan, imaykanpaqpis aypäpakunanpaq y arunanpaq tupuylami kanan y runakunaqa\nmanami aruyniynaq kayänansu.\nLapan runakunapis ali kashqanta ni mana ali kashqanta mana rikapaypami aruyashqankunapita chaskiyänan\nqellayta y lapan aruqkaqkunaqa iwal, saynawla chaskiyänan.\nLapan runakunapis aruqkaqkunaqa iwal shumaq ali pägashqami kayänan imata munashqankunatapis\nrantiyänanpaq aypaq. Saynaw qellayta chaskir lapan kastankunata wayinchaw kaqkuna shumaq kushishqa\nkawakuyanqa, lapan runakunapis alila kawananpaq kashqannaw. Saychawpis pishipakuptinmi isanqa\nimaykanawpapis wakinkaq awturdäkuna waksakunata yanapaqkuna aypasipänan pishipakushqalanmanna.\nLapan runakunapis ali yarpashqankunawan say shuyni alita yarpaqkuna rurayänanmi qotukaykur. Saynaw\nshuyni kaqkunaqa ali yarpayninkunawan rispitasikur pipis kikinpaq kaqkunata o lapan runapaq kaqkunata\nmana jarukuyänanpaq kashqanta rispitasikuyänanpaq.",
-            "Image": "3956440e7592b0f25e7246df4dac7a73"
+            "Text": "NISHQAN ISHKAY CHUNKA ISHKAY (22)\nLapan runakunapis, marka runa kayninpa y juk markachaw taq kayninpa, lapan awturdäkuna markachaw\nrispitasinan pipis mana jarukunanpaq y ali kawakuyänanpaq. Saynawpami shumaq kawananpaq tarinqa lapan\nnasyunchaw kaq runakuna lakipakuyninpa y wakinkaq nasyunkunawanpis yanapänakuypa, wakin shuyni\nqorikaq runakunawan y nasyunchaw mandaq runakuna churakushqan y rurayashqankunawan. Saynawpami\nlapan runakunata imanpis mikunanpaq o rantinanpaq pishipakuptin qonqa, lapan markakunapaqpis y imata\nyachakuyänanpaqpis kanqa gastunkuna, kaykunami mana pishiypa kanan lapan runakunapaq, shumaq\nrispitash runa kayänanpaq. Y saynawmi runakunapis lakipakuyänan kikinkunapa jamulankunapita ali runa\nkayänanpaq.\nNISHQAN ISHKAY CHUNKA KIMSA (23)\nLapan runakunapami ima aruylankunapis kanan; kikinkunami ima aruychaw aruyänanpaqpis akrakuyänan,\naruyninkuna alimi kanan, imaykanpaqpis aypäpakunanpaq y arunanpaq tupuylami kanan y runakunaqa\nmanami aruyniynaq kayänansu.\nLapan runakunapis ali kashqanta ni mana ali kashqanta mana rikapaypami aruyashqankunapita chaskiyänan\nqellayta y lapan aruqkaqkunaqa iwal, saynawla chaskiyänan.\nLapan runakunapis aruqkaqkunaqa iwal shumaq ali pägashqami kayänan imata munashqankunatapis\nrantiyänanpaq aypaq. Saynaw qellayta chaskir lapan kastankunata wayinchaw kaqkuna shumaq kushishqa\nkawakuyanqa, lapan runakunapis alila kawananpaq kashqannaw. Saychawpis pishipakuptinmi isanqa\nimaykanawpapis wakinkaq awturdäkuna waksakunata yanapaqkuna aypasipänan pishipakushqalanmanna.\nLapan runakunapis ali yarpashqankunawan say shuyni alita yarpaqkuna rurayänanmi qotukaykur. Saynaw\nshuyni kaqkunaqa ali yarpayninkunawan rispitasikur pipis kikinpaq kaqkunata o lapan runapaq kaqkunata\nmana jarukuyänanpaq kashqanta rispitasikuyänanpaq."
         },
         "8": {
-            "Label": "9",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "e035b5f2dc276ebcb4d8e83233123529",
             "Index": 8,
+            "Label": "9",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "NISHOAN ISHKAY CHUNKA CHUSKU (24)\nLapan runakunapis j amayänanmi aruyninkunapita, aruynin mana kashqan öraqa imatapis munashqantami\nrurakuyänan, aruyänan shumaq öralawanmi. Manami aläpaqa aruyänansu aruyänanpaq kashqan örapita\nmastaqa y saynawmi aruyninpita watasarkur jamananpaq yarquptinqa saypita pägunta chaskiyänan.\nNISHQAN ISHKAY CHUNKA PISQA (25)\nLapan runakunami shumaq ali kawaychaw kayänan, saynawmi lapan kastankunapis shumaq kawakuyänan,\nkwerpunkunapis mana qeshyaypa, lapan imaykakunachawpis alila. Mas aliran kanan yali mikuyänanpaq\nmikuykunachaw, mödanankunachaw, ali wayichaw täyaptin, ima qeshya sariptinpis jampikuqkuna\njampiyaptin y lapan imaykakunawanpis runakunata shumaq yanapänanpaq kaqkunawan yanapäyaptin.\nElaqpita imachawpis mana aruq runa kaptinqa o aruyniynaq kaptinqa, shuynimi saynawkunata yanapänanpaq\nkaqchaw kayänan Iapanpis, tukuy qeshyayuqkuna, ima ruraytapis mana pwe'diqkuna, kanmanmi\n(wishtukuna o ushukuna), biyúdayashkuna chakwan o awkin karpis y lapan runakuna imaykanawpa\naruytapis o makinta y chakinta o wakinkaqkunata kikinkuna mana munaykäyaptin imapis päsaptin arunanpaq\nkaqkunata oqraqkunami kanan shumaq shuyni yanapashqa.\nLapan wamrayuq warmikunapis y akapa wamrakunapis shumaq imaykapitapis kuydashqami kayänan y\npaykunataqa shuynimi yachaqkuna rikayänan mana kachaypa. Lapan wamrakuna juk mama taytalapita\nyuriqpis o jukchaw wachapakush o sure\"pakush kayninpa yurishkunapis iwal rikashqami y kuydashqami\nkayänan.\nNISHQAN ISHKAY CHUNKA SOQTA (26)\nLapan runakunami eskwëlachaw yachakuyänan. Lapanpis yachakuyänan debaldilami, punta yachaykunata\nalinninkaqta y runata imachawpis yanapänanpaq kaqkunalatapis yachakuyänanmi. Alinninkaq yachaytaqa\nlapan runakunami yachakuyänan jukpis mana yachakuypaqa manami kanansu. Juknawkaq imatapis y",
-            "Image": "e035b5f2dc276ebcb4d8e83233123529"
+            "Text": "NISHOAN ISHKAY CHUNKA CHUSKU (24)\nLapan runakunapis j amayänanmi aruyninkunapita, aruynin mana kashqan öraqa imatapis munashqantami\nrurakuyänan, aruyänan shumaq öralawanmi. Manami aläpaqa aruyänansu aruyänanpaq kashqan örapita\nmastaqa y saynawmi aruyninpita watasarkur jamananpaq yarquptinqa saypita pägunta chaskiyänan.\nNISHQAN ISHKAY CHUNKA PISQA (25)\nLapan runakunami shumaq ali kawaychaw kayänan, saynawmi lapan kastankunapis shumaq kawakuyänan,\nkwerpunkunapis mana qeshyaypa, lapan imaykakunachawpis alila. Mas aliran kanan yali mikuyänanpaq\nmikuykunachaw, mödanankunachaw, ali wayichaw täyaptin, ima qeshya sariptinpis jampikuqkuna\njampiyaptin y lapan imaykakunawanpis runakunata shumaq yanapänanpaq kaqkunawan yanapäyaptin.\nElaqpita imachawpis mana aruq runa kaptinqa o aruyniynaq kaptinqa, shuynimi saynawkunata yanapänanpaq\nkaqchaw kayänan Iapanpis, tukuy qeshyayuqkuna, ima ruraytapis mana pwe'diqkuna, kanmanmi\n(wishtukuna o ushukuna), biyúdayashkuna chakwan o awkin karpis y lapan runakuna imaykanawpa\naruytapis o makinta y chakinta o wakinkaqkunata kikinkuna mana munaykäyaptin imapis päsaptin arunanpaq\nkaqkunata oqraqkunami kanan shumaq shuyni yanapashqa.\nLapan wamrayuq warmikunapis y akapa wamrakunapis shumaq imaykapitapis kuydashqami kayänan y\npaykunataqa shuynimi yachaqkuna rikayänan mana kachaypa. Lapan wamrakuna juk mama taytalapita\nyuriqpis o jukchaw wachapakush o sure\"pakush kayninpa yurishkunapis iwal rikashqami y kuydashqami\nkayänan.\nNISHQAN ISHKAY CHUNKA SOQTA (26)\nLapan runakunami eskwëlachaw yachakuyänan. Lapanpis yachakuyänan debaldilami, punta yachaykunata\nalinninkaqta y runata imachawpis yanapänanpaq kaqkunalatapis yachakuyänanmi. Alinninkaq yachaytaqa\nlapan runakunami yachakuyänan jukpis mana yachakuypaqa manami kanansu. Juknawkaq imatapis y"
         },
         "9": {
-            "Label": "10",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "2f7110f1f5775524dd6f0ef5fcdb65d6",
             "Index": 9,
+            "Label": "10",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "imapaqpis yachakuykunami isanqa mas aja yachakuymanna yaykuyänan. Mas sinchikaq aja\nyachakuykunamanqa yaykuyanqa lapan runakunapis iwalmi y saynawpami ima kayänanpaqpis yarquyanqa\nyachayashqanpita.\nEskwe\"lakunachaw o wakinkaqkunachaw yachakushqankunawanmi lapan runakunapis ali yachaq kayman\nchäyanqa. Saynawpami runakuna rispitash kananpaq kaqkunata rurar mas yanapänan wakinkuna\nrurayänanpaqpis y runakuna libri kayänanpaq mayqankaqkuna mas alinnin kashqantapis yachasir reqisinan y\nmusyasinan. Runakuna yachaq kayaptinqa manami ajanasu kanqa lapanta shumaq tantiyayänanpaqpis,\nimatapis ali shonqulanwan shuyaränanpaqpis y lapan nasyunkunawanpis ali alila juknin jukninpis\nkayänanpaq, tukuyniraq y lapan kasta runakuna o imamanpis krigiqkuna musyayänanpaqpis. Lapanpis\nsaynaw ali kayaptinqa aska nasyunpita shuntakaykur runakuna rispitash kananpaq kashqanta\nwilakuqkunatami mas yanapanqa y alikaqkunata imatapis rurayanqa lapan markakuna jatunyänanpaq y\nsaynawpami lapan kushish kawayänanpaq lakipakuyanqa paykunapis.\nMayqan runakunapis munashqankaqtami akrakuyänan maychaw y imanawkaq eskwe\"Iaman wamran\nyachakunanpaq churananpaqpis.\nNISHQAN ISHKAY CHUNKA QANCHIS (27)\nLapan runakunapis mana michasqami markakuna ima fVestata ruraptinpis saychaw ruräsinan, ima\ntushukunata o wakinkaqkunata rikäkur y ima yachaykunatapis shumaq ali kananpaq yanapänakunan, alita\nrurayta munarqa imatapis rurasun kikinpa jamulanpita imatapis yarqapakurqa.\nLapan runakunami rispitasikunan pipis jarukuyänanpita y imankuna kaptinpis saynawmi kikinpa\nkaqkunataqa shumaq saräkunan pipis mana qechushqa, kakusun ali yachayninwan tarishqankuna, imatapis\nqelqashqankunata o imakunatapis yachayninwan rurashqankunapis y kikin ruraqkaq kayninpa.\nNISHQAN ISHKAY CHUNKA PUWAQ (28)",
-            "Image": "2f7110f1f5775524dd6f0ef5fcdb65d6"
+            "Text": "imapaqpis yachakuykunami isanqa mas aja yachakuymanna yaykuyänan. Mas sinchikaq aja\nyachakuykunamanqa yaykuyanqa lapan runakunapis iwalmi y saynawpami ima kayänanpaqpis yarquyanqa\nyachayashqanpita.\nEskwe\"lakunachaw o wakinkaqkunachaw yachakushqankunawanmi lapan runakunapis ali yachaq kayman\nchäyanqa. Saynawpami runakuna rispitash kananpaq kaqkunata rurar mas yanapänan wakinkuna\nrurayänanpaqpis y runakuna libri kayänanpaq mayqankaqkuna mas alinnin kashqantapis yachasir reqisinan y\nmusyasinan. Runakuna yachaq kayaptinqa manami ajanasu kanqa lapanta shumaq tantiyayänanpaqpis,\nimatapis ali shonqulanwan shuyaränanpaqpis y lapan nasyunkunawanpis ali alila juknin jukninpis\nkayänanpaq, tukuyniraq y lapan kasta runakuna o imamanpis krigiqkuna musyayänanpaqpis. Lapanpis\nsaynaw ali kayaptinqa aska nasyunpita shuntakaykur runakuna rispitash kananpaq kashqanta\nwilakuqkunatami mas yanapanqa y alikaqkunata imatapis rurayanqa lapan markakuna jatunyänanpaq y\nsaynawpami lapan kushish kawayänanpaq lakipakuyanqa paykunapis.\nMayqan runakunapis munashqankaqtami akrakuyänan maychaw y imanawkaq eskwe\"Iaman wamran\nyachakunanpaq churananpaqpis.\nNISHQAN ISHKAY CHUNKA QANCHIS (27)\nLapan runakunapis mana michasqami markakuna ima fVestata ruraptinpis saychaw ruräsinan, ima\ntushukunata o wakinkaqkunata rikäkur y ima yachaykunatapis shumaq ali kananpaq yanapänakunan, alita\nrurayta munarqa imatapis rurasun kikinpa jamulanpita imatapis yarqapakurqa.\nLapan runakunami rispitasikunan pipis jarukuyänanpita y imankuna kaptinpis saynawmi kikinpa\nkaqkunataqa shumaq saräkunan pipis mana qechushqa, kakusun ali yachayninwan tarishqankuna, imatapis\nqelqashqankunata o imakunatapis yachayninwan rurashqankunapis y kikin ruraqkaq kayninpa.\nNISHQAN ISHKAY CHUNKA PUWAQ (28)"
         },
         "10": {
-            "Label": "11",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "0323d54914bf66ee1da91fc898c73a7b",
             "Index": 10,
+            "Label": "11",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Lapan runakunami markankunachaw shumaq yarpayninwan ali täyänan, nasyunninchaw o wakinkaq\nnasyunkunachawpis kay runakuna rispitashqa y mana jarukushqa kananpaq wilakuyashqä maysaychawpis\nrasunpaypa rurakänanpaq.\nNISHQAN ISHKAY CHUNKA ESQUN (29)\nLapan runakunami tashqan markakunachaw imatapis rurayanan, say markachaw täyayninpami libri\nimaykanaw kananpaqpis y ali runa kayman chänanyaqpis yachakuyash tukuy ruraykunata.\nShumaq rispitashqa kaykäyashpan y tukuy imakunatapis libri rurakuykäyarpis, imanaw runakuna rurananpaq\nqelqaraykashqantami isanqa mansakuyänan y say nishqanpitami isanqa pipis päsasiyänansu. SaVnaw\nmansapakuypa kayanqa wakinkaq runakunapis rikärishqa, rispitashqa, mana jarukushqa y Iibri Iapanpis iwal\nkayänan kashqami. Saynawpaqa lapanpis alita rurar y runakunapis rispitash kananpaq kashqannaw karqa\nkushishmi kawayanqa, wakinkaq marka runakunapis y lapan markakuna alila shumaq kawakuyanqa.\nLapan runakuna rispitash y libri kakuyänanpaq wilakuyashqäta manami ni pipis juknawpaqa ni kontranqa\nsharkuyänansu ni rurayänansu lapan nasyunkunapita qorikaykur ali yarpaykunawan y ali kananpaq\nrurayashqäkunataqa.\nNISHQAN KIMSA CHUNKA (30)\nKay wilakuyashqäkunachaw manami juknawpaqa tantiyayänansu; manami mayqan nasyunpa mandaqninta,\nshuntakash askaq runakunata ni juk runalata imanawpapis rurayänanpaq o wakinta elaqäsir qalaykuyänansu\nni mayqan kaqlatapis, runakuna rispitash y libri kakuyänanpaq kay qelqaraykaqchaw wilakuyashqäta.",
-            "Image": "0323d54914bf66ee1da91fc898c73a7b"
+            "Text": "Lapan runakunami markankunachaw shumaq yarpayninwan ali täyänan, nasyunninchaw o wakinkaq\nnasyunkunachawpis kay runakuna rispitashqa y mana jarukushqa kananpaq wilakuyashqä maysaychawpis\nrasunpaypa rurakänanpaq.\nNISHQAN ISHKAY CHUNKA ESQUN (29)\nLapan runakunami tashqan markakunachaw imatapis rurayanan, say markachaw täyayninpami libri\nimaykanaw kananpaqpis y ali runa kayman chänanyaqpis yachakuyash tukuy ruraykunata.\nShumaq rispitashqa kaykäyashpan y tukuy imakunatapis libri rurakuykäyarpis, imanaw runakuna rurananpaq\nqelqaraykashqantami isanqa mansakuyänan y say nishqanpitami isanqa pipis päsasiyänansu. SaVnaw\nmansapakuypa kayanqa wakinkaq runakunapis rikärishqa, rispitashqa, mana jarukushqa y Iibri Iapanpis iwal\nkayänan kashqami. Saynawpaqa lapanpis alita rurar y runakunapis rispitash kananpaq kashqannaw karqa\nkushishmi kawayanqa, wakinkaq marka runakunapis y lapan markakuna alila shumaq kawakuyanqa.\nLapan runakuna rispitash y libri kakuyänanpaq wilakuyashqäta manami ni pipis juknawpaqa ni kontranqa\nsharkuyänansu ni rurayänansu lapan nasyunkunapita qorikaykur ali yarpaykunawan y ali kananpaq\nrurayashqäkunataqa.\nNISHQAN KIMSA CHUNKA (30)\nKay wilakuyashqäkunachaw manami juknawpaqa tantiyayänansu; manami mayqan nasyunpa mandaqninta,\nshuntakash askaq runakunata ni juk runalata imanawpapis rurayänanpaq o wakinta elaqäsir qalaykuyänansu\nni mayqan kaqlatapis, runakuna rispitash y libri kakuyänanpaq kay qelqaraykaqchaw wilakuyashqäta."
         }
     }
 }

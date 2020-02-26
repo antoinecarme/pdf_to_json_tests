@@ -1,132 +1,132 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581468032,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "f06b2b5f6ea37ea755cd82fd431a8ae2",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Labsii Walii-gala Mirgoota Namummaa\nMurtoo Wal-ga'ii Walii-gala kan Dhaabbata Waldaa Mootummootaatiin qabxii 217 A (iii) jalatti Mudde\nbaatii 10 bara 1948 itti Akka Murteeffamee, Ragga'ee Labsametti.\nSEENSA\nUlfinni fi wal-qixxummaan ilmoo namaa kan uummattoota hundaa akka ifatti kabajamu gochuun bu'ura\nbilisummaa, haqaa fi nageenya addunyaa waan ta'eef;\nMirga namummaa irra ijjechuun yookaan tuffachuun yeroo hunda jeequmsa badiisa fidu uumee uummata\nkan dheekamsiisu waan ta'eef, akkasumas addunyaa haaraa kan uummanni ishee wal-qixxummaadhaan,\nbilisummaa yaadaa fi amantii argatanii, yaaddoo fi dhaba irraa birmaduu ta'anii gammachuudhaan akka\njiraatan gochuun hawwii fi fedha uummattoota addunyaa waan ta'eef;\nUummanni bulchiisa rooroo fi cunqursaa ofirra kuffisuuf humnaan akka hinfayyadamnetti yoo barbaachise,\nmirgooti namummaa seeraan akka eegamu gochuun barbaachisaa waan ta'eef;\nBiyyoota gidduutti walitti-dhufeenyi michumaa fi wal-jaalalaa akka dagaagu gochuun barbaachisaa waan\nta'eef;\nMiseensoti Waldaa Mootummoota hundi chartarii waldichaa keessatti mirga namummaa irratti, ulfina namaa\nirratti akkasumas wal-qixxummaa namoota hundaa (dhiiras ta'ee dubartii) irratti amantee qaban kan ibsan\nwaan ta'eef;\nAkkasumas guddina hawaasummaa fi wayyaawuu sadarkaa jireenyaa fiduuf kan murannoodhaan hojjetan\nwaan ta'eef;\nMiseensoti Waldaa Mootummootaa marti, Dhaabbata Waldaa Mootummootaa wajjin wal-ta'uudhaan",
-            "Image": "f06b2b5f6ea37ea755cd82fd431a8ae2"
+            "Text": "Labsii Walii-gala Mirgoota Namummaa\nMurtoo Wal-ga'ii Walii-gala kan Dhaabbata Waldaa Mootummootaatiin qabxii 217 A (iii) jalatti Mudde\nbaatii 10 bara 1948 itti Akka Murteeffamee, Ragga'ee Labsametti.\nSEENSA\nUlfinni fi wal-qixxummaan ilmoo namaa kan uummattoota hundaa akka ifatti kabajamu gochuun bu'ura\nbilisummaa, haqaa fi nageenya addunyaa waan ta'eef;\nMirga namummaa irra ijjechuun yookaan tuffachuun yeroo hunda jeequmsa badiisa fidu uumee uummata\nkan dheekamsiisu waan ta'eef, akkasumas addunyaa haaraa kan uummanni ishee wal-qixxummaadhaan,\nbilisummaa yaadaa fi amantii argatanii, yaaddoo fi dhaba irraa birmaduu ta'anii gammachuudhaan akka\njiraatan gochuun hawwii fi fedha uummattoota addunyaa waan ta'eef;\nUummanni bulchiisa rooroo fi cunqursaa ofirra kuffisuuf humnaan akka hinfayyadamnetti yoo barbaachise,\nmirgooti namummaa seeraan akka eegamu gochuun barbaachisaa waan ta'eef;\nBiyyoota gidduutti walitti-dhufeenyi michumaa fi wal-jaalalaa akka dagaagu gochuun barbaachisaa waan\nta'eef;\nMiseensoti Waldaa Mootummoota hundi chartarii waldichaa keessatti mirga namummaa irratti, ulfina namaa\nirratti akkasumas wal-qixxummaa namoota hundaa (dhiiras ta'ee dubartii) irratti amantee qaban kan ibsan\nwaan ta'eef;\nAkkasumas guddina hawaasummaa fi wayyaawuu sadarkaa jireenyaa fiduuf kan murannoodhaan hojjetan\nwaan ta'eef;\nMiseensoti Waldaa Mootummootaa marti, Dhaabbata Waldaa Mootummootaa wajjin wal-ta'uudhaan"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "12d58014135aa1073714f63648dd5406",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "kabajaan walii-galaa kan mirga namummaa fi kan bilisummaa hundaa akka eegamuuf waadaa waan\nseenaniif;\nMirgootaa fi bilisummaa kana akka gaariitti hubatanii beekuun waadaa kana hojii irra oolchuuf guddisee kan\ngargaaru waan ta'eef;\nKanaafuu\nWal-ga'iin Walii-gala Waldaa Mootummootaa:\nLabsii Waliigala Mirgoota Namummaa kan uummattoonni fi biyyooti hundi walii-galteedhaan kabajan\nlabsuudhaan, tokkoon- tokkoon uummataa fi qaamoti hawaasaa marti labsii kana hubatanii yeroo hunda akka\nkabajan, labsii kana barsiisuudhaan mirgootii fi bilisummaan hundi akka kabajaman akka carraaqan, karaa\ntarkaanfii sadarkaa biyyaa fi addunyaatti fudhatamaniinis mirgootii fi bilisummaan kun akka kabajaman akka\ngodhan, kunis immoo uummattootaa fi miseensota Waldaa Mootummootaa giduutti akka hubatamu akka\ngodhan jecha, labsii kana labseera.\nQabxii 1\nNamooti hundinuu birmaduu ta'anii mirgaa fi ulfinaanis wal-qixxee ta'anii dhalatan. Sammuu fi qalbii ittiin\nyaadan waan uumamaan kennameef, hafuura obbolummaatiin walii-wajjin jiraachuu qabu.\nQabxii 2\nNamni kamiyyuu mirgootaa fi birmadummaa labsii kana keessatti ibsaman, garaagarummaa sanyii, bifaa,\nsaalaa (dhiiraa fi dubartummaa), qooqaa, amantii, ejjennaa siyaasaa, sablammummaa, hawaasummaa,\nqabeenyaa, dhalootaa fi waan biraatiin utuu addaan hin ba'in, ni argata.\nKana malees immoo, garaagarummaan kamiyyuu karaa siyaasaa, karaa biyyummaa, karaa wal-caalmaa\nsadarkaa bulchiisa biyyaa fi karaa adda-addaa hin godhamu.",
-            "Image": "12d58014135aa1073714f63648dd5406"
+            "Text": "kabajaan walii-galaa kan mirga namummaa fi kan bilisummaa hundaa akka eegamuuf waadaa waan\nseenaniif;\nMirgootaa fi bilisummaa kana akka gaariitti hubatanii beekuun waadaa kana hojii irra oolchuuf guddisee kan\ngargaaru waan ta'eef;\nKanaafuu\nWal-ga'iin Walii-gala Waldaa Mootummootaa:\nLabsii Waliigala Mirgoota Namummaa kan uummattoonni fi biyyooti hundi walii-galteedhaan kabajan\nlabsuudhaan, tokkoon- tokkoon uummataa fi qaamoti hawaasaa marti labsii kana hubatanii yeroo hunda akka\nkabajan, labsii kana barsiisuudhaan mirgootii fi bilisummaan hundi akka kabajaman akka carraaqan, karaa\ntarkaanfii sadarkaa biyyaa fi addunyaatti fudhatamaniinis mirgootii fi bilisummaan kun akka kabajaman akka\ngodhan, kunis immoo uummattootaa fi miseensota Waldaa Mootummootaa giduutti akka hubatamu akka\ngodhan jecha, labsii kana labseera.\nQabxii 1\nNamooti hundinuu birmaduu ta'anii mirgaa fi ulfinaanis wal-qixxee ta'anii dhalatan. Sammuu fi qalbii ittiin\nyaadan waan uumamaan kennameef, hafuura obbolummaatiin walii-wajjin jiraachuu qabu.\nQabxii 2\nNamni kamiyyuu mirgootaa fi birmadummaa labsii kana keessatti ibsaman, garaagarummaa sanyii, bifaa,\nsaalaa (dhiiraa fi dubartummaa), qooqaa, amantii, ejjennaa siyaasaa, sablammummaa, hawaasummaa,\nqabeenyaa, dhalootaa fi waan biraatiin utuu addaan hin ba'in, ni argata.\nKana malees immoo, garaagarummaan kamiyyuu karaa siyaasaa, karaa biyyummaa, karaa wal-caalmaa\nsadarkaa bulchiisa biyyaa fi karaa adda-addaa hin godhamu."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "3550e8d7da8b3e0b7e84e5101563e217",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Qabxii 3\nNamni kamiyyuu mirga jiraachuu, birmadummaa argachuu fi mirga qaamni isaa eegamuu ni qaba.\nQabxii 4\nNamni homtuu garbummaa jalatti hin bulu, garbummaa fi daldalli garbaa bifa kamiin iyyuu dhorkaa dha.\nQabxii 5\nNamni kamiyyuu reebichii fi gidiraan hammeenyaa yookaan immoo wanti ulfina namummaa isaa hanqisu\nyookaan kan hammeenyaan adabsiisu irra hin ga'u.\nQabxii 6\nNamni kamiyyuu akka namummaa isaatti seera duratti beekame kabajaa argachuu qaba.\nQabxii 7\nNamoonni hundi seera fuula duratti wal-qixxee ilaalamanii, garaagarummaa tokko malee, eegumsa seeraa\nargachuu qabu. Namoonni hundinuu waan labsii kanaan mormee isaan addaan qoodu hundumaa irraa\neegamuu qabu.\nQabxii 8\nNamni kamiyyuu mirgoota heeraan yookaan seeraan isaaf kenname cabsuudhaan waan isa hubu hundumaa\nirraa karaa mana murtii yookaan yaa'ii biyyaa eegumsa argachuuf mirga ni qaba.\nQabxii 9\nNamni kamiyyuu garmalee hin hidhamu, biyyaas hin ari'atamu.\nQabxii 10",
-            "Image": "3550e8d7da8b3e0b7e84e5101563e217"
+            "Text": "Qabxii 3\nNamni kamiyyuu mirga jiraachuu, birmadummaa argachuu fi mirga qaamni isaa eegamuu ni qaba.\nQabxii 4\nNamni homtuu garbummaa jalatti hin bulu, garbummaa fi daldalli garbaa bifa kamiin iyyuu dhorkaa dha.\nQabxii 5\nNamni kamiyyuu reebichii fi gidiraan hammeenyaa yookaan immoo wanti ulfina namummaa isaa hanqisu\nyookaan kan hammeenyaan adabsiisu irra hin ga'u.\nQabxii 6\nNamni kamiyyuu akka namummaa isaatti seera duratti beekame kabajaa argachuu qaba.\nQabxii 7\nNamoonni hundi seera fuula duratti wal-qixxee ilaalamanii, garaagarummaa tokko malee, eegumsa seeraa\nargachuu qabu. Namoonni hundinuu waan labsii kanaan mormee isaan addaan qoodu hundumaa irraa\neegamuu qabu.\nQabxii 8\nNamni kamiyyuu mirgoota heeraan yookaan seeraan isaaf kenname cabsuudhaan waan isa hubu hundumaa\nirraa karaa mana murtii yookaan yaa'ii biyyaa eegumsa argachuuf mirga ni qaba.\nQabxii 9\nNamni kamiyyuu garmalee hin hidhamu, biyyaas hin ari'atamu.\nQabxii 10"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "bd594fe3f4d771567ce991ae6eb1cd16",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Namni kamiyyuu yeroo yakkaan himatamee mirgooti isaa fi ittigaafatamni isaa murteeffamutti, qaama loogii\nirraa birmaduu ta'etti dhiyaatee sirrii, qajeeltoo fi wal-qixummaadhaan gaafatamuuf mirga ni qabaata.\nQabxii 11\nNamni kamiyyuu yeroo yakkaan himatamutti, hanga seeraan yakkaa ta'uun isaa itti muramutti, mirga\nqulqulluu ta'ee ilaalamuu ni qaba. Yeroo yaa'iitti dhiyaatus waan egumsa isaaf wabii darbu hunda ni argata.\nNamni kamiyyuu waan yakka ta'ee hin lakka'amnetti, sadarkaa biyyaattis ta'e sadarkaa addunyaatti,\nyakkamuu hin danda'u. Kana malees, adaba kan yeroo yakkichi raawwatame muramuu qabu caalaatiin hin\nadabamu.\nQabxii 12\nNamni kamiyuu mirgi inni mana isaa keessa, qofaa isaa ykn. maatii isaa wajjin jiraachuuf qabu, yookaan\nmirgi inni ergaa xalayaa isaa dhoksaadhaan akka eegamuuf qabu jalaa hin tuqamu. Ulfinni namummaa isaa fi\nulfinni maqaa isaas hin tuqamu. Namni kamiyyuu hubaatii ykn. yaalii akkanaa irraa seeraan ni eegama.\nQabxii 13\nNamni kamiyyuu biyya isaa keessatti mirga asiif achi adeemuu ni qaba.\nNamni kamiyyuu biyya kan isaas ta'e kan biraa keesaa gadi ba'ee itti deebi'uuf mirga ni qaba.\nQabxii 14\nNamni kamiyyuu biyyoota kan biraa keessatti mirga koolu galtummaa gaafatee argachuu ni qaba.\nMirgi kunis waan yakka siyaasaatiin alaa ta'e ykn. waan kaayyoo yookaan hafuura Waldaa Motummootaatiin\nmormu yoo ta'e hin kennamu.\nQabxii 15",
-            "Image": "bd594fe3f4d771567ce991ae6eb1cd16"
+            "Text": "Namni kamiyyuu yeroo yakkaan himatamee mirgooti isaa fi ittigaafatamni isaa murteeffamutti, qaama loogii\nirraa birmaduu ta'etti dhiyaatee sirrii, qajeeltoo fi wal-qixummaadhaan gaafatamuuf mirga ni qabaata.\nQabxii 11\nNamni kamiyyuu yeroo yakkaan himatamutti, hanga seeraan yakkaa ta'uun isaa itti muramutti, mirga\nqulqulluu ta'ee ilaalamuu ni qaba. Yeroo yaa'iitti dhiyaatus waan egumsa isaaf wabii darbu hunda ni argata.\nNamni kamiyyuu waan yakka ta'ee hin lakka'amnetti, sadarkaa biyyaattis ta'e sadarkaa addunyaatti,\nyakkamuu hin danda'u. Kana malees, adaba kan yeroo yakkichi raawwatame muramuu qabu caalaatiin hin\nadabamu.\nQabxii 12\nNamni kamiyuu mirgi inni mana isaa keessa, qofaa isaa ykn. maatii isaa wajjin jiraachuuf qabu, yookaan\nmirgi inni ergaa xalayaa isaa dhoksaadhaan akka eegamuuf qabu jalaa hin tuqamu. Ulfinni namummaa isaa fi\nulfinni maqaa isaas hin tuqamu. Namni kamiyyuu hubaatii ykn. yaalii akkanaa irraa seeraan ni eegama.\nQabxii 13\nNamni kamiyyuu biyya isaa keessatti mirga asiif achi adeemuu ni qaba.\nNamni kamiyyuu biyya kan isaas ta'e kan biraa keesaa gadi ba'ee itti deebi'uuf mirga ni qaba.\nQabxii 14\nNamni kamiyyuu biyyoota kan biraa keessatti mirga koolu galtummaa gaafatee argachuu ni qaba.\nMirgi kunis waan yakka siyaasaatiin alaa ta'e ykn. waan kaayyoo yookaan hafuura Waldaa Motummootaatiin\nmormu yoo ta'e hin kennamu.\nQabxii 15"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "eca242be47ef46d5dcd79e668a0d506a",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Namni kamiyyuu mirga lammummaa ni qaba.\nNamni kamiyyuu akkasummaan mirga lammummaa hin dhabu, yookaan mirga lammummaa isaa\ngedderachuu hin dhabu.\nQabxii 16\nDhiirris, dubartiinis kan umuriin isaanii fudhaaf heeruma ga'e. garaagarummaa sanyii, lammumaa fi\namanteetiin utuu addaan hin qoodamin, wal-fuudhanii mirga bultii ijaarachuu ni qabaatu; yeroo wal-\nfuudhanis ta'ee yeroo wal-hiikanittis mirga qixxee ni qabaatu.\nFudhaaf heerumni fedha namoota wal-fuudhan irratti kan hundeeffamu ta'a.\nMaatiin tokko qaama hawaasummaa ishee xinnoo waan ta'eef, eegumsi hundi hawaasichaa fi mootummaa\nirraa kennamuu fi qaba.\nQabxii 17\nNamni kamiyyuu qofaattis ta'e namoota biraa wajjin ta'uudhaan mirga qabeenya horachuu ni qaba.\nNamni kamiyyuu seera malee qabeenya isaa dhabuu hin qabu.\nQabxii 18\nNamni kamiyyuu bilisummaa yaaduu, samuu fi amantii ni qaba. Mirgi kun, namni kamiyyuu, amantii\nyookaan amantee filate qabachuu yookiin fudhachuu, amantii fi amantee isaa qofaa isaatti yookiin namoota\nbiraa wajjin ifatti yookiin dhunfaatti waaqefachuu, hordofuu, hojii irra olchuu, barsiisuu yookiin ibsuu of\nkeessaa qaba.\nQabxii 19\nNamni kamiyyuu ilaalcha isatti fakkaate qabachuu, yaada isaas ibsuuf mirga qaba. Mirgi kun, dhiibbaa tokko",
-            "Image": "eca242be47ef46d5dcd79e668a0d506a"
+            "Text": "Namni kamiyyuu mirga lammummaa ni qaba.\nNamni kamiyyuu akkasummaan mirga lammummaa hin dhabu, yookaan mirga lammummaa isaa\ngedderachuu hin dhabu.\nQabxii 16\nDhiirris, dubartiinis kan umuriin isaanii fudhaaf heeruma ga'e. garaagarummaa sanyii, lammumaa fi\namanteetiin utuu addaan hin qoodamin, wal-fuudhanii mirga bultii ijaarachuu ni qabaatu; yeroo wal-\nfuudhanis ta'ee yeroo wal-hiikanittis mirga qixxee ni qabaatu.\nFudhaaf heerumni fedha namoota wal-fuudhan irratti kan hundeeffamu ta'a.\nMaatiin tokko qaama hawaasummaa ishee xinnoo waan ta'eef, eegumsi hundi hawaasichaa fi mootummaa\nirraa kennamuu fi qaba.\nQabxii 17\nNamni kamiyyuu qofaattis ta'e namoota biraa wajjin ta'uudhaan mirga qabeenya horachuu ni qaba.\nNamni kamiyyuu seera malee qabeenya isaa dhabuu hin qabu.\nQabxii 18\nNamni kamiyyuu bilisummaa yaaduu, samuu fi amantii ni qaba. Mirgi kun, namni kamiyyuu, amantii\nyookaan amantee filate qabachuu yookiin fudhachuu, amantii fi amantee isaa qofaa isaatti yookiin namoota\nbiraa wajjin ifatti yookiin dhunfaatti waaqefachuu, hordofuu, hojii irra olchuu, barsiisuu yookiin ibsuu of\nkeessaa qaba.\nQabxii 19\nNamni kamiyyuu ilaalcha isatti fakkaate qabachuu, yaada isaas ibsuuf mirga qaba. Mirgi kun, dhiibbaa tokko"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "2b2234bf250758bf2f5cc6015af78ff8",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "malee yaada isaa ibsuu, odeeffannoo fi yaada kamiyyuu walitti qabuu fi karaa meeshaa tamsaasaa daangaan\nutuu itti hin godhamin dabarsuu of keessaa qaba.\nQabxii 20\nNamni kamiyyuu mirga nagayaan wal-ga'uu fi nagayaan hiriira ba'u ni qaba.\nNamni kamiyyuu miseensa walda tokkoo ta'uuf hin dirqisiifamu.\nQabxii 21\nNamni kamiyyuu, kallattiidhaanis ta'ee karaa bakka-buutota isaa, hojii mootummaa biyya isaa keessatti\nqooda fudhachuu ni danda'a.\nNamni kamiyyuu tajaajilaa uummataa argachuuf mirga ni qaba.\nFedhi uummataa bu'uura aangoo mootummaati. Fedhi kunis yeroo filannootti ibsama. Filannoon kunis kan\nnamni marti wal-qixummaadhaan qooda keessatti fudhatu yoo ta'u, sirni sagalee ofii ittiin kennanis\ndhoksaadhaan ni ta'a.\nQabxii 22\nNamni kamiyyuu, akka miseensa hawaasichaatti, wabii hawaasaa argachuuf mirga ni qaba. Karaa carraaqa\nbiyyaa fi waliigaltee addunyaas, akkasumas akka qabeenyaa fi caasaa biyya isaattis, ulfinaa fi guddina mataa\nisaaf waan barbaachisaa ta'an mirgoota dinagdee, hawaasummaa fi aadaa ni qaba.\nQabxii 23\nNamni kamiyyuu mirga hojjechuu, hojji filachuu, hojjii keessatti haala mijuu argachuu fi hojii dhabuu irraa\negamuu ni qaba.\nNamni kamiyyuu, utuu addaan hin qoodamin, hojii wal-fakkaatuuf mindaa qixxee argachuuf mirga ni qaba.",
-            "Image": "2b2234bf250758bf2f5cc6015af78ff8"
+            "Text": "malee yaada isaa ibsuu, odeeffannoo fi yaada kamiyyuu walitti qabuu fi karaa meeshaa tamsaasaa daangaan\nutuu itti hin godhamin dabarsuu of keessaa qaba.\nQabxii 20\nNamni kamiyyuu mirga nagayaan wal-ga'uu fi nagayaan hiriira ba'u ni qaba.\nNamni kamiyyuu miseensa walda tokkoo ta'uuf hin dirqisiifamu.\nQabxii 21\nNamni kamiyyuu, kallattiidhaanis ta'ee karaa bakka-buutota isaa, hojii mootummaa biyya isaa keessatti\nqooda fudhachuu ni danda'a.\nNamni kamiyyuu tajaajilaa uummataa argachuuf mirga ni qaba.\nFedhi uummataa bu'uura aangoo mootummaati. Fedhi kunis yeroo filannootti ibsama. Filannoon kunis kan\nnamni marti wal-qixummaadhaan qooda keessatti fudhatu yoo ta'u, sirni sagalee ofii ittiin kennanis\ndhoksaadhaan ni ta'a.\nQabxii 22\nNamni kamiyyuu, akka miseensa hawaasichaatti, wabii hawaasaa argachuuf mirga ni qaba. Karaa carraaqa\nbiyyaa fi waliigaltee addunyaas, akkasumas akka qabeenyaa fi caasaa biyya isaattis, ulfinaa fi guddina mataa\nisaaf waan barbaachisaa ta'an mirgoota dinagdee, hawaasummaa fi aadaa ni qaba.\nQabxii 23\nNamni kamiyyuu mirga hojjechuu, hojji filachuu, hojjii keessatti haala mijuu argachuu fi hojii dhabuu irraa\negamuu ni qaba.\nNamni kamiyyuu, utuu addaan hin qoodamin, hojii wal-fakkaatuuf mindaa qixxee argachuuf mirga ni qaba."
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "e960d49749ffc6a1705b99e66d402d5c",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Namni kamiyyuu gatii hojii isaatiif mindaa isaa fi maatii isaa ga'u argachuu qaba. Kunis kan ulfina\nnamummaa isaaf ga'u ta'e, yoo barbaachises, eegumsa hawaasaa kan biraas argachuu ni danda'a.\nNamni kamiyyuu dhaabbatoota hojjetootaa uummatee keessatti qooda fudhachuudhaan mirgoota isaa\neegsifachuu ni danda'a.\nQabxii 24\nNamni kamiyyuu boqonnaa fi bashannana argachuuf, yeroo muramaa hojjechuuf, akkasumas mindaa isaa\nargachaa boqochuuf mirga ni gaba.\nQabxii 25\nNamni kamiyyuu, innis maatiin isaas, fayyaa guutuu argatanii sadarkaa jireenya gaarii akka jiraatanitti, waan\nnyaata, uffataa, mana, eegumsa fayyaa fi tajaajila hawaasummaa hunda argatanii akka jiraatanitti, akkasumas\nhojii dhabuu, kunuunsa hawaasummaa dhabuu, dhukuba, kophummaa, dullumaa fi rakkoo jireenyaa adda\naddaa irraa egamuuf mirga qaba.\nHaadholii fi daa'iman gargaarsaa fi eegumsa qofaa argachuuf mirga ni qabu; daa'imman hundi, manattis ta'e\nbakkeedhaa yoo dhalatan, eegumsa hawaasummaa qixxeetti argachuuf mirga ni qabu.\nQabxii 26\nNamni kamiyyuu mirga barumsa argachuu ni qaba. Barumsi, yoo xinnaate sadarkaa tokkoffaa fi lammataatti,\ntola ni kennama. Barumsi sadarkaa tokkoffaa dirqii dha. Barumsi tekinikii fii ogummaa kan biraa sadarkaa\nlammaftaatti kan kenamu yoo ta'u, kunis kan kennamu akka dandeettii abbaatti ta'a.\nBarumsi kennamu kan namummaa namaa guddisuu fi kan eegumsa mirgootaa fi bilisummaa ilmoo namaa\njabeessu ta'uu qaba. Kana malees, uummattoota addunya gidduutti waliigaltee fi michummaa kan jabbeessu,\nsanyii fi amantii adda-addaa gidduuti waliigaltee kan uumu, akkasumas hojiiwwan Dhaabbata Waldaa",
-            "Image": "e960d49749ffc6a1705b99e66d402d5c"
+            "Text": "Namni kamiyyuu gatii hojii isaatiif mindaa isaa fi maatii isaa ga'u argachuu qaba. Kunis kan ulfina\nnamummaa isaaf ga'u ta'e, yoo barbaachises, eegumsa hawaasaa kan biraas argachuu ni danda'a.\nNamni kamiyyuu dhaabbatoota hojjetootaa uummatee keessatti qooda fudhachuudhaan mirgoota isaa\neegsifachuu ni danda'a.\nQabxii 24\nNamni kamiyyuu boqonnaa fi bashannana argachuuf, yeroo muramaa hojjechuuf, akkasumas mindaa isaa\nargachaa boqochuuf mirga ni gaba.\nQabxii 25\nNamni kamiyyuu, innis maatiin isaas, fayyaa guutuu argatanii sadarkaa jireenya gaarii akka jiraatanitti, waan\nnyaata, uffataa, mana, eegumsa fayyaa fi tajaajila hawaasummaa hunda argatanii akka jiraatanitti, akkasumas\nhojii dhabuu, kunuunsa hawaasummaa dhabuu, dhukuba, kophummaa, dullumaa fi rakkoo jireenyaa adda\naddaa irraa egamuuf mirga qaba.\nHaadholii fi daa'iman gargaarsaa fi eegumsa qofaa argachuuf mirga ni qabu; daa'imman hundi, manattis ta'e\nbakkeedhaa yoo dhalatan, eegumsa hawaasummaa qixxeetti argachuuf mirga ni qabu.\nQabxii 26\nNamni kamiyyuu mirga barumsa argachuu ni qaba. Barumsi, yoo xinnaate sadarkaa tokkoffaa fi lammataatti,\ntola ni kennama. Barumsi sadarkaa tokkoffaa dirqii dha. Barumsi tekinikii fii ogummaa kan biraa sadarkaa\nlammaftaatti kan kenamu yoo ta'u, kunis kan kennamu akka dandeettii abbaatti ta'a.\nBarumsi kennamu kan namummaa namaa guddisuu fi kan eegumsa mirgootaa fi bilisummaa ilmoo namaa\njabeessu ta'uu qaba. Kana malees, uummattoota addunya gidduutti waliigaltee fi michummaa kan jabbeessu,\nsanyii fi amantii adda-addaa gidduuti waliigaltee kan uumu, akkasumas hojiiwwan Dhaabbata Waldaa"
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "deed8cb293c77505c9c28b670b47d6f8",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Mootummootaa fi nageenya uummataa kan jabeessu ta'uu qaba.\nWarri ijoollee, akaakuu barumsaa kan fedhan ijoollee isaaniitiif filachuuf mirga ni qabu.\nQabxii 27\nNamni kamiyyuu jireenya aadaa biyyaa keessatti dhorkaa malee qooda fudhachuu ni danda'a; faayidaa aartii\nfi saayinsii irraas bashannana yookiin gammachuu argachuu ni qaba.\nNamni kamiyyuu waan ogummaa saayinsii, aartii fi barreessuu ofii isaaf hojjeterraa bu'aan argamu hundi\nakka eegamuuf mirga ni qaba.\nQabxii 28\nNamni kamiyyuu mirgootii fi bilisummaan labsii kana keessatti tarreeffaman marti, akka hojiitti hiikamaniif\nsirna hawaasaa fi addunyaa irraa waan barbaadamu hunda ni argata.\nQabxii 29\nNamni kamiyyuu hawaasa namummaan isaa keessatti eegamee gabbatu keessatti itti gaafatamummaas ni\nqaba.\nNamni kamiyyuu, mirgootaa fi bilisummaa isaa yeroo hojiitti hiikutti, mirgootii fi bilisummaan isaa kan\ndaangeffamuu danda'u seeraan ta'ee, kunis immoo mirgootaa fi bu'aa namoota biraa kan eegsisu, yookiin\nimmoo bu'aa fi negeenya uummataa kan eegsisu yeroo ta'uu dha.\nMirgootii fi bilisummaan kun hojii irra kan oolan kaayyoo fi hafuura Dhaabbata Waldaa Mootummoota kan\nhin faallessine ta'anii you argaman qofa.\nQabxii 30\nWanti labsii kana keessatti ibsame hundi, mirgootaa fi bilisummaa ibsaman cabsuuf yaadamee, yookiin",
-            "Image": "deed8cb293c77505c9c28b670b47d6f8"
+            "Text": "Mootummootaa fi nageenya uummataa kan jabeessu ta'uu qaba.\nWarri ijoollee, akaakuu barumsaa kan fedhan ijoollee isaaniitiif filachuuf mirga ni qabu.\nQabxii 27\nNamni kamiyyuu jireenya aadaa biyyaa keessatti dhorkaa malee qooda fudhachuu ni danda'a; faayidaa aartii\nfi saayinsii irraas bashannana yookiin gammachuu argachuu ni qaba.\nNamni kamiyyuu waan ogummaa saayinsii, aartii fi barreessuu ofii isaaf hojjeterraa bu'aan argamu hundi\nakka eegamuuf mirga ni qaba.\nQabxii 28\nNamni kamiyyuu mirgootii fi bilisummaan labsii kana keessatti tarreeffaman marti, akka hojiitti hiikamaniif\nsirna hawaasaa fi addunyaa irraa waan barbaadamu hunda ni argata.\nQabxii 29\nNamni kamiyyuu hawaasa namummaan isaa keessatti eegamee gabbatu keessatti itti gaafatamummaas ni\nqaba.\nNamni kamiyyuu, mirgootaa fi bilisummaa isaa yeroo hojiitti hiikutti, mirgootii fi bilisummaan isaa kan\ndaangeffamuu danda'u seeraan ta'ee, kunis immoo mirgootaa fi bu'aa namoota biraa kan eegsisu, yookiin\nimmoo bu'aa fi negeenya uummataa kan eegsisu yeroo ta'uu dha.\nMirgootii fi bilisummaan kun hojii irra kan oolan kaayyoo fi hafuura Dhaabbata Waldaa Mootummoota kan\nhin faallessine ta'anii you argaman qofa.\nQabxii 30\nWanti labsii kana keessatti ibsame hundi, mirgootaa fi bilisummaa ibsaman cabsuuf yaadamee, yookiin"
         },
         "8": {
-            "Label": "9",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "aa40fbe3ba8d1d7a2390ae7785d950e5",
             "Index": 8,
+            "Label": "9",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "gocha tokko raawwachuuf jedhamee, akka waan mootummaa tokko, yookin dhaabbata tokko yookiin nama\ntokko ilaalu jedhamee lakka'aamu hin qabu.",
-            "Image": "aa40fbe3ba8d1d7a2390ae7785d950e5"
+            "Text": "gocha tokko raawwachuuf jedhamee, akka waan mootummaa tokko, yookin dhaabbata tokko yookiin nama\ntokko ilaalu jedhamee lakka'aamu hin qabu."
         }
     }
 }

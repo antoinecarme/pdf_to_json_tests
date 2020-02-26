@@ -1,137 +1,137 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581469526,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
-            "Index": 0,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Allgemeen Verklaren vun de Minschenrechten\nPRÄAMBEL\nVunwegen wat dat Anerkennen vun de Wüürd, mit de all Minschen baren sünd, un de Rechten, de all Maten\nvun de Gemeenschupp vun de Minschen hebbt un de gliek un nich to verköpen sünd, de Grundlaag vun\nFrieheit un Freden in de Welt is, un wat dat recht und billig togeiht,\nvunwegen wat dat Verkennen un Minnachten vun de Minschen rechten to unminschlich Doon föhrt hett, un\ndat Geweten vun de Minschen daarvun vull is vun Schann, is dat vör nehmste Wark vun de Minschen dat\nBuen vun een Welt, wo elk un een seggen un gloven dröff, wat he will un he frie is vun Bang sien un Noot,\nvunwegen wat dat nödig is, de Minschenrechten dörch dat Regeern vun’t Recht Schuul geven, dat de Minsch\nnich dwungen as lest Middel Wedderpart to hollen Tyrannei un Ünnerdrücken,\nvunwegen wat dat nödig is, dat mang de Natschonen föddert ward, wat se fründlich mit eenanner ümgaht,\nvunwegen wat de Völker vun de Vereenten Natschonen mit düsse Charta noch mehr daar up ruut wüllt un\ndat so besloten hebbt: dat se fastholen an de Minschenrechten vun elk un een, fastholen an de Wüürd un den\nWeert vun elk un een, un wat Mannslüüd un Fruunslüüd de sülvigen Rechten hebben schüllt, un wat dat\nWiederkamen vun de Gemeenschupp un een beter Leven in mehr aFrieheit föddert warrn schall,\nvunwegen wat de Matenlänner toplicht hebbt, tosamen mit de Vereenten Natschonen allns daarför to doon,\ndat de Minschenrechten de Frieheit vun elk un een samt un sünners acht un estimeert ward,\nvunwegen wat dat mit düsse Verplichten wat ward, is dat vun gröttste Bedüden, wat sülvige meent ward, wat\ndüsse Rechten un Frieheiten angeiht,\nun so gifft de Generalversammeln Bott: Düsse Allgemeen Verklaren vun de Minschenrechten is dat, wat för",
-            "Image": "7692db230910659a149b36d2af34209d"
+            "Image": "7692db230910659a149b36d2af34209d",
+            "Index": 0,
+            "Label": "1",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Allgemeen Verklaren vun de Minschenrechten\nPRÄAMBEL\nVunwegen wat dat Anerkennen vun de Wüürd, mit de all Minschen baren sünd, un de Rechten, de all Maten\nvun de Gemeenschupp vun de Minschen hebbt un de gliek un nich to verköpen sünd, de Grundlaag vun\nFrieheit un Freden in de Welt is, un wat dat recht und billig togeiht,\nvunwegen wat dat Verkennen un Minnachten vun de Minschen rechten to unminschlich Doon föhrt hett, un\ndat Geweten vun de Minschen daarvun vull is vun Schann, is dat vör nehmste Wark vun de Minschen dat\nBuen vun een Welt, wo elk un een seggen un gloven dröff, wat he will un he frie is vun Bang sien un Noot,\nvunwegen wat dat nödig is, de Minschenrechten dörch dat Regeern vun’t Recht Schuul geven, dat de Minsch\nnich dwungen as lest Middel Wedderpart to hollen Tyrannei un Ünnerdrücken,\nvunwegen wat dat nödig is, dat mang de Natschonen föddert ward, wat se fründlich mit eenanner ümgaht,\nvunwegen wat de Völker vun de Vereenten Natschonen mit düsse Charta noch mehr daar up ruut wüllt un\ndat so besloten hebbt: dat se fastholen an de Minschenrechten vun elk un een, fastholen an de Wüürd un den\nWeert vun elk un een, un wat Mannslüüd un Fruunslüüd de sülvigen Rechten hebben schüllt, un wat dat\nWiederkamen vun de Gemeenschupp un een beter Leven in mehr aFrieheit föddert warrn schall,\nvunwegen wat de Matenlänner toplicht hebbt, tosamen mit de Vereenten Natschonen allns daarför to doon,\ndat de Minschenrechten de Frieheit vun elk un een samt un sünners acht un estimeert ward,\nvunwegen wat dat mit düsse Verplichten wat ward, is dat vun gröttste Bedüden, wat sülvige meent ward, wat\ndüsse Rechten un Frieheiten angeiht,\nun so gifft de Generalversammeln Bott: Düsse Allgemeen Verklaren vun de Minschenrechten is dat, wat för"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "32d2f533aa2d558c1a7742690edba832",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "all de Völker Natschonen as Wiespahl gellen schall. Elk un een un all Inrichten vun de Sellschupp schüllt\ndüsse Verklaren jümmers praat hebben un daarför wat doon. Dörch Ünnerrichten un Uptrecken schall dat\nEstimeern vun düsse Rechten un Frieheiten föddert warrn. Dörch natschonaal un internatschonaal Doon\nschall dat mehr warrn mit dat allgemeen un rejell Annerkennen un Ümsetten vun düsse Verklaren bi all de\nLüüd in de Matenstaaten, över de düsse Gewalt hebbt.\nArtikel 1\nAll de Minschen sünd frie un gliek an Wüürd un Rechten baren. Se hebbt Vernunft un een Geweten un se\nschüllt sik Bröder sien.\nArtikel 2\nDat, wat in düsse Verklaren över de Rechten un Frieheiten steiht, gellt för elk un een. Daar gifft dat keen\nÜnnerscheed vunwegen de Raas, de Farv vun de Huut, dat Geslecht, de Spraak, den Gloven, de Menen\nvunwegen de Politik orrer annereen Övertügen, dat natschonaal orrer soziaal Herkamen, den Riek doom,\nGeburt orrer sünst een Stand.\nOk dröff daar keen Ünnerscheed maakt warrn vun wegen de politsch, rechtlich orrer inter natschonaal Stand\nvun dat Land orrer Flach, wo een Minsch tohören deit. Dat dröff keen Ünner scheed geven, wat dit Land\norrer dat Flach ünner Vullmacht steiht, keen Sülfstregeern hett orrer anners in sien Egenrecht inschränkt is.\nArtikel 3\nElk un een hett dat Recht up Leven, Frieheit un Sekerheit vun de Persoon.\nArtikel 4\nKeeneen dröff Slaveree lieden orrer to dat Goot vun anner Minschen jeedeen Aart un Wies vun Slaveree un\nSlavenhannel sünd verbaden.",
-            "Image": "32d2f533aa2d558c1a7742690edba832"
+            "Text": "all de Völker Natschonen as Wiespahl gellen schall. Elk un een un all Inrichten vun de Sellschupp schüllt\ndüsse Verklaren jümmers praat hebben un daarför wat doon. Dörch Ünnerrichten un Uptrecken schall dat\nEstimeern vun düsse Rechten un Frieheiten föddert warrn. Dörch natschonaal un internatschonaal Doon\nschall dat mehr warrn mit dat allgemeen un rejell Annerkennen un Ümsetten vun düsse Verklaren bi all de\nLüüd in de Matenstaaten, över de düsse Gewalt hebbt.\nArtikel 1\nAll de Minschen sünd frie un gliek an Wüürd un Rechten baren. Se hebbt Vernunft un een Geweten un se\nschüllt sik Bröder sien.\nArtikel 2\nDat, wat in düsse Verklaren över de Rechten un Frieheiten steiht, gellt för elk un een. Daar gifft dat keen\nÜnnerscheed vunwegen de Raas, de Farv vun de Huut, dat Geslecht, de Spraak, den Gloven, de Menen\nvunwegen de Politik orrer annereen Övertügen, dat natschonaal orrer soziaal Herkamen, den Riek doom,\nGeburt orrer sünst een Stand.\nOk dröff daar keen Ünnerscheed maakt warrn vun wegen de politsch, rechtlich orrer inter natschonaal Stand\nvun dat Land orrer Flach, wo een Minsch tohören deit. Dat dröff keen Ünner scheed geven, wat dit Land\norrer dat Flach ünner Vullmacht steiht, keen Sülfstregeern hett orrer anners in sien Egenrecht inschränkt is.\nArtikel 3\nElk un een hett dat Recht up Leven, Frieheit un Sekerheit vun de Persoon.\nArtikel 4\nKeeneen dröff Slaveree lieden orrer to dat Goot vun anner Minschen jeedeen Aart un Wies vun Slaveree un\nSlavenhannel sünd verbaden."
         },
         "2": {
-            "Label": "3",
-            "Index": 2,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Artikel 5\nKeeneen dröff ünner de Folter. Ok keeneen grusig, unminschlich orrer Straaf lieden orrer dörch so een Doon\nduuk nackt warrn.\nArtikel 6\nElk un een hett dat Recht, överall as een Rechtspersoon to gellen.\nArtikel 7\nAll Minschen sünd gliek vör dat Gesett. Ahn een Ünnerscheed hebbt se dat up glieke Schuul dörch dat\nGesett. All se Anrecht up sülvig Schuul tegen jeedeen Minnachten, de tegen düsse Verklaren geiht. Dat gellt\nok för dat Uphissen för so Minnachten.\nArtikel 8\nElk un een hett dat Anrecht up rejell Help bi de Gerichten binnen den Staat, de dat anlangt, wenn sien\nGrundrechten, de he na de Verfaten orrer na dat Gesett hett, dörch jichtenseen Doon inschränkt warrn schüllt.\nArtikel 9\nKeeneen dröff ahn Grund fastsett orrer ut dat Land wiest warrn.\nArtikel 10\nElk un een hett bi’t Faststellen vun sien Rechten un Plichten dat glieke Anrecht up een Verfahren, dat gerecht\nun apen is, un up een Gericht, dat keen na den Willen is un frie is in’t Entscheden. Datsülvige gellt för een\nBeschulligen na dat Straafrecht.\nArtikel 11",
-            "Image": "b4b78d3f725806db67184c89bed764d1"
+            "Image": "b4b78d3f725806db67184c89bed764d1",
+            "Index": 2,
+            "Label": "3",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Artikel 5\nKeeneen dröff ünner de Folter. Ok keeneen grusig, unminschlich orrer Straaf lieden orrer dörch so een Doon\nduuk nackt warrn.\nArtikel 6\nElk un een hett dat Recht, överall as een Rechtspersoon to gellen.\nArtikel 7\nAll Minschen sünd gliek vör dat Gesett. Ahn een Ünnerscheed hebbt se dat up glieke Schuul dörch dat\nGesett. All se Anrecht up sülvig Schuul tegen jeedeen Minnachten, de tegen düsse Verklaren geiht. Dat gellt\nok för dat Uphissen för so Minnachten.\nArtikel 8\nElk un een hett dat Anrecht up rejell Help bi de Gerichten binnen den Staat, de dat anlangt, wenn sien\nGrundrechten, de he na de Verfaten orrer na dat Gesett hett, dörch jichtenseen Doon inschränkt warrn schüllt.\nArtikel 9\nKeeneen dröff ahn Grund fastsett orrer ut dat Land wiest warrn.\nArtikel 10\nElk un een hett bi’t Faststellen vun sien Rechten un Plichten dat glieke Anrecht up een Verfahren, dat gerecht\nun apen is, un up een Gericht, dat keen na den Willen is un frie is in’t Entscheden. Datsülvige gellt för een\nBeschulligen na dat Straafrecht.\nArtikel 11"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "406d29fdd1c6ee1fc279a31287ea47ad",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Elk un een, de beschulligt ward, wat maakt to hebben, wat ünner Straaf steiht, hett dat Recht, as truschullig\nto gellen. Dat gellt, bit em in een apen Verfahren sien Schuld na dat Gesett nawiest worrn is. Bi dit Verfahren\nmutt he all de Garantien hatt hebben, de för sien Verdeffendeern nootwennig sünd.\nVunwegen een Doon orrer Nichdoon, dat to een Tiet schehn is, as dat na dat Recht binnen den Staat un buten\nden Staat nich ünner Straaf stahn hett, dröff keeneen verurdeelt warrn. Liekster welt dröff keen Straaf fastsett\nwarrn, de sworer is as de, de to de Tiet hett, as dat Hanneln, wo Straaf up schehn is.\nArtikel 12\nKeeneen mutt dat lieden, wat ahn Grund in sien privaat Leven, sien Familie, sien Hüsung un sien\nBreefwessel rinmengeleert ward. Dat gellt ok för dat Minneseren vun sien Ehr un sien Roop. Elk un een hett\ndat Anrecht up Schuul na dat Gesett tegen son Ingriepen orrer Behalen.\nArtikel 13\nElk un een hett dat Recht, dat he in Staat gahn kann, wohen he will. Ok kann elk un een blieven, woneem he\nwill.\nElk un een hett dat Recht, elkeen ok sien egen Land, to verlaten un wedder torüch tokamen.\nArtikel 14\nElk un een hett dat Recht, in anner Länner, vun wegen dat he verfolgt ward, Asyl to un to kriegen.\nDit Recht gellt nich för den Fall vun een Straaf verfolgen, de vunwegen een wohrhaftig Verbreken, dat nich\npolitsch is, maakt worrn is. Ok gellt dat nich, wenn de Straafverfolgen vunwegen een Hanneln maakt worrn\nis, dat tegen de Malen un de Grundsätz vun de Vereenten Natschonen geiht.\nArtikel 15",
-            "Image": "406d29fdd1c6ee1fc279a31287ea47ad"
+            "Text": "Elk un een, de beschulligt ward, wat maakt to hebben, wat ünner Straaf steiht, hett dat Recht, as truschullig\nto gellen. Dat gellt, bit em in een apen Verfahren sien Schuld na dat Gesett nawiest worrn is. Bi dit Verfahren\nmutt he all de Garantien hatt hebben, de för sien Verdeffendeern nootwennig sünd.\nVunwegen een Doon orrer Nichdoon, dat to een Tiet schehn is, as dat na dat Recht binnen den Staat un buten\nden Staat nich ünner Straaf stahn hett, dröff keeneen verurdeelt warrn. Liekster welt dröff keen Straaf fastsett\nwarrn, de sworer is as de, de to de Tiet hett, as dat Hanneln, wo Straaf up schehn is.\nArtikel 12\nKeeneen mutt dat lieden, wat ahn Grund in sien privaat Leven, sien Familie, sien Hüsung un sien\nBreefwessel rinmengeleert ward. Dat gellt ok för dat Minneseren vun sien Ehr un sien Roop. Elk un een hett\ndat Anrecht up Schuul na dat Gesett tegen son Ingriepen orrer Behalen.\nArtikel 13\nElk un een hett dat Recht, dat he in Staat gahn kann, wohen he will. Ok kann elk un een blieven, woneem he\nwill.\nElk un een hett dat Recht, elkeen ok sien egen Land, to verlaten un wedder torüch tokamen.\nArtikel 14\nElk un een hett dat Recht, in anner Länner, vun wegen dat he verfolgt ward, Asyl to un to kriegen.\nDit Recht gellt nich för den Fall vun een Straaf verfolgen, de vunwegen een wohrhaftig Verbreken, dat nich\npolitsch is, maakt worrn is. Ok gellt dat nich, wenn de Straafverfolgen vunwegen een Hanneln maakt worrn\nis, dat tegen de Malen un de Grundsätz vun de Vereenten Natschonen geiht.\nArtikel 15"
         },
         "4": {
-            "Label": "5",
-            "Index": 4,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Elk un een hett dat Recht, dat he een tohört.\nKeeneen dröff dat Tohören to een Staat ahn Grund wegnahmen warrn. Ok dröff keeneen dat Recht afseggt\nwarrn, sien Tohörn to een Staat to wesseln.\nArtikel 16\nMannslüüd un Fruunslüüd, de heiraden köönt, hebbt dat Recht, dat to doon un een Familie to grünnen. Dat\ndröff nich inschränkt warrn vunwegen de Raas, dat Tohörn to een Staat orrer den Gloven. Se hebbt bi de\nHeiraat, in de Tiet vun de Eh un bi’t Uplösen vun de Eh glieke Rechten.\nDe Eh dröff bloots sloten warrn, wenn Ehlüüd frie in ehr Menen un sik eenig in ehrn Willen sünd.\nDe Familie is vun’n Grund her de natüürlich un lüttste Deel vun de Sellschupp un hett Anrecht up Schuul\ndörch de Sellschupp un den Staat.\nArtikel 17\nElk un een hett dat Recht up Egendoom, för sik un ok mit anner Lüüd tosamen.\nKeeneen dröff ahn Grund sien Egendoom wegnahmen warrn.\nArtikel 18\nElk un een hett dat Recht up de Frieheit vun de Gedanken, vun dat Geweten un vun den Gloven. Daarto hört\nde Frieheit, sien Gloven un sien Övertügen to wesseln. Ok hett elk un een de Frieheit, sien Gloven orrer sien\nÖver tügen alleen orrer mit anner tosamen to bekennen. Dat kann he apentlik doon för all orrer privaat dörch\nLehr, Utöven, Gottesdeenst orrer anner Doon in düsse Richt.\nArtikel 19\nElk un een hett dat Recht up frie Menen un daarup, sien Menen frie to seggen. Daarto hört de Frieheit, sien",
-            "Image": "f2576af4e98326b60f081e6d0e80eef2"
+            "Image": "f2576af4e98326b60f081e6d0e80eef2",
+            "Index": 4,
+            "Label": "5",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Elk un een hett dat Recht, dat he een tohört.\nKeeneen dröff dat Tohören to een Staat ahn Grund wegnahmen warrn. Ok dröff keeneen dat Recht afseggt\nwarrn, sien Tohörn to een Staat to wesseln.\nArtikel 16\nMannslüüd un Fruunslüüd, de heiraden köönt, hebbt dat Recht, dat to doon un een Familie to grünnen. Dat\ndröff nich inschränkt warrn vunwegen de Raas, dat Tohörn to een Staat orrer den Gloven. Se hebbt bi de\nHeiraat, in de Tiet vun de Eh un bi’t Uplösen vun de Eh glieke Rechten.\nDe Eh dröff bloots sloten warrn, wenn Ehlüüd frie in ehr Menen un sik eenig in ehrn Willen sünd.\nDe Familie is vun’n Grund her de natüürlich un lüttste Deel vun de Sellschupp un hett Anrecht up Schuul\ndörch de Sellschupp un den Staat.\nArtikel 17\nElk un een hett dat Recht up Egendoom, för sik un ok mit anner Lüüd tosamen.\nKeeneen dröff ahn Grund sien Egendoom wegnahmen warrn.\nArtikel 18\nElk un een hett dat Recht up de Frieheit vun de Gedanken, vun dat Geweten un vun den Gloven. Daarto hört\nde Frieheit, sien Gloven un sien Övertügen to wesseln. Ok hett elk un een de Frieheit, sien Gloven orrer sien\nÖver tügen alleen orrer mit anner tosamen to bekennen. Dat kann he apentlik doon för all orrer privaat dörch\nLehr, Utöven, Gottesdeenst orrer anner Doon in düsse Richt.\nArtikel 19\nElk un een hett dat Recht up frie Menen un daarup, sien Menen frie to seggen. Daarto hört de Frieheit, sien"
         },
         "5": {
-            "Label": "6",
-            "Index": 5,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Menen ahn Inschränken künnig to maken, ok hört daarto, över dräger vun elkeen Aart över all Scheden hen\nInformatschonen un Gedankengoot to söken, to bekamen un wiedertogeven.\nArtikel 20\nElk un een hett dat Recht, sik to versammeln un sik in Verenigen to doon.\nKeeneen mutt dat lieden, dat he een Verenigen toslaan ward, ahn dat he dat will.\nArtikel 21\nElk un een hett dat Recht, an de Saken, de all anlangt in’t Land, mittodoon. Dat kann he sülven doon, orrer\ndörch Vertreders, de frie wählt worrn sünd.\nElk un een hett dat Recht, dat he in sien Land glieken Togang hett na apentlik Ämter.\nDe Willen vun’t Volk is de Grundlaag för dat Achten vun de apentlik Gewalt. Düsse Willen wiest sik dörch\nWahlen, de stüttig dörchföhrt ward, de nich verkehrt ward un de allgemeen un gliek sünd un wo elk un een\nsien Stimm geheem afgeven kann. De Wahl kann ok anners dörchföhrt warrn, wenn se man frie un na düsse\nGrundsätz is.\nArtikel 22\nElk un een hett as Maat vun de Sellschupp dat Recht up soziaal Sekerheit. Elk un een hett Anrecht up\nwirtschaftlich, soziaal un kulturell Rechten, de dat bruukt, dat sien Wüürd bestahn blifft un dat Egen vun sien\nPersoon frie klaarkamen kann. Daarföör de Staat wat binnen den Staat doon, dat he dat rekent, wat sien\nOrganisatschonen un sien Hanneln daarför dögen. Dat gellt ok för de Tosamenarbeit vun de Staaten.\nArtikel 23\nElk un een hett dat Recht up Arbeit, dat een sik frie sien Profeschoon utsöken kann, wat dat bi sien Arbeit",
-            "Image": "b1dbac6603f4b0f0385b6890707c4f77"
+            "Image": "b1dbac6603f4b0f0385b6890707c4f77",
+            "Index": 5,
+            "Label": "6",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Menen ahn Inschränken künnig to maken, ok hört daarto, över dräger vun elkeen Aart över all Scheden hen\nInformatschonen un Gedankengoot to söken, to bekamen un wiedertogeven.\nArtikel 20\nElk un een hett dat Recht, sik to versammeln un sik in Verenigen to doon.\nKeeneen mutt dat lieden, dat he een Verenigen toslaan ward, ahn dat he dat will.\nArtikel 21\nElk un een hett dat Recht, an de Saken, de all anlangt in’t Land, mittodoon. Dat kann he sülven doon, orrer\ndörch Vertreders, de frie wählt worrn sünd.\nElk un een hett dat Recht, dat he in sien Land glieken Togang hett na apentlik Ämter.\nDe Willen vun’t Volk is de Grundlaag för dat Achten vun de apentlik Gewalt. Düsse Willen wiest sik dörch\nWahlen, de stüttig dörchföhrt ward, de nich verkehrt ward un de allgemeen un gliek sünd un wo elk un een\nsien Stimm geheem afgeven kann. De Wahl kann ok anners dörchföhrt warrn, wenn se man frie un na düsse\nGrundsätz is.\nArtikel 22\nElk un een hett as Maat vun de Sellschupp dat Recht up soziaal Sekerheit. Elk un een hett Anrecht up\nwirtschaftlich, soziaal un kulturell Rechten, de dat bruukt, dat sien Wüürd bestahn blifft un dat Egen vun sien\nPersoon frie klaarkamen kann. Daarföör de Staat wat binnen den Staat doon, dat he dat rekent, wat sien\nOrganisatschonen un sien Hanneln daarför dögen. Dat gellt ok för de Tosamenarbeit vun de Staaten.\nArtikel 23\nElk un een hett dat Recht up Arbeit, dat een sik frie sien Profeschoon utsöken kann, wat dat bi sien Arbeit"
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "64b764ff963a0273ee105b64d44963fc",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "gerecht togeiht un wat een tofreden mit de Ümstänn vun de Arbeit sien kann. He hett dat Recht up Schuul,\nwenn he sien Arbeit quiet geiht.\nElk un een hett dat Recht up datsülvige Geld för desülvige Arbeit. Dat gellt ahn Ünnerscheed.\nElk un een, de arbeit, hett dat Recht up een Verdeenst, de recht un billich is. De Verdeenst schall langen\ndaarför, dat he un sien Familie een Leven föhren köönt, wat de Wüürd för se as Minschen sekert is. Sünst\nmutt holpen warrn dörch anner Schuul för de soziaal Sekerheit.\nElk un een hett dat Recht, Gillen för de Schuul vun sien Arbeit to billen orrer Gillen bi totreden, dat een sien\nInteressen wahren kann.\nArtikel 24\nElk un een hett dat Recht daarup, dat een sik verhalen kann un up Frietiet. de Arbeits tiet mutt een Maat\nhebben, sinnig is, un dat bruukt Feern, de betahlt ward un stüttig sünd.\nArtikel 25\nElk un een hett dat Recht, wat een Leven för den Minschen un sien Familie föhrt warrn kann, dat Sundheit\nun Gootgahn garanteert. Daar to hört Eten un Drinken, Tüüch, Hüsung, Behanneln dörch den Dokter un wat\nanners wat nödig is an soziaal Deensten. Ok hört daarto dat Recht up Sekerheit, wenn een sien Arbeit quiet\ngeiht, krank orrer versehrt ward, Wittfru orrer Wittmann ward, old ward un anners wat mehr, wenn een ahn\nSchuld sien Ünnerhalts middel quiet geiht.\nModders un Kinner hebbt Anrecht up sünnerlich Föddern un Help. All Kinner, eendoont wat se in de Eh\norrer buten de Eh baren sünd, hebbt sülvig soziaal Schuul.\nArtikel 26",
-            "Image": "64b764ff963a0273ee105b64d44963fc"
+            "Text": "gerecht togeiht un wat een tofreden mit de Ümstänn vun de Arbeit sien kann. He hett dat Recht up Schuul,\nwenn he sien Arbeit quiet geiht.\nElk un een hett dat Recht up datsülvige Geld för desülvige Arbeit. Dat gellt ahn Ünnerscheed.\nElk un een, de arbeit, hett dat Recht up een Verdeenst, de recht un billich is. De Verdeenst schall langen\ndaarför, dat he un sien Familie een Leven föhren köönt, wat de Wüürd för se as Minschen sekert is. Sünst\nmutt holpen warrn dörch anner Schuul för de soziaal Sekerheit.\nElk un een hett dat Recht, Gillen för de Schuul vun sien Arbeit to billen orrer Gillen bi totreden, dat een sien\nInteressen wahren kann.\nArtikel 24\nElk un een hett dat Recht daarup, dat een sik verhalen kann un up Frietiet. de Arbeits tiet mutt een Maat\nhebben, sinnig is, un dat bruukt Feern, de betahlt ward un stüttig sünd.\nArtikel 25\nElk un een hett dat Recht, wat een Leven för den Minschen un sien Familie föhrt warrn kann, dat Sundheit\nun Gootgahn garanteert. Daar to hört Eten un Drinken, Tüüch, Hüsung, Behanneln dörch den Dokter un wat\nanners wat nödig is an soziaal Deensten. Ok hört daarto dat Recht up Sekerheit, wenn een sien Arbeit quiet\ngeiht, krank orrer versehrt ward, Wittfru orrer Wittmann ward, old ward un anners wat mehr, wenn een ahn\nSchuld sien Ünnerhalts middel quiet geiht.\nModders un Kinner hebbt Anrecht up sünnerlich Föddern un Help. All Kinner, eendoont wat se in de Eh\norrer buten de Eh baren sünd, hebbt sülvig soziaal Schuul.\nArtikel 26"
         },
         "7": {
-            "Label": "8",
-            "Index": 7,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
             ],
-            "Text": "Elk un een hett dat Recht up Sik-Billen. Sik-Billen dröff keen Geld kösten, dat gellt tominst för den\nÜnnerricht in de Grundschool un för dat, wat elk un een weten mutt. Elk un een mutt na de Grundschool hen.\nÜnnerricht för de Lehr tiet mutt apen för elk un een maakt warrn. Dat gellt ok för Ünnerricht an de Hoge\nSchool, wenn een daar dat Tüüg to hett.\nDat Maal för Sik-Billen is, dat elk un een dat Egen vun sien Per soon heel un deel upfolden kann. Ok geiht\ndat daarüm, wat dat mehr ward mit dat An sehn vun de Minschenrechten un de Grund frieheiten. Sik-Billen\nmutt daar to bi drägen, dat Ver nimm, Toleranz un Fründ schupp mang de Nat schonen un mang Koppels\nvun Lüüd vun ver scheden Raas orrer Glo ven föddert ward. Daar to hört, wat dat Doon vun de Ver een ten\nNat daarför, dat de Freden bestahn blifft, ok föddert ward.\nDe Öllern hebbt allereerst dat Recht, de Aart vun Sik-Billen uttosöken, de ehr Kinner hebben schüllt.\nArtikel 27\nElk un een hett dat Recht, frie an dat Kultuurleven vun de Gemeenschupp mittodoon, sik an de Künst to\nhögen un deeltohebben an dat Wiederkamen vun de Wetenschupp un wat daarvun maakt ward.\nElk un een hett dat Recht up Schuul an de Saken, de een sik utdacht orrer maakt hett, un ok an den Verdeenst\ndaaran. Dat gellt för de, de Warken för de Wetenschupp, de Literatuur orrer de Kunst maakt hebbt.\nArtikel 28\nElk un een hett dat Anrecht up een soziaal un internatschonaal Ornung, in de de Rechten un Frieheiten ut\ndüsse Verklaren heel un deel anslaan.\nArtikel 29\nElk un een steiht in de Plicht tegenöver de Gemeenschupp un bloots in de Gemeen schupp is dat Up folden\nvun dat frie Egen vun de Persoon heel un deel möglich.",
-            "Image": "d67a4a764012725ab5a957a0004bc1f4"
-        },
-        "8": {
-            "Label": "9",
-            "Index": 8,
+            "Image": "d67a4a764012725ab5a957a0004bc1f4",
+            "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
+            "Text": "Elk un een hett dat Recht up Sik-Billen. Sik-Billen dröff keen Geld kösten, dat gellt tominst för den\nÜnnerricht in de Grundschool un för dat, wat elk un een weten mutt. Elk un een mutt na de Grundschool hen.\nÜnnerricht för de Lehr tiet mutt apen för elk un een maakt warrn. Dat gellt ok för Ünnerricht an de Hoge\nSchool, wenn een daar dat Tüüg to hett.\nDat Maal för Sik-Billen is, dat elk un een dat Egen vun sien Per soon heel un deel upfolden kann. Ok geiht\ndat daarüm, wat dat mehr ward mit dat An sehn vun de Minschenrechten un de Grund frieheiten. Sik-Billen\nmutt daar to bi drägen, dat Ver nimm, Toleranz un Fründ schupp mang de Nat schonen un mang Koppels\nvun Lüüd vun ver scheden Raas orrer Glo ven föddert ward. Daar to hört, wat dat Doon vun de Ver een ten\nNat daarför, dat de Freden bestahn blifft, ok föddert ward.\nDe Öllern hebbt allereerst dat Recht, de Aart vun Sik-Billen uttosöken, de ehr Kinner hebben schüllt.\nArtikel 27\nElk un een hett dat Recht, frie an dat Kultuurleven vun de Gemeenschupp mittodoon, sik an de Künst to\nhögen un deeltohebben an dat Wiederkamen vun de Wetenschupp un wat daarvun maakt ward.\nElk un een hett dat Recht up Schuul an de Saken, de een sik utdacht orrer maakt hett, un ok an den Verdeenst\ndaaran. Dat gellt för de, de Warken för de Wetenschupp, de Literatuur orrer de Kunst maakt hebbt.\nArtikel 28\nElk un een hett dat Anrecht up een soziaal un internatschonaal Ornung, in de de Rechten un Frieheiten ut\ndüsse Verklaren heel un deel anslaan.\nArtikel 29\nElk un een steiht in de Plicht tegenöver de Gemeenschupp un bloots in de Gemeen schupp is dat Up folden\nvun dat frie Egen vun de Persoon heel un deel möglich."
+        },
+        "8": {
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Elk un een is bi’t Utöven vun sien Rechten un Frieheiten bloots inschränkt dörch Gesetten, de egens daarför\ndaar sünd, dat An erkennen un dat Achten vun de Rechten un Frieheiten vun anner Minschen to sekern, wat\ndat henlangt mit dat gerechte Maat vun de Moraal, mit de apentlik Ornung un dat Goot gahn för elk un een in\neen demokraatsch Sell schupp.\nDüsse Rechten un Frieheiten dröfft nienich utöövt warrn in Insaag to de Malen un Grundsätz vun de\nVereenten Natschonen.\nArtikel 30\nKeeneen vun de Artikels, de in düsse Verklaren fastleggt worrn sünd, dröff so utleggt warrn, wat se för een\nStaat, een Koppel Lüüd orrer een Persoon jichtenseen Recht begrünnt, wat to doon orrer wat to maken, wat\ndaarup ruut lööpt, de Rechten un Frieheiten ut düsse Verklaren bikant to smieten.",
-            "Image": "288f170f6692078fce6f4452be16ffda"
+            "Image": "288f170f6692078fce6f4452be16ffda",
+            "Index": 8,
+            "Label": "9",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Elk un een is bi’t Utöven vun sien Rechten un Frieheiten bloots inschränkt dörch Gesetten, de egens daarför\ndaar sünd, dat An erkennen un dat Achten vun de Rechten un Frieheiten vun anner Minschen to sekern, wat\ndat henlangt mit dat gerechte Maat vun de Moraal, mit de apentlik Ornung un dat Goot gahn för elk un een in\neen demokraatsch Sell schupp.\nDüsse Rechten un Frieheiten dröfft nienich utöövt warrn in Insaag to de Malen un Grundsätz vun de\nVereenten Natschonen.\nArtikel 30\nKeeneen vun de Artikels, de in düsse Verklaren fastleggt worrn sünd, dröff so utleggt warrn, wat se för een\nStaat, een Koppel Lüüd orrer een Persoon jichtenseen Recht begrünnt, wat to doon orrer wat to maken, wat\ndaarup ruut lööpt, de Rechten un Frieheiten ut düsse Verklaren bikant to smieten."
         }
     }
 }

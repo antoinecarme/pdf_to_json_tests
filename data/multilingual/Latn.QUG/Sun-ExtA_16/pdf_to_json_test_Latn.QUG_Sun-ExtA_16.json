@@ -1,67 +1,67 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581470181,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
+            ],
+            "Image": "f0efc690e6bf91de43a24b10aecf68d8",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
-            ],
-            "Text": "RUNAKUNAPAK HAYÑITA WILLAY\nKALLARI YUYAY\nKawsaypi yuyashpa, kishpiriy, paktakay, allpapachapi kasikllakawsay tiksi\nKawsaypi yuyashpa, piñashpa mana riksina, runakunapak hayñita saruy,\nKawsaypi yuyashpa, runakunapak hayñitaka, paypak hayñimi nishpa shuktak\nKawsaypi yuyashpa, lIaktapura mayhanpash mashiyarishpa, alamarishpa\nKawsaypi. yuyashpa, tinkirishka lIaktakuna hatun killkata katishpa\nKawsaypi yuyashpa, tinkirishka lIaktakunapash. paktachinata minkarishpami\nKawsaypi yuyashpa, hayñi yuyaykuna, kishpirishka yuyay kuna tukuypi\nTINKIRISHKA LLAKTAKUNA, HATUN TANTANAKUVTA RURASHPA\nTitikirishka Ilaktakunaka, mamallaktakunapak hatun tantanakuypimi runapak\n1 niki\nTukuy runakunami maypipash kishpirishka, sumaykaypi(dignidad) paktapakta\n2 niki\nKay hayñita willashka kipaka tukuy runakunami ima tullputa, kawsayta,\nShinallatak: lIaktakak, kamachi yachak,istakak, mana paypak allpapi kawsak,\n3 niki\nTukuykunami kikin kawsay, kishpiriy, kikin shayariy hayñita charin.\n4 niki\nMana pipash wanachiwasipi ñitishka, takashka kanachu, shinallatak mitayu\n5 niki\nMana pi watashka, utushka, makashka kankachu. Mana pi, anchamillashka,.\n6 niki\nTukuy runakaymi paykunapak hayñita charin, tukuy Ilaktakunapimi paypak kikin\n7 niki\nKamachipak nawpakpika tukukunami paktapakta kanchik, runaka kamachik\n8 niki\nTukuy runakunami kimsa kapakkamachikpak(tribunal) ñawpakpi, ima\n9 niki",
-            "Image": "f0efc690e6bf91de43a24b10aecf68d8"
+            "Text": "RUNAKUNAPAK HAYÑITA WILLAY\nKALLARI YUYAY\nKawsaypi yuyashpa, kishpiriy, paktakay, allpapachapi kasikllakawsay tiksi\nKawsaypi yuyashpa, piñashpa mana riksina, runakunapak hayñita saruy,\nKawsaypi yuyashpa, runakunapak hayñitaka, paypak hayñimi nishpa shuktak\nKawsaypi yuyashpa, lIaktapura mayhanpash mashiyarishpa, alamarishpa\nKawsaypi. yuyashpa, tinkirishka lIaktakuna hatun killkata katishpa\nKawsaypi yuyashpa, tinkirishka lIaktakunapash. paktachinata minkarishpami\nKawsaypi yuyashpa, hayñi yuyaykuna, kishpirishka yuyay kuna tukuypi\nTINKIRISHKA LLAKTAKUNA, HATUN TANTANAKUVTA RURASHPA\nTitikirishka Ilaktakunaka, mamallaktakunapak hatun tantanakuypimi runapak\n1 niki\nTukuy runakunami maypipash kishpirishka, sumaykaypi(dignidad) paktapakta\n2 niki\nKay hayñita willashka kipaka tukuy runakunami ima tullputa, kawsayta,\nShinallatak: lIaktakak, kamachi yachak,istakak, mana paypak allpapi kawsak,\n3 niki\nTukuykunami kikin kawsay, kishpiriy, kikin shayariy hayñita charin.\n4 niki\nMana pipash wanachiwasipi ñitishka, takashka kanachu, shinallatak mitayu\n5 niki\nMana pi watashka, utushka, makashka kankachu. Mana pi, anchamillashka,.\n6 niki\nTukuy runakaymi paykunapak hayñita charin, tukuy Ilaktakunapimi paypak kikin\n7 niki\nKamachipak nawpakpika tukukunami paktapakta kanchik, runaka kamachik\n8 niki\nTukuy runakunami kimsa kapakkamachikpak(tribunal) ñawpakpi, ima\n9 niki"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
+            ],
+            "Image": "e5026d88c193e64e5ce4d0bf9f06e31e",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
-            ],
-            "Text": "Mana huchayuk runataka pipash mana yanka watankachu. Wanachina amsa\n10 niki\nTukuy runami pay rimashkata kimsa kapyak kamachikpak ñawpakpi, tukuy\n11 niki\nTukuy huchachishka runakunami, hucha mana illu kakpika IIullapi IIukshina\nMamallaktapak hayñi ñawpakpi, lIaktapura hayñi ñawpakpi, IIakita rurashka\n12 niki\nMana pi kinkinpak kawsaypi, wasipi, ayllupi yanka yaykurinata charinchu. Kikin .\n13 niki\nTukuy runami paypak lIaktapika kishpirishka purinata, maypi kawsana kuskata\nTukuy runami mayhan IIaktamanta, paypak lIaktamantapash IIukshirina hayñita\n14 niki\nKatikachakpika, tukuy runami mitikushpa pakakukuna kuskata mashkana\nKay hayñika huchayuk pakakukushka lIaktapak kamachikunawanpash mana\n15 niki\nTukuy runamishuktak lIaktaman Ilaktayay(nacionalidad) hayñita chárin\nLlaktayay hayñitaka mana kichunkachu, shuktak. Ilaktaman rantinchirina\n16 niki\nKariwarmi paypakkunapak mitata paktachishpaka: tullputa mana rikushpalla,\nKariwarmi paykuna kishpirishka yuyaywan munanakushpallami sawarinka.\nLlaktakunapak tiksi nipaka ayllumi kan, chaymantami paykunaka ayllullaktapash,\n17 niki\nTukuy runamimaypi kawsana kikin allpata, kikin wasita, nipakunatapash charina\nPipash paykunapak allpata, wasita, imatapash mana kichunkallachukan.\n18 niki\nTukuy runami kishpirishka yuyayta, shunkuyuyayta(conciencia), iñiyna hayñita\n19 niki\nTukuy runami imatapash willana, rimana hayñita charin, kaytaka mana pipash\n20 niki",
-            "Image": "e5026d88c193e64e5ce4d0bf9f06e31e"
+            "Text": "Mana huchayuk runataka pipash mana yanka watankachu. Wanachina amsa\n10 niki\nTukuy runami pay rimashkata kimsa kapyak kamachikpak ñawpakpi, tukuy\n11 niki\nTukuy huchachishka runakunami, hucha mana illu kakpika IIullapi IIukshina\nMamallaktapak hayñi ñawpakpi, lIaktapura hayñi ñawpakpi, IIakita rurashka\n12 niki\nMana pi kinkinpak kawsaypi, wasipi, ayllupi yanka yaykurinata charinchu. Kikin .\n13 niki\nTukuy runami paypak lIaktapika kishpirishka purinata, maypi kawsana kuskata\nTukuy runami mayhan IIaktamanta, paypak lIaktamantapash IIukshirina hayñita\n14 niki\nKatikachakpika, tukuy runami mitikushpa pakakukuna kuskata mashkana\nKay hayñika huchayuk pakakukushka lIaktapak kamachikunawanpash mana\n15 niki\nTukuy runamishuktak lIaktaman Ilaktayay(nacionalidad) hayñita chárin\nLlaktayay hayñitaka mana kichunkachu, shuktak. Ilaktaman rantinchirina\n16 niki\nKariwarmi paypakkunapak mitata paktachishpaka: tullputa mana rikushpalla,\nKariwarmi paykuna kishpirishka yuyaywan munanakushpallami sawarinka.\nLlaktakunapak tiksi nipaka ayllumi kan, chaymantami paykunaka ayllullaktapash,\n17 niki\nTukuy runamimaypi kawsana kikin allpata, kikin wasita, nipakunatapash charina\nPipash paykunapak allpata, wasita, imatapash mana kichunkallachukan.\n18 niki\nTukuy runami kishpirishka yuyayta, shunkuyuyayta(conciencia), iñiyna hayñita\n19 niki\nTukuy runami imatapash willana, rimana hayñita charin, kaytaka mana pipash\n20 niki"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
+            ],
+            "Image": "8b806e629c13ee1eda4d4757ac3bdd83",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
-            ],
-            "Text": "Tukuy runami tantanakuna kishpita, kasiklla tantanakuyta wiñachina\nMana pipash shuk tantanakuyman munay, mana munay pushashka kankachu.\n21 niki\nTukuy runami paypak Ilaktapi kamachik tukuna hayñita charin. Payllatak sapalla,\nTukuy runami paypak lIaktapika, shuktak runakuna shinallatak Ilaktallankaypi\nLLaktakunapak munaymi tukuy runakunapak tiksi kamachi ushay kan, kaytakakikin\n22 niki\nLlaktapak ayllu kashkamantaka, tukuy runakunami kamashka kaws,ana hayñita\n23 niki\nTukuy runami lIankana, Ilankayta akllana kishpirishkahayñita charin. Kikin\nTukuy runami mana akllarishkakana, paypak Ilankashakamantapash paktapakta\nTukuy Ilankak runami pay lIankashkamantaka munashka paktapakta kullkita\nTukuy runami tantanakuyta wiñachina hayñiya charin, chay tantanakuyka\n24 niki\nTukuy runami samarina hayñita charin~ kacharishka samaypachata amikta\n25 niki\nTukuy runami payta kamak, alli kawsayta kuk patapi kana hayñita charin.\nChichu warmipash, Ilullu wawakunapash alli kawsayta charina, allinta kamashka\n26 niki\nTukuy runami yachana hayñita charin. Tiksi yachay, shuktak tiksi\nYachayka runakuna yuyaypi may alli wiñarinatami yanapanka, runakunapak\nTaytamamaka imasami yachayta churikunaman kunkapakka akllana hayñitami\n27 niki\nTukuy runami kishprishka yuyaywan ayllullaktawan kimirishka kawsana hayñita\nTukuy runami paypak alli shutita, amawta lIankaymanta rikurishka nipakunata\n28 niki\nTukuy runami tukuy paypak lIaktapi kawsak runakuna, istallaktapi kawsak\n29 niki\nTukuy runami ayllukunaman kanakayta(deber) ayllullaktaman kunata. charin.",
-            "Image": "8b806e629c13ee1eda4d4757ac3bdd83"
+            "Text": "Tukuy runami tantanakuna kishpita, kasiklla tantanakuyta wiñachina\nMana pipash shuk tantanakuyman munay, mana munay pushashka kankachu.\n21 niki\nTukuy runami paypak Ilaktapi kamachik tukuna hayñita charin. Payllatak sapalla,\nTukuy runami paypak lIaktapika, shuktak runakuna shinallatak Ilaktallankaypi\nLLaktakunapak munaymi tukuy runakunapak tiksi kamachi ushay kan, kaytakakikin\n22 niki\nLlaktapak ayllu kashkamantaka, tukuy runakunami kamashka kaws,ana hayñita\n23 niki\nTukuy runami lIankana, Ilankayta akllana kishpirishkahayñita charin. Kikin\nTukuy runami mana akllarishkakana, paypak Ilankashakamantapash paktapakta\nTukuy Ilankak runami pay lIankashkamantaka munashka paktapakta kullkita\nTukuy runami tantanakuyta wiñachina hayñiya charin, chay tantanakuyka\n24 niki\nTukuy runami samarina hayñita charin~ kacharishka samaypachata amikta\n25 niki\nTukuy runami payta kamak, alli kawsayta kuk patapi kana hayñita charin.\nChichu warmipash, Ilullu wawakunapash alli kawsayta charina, allinta kamashka\n26 niki\nTukuy runami yachana hayñita charin. Tiksi yachay, shuktak tiksi\nYachayka runakuna yuyaypi may alli wiñarinatami yanapanka, runakunapak\nTaytamamaka imasami yachayta churikunaman kunkapakka akllana hayñitami\n27 niki\nTukuy runami kishprishka yuyaywan ayllullaktawan kimirishka kawsana hayñita\nTukuy runami paypak alli shutita, amawta lIankaymanta rikurishka nipakunata\n28 niki\nTukuy runami tukuy paypak lIaktapi kawsak runakuna, istallaktapi kawsak\n29 niki\nTukuy runami ayllukunaman kanakayta(deber) ayllullaktaman kunata. charin."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
+            ],
+            "Image": "66aca3343100c28d759fc17be0ba5867",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
-            ],
-            "Text": "Paypak hayñita, kishpiriyta hapishpaka kamachikuna nishkapilla watarishpami\nTinkirishka Ilaktakuna yuyarishkata tiksi hayñiwan, kishpiriywan, nimamantapash\n30 niki\nKay tinkirishka lIaktakuna willashka hayñikunata, kishpiriykunataka, shuklla",
-            "Image": "66aca3343100c28d759fc17be0ba5867"
+            "Text": "Paypak hayñita, kishpiriyta hapishpaka kamachikuna nishkapilla watarishpami\nTinkirishka Ilaktakuna yuyarishkata tiksi hayñiwan, kishpiriywan, nimamantapash\n30 niki\nKay tinkirishka lIaktakuna willashka hayñikunata, kishpiriykunataka, shuklla"
         }
     }
 }

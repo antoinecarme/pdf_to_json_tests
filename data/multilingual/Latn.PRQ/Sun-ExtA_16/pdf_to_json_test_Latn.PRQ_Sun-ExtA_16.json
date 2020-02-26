@@ -1,67 +1,67 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581470155,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
+            ],
+            "Image": "a188b672415a98c153d90a383b1f4ef3",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
-            ],
-            "Text": "10 de diciembre de 1948 anu, xanen ibu ichapa ichaxun, na jancha kenenibuki. Xanen ibu\ntibin javen nabu jau yuinunven, na janchadan.\nJAVADA JUNIBUN MAl DASIBÍ AUN AKAIBUN, JATU NEMATIDUBUMAKI\nPreambulo\nAinbu inun juni yudakuinki, yuinakamadan. Jabiaskadi xinain, pepanametidubuki,\ndetenamemadan. Jaska xinanma, sinatakin, yuda betsa chakabu va, nuitapamisbuki.\nIkunkin, yuikin, xinain, xinan pepamisbuki, dateamadan.\nDetenamekatsi ikama, xanen ibubun jancha pepa jau chibanunbunven. Javen nabu jivea pepa\nuinmatidubuki. Dasibi jau medabenamenunbunven, jaibunameidan. Yudabu dasibi pepa\nxinain, juni inun ainbu jau dua vanunbunven, jabiaskadi vakinan. Yuda dasibi pe\njivenunbunan. Jaska xinankin, xanen ibun javen nabu pepa vakatsi imiski.\nJaskaven taexun, yuda dasibibun unayan, xanen ibubu ichapa ichaxun, na jancha\nkenenibuki.\nArtículo 1\nYudabu dasibi jabiaskadi akin, xinantidubuki. Javen taea jau jaibunamenunbunven.\nArtículo 2\nNa jancha dasibibun atidubuki, yuda mexupabu, yuda taxipabu, yuda juxupabu jusia,\njancha betsa betsapabu, ikuain betsa betsapabu, baiyabu, baiumabu, jene betsa\nbetsapaven jiveabu, bekex betsa betsapaven jiveabu, na dasibi jau duanamenunbunven,\njabiaskadi vaidan.\nArtículo 3\nDasibi unanuma maniabun, juni betsa betsapan jau nemayamanunbunven.\nArtículo 4\nTsumavakin, dayamakin, java inamadan, chakabuki. Jau nemanunbunven.\nArtículo 5\nIchakanika chakabuki. Jau nemanunbunven.\nArtículo 6\nGobierno xanen ibubun yudabu dasibi jau dua vanunbunven, jabiaskadidan, javen jaibu\nbestimadan.\nArtículo 7\nXanen ibu bexmastun jancha pepa chibanma, yudabu ichaka vaya, javen xanen ibun jau\npevanunven.\nArtículo 8\nIchaka vaken, gobierno xanen ibubun jau medabe vanunbunven, dau vakinan.",
-            "Image": "a188b672415a98c153d90a383b1f4ef3"
+            "Text": "10 de diciembre de 1948 anu, xanen ibu ichapa ichaxun, na jancha kenenibuki. Xanen ibu\ntibin javen nabu jau yuinunven, na janchadan.\nJAVADA JUNIBUN MAl DASIBÍ AUN AKAIBUN, JATU NEMATIDUBUMAKI\nPreambulo\nAinbu inun juni yudakuinki, yuinakamadan. Jabiaskadi xinain, pepanametidubuki,\ndetenamemadan. Jaska xinanma, sinatakin, yuda betsa chakabu va, nuitapamisbuki.\nIkunkin, yuikin, xinain, xinan pepamisbuki, dateamadan.\nDetenamekatsi ikama, xanen ibubun jancha pepa jau chibanunbunven. Javen nabu jivea pepa\nuinmatidubuki. Dasibi jau medabenamenunbunven, jaibunameidan. Yudabu dasibi pepa\nxinain, juni inun ainbu jau dua vanunbunven, jabiaskadi vakinan. Yuda dasibi pe\njivenunbunan. Jaska xinankin, xanen ibun javen nabu pepa vakatsi imiski.\nJaskaven taexun, yuda dasibibun unayan, xanen ibubu ichapa ichaxun, na jancha\nkenenibuki.\nArtículo 1\nYudabu dasibi jabiaskadi akin, xinantidubuki. Javen taea jau jaibunamenunbunven.\nArtículo 2\nNa jancha dasibibun atidubuki, yuda mexupabu, yuda taxipabu, yuda juxupabu jusia,\njancha betsa betsapabu, ikuain betsa betsapabu, baiyabu, baiumabu, jene betsa\nbetsapaven jiveabu, bekex betsa betsapaven jiveabu, na dasibi jau duanamenunbunven,\njabiaskadi vaidan.\nArtículo 3\nDasibi unanuma maniabun, juni betsa betsapan jau nemayamanunbunven.\nArtículo 4\nTsumavakin, dayamakin, java inamadan, chakabuki. Jau nemanunbunven.\nArtículo 5\nIchakanika chakabuki. Jau nemanunbunven.\nArtículo 6\nGobierno xanen ibubun yudabu dasibi jau dua vanunbunven, jabiaskadidan, javen jaibu\nbestimadan.\nArtículo 7\nXanen ibu bexmastun jancha pepa chibanma, yudabu ichaka vaya, javen xanen ibun jau\npevanunven.\nArtículo 8\nIchaka vaken, gobierno xanen ibubun jau medabe vanunbunven, dau vakinan."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
+            ],
+            "Image": "520efd237864f698cd4818cbbfd66fd3",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
-            ],
-            "Text": "Artículo 9\nChakabu xinankin, guardiabun achixun, jau bichiyamanunbunven. Jakia pe xinankin,\natiduki. Jabiaskadi achixun, mae betsanu jau nichinyamanunbunven.\nArtículo 10\nYuda betsan yuikin -Ja juni chakabuki -ivanan, kupimakatsi ika, gobierno xanen ibubun\njaven xinan pepa, ninkakin, ¿Jadatu pemen? akin, yukabaunkin, jau katununbunven,\nunankinan.\nArtículo 11\nJa dukun juni pepa xanen ibun jau uinunven. Xinanxun javen chakabu uinkin -Juni\nchakabuki -ixun, xinantiduki. -En peki -ixun, uinmakatsi ika, xanen ibun ja juní jau\nmedabe vanunven.\nArtículo 12\nJuni betsa jiveabu ichaka vatimaki. Unanma, juni betsa kidi chakabu yuitimaki. Unanma,\njuni betsa kidi chakabu vaken, xanen ibun jau nemanunven, medabe vakinan.\nArtículo 13\nJanida jivekatsi iki, itiduki. Javen mae jenebaini, katiduki. Xinan ana jukatsi iki,\njutiduki.\nArtículo 14\nJaven mae anu ichaka vaya, mae betsa anu ka, janu unanuma jívetiduki.\nArtículo 15\nDasibi mae jayabuki. Chakabu jayamaken, xanen ibun nichintidumaki.\nArtículo 16\nJunin ainbu eva ain vantiduki. Ainbun juni eva bene vatiduki. Ja dabe jabiaskadi\nitiduki.\nJa dabe bechipainamei, beneyamiski. Bechipaiamaken, bimatimaki.\nJaven nabubes jivea, peki. Javen nabuuma, unanuma jivetidubumaki. Javen nabu xanen ibun\njau mekenunven.\nArtículo 17\nDasibi bai jayatidubuki. Pakamaxun, gobierno jatu mebintidumaki.\nArtículo 18\nJavada ikuankin, yuikin, yusinkin, ken vankin, juni betsa ichaka vama, itidubuki. Jau\nnemayamanunbunven.\nArtículo 19\nDasibi xinankin, javada xinankin, juni betsa ichaka vama, yuitidubuki. Xanen ibubun jau",
-            "Image": "520efd237864f698cd4818cbbfd66fd3"
+            "Text": "Artículo 9\nChakabu xinankin, guardiabun achixun, jau bichiyamanunbunven. Jakia pe xinankin,\natiduki. Jabiaskadi achixun, mae betsanu jau nichinyamanunbunven.\nArtículo 10\nYuda betsan yuikin -Ja juni chakabuki -ivanan, kupimakatsi ika, gobierno xanen ibubun\njaven xinan pepa, ninkakin, ¿Jadatu pemen? akin, yukabaunkin, jau katununbunven,\nunankinan.\nArtículo 11\nJa dukun juni pepa xanen ibun jau uinunven. Xinanxun javen chakabu uinkin -Juni\nchakabuki -ixun, xinantiduki. -En peki -ixun, uinmakatsi ika, xanen ibun ja juní jau\nmedabe vanunven.\nArtículo 12\nJuni betsa jiveabu ichaka vatimaki. Unanma, juni betsa kidi chakabu yuitimaki. Unanma,\njuni betsa kidi chakabu vaken, xanen ibun jau nemanunven, medabe vakinan.\nArtículo 13\nJanida jivekatsi iki, itiduki. Javen mae jenebaini, katiduki. Xinan ana jukatsi iki,\njutiduki.\nArtículo 14\nJaven mae anu ichaka vaya, mae betsa anu ka, janu unanuma jívetiduki.\nArtículo 15\nDasibi mae jayabuki. Chakabu jayamaken, xanen ibun nichintidumaki.\nArtículo 16\nJunin ainbu eva ain vantiduki. Ainbun juni eva bene vatiduki. Ja dabe jabiaskadi\nitiduki.\nJa dabe bechipainamei, beneyamiski. Bechipaiamaken, bimatimaki.\nJaven nabubes jivea, peki. Javen nabuuma, unanuma jivetidubumaki. Javen nabu xanen ibun\njau mekenunven.\nArtículo 17\nDasibi bai jayatidubuki. Pakamaxun, gobierno jatu mebintidumaki.\nArtículo 18\nJavada ikuankin, yuikin, yusinkin, ken vankin, juni betsa ichaka vama, itidubuki. Jau\nnemayamanunbunven.\nArtículo 19\nDasibi xinankin, javada xinankin, juni betsa ichaka vama, yuitidubuki. Xanen ibubun jau"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
+            ],
+            "Image": "780fc645564bdb20564ec96bc6c29543",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
-            ],
-            "Text": "nemayamanunbunven.\nArtículo 20\nIkatsi iki, dasibi ichatidubuki. Ikatsi ikamaken, jatu icha vayamanunbunven.\nArtículo 21\nMae tibi anu, dasibibun javen xanen ibu jau kabenunbunven. Xanen ibubun yuda tibi jau\nmedabe vanunbunven, jabiaskadi vakinan.\nArtículo 22\nJuni yusinan inun juni dauya inankin, padanaibu nemakin, xanen ibubun yuda tibi jau\nmedabe vanunbunven. Jaskaven taea unanuma dasibi evatidubuki.\nArtículo 23\nDasibi jau dayanunbunven. Javada dayakatsi iki, itidubuki. Daya jayamaken, xanen ibu\nakin, dayamatidubuki.'\nJuni dabe jabias dayaken, jabiaskadi jau pakanunven, padanmadan.\nJavada bikatsi ikin, bia, javen daya pei ikamaken, chakabuki. Xanen ibubun jau medabe\nvanunbunven.\nAkatsi ikin, Cooperativo icha vatidubuki.\nArtículo 24\nDasibi beyustidubuki, dayabestimadan.\nArtículo 25\nPiti inun, tadi inun, jive inun, dau inun, yusinanan, dasibi bikatsi ikaibun,\njayamaken, xanen ibubun jau medabe vanunbunven.\nAinbu bakeya xanen ibubun pepa vakin, jau medabe vanunbunven.\nArtículo 26\nDasibi escuelanu butidubuki. Bakemixtibu escuelanu jau bununbunven, pakamadan.\nDasibitun kene pe jaida vai, escuela anua evatiduki. Keneama, ana escuelanu\njikitidubumaki. Juni betsa dua vakín, escuelanu jau tapinunbunven jaibu keskaidan.\nArtículo 27\nJaven nabu ichaya, dasibi ichatidubuki. Juni bestichai nematidubumaki.\nJavada junin akin, javen pepa javenaki. Juni betsan jau yumetsuyamanunven.\nArtículo 28\nJaska na jancha yuia, janida unanuma jivekin, dasibi bikatsis ikikiki.\nArtículo 29\nDasibi javen mae jau dayaxununbunven.",
-            "Image": "780fc645564bdb20564ec96bc6c29543"
+            "Text": "nemayamanunbunven.\nArtículo 20\nIkatsi iki, dasibi ichatidubuki. Ikatsi ikamaken, jatu icha vayamanunbunven.\nArtículo 21\nMae tibi anu, dasibibun javen xanen ibu jau kabenunbunven. Xanen ibubun yuda tibi jau\nmedabe vanunbunven, jabiaskadi vakinan.\nArtículo 22\nJuni yusinan inun juni dauya inankin, padanaibu nemakin, xanen ibubun yuda tibi jau\nmedabe vanunbunven. Jaskaven taea unanuma dasibi evatidubuki.\nArtículo 23\nDasibi jau dayanunbunven. Javada dayakatsi iki, itidubuki. Daya jayamaken, xanen ibu\nakin, dayamatidubuki.'\nJuni dabe jabias dayaken, jabiaskadi jau pakanunven, padanmadan.\nJavada bikatsi ikin, bia, javen daya pei ikamaken, chakabuki. Xanen ibubun jau medabe\nvanunbunven.\nAkatsi ikin, Cooperativo icha vatidubuki.\nArtículo 24\nDasibi beyustidubuki, dayabestimadan.\nArtículo 25\nPiti inun, tadi inun, jive inun, dau inun, yusinanan, dasibi bikatsi ikaibun,\njayamaken, xanen ibubun jau medabe vanunbunven.\nAinbu bakeya xanen ibubun pepa vakin, jau medabe vanunbunven.\nArtículo 26\nDasibi escuelanu butidubuki. Bakemixtibu escuelanu jau bununbunven, pakamadan.\nDasibitun kene pe jaida vai, escuela anua evatiduki. Keneama, ana escuelanu\njikitidubumaki. Juni betsa dua vakín, escuelanu jau tapinunbunven jaibu keskaidan.\nArtículo 27\nJaven nabu ichaya, dasibi ichatidubuki. Juni bestichai nematidubumaki.\nJavada junin akin, javen pepa javenaki. Juni betsan jau yumetsuyamanunven.\nArtículo 28\nJaska na jancha yuia, janida unanuma jivekin, dasibi bikatsis ikikiki.\nArtículo 29\nDasibi javen mae jau dayaxununbunven."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
+            ],
+            "Image": "8e0fba2f7107db074a7c419580873828",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 12.096)}"
-            ],
-            "Text": "Javada akin, juni betsa jau ichaka vayamanunbunven.\nXanen ibubu ichaxun, yuiniken, ninkaxun, chakabu jau vayamanunbunven.\nArtículo 30\nNa jancha ninkaxun -En ichaka vatiduki -ivanan jau xinanyamanunbunven.",
-            "Image": "8e0fba2f7107db074a7c419580873828"
+            "Text": "Javada akin, juni betsa jau ichaka vayamanunbunven.\nXanen ibubu ichaxun, yuiniken, ninkaxun, chakabu jau vayamanunbunven.\nArtículo 30\nNa jancha ninkaxun -En ichaka vatiduki -ivanan jau xinanyamanunbunven."
         }
     }
 }

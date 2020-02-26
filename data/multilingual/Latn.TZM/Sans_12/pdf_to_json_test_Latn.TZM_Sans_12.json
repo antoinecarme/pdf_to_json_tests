@@ -1,99 +1,99 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581471145,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
+            ],
+            "Image": "f29d14495b6f98c7903248db25a8182c",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "TIṢ ERRIḤ T TAGRAGHLANT IZERFAN N WEMDAN\nYesbudan d yesse ran deg wegraw amatu seg use ti-s 217 A. (III) di 10 dujember 1948\nANAKCHAM\nImi asmussen n lḥ werma i ttalasen akkw yâggalen n twachult talsawt d yizerfan n sen yemsawan, d nitni i d llsas n tlelli, taghdemt akkw d-\ntifrat deg wmadal (di ddunit).\nImi kra n widn nesmussun ara izerfan n wemdan d widn iḥ eqqren s lkhwedm n lewḥ uch yesserfayen tamsakwit n talsa akkw d- tlilin umadal\nand'ara hedren u and'ara yamnen yemdanen s tlelli idg ur yelli la aseṛ heb la lmizirya, d nettat i d asirem âlayan n wemdan.\nImi tebbwi - dd nnig kra yellan ad ttuḥ udden izerfan n wemdan s nnidam azerfan i wakkn ur yettuḥ errs ara wemdan di taggara alamma yughal\nd amnafeg ḍ add temḥ eqranit akkw d unaghur.\nImi yessefk ad tennerni tegmi d wassaghen n tmidwa d lemḥ ibba gar yeghlanen.\nImi di lqanun izerfan n wemdan imudan n ledjnas yedduklen berrḥ en i tikkelt tajḍ idt laman n sen deg zerfan ilsasiyen n wemdan di ccherf akkw\nd wazal n bnadem di tugdut izerfan n tulawin d yergazen u berrḥ en belli qeṣ den ad snernin aqeddem amgarwan u ad sbed'den tigwnatin\ntimenyafin n tudert di tlelli yettimghuren.\nImi, timura yetteskin di ledjnas yedduklen lezment iman n sent ad myallent (ad mmâwanent) i wakken ad demnent nitenti d-tuddsa n ledjnas\nyedduklen, di mkull timura leqder aheqqani izerfan n wemdan akkw tlella tilsasiyin.\nImi afham amechruk n tlella d yizerfan agi degs lqima tameqwrant i wakken ad uqment leqder tmura leqder i lâhd n sent.\nTajmâit tamatawt\nTberreḥ belli tiṣ erriḥ t agi tagraghlant izerfan n wemdan d anawad amechruk igher ssaramen imudan d yeghlanen akken ma llan i wakken akkw\nyemdanen d yâggaln n temgarwa i glan (i ges an) dima tiṣ erriḥ t agi di lbal n sen, ad skhedmen akkw lmedjhud n sen, s leqraya d ttṛ ebga i\nwakkn ad senernin aqader n tlella d yizerfan agi u ad demnen s ttawilat idd iteddun s lâqel, (wa deffir wa) deg wennar aghelnaw d ugraghlan\nasmussen d usnefḍ es igraghlanen iḥ eqqaniyen gar imezdaghen n ddulat tâggalin s timmad n sent nagh gar yimezdaghen n tmizar i gellan ddaw\nlhwekm n sent aghedman.\nTamadda 1:\nImdanen, akken ma llan ttlalen d ilelliyen msawan di lḥ weṛ ma d yizerfan- ghur sen tamsakwit d lâquel u yessefk ad-tili tegmatt gar asen.\nTamadda 2:\nKull yiwen ghur-s lḥ eqq ad ighellat tilella d yizerfan idd yeddan di tṣ erriḥ t agi bla tarayit idd yettasen si cchetla, d llun, d ldjens d tutlait, d ddin",
-            "Image": "f29d14495b6f98c7903248db25a8182c"
+            "Text": "TIṢ ERRIḤ T TAGRAGHLANT IZERFAN N WEMDAN\nYesbudan d yesse ran deg wegraw amatu seg use ti-s 217 A. (III) di 10 dujember 1948\nANAKCHAM\nImi asmussen n lḥ werma i ttalasen akkw yâggalen n twachult talsawt d yizerfan n sen yemsawan, d nitni i d llsas n tlelli, taghdemt akkw d-\ntifrat deg wmadal (di ddunit).\nImi kra n widn nesmussun ara izerfan n wemdan d widn iḥ eqqren s lkhwedm n lewḥ uch yesserfayen tamsakwit n talsa akkw d- tlilin umadal\nand'ara hedren u and'ara yamnen yemdanen s tlelli idg ur yelli la aseṛ heb la lmizirya, d nettat i d asirem âlayan n wemdan.\nImi tebbwi - dd nnig kra yellan ad ttuḥ udden izerfan n wemdan s nnidam azerfan i wakkn ur yettuḥ errs ara wemdan di taggara alamma yughal\nd amnafeg ḍ add temḥ eqranit akkw d unaghur.\nImi yessefk ad tennerni tegmi d wassaghen n tmidwa d lemḥ ibba gar yeghlanen.\nImi di lqanun izerfan n wemdan imudan n ledjnas yedduklen berrḥ en i tikkelt tajḍ idt laman n sen deg zerfan ilsasiyen n wemdan di ccherf akkw\nd wazal n bnadem di tugdut izerfan n tulawin d yergazen u berrḥ en belli qeṣ den ad snernin aqeddem amgarwan u ad sbed'den tigwnatin\ntimenyafin n tudert di tlelli yettimghuren.\nImi, timura yetteskin di ledjnas yedduklen lezment iman n sent ad myallent (ad mmâwanent) i wakken ad demnent nitenti d-tuddsa n ledjnas\nyedduklen, di mkull timura leqder aheqqani izerfan n wemdan akkw tlella tilsasiyin.\nImi afham amechruk n tlella d yizerfan agi degs lqima tameqwrant i wakken ad uqment leqder tmura leqder i lâhd n sent.\nTajmâit tamatawt\nTberreḥ belli tiṣ erriḥ t agi tagraghlant izerfan n wemdan d anawad amechruk igher ssaramen imudan d yeghlanen akken ma llan i wakken akkw\nyemdanen d yâggaln n temgarwa i glan (i ges an) dima tiṣ erriḥ t agi di lbal n sen, ad skhedmen akkw lmedjhud n sen, s leqraya d ttṛ ebga i\nwakkn ad senernin aqader n tlella d yizerfan agi u ad demnen s ttawilat idd iteddun s lâqel, (wa deffir wa) deg wennar aghelnaw d ugraghlan\nasmussen d usnefḍ es igraghlanen iḥ eqqaniyen gar imezdaghen n ddulat tâggalin s timmad n sent nagh gar yimezdaghen n tmizar i gellan ddaw\nlhwekm n sent aghedman.\nTamadda 1:\nImdanen, akken ma llan ttlalen d ilelliyen msawan di lḥ weṛ ma d yizerfan- ghur sen tamsakwit d lâquel u yessefk ad-tili tegmatt gar asen.\nTamadda 2:\nKull yiwen ghur-s lḥ eqq ad ighellat tilella d yizerfan idd yeddan di tṣ erriḥ t agi bla tarayit idd yettasen si cchetla, d llun, d ldjens d tutlait, d ddin"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
+            ],
+            "Image": "eae0e331e20bc76c01d531a5a15429e4",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "d ṛ r ̣ ay asiyasi nagh ṛ r ̣ ay iḍ en i gerzan lasl aghelnaw, tamgarwa, aila talalit nagh liḥ ala n iḍ en yehwa yas d argaz nagh d-tameṭ t ̣ ut.\nRnu gher-s, ur ilaq ara ad-tili trayit yebnan ghef liḥ ala tasiyasit, taghedmawt nagh tagraghlant n tmurt nagh n temnadt ideg yezdegh wemdan\nyehwa yas tella tmurt agi nagh temnadt agi d- talellit nagh ddaw lewkala, nagh ur tehkim ara deg yiman is nagh ur tekmil ara tlelli ines.\nTamadda 3:\nKull amdan ghur es lḥ eqq n tudert, tilelli d laman ghef timmad is.\nTamadda 4:\nUr ilaqar a ad yughal wemdan d akli nagh d aqeddach n wemdan iden. Tasakla d uzenzi n waklan ttuḥ eṛ r ̣ men maḍ i.\nTamadda 5:\nUr ilaqara ad yettuselleṭ ghef umdan uâqeb nagh ssikis d- teghriwin yesnughbuyen, itekksen fell as sser.\nTamadda 6:\nAng'is yehwa yili wemdan, ghur s lḥ eqq ad yettwag leqder i timmadit is taghedmawt.\nTamadda 7:\nAkkw indamen msawan zdat lqanun u ghur sen lḥ eqq bla afraz i wakkn atn iḥ udd lqanun - ghur sen irkwelli lḥ eqq i uḥ uddu, akken ma llan\nḍ edd tarayit ur nwufq ara tiṣ erriḥ t agi.\nTamadda 8:\nKull amdan ghur-s lḥ eqq ad ichetki i tnehkamin tighelnawin yettuk'ellfen i wakkn ad fkent lḥ eqq ḍ edd tneḥ yafin ur nettqadar ara izerfan\nilsasiyen is yettak udustur d lqanun.\nTamadda 9:\nUla d yiwen ur yezmir ad yettwaṭ t ̣ ef, nagh ad yettwaḥ bes nagh ad yet twanfu s ldjur.\nTamadda 10:\nKull amdan ghur-s lḥ eqq ad-tâddi tluft is zdat tnehkamt, âinani, bla tneḥ yaft i wakkn ad - tseyyi ma seḥ h ̣ ant telzimin is d yizerfan is nagh ma d-\ntidett wayn - idd gren fell as deg wennar n lâqubat.\nTamadda 11:\nKra n win yettutéhmen s ssiya ad yettwaḥ seb d imzekki alama yettuṣ eḥ h ̣ eh s lâdel ddenb idd gren fell as, âinani, zdat tnaḥ kamt and'ara\nyettwadmen akkw wayn i glaqen i uḥ uddu ines.",
-            "Image": "eae0e331e20bc76c01d531a5a15429e4"
+            "Text": "d ṛ r ̣ ay asiyasi nagh ṛ r ̣ ay iḍ en i gerzan lasl aghelnaw, tamgarwa, aila talalit nagh liḥ ala n iḍ en yehwa yas d argaz nagh d-tameṭ t ̣ ut.\nRnu gher-s, ur ilaq ara ad-tili trayit yebnan ghef liḥ ala tasiyasit, taghedmawt nagh tagraghlant n tmurt nagh n temnadt ideg yezdegh wemdan\nyehwa yas tella tmurt agi nagh temnadt agi d- talellit nagh ddaw lewkala, nagh ur tehkim ara deg yiman is nagh ur tekmil ara tlelli ines.\nTamadda 3:\nKull amdan ghur es lḥ eqq n tudert, tilelli d laman ghef timmad is.\nTamadda 4:\nUr ilaqar a ad yughal wemdan d akli nagh d aqeddach n wemdan iden. Tasakla d uzenzi n waklan ttuḥ eṛ r ̣ men maḍ i.\nTamadda 5:\nUr ilaqara ad yettuselleṭ ghef umdan uâqeb nagh ssikis d- teghriwin yesnughbuyen, itekksen fell as sser.\nTamadda 6:\nAng'is yehwa yili wemdan, ghur s lḥ eqq ad yettwag leqder i timmadit is taghedmawt.\nTamadda 7:\nAkkw indamen msawan zdat lqanun u ghur sen lḥ eqq bla afraz i wakkn atn iḥ udd lqanun - ghur sen irkwelli lḥ eqq i uḥ uddu, akken ma llan\nḍ edd tarayit ur nwufq ara tiṣ erriḥ t agi.\nTamadda 8:\nKull amdan ghur-s lḥ eqq ad ichetki i tnehkamin tighelnawin yettuk'ellfen i wakkn ad fkent lḥ eqq ḍ edd tneḥ yafin ur nettqadar ara izerfan\nilsasiyen is yettak udustur d lqanun.\nTamadda 9:\nUla d yiwen ur yezmir ad yettwaṭ t ̣ ef, nagh ad yettwaḥ bes nagh ad yet twanfu s ldjur.\nTamadda 10:\nKull amdan ghur-s lḥ eqq ad-tâddi tluft is zdat tnehkamt, âinani, bla tneḥ yaft i wakkn ad - tseyyi ma seḥ h ̣ ant telzimin is d yizerfan is nagh ma d-\ntidett wayn - idd gren fell as deg wennar n lâqubat.\nTamadda 11:\nKra n win yettutéhmen s ssiya ad yettwaḥ seb d imzekki alama yettuṣ eḥ h ̣ eh s lâdel ddenb idd gren fell as, âinani, zdat tnaḥ kamt and'ara\nyettwadmen akkw wayn i glaqen i uḥ uddu ines."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
+            ],
+            "Image": "c9db9e566f87667eb98e6ffdb0d91351",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "Ula d yiwen ur yettwaḥ kam ara fell as ma yekh dem kra n ssiya yettuḥ eṛ r ̣ men nagh ma iferreṭ di kra iwudjben fell as ma yella di tallit ni ayn idd\ngren fell as ur ikhulfara lqanun aghelnaw nagh agraghlan, yerna lâquba ur d as-dd yettak ara ad - tagwar tin is i gḥ ekkm lqanun di tallit ideg\nteḍ ra ssiya.\nTamadda 12:\nUr yezmir ḥ edd ad yessekchem iman is s ldjur di tudert n wemdan, di twachult is; deg wekkham is, timuzniwin is nagh ad yessims lḥ werma-s d\nnnif is; kull amdan ghur-s lḥ eqq at iḥ udd lqanun si tiytiwin yechban tigi.\nTamadda 13:\nKull amdan ghur-s lḥ eqq ad yelḥ u s tlelli u ad yekhtir tanezdught di tmurt is.\nKull amdan ghur-s lḥ eqq ad yeffegh si yall tamurt ghas d - tamurt is u ma yehwa yas yezmer ad yughal ghur es.\nTamadda 14:\nMa yella yettwaḥ r ̣ es wemdan s ldjur, ghur-s lḥ eqq ad yesdari iman is u ad ighellet lânaya n tmura iḍ en.\nAmâni ur d-as-dd tebbw ara ad ighellet lḥ eqq agi ma yella yekhdem ssiya ikhulfen lqanun amechruk nagh ayn ur nwufq ara inawaḍ en d\nyimenzayen n tmura yedduklen.\nTamadda 15:\nKull amdan ghur-s lḥ eqq i tghelna is yehwan.\nUr d-as yettwakkes i yiwen s ldjur la taghelna ines la lḥ eqq ubeddel n tghelna.\nTamadda 16:\nMi geblegh weqchich nagh teqchicht, ghur sen lḥ eqq ad zewdjen i wakkn ad bnum tawachult bla ma yettuqegged lḥ eqq gi s cchetla, taghelna,\nnagh ddiyana msawan deg zerfen m'ara zewdjen, nad'am zewdjen nagh m'ara yefsekh zzwadj.\nUr yettili zzwady alamma s lebghi d umyeqbel ukmil n wergaz d- tmettut.\nTawachult d-tagwejdit talemmast n temgarwa, ghur-s lḥ eqq att thudd temgarwa d ddula.\nTamadda 17:\nAmdan yehwa yas weḥ d-es nagh d amezday ghur-s lḥ eqq ad yekseb aila.\nYiwen ur yezmir ad yettuḥ eṛ r ̣ em seg waila-s.\nTamadda 18:",
-            "Image": "c9db9e566f87667eb98e6ffdb0d91351"
+            "Text": "Ula d yiwen ur yettwaḥ kam ara fell as ma yekh dem kra n ssiya yettuḥ eṛ r ̣ men nagh ma iferreṭ di kra iwudjben fell as ma yella di tallit ni ayn idd\ngren fell as ur ikhulfara lqanun aghelnaw nagh agraghlan, yerna lâquba ur d as-dd yettak ara ad - tagwar tin is i gḥ ekkm lqanun di tallit ideg\nteḍ ra ssiya.\nTamadda 12:\nUr yezmir ḥ edd ad yessekchem iman is s ldjur di tudert n wemdan, di twachult is; deg wekkham is, timuzniwin is nagh ad yessims lḥ werma-s d\nnnif is; kull amdan ghur-s lḥ eqq at iḥ udd lqanun si tiytiwin yechban tigi.\nTamadda 13:\nKull amdan ghur-s lḥ eqq ad yelḥ u s tlelli u ad yekhtir tanezdught di tmurt is.\nKull amdan ghur-s lḥ eqq ad yeffegh si yall tamurt ghas d - tamurt is u ma yehwa yas yezmer ad yughal ghur es.\nTamadda 14:\nMa yella yettwaḥ r ̣ es wemdan s ldjur, ghur-s lḥ eqq ad yesdari iman is u ad ighellet lânaya n tmura iḍ en.\nAmâni ur d-as-dd tebbw ara ad ighellet lḥ eqq agi ma yella yekhdem ssiya ikhulfen lqanun amechruk nagh ayn ur nwufq ara inawaḍ en d\nyimenzayen n tmura yedduklen.\nTamadda 15:\nKull amdan ghur-s lḥ eqq i tghelna is yehwan.\nUr d-as yettwakkes i yiwen s ldjur la taghelna ines la lḥ eqq ubeddel n tghelna.\nTamadda 16:\nMi geblegh weqchich nagh teqchicht, ghur sen lḥ eqq ad zewdjen i wakkn ad bnum tawachult bla ma yettuqegged lḥ eqq gi s cchetla, taghelna,\nnagh ddiyana msawan deg zerfen m'ara zewdjen, nad'am zewdjen nagh m'ara yefsekh zzwadj.\nUr yettili zzwady alamma s lebghi d umyeqbel ukmil n wergaz d- tmettut.\nTawachult d-tagwejdit talemmast n temgarwa, ghur-s lḥ eqq att thudd temgarwa d ddula.\nTamadda 17:\nAmdan yehwa yas weḥ d-es nagh d amezday ghur-s lḥ eqq ad yekseb aila.\nYiwen ur yezmir ad yettuḥ eṛ r ̣ em seg waila-s.\nTamadda 18:"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
+            ],
+            "Image": "3e7fd1e8fac91f485d97b9554eda1235",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "Kull amdan ghur-s lḥ eqq i tlelli n tedmi, tamsakwit d ddiyana, lḥ eqq agi tetteski deg-s tlelli ubeddel n ddiyana akkw d wayn is yettamen, wehd\nes nagh gar medden âinani nagh di sser, s uselmed s tegdimin, s wâbâd d umares n lemdaheb.\nTamadda 19:\nKull amdan ghur-s lḥ eqq n tlelli di ṛ r ̣ ay d lmenṭ eq anda yetteski lḥ eqq ubeggen n ṛ r ̣ ay bla ma yettuchebbwel u daghen tebbwi yas-dd ad inadi,\nad yeṭ t ̣ ef, u ad yefser di yall tamurt isallen d- tedmiwin s yall ttawil n wenṭ aq.\nTamadda 20:\nKull amdan ghur-s lḥ eqq i unejmâ akkw d- tdukla di tifrat.\nYiwen ur yezmir ad yettuḥ ettem i wakken ad yetteski di tdukla.\nTamadda 21:\nKull amdan ghur-s lḥ eqq ad yetteski deg wselḥ uy n temsal n bailek n tmurt is, ama netta s timmad is, nagh s win yekhtar d amtil is.\nKull amdan ghur-s lḥ eqq amm netta am wiyad ad yettef amkan di lḥ irfat n bailek n tmurt is.\nLirad umadan d nettat i d llsas n lhiba n lehkwem n bailek- yessefk add tban s tefrant zeddigen idg ara tteskin meddn irkwelli u ara yilin si\nlweqt aar wayeḍ di tugdut d sser nagh s ttawil iḍ en it yechban ara iḍ emnen tilellli n tefrant.\nTamadda 22:\nKull amdan yetteskin di temgarwa ghur-s lḥ eqq di laman amgarwan gqes den ad ikafi izerfan is isagrawen imgarwanen d yidelsanen imsefken i\nlḥ weṛ ma d usegmi alelli n timmadit is s tejmilt n lmedjhud aghelnaw d umyalli agraghlan s wayn ara yembwafaqen netta d nniḍ am d lerzaq n\nkull tamurt.\nTamadda 23:\nKull amdan ghur-s lḥ eqq i ikheddim ara yekhtir akkn is yehwa s cchurut n lâdel imsefṛ aḥ en ar'at iḍ emmen ghef ticchumert.\nImdanen akken ma llan ghur sen lḥ eqq bla tarayit i tjernanin yemsawan ghef ikheddimen yemsawen.\nKra n win ikheddmen ghur-s lḥ eqq i tjernant taḥ eqqit, timsefreḥ t ar'as iḍ emnen i netta d twachult is tudert iwufqen lḥ weṛ ma n wemdan ara\nyettuk'emmlen ma yebgha lḥ al, s kra n ttawil iden uḥ uddu amgarwan.\nKull amdan ghur-s lḥ eqq ad yessebded netta d wiyaḍ tidukliwin ikheddamen nagh ad icharek di tdukla ara iḥ udden lmeslaha ines.\nTamadda 24:\nKull amdan ghur-s lḥ eqq i rraha d- tukksa n lkhiq (d ugunfu) u ladgha di lḥ edd iqebbel lâqel n lweqt ikheddim akkw di ttriḥ yettwakhelsen, si",
-            "Image": "3e7fd1e8fac91f485d97b9554eda1235"
+            "Text": "Kull amdan ghur-s lḥ eqq i tlelli n tedmi, tamsakwit d ddiyana, lḥ eqq agi tetteski deg-s tlelli ubeddel n ddiyana akkw d wayn is yettamen, wehd\nes nagh gar medden âinani nagh di sser, s uselmed s tegdimin, s wâbâd d umares n lemdaheb.\nTamadda 19:\nKull amdan ghur-s lḥ eqq n tlelli di ṛ r ̣ ay d lmenṭ eq anda yetteski lḥ eqq ubeggen n ṛ r ̣ ay bla ma yettuchebbwel u daghen tebbwi yas-dd ad inadi,\nad yeṭ t ̣ ef, u ad yefser di yall tamurt isallen d- tedmiwin s yall ttawil n wenṭ aq.\nTamadda 20:\nKull amdan ghur-s lḥ eqq i unejmâ akkw d- tdukla di tifrat.\nYiwen ur yezmir ad yettuḥ ettem i wakken ad yetteski di tdukla.\nTamadda 21:\nKull amdan ghur-s lḥ eqq ad yetteski deg wselḥ uy n temsal n bailek n tmurt is, ama netta s timmad is, nagh s win yekhtar d amtil is.\nKull amdan ghur-s lḥ eqq amm netta am wiyad ad yettef amkan di lḥ irfat n bailek n tmurt is.\nLirad umadan d nettat i d llsas n lhiba n lehkwem n bailek- yessefk add tban s tefrant zeddigen idg ara tteskin meddn irkwelli u ara yilin si\nlweqt aar wayeḍ di tugdut d sser nagh s ttawil iḍ en it yechban ara iḍ emnen tilellli n tefrant.\nTamadda 22:\nKull amdan yetteskin di temgarwa ghur-s lḥ eqq di laman amgarwan gqes den ad ikafi izerfan is isagrawen imgarwanen d yidelsanen imsefken i\nlḥ weṛ ma d usegmi alelli n timmadit is s tejmilt n lmedjhud aghelnaw d umyalli agraghlan s wayn ara yembwafaqen netta d nniḍ am d lerzaq n\nkull tamurt.\nTamadda 23:\nKull amdan ghur-s lḥ eqq i ikheddim ara yekhtir akkn is yehwa s cchurut n lâdel imsefṛ aḥ en ar'at iḍ emmen ghef ticchumert.\nImdanen akken ma llan ghur sen lḥ eqq bla tarayit i tjernanin yemsawan ghef ikheddimen yemsawen.\nKra n win ikheddmen ghur-s lḥ eqq i tjernant taḥ eqqit, timsefreḥ t ar'as iḍ emnen i netta d twachult is tudert iwufqen lḥ weṛ ma n wemdan ara\nyettuk'emmlen ma yebgha lḥ al, s kra n ttawil iden uḥ uddu amgarwan.\nKull amdan ghur-s lḥ eqq ad yessebded netta d wiyaḍ tidukliwin ikheddamen nagh ad icharek di tdukla ara iḥ udden lmeslaha ines.\nTamadda 24:\nKull amdan ghur-s lḥ eqq i rraha d- tukksa n lkhiq (d ugunfu) u ladgha di lḥ edd iqebbel lâqel n lweqt ikheddim akkw di ttriḥ yettwakhelsen, si"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
+            ],
+            "Image": "0818a2fa290a7558ad82016a3e432597",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "lewqt aar wayeḍ .\nTamadda 25:\nKull amdam ghur-s lḥ eqq i lmizan n tudert ar'at iqidden i ṭ t ̣ mana n tṣ eḥ iḥ t is (n tezmert is), liser ines akkw d- twachult is, ladgha i isafarn n\ntuççit, llebsa, tanezdught, adawi timezgiwin (tijmilin) timgarwiyin ilaqen, ghur-s lḥ eqq i ṭ t ̣ mana ma ur ikheddmara, ma yuḍ en, ma yella d\nanâibu nagh d adjjal, nagh d awesran nagh kra n yimi ar d as ruḥ ent ttawilat n tudert ma yekka-dd waya nnig tezmert is;\nTiyemmatin d yigwerdan ghur sen lḥ eqq i tallalt (lmâwna) d uḥ uddu ikhsusiyen. Akkw igwerdan ilulen di zzwadj nagh beṛ r ̣ a n zzwadj ghur sen\nlḥ eqq yemsawan di tussṛ a (ṭ t ̣ mana) tamgarwant.\nTamadda 26:\nKull amdan ghur-s lḥ eqq di leqraya ur nessefk ara fell as lekhlaṣ ladgha leqraya tamenzut akkw d- telsasit. Leqraya tamenzut d- tamelzumt,\nleqraya tatiqnit d uselmed n lhirfat yessefk ad ilin d imatawen, tabburt unekchum gher tlumdiwin tunnigin (âlayen) yessefk ad-tili s lâdel i\nmeddn irkwelli ghef lehsab n wakken ẓ ewren.\nTtrebga yessefk ad- tessiweḍ ghr usefti n timmadit d usedjhed n leqder izerfan n wemdan akkw d tlella tilsasiyin, tebbwi-dd ad- tweṣ s ̣ i ghef\nusefhem d umsameh d lemhibba gar tmura akken ma llant d yimudan d ddiyanat i tuttfa n lehna.\nImawlan ghur sen lḥ eqq d imezwura ad khtiren ṣ s ̣ enf n ttrebga ara fken i warraw n sen.\nTamadda 27:\nKull amdan ghur-s lḥ eqq ad yetteski ma yebgha di tmeddurt tadelsant n tmurt is, ad yestummen i lfenn (tazuri) akkw d tegmi n tussna d wayen\nidd ttaken n lfaida.\nKull amdan ghur-s lḥ eqq uḥ uddu n lfaida ines tanamkawt akkw d- tmaddawt idd yekkan seg wayn idd yesnulfa di tussna, di tmedyazt (tasekla)\nnagh di lfenn.\nTamadda 28:\nKull amdan ghur-s lḥ eqq deg wennar amgarwan nagh deg wennar agraghlan i wakken ad yili nniḍ am yechban izerfan akkw tlella idd yeddan di\ntṣ erriḥ t agi lfaida d unawaḍ n sen.\nTamadda 29:\nAmdan ghur-s lwadjeb i wegdud idg i gemken ala deg-s kan, unerni ukmil n timmadit is.\nDeg wmares izerfan is d ughellet n tlella ines, kull yiwen ur ikennu ala ddaw leqyud i gerṣ em lqanun wehd es i wakken ad yedmen asmussen d\nuqader izerfan d tlella n lghir is u daghen i wakken tisutriwin tighedmawin n wedyaz d nniḍ am n bailek d liser amataw dit emgarwa tagdudant",
-            "Image": "0818a2fa290a7558ad82016a3e432597"
+            "Text": "lewqt aar wayeḍ .\nTamadda 25:\nKull amdam ghur-s lḥ eqq i lmizan n tudert ar'at iqidden i ṭ t ̣ mana n tṣ eḥ iḥ t is (n tezmert is), liser ines akkw d- twachult is, ladgha i isafarn n\ntuççit, llebsa, tanezdught, adawi timezgiwin (tijmilin) timgarwiyin ilaqen, ghur-s lḥ eqq i ṭ t ̣ mana ma ur ikheddmara, ma yuḍ en, ma yella d\nanâibu nagh d adjjal, nagh d awesran nagh kra n yimi ar d as ruḥ ent ttawilat n tudert ma yekka-dd waya nnig tezmert is;\nTiyemmatin d yigwerdan ghur sen lḥ eqq i tallalt (lmâwna) d uḥ uddu ikhsusiyen. Akkw igwerdan ilulen di zzwadj nagh beṛ r ̣ a n zzwadj ghur sen\nlḥ eqq yemsawan di tussṛ a (ṭ t ̣ mana) tamgarwant.\nTamadda 26:\nKull amdan ghur-s lḥ eqq di leqraya ur nessefk ara fell as lekhlaṣ ladgha leqraya tamenzut akkw d- telsasit. Leqraya tamenzut d- tamelzumt,\nleqraya tatiqnit d uselmed n lhirfat yessefk ad ilin d imatawen, tabburt unekchum gher tlumdiwin tunnigin (âlayen) yessefk ad-tili s lâdel i\nmeddn irkwelli ghef lehsab n wakken ẓ ewren.\nTtrebga yessefk ad- tessiweḍ ghr usefti n timmadit d usedjhed n leqder izerfan n wemdan akkw d tlella tilsasiyin, tebbwi-dd ad- tweṣ s ̣ i ghef\nusefhem d umsameh d lemhibba gar tmura akken ma llant d yimudan d ddiyanat i tuttfa n lehna.\nImawlan ghur sen lḥ eqq d imezwura ad khtiren ṣ s ̣ enf n ttrebga ara fken i warraw n sen.\nTamadda 27:\nKull amdan ghur-s lḥ eqq ad yetteski ma yebgha di tmeddurt tadelsant n tmurt is, ad yestummen i lfenn (tazuri) akkw d tegmi n tussna d wayen\nidd ttaken n lfaida.\nKull amdan ghur-s lḥ eqq uḥ uddu n lfaida ines tanamkawt akkw d- tmaddawt idd yekkan seg wayn idd yesnulfa di tussna, di tmedyazt (tasekla)\nnagh di lfenn.\nTamadda 28:\nKull amdan ghur-s lḥ eqq deg wennar amgarwan nagh deg wennar agraghlan i wakken ad yili nniḍ am yechban izerfan akkw tlella idd yeddan di\ntṣ erriḥ t agi lfaida d unawaḍ n sen.\nTamadda 29:\nAmdan ghur-s lwadjeb i wegdud idg i gemken ala deg-s kan, unerni ukmil n timmadit is.\nDeg wmares izerfan is d ughellet n tlella ines, kull yiwen ur ikennu ala ddaw leqyud i gerṣ em lqanun wehd es i wakken ad yedmen asmussen d\nuqader izerfan d tlella n lghir is u daghen i wakken tisutriwin tighedmawin n wedyaz d nniḍ am n bailek d liser amataw dit emgarwa tagdudant"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
+            ],
+            "Image": "002b888439d091e815397ea234ebbbf6",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
-            ],
-            "Text": "(tadimuqratit).\nIzerfan akkw d- tlella yagi, is yehwan yili, ur zmirn ara ad ttumarsen ḍ edd inawaḍ en d ỵ imenzayen, n tmura yedduklen.\nTamadda 30:\nUr telli tmadda di tṣ errḥ it agi i gzemren ad-tettwafhem d-tikchi n lḥ eqq i ddulla, nagh i wegdud nagh i wemdan i wakkn ad khedmen kra nagh\nad marsen igi i gqeṣ den aḥ uddu izerfan akkw d-tlella idd yeddan deg-s.",
-            "Image": "002b888439d091e815397ea234ebbbf6"
+            "Text": "(tadimuqratit).\nIzerfan akkw d- tlella yagi, is yehwan yili, ur zmirn ara ad ttumarsen ḍ edd inawaḍ en d ỵ imenzayen, n tmura yedduklen.\nTamadda 30:\nUr telli tmadda di tṣ errḥ it agi i gzemren ad-tettwafhem d-tikchi n lḥ eqq i ddulla, nagh i wegdud nagh i wemdan i wakkn ad khedmen kra nagh\nad marsen igi i gqeṣ den aḥ uddu izerfan akkw d-tlella idd yeddan deg-s."
         }
     }
 }

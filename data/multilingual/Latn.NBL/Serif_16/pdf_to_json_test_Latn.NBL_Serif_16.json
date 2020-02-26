@@ -1,80 +1,80 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581469614,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "43f101d7ada8cf415dbcc57f216a7e59",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "AMALUNGELO OMUNTU WONKE EMHLABENI WONKE JIKELELE\n[Missing: \"Preamble\"]\nLoba isimilo lenhlonipho lamalungelo agcweleyo oluntu kuyisisekelo senkululeko,\nlesokulunga lokuthula emhlabeni,\nLoba ukunganaki lokungahloniphi amalungelo abantu kubangele izenzo zocuku\noludabula inhliziyo lenembeza, kwadala umhlaba lapha abantu abangathola khona\ninjabulo lenkululeko yokuthi bakhulume bekhululekile bengesabi njalo kungekho\nubuyanga, konke lokhu kuphakanyiswa njengento eqakathekileyo ngabantu bonke,\nLoba ukuze umuntu angavuki umphenyana ngenxa yokucindezelwa, kufanele ukuthi\namalungelo abantu asekelwe ngumthetho,\nLoba kufanele ukukhulisa ubudlelwano phakathi kwezizwe,\nLoba abantu baMazwe aManyaneyo betshengise ukholo lwabo kumalungelo oluntu\nlokuhlonipha lokuqakathekisa umuntu emalungelweni alingeneyo lamalungelo\nalinganayo phakathi kwamadoda labafazi, lokuzimisela ukuthuthukisa\ningqubelaphambili lokuhlala kuhle kwabantu,\nLoba amazwe ami wodwa ezimisela uKumanyana laMazwe aManyaneyo ukuze\naqakathekise ukuhlonitshwa kwamalungelo abantu,\nLobanje ulwazi lwamalungelo blwenkululeko kuyinto eqakathekileyo, ukuze\namalungelo lenkululeko kwaziwe,\nINKUNDLA YEZIZWE ITHI\nLesisivumelwano samalungelo oluntu silotshiwe ukuze umuntu lezigaba zabantu\njikelele zigcine lesi sivumelwano engqondweni, yizizwe zonke lamazwe asabuswa\nngamanye.\nIsivumelwano\nAbantu bonke bazalwa bekhululekile njalo belingana kumalungelo abo. Balesipho\nsikanembeza, ngakho bamele baphathane ngomoya otshengisa ubuhlobo lobunye.\nIsivumelwano 2\nWonke umuntu ulelungelo lokuthola inkululeko lamalungelo alotshwe kulesi\nsivumelwano hngokupheleleyo kunganakwa ubuhlobo, umbala, ukuthi uyindoda\nkumbe ngumfazi, ulimi, ukholo, ezimayelana lombangazwe, lenotho kanye lasipi\nlasiphi isimo phakathi kwabantu.\nNjalo kakusoze kube lomahluko ekuphathweni kwabantu emthethweni loba\nngowaliphi ilizwe loba yisiphi lesimo selizwe lapho umuntu avela khona - lanxa\nlelolizwe lizibusa kumbe libuswa ngelinye.\nIsivumelwano 3\nWonke umuntu ulelungelo lempilo, lelenkululeko lelenhlalakahle.\nIsivumelwano 4",
-            "Image": "43f101d7ada8cf415dbcc57f216a7e59"
+            "Text": "AMALUNGELO OMUNTU WONKE EMHLABENI WONKE JIKELELE\n[Missing: \"Preamble\"]\nLoba isimilo lenhlonipho lamalungelo agcweleyo oluntu kuyisisekelo senkululeko,\nlesokulunga lokuthula emhlabeni,\nLoba ukunganaki lokungahloniphi amalungelo abantu kubangele izenzo zocuku\noludabula inhliziyo lenembeza, kwadala umhlaba lapha abantu abangathola khona\ninjabulo lenkululeko yokuthi bakhulume bekhululekile bengesabi njalo kungekho\nubuyanga, konke lokhu kuphakanyiswa njengento eqakathekileyo ngabantu bonke,\nLoba ukuze umuntu angavuki umphenyana ngenxa yokucindezelwa, kufanele ukuthi\namalungelo abantu asekelwe ngumthetho,\nLoba kufanele ukukhulisa ubudlelwano phakathi kwezizwe,\nLoba abantu baMazwe aManyaneyo betshengise ukholo lwabo kumalungelo oluntu\nlokuhlonipha lokuqakathekisa umuntu emalungelweni alingeneyo lamalungelo\nalinganayo phakathi kwamadoda labafazi, lokuzimisela ukuthuthukisa\ningqubelaphambili lokuhlala kuhle kwabantu,\nLoba amazwe ami wodwa ezimisela uKumanyana laMazwe aManyaneyo ukuze\naqakathekise ukuhlonitshwa kwamalungelo abantu,\nLobanje ulwazi lwamalungelo blwenkululeko kuyinto eqakathekileyo, ukuze\namalungelo lenkululeko kwaziwe,\nINKUNDLA YEZIZWE ITHI\nLesisivumelwano samalungelo oluntu silotshiwe ukuze umuntu lezigaba zabantu\njikelele zigcine lesi sivumelwano engqondweni, yizizwe zonke lamazwe asabuswa\nngamanye.\nIsivumelwano\nAbantu bonke bazalwa bekhululekile njalo belingana kumalungelo abo. Balesipho\nsikanembeza, ngakho bamele baphathane ngomoya otshengisa ubuhlobo lobunye.\nIsivumelwano 2\nWonke umuntu ulelungelo lokuthola inkululeko lamalungelo alotshwe kulesi\nsivumelwano hngokupheleleyo kunganakwa ubuhlobo, umbala, ukuthi uyindoda\nkumbe ngumfazi, ulimi, ukholo, ezimayelana lombangazwe, lenotho kanye lasipi\nlasiphi isimo phakathi kwabantu.\nNjalo kakusoze kube lomahluko ekuphathweni kwabantu emthethweni loba\nngowaliphi ilizwe loba yisiphi lesimo selizwe lapho umuntu avela khona - lanxa\nlelolizwe lizibusa kumbe libuswa ngelinye.\nIsivumelwano 3\nWonke umuntu ulelungelo lempilo, lelenkululeko lelenhlalakahle.\nIsivumelwano 4"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "189efdec3cd225295390cc043207157d",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Kakho umuntu ozakwenziwa isigqili, kumbe isithunjwa; ubugqili lokuthengisa\nizichaka kuzanqatshelwa ngazo zonke indlela.\nIsivumelwano 5\nAkula muntu ozahlutshwa ahlukuluzwe loba aphathwe ngesihluku langendlela\neyangisayo kumbe elocuku.\nIsivumelwano 6\nWonke umuntu ulelungelo emthethweni lokuphathwa njengomuntu.\nIsivumelwano 7\nBonke abantu bayalingana phambi komthetho, kungekho bandlululo. Abantu bonke\nbayavikelwa ekubandlululweni. Ubandlululo luvunyelwa yisivumelwano lesi njalo\nakuvunyelwa ukubasela ubandlululo.\nIsivumelwano 8\nOmunye lomunye umuntu ulelungelo lokuvikelwa ngababusi lomthethwandaba uma\nkulezenzo ezephula amalungelo akhe asemthethweni.\nIsivumelwano 9\nAkumelanga ukuthi umuntu abotshwe okungekho emthethweni, loba abotshwe\nmahlayana, loba axotshwe elizweni lakubo.\nIsivumelwano 10\nOmunye lomunye umuntu ulelungelo lokuthi athoniselwe icala phambi kwenkundla\nezimeleyo kumbe agwetshwe yinkundla engabandlululiyo ekuthetheni amacala.\nIsivumelwano 11\nOmunye lomunye umuntu owetheswe icala ulelungelo lokuthi aphathwe njengomuntu\nongela cala aze adliwe licala emthethwandaba. Kumele njalo aphiwe ithuba lokuthola\numeli.\nKakho umuntu ongajeziswa emthethweni ngenxa yecala alenzayo uma icala leli\nlenziwa umthetho owenza lokho akwenzayo kube licala wawungekho ngaleso\nsikhathi. Isijeziso salelo cala akumelanga sedlule isijesiso esasifanele icala lelo\numthetho omutsha ungakabekwa.\nIsivumelwano 12\nOmunye lomunye umuntu ulelungelo lokuhlonitshwa - ubuntu bakhe, imuli yakhe,\numuzi wakhe lezincwadi zakhe. Omunye lomunye umuntu kumele avikelwe\nngumthetho ezintweni ezinje.\nIsivumelwano 13\nWonke umuntu ulelungelo lokuhamba lokuhlala kuwo wonke amazwe.\nWonke umuntu ulelungelo lokuthutha loba kuliphi ilizwe, ngitsho laselizweni lakhe,\nlelokubuyela elizweni lakhe.",
-            "Image": "189efdec3cd225295390cc043207157d"
+            "Text": "Kakho umuntu ozakwenziwa isigqili, kumbe isithunjwa; ubugqili lokuthengisa\nizichaka kuzanqatshelwa ngazo zonke indlela.\nIsivumelwano 5\nAkula muntu ozahlutshwa ahlukuluzwe loba aphathwe ngesihluku langendlela\neyangisayo kumbe elocuku.\nIsivumelwano 6\nWonke umuntu ulelungelo emthethweni lokuphathwa njengomuntu.\nIsivumelwano 7\nBonke abantu bayalingana phambi komthetho, kungekho bandlululo. Abantu bonke\nbayavikelwa ekubandlululweni. Ubandlululo luvunyelwa yisivumelwano lesi njalo\nakuvunyelwa ukubasela ubandlululo.\nIsivumelwano 8\nOmunye lomunye umuntu ulelungelo lokuvikelwa ngababusi lomthethwandaba uma\nkulezenzo ezephula amalungelo akhe asemthethweni.\nIsivumelwano 9\nAkumelanga ukuthi umuntu abotshwe okungekho emthethweni, loba abotshwe\nmahlayana, loba axotshwe elizweni lakubo.\nIsivumelwano 10\nOmunye lomunye umuntu ulelungelo lokuthi athoniselwe icala phambi kwenkundla\nezimeleyo kumbe agwetshwe yinkundla engabandlululiyo ekuthetheni amacala.\nIsivumelwano 11\nOmunye lomunye umuntu owetheswe icala ulelungelo lokuthi aphathwe njengomuntu\nongela cala aze adliwe licala emthethwandaba. Kumele njalo aphiwe ithuba lokuthola\numeli.\nKakho umuntu ongajeziswa emthethweni ngenxa yecala alenzayo uma icala leli\nlenziwa umthetho owenza lokho akwenzayo kube licala wawungekho ngaleso\nsikhathi. Isijeziso salelo cala akumelanga sedlule isijesiso esasifanele icala lelo\numthetho omutsha ungakabekwa.\nIsivumelwano 12\nOmunye lomunye umuntu ulelungelo lokuhlonitshwa - ubuntu bakhe, imuli yakhe,\numuzi wakhe lezincwadi zakhe. Omunye lomunye umuntu kumele avikelwe\nngumthetho ezintweni ezinje.\nIsivumelwano 13\nWonke umuntu ulelungelo lokuhamba lokuhlala kuwo wonke amazwe.\nWonke umuntu ulelungelo lokuthutha loba kuliphi ilizwe, ngitsho laselizweni lakhe,\nlelokubuyela elizweni lakhe."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "f6d4a0d16d807aa5e0db53d1b083c5bc",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Isivumelwano 14\nWonke umuntu ulelungelo lokubalekela kwelinye ilizwe ukuze abe yisiphepheli khona\nnxa ehlutshwa elizweni lakubo.\nLeli lungelo alikhululi umuntu obotshiweyo ngaphandle kokuba ebotshelwe izindaba\nzombangazwe kumbe okungavunyelwa ngaMazwe aManyaneyo.\nIsivumelwano 15\nWonke umuntu ulelungelo lokuba yisakhamuzi ezweni lakhe.\nKakho ongathathelwa ilungelo leli loba alelwe ukuba yisakhumuzi selinye ilizwe.\nIsivumelwano 16\nAmadoda labafazi asebekhulilwe, balelungelo lokuthatha lokuthathwa babe lemizi\nyabo, kungenani ukuthiukholo lomuntu yiluphi lokuthi ungumhlobo bani.\nBalamalungelo alinganayo ekuthathaneni kwabo lasekwehlukaneniekeni kwaho.\nUmendo kumele ubotshwe ngukuvumelana kwabathathanayo.\nImuli yisisekelo sezizwe, ngakho kumele isekelwe yizakhamizi languHulumende.\nIsivumelwano 17\nOmunye lomunye ulelungelo lokuba lezimphala zakhe yedwa lokuba lezimpahla\nndawonye labanye.\nKakho umuntu ongahluthunelwa indawo kanye lempahla engeyakhe.\nIsivumelwano 18\nOmunye lomunye ulelungelo lokucabanga njengokuthanda kwakhe, lelokukhonza\nngentando yakhe, ekhokhelwa ngunembaza wakhe. Leli lungelo lipha umuntu\nimvumo yokutshintsha ukholo lwakhe, lemvumo yokuthi yena yedwa kumbe elabanye\natshengise ukholo lwakhe kumphakathi ngezenzo, ngokukhonza, ngokufundisa kunye\nTokuziphatha kwakhe kunye lokufundisa ukholo lwakhe.\nIsivumelwano 19\nOmunye lomunye ulelungelo lokukhuluma izifiso zakhe lokusengqondweni yakhe. Leli\nlungelo lipha umuntu inkululeko yokudinga lokwamukela lokwazisa akwaziyo\nlokusengqondweni yakhe ngayiphi layiphi indlela lakwamanye amazwe.\nIsivumelwano 20\nWonke umuntu ulelungelo lokumanyana kanye lokuhlangana labanye.\nAkula muntu ozabanjwa ngamandla ukuthi abelilunga lenhlanganiso iphi layiphi.\nIsivumelwano 21\nOmunye lomunye ulelungelo lokuphathisana lohulumende wakhe yena ngokwakhe\nkumbe amelwe ngabakhethiweyo.\nOmunye lomunye ulelungelo loncedo lwelizwe lakhe.",
-            "Image": "f6d4a0d16d807aa5e0db53d1b083c5bc"
+            "Text": "Isivumelwano 14\nWonke umuntu ulelungelo lokubalekela kwelinye ilizwe ukuze abe yisiphepheli khona\nnxa ehlutshwa elizweni lakubo.\nLeli lungelo alikhululi umuntu obotshiweyo ngaphandle kokuba ebotshelwe izindaba\nzombangazwe kumbe okungavunyelwa ngaMazwe aManyaneyo.\nIsivumelwano 15\nWonke umuntu ulelungelo lokuba yisakhamuzi ezweni lakhe.\nKakho ongathathelwa ilungelo leli loba alelwe ukuba yisakhumuzi selinye ilizwe.\nIsivumelwano 16\nAmadoda labafazi asebekhulilwe, balelungelo lokuthatha lokuthathwa babe lemizi\nyabo, kungenani ukuthiukholo lomuntu yiluphi lokuthi ungumhlobo bani.\nBalamalungelo alinganayo ekuthathaneni kwabo lasekwehlukaneniekeni kwaho.\nUmendo kumele ubotshwe ngukuvumelana kwabathathanayo.\nImuli yisisekelo sezizwe, ngakho kumele isekelwe yizakhamizi languHulumende.\nIsivumelwano 17\nOmunye lomunye ulelungelo lokuba lezimphala zakhe yedwa lokuba lezimpahla\nndawonye labanye.\nKakho umuntu ongahluthunelwa indawo kanye lempahla engeyakhe.\nIsivumelwano 18\nOmunye lomunye ulelungelo lokucabanga njengokuthanda kwakhe, lelokukhonza\nngentando yakhe, ekhokhelwa ngunembaza wakhe. Leli lungelo lipha umuntu\nimvumo yokutshintsha ukholo lwakhe, lemvumo yokuthi yena yedwa kumbe elabanye\natshengise ukholo lwakhe kumphakathi ngezenzo, ngokukhonza, ngokufundisa kunye\nTokuziphatha kwakhe kunye lokufundisa ukholo lwakhe.\nIsivumelwano 19\nOmunye lomunye ulelungelo lokukhuluma izifiso zakhe lokusengqondweni yakhe. Leli\nlungelo lipha umuntu inkululeko yokudinga lokwamukela lokwazisa akwaziyo\nlokusengqondweni yakhe ngayiphi layiphi indlela lakwamanye amazwe.\nIsivumelwano 20\nWonke umuntu ulelungelo lokumanyana kanye lokuhlangana labanye.\nAkula muntu ozabanjwa ngamandla ukuthi abelilunga lenhlanganiso iphi layiphi.\nIsivumelwano 21\nOmunye lomunye ulelungelo lokuphathisana lohulumende wakhe yena ngokwakhe\nkumbe amelwe ngabakhethiweyo.\nOmunye lomunye ulelungelo loncedo lwelizwe lakhe."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "db4b563a72d1a3da1d41794f4bbe8436",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Izifiso zabantu yizo okumele ziphe uhulumende amandla okubusa. Lezi zifiso\nzizatshengiswa lukhetho oluzakwenziwa ngezikhathi ezifaneleyo, oluzavumela njalo\nwonke umuntu ukukhetha ngendlela engasoze itshengise abanye ukuthi ukhethe\nbani.\nIsivumelwano 22\nOmunye lomunye umuntu, njengesakhamuzi, ulelungelo lokusekelwa yilizwe lakhe\nlelokusuthiseka. Lokhu kuzavela ezenzweni zesizwe sakhe lasencedweni oluvela\nkwamanye amazwe, ukuze kuthuthukiswe amalungelo akhe empilweni lasemasikweni\nakhe ukuze kumlethele inhonipho lentuthuko yobuntu bakhe.\nIsivumelwano 23\nOmunye lomunye ulelungelo lokusebenza lelokukhetha umsebenzi awufunayo,\nlelokuphathwa kuhle emsebenzini, lelokuncedwa nxa umsebenzi udingakala\nOmunye lomunye ulelungelo lokwamukela imbandalo elingene lomsebenzi wakhe.\nWonke umuntu osebenzayo ulelungelo lokuthola imbadalo efaneleyo ezokwenza\nukuthi yena labantwana bakhe bathole impilo lenhalakahle ehloniphekayo\nnjengabantu, lelokusekelwa ngezinye izindlela.\nOmunye lomunye ulelungelo lokuba lilunga lomhlangano wezisebenzi ukuze asekele\nizifiso zakhe.\nIsivumelwano 24\nOmunye lomunye ulelungelo lokuthatha ikhefu engephulelwa imbadalo yakhe, njalo\nulelungelo lokusebenza amahora angamanengi kakhulukazi.\nIsivumelwano 25\nOmunye lomunye ulelungelo lempilo lenhlalakahle yakhe labantwana bakhe. Lokhu\nkuhlanganisa ukudla, izembatho, indawo yokuhlala kanye lempilo enhle, ukugcinwa\nkuhle uma engasebenzi. Lokhu kuhlanganisa abafelwaokazi, abadala, abalimeleyo\nlabehlulekayo ukuzonga.\nAbabelethileyo labantwana kumele bagcinwe njalo bancediswe. Abantwana bonke\nabazalelwe emendweni kumbe ngaphandle kwawo, kumele basekelwe ngokufanayo.\nIsivumelwano 26\nOmunye lomunye ulelungelo lemfundo. Imfundo ayizukuba lembadalo, kusukela\nphansi kuze kufike esigabeni esithe thuthu. Imfundo ephansi (elementary)\nngeyomuntu wonke, ngakho omunye lomunye uzabanjwa ngamandla ukuthi ayithole.\nImfundo ephezulu yezandla (technical) lenye njalo eyolwazi olwehlukeneyo\nolwezigaba ezehlukeneyo kumele ibe khona, lemfundo ephakemeyo kumele itholwe\nyilabo abayifaneleyo ngolwazi abalalo.\nImfundo kuzamela ithuthukise ubuntu lokuhlonipha amalungelo obuntu lenkululeko\nengcweleyo. Kufanele ikhulise ukuzwelana, ukuzwisisa lobudlelwano phakathi\nkwezizwe zonke, kwemihlobo yonke lakwabenkonzo ezehlukeneyo, isekele njalo\nimisebenzi yeZizwe eziManyeneyo (UN) yokuletha ukuthula emhlabeni.\nAbazali balelungelo lokukhetha imfundo yabantwana babo.",
-            "Image": "db4b563a72d1a3da1d41794f4bbe8436"
+            "Text": "Izifiso zabantu yizo okumele ziphe uhulumende amandla okubusa. Lezi zifiso\nzizatshengiswa lukhetho oluzakwenziwa ngezikhathi ezifaneleyo, oluzavumela njalo\nwonke umuntu ukukhetha ngendlela engasoze itshengise abanye ukuthi ukhethe\nbani.\nIsivumelwano 22\nOmunye lomunye umuntu, njengesakhamuzi, ulelungelo lokusekelwa yilizwe lakhe\nlelokusuthiseka. Lokhu kuzavela ezenzweni zesizwe sakhe lasencedweni oluvela\nkwamanye amazwe, ukuze kuthuthukiswe amalungelo akhe empilweni lasemasikweni\nakhe ukuze kumlethele inhonipho lentuthuko yobuntu bakhe.\nIsivumelwano 23\nOmunye lomunye ulelungelo lokusebenza lelokukhetha umsebenzi awufunayo,\nlelokuphathwa kuhle emsebenzini, lelokuncedwa nxa umsebenzi udingakala\nOmunye lomunye ulelungelo lokwamukela imbandalo elingene lomsebenzi wakhe.\nWonke umuntu osebenzayo ulelungelo lokuthola imbadalo efaneleyo ezokwenza\nukuthi yena labantwana bakhe bathole impilo lenhalakahle ehloniphekayo\nnjengabantu, lelokusekelwa ngezinye izindlela.\nOmunye lomunye ulelungelo lokuba lilunga lomhlangano wezisebenzi ukuze asekele\nizifiso zakhe.\nIsivumelwano 24\nOmunye lomunye ulelungelo lokuthatha ikhefu engephulelwa imbadalo yakhe, njalo\nulelungelo lokusebenza amahora angamanengi kakhulukazi.\nIsivumelwano 25\nOmunye lomunye ulelungelo lempilo lenhlalakahle yakhe labantwana bakhe. Lokhu\nkuhlanganisa ukudla, izembatho, indawo yokuhlala kanye lempilo enhle, ukugcinwa\nkuhle uma engasebenzi. Lokhu kuhlanganisa abafelwaokazi, abadala, abalimeleyo\nlabehlulekayo ukuzonga.\nAbabelethileyo labantwana kumele bagcinwe njalo bancediswe. Abantwana bonke\nabazalelwe emendweni kumbe ngaphandle kwawo, kumele basekelwe ngokufanayo.\nIsivumelwano 26\nOmunye lomunye ulelungelo lemfundo. Imfundo ayizukuba lembadalo, kusukela\nphansi kuze kufike esigabeni esithe thuthu. Imfundo ephansi (elementary)\nngeyomuntu wonke, ngakho omunye lomunye uzabanjwa ngamandla ukuthi ayithole.\nImfundo ephezulu yezandla (technical) lenye njalo eyolwazi olwehlukeneyo\nolwezigaba ezehlukeneyo kumele ibe khona, lemfundo ephakemeyo kumele itholwe\nyilabo abayifaneleyo ngolwazi abalalo.\nImfundo kuzamela ithuthukise ubuntu lokuhlonipha amalungelo obuntu lenkululeko\nengcweleyo. Kufanele ikhulise ukuzwelana, ukuzwisisa lobudlelwano phakathi\nkwezizwe zonke, kwemihlobo yonke lakwabenkonzo ezehlukeneyo, isekele njalo\nimisebenzi yeZizwe eziManyeneyo (UN) yokuletha ukuthula emhlabeni.\nAbazali balelungelo lokukhetha imfundo yabantwana babo."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "6b4f3ba25efa894d445b58f2abcc75ad",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Isivumelwano 27\nWonke umuntu ulelungelo lokumanyana labanye lokukhululeka ekuphathisaneni\nlabanye kwezemvelo lakwezamasiko lelokuvuna kukho konke okuvezwa yizifundo\nzemvelo.\nOmunye lomunye ulelungelo lokusekelwa empilweni yakhe lelokuqiniswa ebuntwini\nbakhe mayelana lokwemvelo lokwezombukiso.\nIsivumelwano 28\nUmuntu munye lamunye ulelungelo lokuthola indawo lapha okuhlonitshwa\nlokugcinwa khona izimiso zezivumelwano lezi.\nIsivumelwano 29\nWonke umuntu ulemisebenzi okumele ayenze njengesakhamuzi okuyiyo ezagcwalisa\nubuntu bakhe.\nKukho konke akwenzayo, uzakhokhelwa yikuhlonipha lokwethula ingowane yakhe\nkumalungelo abanye, ananzelele ukuqakatheka kombuso wabanengi (UN).\nLa amalungelo lenkululeko akumelanga kuphambane lezimiso zeZizwe\neziManyaneyo.\nIzivumelwano 30\nAkukho kuleziZivumelwano okungavumela umuntu loba abantu ukubhidliza\namalungelo lenkululeko ezilotshwe lapha.",
-            "Image": "6b4f3ba25efa894d445b58f2abcc75ad"
+            "Text": "Isivumelwano 27\nWonke umuntu ulelungelo lokumanyana labanye lokukhululeka ekuphathisaneni\nlabanye kwezemvelo lakwezamasiko lelokuvuna kukho konke okuvezwa yizifundo\nzemvelo.\nOmunye lomunye ulelungelo lokusekelwa empilweni yakhe lelokuqiniswa ebuntwini\nbakhe mayelana lokwemvelo lokwezombukiso.\nIsivumelwano 28\nUmuntu munye lamunye ulelungelo lokuthola indawo lapha okuhlonitshwa\nlokugcinwa khona izimiso zezivumelwano lezi.\nIsivumelwano 29\nWonke umuntu ulemisebenzi okumele ayenze njengesakhamuzi okuyiyo ezagcwalisa\nubuntu bakhe.\nKukho konke akwenzayo, uzakhokhelwa yikuhlonipha lokwethula ingowane yakhe\nkumalungelo abanye, ananzelele ukuqakatheka kombuso wabanengi (UN).\nLa amalungelo lenkululeko akumelanga kuphambane lezimiso zeZizwe\neziManyaneyo.\nIzivumelwano 30\nAkukho kuleziZivumelwano okungavumela umuntu loba abantu ukubhidliza\namalungelo lenkululeko ezilotshwe lapha."
         }
     }
 }

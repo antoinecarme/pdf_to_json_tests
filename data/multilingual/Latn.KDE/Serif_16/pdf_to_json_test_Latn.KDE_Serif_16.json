@@ -1,67 +1,67 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581468752,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "24645487242d941407aba95d2f2e0c4b",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "LILOVE LYA VILAMBO LYA WASA WA VAN\nPachinjililo\nLisiku lya 10 Disemba 1948, Lukumbi Lukulu lwa Umoja wa Vilambo lunihaula na\nkuhumya lilove lya vilambo lya wasa wa vanu. Lilove alino lihumile baada ya chilambo\nchohechohe kupanyana ding’ondo ding’ulu dimbili. Lukumbi anelwo lulembedile kila\nchilambo chihumye lilove alino livahwikile vanu vake kwa kulangudya, kusomesa,\nkusomela, kuhaula n’disule na n’disehemu dinji kuvele na ilimu.\nIli kuhinikiha kuchidono wasa wa vanu unawuniwa, na Tansania inaunila wasa anewo,\nlilove alino lihumile M’chimakonde ili valembela usoma vavike wasa wene mun’tima\nmwavo vene na vanu vanji. Koka chive chihinde cha kukonyelela kuwuniwa kwa wasa\nwene m’manu na lyene lipanda.\nVanu vohevohe vavelekwa valendene na wasa wavo unalandana. Umoja wa Vilambo\nuhumije lilove alino m’malove lapeyapeya na lakakamadidye ili kila munu amale wasa\nwake. Wasa unang’owo wako. Uumale wasa wako, yangata uvahaulila vanji vanu na\nuwunile wasa wene muchi wako na wa vanji vanu.\nLAHU YA 1\nVanu vohevohe vaidile n’chilambo valendene. Vanijaliwa ulimala vene. Pavele vanu\npave na ulongo.\nLAHU YA 2\nKila munu ilembelewa ave na wasa uhaulidiwije n’nilove alino bila uvalangila asili,\nlangi, chivelekwa, litawa au chinu chinji chohechohe. Panave na kutondolanya vanu\ning’anya ya siasa, ding’umbi dya shelia, vilambo vivaholoka, bila uvalangila kama\nvilambo anevyo vinatawaliwa au nanga.\nLAHU YA 3\nKila munu alembelewa kwikala pachilambo alitukutwile na wunu wake.\nLAHU YA 4\nMunu akava n’twana, wala vakan’sumisa, na lilove alino linalimbidya usumisana\nvanu.\nLAHU YA 5\nMunu analage, anapate mateso, ukatili, au ubanika.\nLAHU YA 6\nWunuwake munu uvele m’munu na umaikane pashelia.\nLAHU YA 7\nPahelia vanu vohevohe vanalingilana na vakatondoleka. Shelia ivawunila vanu\nvanahapanyike.\nLAHU YA 8",
-            "Image": "24645487242d941407aba95d2f2e0c4b"
+            "Text": "LILOVE LYA VILAMBO LYA WASA WA VAN\nPachinjililo\nLisiku lya 10 Disemba 1948, Lukumbi Lukulu lwa Umoja wa Vilambo lunihaula na\nkuhumya lilove lya vilambo lya wasa wa vanu. Lilove alino lihumile baada ya chilambo\nchohechohe kupanyana ding’ondo ding’ulu dimbili. Lukumbi anelwo lulembedile kila\nchilambo chihumye lilove alino livahwikile vanu vake kwa kulangudya, kusomesa,\nkusomela, kuhaula n’disule na n’disehemu dinji kuvele na ilimu.\nIli kuhinikiha kuchidono wasa wa vanu unawuniwa, na Tansania inaunila wasa anewo,\nlilove alino lihumile M’chimakonde ili valembela usoma vavike wasa wene mun’tima\nmwavo vene na vanu vanji. Koka chive chihinde cha kukonyelela kuwuniwa kwa wasa\nwene m’manu na lyene lipanda.\nVanu vohevohe vavelekwa valendene na wasa wavo unalandana. Umoja wa Vilambo\nuhumije lilove alino m’malove lapeyapeya na lakakamadidye ili kila munu amale wasa\nwake. Wasa unang’owo wako. Uumale wasa wako, yangata uvahaulila vanji vanu na\nuwunile wasa wene muchi wako na wa vanji vanu.\nLAHU YA 1\nVanu vohevohe vaidile n’chilambo valendene. Vanijaliwa ulimala vene. Pavele vanu\npave na ulongo.\nLAHU YA 2\nKila munu ilembelewa ave na wasa uhaulidiwije n’nilove alino bila uvalangila asili,\nlangi, chivelekwa, litawa au chinu chinji chohechohe. Panave na kutondolanya vanu\ning’anya ya siasa, ding’umbi dya shelia, vilambo vivaholoka, bila uvalangila kama\nvilambo anevyo vinatawaliwa au nanga.\nLAHU YA 3\nKila munu alembelewa kwikala pachilambo alitukutwile na wunu wake.\nLAHU YA 4\nMunu akava n’twana, wala vakan’sumisa, na lilove alino linalimbidya usumisana\nvanu.\nLAHU YA 5\nMunu analage, anapate mateso, ukatili, au ubanika.\nLAHU YA 6\nWunuwake munu uvele m’munu na umaikane pashelia.\nLAHU YA 7\nPahelia vanu vohevohe vanalingilana na vakatondoleka. Shelia ivawunila vanu\nvanahapanyike.\nLAHU YA 8"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "ad2c233e673411402d77ececd8c918ad",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Vitukutuku vyohevyohe vin’nimbidya munu ulitukutula kama chilembelewa n’katiba\nau n’shelia, vilonjelewe n’ding’umbi dya shelia.\nLAHU YA 9\nMunu vanantaye n’jela, kun’chimila wala kum’minganga chihi chiwukuwuku .\nLAHU YA 10\nKila munu apilikaniwe muchi vanu vanji palikuwa, vanan’hyape. Akava na ing’anya\nihile nawinang’e atongwele na lukumbi lwohelwohe lumpilikanile.\nLAHU YA 11\nMunu akava na ing’anya vakamwamba kukola ihonjela vakanamba kumpelekedya\nkuvatongolela ing’anya yene. Lukumbi lupilikanila ing’anya luve lwa d’jahala\nchilambo chohechohe uchipilikana.\nMunu vakamwamba kukola ihonjela ikavaidile kuva ing’anya pachilambo au pashelia.\nMunu vakan’tika lijamanda lipitile ihonjela yene.\nLAHU YA 12\nPavayikele vanu mmakaya mwavo munu anan’banihe munu mwave. Makaya na\nvilambo vivawunile vamakaya vohevohe, vinahapanye vanu.\nLAHU YA 13\nMunu avele na wasa wa kwonga chalembela mwene na kuyikala kwalembela mwene\nn’chilambo.\nMunu avele na wasa wa kuwuka pachilambo na kuwuya kavila n’chilambo mwake\nLAHU YA 14\nMunu avele na wasa wa kutukutila m’milambo vinji na kuwuniwa na vilambo vinji\nvana’nmwalale.\nWasa unang’o ukapawa ndulu munu vakamwamba kukola ihonjela pashelia, hasa\nding’anya dikavele dya siasa au chinji chinu chikavaila au chikalandana na matulubu\nla Umoja wa Vilambo.\nLAHU YA 15\nAkava kwave munu ave na wasa wa kuva n’chilambo kama vachilambo vanji.\nMunu akalambela mwene uhama vanan’nimbidye uhama n’chilambo na ubadili\nuchilambo wake.\nLAHU YA 16\nValume na vamahe vakudile vayikalane bila kulola dini wala litawa. Vayikalane\nuvalingilana pa-ulombi wavo na hata vakahapukana.\nUlombi upawe kama n’nume na n’mahe vakatamwana vene.\nIng’ande ivele na n’nume, n’mahe na vanyachi lyiva likolo lya litawa. Likolo anelyo",
-            "Image": "ad2c233e673411402d77ececd8c918ad"
+            "Text": "Vitukutuku vyohevyohe vin’nimbidya munu ulitukutula kama chilembelewa n’katiba\nau n’shelia, vilonjelewe n’ding’umbi dya shelia.\nLAHU YA 9\nMunu vanantaye n’jela, kun’chimila wala kum’minganga chihi chiwukuwuku .\nLAHU YA 10\nKila munu apilikaniwe muchi vanu vanji palikuwa, vanan’hyape. Akava na ing’anya\nihile nawinang’e atongwele na lukumbi lwohelwohe lumpilikanile.\nLAHU YA 11\nMunu akava na ing’anya vakamwamba kukola ihonjela vakanamba kumpelekedya\nkuvatongolela ing’anya yene. Lukumbi lupilikanila ing’anya luve lwa d’jahala\nchilambo chohechohe uchipilikana.\nMunu vakamwamba kukola ihonjela ikavaidile kuva ing’anya pachilambo au pashelia.\nMunu vakan’tika lijamanda lipitile ihonjela yene.\nLAHU YA 12\nPavayikele vanu mmakaya mwavo munu anan’banihe munu mwave. Makaya na\nvilambo vivawunile vamakaya vohevohe, vinahapanye vanu.\nLAHU YA 13\nMunu avele na wasa wa kwonga chalembela mwene na kuyikala kwalembela mwene\nn’chilambo.\nMunu avele na wasa wa kuwuka pachilambo na kuwuya kavila n’chilambo mwake\nLAHU YA 14\nMunu avele na wasa wa kutukutila m’milambo vinji na kuwuniwa na vilambo vinji\nvana’nmwalale.\nWasa unang’o ukapawa ndulu munu vakamwamba kukola ihonjela pashelia, hasa\nding’anya dikavele dya siasa au chinji chinu chikavaila au chikalandana na matulubu\nla Umoja wa Vilambo.\nLAHU YA 15\nAkava kwave munu ave na wasa wa kuva n’chilambo kama vachilambo vanji.\nMunu akalambela mwene uhama vanan’nimbidye uhama n’chilambo na ubadili\nuchilambo wake.\nLAHU YA 16\nValume na vamahe vakudile vayikalane bila kulola dini wala litawa. Vayikalane\nuvalingilana pa-ulombi wavo na hata vakahapukana.\nUlombi upawe kama n’nume na n’mahe vakatamwana vene.\nIng’ande ivele na n’nume, n’mahe na vanyachi lyiva likolo lya litawa. Likolo anelyo"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "3e571fd78bafe99dfe457b238df7cc55",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "lilembelewa liwuniwe pachilambo pohepohe.\nLAHU YA 17\nMunu avele na wasa wakuva na dimali dyake mwene au dya kukundanila na vanji.\nMunu vakampokonyola chihi dimali dyake.\nLAHU YA 18\nMunu avele na wasa wa ding’ano, dini, na akalembela mwene aleke chihi dini, na\navele na wasa wa kusokolela kuyoha kwa mahoka lake.\nLAHU YA 19\nMunu avele na wasa wa kutongola palikuwa. Avele na wasa wa kuwunila ding’ano\ndyake bila kun’mahani. Avele na wasa wa kuhumya na kupwechela ding’ano, na hata\nusumba mapalu la vilambo, akalambela.\nLAHU YA 20\nMunu avele na wasa wa kukojana na vanu vanji weka au mmakuwa.\nMunu vanan’kolokohe ulundana na likuwa lya vanu.\nLAHU YA 21\nMunu avele na wasa wa kukumila mwene au upitila kwaki munu atondolewidye na\na’likuwa kunakumila kulipanda.\nVanu vakahapanyika pa kuyavana dihuduma dilembelewa n’makaya.\nLipanda lilondodye chilelembelewa na likuwa lya vanu. Vanu vene vakumilane\nkun’tondola munu wa kuyikala kulipanda.\nLAHU YA 22\nMunu avele na wasa wa kuwuniwa na a’chilambo mwave, na vanu vohevohe\nvatumbame kukumilana na vilambo vinji kulunda vitukutuku vyohevyohe vilembelewa\nna umi wa kila munu.\nLAHU YA 23\nMunu avele na wasa wa kutondola na kukola madengo na pa kukolela mdengo lene.\nPavele na madengo munu vanamwine wasa wa kukola madengo.\nBila utondolewa, munu van’tomolele chinu chilandene na madengo lakodile.\nMunu akakola madengo van’tomolele chinu chihumya vilyo vyake mwene, vajawe au\nn’twave na vanyachi vake.\nMunu vakan’nimbidya kulundana na vavake kukola madengo chin’nkumi na kuwunila\nmatulubu lavo.\nLAHU YA 24\nMunu ave na wasa wa mbone wa kupumulila na chipindi chimaikana cha madengo.",
-            "Image": "3e571fd78bafe99dfe457b238df7cc55"
+            "Text": "lilembelewa liwuniwe pachilambo pohepohe.\nLAHU YA 17\nMunu avele na wasa wakuva na dimali dyake mwene au dya kukundanila na vanji.\nMunu vakampokonyola chihi dimali dyake.\nLAHU YA 18\nMunu avele na wasa wa ding’ano, dini, na akalembela mwene aleke chihi dini, na\navele na wasa wa kusokolela kuyoha kwa mahoka lake.\nLAHU YA 19\nMunu avele na wasa wa kutongola palikuwa. Avele na wasa wa kuwunila ding’ano\ndyake bila kun’mahani. Avele na wasa wa kuhumya na kupwechela ding’ano, na hata\nusumba mapalu la vilambo, akalambela.\nLAHU YA 20\nMunu avele na wasa wa kukojana na vanu vanji weka au mmakuwa.\nMunu vanan’kolokohe ulundana na likuwa lya vanu.\nLAHU YA 21\nMunu avele na wasa wa kukumila mwene au upitila kwaki munu atondolewidye na\na’likuwa kunakumila kulipanda.\nVanu vakahapanyika pa kuyavana dihuduma dilembelewa n’makaya.\nLipanda lilondodye chilelembelewa na likuwa lya vanu. Vanu vene vakumilane\nkun’tondola munu wa kuyikala kulipanda.\nLAHU YA 22\nMunu avele na wasa wa kuwuniwa na a’chilambo mwave, na vanu vohevohe\nvatumbame kukumilana na vilambo vinji kulunda vitukutuku vyohevyohe vilembelewa\nna umi wa kila munu.\nLAHU YA 23\nMunu avele na wasa wa kutondola na kukola madengo na pa kukolela mdengo lene.\nPavele na madengo munu vanamwine wasa wa kukola madengo.\nBila utondolewa, munu van’tomolele chinu chilandene na madengo lakodile.\nMunu akakola madengo van’tomolele chinu chihumya vilyo vyake mwene, vajawe au\nn’twave na vanyachi vake.\nMunu vakan’nimbidya kulundana na vavake kukola madengo chin’nkumi na kuwunila\nmatulubu lavo.\nLAHU YA 24\nMunu ave na wasa wa mbone wa kupumulila na chipindi chimaikana cha madengo."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "94f5a17a689466e3c29432beb097c821",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Wasa wapumulila van’tomolele (van’nipe).\nLAHU YA 25\nMunu na kaya yake ave na wasa wa umi wa mbone. Nkaya vave na wasa wa kupata\nvilyo, vya kuwala, ing’ande, wasa wa kupata n’tela vakawuwula, na kuwuniwa na\nchilambo. Munu ave na wasa wa kulama pokoha madengo, pawuwula, akalamala,\nakava n’jani, akakongopala napakoha dyimongo dya kukolela madengo.\nChilambo chilundane uwunila vamahe na vanyachi. Vanyachi vohevohe vawuniwe,\nvanahapulanywe vavelekwidye mu’lombi na vavelekwidye pan’nyitu.\nLAHU YA 26\nMunu avele na wasa wa kudeheni ilimu ya palikolo. Ilimu ya ufundi na ya pachihundyi\nipawe, vasume vahulula.\nIlimu ilembelewa ilodye kudenga umi wake munu pakekuva munu, ilimu iyenjeje\nkumaikana munu kuva munu, iyenjeje wasa wake munu. Ilimu ilembelewa iyenjeje\nvanu kupilililana, ulongo, chinemba, na vanu vanahapukane ing’anya ya dini au\nlitawa. Vanu valondodye luhengo lwa kuyopa chihongahonga kama chiulaididye\nUmoja wa Vilambo.\nKila munu avele na n’nyachi avele na wasa wa kutondola ilimu ya kumwing’a\nmwanyachi wake.\nLAHU YA 27\nMunu anahulula kulundana mu’tamaduni payikala akalambela, kwona ukatapala\nvitukutuku vyohevyohe vya mu’tamaduni na kulundana na avake kudenga sayansi na\nmatulubu lake.\nWunu wake munu na vilusuda vyake vyavilembela viwuniwe, vilusuda vihuma m’\nsayannsi, mitano na vinji vyavitendile mwene au vyatandilike.\nLAHU YA 28\nMunu atungumane n’kaya, mulongo, n’nitawa n’chilambo na n’milambo\nmwohemwohe, utungumana kulandana na lilove alino.\nLAHU YA 29\nMunu ave na wajibu n’kaya na mulongo mwake n’hnyuma wasa na wunu wake.\nVyatenda na kupoka munu vive n’mapalu la shelia. M’mapalu anemwo kaya na ulongo\nvimwing’e isima na wunu wake.\nWasa unang’o ulandane na matulubu la Umoja wa Vilambo.\nLAHU YA 30\nChinapawe chohechohe n’nilove alino chionekana na chilambo chohecho, vanu au\nmunu wohewo upokonyola wasa uhauliwidye.",
-            "Image": "94f5a17a689466e3c29432beb097c821"
+            "Text": "Wasa wapumulila van’tomolele (van’nipe).\nLAHU YA 25\nMunu na kaya yake ave na wasa wa umi wa mbone. Nkaya vave na wasa wa kupata\nvilyo, vya kuwala, ing’ande, wasa wa kupata n’tela vakawuwula, na kuwuniwa na\nchilambo. Munu ave na wasa wa kulama pokoha madengo, pawuwula, akalamala,\nakava n’jani, akakongopala napakoha dyimongo dya kukolela madengo.\nChilambo chilundane uwunila vamahe na vanyachi. Vanyachi vohevohe vawuniwe,\nvanahapulanywe vavelekwidye mu’lombi na vavelekwidye pan’nyitu.\nLAHU YA 26\nMunu avele na wasa wa kudeheni ilimu ya palikolo. Ilimu ya ufundi na ya pachihundyi\nipawe, vasume vahulula.\nIlimu ilembelewa ilodye kudenga umi wake munu pakekuva munu, ilimu iyenjeje\nkumaikana munu kuva munu, iyenjeje wasa wake munu. Ilimu ilembelewa iyenjeje\nvanu kupilililana, ulongo, chinemba, na vanu vanahapukane ing’anya ya dini au\nlitawa. Vanu valondodye luhengo lwa kuyopa chihongahonga kama chiulaididye\nUmoja wa Vilambo.\nKila munu avele na n’nyachi avele na wasa wa kutondola ilimu ya kumwing’a\nmwanyachi wake.\nLAHU YA 27\nMunu anahulula kulundana mu’tamaduni payikala akalambela, kwona ukatapala\nvitukutuku vyohevyohe vya mu’tamaduni na kulundana na avake kudenga sayansi na\nmatulubu lake.\nWunu wake munu na vilusuda vyake vyavilembela viwuniwe, vilusuda vihuma m’\nsayannsi, mitano na vinji vyavitendile mwene au vyatandilike.\nLAHU YA 28\nMunu atungumane n’kaya, mulongo, n’nitawa n’chilambo na n’milambo\nmwohemwohe, utungumana kulandana na lilove alino.\nLAHU YA 29\nMunu ave na wajibu n’kaya na mulongo mwake n’hnyuma wasa na wunu wake.\nVyatenda na kupoka munu vive n’mapalu la shelia. M’mapalu anemwo kaya na ulongo\nvimwing’e isima na wunu wake.\nWasa unang’o ulandane na matulubu la Umoja wa Vilambo.\nLAHU YA 30\nChinapawe chohechohe n’nilove alino chionekana na chilambo chohecho, vanu au\nmunu wohewo upokonyola wasa uhauliwidye."
         }
     }
 }

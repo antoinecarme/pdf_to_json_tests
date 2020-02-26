@@ -1,93 +1,93 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581471433,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "130b5b9683dce8d919d8d1049bd33ece",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Tuyên ngôn toàn thế giới về nhân quyền của Liên Hợp Quốc\nĐược Đại hội đồng Liên Hợp Quốc thông qua và công bố theo Nghị quyết số 217 (III),\nngày 10 tháng 12 năm 1948.\nLời nói đầu\nVới nhận thức rằng:\nViệc thừa nhận nhân phẩm vốn có, các quyền bình đẳng và không thể tách rời của\nmọi thành viên trong gia đình nhân loại là cơ sở cho tự do, công bằng và hoà bình\ntrên thế giới,\nSự xâm phạm và coi thường nhân quyền đã dẫn đến những hành động tàn bạo xâm\nphạm tới lương tâm của nhân loại, và việc xây dựng một thế giới trong đó con người\nđược tự do ngôn luận và tín ngưỡng, không còn phải chịu nỗi sợ hãi và cùng cực được\ncoi là nguyện vọng cao cả nhất của loài người,\nNhân quyền phải được pháp luật bảo vệ để mỗi người không buộc phải nổi loạn như là\nbiện pháp cuối cùng để chống lại chế độ cường quyền và áp bức,\nCần phải khuyến khích việc phát triển quan hệ bằng hữu giữa các dân tộc,\nNhân dân các nước thành viên Liên Hợp Quốc trong bản Hiến chương đã một lần nữa\nkhẳng định niềm tin của mình vào những quyền cơ bản của con người, vào nhân\nphẩm, vào giá trị của mỗi người, vào quyền bình đẳng nam nữ, và đã bầy tỏ quyết tâm\nthúc đẩy tiến bộ xã hội cũng như xây dựng các điều kiện sống tốt hơn, tự do hơn.\nCác nước thành viên đã cam kết, cùng với tổ chức Liên Hợp Quốc, phấn đấu thúc đẩy\nmọi người tôn trọng và thực hiện các quyền cũng như những tự do cơ bản của con\nngười.\nNhận thức thống nhất về những quyền và tự do đó của con người là yếu tố quan trọng\nnhất cho việc thực hiện đầy đủ cam kết này.\nNay, Đại hội đồng Liên Hợp Quốc tuyên bố:\nBản tuyên ngôn toàn thế giới về nhân quyền này là thước đo chung cho tất cả các\nnước và tất cả các dân tộc đánh giá việc thực hiện mục tiêu mà mọi cá nhân và mọi tổ\nchức trong xã hội, trên cơ sở luôn ghi nhớ Bản tuyên ngôn này, sẽ phấn đấu thúc đẩy\nsự tôn trọng các quyền và tự do cơ bản của con người thông qua truyền bá và giáo\ndục, cũng như sẽ phấn đấu đảm bảo cho mọi người dân, ở chính các nước thành viên\ncủa Liên Hợp Quốc và ở các lãnh thổ thuộc quyền quản lý của mình, công nhận và\nthực hiện những quyền và tự do đó một cách có hiệu quả thông qua những biện pháp\ntích cực, trong phạm vi quốc gia hay quốc tế.\nĐiều 1:\nTất cả mọi người sinh ra đều được tự do và bình đẳng về nhân phẩm và quyền. Mọi\ncon người đều được tạo hoá ban cho lý trí và lương tâm và cần phải đối xử với nhau\ntrong tình bằng hữu.\nĐiều 2:\nMọi người đều được hưởng tất cả những quyền và tự do nêu trong Bản tuyên ngôn\nnày, không phân biệt chủng tộc, màu da, giới tính, ngôn ngữ, tôn giáo, quan điểm",
-            "Image": "130b5b9683dce8d919d8d1049bd33ece"
+            "Text": "Tuyên ngôn toàn thế giới về nhân quyền của Liên Hợp Quốc\nĐược Đại hội đồng Liên Hợp Quốc thông qua và công bố theo Nghị quyết số 217 (III),\nngày 10 tháng 12 năm 1948.\nLời nói đầu\nVới nhận thức rằng:\nViệc thừa nhận nhân phẩm vốn có, các quyền bình đẳng và không thể tách rời của\nmọi thành viên trong gia đình nhân loại là cơ sở cho tự do, công bằng và hoà bình\ntrên thế giới,\nSự xâm phạm và coi thường nhân quyền đã dẫn đến những hành động tàn bạo xâm\nphạm tới lương tâm của nhân loại, và việc xây dựng một thế giới trong đó con người\nđược tự do ngôn luận và tín ngưỡng, không còn phải chịu nỗi sợ hãi và cùng cực được\ncoi là nguyện vọng cao cả nhất của loài người,\nNhân quyền phải được pháp luật bảo vệ để mỗi người không buộc phải nổi loạn như là\nbiện pháp cuối cùng để chống lại chế độ cường quyền và áp bức,\nCần phải khuyến khích việc phát triển quan hệ bằng hữu giữa các dân tộc,\nNhân dân các nước thành viên Liên Hợp Quốc trong bản Hiến chương đã một lần nữa\nkhẳng định niềm tin của mình vào những quyền cơ bản của con người, vào nhân\nphẩm, vào giá trị của mỗi người, vào quyền bình đẳng nam nữ, và đã bầy tỏ quyết tâm\nthúc đẩy tiến bộ xã hội cũng như xây dựng các điều kiện sống tốt hơn, tự do hơn.\nCác nước thành viên đã cam kết, cùng với tổ chức Liên Hợp Quốc, phấn đấu thúc đẩy\nmọi người tôn trọng và thực hiện các quyền cũng như những tự do cơ bản của con\nngười.\nNhận thức thống nhất về những quyền và tự do đó của con người là yếu tố quan trọng\nnhất cho việc thực hiện đầy đủ cam kết này.\nNay, Đại hội đồng Liên Hợp Quốc tuyên bố:\nBản tuyên ngôn toàn thế giới về nhân quyền này là thước đo chung cho tất cả các\nnước và tất cả các dân tộc đánh giá việc thực hiện mục tiêu mà mọi cá nhân và mọi tổ\nchức trong xã hội, trên cơ sở luôn ghi nhớ Bản tuyên ngôn này, sẽ phấn đấu thúc đẩy\nsự tôn trọng các quyền và tự do cơ bản của con người thông qua truyền bá và giáo\ndục, cũng như sẽ phấn đấu đảm bảo cho mọi người dân, ở chính các nước thành viên\ncủa Liên Hợp Quốc và ở các lãnh thổ thuộc quyền quản lý của mình, công nhận và\nthực hiện những quyền và tự do đó một cách có hiệu quả thông qua những biện pháp\ntích cực, trong phạm vi quốc gia hay quốc tế.\nĐiều 1:\nTất cả mọi người sinh ra đều được tự do và bình đẳng về nhân phẩm và quyền. Mọi\ncon người đều được tạo hoá ban cho lý trí và lương tâm và cần phải đối xử với nhau\ntrong tình bằng hữu.\nĐiều 2:\nMọi người đều được hưởng tất cả những quyền và tự do nêu trong Bản tuyên ngôn\nnày, không phân biệt chủng tộc, màu da, giới tính, ngôn ngữ, tôn giáo, quan điểm"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "a55293e8dc4a9ac91c0593efdc285be5",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "chính trị hay các quan điểm khác, nguồn gốc quốc gia hay xã hội, tài sản, thành phần\nxuất thân hay địa vị xã hội.\nNgoài ra, cũng không có bất cứ sự phân biệt nào về địa vị chính trị, pháp quyền hay\nquốc tế của quốc gia hay lãnh thổ mà một người xuất thân, cho dù quốc gia hay lãnh\nthổ đó được độc lập, được đặt dưới chế độ uỷ trị, chưa tự quản hay có chủ quyền hạn\nchế.\nĐiều 3:\nMọi người đều có quyền sống, tự do và an toàn cá nhân.\nĐiều 4:\nKhông ai phải làm nô lệ hay bị cưỡng bức làm việc như nô lệ; mọi hình thức nô lệ và\nbuôn bán nô lệ đều bị ngăn cấm.\nĐiều 5:\nKhông ai bị tra tấn hay bị đối xử, xử phạt một cách tàn bạo, vô nhân đạo hay hạ thấp\nnhân phẩm.\nĐiều 6:\nMọi người đều có quyền được thừa nhận tư cách là con người trước pháp luật ở khắp\nmọi nơi.\nĐiều 7:\nTất cả mọi người đều bình đẳng trước pháp luật và được pháp luật bảo vệ như nhau\nkhông có bất cứ sự phân biệt nào. Tất cả mọi người đều được bảo vệ như nhau chống\nlại mọi hình thức phân biệt đối xử vi phạm Bản tuyên ngôn này cũng như chống lại\nmọi hành vi xúi giục phân biệt đối xử như vậy.\nĐiều 8:\nMọi người đều có quyền được các toà án quốc gia có thẩm quyền bênh vực theo pháp\nluật trước những hành vi vi phạm các quyền cơ bản do hiến pháp hay luật pháp quy\nđịnh.\nĐiều 9:\nKhông ai bị bắt, giam giữ hay đày đi nơi khác một cách độc đoán.\nĐiều 10:\nMọi người, với tư cách bình đẳng về mọi phương diện, đều có quyền được một toà án\nđộc lập và vô tư phân xử công bằng và công khai để xác định quyền, nghĩa vụ hoặc\nbất cứ một lời buộc tội nào đối với người đó.\nĐiều 11:\nMọi người, nếu bị quy tội hình sự, đều có quyền được coi là vô tội cho đến khi một toà\nán công khai, nơi người đó đã có được tất cả những đảm bảo cần thiết để bào chữa\ncho mình, chứng minh được tội trạng của người đó dựa trên cơ sở luật pháp.\nKhông ai bị kết tội hình sự vì một hành vi hay sự tắc trách không bị coi là một tội hình",
-            "Image": "a55293e8dc4a9ac91c0593efdc285be5"
+            "Text": "chính trị hay các quan điểm khác, nguồn gốc quốc gia hay xã hội, tài sản, thành phần\nxuất thân hay địa vị xã hội.\nNgoài ra, cũng không có bất cứ sự phân biệt nào về địa vị chính trị, pháp quyền hay\nquốc tế của quốc gia hay lãnh thổ mà một người xuất thân, cho dù quốc gia hay lãnh\nthổ đó được độc lập, được đặt dưới chế độ uỷ trị, chưa tự quản hay có chủ quyền hạn\nchế.\nĐiều 3:\nMọi người đều có quyền sống, tự do và an toàn cá nhân.\nĐiều 4:\nKhông ai phải làm nô lệ hay bị cưỡng bức làm việc như nô lệ; mọi hình thức nô lệ và\nbuôn bán nô lệ đều bị ngăn cấm.\nĐiều 5:\nKhông ai bị tra tấn hay bị đối xử, xử phạt một cách tàn bạo, vô nhân đạo hay hạ thấp\nnhân phẩm.\nĐiều 6:\nMọi người đều có quyền được thừa nhận tư cách là con người trước pháp luật ở khắp\nmọi nơi.\nĐiều 7:\nTất cả mọi người đều bình đẳng trước pháp luật và được pháp luật bảo vệ như nhau\nkhông có bất cứ sự phân biệt nào. Tất cả mọi người đều được bảo vệ như nhau chống\nlại mọi hình thức phân biệt đối xử vi phạm Bản tuyên ngôn này cũng như chống lại\nmọi hành vi xúi giục phân biệt đối xử như vậy.\nĐiều 8:\nMọi người đều có quyền được các toà án quốc gia có thẩm quyền bênh vực theo pháp\nluật trước những hành vi vi phạm các quyền cơ bản do hiến pháp hay luật pháp quy\nđịnh.\nĐiều 9:\nKhông ai bị bắt, giam giữ hay đày đi nơi khác một cách độc đoán.\nĐiều 10:\nMọi người, với tư cách bình đẳng về mọi phương diện, đều có quyền được một toà án\nđộc lập và vô tư phân xử công bằng và công khai để xác định quyền, nghĩa vụ hoặc\nbất cứ một lời buộc tội nào đối với người đó.\nĐiều 11:\nMọi người, nếu bị quy tội hình sự, đều có quyền được coi là vô tội cho đến khi một toà\nán công khai, nơi người đó đã có được tất cả những đảm bảo cần thiết để bào chữa\ncho mình, chứng minh được tội trạng của người đó dựa trên cơ sở luật pháp.\nKhông ai bị kết tội hình sự vì một hành vi hay sự tắc trách không bị coi là một tội hình"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "58dde23578f9ed0957412f25c2ad2bef",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "sự theo quy định của luật pháp quốc gia hay quốc tế vào thời điểm đó. Cũng như\nkhông cho phép áp dụng hình thức xử phạt đối với một tội hình sự nặng hơn so với\nquy định của luật pháp lúc bấy giờ cho mức độ phạm tội cụ thể như vậy.\nĐiều 12:\nKhông ai bị can thiệp một cách độc đoán đối với cuộc sống riêng tư, gia đình, nơi ở\nhay thư tín của cá nhân người đó cũng như không bị xâm phạm tới danh dự và uy tín.\nMọi người đều được pháp luật bảo vệ chống lại những hành vi can thiệp hoặc xâm\nphạm như vậy.\nĐiều 13:\nMọi người đều có quyền tự do đi lại và cư trú trong phạm vi lãnh thổ của mỗi quốc\ngia.\nMọi người đều có quyền rời khỏi bất cứ nước nào, kể cả nước mình, cũng như có\nquyền trở về nước mình.\nĐiều 14:\nMọi người đều có quyền tìm kiếm và được lánh nạn ở những nước khác khi bị ngược\nđãi.\nQuyền này không được áp dụng trong trường hợp đương sự bị truy tố vì những tội\nkhông mang tính chất chính trị hay vì những hành vi đi ngược lại mục tiêu và nguyên\ntắc của Liên Hợp Quốc.\nĐiều 15:\nMọi người đều có quyền nhập quốc tịch của một nước nào đó.\nKhông ai bị tước đoạt quốc tịch của mình hay bị khước từ quyền được thay đổi quốc\ntịch một cách độc đoán.\nĐiều 16:\nNam hay nữ đến tuổi thành niên đều có quyền kết hôn và xây dựng gia đình mà\nkhông có bất cứ một hạn chế nào về chủng tộc, quốc tịch hay tôn giáo. Họ có quyền\nbình đẳng trong việc kết hôn, trong cuộc sống vợ chồng và lúc ly hôn.\nViệc kết hôn chỉ được tiến hành khi có sự đồng ý hoàn toàn và tự nguyện của cả hai\nbên.\nGia đình là một đơn vị tự nhiên và cơ bản của xã hội và được xã hội và nhà nước bảo\nvệ.\nĐiều 17:\nMọi người đều có quyền sở hữu tài sản của riêng mình hay chung với những người\nkhác.\nKhông ai bị tước đoạt tài sản của mình một cách độc đoán.\nĐiều 18:\nMọi người đều có quyền tự do suy nghĩ, ý thức và tôn giáo, kể cả tự do thay đổi tôn",
-            "Image": "58dde23578f9ed0957412f25c2ad2bef"
+            "Text": "sự theo quy định của luật pháp quốc gia hay quốc tế vào thời điểm đó. Cũng như\nkhông cho phép áp dụng hình thức xử phạt đối với một tội hình sự nặng hơn so với\nquy định của luật pháp lúc bấy giờ cho mức độ phạm tội cụ thể như vậy.\nĐiều 12:\nKhông ai bị can thiệp một cách độc đoán đối với cuộc sống riêng tư, gia đình, nơi ở\nhay thư tín của cá nhân người đó cũng như không bị xâm phạm tới danh dự và uy tín.\nMọi người đều được pháp luật bảo vệ chống lại những hành vi can thiệp hoặc xâm\nphạm như vậy.\nĐiều 13:\nMọi người đều có quyền tự do đi lại và cư trú trong phạm vi lãnh thổ của mỗi quốc\ngia.\nMọi người đều có quyền rời khỏi bất cứ nước nào, kể cả nước mình, cũng như có\nquyền trở về nước mình.\nĐiều 14:\nMọi người đều có quyền tìm kiếm và được lánh nạn ở những nước khác khi bị ngược\nđãi.\nQuyền này không được áp dụng trong trường hợp đương sự bị truy tố vì những tội\nkhông mang tính chất chính trị hay vì những hành vi đi ngược lại mục tiêu và nguyên\ntắc của Liên Hợp Quốc.\nĐiều 15:\nMọi người đều có quyền nhập quốc tịch của một nước nào đó.\nKhông ai bị tước đoạt quốc tịch của mình hay bị khước từ quyền được thay đổi quốc\ntịch một cách độc đoán.\nĐiều 16:\nNam hay nữ đến tuổi thành niên đều có quyền kết hôn và xây dựng gia đình mà\nkhông có bất cứ một hạn chế nào về chủng tộc, quốc tịch hay tôn giáo. Họ có quyền\nbình đẳng trong việc kết hôn, trong cuộc sống vợ chồng và lúc ly hôn.\nViệc kết hôn chỉ được tiến hành khi có sự đồng ý hoàn toàn và tự nguyện của cả hai\nbên.\nGia đình là một đơn vị tự nhiên và cơ bản của xã hội và được xã hội và nhà nước bảo\nvệ.\nĐiều 17:\nMọi người đều có quyền sở hữu tài sản của riêng mình hay chung với những người\nkhác.\nKhông ai bị tước đoạt tài sản của mình một cách độc đoán.\nĐiều 18:\nMọi người đều có quyền tự do suy nghĩ, ý thức và tôn giáo, kể cả tự do thay đổi tôn"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "653127387f4a78e46d1dbf526dc2dca0",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "giáo hay tín ngưỡng, và tự do thể hiện tôn giáo hoặc tín ngưỡng dưới hình thức truyền\nbá, thực hành, thờ phụng hoặc lễ tiết, với tư cách cá nhân hay tập thể, công khai hay\nriêng tư.\nĐiều 19:\nMọi người đều có quyền tự do ngôn luận và bầy tỏ quan điểm; kể cả tự do bảo lưu ý\nkiến không phụ thuộc vào bất cứ sự can thiệp nào, cũng như tự do tìm kiếm, thu\nnhận, tryền bá thông tin và ý kiến bằng bất cứ phương tiện thông tin đại chúng nào\nvà không giới hạn về biên giới.\nĐiều 20:\nMọi người đều có quyền tự do họp hành và tham gia hiệp hội một cách hoà bình.\nKhông ai bị bắt buộc phải tham gia một hiệp hội nào.\nĐiều 21:\nMọi người đều có quyền tham gia vào chính quyền của nước mình, một cách trực tiếp\nhay thông qua những đại diện được tự do lựa chọn.\nMọi người đều có quyền được hưởng các dịch vụ công cộng của đất nước mình một\ncách bình đẳng.\nÝ chí của nhân dân là cơ sở tạo nên quyền lực của chính quyền; ý chí này được thể\nhiện qua các cuộc bầu cử định kỳ và thực sự, theo nguyên tắc bỏ phiếu phổ thông và\nbình đẳng và được thực hiện qua bỏ phiếu kín hoặc qua các thủ tục bỏ phiếu tự do\ntương tự.\nĐiều 22:\nVới tư cách là thành viên của xã hội, mọi người đều có quyền được hưởng bảo hiểm xã\nhội cũng như được thực hiện các quyền về kinh tế, xã hội và văn hoá không thể thiếu\nđối với nhân phẩm và tự do phát triển nhân cách của mình, thông qua nỗ lực quốc\ngia, hợp tác quốc tế và phù hợp với hệ thống tổ chức và nguồn lực của mỗi quốc gia.\nĐiều 23:\nMọi người đều có quyền làm việc, tự do lựa chọn công việc, được hưởng điều kiện làm\nviệc công bằng và thuận lợi và được bảo vệ chống lại tình trạng thất nghiệp.\nMọi người đều có quyền được trả công ngang nhau cho công việc như nhau, không có\nbất cứ sự phân biệt đối xử nào.\nMọi người lao động đều có quyền được hưởng chế độ thù lao công bằng và thuận lợi\nđảm bảo cho sự tồn tại của bản thân và gia đình xứng đáng với nhân phẩm và được hỗ\ntrợ thêm từ các hình thức bảo trợ xã hội khác, nếu cần thiết.\nMọi người đều có quyền thành lập và tham gia các tổ chức công đoàn để bảo vệ\nquyền lợi của mình.\nĐiều 24:\nMọi người đều có quyền nghỉ ngơi và giải trí, kể cả quyền được hạn chế hợp lý về số\ngiờ làm việc và hưởng những ngày nghỉ định kỳ được trả lương.",
-            "Image": "653127387f4a78e46d1dbf526dc2dca0"
+            "Text": "giáo hay tín ngưỡng, và tự do thể hiện tôn giáo hoặc tín ngưỡng dưới hình thức truyền\nbá, thực hành, thờ phụng hoặc lễ tiết, với tư cách cá nhân hay tập thể, công khai hay\nriêng tư.\nĐiều 19:\nMọi người đều có quyền tự do ngôn luận và bầy tỏ quan điểm; kể cả tự do bảo lưu ý\nkiến không phụ thuộc vào bất cứ sự can thiệp nào, cũng như tự do tìm kiếm, thu\nnhận, tryền bá thông tin và ý kiến bằng bất cứ phương tiện thông tin đại chúng nào\nvà không giới hạn về biên giới.\nĐiều 20:\nMọi người đều có quyền tự do họp hành và tham gia hiệp hội một cách hoà bình.\nKhông ai bị bắt buộc phải tham gia một hiệp hội nào.\nĐiều 21:\nMọi người đều có quyền tham gia vào chính quyền của nước mình, một cách trực tiếp\nhay thông qua những đại diện được tự do lựa chọn.\nMọi người đều có quyền được hưởng các dịch vụ công cộng của đất nước mình một\ncách bình đẳng.\nÝ chí của nhân dân là cơ sở tạo nên quyền lực của chính quyền; ý chí này được thể\nhiện qua các cuộc bầu cử định kỳ và thực sự, theo nguyên tắc bỏ phiếu phổ thông và\nbình đẳng và được thực hiện qua bỏ phiếu kín hoặc qua các thủ tục bỏ phiếu tự do\ntương tự.\nĐiều 22:\nVới tư cách là thành viên của xã hội, mọi người đều có quyền được hưởng bảo hiểm xã\nhội cũng như được thực hiện các quyền về kinh tế, xã hội và văn hoá không thể thiếu\nđối với nhân phẩm và tự do phát triển nhân cách của mình, thông qua nỗ lực quốc\ngia, hợp tác quốc tế và phù hợp với hệ thống tổ chức và nguồn lực của mỗi quốc gia.\nĐiều 23:\nMọi người đều có quyền làm việc, tự do lựa chọn công việc, được hưởng điều kiện làm\nviệc công bằng và thuận lợi và được bảo vệ chống lại tình trạng thất nghiệp.\nMọi người đều có quyền được trả công ngang nhau cho công việc như nhau, không có\nbất cứ sự phân biệt đối xử nào.\nMọi người lao động đều có quyền được hưởng chế độ thù lao công bằng và thuận lợi\nđảm bảo cho sự tồn tại của bản thân và gia đình xứng đáng với nhân phẩm và được hỗ\ntrợ thêm từ các hình thức bảo trợ xã hội khác, nếu cần thiết.\nMọi người đều có quyền thành lập và tham gia các tổ chức công đoàn để bảo vệ\nquyền lợi của mình.\nĐiều 24:\nMọi người đều có quyền nghỉ ngơi và giải trí, kể cả quyền được hạn chế hợp lý về số\ngiờ làm việc và hưởng những ngày nghỉ định kỳ được trả lương."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "8c3fd8fc4522e3fa6b7a96e7e951657f",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "Điều 25:\nMọi người đều có quyền được hưởng mức sống đủ để đảm bảo sức khoẻ và phúc lợi\ncủa bản thân và gia đình, về các mặt ăn, mặc, ở, y tế và các dịch vụ xã hội cần thiết\nkhác, cũng như có quyền được bảo hiểm trong trường hợp thất nghiệp, ốm đau, tàn\ntật, goá bụa, già nua hoặc thiếu phương tiện sinh sống do những hoàn cảnh khách\nquan vượt quá khả năng kiểm soát của mình.\nCác bà mẹ và trẻ em cần được chăm sóc và giúp đỡ đặc biệt. Tất cả trẻ em, sinh ra\ntrong hoặc ngoài giá thú, đều được hưởng mức độ bảo trợ xã hội như nhau.\nĐiều 26:\nMọi người đều có quyền được học hành. Phải áp dụng chế độ giáo dục miễn phí, ít\nnhất là ở bậc tiểu học và giáo dục cơ sở. Giáo dục tiểu học là bắt buộc. Giáo dục kỹ\nthuật và ngành nghề phải mang tính phổ thông, và giáo dục cao học phải theo nguyên\ntắc công bằng cho bất cứ ai có đủ khả năng.\nGiáo dục phải hướng tới mục tiêu giúp con người phát triển đầy đủ nhân cách và thúc\nđẩy sự tôn trọng đối với các quyền và tự do cơ bản của con người. Giáo dục phải tăng\ncường sự hiểu biết, lòng vị tha và tình bằng hữu giữa tất cả các dân tộc, các nhóm tôn\ngiáo và chủng tộc, cũng như phải đẩy mạnh các hoạt động của Liên Hợp Quốc vì mục\nđích gìn giữ hoà bình.\nCha, mẹ có quyền ưu tiên lựa chọn loại hình giáo dục cho con cái.\nĐiều 27:\nMọi người đều có quyền tự do tham gia vào đời sống văn hoá của cộng đồng, được\nthưởng thức nghệ thuật và chia xẻ những thành tựu và lợi ích của tiến bộ khoa học.\nMọi người đều có quyền được bảo hộ đối với những quyền lợi về vật chất và tinh thần\nxuất phát từ công trình khoa học, văn học và nhgệ thuật mà người đó là tác giả.\nĐiều 28:\nMọi người đều có quyền được hưởng trật tự xã hội và trật tự quốc tế trong đó các\nquyền và tự do nêu trong Bản tuyên ngôn này có thể được thực hiện đầy đủ.\nĐiều 29:\nMọi người đều có nghĩa vụ đối với cộng đồng là nơi duy nhất người đó có thể phát\ntriển nhân cách của mình một cách tự do và đầy đủ.\nKhi thực hiện các quyền và tự do của mình, mọi người chỉ chịu những hạn chế do luật\nđịnh, nhằm mục đích duy nhất là đảm bảo sự công nhận và tôn trọng thích đáng đối\nvới các quyền và tự do của người khác cũng như đáp ứng những yêu cầu chính đáng\nvề đạo đức, trật tự xã hội và phúc lợi chung trong một xã hội dân chủ.\nTrong bất cứ trường hợp nào, việc thực hiện những quyền và tự do này cũng knông\nđược đi ngược lại với những mục tiêu và nguyên tắc của Liên Hợp Quốc.\nĐiều 30:\nKhông được phép diễn giải bất kỳ điều khoản nào trong Bản tuyên ngôn này theo\nhướng ngầm ý cho phép bất kỳ quốc gia, nhóm người hay cá nhân nào được quyền\ntham gia vào bất kỳ hoạt động nào hay thực hiện bất kỳ hành vi nào nhằm phá hoại",
-            "Image": "8c3fd8fc4522e3fa6b7a96e7e951657f"
+            "Text": "Điều 25:\nMọi người đều có quyền được hưởng mức sống đủ để đảm bảo sức khoẻ và phúc lợi\ncủa bản thân và gia đình, về các mặt ăn, mặc, ở, y tế và các dịch vụ xã hội cần thiết\nkhác, cũng như có quyền được bảo hiểm trong trường hợp thất nghiệp, ốm đau, tàn\ntật, goá bụa, già nua hoặc thiếu phương tiện sinh sống do những hoàn cảnh khách\nquan vượt quá khả năng kiểm soát của mình.\nCác bà mẹ và trẻ em cần được chăm sóc và giúp đỡ đặc biệt. Tất cả trẻ em, sinh ra\ntrong hoặc ngoài giá thú, đều được hưởng mức độ bảo trợ xã hội như nhau.\nĐiều 26:\nMọi người đều có quyền được học hành. Phải áp dụng chế độ giáo dục miễn phí, ít\nnhất là ở bậc tiểu học và giáo dục cơ sở. Giáo dục tiểu học là bắt buộc. Giáo dục kỹ\nthuật và ngành nghề phải mang tính phổ thông, và giáo dục cao học phải theo nguyên\ntắc công bằng cho bất cứ ai có đủ khả năng.\nGiáo dục phải hướng tới mục tiêu giúp con người phát triển đầy đủ nhân cách và thúc\nđẩy sự tôn trọng đối với các quyền và tự do cơ bản của con người. Giáo dục phải tăng\ncường sự hiểu biết, lòng vị tha và tình bằng hữu giữa tất cả các dân tộc, các nhóm tôn\ngiáo và chủng tộc, cũng như phải đẩy mạnh các hoạt động của Liên Hợp Quốc vì mục\nđích gìn giữ hoà bình.\nCha, mẹ có quyền ưu tiên lựa chọn loại hình giáo dục cho con cái.\nĐiều 27:\nMọi người đều có quyền tự do tham gia vào đời sống văn hoá của cộng đồng, được\nthưởng thức nghệ thuật và chia xẻ những thành tựu và lợi ích của tiến bộ khoa học.\nMọi người đều có quyền được bảo hộ đối với những quyền lợi về vật chất và tinh thần\nxuất phát từ công trình khoa học, văn học và nhgệ thuật mà người đó là tác giả.\nĐiều 28:\nMọi người đều có quyền được hưởng trật tự xã hội và trật tự quốc tế trong đó các\nquyền và tự do nêu trong Bản tuyên ngôn này có thể được thực hiện đầy đủ.\nĐiều 29:\nMọi người đều có nghĩa vụ đối với cộng đồng là nơi duy nhất người đó có thể phát\ntriển nhân cách của mình một cách tự do và đầy đủ.\nKhi thực hiện các quyền và tự do của mình, mọi người chỉ chịu những hạn chế do luật\nđịnh, nhằm mục đích duy nhất là đảm bảo sự công nhận và tôn trọng thích đáng đối\nvới các quyền và tự do của người khác cũng như đáp ứng những yêu cầu chính đáng\nvề đạo đức, trật tự xã hội và phúc lợi chung trong một xã hội dân chủ.\nTrong bất cứ trường hợp nào, việc thực hiện những quyền và tự do này cũng knông\nđược đi ngược lại với những mục tiêu và nguyên tắc của Liên Hợp Quốc.\nĐiều 30:\nKhông được phép diễn giải bất kỳ điều khoản nào trong Bản tuyên ngôn này theo\nhướng ngầm ý cho phép bất kỳ quốc gia, nhóm người hay cá nhân nào được quyền\ntham gia vào bất kỳ hoạt động nào hay thực hiện bất kỳ hành vi nào nhằm phá hoại"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Image": "e1e3fde54fc4ba78d3b91fa5c860a756",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
-            ],
-            "Text": "bất kỳ quyền và tự do nào nêu trong Bản tuyên ngôn này.",
-            "Image": "e1e3fde54fc4ba78d3b91fa5c860a756"
+            "Text": "bất kỳ quyền và tự do nào nêu trong Bản tuyên ngôn này."
         }
     }
 }

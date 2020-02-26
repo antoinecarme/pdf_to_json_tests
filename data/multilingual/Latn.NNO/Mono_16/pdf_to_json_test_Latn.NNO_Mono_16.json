@@ -1,93 +1,93 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581469671,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "cfdce9188e6f543b5d200b9fddbbf384",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "DEN INTERNASJONALE FRÅSEGNA OM MENNESKERETTANE\nINNLEIING\nDå det å godkjenne det naturlege menneskeverdet med like og umissande\nrettar for alle menneske på jorda er grunnlaget for fridom, rettferd og\nfred i verda,\nog då hån og vørdsløyse mot menneskerettane har ført til barbariske\nhandlingar som har skaka samvitet til menneskeretta, er framvoksteren i\nden verda der menneska skal ha talefridom og trusfridom og vere løyste\nfrå otte og naud, kunngjord som det høgste målet for kvart menneske,\nog då det er nødvendig at menneskerettane blir verna om av lover slik at\nmenneska ikkje blir tvinga til å finne den siste utvegen i å gjere\nopprør mot tyranni og trælekår,\nog då det er nødvendig å arbeide for betre tilhøve mellom nasjonane,\nog då folka i Dei Sameinte Nasjonane har stadfest trua si i denne pakta,\npå grunnleggjande menneskerettar, på menneskeverd og på same rett for\nmann og kvinne, og har vedteke å arbeide for sosiale framsteg og betre\nlevevilkår i større fridom,\nog då medlemsstatane har bunde seg til å fremje allmenn vørdnad for\npakta og halde seg etter menneskerettane og den grunnleggjande fridomen\ni samarbeid med Dei Sameinte Nasjonane,\nog då denne retten og fridomen må bli godkjend av alle dersom pakta skal\nbli røyndom,\nKUNNGJER\nGENERALFORSAMLINGA\nDEN INTERNASJONALE FRÅSEGNA OM MENNESKERETTANE, som skal peike mot eit\nsams mål for alle folk og nasjonar. Fråsegna må alltid vere i tankane\ntil den einskilde og dei styrande og få dei til å styrkje vørdnaden for\nrett og fridom gjennom undervisning og oppseding. Dei skal syte for at\nfråsegna blir allment kjend og etterlevd både i medlemslanda og i\ntilsynsområda, og arbeide trufast med dette både på nasjonalt og\ninternasjonalt grunnlag.\nArtikkel 1.\nAlle menneske er fødde til fridom og med same menneskeverd og\nmenneskerettar. Dei har fått fornuft og samvit og skal leve med\nkvarandre som brør.\nArtikkel 2.\nKvar einskild har krav på all den rett og fridom som fråsegna nemner,\nutan skilnad av noko slag på grunn av rase, farge, kjønn, språk,\nreligion, politisk syn eller anna meining, nasjonalt eller sosialt\nopphav, eigedom, fødsel eller andre tilhøve.",
-            "Image": "cfdce9188e6f543b5d200b9fddbbf384"
+            "Text": "DEN INTERNASJONALE FRÅSEGNA OM MENNESKERETTANE\nINNLEIING\nDå det å godkjenne det naturlege menneskeverdet med like og umissande\nrettar for alle menneske på jorda er grunnlaget for fridom, rettferd og\nfred i verda,\nog då hån og vørdsløyse mot menneskerettane har ført til barbariske\nhandlingar som har skaka samvitet til menneskeretta, er framvoksteren i\nden verda der menneska skal ha talefridom og trusfridom og vere løyste\nfrå otte og naud, kunngjord som det høgste målet for kvart menneske,\nog då det er nødvendig at menneskerettane blir verna om av lover slik at\nmenneska ikkje blir tvinga til å finne den siste utvegen i å gjere\nopprør mot tyranni og trælekår,\nog då det er nødvendig å arbeide for betre tilhøve mellom nasjonane,\nog då folka i Dei Sameinte Nasjonane har stadfest trua si i denne pakta,\npå grunnleggjande menneskerettar, på menneskeverd og på same rett for\nmann og kvinne, og har vedteke å arbeide for sosiale framsteg og betre\nlevevilkår i større fridom,\nog då medlemsstatane har bunde seg til å fremje allmenn vørdnad for\npakta og halde seg etter menneskerettane og den grunnleggjande fridomen\ni samarbeid med Dei Sameinte Nasjonane,\nog då denne retten og fridomen må bli godkjend av alle dersom pakta skal\nbli røyndom,\nKUNNGJER\nGENERALFORSAMLINGA\nDEN INTERNASJONALE FRÅSEGNA OM MENNESKERETTANE, som skal peike mot eit\nsams mål for alle folk og nasjonar. Fråsegna må alltid vere i tankane\ntil den einskilde og dei styrande og få dei til å styrkje vørdnaden for\nrett og fridom gjennom undervisning og oppseding. Dei skal syte for at\nfråsegna blir allment kjend og etterlevd både i medlemslanda og i\ntilsynsområda, og arbeide trufast med dette både på nasjonalt og\ninternasjonalt grunnlag.\nArtikkel 1.\nAlle menneske er fødde til fridom og med same menneskeverd og\nmenneskerettar. Dei har fått fornuft og samvit og skal leve med\nkvarandre som brør.\nArtikkel 2.\nKvar einskild har krav på all den rett og fridom som fråsegna nemner,\nutan skilnad av noko slag på grunn av rase, farge, kjønn, språk,\nreligion, politisk syn eller anna meining, nasjonalt eller sosialt\nopphav, eigedom, fødsel eller andre tilhøve."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "55d1b8048ba4c7a6a62b216f2fd78a7e",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Den politiske stoda, lovverket eller dei internasjonale påboda eit land\nlever under, kan ikkje vere påskott til at det blir gjort skilnad på\nnokon i det landet eller området han høyrer til, anten landet har\nsjølvstende, står under tilsyn, er ikkje-sjølvstyrt eller sjølvstyret er\navgrensa på nokon annan måte.\nArtikkel 3.\nAlle har rett til liv, fridom og personleg tryggleik.\nArtikkel 4.\nIngen skal haldast i slaveri eller trældom. Slaveri og slavehandel av\nalle slag er forbode.\nArtikkel 5.\nIngen må torturerast, pinast eller straffast på umenneskeleg eller\nnedsetjande vis.\nArtikkel 6.\nAlle menneske har krav på at domstolane alle stader godtek dei som\nrettssubjekt.\nArtikkel 7.\nAlle\nnoko\nfolk\nslik\ner like for lova og har krav på same rettsvern, utan skilnad av\nslag. Alle har krav på same vern mot at det blir gjort skilnad på\ni strid med denne fråsegna, og vern mot tiltak som ber i seg ein\nfare.\nArtikkel 8.\nAlle har rett til å få fullgod hjelp frå dei lovlege nasjonale\ndomstolane når det gjeld handlingar som krenkjer den retten den\neinskilde har fått i grunnlova eller lovverket elles.\nArtikkel 9.\nIngan må utan lov og rett arresterast, setjast i fengsel eller visast ut\nor landet.\nArtikkel 10.\nAlle har same rett til å få saka si rettferdig og offentleg granska av\nein sjølvstendig og upartisk domstol, både når det er pliktene og retten\ntil den einskilde som skal fastsetjast, og når det er reist klagemål mot\nhan.\nArtikkel 11.\nDen som er klaga for ei straffbar handling, har rett til å bli rekna som\nskuldlaus til ein offentleg domstol, der han har fått full trygd for\nretten til å forsvare seg, har prova at han er skuldig etter lova.\nIngen skal kjennast skuldig i ei straffbar handling når det han har",
-            "Image": "55d1b8048ba4c7a6a62b216f2fd78a7e"
+            "Text": "Den politiske stoda, lovverket eller dei internasjonale påboda eit land\nlever under, kan ikkje vere påskott til at det blir gjort skilnad på\nnokon i det landet eller området han høyrer til, anten landet har\nsjølvstende, står under tilsyn, er ikkje-sjølvstyrt eller sjølvstyret er\navgrensa på nokon annan måte.\nArtikkel 3.\nAlle har rett til liv, fridom og personleg tryggleik.\nArtikkel 4.\nIngen skal haldast i slaveri eller trældom. Slaveri og slavehandel av\nalle slag er forbode.\nArtikkel 5.\nIngen må torturerast, pinast eller straffast på umenneskeleg eller\nnedsetjande vis.\nArtikkel 6.\nAlle menneske har krav på at domstolane alle stader godtek dei som\nrettssubjekt.\nArtikkel 7.\nAlle\nnoko\nfolk\nslik\ner like for lova og har krav på same rettsvern, utan skilnad av\nslag. Alle har krav på same vern mot at det blir gjort skilnad på\ni strid med denne fråsegna, og vern mot tiltak som ber i seg ein\nfare.\nArtikkel 8.\nAlle har rett til å få fullgod hjelp frå dei lovlege nasjonale\ndomstolane når det gjeld handlingar som krenkjer den retten den\neinskilde har fått i grunnlova eller lovverket elles.\nArtikkel 9.\nIngan må utan lov og rett arresterast, setjast i fengsel eller visast ut\nor landet.\nArtikkel 10.\nAlle har same rett til å få saka si rettferdig og offentleg granska av\nein sjølvstendig og upartisk domstol, både når det er pliktene og retten\ntil den einskilde som skal fastsetjast, og når det er reist klagemål mot\nhan.\nArtikkel 11.\nDen som er klaga for ei straffbar handling, har rett til å bli rekna som\nskuldlaus til ein offentleg domstol, der han har fått full trygd for\nretten til å forsvare seg, har prova at han er skuldig etter lova.\nIngen skal kjennast skuldig i ei straffbar handling når det han har"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "a1dcb6abcf6bfc962b00765b17d83ff6",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "gjort eller forsømt ikkje streid mot nasjonal lov eller folkeretten på\nden tida det hende. Han må heller ikkje dømast hardare enn det lova gav\nhøve til då den straffbare handlinga vart utførd.\nArtikkel 12.\nIngen skal lide under vilkårleg innblanding frå andre, anten det gjeld\nhans eigen person, familie, heim, brevskifte, eller åtak på ære og\nomdøme. Alle har krav på at lova vernar dei mot slik innblanding eller\nslike åtak.\nArtikkel 13.\nAlle menneske har rett til å ferdast fritt og til å velje bustad innafor\ngrensene i sitt eige land.\nDet skal også vere full rett til å reise ut or det landet ein bur i,\nsame kva land det er, og til å vende attende til sitt eige land.\nArtikkel 14.\nAlle som blir forfølgde har rett til å søkje og ta imot asyl i eit anna\nland.\nDenne retten gjeld ikkje i rettssakar som har røynleg grunnlag i\nupolitiske brotsverk eller handlingar som strir mot formålet og\nprinsippet til Dei Sameinte Nasjonane.\nArtikkel 15.\nAlle har rett til eit statsborgarskap.\nIngen skal misse statsborgarskapet sitt vilkårleg, eller bli nekta\nretten til å endre det.\nArtikkel 16.\nVaksne menn og kvinner har rett til å gifte seg og skipe familie utan\navgrensing av noko slag på grunn av rase, nasjonalitet eller religion.\nDei har krav på dei same rettane når det gjeld ekteskapet, både så lenge\nekteskapet varer og medan det blir løyst opp.\nEkteskapet må berre kome i stand etter fritt og fullt samtykke frå begge\npartar.\nFamilien er den naturlege og grunnleggjande eininga i samfunnet og har\nkrav på at staten og samfunnet vernar om det.\nArtikkel 17.\nAlle har rett til å ha eigedom åleine og saman med andre.\nIngen skal vilkårleg bli fråteken eigedomen sin.\nArtikkel 18.\nAlle har rett til tankefridom, samvitsfridom og religionfridom. Denne",
-            "Image": "a1dcb6abcf6bfc962b00765b17d83ff6"
+            "Text": "gjort eller forsømt ikkje streid mot nasjonal lov eller folkeretten på\nden tida det hende. Han må heller ikkje dømast hardare enn det lova gav\nhøve til då den straffbare handlinga vart utførd.\nArtikkel 12.\nIngen skal lide under vilkårleg innblanding frå andre, anten det gjeld\nhans eigen person, familie, heim, brevskifte, eller åtak på ære og\nomdøme. Alle har krav på at lova vernar dei mot slik innblanding eller\nslike åtak.\nArtikkel 13.\nAlle menneske har rett til å ferdast fritt og til å velje bustad innafor\ngrensene i sitt eige land.\nDet skal også vere full rett til å reise ut or det landet ein bur i,\nsame kva land det er, og til å vende attende til sitt eige land.\nArtikkel 14.\nAlle som blir forfølgde har rett til å søkje og ta imot asyl i eit anna\nland.\nDenne retten gjeld ikkje i rettssakar som har røynleg grunnlag i\nupolitiske brotsverk eller handlingar som strir mot formålet og\nprinsippet til Dei Sameinte Nasjonane.\nArtikkel 15.\nAlle har rett til eit statsborgarskap.\nIngen skal misse statsborgarskapet sitt vilkårleg, eller bli nekta\nretten til å endre det.\nArtikkel 16.\nVaksne menn og kvinner har rett til å gifte seg og skipe familie utan\navgrensing av noko slag på grunn av rase, nasjonalitet eller religion.\nDei har krav på dei same rettane når det gjeld ekteskapet, både så lenge\nekteskapet varer og medan det blir løyst opp.\nEkteskapet må berre kome i stand etter fritt og fullt samtykke frå begge\npartar.\nFamilien er den naturlege og grunnleggjande eininga i samfunnet og har\nkrav på at staten og samfunnet vernar om det.\nArtikkel 17.\nAlle har rett til å ha eigedom åleine og saman med andre.\nIngen skal vilkårleg bli fråteken eigedomen sin.\nArtikkel 18.\nAlle har rett til tankefridom, samvitsfridom og religionfridom. Denne"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "a21186710d05b56424f6958a41378e05",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "retten gjeld fridom til å endre religion eller tru, og fridom til å\nmålbere sin eigen religion eller si eiga truslære i gjerning og\nframferd, anten åleine eller saman med andre, offentleg eller privat.\nArtikkel 19.\nAlle skal ha meinings- og ytringsfridom. Denne retten gjeld fridom til å\nha meiningar utan innblanding, til å søkje, ta imot og gjere kjent\nopplysningar og idear gjennom alle dei informasjonskanalar som finst, og\npå tvers av alle grenser.\nArtikkel 20.\nAlle har rett til fritt å vere med på møte og i organisasjonar med\nfredelege formål.\nIngen kan tvingast inn i ein organisasjon.\nArtikkel 21.\nAlle skal ha rett til å vere med på å styre landet sitt, beinveges eller\ngjennom talsmenn som er peika ut i frie val.\nAlle skal ha same retten til å gjere teneste i offentlege ombod i landet\nsitt.\nFolkeviljen skal vere grunnlaget for den makta som er lagd til\nstyremaktene. Folkeviljen skal kome til syne gjennom regelfaste og\nrøynlege val, som er grunna på allmenn og lik røysterett i løynlege val\neller på annan jamgod røystemåte.\nArtikkel 22.\nKvar einskild medlem i samfunnet har rett til sosial tryggleik, og har\nkrav på at dei økonomiske, sosiale og kulturelle godane, som han ikkje\nkan vere utan om han skal ha vørdnad for seg sjølv og styrke den\npersonlege karakteren sin, blir løyste gjennom nasjonale tiltak og\ninternasjonalt samarbeid i samsvar med det kvar stat maktar.\nArtikkel 23.\nAlle har rett til arbeid, til fritt å velje yrke, til rettferdige og\ngode arbeidstilhøve og vern mot arbeidsløyse.\nAlle har same rett til å få lik betaling for likt arbeid, utan skilnad\nav noko slag.\nDen som arbeider har krav på rettferdig og god betaling, så han kan syte\nfor familien sin og seg sjølv på ein menneskeverdig måte, og om det\ntrengst, få hjelp gjennom andre og utfyllande sosiale midlar.\nAlle har rett til å skipe og melde seg inn i fagforeningar for å verne\ninteressene sine.\nArtikkel 24.\nAlle har rett til kvile og fritid, og dermed til ei rimeleg avgrensa",
-            "Image": "a21186710d05b56424f6958a41378e05"
+            "Text": "retten gjeld fridom til å endre religion eller tru, og fridom til å\nmålbere sin eigen religion eller si eiga truslære i gjerning og\nframferd, anten åleine eller saman med andre, offentleg eller privat.\nArtikkel 19.\nAlle skal ha meinings- og ytringsfridom. Denne retten gjeld fridom til å\nha meiningar utan innblanding, til å søkje, ta imot og gjere kjent\nopplysningar og idear gjennom alle dei informasjonskanalar som finst, og\npå tvers av alle grenser.\nArtikkel 20.\nAlle har rett til fritt å vere med på møte og i organisasjonar med\nfredelege formål.\nIngen kan tvingast inn i ein organisasjon.\nArtikkel 21.\nAlle skal ha rett til å vere med på å styre landet sitt, beinveges eller\ngjennom talsmenn som er peika ut i frie val.\nAlle skal ha same retten til å gjere teneste i offentlege ombod i landet\nsitt.\nFolkeviljen skal vere grunnlaget for den makta som er lagd til\nstyremaktene. Folkeviljen skal kome til syne gjennom regelfaste og\nrøynlege val, som er grunna på allmenn og lik røysterett i løynlege val\neller på annan jamgod røystemåte.\nArtikkel 22.\nKvar einskild medlem i samfunnet har rett til sosial tryggleik, og har\nkrav på at dei økonomiske, sosiale og kulturelle godane, som han ikkje\nkan vere utan om han skal ha vørdnad for seg sjølv og styrke den\npersonlege karakteren sin, blir løyste gjennom nasjonale tiltak og\ninternasjonalt samarbeid i samsvar med det kvar stat maktar.\nArtikkel 23.\nAlle har rett til arbeid, til fritt å velje yrke, til rettferdige og\ngode arbeidstilhøve og vern mot arbeidsløyse.\nAlle har same rett til å få lik betaling for likt arbeid, utan skilnad\nav noko slag.\nDen som arbeider har krav på rettferdig og god betaling, så han kan syte\nfor familien sin og seg sjølv på ein menneskeverdig måte, og om det\ntrengst, få hjelp gjennom andre og utfyllande sosiale midlar.\nAlle har rett til å skipe og melde seg inn i fagforeningar for å verne\ninteressene sine.\nArtikkel 24.\nAlle har rett til kvile og fritid, og dermed til ei rimeleg avgrensa"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "23528fce9f3167acdacbbe213fc70f72",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "arbeidstid, og til ferie med løn.\nArtikkel 25.\nAlle har rett til ein levestandard som kan tryggje helsa og velværet til\nforsytaren og familien hans, og gje dei mat, klede, hus, helsestell og\nnødvendige sosiale trygder ved arbeidsløyse, uføre, dødsfall, alderdom\neller andre tilhøve som skiplar livskåra, og som forsytaren ikkje er\nherre over.\nMor og barn har rett til særskild omsorg og hjelp. Alle barn skal ha\nsame sosiale vern, anten dei er fødde i eller utafor ekteskapet.\nArtikkel 26.\nAlle har rett til undervisning. Opplæringa skal vere kostnadsfri, i det\nminste i den allmenne grunnskulen. Den elementære undervisninga skal\nvere pliktig for alle. Alle skal ha høve til å få fagopplæring, og det\nskal vere like vilkår for alle til å få høgre utdaning, alt etter dei\nevnene dei har.\nUndervisninga skal ha til mål å styrkje den menneskelege personlegdomen\nog auke vørdnaden for menneskerettane og den grunnleggjande fridomen,\nfremje skjønsemd, toleranse og venskap mellom alle nasjonar, folkeslag\nog religiøse grupper og stø fredsarbeidet til Dei Sameinte Nasjonane.\nForeldra har førsteretten til å velje kva slag opplæring barna deira\nskal få.\nArtikkel 27.\nAlle har rett til fritt å vere med i det kulturelle livet i samfunnet,\ntil å nyte kunst og til å få sin part av dei vitskaplege nyvinningane og\ngodane som følgjer med dei.\nKvar einskild har rett til å få verna dei moralske og materielle\ninteressene som han har skapt seg gjennom vitskapleg, litterært eller\nkunstnarleg arbeid.\nArtikkel 28.\nAlle har krav på å få leve under slike sosiale kår og internasjonale\ntilhøve at dei fullt ut kan gjere til røyndom retten og fridomen i denne\nfråsegna.\nArtikkel 29.\nAlle har plikter andsynes samfunnet, då personlegdomen til den einskilde\neinast der kan få frie og fullgode voksterkår.\nRetten og fridomen til den einskilde skal ikkje vere avgrensa av anna\nenn det lova tydeleg slår fast for å tryggje den vørdnaden alle andre\nhar krav på når det gjeld rett og fridom, og dei krav som eit\ndemokratisk samfunn med rette kan setje til moral, offentleg orden og\nallmenn velferd.",
-            "Image": "23528fce9f3167acdacbbe213fc70f72"
+            "Text": "arbeidstid, og til ferie med løn.\nArtikkel 25.\nAlle har rett til ein levestandard som kan tryggje helsa og velværet til\nforsytaren og familien hans, og gje dei mat, klede, hus, helsestell og\nnødvendige sosiale trygder ved arbeidsløyse, uføre, dødsfall, alderdom\neller andre tilhøve som skiplar livskåra, og som forsytaren ikkje er\nherre over.\nMor og barn har rett til særskild omsorg og hjelp. Alle barn skal ha\nsame sosiale vern, anten dei er fødde i eller utafor ekteskapet.\nArtikkel 26.\nAlle har rett til undervisning. Opplæringa skal vere kostnadsfri, i det\nminste i den allmenne grunnskulen. Den elementære undervisninga skal\nvere pliktig for alle. Alle skal ha høve til å få fagopplæring, og det\nskal vere like vilkår for alle til å få høgre utdaning, alt etter dei\nevnene dei har.\nUndervisninga skal ha til mål å styrkje den menneskelege personlegdomen\nog auke vørdnaden for menneskerettane og den grunnleggjande fridomen,\nfremje skjønsemd, toleranse og venskap mellom alle nasjonar, folkeslag\nog religiøse grupper og stø fredsarbeidet til Dei Sameinte Nasjonane.\nForeldra har førsteretten til å velje kva slag opplæring barna deira\nskal få.\nArtikkel 27.\nAlle har rett til fritt å vere med i det kulturelle livet i samfunnet,\ntil å nyte kunst og til å få sin part av dei vitskaplege nyvinningane og\ngodane som følgjer med dei.\nKvar einskild har rett til å få verna dei moralske og materielle\ninteressene som han har skapt seg gjennom vitskapleg, litterært eller\nkunstnarleg arbeid.\nArtikkel 28.\nAlle har krav på å få leve under slike sosiale kår og internasjonale\ntilhøve at dei fullt ut kan gjere til røyndom retten og fridomen i denne\nfråsegna.\nArtikkel 29.\nAlle har plikter andsynes samfunnet, då personlegdomen til den einskilde\neinast der kan få frie og fullgode voksterkår.\nRetten og fridomen til den einskilde skal ikkje vere avgrensa av anna\nenn det lova tydeleg slår fast for å tryggje den vørdnaden alle andre\nhar krav på når det gjeld rett og fridom, og dei krav som eit\ndemokratisk samfunn med rette kan setje til moral, offentleg orden og\nallmenn velferd."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "194eeeea8c0717fc7f32ff6ff08828cc",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Denne retten og fridomen kan ikkje i noko høve nyttast i strid med\nformålet og prinsippet til Dei Sameinte Nasjonane.\nArtikkel 30.\nIkkje noko i denne fråsegna må tolkast slik at det gjev stat, grupper\neller einskildmenneske rett til å vere med på tiltak eller handlingar av\nnoko slag som har til mål å øydeleggje den retten og fridomen som denne\nfråsegna stadfester.",
-            "Image": "194eeeea8c0717fc7f32ff6ff08828cc"
+            "Text": "Denne retten og fridomen kan ikkje i noko høve nyttast i strid med\nformålet og prinsippet til Dei Sameinte Nasjonane.\nArtikkel 30.\nIkkje noko i denne fråsegna må tolkast slik at det gjev stat, grupper\neller einskildmenneske rett til å vere med på tiltak eller handlingar av\nnoko slag som har til mål å øydeleggje den retten og fridomen som denne\nfråsegna stadfester."
         }
     }
 }

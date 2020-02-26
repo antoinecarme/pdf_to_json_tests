@@ -1,93 +1,93 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581467025,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "e6e019726151f7611257e56a8d9976ee",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "NSA‘ NGA NJÚ TE PA MFÉÉ KÊT MÚN NYÜTU\nNJÚE ME SHÚKÉT\nLo’ te ka kúmshe nga wûme, yúe a njit ne gú púen te ngúet púen nyütu pua\npa mféé kêr’ap ngúenengúe sebe, pe na yire mbe map(ureyúe’ne) kú ghét\nngam pua sappé ne fúeshe te njú na, lo’ te ka fét kwen pua tâne pa mféé\nkêt mún nyütu kpa’ nkiére gû ngétne nga pâre yúe a mfiébe\nWupme pa te njú na, pua ka tuo tuo njú mfé ira yúe púen nyütu ntuo pe ne\nkú shúkét pua kú wûshe te túm túme puô pua ngúe’, shi na mbe pô yi nsa’\nme pum yu sha’ múm nyütu na,\nLo’ te ka a nta’ mi pa mféékêt mún nyütu kpa’ mbe yu shî te nsa’ngu\nmféékêt me shi’ mi a me yétne yi njit mún nyütu me ndînî ne pi’ tu te\nnsa’kpen pua yit mún te ngu na,\nLo’ te ka a ntá suo nshi’ shâne sun ma fâne túm túm ma,\nLo’ te ka, te mâ kèn, túm túm te nda shut ngu ngu mbône kpa’ mbit nféére\npemtú yap te map map mféékêt mún nyütu, lo’te wûme pua nga’két mbe mún\nnyütu, te ngúenengúe pa mféékêt pemba pua pemgbié mbi pit nsa’ ndîshut\nte yi ndùere tam kut te wume la’ pua yi mféére fuomkét fuomkét mmanjé\nwume te ndà lône kú ghét ngam ma.\nLo’ te ka gû nsa’ ngu ngu kpa’ nsèn te pamme mbuo pua nda nshùt\nngumbône, yi mbe ngum nshin pa mféékêt mún nyütu pua map map kú ghét\nngam ma,\nLo’ te ka yi nyéte mbuomshe shire shire pa mféékêt pua pa kú ghékét ngam\npe na pô nga ngûre te yi ngûre yire yi gbèt kèn nsebe na,\nPuomshe Mbadem mún\nnâ tupshe yire yi nsa’ nga njú, ti pa mféékêt mún nyütu, po yúe wupme\nndi nshur’úe a nta’mi gû túm túm pua ngu ngu yétne yi ngum pô nshin na,\nme shi’mi gû púen ne gû pe kpúére pûen te la’, yúe pe nshüshü’ yire yi\nnsa’ ngam me wupme na, pe ne ma’si’ te yu lére puo kúú wupme, a yétne fa\npé, lo’te ndi ngam membéte, túm te ngu ngu pua fâne ngu ngu, lo’ te\nkúmshe pua shétte te ngétne nga mbône mún nsebe ngúe ngúe me rü pa te\nngu ngu nda shút puonepuo pua fâne nsié ngu ngu shúe pe nsa’na.\nPum mgbetî 1\nPe nâ mvé gú puen nyütu pô te mbe kú ghét ngam pua ngúenengúe mbe te\nwûme nsebe pua pa mféékêt. Pen â ntúm te mbe kú rem ngam pua fabshe\nngam, a nshi njîr’ap ne yi nshâne ngétne nga shap pô te wupme pontâ.\nMgbetî mbète 2\nNshié mún yétne yi ngét kú ṅwet te gû pa mféékêt pua kú ghét ngam túm te\nyire yi nsa’ nga njú, shi mshié nsènte me túm, me ngup, me sù, me\nshùket, me nga nyinyi, me nda ntaṅ, ké mo’ nshié wupme túm lo’te la’ ké\nlo’ te fâne púen’e, lo’ te nkap, lo’ te vé ké lo’ te mo’ nshié mbe.",
-            "Image": "e6e019726151f7611257e56a8d9976ee"
+            "Text": "NSA‘ NGA NJÚ TE PA MFÉÉ KÊT MÚN NYÜTU\nNJÚE ME SHÚKÉT\nLo’ te ka kúmshe nga wûme, yúe a njit ne gú púen te ngúet púen nyütu pua\npa mféé kêr’ap ngúenengúe sebe, pe na yire mbe map(ureyúe’ne) kú ghét\nngam pua sappé ne fúeshe te njú na, lo’ te ka fét kwen pua tâne pa mféé\nkêt mún nyütu kpa’ nkiére gû ngétne nga pâre yúe a mfiébe\nWupme pa te njú na, pua ka tuo tuo njú mfé ira yúe púen nyütu ntuo pe ne\nkú shúkét pua kú wûshe te túm túme puô pua ngúe’, shi na mbe pô yi nsa’\nme pum yu sha’ múm nyütu na,\nLo’ te ka a nta’ mi pa mféékêt mún nyütu kpa’ mbe yu shî te nsa’ngu\nmféékêt me shi’ mi a me yétne yi njit mún nyütu me ndînî ne pi’ tu te\nnsa’kpen pua yit mún te ngu na,\nLo’ te ka a ntá suo nshi’ shâne sun ma fâne túm túm ma,\nLo’ te ka, te mâ kèn, túm túm te nda shut ngu ngu mbône kpa’ mbit nféére\npemtú yap te map map mféékêt mún nyütu, lo’te wûme pua nga’két mbe mún\nnyütu, te ngúenengúe pa mféékêt pemba pua pemgbié mbi pit nsa’ ndîshut\nte yi ndùere tam kut te wume la’ pua yi mféére fuomkét fuomkét mmanjé\nwume te ndà lône kú ghét ngam ma.\nLo’ te ka gû nsa’ ngu ngu kpa’ nsèn te pamme mbuo pua nda nshùt\nngumbône, yi mbe ngum nshin pa mféékêt mún nyütu pua map map kú ghét\nngam ma,\nLo’ te ka yi nyéte mbuomshe shire shire pa mféékêt pua pa kú ghékét ngam\npe na pô nga ngûre te yi ngûre yire yi gbèt kèn nsebe na,\nPuomshe Mbadem mún\nnâ tupshe yire yi nsa’ nga njú, ti pa mféékêt mún nyütu, po yúe wupme\nndi nshur’úe a nta’mi gû túm túm pua ngu ngu yétne yi ngum pô nshin na,\nme shi’mi gû púen ne gû pe kpúére pûen te la’, yúe pe nshüshü’ yire yi\nnsa’ ngam me wupme na, pe ne ma’si’ te yu lére puo kúú wupme, a yétne fa\npé, lo’te ndi ngam membéte, túm te ngu ngu pua fâne ngu ngu, lo’ te\nkúmshe pua shétte te ngétne nga mbône mún nsebe ngúe ngúe me rü pa te\nngu ngu nda shút puonepuo pua fâne nsié ngu ngu shúe pe nsa’na.\nPum mgbetî 1\nPe nâ mvé gú puen nyütu pô te mbe kú ghét ngam pua ngúenengúe mbe te\nwûme nsebe pua pa mféékêt. Pen â ntúm te mbe kú rem ngam pua fabshe\nngam, a nshi njîr’ap ne yi nshâne ngétne nga shap pô te wupme pontâ.\nMgbetî mbète 2\nNshié mún yétne yi ngét kú ṅwet te gû pa mféékêt pua kú ghét ngam túm te\nyire yi nsa’ nga njú, shi mshié nsènte me túm, me ngup, me sù, me\nshùket, me nga nyinyi, me nda ntaṅ, ké mo’ nshié wupme túm lo’te la’ ké\nlo’ te fâne púen’e, lo’ te nkap, lo’ te vé ké lo’ te mo’ nshié mbe."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "f9b81203a4746b499cae583e323b6020",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Mo’nké\nkèn ké\nsâ ngu\nmbe pô\nnshié nsènte ntap ndo’ tèr’i mo’ ngâ shi te mgbète ntaṅ, mgbète\nmgbète fâne túm túm ngu ké sâ ngu múm nyütu, pa yúe yire ngu ké\nmbe ne shûtu na, nshin nsa’ mo’ ngu na, shi pe ne kú ghét ngam ké\nne pâshe shútu na.\nMgbètî mbète 3\nNshié mún nyütu ghét mféé kêt wume, mféé kêt kú ghét ngam pua mféé kêt\ntènntúúm wume te mbe mi.\nMgbètî mbète 4\nMo’ nshié mún ntap ndo’ pe’i mkpèn ké te mbe fa’kpèn ne, me nga kâ kpèn\npua ntèn kpèn ka kpa’ njié kèn te gû mbe map mentèn na.\nMgbètî mbète 5\nMo’ nshié múm nyütu ntap ndo’ pi’ kwete’i ngúe’ menduwan.\nMgbètî mbète 6\nNshié mún ghét mféé kêt wûme ntu nté ni pue nkèn te gû li’ mentèn.\nMgbètî mbète 7\nGû púen kpa’ na mbe pô ngúe ngúe mesù kèn mbi pit ngékét mféé kêt shi\nnsènte mbe te ka kèn ntúe’she wap ngúenengúe na. Gû yap ghékét\nngúenengúe mféé kêt ntúe’she me shi’ yi nkú’ ranami yúe a nte pe nsùene\nyire nsa’ ngam ma, mo’ nké yétne yi nèn nshié rône yúe a nsüshe rane-mi\nna.\nMgbètî mbète 8\nNshié mún pua ne mféé kêt yi mfa ṅwer’i tu gû nda sa’ ngu yúe a yétne yi\nmfèr’i te map map pa mféé kêr’i túm te mâ kèn ké kèn ngu.\nMgbètî mbète 9\nNshié mún mâ njetne’ i yi mbe yu vé te kû tú mo’ mún, ké yi mshüshü’ i,\nké yi ntûme’i te ngu.\nMgbètî mbète 10\nNshié mún nyütu ghét mféé kêt, ngúenengúe nsebe, ne ka pe njetne yi nju’\nmbie’ne sa’ shi me ndô ngúere te nda sa’ shûtu shi nga rane-mi ntúúm ṅa\nyùe pe ntuo li sa, tupshe pa mféé kêr’i pua kêr’i na, ké yi ntupshe mgbú\nsa’ shi yúe a ntuo suo’i ne sa’ na.\nMgbètî mbète 11\nNshié mún’úe pe nsôme’i na, pum na mbe ndi’ pô ngâ gbú sa’, kúka kèn\nki’re nguo kwete mgbú sa’ shi te nda sa’, me ndô ngúere, ṅa yúe loya\nnjétne yi mfèr’i pôkéri na.\nPe ntap ndo’ suo’i sa’ ndun nshié mún, lo’ te ngékét pua shu shi ghet ké\nshu shi rié, fú’ yié ka a ndi’ pô fubkèn túm te kèn ngu ke’ ken njú\nmansié. Mo’ nké shi pe mbi’ ndo’ njap nsuo sa’ ndun mún à rét nja’ yúe a",
-            "Image": "f9b81203a4746b499cae583e323b6020"
+            "Text": "Mo’nké\nkèn ké\nsâ ngu\nmbe pô\nnshié nsènte ntap ndo’ tèr’i mo’ ngâ shi te mgbète ntaṅ, mgbète\nmgbète fâne túm túm ngu ké sâ ngu múm nyütu, pa yúe yire ngu ké\nmbe ne shûtu na, nshin nsa’ mo’ ngu na, shi pe ne kú ghét ngam ké\nne pâshe shútu na.\nMgbètî mbète 3\nNshié mún nyütu ghét mféé kêt wume, mféé kêt kú ghét ngam pua mféé kêt\ntènntúúm wume te mbe mi.\nMgbètî mbète 4\nMo’ nshié mún ntap ndo’ pe’i mkpèn ké te mbe fa’kpèn ne, me nga kâ kpèn\npua ntèn kpèn ka kpa’ njié kèn te gû mbe map mentèn na.\nMgbètî mbète 5\nMo’ nshié múm nyütu ntap ndo’ pi’ kwete’i ngúe’ menduwan.\nMgbètî mbète 6\nNshié mún ghét mféé kêt wûme ntu nté ni pue nkèn te gû li’ mentèn.\nMgbètî mbète 7\nGû púen kpa’ na mbe pô ngúe ngúe mesù kèn mbi pit ngékét mféé kêt shi\nnsènte mbe te ka kèn ntúe’she wap ngúenengúe na. Gû yap ghékét\nngúenengúe mféé kêt ntúe’she me shi’ yi nkú’ ranami yúe a nte pe nsùene\nyire nsa’ ngam ma, mo’ nké yétne yi nèn nshié rône yúe a nsüshe rane-mi\nna.\nMgbètî mbète 8\nNshié mún pua ne mféé kêt yi mfa ṅwer’i tu gû nda sa’ ngu yúe a yétne yi\nmfèr’i te map map pa mféé kêr’i túm te mâ kèn ké kèn ngu.\nMgbètî mbète 9\nNshié mún mâ njetne’ i yi mbe yu vé te kû tú mo’ mún, ké yi mshüshü’ i,\nké yi ntûme’i te ngu.\nMgbètî mbète 10\nNshié mún nyütu ghét mféé kêt, ngúenengúe nsebe, ne ka pe njetne yi nju’\nmbie’ne sa’ shi me ndô ngúere te nda sa’ shûtu shi nga rane-mi ntúúm ṅa\nyùe pe ntuo li sa, tupshe pa mféé kêr’i pua kêr’i na, ké yi ntupshe mgbú\nsa’ shi yúe a ntuo suo’i ne sa’ na.\nMgbètî mbète 11\nNshié mún’úe pe nsôme’i na, pum na mbe ndi’ pô ngâ gbú sa’, kúka kèn\nki’re nguo kwete mgbú sa’ shi te nda sa’, me ndô ngúere, ṅa yúe loya\nnjétne yi mfèr’i pôkéri na.\nPe ntap ndo’ suo’i sa’ ndun nshié mún, lo’ te ngékét pua shu shi ghet ké\nshu shi rié, fú’ yié ka a ndi’ pô fubkèn túm te kèn ngu ke’ ken njú\nmansié. Mo’ nké shi pe mbi’ ndo’ njap nsuo sa’ ndun mún à rét nja’ yúe a"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "815c16c8ad8d2e336eb4481ba7cf54a0",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "pembi té mbe yi mgbète te fú’ fubkén na.\nMgbètî mbète 12\nNshié mún yié ndi’ yúe pe ndo’ mbe mbib’i ne yi lo’ nyî te nga wumeshi\nyi’she, pa nshut nda’i, li’ shu’i ké lérewa shi, shi ṅúshe ntu nté mi\npua ngétne nga shi yi mbôkét. Nshié mún nyütu ghét mféé kêt túe’she lo’\npuo kén meshi’ yi nkü yúe pe mbe mbib’i ké yi mbe ṅùshe’ i ne.\nMgbètî mbète 13\nNshié mún nyütu ghét mféé kêt ghét kú yi nkétne ne yi nsho’ li’ shu’i\n(nka’shi) te nshié ngu.\nNshié mún nyütu ghét mféé kêt yi ntúm nshié ngu, mbû ngu’i, mbit nkù\nnjétne yi mbùtne ntúúm.\nMgbètî mbète 14\nTe ka pe mbe nta’ vé mún na, mbû i ghét mféé kêt yi nta’ li’ kebkebe\nmbit, nkú kwete li’ kebkebe te shimo’ ngu.\nYire yi mféé kêt ndi’ yu rié te pa vévé yúe mún ghét püü ngûre na, ké te\nngétne nga yúe a ndi’ yùni pua nsa’ nga njú mansié na.\nMgbètî mbète 15\nNshié mún nyütu ghét mféé kêt yi mbe ntúmsié ndî la’.\nA ndi yétni ne yúe pe nkuot ntúmsié la’ puo mún, ké yúe pe nkuot mféé\nkêt yi kupshe ntúmsié la’pue’i nâ.\nMgbètî mbète 16\nLo’ te lúm li,membâ po memgbié nghétkét mféé kêt yi ndâme mbit njétne yi\nnsèn ngùet mún, shi tié nto’ne nga túm, nga la’ púen ké nga nyinyi púen\nne. Pe ghét két na mféé kêt te lam pô ngùenengùe, lo’ te wume lam pua\nfú’ yié ka pe ṅo lam ma.\nKutlam shu na pô te ndî nshut pua pééme pè’ghâ yi ndâme.\nNgúet mún pua nki map mbadem mún lo’ fem nshin mo’nké mbi ghét mféé kêt\nkwete shi lo’ puo mbadem mún pua nsa’ngu.\nMgbètî mbète 17\nNshié mún, yi’she ké me rü pùen ne, ghét mféé kêt ghét kû yi yúm.\nPe mâ njétnî yi nvé mún nkuot kû yu’i.\nMgbètî mbète 18\nNshié mún nyütu ghét mféé kêt kú rem ngam, yi, ne nga nyinyi; yire yi\nntupshe yi ngét kú kupshe nga nyinyi ké ghét kú ghét nga nyinyi yi’she\nké te puomshe me ndôngúere ké me lúemshe, lo’ te yu lére, gû ngéri, fa\nngûre ne nyinyi pua ghét gû mgbète ntuot nga nyinyi.",
-            "Image": "815c16c8ad8d2e336eb4481ba7cf54a0"
+            "Text": "pembi té mbe yi mgbète te fú’ fubkén na.\nMgbètî mbète 12\nNshié mún yié ndi’ yúe pe ndo’ mbe mbib’i ne yi lo’ nyî te nga wumeshi\nyi’she, pa nshut nda’i, li’ shu’i ké lérewa shi, shi ṅúshe ntu nté mi\npua ngétne nga shi yi mbôkét. Nshié mún nyütu ghét mféé kêt túe’she lo’\npuo kén meshi’ yi nkü yúe pe mbe mbib’i ké yi mbe ṅùshe’ i ne.\nMgbètî mbète 13\nNshié mún nyütu ghét mféé kêt ghét kú yi nkétne ne yi nsho’ li’ shu’i\n(nka’shi) te nshié ngu.\nNshié mún nyütu ghét mféé kêt yi ntúm nshié ngu, mbû ngu’i, mbit nkù\nnjétne yi mbùtne ntúúm.\nMgbètî mbète 14\nTe ka pe mbe nta’ vé mún na, mbû i ghét mféé kêt yi nta’ li’ kebkebe\nmbit, nkú kwete li’ kebkebe te shimo’ ngu.\nYire yi mféé kêt ndi’ yu rié te pa vévé yúe mún ghét püü ngûre na, ké te\nngétne nga yúe a ndi’ yùni pua nsa’ nga njú mansié na.\nMgbètî mbète 15\nNshié mún nyütu ghét mféé kêt yi mbe ntúmsié ndî la’.\nA ndi yétni ne yúe pe nkuot ntúmsié la’ puo mún, ké yúe pe nkuot mféé\nkêt yi kupshe ntúmsié la’pue’i nâ.\nMgbètî mbète 16\nLo’ te lúm li,membâ po memgbié nghétkét mféé kêt yi ndâme mbit njétne yi\nnsèn ngùet mún, shi tié nto’ne nga túm, nga la’ púen ké nga nyinyi púen\nne. Pe ghét két na mféé kêt te lam pô ngùenengùe, lo’ te wume lam pua\nfú’ yié ka pe ṅo lam ma.\nKutlam shu na pô te ndî nshut pua pééme pè’ghâ yi ndâme.\nNgúet mún pua nki map mbadem mún lo’ fem nshin mo’nké mbi ghét mféé kêt\nkwete shi lo’ puo mbadem mún pua nsa’ngu.\nMgbètî mbète 17\nNshié mún, yi’she ké me rü pùen ne, ghét mféé kêt ghét kû yi yúm.\nPe mâ njétnî yi nvé mún nkuot kû yu’i.\nMgbètî mbète 18\nNshié mún nyütu ghét mféé kêt kú rem ngam, yi, ne nga nyinyi; yire yi\nntupshe yi ngét kú kupshe nga nyinyi ké ghét kú ghét nga nyinyi yi’she\nké te puomshe me ndôngúere ké me lúemshe, lo’ te yu lére, gû ngéri, fa\nngûre ne nyinyi pua ghét gû mgbète ntuot nga nyinyi."
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "895d8f3283889475deaf50e7bc0cc120",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Mgbètî mbète 19\nNshié mún pua ne mféé kêt ghét kú ghét wupme ne yi nshúkére, yire yi\nntupshe mféé kêt yi mbe shi yétne yi kwete nkamkét ngam me shi’ gû wupme\nshi ne mféé kêt yi njétne yi nta’ yi nkwete mbit nsam gû pesa’kúe pua\nwupme te nshié manjé yi nsâme.\nMgbètî mbète 20\nNshié mún pua ne mféé kêt ghét kú ghét puomshe ne ghét nda nshút puomshe\nte fùeshe.\nPe fa pe yié yîri mún i pe mún nda puomshe.\nMgbètî mbète 21\nNshié mún ghét mféé kêt yi nshâre tésù te pesa’kúe npa ngu’i, ké me mún\nnténe, ké njem púenpúe pe sha’ sh sh na.\nNshié mún ghét mféé kêt yi ngét ntu nté te nsa’ngu’i lo’te ngúenengúe\nmbgète kèn yi kwete.\nKû ntú pa te ngu pe na yire mbe meyùe’ne (to’she) ne pâwa nsa’ngu. Yire\nyi kû ntúúm pe nâ yitkéri te nshôshî pô lo’ te shisho’ nzènkét te gû pe\nrap fù’, ṅère nshié mún sho’ yi ngúengúe yié momap, me lúem ké yúe pe\nnsho ’mo’ nza féénî shi yît mún mbe na.\nMgbètî mbète 22\nNshié mún, me rü lala pa te ngu, ghét mféé kêt yi mbe ne tèn ntúúm wume\nmb ne mún. A nâ tèt ngâ shi lo’te yi kwete lúúm ntúúm pa mféé kêt\nshüshü’ mbèt pam, fâne púen te la’ ne nga yi ntuet púen yúe a nkpa’she\nnjit te nga wûme shi na, pua nga lúere púnte ntu nté mi na, lo’ te\nma’si’ ngu pua shâne wume ngu ngu, mbe njùe’ne te nga yi nsh she ne nga\nmbètpam nshié ngu.\nMgbètî mbète 23\nNshié mún nyütu ghét mféé kêt fa’, kú sho’ fa’ shi, lo’te mgbéte fa’ yùe\na pua yi ghapshe ngúe ngúe ne shîre lem túúm pua yi nèn manjé ne nga shu\nndem na.\nGú pùen ghétkét mféé kêt ngúenengúe péé te ngúenengúe fa’ shi rane mi\nmbe.\nNshié ngâ fa’ ghét mféé kêt péé a pe yétni mbit mbe yi shîre ntúúm mbe\nnshâre’i pua ngùr’i te wume yúe a yùne pua wûme ndun mún nyütu na,\nnzîshîpe yi mbe nsham pa mebú’re te shimo’mmanjé yiéka a ntâne na.\nNshié mún ghét mféé kêt yi njùp nda nshùt tùe’she séé mbétpam pua shimo’\npùen mbi pit njétne yi nyi te shire shúe nda shùt meshi’ tùe’she séé\nshi.\nMgbètî mbète 24\nNshié mún ghét mféé kêt gbùne ṅwet pua pa fône fú’ndem ntamme pékét\nmgbète fú’ fa’ne ngab ngab’úe a pua yi péé te pe rap fú’ na.",
-            "Image": "895d8f3283889475deaf50e7bc0cc120"
+            "Text": "Mgbètî mbète 19\nNshié mún pua ne mféé kêt ghét kú ghét wupme ne yi nshúkére, yire yi\nntupshe mféé kêt yi mbe shi yétne yi kwete nkamkét ngam me shi’ gû wupme\nshi ne mféé kêt yi njétne yi nta’ yi nkwete mbit nsam gû pesa’kúe pua\nwupme te nshié manjé yi nsâme.\nMgbètî mbète 20\nNshié mún pua ne mféé kêt ghét kú ghét puomshe ne ghét nda nshút puomshe\nte fùeshe.\nPe fa pe yié yîri mún i pe mún nda puomshe.\nMgbètî mbète 21\nNshié mún ghét mféé kêt yi nshâre tésù te pesa’kúe npa ngu’i, ké me mún\nnténe, ké njem púenpúe pe sha’ sh sh na.\nNshié mún ghét mféé kêt yi ngét ntu nté te nsa’ngu’i lo’te ngúenengúe\nmbgète kèn yi kwete.\nKû ntú pa te ngu pe na yire mbe meyùe’ne (to’she) ne pâwa nsa’ngu. Yire\nyi kû ntúúm pe nâ yitkéri te nshôshî pô lo’ te shisho’ nzènkét te gû pe\nrap fù’, ṅère nshié mún sho’ yi ngúengúe yié momap, me lúem ké yúe pe\nnsho ’mo’ nza féénî shi yît mún mbe na.\nMgbètî mbète 22\nNshié mún, me rü lala pa te ngu, ghét mféé kêt yi mbe ne tèn ntúúm wume\nmb ne mún. A nâ tèt ngâ shi lo’te yi kwete lúúm ntúúm pa mféé kêt\nshüshü’ mbèt pam, fâne púen te la’ ne nga yi ntuet púen yúe a nkpa’she\nnjit te nga wûme shi na, pua nga lúere púnte ntu nté mi na, lo’ te\nma’si’ ngu pua shâne wume ngu ngu, mbe njùe’ne te nga yi nsh she ne nga\nmbètpam nshié ngu.\nMgbètî mbète 23\nNshié mún nyütu ghét mféé kêt fa’, kú sho’ fa’ shi, lo’te mgbéte fa’ yùe\na pua yi ghapshe ngúe ngúe ne shîre lem túúm pua yi nèn manjé ne nga shu\nndem na.\nGú pùen ghétkét mféé kêt ngúenengúe péé te ngúenengúe fa’ shi rane mi\nmbe.\nNshié ngâ fa’ ghét mféé kêt péé a pe yétni mbit mbe yi shîre ntúúm mbe\nnshâre’i pua ngùr’i te wume yúe a yùne pua wûme ndun mún nyütu na,\nnzîshîpe yi mbe nsham pa mebú’re te shimo’mmanjé yiéka a ntâne na.\nNshié mún ghét mféé kêt yi njùp nda nshùt tùe’she séé mbétpam pua shimo’\npùen mbi pit njétne yi nyi te shire shúe nda shùt meshi’ tùe’she séé\nshi.\nMgbètî mbète 24\nNshié mún ghét mféé kêt gbùne ṅwet pua pa fône fú’ndem ntamme pékét\nmgbète fú’ fa’ne ngab ngab’úe a pua yi péé te pe rap fú’ na."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "d1f66d68ad98559358994d08fee1f73b",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Mgbètî mbète 25\nNshié mún pua ne mféé kêt kwete ntu nté wume njétne a pe yi fú’she njap\nṅwet, nshu mbôkér’i ne shi ngúer’i, ntamme meshi’ njùpayù, ma’shùe’, nda\nnshu, yüre shi, lâne pe fa’ fèt pùen te la’, yùe pe ghét shèt nga shi na\nI ghét mféé kêt puo-ghâme nsa’ngu me yúe i mbe shi fa’ na te ya na, ne\nkúlúemshe na, te küü na, te réne na ké te shi mo’ mbe yúe kú wume sié\npuo’i, lo’te nkamkét ngam’úe a ndi’ te kû ntú’i na.\nNda vé pua pon kpa’she ngét mféé kêt yi nkwete ghâme ne mfère yúe a pua\nshéttî na. Gû pon, mbû pon njem nâ ngum nshin ngúenengúe túe’she pa te\nla’.\nMgbètî mbète 26\nNshié mún nyütu ghét mféé kêt yu lére (kúú wupme). A nâ njit mi kúú\nwupme pe pô ndem ndem, nkúeshî yétne yi mbe yu lére me njiéshî (pum yu\nlére) yúe a pua meyùe’ne mbit mbe nkparé’na. Njiéshe yu lére pua pô\nyitkéri. Yu lére ntu mbue ne yi yi fa’ nâ njit mi pe sâm. mbe njit yúp\nndalérewa ngutngûre me nsa’ne ne púen me mfù’ kú ngur’ap.\nA nâ njit mi yu lére pe nshééne runkét fú’she ntu nté mún nyütu ne suo\nkù yi mfa puô pa mféé kêt mún nyütu ne mkpara’ fône kú ghét ngam. A nâ\nnjit lúere nju’ngam mümshe ne sun me fâne ngu ngu ne gú lap lap túm túm\nké nga nyinyi, shi lâne tamkut te ngétne nga nda shút ngu ngu mbône,\nmeshi’ shüshü’ fùeshe.\nPa mvévé, te fakú, ghétkét mféé kêt yi nsho’ nga yu lére yùe pe yétne yi\nmfa ne pon pap na.\nMgbètî mbète 27\nNshié mún ghét mféé kêt yi ngum fúeshî tu wume ntuot mbône mún, yi nséé\nte pa ghére ntu mbue ne yi ndù’nga wuo nkú sú te yi yu ghére pua\nngambôkér’i.\nNshié mún ghét mféé kêt yi kwete tùe’she te séé nga ntuot pua mbètpam\ntùm te yu fù’she yi yi yu ghére, yi yi yu tùete ke yi yi yu ghére ntu\nmbue yúe i ghét na.\nMgbètî mbète 28\nNshié mún ghét mféé kèr’ùe a mbe nsa’ lo’ te fâne púen pua ngu ngu,\nmgbète kèn küka pa mféé kêt pua kú ghétkét ngam te yire yi nsa’ nga njú\nnjetne yi mbe wumkéri ntúúm na.\nMgbètî mbète 29\nmún nyütu ghét kup kup mfa mfe ndun mbône mún ṅa yúe a li mî fône pua\nrunkét tamkut te ntu nté mi yétne yi mbe na.\nTe rûne pa mféé kèr’i pua lúúm ntúúm te kwete kú ghétkét nga shi, nshié\nmún nâ mkpem ṅwor’i te ndùt ndùt kén meshi’ wûme pua fa puô pa mféé kêt\npua kú ghét ngam ne montâ a lo’ mfa pû ne ndû nga kúú wupme ngambôkét,\nmgbète nga nsa’ngu ne nshubôkét mbadem mún te ngu shûtu.",
-            "Image": "d1f66d68ad98559358994d08fee1f73b"
+            "Text": "Mgbètî mbète 25\nNshié mún pua ne mféé kêt kwete ntu nté wume njétne a pe yi fú’she njap\nṅwet, nshu mbôkér’i ne shi ngúer’i, ntamme meshi’ njùpayù, ma’shùe’, nda\nnshu, yüre shi, lâne pe fa’ fèt pùen te la’, yùe pe ghét shèt nga shi na\nI ghét mféé kêt puo-ghâme nsa’ngu me yúe i mbe shi fa’ na te ya na, ne\nkúlúemshe na, te küü na, te réne na ké te shi mo’ mbe yúe kú wume sié\npuo’i, lo’te nkamkét ngam’úe a ndi’ te kû ntú’i na.\nNda vé pua pon kpa’she ngét mféé kêt yi nkwete ghâme ne mfère yúe a pua\nshéttî na. Gû pon, mbû pon njem nâ ngum nshin ngúenengúe túe’she pa te\nla’.\nMgbètî mbète 26\nNshié mún nyütu ghét mféé kêt yu lére (kúú wupme). A nâ njit mi kúú\nwupme pe pô ndem ndem, nkúeshî yétne yi mbe yu lére me njiéshî (pum yu\nlére) yúe a pua meyùe’ne mbit mbe nkparé’na. Njiéshe yu lére pua pô\nyitkéri. Yu lére ntu mbue ne yi yi fa’ nâ njit mi pe sâm. mbe njit yúp\nndalérewa ngutngûre me nsa’ne ne púen me mfù’ kú ngur’ap.\nA nâ njit mi yu lére pe nshééne runkét fú’she ntu nté mún nyütu ne suo\nkù yi mfa puô pa mféé kêt mún nyütu ne mkpara’ fône kú ghét ngam. A nâ\nnjit lúere nju’ngam mümshe ne sun me fâne ngu ngu ne gú lap lap túm túm\nké nga nyinyi, shi lâne tamkut te ngétne nga nda shút ngu ngu mbône,\nmeshi’ shüshü’ fùeshe.\nPa mvévé, te fakú, ghétkét mféé kêt yi nsho’ nga yu lére yùe pe yétne yi\nmfa ne pon pap na.\nMgbètî mbète 27\nNshié mún ghét mféé kêt yi ngum fúeshî tu wume ntuot mbône mún, yi nséé\nte pa ghére ntu mbue ne yi ndù’nga wuo nkú sú te yi yu ghére pua\nngambôkér’i.\nNshié mún ghét mféé kêt yi kwete tùe’she te séé nga ntuot pua mbètpam\ntùm te yu fù’she yi yi yu ghére, yi yi yu tùete ke yi yi yu ghére ntu\nmbue yúe i ghét na.\nMgbètî mbète 28\nNshié mún ghét mféé kèr’ùe a mbe nsa’ lo’ te fâne púen pua ngu ngu,\nmgbète kèn küka pa mféé kêt pua kú ghétkét ngam te yire yi nsa’ nga njú\nnjetne yi mbe wumkéri ntúúm na.\nMgbètî mbète 29\nmún nyütu ghét kup kup mfa mfe ndun mbône mún ṅa yúe a li mî fône pua\nrunkét tamkut te ntu nté mi yétne yi mbe na.\nTe rûne pa mféé kèr’i pua lúúm ntúúm te kwete kú ghétkét nga shi, nshié\nmún nâ mkpem ṅwor’i te ndùt ndùt kén meshi’ wûme pua fa puô pa mféé kêt\npua kú ghét ngam ne montâ a lo’ mfa pû ne ndû nga kúú wupme ngambôkét,\nmgbète nga nsa’ngu ne nshubôkét mbadem mún te ngu shûtu."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "70b11bbbdfc0b20d98985e2ddd9dd60d",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "A mâ njétni mi shire pa mféé kêt pua kú ghét ngam lo’ mbe mfa’ne pua gû\npa sha’ne gû mgbète nsa’ ngam nda shùt ngu ngu mbône.\nMgbètî mbète 30\nMo’ nshié me yúe’ne lo’ te yire yi nsa’ ngam mâ njetni suo kú nshié nsa’\nngu, lap lap pùen ké ndî mún ne, ne yi ngét nshié mféé kêt te ghét\npesa’kúe yúe pe fa a nyé’re pa mféé kêt puo kú ghétkét ngam’ùe pe ntanke\nntúúm ma.",
-            "Image": "70b11bbbdfc0b20d98985e2ddd9dd60d"
+            "Text": "A mâ njétni mi shire pa mféé kêt pua kú ghét ngam lo’ mbe mfa’ne pua gû\npa sha’ne gû mgbète nsa’ ngam nda shùt ngu ngu mbône.\nMgbètî mbète 30\nMo’ nshié me yúe’ne lo’ te yire yi nsa’ ngam mâ njetni suo kú nshié nsa’\nngu, lap lap pùen ké ndî mún ne, ne yi ngét nshié mféé kêt te ghét\npesa’kúe yúe pe fa a nyé’re pa mféé kêt puo kú ghétkét ngam’ùe pe ntanke\nntúúm ma."
         }
     }
 }

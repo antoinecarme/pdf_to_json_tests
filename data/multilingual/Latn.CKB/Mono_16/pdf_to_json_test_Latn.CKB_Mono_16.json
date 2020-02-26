@@ -1,80 +1,80 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581467517,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "44b113018b2e80d9aef5abb942f5cb6f",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Danezana gerdûnî ya mafên mirov\nDîbaçe\nHerwekî nasîna weqara pêgirê hemû endamên malbata mirovî û mafên wan ên\nwekhev û (jênager) bingehe azadî, dad û aşitiya cihanê pêk tîne,\nHerwekî nenasîn û piçûkdîtina mafên mirov rê dan barbar ku wijdana\nmirovhiyê didin isyanê û avakirina cihaneke ku tê de ewê heyinên mirovî\ndi peyivîn û bawerkirinê de serbest bin, ji xof û belengaziyê rizgar bin\nwek xweziya bilindtirîn a mirov hate îlan kirin,\nHerweki bingehî ye ku mafên mirov ji alî rejîmeke hiqûqî bên parastin ji\nbo ku mirov mecbûr nemîne, wek çara dawîn, li dijî zorkarî û zulmê rabe,\nHerkekî teşwîqa pêşvebirina peywendiyên dostaniyê di navbera neteweyan\nde bingehî ye,\nHerwekî gelên Neteweyen Yekbûyî di Destûrê de ji nû ve baweriya xwe ya\nbi mafên bingehî yên mirov, di nav weqar û rûmeta kesê mirovî de û di\nwekheviya mafên mêr û jinan de, dane zanîn û diyar kirin ku ew biryardar\nin ku arîkarî bidin pêşveçûna çivakî û bicihkirina mecalên çêtir ên\njiyanê di nav serbestiyeke mestir de,\nHerwekî dewletên endam qewl dane, ku bi hevkariya Teşkîlata Neteweyên\nYekbûyî, riayeta gerdûnî û fiîlî ya mafên mirovî û azadiyên bingehî ewle\nbikin,\nHerwekî têgihiştineke hevbeş a van maf û azadiyan ji bo bi temamî\nbicîhanîna vê teahudê ji giringiya bilindtirîn e, Civîna Gelemperî vê\nDanezana Gerdûnî ya Mafên Mirovî\nwekî îdeala hevbeş a ku hemû gel û hemû netewe dixwazin bighênê ji bo ku\nhemû kes û hemû organên civakê, ev Danezan timî di bîr de, bi hînkirin û\nhêvotinê bixebitin ku riayeta van maf û azadiyan pêşve bibin û bi\ntedbîrên berebereyî yên neteweyî û navneteweyî, nasîn û bicihanîna\ngerdûnî û fiîlî yên wan him di nav gelên dewletên endam bi xwe him di\nnav yên erdên ku li jêr hukmê wan de ne ewle bikin.\nBend 1\nHemû mirov azad û di weqar û mafan de wekhev tên dinyayê. Ew xwedî hiş û\nşuûr in û divê li hember hev bi zihniyeteke bratiyê bilivin.\nBend 2\nHeryek, bê tu cihêyî, nemaze ya nijad, reng, zayend (cisn), ziman, ol,\nramana siyasî an her ramana din, eslê neteweyî an civakî, serwet, zayîn\nan her rewşeke din, xwediyê hemû maf û hemû azadiyên ku di vê Danezanê\nde hatine daxuyankirî ye.\nBi serde, ewê tu cihêyî neyê kirin ji ber statuya siyasî, hiqûqî an\nnavneteweyî ya welat an erdê ku kesek jê tê, heke ev welat an erd\nserbixwe, li jêr dest, ne xweser (otonom) an li jêr her tahdîda din a\nserweriyê be an na.",
-            "Image": "44b113018b2e80d9aef5abb942f5cb6f"
+            "Text": "Danezana gerdûnî ya mafên mirov\nDîbaçe\nHerwekî nasîna weqara pêgirê hemû endamên malbata mirovî û mafên wan ên\nwekhev û (jênager) bingehe azadî, dad û aşitiya cihanê pêk tîne,\nHerwekî nenasîn û piçûkdîtina mafên mirov rê dan barbar ku wijdana\nmirovhiyê didin isyanê û avakirina cihaneke ku tê de ewê heyinên mirovî\ndi peyivîn û bawerkirinê de serbest bin, ji xof û belengaziyê rizgar bin\nwek xweziya bilindtirîn a mirov hate îlan kirin,\nHerweki bingehî ye ku mafên mirov ji alî rejîmeke hiqûqî bên parastin ji\nbo ku mirov mecbûr nemîne, wek çara dawîn, li dijî zorkarî û zulmê rabe,\nHerkekî teşwîqa pêşvebirina peywendiyên dostaniyê di navbera neteweyan\nde bingehî ye,\nHerwekî gelên Neteweyen Yekbûyî di Destûrê de ji nû ve baweriya xwe ya\nbi mafên bingehî yên mirov, di nav weqar û rûmeta kesê mirovî de û di\nwekheviya mafên mêr û jinan de, dane zanîn û diyar kirin ku ew biryardar\nin ku arîkarî bidin pêşveçûna çivakî û bicihkirina mecalên çêtir ên\njiyanê di nav serbestiyeke mestir de,\nHerwekî dewletên endam qewl dane, ku bi hevkariya Teşkîlata Neteweyên\nYekbûyî, riayeta gerdûnî û fiîlî ya mafên mirovî û azadiyên bingehî ewle\nbikin,\nHerwekî têgihiştineke hevbeş a van maf û azadiyan ji bo bi temamî\nbicîhanîna vê teahudê ji giringiya bilindtirîn e, Civîna Gelemperî vê\nDanezana Gerdûnî ya Mafên Mirovî\nwekî îdeala hevbeş a ku hemû gel û hemû netewe dixwazin bighênê ji bo ku\nhemû kes û hemû organên civakê, ev Danezan timî di bîr de, bi hînkirin û\nhêvotinê bixebitin ku riayeta van maf û azadiyan pêşve bibin û bi\ntedbîrên berebereyî yên neteweyî û navneteweyî, nasîn û bicihanîna\ngerdûnî û fiîlî yên wan him di nav gelên dewletên endam bi xwe him di\nnav yên erdên ku li jêr hukmê wan de ne ewle bikin.\nBend 1\nHemû mirov azad û di weqar û mafan de wekhev tên dinyayê. Ew xwedî hiş û\nşuûr in û divê li hember hev bi zihniyeteke bratiyê bilivin.\nBend 2\nHeryek, bê tu cihêyî, nemaze ya nijad, reng, zayend (cisn), ziman, ol,\nramana siyasî an her ramana din, eslê neteweyî an civakî, serwet, zayîn\nan her rewşeke din, xwediyê hemû maf û hemû azadiyên ku di vê Danezanê\nde hatine daxuyankirî ye.\nBi serde, ewê tu cihêyî neyê kirin ji ber statuya siyasî, hiqûqî an\nnavneteweyî ya welat an erdê ku kesek jê tê, heke ev welat an erd\nserbixwe, li jêr dest, ne xweser (otonom) an li jêr her tahdîda din a\nserweriyê be an na."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "66e485b163e1c02619c6b914988ee775",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Bend 3\nHerkes xwedî mafê jiyan, azadî û ewleyiya şexsê xwe ye.\nBend 4\nEwê tukes di koletî an bindestiyê de neyê girtin; koletî û bazirganiya\nkoleyan bi hemû teşeyên xwe ve qedexe ne.\nBend 5\nEwê tukes nebe tabiê şkence an ceza û muameleyên hov, namirovî an\nxirabker.\nBend 6\nHerkes xwediyê mafê nasîna li hemû ciyan a şexsiyeta xwe ya hiqûyî ye.\nBend 7\nHemû mirov li ber qanûnan wekhev in û bê ciheyî xwediyê mafê parastineke\nwekhev a qanûn in. Hemû mirov li hemberî her cihêtiya ku vê Danezanê\nihlal dike û li hemberî her navtêdana cihêtiyeke wilo xwediyê mafê\nparastineke wekhev in.\nBend 8\nHerkes maf heye ku li hemberî kirinên ku mafên bingehî yên ku qanûna\nbingehî an qanûn jê re dinasin ihlal dikin, serî li mehkemeyên neteweyî\nyên selahiyetdar bixe.\nBend 9\nTukes nikare bi awayekî kêfî bê girtin, hebs an sirgûn kirin.\nBend 10\nHerkes, di wekheviyeke temamî de, maf heye ku doza wî li ber mehkemeyeke\nserbixwe û bê alî bi awayekî adil û eşkere bê bihîstin ji bo diyarkirina\nmaf û wacibên wî û ya her tawana curmî li dijî wî.\nBend 11\nHer kesê ku bi kirineke curmî tê tawanbar kirin bêrî tê hesibîn ta ku\nsûcê wî di mehkemeyek eşkere, ku hemû garantiyên ji bo parastina wî\npêwist ewle kiribe, bi awayekî qanûnî were îsbat kirin.\nTukes nayê ceza kirin ji ber kirin an nekirinên ku di gava pêkhatina xwe\nde li gora qanûna neteweyî an navneteweyî ne sûc bûne.\nBend 12\nNabe ku tukes bibe amanca têkilbûnên kêfî yên nav jiyana wî ya arizî,\nmalbata wî, mala wî an nameyên wî, an ziyangihandina şeref û şana wî.\nHerkes xwediyê mafê parastina qanûn e li hemberî têkilbûn û ziyangihanên\nwilo.",
-            "Image": "66e485b163e1c02619c6b914988ee775"
+            "Text": "Bend 3\nHerkes xwedî mafê jiyan, azadî û ewleyiya şexsê xwe ye.\nBend 4\nEwê tukes di koletî an bindestiyê de neyê girtin; koletî û bazirganiya\nkoleyan bi hemû teşeyên xwe ve qedexe ne.\nBend 5\nEwê tukes nebe tabiê şkence an ceza û muameleyên hov, namirovî an\nxirabker.\nBend 6\nHerkes xwediyê mafê nasîna li hemû ciyan a şexsiyeta xwe ya hiqûyî ye.\nBend 7\nHemû mirov li ber qanûnan wekhev in û bê ciheyî xwediyê mafê parastineke\nwekhev a qanûn in. Hemû mirov li hemberî her cihêtiya ku vê Danezanê\nihlal dike û li hemberî her navtêdana cihêtiyeke wilo xwediyê mafê\nparastineke wekhev in.\nBend 8\nHerkes maf heye ku li hemberî kirinên ku mafên bingehî yên ku qanûna\nbingehî an qanûn jê re dinasin ihlal dikin, serî li mehkemeyên neteweyî\nyên selahiyetdar bixe.\nBend 9\nTukes nikare bi awayekî kêfî bê girtin, hebs an sirgûn kirin.\nBend 10\nHerkes, di wekheviyeke temamî de, maf heye ku doza wî li ber mehkemeyeke\nserbixwe û bê alî bi awayekî adil û eşkere bê bihîstin ji bo diyarkirina\nmaf û wacibên wî û ya her tawana curmî li dijî wî.\nBend 11\nHer kesê ku bi kirineke curmî tê tawanbar kirin bêrî tê hesibîn ta ku\nsûcê wî di mehkemeyek eşkere, ku hemû garantiyên ji bo parastina wî\npêwist ewle kiribe, bi awayekî qanûnî were îsbat kirin.\nTukes nayê ceza kirin ji ber kirin an nekirinên ku di gava pêkhatina xwe\nde li gora qanûna neteweyî an navneteweyî ne sûc bûne.\nBend 12\nNabe ku tukes bibe amanca têkilbûnên kêfî yên nav jiyana wî ya arizî,\nmalbata wî, mala wî an nameyên wî, an ziyangihandina şeref û şana wî.\nHerkes xwediyê mafê parastina qanûn e li hemberî têkilbûn û ziyangihanên\nwilo."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "848acf18c2a4617731dd120fe27ea34a",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Bend 13\nMafê her kesî heye ku di nav tixûbên dewletekê de bi serbestî hatûçûnê\nbike û cihê mayîna xwe bibijêre.\nHerkes maf heye ku ji her welatî, yê wî bi xwe jî tê de, derkeve û\nvegere welatê xwe.\nBend 14\nHerkes maf heye ji ber zordestiyê li welatên din daxwaza penahê bike û\nbibe penabêr.\nEv maf nikare bê xwastin ji bo taqîbatên bi rastî ji ber sûceke adî an\nji ber kirinên dijî amanc û bingehên Neteweyên Yekbûyî.\nBend 15\nHerkes maf heye bibe xwediyê netewahiyekê (miliyetekê).\nTukes nikare bi awayekî kêfî ne ji netewahiya xwe ne jî ji mafê netewahî\nguhartinê bête bêpar kirin.\nBend 16\nJi temenê (emrê) balixiyê pê ve, mêr û jin, bê tu tahdîdên ji ber nijad,\nnetewahî an olê, maf hene ku hev mehr bikin û malbatek deynin. Li\nhemberî zewacê, di domahiyê zewacê û di dema berdanê de ew xwedî mafên\nwekhev in.\nMehr tenê bi erêkirina serbest û temamî ya jin û mêr dikare bête birrîn.\nMalbat hêmana xwezayî û bingehî ya civakê ye û xwedî maf e ku ji alî\ncivak û dewletê ve bête parastin.\nBend 17\nHerkes maf heye ku bi serê xwe an tevî kesên din bibe xwedî mulk.\nTukes nikare bi awayekî kêfî ji mulkê xwe bête bêpar kirin.\nBend 18\nHerkes mafê azadiya fikr, wijdan û olê heye; azadiya ol an bawerî\nguhartin û azadiya ol û baweriya xwe bi tenê an bi hev re him eşkere him\narizî, bi hînkirin, emel, îbadet û bicihanîna ayînan nîşandanê jî di nav\nvî mafî de ne.\nBend 19\nHerkes mafê azadiya fikr û îfade heye; mafê ji ber ramanên xwe nehatin\nêşandin û herweha mafê bêî nasîna tu sînoran û bi her cure navgînan li\nagahdariyan û fikran gerîn, wan bi dest xistin û îfade û belavkirin\ndikevin nav vî mafî.\nBend 20",
-            "Image": "848acf18c2a4617731dd120fe27ea34a"
+            "Text": "Bend 13\nMafê her kesî heye ku di nav tixûbên dewletekê de bi serbestî hatûçûnê\nbike û cihê mayîna xwe bibijêre.\nHerkes maf heye ku ji her welatî, yê wî bi xwe jî tê de, derkeve û\nvegere welatê xwe.\nBend 14\nHerkes maf heye ji ber zordestiyê li welatên din daxwaza penahê bike û\nbibe penabêr.\nEv maf nikare bê xwastin ji bo taqîbatên bi rastî ji ber sûceke adî an\nji ber kirinên dijî amanc û bingehên Neteweyên Yekbûyî.\nBend 15\nHerkes maf heye bibe xwediyê netewahiyekê (miliyetekê).\nTukes nikare bi awayekî kêfî ne ji netewahiya xwe ne jî ji mafê netewahî\nguhartinê bête bêpar kirin.\nBend 16\nJi temenê (emrê) balixiyê pê ve, mêr û jin, bê tu tahdîdên ji ber nijad,\nnetewahî an olê, maf hene ku hev mehr bikin û malbatek deynin. Li\nhemberî zewacê, di domahiyê zewacê û di dema berdanê de ew xwedî mafên\nwekhev in.\nMehr tenê bi erêkirina serbest û temamî ya jin û mêr dikare bête birrîn.\nMalbat hêmana xwezayî û bingehî ya civakê ye û xwedî maf e ku ji alî\ncivak û dewletê ve bête parastin.\nBend 17\nHerkes maf heye ku bi serê xwe an tevî kesên din bibe xwedî mulk.\nTukes nikare bi awayekî kêfî ji mulkê xwe bête bêpar kirin.\nBend 18\nHerkes mafê azadiya fikr, wijdan û olê heye; azadiya ol an bawerî\nguhartin û azadiya ol û baweriya xwe bi tenê an bi hev re him eşkere him\narizî, bi hînkirin, emel, îbadet û bicihanîna ayînan nîşandanê jî di nav\nvî mafî de ne.\nBend 19\nHerkes mafê azadiya fikr û îfade heye; mafê ji ber ramanên xwe nehatin\nêşandin û herweha mafê bêî nasîna tu sînoran û bi her cure navgînan li\nagahdariyan û fikran gerîn, wan bi dest xistin û îfade û belavkirin\ndikevin nav vî mafî.\nBend 20"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "090ef7d8e75e19937e8c192840c3f544",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Herkes mafê azadiya aramane civîn û komelê danînê heye.\nTukes nikare bête mecbûr kirin ku bibe endamê komeleyekê.\nBend 21\nMafê her kesî heye ku rasterast an jî bi riya nemînendeyên xwe yên bi\nserbestî helbijartî di hukûmeta welatê xwe de beşdar bibe.\nHerkes maf heye ku di mercên wekheviyê de ji xizmetên giştî yên welatê\nxwe kelk (istifade) bigire.\nViyana (îradeya) gel bingehê otorîteya hukûmetê ye; divê ku ev viyan xwe\ndi helbijartinên durust ên ku di demên dewrî de, bi raya gerdûnî, wekhev\nû dengdana dizî an li gora awayeke hevrûmet a ku azadiya dengdanê ewle\nbike, xwe diyar ke.\nBend 22\nHerkes, wekî endamê civakî, mafê ewleyiya sosyal heye; Ew mafdar e ku bi\nriya xebata neteweyî û hevkariya navneteweyî û li gora tenzîm û\nhatiniyên her dewletê, doza bidestxistina mafên aborî, civakî û çandî\nyên ku jo bo weqara wî û geşbûna serbest a şexsiyeta wî ferz in, bike.\nBend 23\nHerkes mafê xebatê, serbest bijartina xebata xwe, şertên adil û musaîd\nên xebatê û parastina li dijî bêkariyê heye.\nHerkes, bêî tu cihêyî, maf heye ku ji bo xebateke wekhev heqek wekhev\nbistîne.\nHerkesê ku dixebite mafê meaşek adil û têrker ê ku dikaribe ji wî û ji\nmalbata wî re jiyaneke şayanê weqara mirovî ewle bike û heke pêwîst be\nbi îmkanên din ên parastina sosyal bê temam kirin, heye.\nHerkes maf heye ku ji bo parastina menfaetên xwe sendîka deyne û bikeve\nnav sendîkan.\nBend 24\nHerkes mafê bihndan (istirahet) û demên serbest û nemaze tahdîdeke maqûl\na dema xebatê û tatîlên dewrî yên bi meaş heye.\nBend 25\nHerkes mafê sewiyeke jiyanê ku têra ewlekirina saxî û rehetiya wî û ya\nmalbata wî bike heye, nemaze ji bo xwarin, lixwekirin, mal, lênerîna\ntibbî, wisa jî ji bo xizmetên sosyal ên pêwîst û mafê ewleyiyê di rewşa\nbêkarî, nexweşî, seqetî, bîtî, pîrî an di rewşên din ên windakirina\nîmkanên xwe yên jiyanê ji ber sedemên dervavî viyana wî.\nDêyîtî û zarotî mafên arîkarî û lênêrîneke taybetî hene. Hemû zaro, çi\nyên di zewacê de bûyi çi yên dervayî zewacê, xwediyên eynî parastineke\ncivakî ne.\nBend 26",
-            "Image": "090ef7d8e75e19937e8c192840c3f544"
+            "Text": "Herkes mafê azadiya aramane civîn û komelê danînê heye.\nTukes nikare bête mecbûr kirin ku bibe endamê komeleyekê.\nBend 21\nMafê her kesî heye ku rasterast an jî bi riya nemînendeyên xwe yên bi\nserbestî helbijartî di hukûmeta welatê xwe de beşdar bibe.\nHerkes maf heye ku di mercên wekheviyê de ji xizmetên giştî yên welatê\nxwe kelk (istifade) bigire.\nViyana (îradeya) gel bingehê otorîteya hukûmetê ye; divê ku ev viyan xwe\ndi helbijartinên durust ên ku di demên dewrî de, bi raya gerdûnî, wekhev\nû dengdana dizî an li gora awayeke hevrûmet a ku azadiya dengdanê ewle\nbike, xwe diyar ke.\nBend 22\nHerkes, wekî endamê civakî, mafê ewleyiya sosyal heye; Ew mafdar e ku bi\nriya xebata neteweyî û hevkariya navneteweyî û li gora tenzîm û\nhatiniyên her dewletê, doza bidestxistina mafên aborî, civakî û çandî\nyên ku jo bo weqara wî û geşbûna serbest a şexsiyeta wî ferz in, bike.\nBend 23\nHerkes mafê xebatê, serbest bijartina xebata xwe, şertên adil û musaîd\nên xebatê û parastina li dijî bêkariyê heye.\nHerkes, bêî tu cihêyî, maf heye ku ji bo xebateke wekhev heqek wekhev\nbistîne.\nHerkesê ku dixebite mafê meaşek adil û têrker ê ku dikaribe ji wî û ji\nmalbata wî re jiyaneke şayanê weqara mirovî ewle bike û heke pêwîst be\nbi îmkanên din ên parastina sosyal bê temam kirin, heye.\nHerkes maf heye ku ji bo parastina menfaetên xwe sendîka deyne û bikeve\nnav sendîkan.\nBend 24\nHerkes mafê bihndan (istirahet) û demên serbest û nemaze tahdîdeke maqûl\na dema xebatê û tatîlên dewrî yên bi meaş heye.\nBend 25\nHerkes mafê sewiyeke jiyanê ku têra ewlekirina saxî û rehetiya wî û ya\nmalbata wî bike heye, nemaze ji bo xwarin, lixwekirin, mal, lênerîna\ntibbî, wisa jî ji bo xizmetên sosyal ên pêwîst û mafê ewleyiyê di rewşa\nbêkarî, nexweşî, seqetî, bîtî, pîrî an di rewşên din ên windakirina\nîmkanên xwe yên jiyanê ji ber sedemên dervavî viyana wî.\nDêyîtî û zarotî mafên arîkarî û lênêrîneke taybetî hene. Hemû zaro, çi\nyên di zewacê de bûyi çi yên dervayî zewacê, xwediyên eynî parastineke\ncivakî ne.\nBend 26"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+            ],
+            "Image": "49e6e85066447092c7497e3b1feb9564",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
-            ],
-            "Text": "Herkes mafê hînbûnê heye. Divê ku hînbûn belaş be, qet nebe hînbûna\ndestpêkî û bingehî. Divê ku hînbûna teknîk û meslekî bi firehî belav be\nû xwendina bilind bi wekheviyeke temamî ji hemû kesan re, li gora\nşehrezayiya wan, vekirî be.\nDivê ku hînkirin geşkirina temamî ya şexsiyeta mirovî û xurtkirina\nsiyaseta mafên mirovî û azadiyên bingehî amanc bigre. Divê ku ew arîkarî\nbide têgihîştin, musameha û dostaniya nav hemû netewe û hemû komên\nnijadî an olî, wisa jî pêşveçûna çalakiyên Neteweyên Yekbûyî ji bo\nxwedîkirina aşîtiyê.\nDê û bav xwediyê mafê pêşîkî ê bijartina cureyê hînbûna zarokên xwe ne.\nBend 27\nHerkes mafê bi serbestî beşdarbûna jiyana çandî ya civakê, ji huneran\nkelkgirtinê û beşdarbûna pêşveçûna zanistî û encamên wê heye.\nHerkes mafê parastina menfaetên manewî û maddî yên ku ji ber berhema\nzanistî, edebî û hunerî ya ku ew bi xwe çêkerê wê ye heye.\nBend 28\nMafê her kesî yê ji bo nîzameke civakî û navneteweyî ya wisan heye ku\nmaf û azadiyên di vê Danezanê de berpêşkirî bikaribin tê de bi temamî\nbêne cih.\nBend 29\nHerkes erk (wezîfe) hene li hember civakê, ya ku tenê tê de geşbûna\nserbest û temamî ya şexsiyeta wî mimkin e.\nDi bikaranîna maf û azadiyên xwe de heryek tenê bi hukmên ku qanûn tenê\nji bo ewlekirina nasîn û qedrê maf û azadiyên kesên din û ji bo\nbicihanîna xwastiniyên rast ên exlaq, pergala giştî û refeha gelemper di\ncivakeke demokratîk de daniye, tê tahdîd kirin.\nEv maf û azadî, di tu rewşê de, nikarin li dijî amanc û bingehên\nNeteweyên Yekbûyî bên bi kar anîn.\nBend 30\nTu hukmekî vê Danezanê nikare bê tefsîr kirin wekî ku tu maf dide\ndewletekê, komekê û kesekî ji bo kirina karekî an pêkanîna kirinekî ku\nrakirina maf û azadiyên ku tê de hatine berpêş kirin amanc bigre.",
-            "Image": "49e6e85066447092c7497e3b1feb9564"
+            "Text": "Herkes mafê hînbûnê heye. Divê ku hînbûn belaş be, qet nebe hînbûna\ndestpêkî û bingehî. Divê ku hînbûna teknîk û meslekî bi firehî belav be\nû xwendina bilind bi wekheviyeke temamî ji hemû kesan re, li gora\nşehrezayiya wan, vekirî be.\nDivê ku hînkirin geşkirina temamî ya şexsiyeta mirovî û xurtkirina\nsiyaseta mafên mirovî û azadiyên bingehî amanc bigre. Divê ku ew arîkarî\nbide têgihîştin, musameha û dostaniya nav hemû netewe û hemû komên\nnijadî an olî, wisa jî pêşveçûna çalakiyên Neteweyên Yekbûyî ji bo\nxwedîkirina aşîtiyê.\nDê û bav xwediyê mafê pêşîkî ê bijartina cureyê hînbûna zarokên xwe ne.\nBend 27\nHerkes mafê bi serbestî beşdarbûna jiyana çandî ya civakê, ji huneran\nkelkgirtinê û beşdarbûna pêşveçûna zanistî û encamên wê heye.\nHerkes mafê parastina menfaetên manewî û maddî yên ku ji ber berhema\nzanistî, edebî û hunerî ya ku ew bi xwe çêkerê wê ye heye.\nBend 28\nMafê her kesî yê ji bo nîzameke civakî û navneteweyî ya wisan heye ku\nmaf û azadiyên di vê Danezanê de berpêşkirî bikaribin tê de bi temamî\nbêne cih.\nBend 29\nHerkes erk (wezîfe) hene li hember civakê, ya ku tenê tê de geşbûna\nserbest û temamî ya şexsiyeta wî mimkin e.\nDi bikaranîna maf û azadiyên xwe de heryek tenê bi hukmên ku qanûn tenê\nji bo ewlekirina nasîn û qedrê maf û azadiyên kesên din û ji bo\nbicihanîna xwastiniyên rast ên exlaq, pergala giştî û refeha gelemper di\ncivakeke demokratîk de daniye, tê tahdîd kirin.\nEv maf û azadî, di tu rewşê de, nikarin li dijî amanc û bingehên\nNeteweyên Yekbûyî bên bi kar anîn.\nBend 30\nTu hukmekî vê Danezanê nikare bê tefsîr kirin wekî ku tu maf dide\ndewletekê, komekê û kesekî ji bo kirina karekî an pêkanîna kirinekî ku\nrakirina maf û azadiyên ku tê de hatine berpêş kirin amanc bigre."
         }
     }
 }

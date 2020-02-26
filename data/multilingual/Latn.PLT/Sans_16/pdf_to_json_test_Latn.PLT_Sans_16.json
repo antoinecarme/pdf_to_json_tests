@@ -1,132 +1,132 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581469959,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "252160ad5c82e8cc0d2df386221dcd61",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Ny 10 desembra 1948 no nolaniana sy nampahafantarin'ny Fivoriamben'ny Firenena Mikambana ny\nFanambarana Iraisam-pirenena momba ny zon'olombelona. Taorian'izany vanin'andro manan-tantara izany\ndia nangataka tamin'ireo firenena mpikambana rehetra ny Fivoriambe mba hampiely ity \" Fanambarana\nIraisam-pirenena momba ny Zon'olombelona\" ity - Hizara sy hanao azy ho peta-drindrina, hahafahan'ny\ntsirairay mamaky sy mandalina ny ventin-kevitra voafono ao anatiny, indrindra any an-tsekoly sy ireo\ntoeram-pampinarana hafa. Ka tsy hanavahana izay sata politika ijoroan'ny firenena ny fanaovana izany.\nFANAMBARANA IRAISAM-PIRENENA MOMBA NY ZON'OLOMBELONA\nSasin-Teny\nHeverina fa ny fankatoavana ny fahamendrehan'olombelona sy ny zony mitovy ary tsy azo tohintohinina dia\nanisan'ny fototry ny fahafahana, ny rariny ary ny fandriam-pahalemanana eran-tany, Heverina fa ny tsy\nfahafantarana sy fanaovana tsinintsinona ny zon'olombelona dia mitarika amin'ny fihetsika feno habibiana\nmampikomy ny fieritreretan'ny mpiara-belona. Ny fametrahana tontolo vaovao ; hivelaran'ny olona afaka eo\namin'ny filazana ny hevitra sy ny finoana, ary tsy voagejan'ny tahotra sy ny fahoriana no hetaheta lehibe\nindrindra ho an'ny olombelona, Heverina fa ilaina ny miaro ny zon'olombelona amin'ny fametrahana rafitra\ntan-dalna mba tsy hitarika azy hikomy sy hanohitra ny fampihorohoroana sy ny fampijaliana, Heverina fa\nzava-dehibe ny famporisihana hatrany ny fifandraisana ara-pirahalahiana eo amin'ny firenen-tsamihafa,\nHeverina fa ny Fanjakana Mpikambana rehetra dia manaiky hanaja ny zon'olombelona sy ny fahafahana\nfototra, ka miara miasa amin'ny\nFirenena Mikambana izy amin'izany, Heverina fa tao anatin'ny Dina dia nohamafisin'ny olon-drehetra ao\namin'ny Firenena Mikambana indray ny finoany an'ireo zo fototry ny olombelona- hanajana ny hasina maha-\nolombelona, ny fitovian-jo ny lehilahy sy ny vehivavy; ary izy rehetra dia maneho ny fahavononany hiasa ho\nan'ny fandrosoana socialy hanatsaratsara kokoa ny farim-piainana ao anatin'ny fahafahana bebe kokoa.",
-            "Image": "252160ad5c82e8cc0d2df386221dcd61"
+            "Text": "Ny 10 desembra 1948 no nolaniana sy nampahafantarin'ny Fivoriamben'ny Firenena Mikambana ny\nFanambarana Iraisam-pirenena momba ny zon'olombelona. Taorian'izany vanin'andro manan-tantara izany\ndia nangataka tamin'ireo firenena mpikambana rehetra ny Fivoriambe mba hampiely ity \" Fanambarana\nIraisam-pirenena momba ny Zon'olombelona\" ity - Hizara sy hanao azy ho peta-drindrina, hahafahan'ny\ntsirairay mamaky sy mandalina ny ventin-kevitra voafono ao anatiny, indrindra any an-tsekoly sy ireo\ntoeram-pampinarana hafa. Ka tsy hanavahana izay sata politika ijoroan'ny firenena ny fanaovana izany.\nFANAMBARANA IRAISAM-PIRENENA MOMBA NY ZON'OLOMBELONA\nSasin-Teny\nHeverina fa ny fankatoavana ny fahamendrehan'olombelona sy ny zony mitovy ary tsy azo tohintohinina dia\nanisan'ny fototry ny fahafahana, ny rariny ary ny fandriam-pahalemanana eran-tany, Heverina fa ny tsy\nfahafantarana sy fanaovana tsinintsinona ny zon'olombelona dia mitarika amin'ny fihetsika feno habibiana\nmampikomy ny fieritreretan'ny mpiara-belona. Ny fametrahana tontolo vaovao ; hivelaran'ny olona afaka eo\namin'ny filazana ny hevitra sy ny finoana, ary tsy voagejan'ny tahotra sy ny fahoriana no hetaheta lehibe\nindrindra ho an'ny olombelona, Heverina fa ilaina ny miaro ny zon'olombelona amin'ny fametrahana rafitra\ntan-dalna mba tsy hitarika azy hikomy sy hanohitra ny fampihorohoroana sy ny fampijaliana, Heverina fa\nzava-dehibe ny famporisihana hatrany ny fifandraisana ara-pirahalahiana eo amin'ny firenen-tsamihafa,\nHeverina fa ny Fanjakana Mpikambana rehetra dia manaiky hanaja ny zon'olombelona sy ny fahafahana\nfototra, ka miara miasa amin'ny\nFirenena Mikambana izy amin'izany, Heverina fa tao anatin'ny Dina dia nohamafisin'ny olon-drehetra ao\namin'ny Firenena Mikambana indray ny finoany an'ireo zo fototry ny olombelona- hanajana ny hasina maha-\nolombelona, ny fitovian-jo ny lehilahy sy ny vehivavy; ary izy rehetra dia maneho ny fahavononany hiasa ho\nan'ny fandrosoana socialy hanatsaratsara kokoa ny farim-piainana ao anatin'ny fahafahana bebe kokoa."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "508c0fb122f88a21dd804ae19cef9d7a",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Heverina fa ny Fanjakana mpikambanarehetra dia manaiky hanaja ny zon'olombelona sy ny fahafahana\nfototra, ka iara-miasa amin'ny\nFirenena Mikambana izy amin'izany. Heverina fa ny fitoviam-pijery mikasika ireny zo sy fahafahana ireny\nzo sy fahafahana ireny dia zava-dehibe ho an'ny fanatanterahana feno izao fiandanianan miharihary izao.\nKoa dia manambara ny Fivoriambe fa ity Fanambarana iraisam- pirenena momban'ny Zon'olombelona dia\ntoy ny idealy iombonana ka ny firenen-drehetra sy ny vahoaka rehetra no hiara-manatratra azy mba\nhahatonga ny olona tsirairai sy ny sampan-draharaha samihafa ao amin'ny fiaraha-monina hiezaka\nhampandroso ny asa enti-manaja ny so sy ny fahafahan'olombelona amin'ny allan'ny fampianarana sy ny\nfanabeazana ary hiantoka koa ny hampanekena sy hampakatoavana izany amin'ny allan'ny fepetra samihafa\nna nasionaly na iraisam- pirenena ho fampiarana hentitra ny Zon'olombelona na eo amin'ny vahoakan'ny\nFanjakana efa mpikambana na eo amin'ny mponina any amin'ireo tany napetraka eo ambany fitantanan'izy\nireny.\nANDININY VOALOHANY\nTeraka afaka sy mitovy zo sy fahamendrehana ny olombelona rehetra. Samy manan-tsaina sy fieritreretana\nka tokony hifampitondra am- pirahalahiana.\nANDININY FAHA-2\nSamy afaka hizaka ny zo sy ny fahafahana rehetra voalaza ato amin'ity Fanambarana ny Zon'olombelona ity\nny tsirairay na inona volon-kodiny na firazanany na vavy na lahy na manao ahoana na manao ahoana firehin-\nkeviny sy fivavahany sy izay fihaviany na laharana sosialy misy azy na inona.\nAmbonin'izany, tsy tokony hahatonga fanavahana mihitsy izay sata politika zakain'ilay firenena nipoiran'ny\nolona na mahaleotena na zanatany na eo ambany fitantanan'ny Firenena Mikambana na mizaka tena izany\ntany izany.",
-            "Image": "508c0fb122f88a21dd804ae19cef9d7a"
+            "Text": "Heverina fa ny Fanjakana mpikambanarehetra dia manaiky hanaja ny zon'olombelona sy ny fahafahana\nfototra, ka iara-miasa amin'ny\nFirenena Mikambana izy amin'izany. Heverina fa ny fitoviam-pijery mikasika ireny zo sy fahafahana ireny\nzo sy fahafahana ireny dia zava-dehibe ho an'ny fanatanterahana feno izao fiandanianan miharihary izao.\nKoa dia manambara ny Fivoriambe fa ity Fanambarana iraisam- pirenena momban'ny Zon'olombelona dia\ntoy ny idealy iombonana ka ny firenen-drehetra sy ny vahoaka rehetra no hiara-manatratra azy mba\nhahatonga ny olona tsirairai sy ny sampan-draharaha samihafa ao amin'ny fiaraha-monina hiezaka\nhampandroso ny asa enti-manaja ny so sy ny fahafahan'olombelona amin'ny allan'ny fampianarana sy ny\nfanabeazana ary hiantoka koa ny hampanekena sy hampakatoavana izany amin'ny allan'ny fepetra samihafa\nna nasionaly na iraisam- pirenena ho fampiarana hentitra ny Zon'olombelona na eo amin'ny vahoakan'ny\nFanjakana efa mpikambana na eo amin'ny mponina any amin'ireo tany napetraka eo ambany fitantanan'izy\nireny.\nANDININY VOALOHANY\nTeraka afaka sy mitovy zo sy fahamendrehana ny olombelona rehetra. Samy manan-tsaina sy fieritreretana\nka tokony hifampitondra am- pirahalahiana.\nANDININY FAHA-2\nSamy afaka hizaka ny zo sy ny fahafahana rehetra voalaza ato amin'ity Fanambarana ny Zon'olombelona ity\nny tsirairay na inona volon-kodiny na firazanany na vavy na lahy na manao ahoana na manao ahoana firehin-\nkeviny sy fivavahany sy izay fihaviany na laharana sosialy misy azy na inona.\nAmbonin'izany, tsy tokony hahatonga fanavahana mihitsy izay sata politika zakain'ilay firenena nipoiran'ny\nolona na mahaleotena na zanatany na eo ambany fitantanan'ny Firenena Mikambana na mizaka tena izany\ntany izany."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "0b6f6adeea80ed5d23c1c9bf45e0b738",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "ANDININY FAHA-3\nManana zo hiaina, ho afaka, hahazo fiarovana ny olona tsirairay.\nANDININY FAHA-4\nTsy misy olombelona azo handevozina na hampanompoana. Rarna ny fanandevozana sy ny varotra andevo\nna inona na inona endrika isehoany.\nANDININY FAHA-5\nTsy misy olombelona azo hampijaliana na saziana na hanaovana fitondrana feno hasiahana, tsy mifanaraka\nna mampihetry ny maha- olona.\nANDININY FAHA-6\nManan-jo hitaky ny fankatoavana ny maha-olona azy araka ny voafaritry ny lalna ny tsirairay na aiza na aiza\ntoerana aleany.\nANDININY FAHA-7\nMitovy ny olon-drehetra eo anatrehan'ny lalna ary samy manan-jo ho arovan'izany lalna izany, indrindra\nmanoloana izay mety ho fanavakavahana na fihantsiana manana endrika fanavakavahana ka mety\nhanitsakitsaka ity Fanambarana ity.\nANDININY FAHA-8\nManan-jo hitory amin'ny Fitsarana misy ao amin'ny taniny ny olona tsirairay raha mahatsapa fa hosena ny zo\nfototra nomen'ny lalam- panorenana azy.\nANDININY FAHA-9",
-            "Image": "0b6f6adeea80ed5d23c1c9bf45e0b738"
+            "Text": "ANDININY FAHA-3\nManana zo hiaina, ho afaka, hahazo fiarovana ny olona tsirairay.\nANDININY FAHA-4\nTsy misy olombelona azo handevozina na hampanompoana. Rarna ny fanandevozana sy ny varotra andevo\nna inona na inona endrika isehoany.\nANDININY FAHA-5\nTsy misy olombelona azo hampijaliana na saziana na hanaovana fitondrana feno hasiahana, tsy mifanaraka\nna mampihetry ny maha- olona.\nANDININY FAHA-6\nManan-jo hitaky ny fankatoavana ny maha-olona azy araka ny voafaritry ny lalna ny tsirairay na aiza na aiza\ntoerana aleany.\nANDININY FAHA-7\nMitovy ny olon-drehetra eo anatrehan'ny lalna ary samy manan-jo ho arovan'izany lalna izany, indrindra\nmanoloana izay mety ho fanavakavahana na fihantsiana manana endrika fanavakavahana ka mety\nhanitsakitsaka ity Fanambarana ity.\nANDININY FAHA-8\nManan-jo hitory amin'ny Fitsarana misy ao amin'ny taniny ny olona tsirairay raha mahatsapa fa hosena ny zo\nfototra nomen'ny lalam- panorenana azy.\nANDININY FAHA-9"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "cca4bfaf8a7b6ff8e987cfc77c84d9ab",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Tsy misy olona azo samborina tsy amin'antony na tazonim-poana na atao sesi-tany tsy voameloka.\nANDININY FAHA-10\nManan-jo ny olon-drehetra mba hohenoin'ny Fitsarana am-pahibemaso sy tsy am-piangarana ny heviny, ka\nho fitsarana mahaleo tena sy tsy miangatra no hametra ny zony sy ny mahamarim-pototra na tsia ny\nfiampangana atao aminy.\nANDININY FAHA-11\nIzay olona voapanga dia heverina ho mbola tsy manan-tsiny mandra- pivoakan'izay didy manameloka azy.\nIzany didy izany dia havoakan'ny tribonaly nitsara am-pahibemaso ka nanome ny antoka rehetra fa afaka\nniaro tena ilay voampanga.\nTsy misy olona azo helohina noho ny asa na fanadinoana raha toa izany ka natao tamin'ny fotoana izay tsy\nmbola ahafantarana fa mahadiso ilay fihetsika na ilay asa araka ny lalna nasionaly na iraisam-pirenena.\nTorak'izany koa, tsy misy azo saziana mihoatra noho izay sazy voalaza fa ampiharina ao amin'ny tany misy\nazy tamin'ny fotoana nanaovany ilay fahadisoana.\nANDININY FAHA-12\nTsy misy olona azo hitsabahana ny fiainany manokana, ny fianankaviany, ny fonenany, ny taratasy\nifandefasany na hitsahana ny voninahiny sy ny lazany. Zon'ny olona ny harovan'ny lalna eo anatrehan'ny\nfanitsakitsahana tsy ara-drariny sy tsy ara-dalna rehetra.\nANDININY FAHA-13\nZon'ny olona rehetra ny mivezivezy an-kalalahana ary mifidy izay toerana tiany hipetrahana ao anatin'ny\nfanjakana iray.",
-            "Image": "cca4bfaf8a7b6ff8e987cfc77c84d9ab"
+            "Text": "Tsy misy olona azo samborina tsy amin'antony na tazonim-poana na atao sesi-tany tsy voameloka.\nANDININY FAHA-10\nManan-jo ny olon-drehetra mba hohenoin'ny Fitsarana am-pahibemaso sy tsy am-piangarana ny heviny, ka\nho fitsarana mahaleo tena sy tsy miangatra no hametra ny zony sy ny mahamarim-pototra na tsia ny\nfiampangana atao aminy.\nANDININY FAHA-11\nIzay olona voapanga dia heverina ho mbola tsy manan-tsiny mandra- pivoakan'izay didy manameloka azy.\nIzany didy izany dia havoakan'ny tribonaly nitsara am-pahibemaso ka nanome ny antoka rehetra fa afaka\nniaro tena ilay voampanga.\nTsy misy olona azo helohina noho ny asa na fanadinoana raha toa izany ka natao tamin'ny fotoana izay tsy\nmbola ahafantarana fa mahadiso ilay fihetsika na ilay asa araka ny lalna nasionaly na iraisam-pirenena.\nTorak'izany koa, tsy misy azo saziana mihoatra noho izay sazy voalaza fa ampiharina ao amin'ny tany misy\nazy tamin'ny fotoana nanaovany ilay fahadisoana.\nANDININY FAHA-12\nTsy misy olona azo hitsabahana ny fiainany manokana, ny fianankaviany, ny fonenany, ny taratasy\nifandefasany na hitsahana ny voninahiny sy ny lazany. Zon'ny olona ny harovan'ny lalna eo anatrehan'ny\nfanitsakitsahana tsy ara-drariny sy tsy ara-dalna rehetra.\nANDININY FAHA-13\nZon'ny olona rehetra ny mivezivezy an-kalalahana ary mifidy izay toerana tiany hipetrahana ao anatin'ny\nfanjakana iray."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "702ff60e5f45f5bc10b696ce6da8d707",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Zon'ny olon-drehetra koa ny miala amina tany iray, eny fa na dia ny taniny aza, ka miverina amin'ny tany\nmisy azy.\nANDININY FAHA-14\nRaha misy fanenjehana azy, dia zon'olon-drehetra ny mitady fialokalofana any an-kafa;\nIo zo io kosa dia tsy azo hampiharina amin'ny raharahan-keloka tsotra na amin'ireo asa sy fihetsika\nmifanohitra amin'ny foto- pisainana sy zava-kendren'ny Firenena Mikambana.\nANDININY FAHA-15\nManan-jo hizaka zom-pirenena ny isam-batan'olona.\nTsy misy olona azo verezin-jo tsy amin'ny rariny na rarna tsy hiova zom-pirenena.\nANDININY FAHA-16\nRehefa tonga taona ny lehilahy sy ny vehivavy dia manan-jo hivady sy hanorina fianankaviana ka tsy\nmahasakana izany na fihodirana na zom-pirenena na finoana. Mitovy zo eo anatrehan'ny fanambadiana,\nmandritra ny fanambadiana ary amin'ny faharavan'ny fanambadiana izy ireo.\nTsy misy mariazy azo raiketina raha tsy sitrapon'ireo hivady.\nNy fianankaviana no fototra ara-boajanahary iorenan'ny fiaraha- monina, ka manan-jo hoarovan'ny fiaraha-\nmonina sy ny fanjakana.\nANDININY FAHA-17\nNy olon-drehetra dia manan-jo hanana fananana manokana na itambarana.\nTsy misy olona azo alaina amin-kery ny fananany.",
-            "Image": "702ff60e5f45f5bc10b696ce6da8d707"
+            "Text": "Zon'ny olon-drehetra koa ny miala amina tany iray, eny fa na dia ny taniny aza, ka miverina amin'ny tany\nmisy azy.\nANDININY FAHA-14\nRaha misy fanenjehana azy, dia zon'olon-drehetra ny mitady fialokalofana any an-kafa;\nIo zo io kosa dia tsy azo hampiharina amin'ny raharahan-keloka tsotra na amin'ireo asa sy fihetsika\nmifanohitra amin'ny foto- pisainana sy zava-kendren'ny Firenena Mikambana.\nANDININY FAHA-15\nManan-jo hizaka zom-pirenena ny isam-batan'olona.\nTsy misy olona azo verezin-jo tsy amin'ny rariny na rarna tsy hiova zom-pirenena.\nANDININY FAHA-16\nRehefa tonga taona ny lehilahy sy ny vehivavy dia manan-jo hivady sy hanorina fianankaviana ka tsy\nmahasakana izany na fihodirana na zom-pirenena na finoana. Mitovy zo eo anatrehan'ny fanambadiana,\nmandritra ny fanambadiana ary amin'ny faharavan'ny fanambadiana izy ireo.\nTsy misy mariazy azo raiketina raha tsy sitrapon'ireo hivady.\nNy fianankaviana no fototra ara-boajanahary iorenan'ny fiaraha- monina, ka manan-jo hoarovan'ny fiaraha-\nmonina sy ny fanjakana.\nANDININY FAHA-17\nNy olon-drehetra dia manan-jo hanana fananana manokana na itambarana.\nTsy misy olona azo alaina amin-kery ny fananany."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "352ccb4cd028bc9a0264b872bd7c0059",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "ANDININY FAHA-18\nMalalaka amin'ny heviny sy amin'ny fivavahana hinoany ary manan-jo hiheno ny feon'ny fieritreretany ny\nolon-drehetra. Io zo io dia mamela azy malalaka hiova fivavahana na firehana samihafa. Ny olon-drehetra\nkoa dia manan-jo haneho izany finoany na firehany izany am-pahabemaso na ho an'olom-bitsy ; amin'ny\nalalan'ny fampianarana na fanaovana fomba...\nANDININY FAHA-19\nNy olon-drehetra dia afaka manana ny heviny ka hilaza izany an- kalalahana. Tsy tokony hampitahorina\namin'izay fomba fijeriny, ary afaka mikaroka, mandray, mampiely izay vaovao na hevitra hitany amin'ny\nalalan'ireo fitaovam-pifandraisana misy ny olon-drehetra ; tsy hijerena sisin-tany.\nANDININY FAHA-20\nNy olon-drehetra dia manan-jo malalaka hivory sy hanana fikambanana mitandro ny filaminana.\nTsy misy olona azo terena hiditra amina fikambanana anankiray\nANDININY FAHA-21\nManan-jo handray anjara amin'ny fitantanana raharaham-bahoaka ao amin'ny taniny ny olon-drehetra -\nmivantana na amin'ny alalan'ny solontena nofinidy malalaka.\nManan-jo hiditra amim-pitoviana amin'ny raharaham-panjakana ao amin'ny taniny ny olon-drehetra.\nNy sitrapon'ny vahoaka no fototry ny fahefan'ny fitondram- panjakana Amin'ny fifidianana no tokony\nhanehoany izany sitrapony izany, ka tokony ho marina sy hisy ara-potoana izany fifidianana izany.\nHandraisan'ny daholobe anjara ary miafina ny latsa-bato na ara-pomba mitovitovy amin'izany ka miantoka\nny fahalalahan'ny fifidianana.",
-            "Image": "352ccb4cd028bc9a0264b872bd7c0059"
+            "Text": "ANDININY FAHA-18\nMalalaka amin'ny heviny sy amin'ny fivavahana hinoany ary manan-jo hiheno ny feon'ny fieritreretany ny\nolon-drehetra. Io zo io dia mamela azy malalaka hiova fivavahana na firehana samihafa. Ny olon-drehetra\nkoa dia manan-jo haneho izany finoany na firehany izany am-pahabemaso na ho an'olom-bitsy ; amin'ny\nalalan'ny fampianarana na fanaovana fomba...\nANDININY FAHA-19\nNy olon-drehetra dia afaka manana ny heviny ka hilaza izany an- kalalahana. Tsy tokony hampitahorina\namin'izay fomba fijeriny, ary afaka mikaroka, mandray, mampiely izay vaovao na hevitra hitany amin'ny\nalalan'ireo fitaovam-pifandraisana misy ny olon-drehetra ; tsy hijerena sisin-tany.\nANDININY FAHA-20\nNy olon-drehetra dia manan-jo malalaka hivory sy hanana fikambanana mitandro ny filaminana.\nTsy misy olona azo terena hiditra amina fikambanana anankiray\nANDININY FAHA-21\nManan-jo handray anjara amin'ny fitantanana raharaham-bahoaka ao amin'ny taniny ny olon-drehetra -\nmivantana na amin'ny alalan'ny solontena nofinidy malalaka.\nManan-jo hiditra amim-pitoviana amin'ny raharaham-panjakana ao amin'ny taniny ny olon-drehetra.\nNy sitrapon'ny vahoaka no fototry ny fahefan'ny fitondram- panjakana Amin'ny fifidianana no tokony\nhanehoany izany sitrapony izany, ka tokony ho marina sy hisy ara-potoana izany fifidianana izany.\nHandraisan'ny daholobe anjara ary miafina ny latsa-bato na ara-pomba mitovitovy amin'izany ka miantoka\nny fahalalahan'ny fifidianana."
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "6169f0573496eee18365059452f08989",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "ANDININY FAHA-22\nNy olon-drehetra amin'ny maha-mpikambana ao amin'ny fiaraha-monina azy dia manan-jo ho voaantoka ara-\ntsosialy. Fiantohana natao hanajana ny zo ara-toe-karena, sosialy sy ara-kolotsaina izay ilain'ny\nfahamendrehan'ny olona sy ny fivoatran'ny maha-izy azy amin'ny alalan'ny ezaka nasionaly na iraisam-\npirenena, araka ny fandaminana sy ny harem-pireneny.\nANDININY FAHA-23\nManan-jo hanana asa ny olon-drehetra, hifidy izay asa tiany, ka amim-pitoviana sy ara-drariny no hanaovana\nizany. Manan-jo ho arovana amin'ny tsy fananan'asa koa izy.\nNy olon-drehetra dia manan-jo hahazo karama mitovy amin'ny asa mitovy, ka tsy asiana fanavakavahana\nizany.\nIzay miasa dia manan-jo hahazo karama ara-drariny hahafahany mivelona sy mamelona ny ankohonany\naraka ny tokony ho izy.\nFidiram-bola ampiana fiarovana ara-tsosialy raha misy izany. Manan-jo hanorina na hiditra amina sendika\nihany koa ny tsirairay mba hiarovany ny zony.\nANDININY FAHA-24\nManan-jo hiala sasatra sy hiala voly ny olon-drehetra. Tokony ho ferana ara-drariny ny fotoam-piasana ary\nhandraisana karama ny fialan-tsasatra amin'izany.\nANDININY FAHA-25\nManan-jo hanana fari-piainana antonony sy ampy ny tsirairay mba hiantoka ny fahasalamany, sy izay rehetra\nmahasoa azy sy ny ankohonany : sakafo, fitafiana, fonenana, fitsaboana ary kojakoja sosialy ilaina rehetra.",
-            "Image": "6169f0573496eee18365059452f08989"
+            "Text": "ANDININY FAHA-22\nNy olon-drehetra amin'ny maha-mpikambana ao amin'ny fiaraha-monina azy dia manan-jo ho voaantoka ara-\ntsosialy. Fiantohana natao hanajana ny zo ara-toe-karena, sosialy sy ara-kolotsaina izay ilain'ny\nfahamendrehan'ny olona sy ny fivoatran'ny maha-izy azy amin'ny alalan'ny ezaka nasionaly na iraisam-\npirenena, araka ny fandaminana sy ny harem-pireneny.\nANDININY FAHA-23\nManan-jo hanana asa ny olon-drehetra, hifidy izay asa tiany, ka amim-pitoviana sy ara-drariny no hanaovana\nizany. Manan-jo ho arovana amin'ny tsy fananan'asa koa izy.\nNy olon-drehetra dia manan-jo hahazo karama mitovy amin'ny asa mitovy, ka tsy asiana fanavakavahana\nizany.\nIzay miasa dia manan-jo hahazo karama ara-drariny hahafahany mivelona sy mamelona ny ankohonany\naraka ny tokony ho izy.\nFidiram-bola ampiana fiarovana ara-tsosialy raha misy izany. Manan-jo hanorina na hiditra amina sendika\nihany koa ny tsirairay mba hiarovany ny zony.\nANDININY FAHA-24\nManan-jo hiala sasatra sy hiala voly ny olon-drehetra. Tokony ho ferana ara-drariny ny fotoam-piasana ary\nhandraisana karama ny fialan-tsasatra amin'izany.\nANDININY FAHA-25\nManan-jo hanana fari-piainana antonony sy ampy ny tsirairay mba hiantoka ny fahasalamany, sy izay rehetra\nmahasoa azy sy ny ankohonany : sakafo, fitafiana, fonenana, fitsaboana ary kojakoja sosialy ilaina rehetra."
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "59ef30ed7f5c6ad41a5e734d6b8a3212",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Manan-jo ihany koa hahazo fiahiana ara-tsosialy ny tsirairay raha sendra ny tsy fananan'asa, aretina, takaitra,\nfahanterana na antony hafa tsy niniany ka tsy ahafahany mivelona.\nManan-jo hahazo fanampiana sy fanaraha-maso manokana ny reny sy ny zaza. Ny ankizy rehetra, teraka tao\nanatin'ny mariazy na ivelany dia manan-jo mitovy amin'ny fiahiana ara-tsosialy.\nANDININY FAHA-26\nManan-jo hahazo fanabeazana ny olon-drehetra. Tokony ho maimaim- poana izany, farafaharatsiny any\namin'ny fampianarana fototra. Tsy maintsy atao ny fampianarana ambaratonga voalohany. Ny fampianarana\nteknika sy fanofanana ara-asa kosa dia tokony ho azon'ny rehetra hidirana araka ny fahaizan'ny tsirairay.\nNy fanabeazana dia tokony hikendry ny fivelaran'ny maha-olona ; hanamafy ny fanajana ny fahafahana sy zo\nfototra, hampanjaka ny fifandeferana sy ny fifankatiavana eo amin'ny olon-drehetra sy ny firenen-tsamihafa ;\nary hikatsaka izay hampandrosoana ny asan'ny Firenena Mikambana ho amin'ny fitandroana ny\nfandriampahalemana.\nNy ray aman-dreny ihany no voalohany manan-jo hifidy izay karazam- panabeazana omena ny zanany.\nANDININY FAHA-27\nNy olon-drehetra dia manan-jo handray anjara amin'ireo fihetsiketsehana ara-kolotsaina atao ao amin'ny\nfaritra misy azy.\nMahazo mankafy ny zava-kanto sy mandray anjara amin'ny fampivelarana ny siansa sy ireo tombo-tsoa\naterak'izany. Tokony ho arovana ny zon'ny mpamorona eo amin'ny lafiny rehetra : voka-pikarohana\nsiantifika, haisoratra, zava-kanto...\nANDININY FAHA-28",
-            "Image": "59ef30ed7f5c6ad41a5e734d6b8a3212"
+            "Text": "Manan-jo ihany koa hahazo fiahiana ara-tsosialy ny tsirairay raha sendra ny tsy fananan'asa, aretina, takaitra,\nfahanterana na antony hafa tsy niniany ka tsy ahafahany mivelona.\nManan-jo hahazo fanampiana sy fanaraha-maso manokana ny reny sy ny zaza. Ny ankizy rehetra, teraka tao\nanatin'ny mariazy na ivelany dia manan-jo mitovy amin'ny fiahiana ara-tsosialy.\nANDININY FAHA-26\nManan-jo hahazo fanabeazana ny olon-drehetra. Tokony ho maimaim- poana izany, farafaharatsiny any\namin'ny fampianarana fototra. Tsy maintsy atao ny fampianarana ambaratonga voalohany. Ny fampianarana\nteknika sy fanofanana ara-asa kosa dia tokony ho azon'ny rehetra hidirana araka ny fahaizan'ny tsirairay.\nNy fanabeazana dia tokony hikendry ny fivelaran'ny maha-olona ; hanamafy ny fanajana ny fahafahana sy zo\nfototra, hampanjaka ny fifandeferana sy ny fifankatiavana eo amin'ny olon-drehetra sy ny firenen-tsamihafa ;\nary hikatsaka izay hampandrosoana ny asan'ny Firenena Mikambana ho amin'ny fitandroana ny\nfandriampahalemana.\nNy ray aman-dreny ihany no voalohany manan-jo hifidy izay karazam- panabeazana omena ny zanany.\nANDININY FAHA-27\nNy olon-drehetra dia manan-jo handray anjara amin'ireo fihetsiketsehana ara-kolotsaina atao ao amin'ny\nfaritra misy azy.\nMahazo mankafy ny zava-kanto sy mandray anjara amin'ny fampivelarana ny siansa sy ireo tombo-tsoa\naterak'izany. Tokony ho arovana ny zon'ny mpamorona eo amin'ny lafiny rehetra : voka-pikarohana\nsiantifika, haisoratra, zava-kanto...\nANDININY FAHA-28"
         },
         "8": {
-            "Label": "9",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "da64b8931635dc60813a610650c5b5a1",
             "Index": 8,
+            "Label": "9",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Manan-jo hivelatra ao anatina rafitra mitandro ny zo sy ny fahafahana fototra voalaza ato anatin'ity\nfanambarana ity ny olon- drehetra, eo amin'ny lafiny sosialy sy iraisam-pirenena.\nANDININY FAHA-29\nManana adidy amin'ny fiaraha-monina izay ahafahany mivelatra ny tsirairay.\nNy lalna ihany no mametra ny fizakan'ny tsirairay ny zony sy ny fahafahany. Izany dia mba hitandroana ny\nfanajana ny zon'ny hafa, ny lalna ara-moraly, ny filaminam-bahoaka ary ny mahasoa ny olon- drehetra ao\nanatina fiaraha-monina demokratika.\nTsy azo ampiharina ireo zo sy fahafahana ireo raha mifanohitra amin'ny foto-pisainana sy foto-kevitry ny\nFirenena Mikambana.\nANDININY FAHA-30\nNy zava-boalaza rehetra ato anatin'ity Fanambarana ity dia tsy azon'ny Fanjakana na vondron'olona na olon-\ntsotra hadika ho manome azy ireo fahefana hanao asa mikendry handrava ny zo sy ny fahafahana voatanisa\netsy ambony.",
-            "Image": "da64b8931635dc60813a610650c5b5a1"
+            "Text": "Manan-jo hivelatra ao anatina rafitra mitandro ny zo sy ny fahafahana fototra voalaza ato anatin'ity\nfanambarana ity ny olon- drehetra, eo amin'ny lafiny sosialy sy iraisam-pirenena.\nANDININY FAHA-29\nManana adidy amin'ny fiaraha-monina izay ahafahany mivelatra ny tsirairay.\nNy lalna ihany no mametra ny fizakan'ny tsirairay ny zony sy ny fahafahany. Izany dia mba hitandroana ny\nfanajana ny zon'ny hafa, ny lalna ara-moraly, ny filaminam-bahoaka ary ny mahasoa ny olon- drehetra ao\nanatina fiaraha-monina demokratika.\nTsy azo ampiharina ireo zo sy fahafahana ireo raha mifanohitra amin'ny foto-pisainana sy foto-kevitry ny\nFirenena Mikambana.\nANDININY FAHA-30\nNy zava-boalaza rehetra ato anatin'ity Fanambarana ity dia tsy azon'ny Fanjakana na vondron'olona na olon-\ntsotra hadika ho manome azy ireo fahefana hanao asa mikendry handrava ny zo sy ny fahafahana voatanisa\netsy ambony."
         }
     }
 }

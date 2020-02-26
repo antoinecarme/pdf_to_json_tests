@@ -1,132 +1,132 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581467645,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "7231233a73b6b07e9f8d1bc0b382e98f",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Die Allgemeine Erklärung der Menschenrechte\nResolution 217 A (III) vom 10.12.1948\nPräambel\nDa die Anerkennung der angeborenen Würde und der gleichen und unveräußerlichen Rechte aller Mitglieder\nder Gemeinschaft der Menschen die Grundlage von Freiheit, Gerechtigkeit und Frieden in der Welt bildet,\nda die Nichtanerkennung und Verachtung der Menschenrechte zu Akten der Barbarei geführt haben, die das\nGewissen der Menschheit mit Empörung erfüllen, und da verkündet worden ist, dass einer Welt, in der die\nMenschen Rede- und Glaubensfreiheit und Freiheit von Furcht und Not genießen, das höchste Streben des\nMenschen gilt,\nda es notwendig ist, die Menschenrechte durch die Herrschaft des Rechtes zu schützen, damit der Mensch\nnicht gezwungen wird, als letztes Mittel zum Aufstand gegen Tyrannei und Unterdrückung zu greifen,\nda es notwendig ist, die Entwicklung freundschaftlicher Beziehungen zwischen den Nationen zu fördern,\nda die Völker der Vereinten Nationen in der Charta ihren Glauben an die grundlegenden Menschenrechte, an\ndie Würde und den Wert der menschlichen Person und an die Gleichberechtigung von Mann und Frau erneut\nbekräftigt und beschlossen haben, den sozialen Fortschritt und bessere Lebensbedingungen in größerer\nFreiheit zu fördern,\nda die Mitgliedstaaten sich verpflichtet haben, in Zusammenarbeit mit den Vereinten Nationen auf die\nallgemeine Achtung und Einhaltung der Menschenrechte und Grundfreiheiten hinzuwirken,\nda ein gemeinsames Verständnis dieser Rechte und Freiheiten von größter Wichtigkeit für die volle\nErfüllung dieser Verpflichtung ist,",
-            "Image": "7231233a73b6b07e9f8d1bc0b382e98f"
+            "Text": "Die Allgemeine Erklärung der Menschenrechte\nResolution 217 A (III) vom 10.12.1948\nPräambel\nDa die Anerkennung der angeborenen Würde und der gleichen und unveräußerlichen Rechte aller Mitglieder\nder Gemeinschaft der Menschen die Grundlage von Freiheit, Gerechtigkeit und Frieden in der Welt bildet,\nda die Nichtanerkennung und Verachtung der Menschenrechte zu Akten der Barbarei geführt haben, die das\nGewissen der Menschheit mit Empörung erfüllen, und da verkündet worden ist, dass einer Welt, in der die\nMenschen Rede- und Glaubensfreiheit und Freiheit von Furcht und Not genießen, das höchste Streben des\nMenschen gilt,\nda es notwendig ist, die Menschenrechte durch die Herrschaft des Rechtes zu schützen, damit der Mensch\nnicht gezwungen wird, als letztes Mittel zum Aufstand gegen Tyrannei und Unterdrückung zu greifen,\nda es notwendig ist, die Entwicklung freundschaftlicher Beziehungen zwischen den Nationen zu fördern,\nda die Völker der Vereinten Nationen in der Charta ihren Glauben an die grundlegenden Menschenrechte, an\ndie Würde und den Wert der menschlichen Person und an die Gleichberechtigung von Mann und Frau erneut\nbekräftigt und beschlossen haben, den sozialen Fortschritt und bessere Lebensbedingungen in größerer\nFreiheit zu fördern,\nda die Mitgliedstaaten sich verpflichtet haben, in Zusammenarbeit mit den Vereinten Nationen auf die\nallgemeine Achtung und Einhaltung der Menschenrechte und Grundfreiheiten hinzuwirken,\nda ein gemeinsames Verständnis dieser Rechte und Freiheiten von größter Wichtigkeit für die volle\nErfüllung dieser Verpflichtung ist,"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "fb1c22ef1e68fd67cb79b488671f01ac",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "verkündet die Generalversammlung\ndiese Allgemeine Erklärung der Menschenrechte als das von allen Völkern und Nationen zu erreichende\ngemeinsame Ideal, damit jeder einzelne und alle Organe der Gesellschaft sich diese Erklärung stets\ngegenwärtig halten und sich bemühen, durch Unterricht und Erziehung die Achtung vor diesen Rechten und\nFreiheiten zu fördern und durch fortschreitende nationale und internationale Maßnahmen ihre allgemeine und\ntatsächliche Anerkennung und Einhaltung durch die Bevölkerung der Mitgliedstaaten selbst wie auch durch\ndie Bevölkerung der ihrer Hoheitsgewalt unterstehenden Gebiete zu gewährleisten.\nArtikel 1\nAlle Menschen sind frei und gleich an Würde und Rechten geboren. Sie sind mit Vernunft und Gewissen\nbegabt und sollen einander im Geist der Brüderlichkeit begegnen.\nArtikel 2\nJeder hat Anspruch auf die in dieser Erklärung verkündeten Rechte und Freiheiten ohne irgendeinen\nUnterschied, etwa nach Rasse, Hautfarbe, Geschlecht, Sprache, Religion, politischer oder sonstiger\nÜberzeugung, nationaler oder sozialer Herkunft, Vermögen, Geburt oder sonstigem Stand.\nDes Weiteren darf kein Unterschied gemacht werden auf Grund der politischen, rechtlichen oder\ninternationalen Stellung des Landes oder Gebiets, dem eine Person angehört, gleichgültig ob dieses\nunabhängig ist, unter Treuhandschaft steht, keine Selbstregierung besitzt oder sonst in seiner Souveränität\neingeschränkt ist.\nArtikel 3\nJeder hat das Recht auf Leben, Freiheit und Sicherheit der Person.\nArtikel 4",
-            "Image": "fb1c22ef1e68fd67cb79b488671f01ac"
+            "Text": "verkündet die Generalversammlung\ndiese Allgemeine Erklärung der Menschenrechte als das von allen Völkern und Nationen zu erreichende\ngemeinsame Ideal, damit jeder einzelne und alle Organe der Gesellschaft sich diese Erklärung stets\ngegenwärtig halten und sich bemühen, durch Unterricht und Erziehung die Achtung vor diesen Rechten und\nFreiheiten zu fördern und durch fortschreitende nationale und internationale Maßnahmen ihre allgemeine und\ntatsächliche Anerkennung und Einhaltung durch die Bevölkerung der Mitgliedstaaten selbst wie auch durch\ndie Bevölkerung der ihrer Hoheitsgewalt unterstehenden Gebiete zu gewährleisten.\nArtikel 1\nAlle Menschen sind frei und gleich an Würde und Rechten geboren. Sie sind mit Vernunft und Gewissen\nbegabt und sollen einander im Geist der Brüderlichkeit begegnen.\nArtikel 2\nJeder hat Anspruch auf die in dieser Erklärung verkündeten Rechte und Freiheiten ohne irgendeinen\nUnterschied, etwa nach Rasse, Hautfarbe, Geschlecht, Sprache, Religion, politischer oder sonstiger\nÜberzeugung, nationaler oder sozialer Herkunft, Vermögen, Geburt oder sonstigem Stand.\nDes Weiteren darf kein Unterschied gemacht werden auf Grund der politischen, rechtlichen oder\ninternationalen Stellung des Landes oder Gebiets, dem eine Person angehört, gleichgültig ob dieses\nunabhängig ist, unter Treuhandschaft steht, keine Selbstregierung besitzt oder sonst in seiner Souveränität\neingeschränkt ist.\nArtikel 3\nJeder hat das Recht auf Leben, Freiheit und Sicherheit der Person.\nArtikel 4"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "0044d9036c7b97868fb48e7f8922590e",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Niemand darf in Sklaverei oder Leibeigenschaft gehalten werden; Sklaverei und Sklavenhandel sind in allen\nihren Formen verboten.\nArtikel 5\nNiemand darf der Folter oder grausamer, unmenschlicher oder erniedrigender Behandlung oder Strafe\nunterworfen werden.\nArtikel 6\nJeder hat das Recht, überall als rechtsfähig anerkannt zu werden.\nArtikel 7\nAlle Menschen sind vor dem Gesetz gleich und haben ohne Unterschied Anspruch auf gleichen Schutz durch\ndas Gesetz. Alle haben Anspruch auf gleichen Schutz gegen jede Diskriminierung, die gegen diese Erklärung\nverstößt, und gegen jede Aufhetzung zu einer derartigen Diskriminierung.\nArtikel 8\nJeder hat Anspruch auf einen wirksamen Rechtsbehelf bei den zuständigen innerstaatlichen Gerichten gegen\nHandlungen, durch die seine ihm nach der Verfassung oder nach dem Gesetz zustehenden Grundrechte\nverletzt werden.\nArtikel 9\nNiemand darf willkürlich festgenommen, in Haft gehalten oder des Landes verwiesen werden.\nArtikel 10\nJeder hat bei der Feststellung seiner Rechte und Pflichten sowie bei einer gegen ihn erhobenen\nstrafrechtlichen Beschuldigung in voller Gleichheit Anspruch auf ein gerechtes und öffentliches Verfahren",
-            "Image": "0044d9036c7b97868fb48e7f8922590e"
+            "Text": "Niemand darf in Sklaverei oder Leibeigenschaft gehalten werden; Sklaverei und Sklavenhandel sind in allen\nihren Formen verboten.\nArtikel 5\nNiemand darf der Folter oder grausamer, unmenschlicher oder erniedrigender Behandlung oder Strafe\nunterworfen werden.\nArtikel 6\nJeder hat das Recht, überall als rechtsfähig anerkannt zu werden.\nArtikel 7\nAlle Menschen sind vor dem Gesetz gleich und haben ohne Unterschied Anspruch auf gleichen Schutz durch\ndas Gesetz. Alle haben Anspruch auf gleichen Schutz gegen jede Diskriminierung, die gegen diese Erklärung\nverstößt, und gegen jede Aufhetzung zu einer derartigen Diskriminierung.\nArtikel 8\nJeder hat Anspruch auf einen wirksamen Rechtsbehelf bei den zuständigen innerstaatlichen Gerichten gegen\nHandlungen, durch die seine ihm nach der Verfassung oder nach dem Gesetz zustehenden Grundrechte\nverletzt werden.\nArtikel 9\nNiemand darf willkürlich festgenommen, in Haft gehalten oder des Landes verwiesen werden.\nArtikel 10\nJeder hat bei der Feststellung seiner Rechte und Pflichten sowie bei einer gegen ihn erhobenen\nstrafrechtlichen Beschuldigung in voller Gleichheit Anspruch auf ein gerechtes und öffentliches Verfahren"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "8f4033eb9a0998a76998e7cebc06e54b",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "vor einem unabhängigen und unparteiischen Gericht.\nArtikel 11\nJeder, der wegen einer strafbaren Handlung beschuldigt wird, hat das Recht, als unschuldig zu gelten,\nsolange seine Schuld nicht in einem öffentlichen Verfahren, in dem er alle für seine Verteidigung\nnotwendigen Garantien gehabt hat, gemäß dem Gesetz nachgewiesen ist.\nNiemand darf wegen einer Handlung oder Unterlassung verurteilt werden, die zur Zeit ihrer Begehung nach\ninnerstaatlichem oder internationalem Recht nicht strafbar war. Ebenso darf keine schwerere Strafe als die\nzum Zeitpunkt der Begehung der strafbaren Handlung angedrohte Strafe verhängt werden.\nArtikel 12\nNiemand darf willkürlichen Eingriffen in sein Privatleben, seine Familie, seine Wohnung und seinen\nSchriftverkehr oder Beeinträchtigungen seiner Ehre und seines Rufes ausgesetzt werden. Jeder hat Anspruch\nauf rechtlichen Schutz gegen solche Eingriffe oder Beeinträchtigungen.\nArtikel 13\nJeder hat das Recht, sich innerhalb eines Staates frei zu bewegen und seinen Aufenthaltsort frei zu wählen.\nJeder hat das Recht, jedes Land, einschließlich seines eigenen, zu verlassen und in sein Land\nzurückzukehren.\nArtikel 14\nJeder hat das Recht, in anderen Ländern vor Verfolgung Asyl zu suchen und zu genießen.\nDieses Recht kann nicht in Anspruch genommen werden im Falle einer Strafverfolgung, die tatsächlich auf\nGrund von Verbrechen nichtpolitischer Art oder auf Grund von Handlungen erfolgt, die gegen die Ziele und",
-            "Image": "8f4033eb9a0998a76998e7cebc06e54b"
+            "Text": "vor einem unabhängigen und unparteiischen Gericht.\nArtikel 11\nJeder, der wegen einer strafbaren Handlung beschuldigt wird, hat das Recht, als unschuldig zu gelten,\nsolange seine Schuld nicht in einem öffentlichen Verfahren, in dem er alle für seine Verteidigung\nnotwendigen Garantien gehabt hat, gemäß dem Gesetz nachgewiesen ist.\nNiemand darf wegen einer Handlung oder Unterlassung verurteilt werden, die zur Zeit ihrer Begehung nach\ninnerstaatlichem oder internationalem Recht nicht strafbar war. Ebenso darf keine schwerere Strafe als die\nzum Zeitpunkt der Begehung der strafbaren Handlung angedrohte Strafe verhängt werden.\nArtikel 12\nNiemand darf willkürlichen Eingriffen in sein Privatleben, seine Familie, seine Wohnung und seinen\nSchriftverkehr oder Beeinträchtigungen seiner Ehre und seines Rufes ausgesetzt werden. Jeder hat Anspruch\nauf rechtlichen Schutz gegen solche Eingriffe oder Beeinträchtigungen.\nArtikel 13\nJeder hat das Recht, sich innerhalb eines Staates frei zu bewegen und seinen Aufenthaltsort frei zu wählen.\nJeder hat das Recht, jedes Land, einschließlich seines eigenen, zu verlassen und in sein Land\nzurückzukehren.\nArtikel 14\nJeder hat das Recht, in anderen Ländern vor Verfolgung Asyl zu suchen und zu genießen.\nDieses Recht kann nicht in Anspruch genommen werden im Falle einer Strafverfolgung, die tatsächlich auf\nGrund von Verbrechen nichtpolitischer Art oder auf Grund von Handlungen erfolgt, die gegen die Ziele und"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "6b701da72978f761d67ee3868a885157",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Grundsätze der Vereinten Nationen verstoßen.\nArtikel 15\nJeder hat das Recht auf eine Staatsangehörigkeit.\nNiemandem darf seine Staatsangehörigkeit willkürlich entzogen noch das Recht versagt werden, seine\nStaatsangehörigkeit zu wechseln.\nArtikel 16\nHeiratsfähige Frauen und Männer haben ohne Beschränkung auf Grund der Rasse, der Staatsangehörigkeit\noder der Religion das Recht, zu heiraten und eine Familie zu gründen. Sie haben bei der Eheschließung,\nwährend der Ehe und bei deren Auflösung gleiche Rechte.\nEine Ehe darf nur bei freier und uneingeschränkter Willenseinigung der künftigen Ehegatten geschlossen\nwerden.\nDie Familie ist die natürliche Grundeinheit der Gesellschaft und hat Anspruch auf Schutz durch Gesellschaft\nund Staat.\nArtikel 17\nJeder hat das Recht, sowohl allein als auch in Gemeinschaft mit anderen Eigentum innezuhaben.\nNiemand darf willkürlich seines Eigentums beraubt werden.\nArtikel 18\nJeder hat das Recht auf Gedanken-, Gewissens- und Religionsfreiheit; dieses Recht schließt die Freiheit ein,\nseine Religion oder Überzeugung zu wechseln, sowie die Freiheit, seine Religion oder Weltanschauung\nallein oder in Gemeinschaft mit anderen, öffentlich oder privat durch Lehre, Ausübung, Gottesdienst und",
-            "Image": "6b701da72978f761d67ee3868a885157"
+            "Text": "Grundsätze der Vereinten Nationen verstoßen.\nArtikel 15\nJeder hat das Recht auf eine Staatsangehörigkeit.\nNiemandem darf seine Staatsangehörigkeit willkürlich entzogen noch das Recht versagt werden, seine\nStaatsangehörigkeit zu wechseln.\nArtikel 16\nHeiratsfähige Frauen und Männer haben ohne Beschränkung auf Grund der Rasse, der Staatsangehörigkeit\noder der Religion das Recht, zu heiraten und eine Familie zu gründen. Sie haben bei der Eheschließung,\nwährend der Ehe und bei deren Auflösung gleiche Rechte.\nEine Ehe darf nur bei freier und uneingeschränkter Willenseinigung der künftigen Ehegatten geschlossen\nwerden.\nDie Familie ist die natürliche Grundeinheit der Gesellschaft und hat Anspruch auf Schutz durch Gesellschaft\nund Staat.\nArtikel 17\nJeder hat das Recht, sowohl allein als auch in Gemeinschaft mit anderen Eigentum innezuhaben.\nNiemand darf willkürlich seines Eigentums beraubt werden.\nArtikel 18\nJeder hat das Recht auf Gedanken-, Gewissens- und Religionsfreiheit; dieses Recht schließt die Freiheit ein,\nseine Religion oder Überzeugung zu wechseln, sowie die Freiheit, seine Religion oder Weltanschauung\nallein oder in Gemeinschaft mit anderen, öffentlich oder privat durch Lehre, Ausübung, Gottesdienst und"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "cc5adc964fc87d3eac4c553e804286d8",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Kulthandlungen zu bekennen.\nArtikel 19\nJeder hat das Recht auf Meinungsfreiheit und freie Meinungsäußerung; dieses Recht schließt die Freiheit ein,\nMeinungen ungehindert anzuhängen sowie über Medien jeder Art und ohne Rücksicht auf Grenzen\nInformationen und Gedankengut zu suchen, zu empfangen und zu verbreiten.\nArtikel 20\nAlle Menschen haben das Recht, sich friedlich zu versammeln und zu Vereinigungen zusammenzuschließen.\nNiemand darf gezwungen werden, einer Vereinigung anzugehören.\nArtikel 21\nJeder hat das Recht, an der Gestaltung der öffentlichen Angelegenheiten seines Landes unmittelbar oder\ndurch frei gewählte Vertreter mitzuwirken.\nJeder hat das Recht auf gleichen Zugang zu öffentlichen Ämtern in seinem Lande.\nDer Wille des Volkes bildet die Grundlage für die Autorität der öffentlichen Gewalt; dieser Wille muss durch\nregelmäßige, unverfälschte, allgemeine und gleiche Wahlen mit geheimer Stimmabgabe oder in einem\ngleichwertigen freien Wahlverfahren zum Ausdruck kommen.\nArtikel 22\nJeder hat als Mitglied der Gesellschaft das Recht auf soziale Sicherheit und Anspruch darauf, durch\ninnerstaatliche Maßnahmen und internationale Zusammenarbeit sowie unter Berücksichtigung der\nOrganisation und der Mittel jedes Staates in den Genuss der wirtschaftlichen, sozialen und kulturellen Rechte\nzu gelangen, die für seine Würde und die freie Entwicklung seiner Persönlichkeit unentbehrlich sind.",
-            "Image": "cc5adc964fc87d3eac4c553e804286d8"
+            "Text": "Kulthandlungen zu bekennen.\nArtikel 19\nJeder hat das Recht auf Meinungsfreiheit und freie Meinungsäußerung; dieses Recht schließt die Freiheit ein,\nMeinungen ungehindert anzuhängen sowie über Medien jeder Art und ohne Rücksicht auf Grenzen\nInformationen und Gedankengut zu suchen, zu empfangen und zu verbreiten.\nArtikel 20\nAlle Menschen haben das Recht, sich friedlich zu versammeln und zu Vereinigungen zusammenzuschließen.\nNiemand darf gezwungen werden, einer Vereinigung anzugehören.\nArtikel 21\nJeder hat das Recht, an der Gestaltung der öffentlichen Angelegenheiten seines Landes unmittelbar oder\ndurch frei gewählte Vertreter mitzuwirken.\nJeder hat das Recht auf gleichen Zugang zu öffentlichen Ämtern in seinem Lande.\nDer Wille des Volkes bildet die Grundlage für die Autorität der öffentlichen Gewalt; dieser Wille muss durch\nregelmäßige, unverfälschte, allgemeine und gleiche Wahlen mit geheimer Stimmabgabe oder in einem\ngleichwertigen freien Wahlverfahren zum Ausdruck kommen.\nArtikel 22\nJeder hat als Mitglied der Gesellschaft das Recht auf soziale Sicherheit und Anspruch darauf, durch\ninnerstaatliche Maßnahmen und internationale Zusammenarbeit sowie unter Berücksichtigung der\nOrganisation und der Mittel jedes Staates in den Genuss der wirtschaftlichen, sozialen und kulturellen Rechte\nzu gelangen, die für seine Würde und die freie Entwicklung seiner Persönlichkeit unentbehrlich sind."
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "f30994508e974af4166f8a5ca788a53d",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Artikel 23\nJeder hat das Recht auf Arbeit, auf freie Berufswahl, auf gerechte und befriedigende Arbeitsbedingungen\nsowie auf Schutz vor Arbeitslosigkeit.\nJeder, ohne Unterschied, hat das Recht auf gleichen Lohn für gleiche Arbeit.\nJeder, der arbeitet, hat das Recht auf gerechte und befriedigende Entlohnung, die ihm und seiner Familie eine\nder menschlichen Würde entsprechende Existenz sichert, gegebenenfalls ergänzt durch andere soziale\nSchutzmaßnahmen.\nJeder hat das Recht, zum Schutz seiner Interessen Gewerkschaften zu bilden und solchen beizutreten.\nArtikel 24\nJeder hat das Recht auf Erholung und Freizeit und insbesondere auf eine vernünftige Begrenzung der\nArbeitszeit und regelmäßigen bezahlten Urlaub.\nArtikel 25\nJeder hat das Recht auf einen Lebensstandard, der seine und seiner Familie Gesundheit und Wohl\ngewährleistet, einschließlich Nahrung, Kleidung, Wohnung, ärztlicher Versorgung und notwendiger sozialer\nLeistungen, sowie das Recht auf Sicherheit im Falle von Arbeitslosigkeit, Krankheit, Invalidität oder\nVerwitwung, im Alter sowie bei anderweitigem Verlust seiner Unterhaltsmittel durch unverschuldete\nUmstände.\nMütter und Kinder haben Anspruch auf besondere Fürsorge und Unterstützung. Alle Kinder, eheliche wie\naußereheliche, genießen den gleichen sozialen Schutz.\nArtikel 26",
-            "Image": "f30994508e974af4166f8a5ca788a53d"
+            "Text": "Artikel 23\nJeder hat das Recht auf Arbeit, auf freie Berufswahl, auf gerechte und befriedigende Arbeitsbedingungen\nsowie auf Schutz vor Arbeitslosigkeit.\nJeder, ohne Unterschied, hat das Recht auf gleichen Lohn für gleiche Arbeit.\nJeder, der arbeitet, hat das Recht auf gerechte und befriedigende Entlohnung, die ihm und seiner Familie eine\nder menschlichen Würde entsprechende Existenz sichert, gegebenenfalls ergänzt durch andere soziale\nSchutzmaßnahmen.\nJeder hat das Recht, zum Schutz seiner Interessen Gewerkschaften zu bilden und solchen beizutreten.\nArtikel 24\nJeder hat das Recht auf Erholung und Freizeit und insbesondere auf eine vernünftige Begrenzung der\nArbeitszeit und regelmäßigen bezahlten Urlaub.\nArtikel 25\nJeder hat das Recht auf einen Lebensstandard, der seine und seiner Familie Gesundheit und Wohl\ngewährleistet, einschließlich Nahrung, Kleidung, Wohnung, ärztlicher Versorgung und notwendiger sozialer\nLeistungen, sowie das Recht auf Sicherheit im Falle von Arbeitslosigkeit, Krankheit, Invalidität oder\nVerwitwung, im Alter sowie bei anderweitigem Verlust seiner Unterhaltsmittel durch unverschuldete\nUmstände.\nMütter und Kinder haben Anspruch auf besondere Fürsorge und Unterstützung. Alle Kinder, eheliche wie\naußereheliche, genießen den gleichen sozialen Schutz.\nArtikel 26"
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "ff7396a40d325602c57ca46bdde2e82f",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Jeder hat das Recht auf Bildung. Die Bildung ist unentgeltlich, zum mindesten der Grundschulunterricht und\ndie grundlegende Bildung. Der Grundschulunterricht ist obligatorisch. Fach- und Berufsschulunterricht\nmüssen allgemein verfügbar gemacht werden und der Hochschulunterricht muss allen gleichermaßen\nentsprechend ihren Fähigkeiten offenstehen.\nDie Bildung muss auf die volle Entfaltung der menschlichen Persönlichkeit und auf die Stärkung der\nAchtung vor den Menschenrechten und Grundfreiheiten gerichtet sein. Sie muss zu Verständnis, Toleranz\nund Freundschaft zwischen allen Nationen und allen rassischen oder religiösen Gruppen beitragen und der\nTätigkeit der Vereinten Nationen für die Wahrung des Friedens förderlich sein.\nDie Eltern haben ein vorrangiges Recht, die Art der Bildung zu wählen, die ihren Kindern zuteilwerden soll.\nArtikel 27\nJeder hat das Recht, am kulturellen Leben der Gemeinschaft frei teilzunehmen, sich an den Künsten zu\nerfreuen und am wissenschaftlichen Fortschritt und dessen Errungenschaften teilzuhaben.\nJeder hat das Recht auf Schutz der geistigen und materiellen Interessen, die ihm als Urheber von Werken der\nWissenschaft, Literatur oder Kunst erwachsen.\nArtikel 28\nJeder hat Anspruch auf eine soziale und internationale Ordnung, in der die in dieser Erklärung verkündeten\nRechte und Freiheiten voll verwirklicht werden können.\nArtikel 29\nJeder hat Pflichten gegenüber der Gemeinschaft, in der allein die freie und volle Entfaltung seiner\nPersönlichkeit möglich ist.",
-            "Image": "ff7396a40d325602c57ca46bdde2e82f"
+            "Text": "Jeder hat das Recht auf Bildung. Die Bildung ist unentgeltlich, zum mindesten der Grundschulunterricht und\ndie grundlegende Bildung. Der Grundschulunterricht ist obligatorisch. Fach- und Berufsschulunterricht\nmüssen allgemein verfügbar gemacht werden und der Hochschulunterricht muss allen gleichermaßen\nentsprechend ihren Fähigkeiten offenstehen.\nDie Bildung muss auf die volle Entfaltung der menschlichen Persönlichkeit und auf die Stärkung der\nAchtung vor den Menschenrechten und Grundfreiheiten gerichtet sein. Sie muss zu Verständnis, Toleranz\nund Freundschaft zwischen allen Nationen und allen rassischen oder religiösen Gruppen beitragen und der\nTätigkeit der Vereinten Nationen für die Wahrung des Friedens förderlich sein.\nDie Eltern haben ein vorrangiges Recht, die Art der Bildung zu wählen, die ihren Kindern zuteilwerden soll.\nArtikel 27\nJeder hat das Recht, am kulturellen Leben der Gemeinschaft frei teilzunehmen, sich an den Künsten zu\nerfreuen und am wissenschaftlichen Fortschritt und dessen Errungenschaften teilzuhaben.\nJeder hat das Recht auf Schutz der geistigen und materiellen Interessen, die ihm als Urheber von Werken der\nWissenschaft, Literatur oder Kunst erwachsen.\nArtikel 28\nJeder hat Anspruch auf eine soziale und internationale Ordnung, in der die in dieser Erklärung verkündeten\nRechte und Freiheiten voll verwirklicht werden können.\nArtikel 29\nJeder hat Pflichten gegenüber der Gemeinschaft, in der allein die freie und volle Entfaltung seiner\nPersönlichkeit möglich ist."
         },
         "8": {
-            "Label": "9",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "542ff9ce5e46470bba8d202802aa2790",
             "Index": 8,
+            "Label": "9",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Jeder ist bei der Ausübung seiner Rechte und Freiheiten nur den Beschränkungen unterworfen, die das\nGesetz ausschließlich zu dem Zweck vorsieht, die Anerkennung und Achtung der Rechte und Freiheiten\nanderer zu sichern und den gerechten Anforderungen der Moral, der öffentlichen Ordnung und des\nallgemeinen Wohles in einer demokratischen Gesellschaft zu genügen.\nDiese Rechte und Freiheiten dürfen in keinem Fall im Widerspruch zu den Zielen und Grundsätzen der\nVereinten Nationen ausgeübt werden.\nArtikel 30\nKeine Bestimmung dieser Erklärung darf dahin ausgelegt werden, dass sie für einen Staat, eine Gruppe oder\neine Person irgendein Recht begründet, eine Tätigkeit auszuüben oder eine Handlung zu begehen, welche die\nBeseitigung der in dieser Erklärung verkündeten Rechte und Freiheiten zum Ziel hat.",
-            "Image": "542ff9ce5e46470bba8d202802aa2790"
+            "Text": "Jeder ist bei der Ausübung seiner Rechte und Freiheiten nur den Beschränkungen unterworfen, die das\nGesetz ausschließlich zu dem Zweck vorsieht, die Anerkennung und Achtung der Rechte und Freiheiten\nanderer zu sichern und den gerechten Anforderungen der Moral, der öffentlichen Ordnung und des\nallgemeinen Wohles in einer demokratischen Gesellschaft zu genügen.\nDiese Rechte und Freiheiten dürfen in keinem Fall im Widerspruch zu den Zielen und Grundsätzen der\nVereinten Nationen ausgeübt werden.\nArtikel 30\nKeine Bestimmung dieser Erklärung darf dahin ausgelegt werden, dass sie für einen Staat, eine Gruppe oder\neine Person irgendein Recht begründet, eine Tätigkeit auszuüben oder eine Handlung zu begehen, welche die\nBeseitigung der in dieser Erklärung verkündeten Rechte und Freiheiten zum Ziel hat."
         }
     }
 }

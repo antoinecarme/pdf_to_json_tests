@@ -1,132 +1,132 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581467297,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "ae26b36fbb8de0b830b18bc64ef8d1bb",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "10 de Diciembre 1948 na'a hua'ano'sa' niyontonpi. Nisha nisha Copirno'sari a'parin ninontacaiso marë'. Ya'ipi\npiyapi'sa' noya ya huëina', ta'caiso marë' ninontopi. Ninontohuachinara, iso quirica ninshitopi. -Nisha nisha\nnananquë ninshitoco'. Ya'ipi parti a'paco' ya'ipi piyapi nitotacaiso marë' topi. Piyapi niyontonpachina, sha\n'huichina'. Escuelarn'saquë a 'chinchina', topi.\nCOPIRNORO'SA' NAPORINSOPITA YA'IPI PIYAPI NOYA YA'HUËCAISO MARË'\nSHA'HUICHINQUËMA'\nYa'ipi piyapi'sa' noya ya'huëina'. Ama incari tëranta' topinan quëran ana'inchinasohuë'. Ina quëran ya'ipi parti\nnoya nini'tëhua' ya'huërëhua huachi.\nA 'naquën piyapi 'sa' co nosorohuachinahuë', chiniquen aparësitopi. A'na tahuëri tëpapi. Inaso' pa'pi co\nnoyahuë' tënëhua'. Nonpiso marë', yonquipiso marë' Co ana'intacaso' ya'huërinhuë'. Naporahuaton, ya'ipi\npiyapi ma'sha ya'huëchina' Co nohuantërëhuahuë' a nayanquënpoatëranta' pahuantinpoaso.\nYa'ipi Copirnoro'sa' noya hua'anëntinpoaso' ya 'huërin. Ama topinan quëran ana'inchinpoasohuë'. Topinan\nquëran aparësitohuachinpoara, a'naquën chiniquën no'huihuachina yaahuëtopi. Ina quëran a'na copirno acopi\nhuachi.\nYa'ipi Copirnoro'sa' noya nini'tona' ya'huëina'. Ama nino'huiatonahuë', ama quira niinasohuë', tënëhua'.\nYa'nan niyontonëhuaso' ninshitërëhua'. -Ya'ipi piyapi 'sa' noya ya'huëina', tënëhua'. Quëmapi'sa',\nsanapiro'santa' napopianachin Copirnoro'sari noya niina'. Ya'ipi piyapi'sa' catahua'hua' noya noya ya'huëcaiso\nmarë', tënëhua'.\nYa'ipinpoa' nani chinotërëhua' piyapi'sa' catahuahuaso'. Ya'ipinpoa' noya nini 'tëhua', ya'huëa'hua', ta'tëhua',\nnanan a'pa'hua' piyapi'sa' noya ya'huëcaiso marë'.\nNapoaton iso quirica ninshitërëhua' ya'ipi piyapi'sa' nitotacaiso marë'.",
-            "Image": "ae26b36fbb8de0b830b18bc64ef8d1bb"
+            "Text": "10 de Diciembre 1948 na'a hua'ano'sa' niyontonpi. Nisha nisha Copirno'sari a'parin ninontacaiso marë'. Ya'ipi\npiyapi'sa' noya ya huëina', ta'caiso marë' ninontopi. Ninontohuachinara, iso quirica ninshitopi. -Nisha nisha\nnananquë ninshitoco'. Ya'ipi parti a'paco' ya'ipi piyapi nitotacaiso marë' topi. Piyapi niyontonpachina, sha\n'huichina'. Escuelarn'saquë a 'chinchina', topi.\nCOPIRNORO'SA' NAPORINSOPITA YA'IPI PIYAPI NOYA YA'HUËCAISO MARË'\nSHA'HUICHINQUËMA'\nYa'ipi piyapi'sa' noya ya'huëina'. Ama incari tëranta' topinan quëran ana'inchinasohuë'. Ina quëran ya'ipi parti\nnoya nini'tëhua' ya'huërëhua huachi.\nA 'naquën piyapi 'sa' co nosorohuachinahuë', chiniquen aparësitopi. A'na tahuëri tëpapi. Inaso' pa'pi co\nnoyahuë' tënëhua'. Nonpiso marë', yonquipiso marë' Co ana'intacaso' ya'huërinhuë'. Naporahuaton, ya'ipi\npiyapi ma'sha ya'huëchina' Co nohuantërëhuahuë' a nayanquënpoatëranta' pahuantinpoaso.\nYa'ipi Copirnoro'sa' noya hua'anëntinpoaso' ya 'huërin. Ama topinan quëran ana'inchinpoasohuë'. Topinan\nquëran aparësitohuachinpoara, a'naquën chiniquën no'huihuachina yaahuëtopi. Ina quëran a'na copirno acopi\nhuachi.\nYa'ipi Copirnoro'sa' noya nini'tona' ya'huëina'. Ama nino'huiatonahuë', ama quira niinasohuë', tënëhua'.\nYa'nan niyontonëhuaso' ninshitërëhua'. -Ya'ipi piyapi 'sa' noya ya'huëina', tënëhua'. Quëmapi'sa',\nsanapiro'santa' napopianachin Copirnoro'sari noya niina'. Ya'ipi piyapi'sa' catahua'hua' noya noya ya'huëcaiso\nmarë', tënëhua'.\nYa'ipinpoa' nani chinotërëhua' piyapi'sa' catahuahuaso'. Ya'ipinpoa' noya nini 'tëhua', ya'huëa'hua', ta'tëhua',\nnanan a'pa'hua' piyapi'sa' noya ya'huëcaiso marë'.\nNapoaton iso quirica ninshitërëhua' ya'ipi piyapi'sa' nitotacaiso marë'."
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "d8359003c8efd3bc8ba662ec04aa01e7",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "HUA'ANO'SACOI NIYONTONPATOIRA\nsha'huitërai\nYA'IPI PIYAPI'SA' NOYA YA'HUËINA' TËNËHUA'. Ya'ipi opirnoro'sa' inapochachi yonquiina'. Ya 'ipi\nescuelaro'saquë a 'chinchina'. Mashoro'santa' anitotacaiso' ya'huërin. Ina quëran ya'ipinpoa' nitotohuatëhua',\nnicatahua'hua' noya noya nini'tëhua' ya'huëcaiso marë\n1.\nYa'ipi piyapinpoa' capini noya ninosorocaso' ya'huërin. Ya'ipinpoa' yonquirëhua'. Noya nicacaso'\nnitotërëhua'. Napoaton iyanpoa pochin ninosorocaso' ya 'huërin.\n2.\nYa'ipi piyapi napopianachin noya ninia'hua'. Nisha nisha nirihuarahuënta' ninosorocaso' ya'huërin. Nisha\nnisha nananquë nonëhua'. Nisha nisha imarëhua'. A 'naquënpoa' yaraton, a 'naquënpoa' huiriton, a\n'naquënpoa' quëmapinpoa', a'naquënpoa' sanapinpoa'. A 'naquënpoa' ma 'huano 'sanpoa', a 'naquënpoa' Co na\n'a ma'sha ya'huëtërinpoahuë'.\nNisha nisha nirihuarahuënta' ninosorocaso' ya'huërin. Nisha nisha hua'anëntërinquë ya'huëpirëhuahuë',\nnapopianachin nini'tëhua', ya'huëa'hua'.\n3.\nCo topinan quëran tëpacaso' ya'huërinhuë'. Co topinan quëran tashinan pëiquë po 'mocaso' ya'huërinhuë'.\n4.\nCo piyapinpoa' nipa'anacaso' ya'huërinhuë'. Co topinan quëran asacatacaso ya'huërinhuë'. Piyapi inaora\nnohuanton sacachina'. Co sacatacaiso' nohuantohuachinahuë', ama sacachinasohuë'.",
-            "Image": "d8359003c8efd3bc8ba662ec04aa01e7"
+            "Text": "HUA'ANO'SACOI NIYONTONPATOIRA\nsha'huitërai\nYA'IPI PIYAPI'SA' NOYA YA'HUËINA' TËNËHUA'. Ya'ipi opirnoro'sa' inapochachi yonquiina'. Ya 'ipi\nescuelaro'saquë a 'chinchina'. Mashoro'santa' anitotacaiso' ya'huërin. Ina quëran ya'ipinpoa' nitotohuatëhua',\nnicatahua'hua' noya noya nini'tëhua' ya'huëcaiso marë\n1.\nYa'ipi piyapinpoa' capini noya ninosorocaso' ya'huërin. Ya'ipinpoa' yonquirëhua'. Noya nicacaso'\nnitotërëhua'. Napoaton iyanpoa pochin ninosorocaso' ya 'huërin.\n2.\nYa'ipi piyapi napopianachin noya ninia'hua'. Nisha nisha nirihuarahuënta' ninosorocaso' ya'huërin. Nisha\nnisha nananquë nonëhua'. Nisha nisha imarëhua'. A 'naquënpoa' yaraton, a 'naquënpoa' huiriton, a\n'naquënpoa' quëmapinpoa', a'naquënpoa' sanapinpoa'. A 'naquënpoa' ma 'huano 'sanpoa', a 'naquënpoa' Co na\n'a ma'sha ya'huëtërinpoahuë'.\nNisha nisha nirihuarahuënta' ninosorocaso' ya'huërin. Nisha nisha hua'anëntërinquë ya'huëpirëhuahuë',\nnapopianachin nini'tëhua', ya'huëa'hua'.\n3.\nCo topinan quëran tëpacaso' ya'huërinhuë'. Co topinan quëran tashinan pëiquë po 'mocaso' ya'huërinhuë'.\n4.\nCo piyapinpoa' nipa'anacaso' ya'huërinhuë'. Co topinan quëran asacatacaso ya'huërinhuë'. Piyapi inaora\nnohuanton sacachina'. Co sacatacaiso' nohuantohuachinahuë', ama sacachinasohuë'."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "fdc886c12d9000c128e6cb4c3b3c9fe2",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "5.\nAma topinan quëran ana 'inchinsohuë'. Ama topinan quëran chiniquën aparësichinsohuë'.\n6.\nYa'ipi copirnoro'sa' no'tëquën sha'huitacaso' ya'huërin. Nisha nisha piyapi nipirinhuë' napopianachin\nninosorocaso' ya'huërin, tënëhua'.\n7.\nCopirnoro'sa' no'tëquën hua'anënchina'. Ya'ipi piyapi napopianachin noya ni 'ina'. Napopianachin a'paiina'.\nAma topinan quëran ana'inchinsohuë'.\n8.\nA 'napitari topinan quëran aparësitohuachinpoa', coisëquë sha'huitacaso' ya'huërin. No'tëquën ana 'inchin.\n9.\nCo topinan quëran tashinan pëiquë po'mocaso ya'huërinhuë'. Co topinan quëran a'na parti a'pacaso\nya'huërinhue.\n10.\nA'napita sha'huirapihuachinpoa', Co topinan quëran ana'intacaso' ya'huërinhuë'. Coisë noya natanchin. Ina\nquëran no'tëquën sha'huichin. Ya'ipinpoa' napopianachin nicatonpoa', no 'tëquën sha 'huitinpoaso' ya'huërin.\n11.\nA'na piyapi sha'huirapihuachinpoa', Co a'naroachin ana 'intinpoaso' ya'huërinhuë'. Co nimara naporinhuë',\nta'ton, coisë nóya natainpoa'. Ina quëran oshaquëran yonquiina'. Tëhuënchachi nitotaquë huarë' ana'intacaso'",
-            "Image": "fdc886c12d9000c128e6cb4c3b3c9fe2"
+            "Text": "5.\nAma topinan quëran ana 'inchinsohuë'. Ama topinan quëran chiniquën aparësichinsohuë'.\n6.\nYa'ipi copirnoro'sa' no'tëquën sha'huitacaso' ya'huërin. Nisha nisha piyapi nipirinhuë' napopianachin\nninosorocaso' ya'huërin, tënëhua'.\n7.\nCopirnoro'sa' no'tëquën hua'anënchina'. Ya'ipi piyapi napopianachin noya ni 'ina'. Napopianachin a'paiina'.\nAma topinan quëran ana'inchinsohuë'.\n8.\nA 'napitari topinan quëran aparësitohuachinpoa', coisëquë sha'huitacaso' ya'huërin. No'tëquën ana 'inchin.\n9.\nCo topinan quëran tashinan pëiquë po'mocaso ya'huërinhuë'. Co topinan quëran a'na parti a'pacaso\nya'huërinhue.\n10.\nA'napita sha'huirapihuachinpoa', Co topinan quëran ana'intacaso' ya'huërinhuë'. Coisë noya natanchin. Ina\nquëran no'tëquën sha'huichin. Ya'ipinpoa' napopianachin nicatonpoa', no 'tëquën sha 'huitinpoaso' ya'huërin.\n11.\nA'na piyapi sha'huirapihuachinpoa', Co a'naroachin ana 'intinpoaso' ya'huërinhuë'. Co nimara naporinhuë',\nta'ton, coisë nóya natainpoa'. Ina quëran oshaquëran yonquiina'. Tëhuënchachi nitotaquë huarë' ana'intacaso'"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "d91c6696f94fffcb606e74ac4be26c75",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "ya'huërin. Co tëhuënchachi nitotohuachinhuë', ama ana'inchinsohuë'.\nCopirno nani pënënpachinpoa', no'tëquën ana 'intërinpoa'. Co pënënpachinpoahuë', Co ana 'intinpoaso' ya\n'huërinhuë'. Nasha pënënpachinpoa', natëcaso' ya'huërin. Iraca Co pënënpachinpoarahuë', Co\nnatëpatëhuahuë', Co ina arë' ana 'intinpoaso' ya 'huërinhuë'. Nani sha 'huitohuachinpoa', Co aquëtë\nana'intinpoaso' ya'huërinhuë'.\n12.\nCo ma'shanënpoa' niihuacaso' ya'huërinhuë'. Co ninshitërëhuaso' nisë 'huatacaso' ya'huërinhuë'. Co\npinoinpoaso' ya 'huërinhuë'. Inapo 'tohuachinpoa', coisëri ana'inchin.\n13.\nYa'huërëhua quëran insëquësona yapa patëra, noya paacaso' ya'huërin.\nA'na hua'an quëran yapipihuatëra, noya pipicaso'. Ya'huërëhuaso parti yahuënantohuatëra, noya huëantacaso.\n14.\nCopirno topinan quëran no'huihuachinpoa', yata'ahuatëhua', noya ta'acaso' ya'huërin a'na parti\nya'huëcasomarë'.\nNipirinhuë' Co noyahuë' nipatëhua', no'tëquën ana 'intacaso' ya 'huërin, Co ta 'acaso' ya 'huërinhuë'.\n15.\nYa'ipinpoa' nisha nisha Copirno ya'huëtërinpoa'. Ina catahuainpoaso' ya'huërin.\nCo topinan quëran a'painpoaso' ya'huërinhuë'. Nipirinhuë' a'na hua'anquë yaya'conpachina, tananpichin pa'in.\n16.",
-            "Image": "d91c6696f94fffcb606e74ac4be26c75"
+            "Text": "ya'huërin. Co tëhuënchachi nitotohuachinhuë', ama ana'inchinsohuë'.\nCopirno nani pënënpachinpoa', no'tëquën ana 'intërinpoa'. Co pënënpachinpoahuë', Co ana 'intinpoaso' ya\n'huërinhuë'. Nasha pënënpachinpoa', natëcaso' ya'huërin. Iraca Co pënënpachinpoarahuë', Co\nnatëpatëhuahuë', Co ina arë' ana 'intinpoaso' ya 'huërinhuë'. Nani sha 'huitohuachinpoa', Co aquëtë\nana'intinpoaso' ya'huërinhuë'.\n12.\nCo ma'shanënpoa' niihuacaso' ya'huërinhuë'. Co ninshitërëhuaso' nisë 'huatacaso' ya'huërinhuë'. Co\npinoinpoaso' ya 'huërinhuë'. Inapo 'tohuachinpoa', coisëri ana'inchin.\n13.\nYa'huërëhua quëran insëquësona yapa patëra, noya paacaso' ya'huërin.\nA'na hua'an quëran yapipihuatëra, noya pipicaso'. Ya'huërëhuaso parti yahuënantohuatëra, noya huëantacaso.\n14.\nCopirno topinan quëran no'huihuachinpoa', yata'ahuatëhua', noya ta'acaso' ya'huërin a'na parti\nya'huëcasomarë'.\nNipirinhuë' Co noyahuë' nipatëhua', no'tëquën ana 'intacaso' ya 'huërin, Co ta 'acaso' ya 'huërinhuë'.\n15.\nYa'ipinpoa' nisha nisha Copirno ya'huëtërinpoa'. Ina catahuainpoaso' ya'huërin.\nCo topinan quëran a'painpoaso' ya'huërinhuë'. Nipirinhuë' a'na hua'anquë yaya'conpachina, tananpichin pa'in.\n16."
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "813a9944de74520d67961b0db11580bd",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Quëmapi mashotohuachina, noya sa'acaso'. Nisha sanapi yamapachina inanta' noya tënëhua'. Nisha religion\nimarinso' mapachina, Co ina marë' copirnori nanitërinhuë' ana'intacaso'. sanapinta' payatohuachina, noya\nso'yacaso'. Nisha piyapi niponahuë', noya macacaso'. Quëmapi'sa', sanapi'santa' ma'sona nohuantohuachina,\nnapoina.\nSanapi Co nohuantohuachinhuë', Co so'yatacaso' ya huërinhuë'. Quëmapinta' Co nohuantohuachinhuë', Co\nma'caso' ya'huërinhuë'.\nA'na quëmapi, sa'in, hui'ninpitarëchachi a'na huëntonaca' ninin. Noya ya'huëina'. Noya ya'huëcaso' Copirnori\ncatahuain.\n17.\nNo'pa', ma'sha, inapita hua'anëntacaso ya'huërin. A'naquen inaora no'pa' hua'anëntërin. A'nanta' ya'ipi\nhuënton no panën hua'anëntopi. Cato chachí noya.\nNo'panën hua 'anëntohuachina', Co incaritëranta nanitënnhuë' ocoicaso.\n18.\nYonquirëhuaso marë' Co Copirno no'huiinpoaso ya'huërinhuë'. Religion imarëhuaso marënta' Co Copirno\nno'huiinpoaso' ya 'huërinhuë'. Nisha yaimapatëhua,, Co ina marë' aparësitinpoaso' ya'huërinhuë'. Yosë\nchinotacaso marë' niyontonpatëhua', Co ina marë' Copirno ana'intinpoaso' ya'huërinhuë'.\n19.\nMa'sona tëranta' yonquihuatëhua', a'napita yaa'chintohuatëhua', Co ina marë' Copirno ana'intinpoaso' ya\n'huërinhuë'. Nanan a 'parëso marënta' noya, quiricaquëhuë nipon, natioquëhuë nipon, noya a'parë', natanë'.\nYa'ipi parti inapotërë' noya natanacaiso marë'.",
-            "Image": "813a9944de74520d67961b0db11580bd"
+            "Text": "Quëmapi mashotohuachina, noya sa'acaso'. Nisha sanapi yamapachina inanta' noya tënëhua'. Nisha religion\nimarinso' mapachina, Co ina marë' copirnori nanitërinhuë' ana'intacaso'. sanapinta' payatohuachina, noya\nso'yacaso'. Nisha piyapi niponahuë', noya macacaso'. Quëmapi'sa', sanapi'santa' ma'sona nohuantohuachina,\nnapoina.\nSanapi Co nohuantohuachinhuë', Co so'yatacaso' ya huërinhuë'. Quëmapinta' Co nohuantohuachinhuë', Co\nma'caso' ya'huërinhuë'.\nA'na quëmapi, sa'in, hui'ninpitarëchachi a'na huëntonaca' ninin. Noya ya'huëina'. Noya ya'huëcaso' Copirnori\ncatahuain.\n17.\nNo'pa', ma'sha, inapita hua'anëntacaso ya'huërin. A'naquen inaora no'pa' hua'anëntërin. A'nanta' ya'ipi\nhuënton no panën hua'anëntopi. Cato chachí noya.\nNo'panën hua 'anëntohuachina', Co incaritëranta nanitënnhuë' ocoicaso.\n18.\nYonquirëhuaso marë' Co Copirno no'huiinpoaso ya'huërinhuë'. Religion imarëhuaso marënta' Co Copirno\nno'huiinpoaso' ya 'huërinhuë'. Nisha yaimapatëhua,, Co ina marë' aparësitinpoaso' ya'huërinhuë'. Yosë\nchinotacaso marë' niyontonpatëhua', Co ina marë' Copirno ana'intinpoaso' ya'huërinhuë'.\n19.\nMa'sona tëranta' yonquihuatëhua', a'napita yaa'chintohuatëhua', Co ina marë' Copirno ana'intinpoaso' ya\n'huërinhuë'. Nanan a 'parëso marënta' noya, quiricaquëhuë nipon, natioquëhuë nipon, noya a'parë', natanë'.\nYa'ipi parti inapotërë' noya natanacaiso marë'."
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "754e922d610bda204eb652f698056ead",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "20.\nPiyapi yaniyontonpachina, niyontoina'. Noya niyontonacaiso' nipirinhuë' Co niahuëcaiso marëhuë'\nniyontoina'.\n- Quiya pochin natëco' ana'intochinquëma', itohuachinpoa', Co nohuantohuatëhuahuë', Co imacaso\nya'huërinhue.\n21.\nYa'ipi piyapi hua'ano'sa' huayonacaso' ya'huërin. Nisha nisha ninano quëran huayonin. Inapita hua\n'anëntërinpoa'.\nYa'ipi piyapi nanitërin ma'sha pa'anacaso'. Pahuërëtohuachina, ya'ipi piyapi nanitërin ma'shaquë pacacaso .\nCamionquë, avionquë, nanchaquë, inapitaquë nanitopi pacacaiso'. Napopianachin Copirno sirihuirinpoa'.\nYa'ipi piyapi Copirno huayoina'. Hua'ano'santa huayoina'. Catapini pi'ipi catapiní pi ipi quëran pochin\nhuayoina'. Ya'ipi piyapi inahuara ninshitapi huayonacaiso mare.\n22.\nPiyapi sacatohuachina, no'tëquën pahuërëtacaso' ya'huërin. Co sacatacaso' nanitohuachinhuë', pi'pian pi 'pian\ncatahuacaso' ya 'huërin. Copirno nanitohuachina, coriqui, ma'sha inapita quëtacaso' ya'huërin. Co insonta'\npahuantacaso' nohuantërëhuahuë'.\n23.\nPiyapi yasacatohuachina, sacachina'. Ma sacatosona yanipachina, inaquë sacachina'. Asacatërinsopita\npiyapinënpita nosoroina'. Ama chini chin iquën asacachinsohuë'. 8acato ya'huëhuachina, asacachina.\nNo 'tëquën pahuërëtacaso' ya 'huërin. Inachachi sacatohuachina, inachachi pahuërëtërë'. Nisha nisha piyapi",
-            "Image": "754e922d610bda204eb652f698056ead"
+            "Text": "20.\nPiyapi yaniyontonpachina, niyontoina'. Noya niyontonacaiso' nipirinhuë' Co niahuëcaiso marëhuë'\nniyontoina'.\n- Quiya pochin natëco' ana'intochinquëma', itohuachinpoa', Co nohuantohuatëhuahuë', Co imacaso\nya'huërinhue.\n21.\nYa'ipi piyapi hua'ano'sa' huayonacaso' ya'huërin. Nisha nisha ninano quëran huayonin. Inapita hua\n'anëntërinpoa'.\nYa'ipi piyapi nanitërin ma'sha pa'anacaso'. Pahuërëtohuachina, ya'ipi piyapi nanitërin ma'shaquë pacacaso .\nCamionquë, avionquë, nanchaquë, inapitaquë nanitopi pacacaiso'. Napopianachin Copirno sirihuirinpoa'.\nYa'ipi piyapi Copirno huayoina'. Hua'ano'santa huayoina'. Catapini pi'ipi catapiní pi ipi quëran pochin\nhuayoina'. Ya'ipi piyapi inahuara ninshitapi huayonacaiso mare.\n22.\nPiyapi sacatohuachina, no'tëquën pahuërëtacaso' ya'huërin. Co sacatacaso' nanitohuachinhuë', pi'pian pi 'pian\ncatahuacaso' ya 'huërin. Copirno nanitohuachina, coriqui, ma'sha inapita quëtacaso' ya'huërin. Co insonta'\npahuantacaso' nohuantërëhuahuë'.\n23.\nPiyapi yasacatohuachina, sacachina'. Ma sacatosona yanipachina, inaquë sacachina'. Asacatërinsopita\npiyapinënpita nosoroina'. Ama chini chin iquën asacachinsohuë'. 8acato ya'huëhuachina, asacachina.\nNo 'tëquën pahuërëtacaso' ya 'huërin. Inachachi sacatohuachina, inachachi pahuërëtërë'. Nisha nisha piyapi"
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "0328f7b14c0b9a0071a3433d7ce94415",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "nipirinhuë', inachachi pahuërëcaso' ya'huërin.\nNo'tëquën pahuërëtacaso' ya'huërin. Noya nanpicaiso marë' pahuërëchina'. Pahuantohuachina, a'napita\ncatahuacaso' ya'huërin.\nCo noyahuë' pahuërëhuachina', sacatoro sa' nanitërin niyontonacaiso . Ninontohuachina', a'na' acorin hua'an\nnontacaso mare. -Noya nosorocoi, no'tëquën pahuërëcoi, itohuachina, nataina', no'tëquën pahuërëchina'.\n24.\nCo nani tahuëri asacatacaso' ya'huërinhuë'. Chinotacasonta' ya'huërin. Pita tahuëri Co sacatopirinahuë',\npahuërëcaso' ya'huërin.\n25.\nNoya sacatohuachina, noya pahuërëcaso' ya'huërin. Ya'ipi piyapi cosharo', pei ,nimirio, coton inapita\nnohuantopi. Co nohuantërëhuahuë' piyapi 'sa' pahuantacaiso'. Caniohuachina, Co nanitërinhuë' sacatacaso'.\nMashoro'sa', quëyorono'sa' inapita Co nanitopihuë' aquëtë' canacaiso'. Napoaton inapita catahuacaso'\nya'huërin.\nSanapi hua'huanpachina, hua'huinëchachi a'napitari catahuaina'. Hua 'hua ma'patërinsonta' catahuaina'.\nHua'huaro'sa' pahuantohuachina, Copirno pi'pian pi 'pian catahuaina'.\n26.\nCopirnori escuelaro'sa' ya'ipi parti acoina'. Ya'ipi hua'huaro'sa' escuela imacaiso' ya'huërin. Primaria imacaiso\nmarë' ama pahuërëchinasohuë'. Secundaria, escuela ocupacional inapita acocaso' ya'huërin. Inapita\nyaya'conpachina examen noya pipihuachina, noya ya'coina.\nYa'ipi maistororo'sa' noya a'chinchina' hua'huaro'sa' noya noya yonquicaiso marë'. Ina quëran Co aquëtë",
-            "Image": "0328f7b14c0b9a0071a3433d7ce94415"
+            "Text": "nipirinhuë', inachachi pahuërëcaso' ya'huërin.\nNo'tëquën pahuërëtacaso' ya'huërin. Noya nanpicaiso marë' pahuërëchina'. Pahuantohuachina, a'napita\ncatahuacaso' ya'huërin.\nCo noyahuë' pahuërëhuachina', sacatoro sa' nanitërin niyontonacaiso . Ninontohuachina', a'na' acorin hua'an\nnontacaso mare. -Noya nosorocoi, no'tëquën pahuërëcoi, itohuachina, nataina', no'tëquën pahuërëchina'.\n24.\nCo nani tahuëri asacatacaso' ya'huërinhuë'. Chinotacasonta' ya'huërin. Pita tahuëri Co sacatopirinahuë',\npahuërëcaso' ya'huërin.\n25.\nNoya sacatohuachina, noya pahuërëcaso' ya'huërin. Ya'ipi piyapi cosharo', pei ,nimirio, coton inapita\nnohuantopi. Co nohuantërëhuahuë' piyapi 'sa' pahuantacaiso'. Caniohuachina, Co nanitërinhuë' sacatacaso'.\nMashoro'sa', quëyorono'sa' inapita Co nanitopihuë' aquëtë' canacaiso'. Napoaton inapita catahuacaso'\nya'huërin.\nSanapi hua'huanpachina, hua'huinëchachi a'napitari catahuaina'. Hua 'hua ma'patërinsonta' catahuaina'.\nHua'huaro'sa' pahuantohuachina, Copirno pi'pian pi 'pian catahuaina'.\n26.\nCopirnori escuelaro'sa' ya'ipi parti acoina'. Ya'ipi hua'huaro'sa' escuela imacaiso' ya'huërin. Primaria imacaiso\nmarë' ama pahuërëchinasohuë'. Secundaria, escuela ocupacional inapita acocaso' ya'huërin. Inapita\nyaya'conpachina examen noya pipihuachina, noya ya'coina.\nYa'ipi maistororo'sa' noya a'chinchina' hua'huaro'sa' noya noya yonquicaiso marë'. Ina quëran Co aquëtë"
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "a730bab9532f19868f190b8aca66a955",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "nino'huipihuë'. Noya noya ninosorohuachina, Co a 'napita nocanapihuë'. Naporahuaton, ya 'ipinpoa' noya nini\n'tëhua' ya huëa'hua huachi. Ina na'con nohuantërëhua'.\nPa'pin, a'shin nohuanton, hui'ninpita escuelaquë ya coina'. Ama a'na piyapiri nisha escuelaquë po moinsohuë'.\n27.\nNinanoquë niyontonpi ma'sha nitotacaiso marë'. A 'naquën quirica ninshitërin, a 'naquën musica pi 'nirarin,\na'naquën nonanpiso' pashitarin. Inapita nitotacaso marë' niyontonpachina, a'napita nohuantohuachina, pa'ina',\nnoya nataina\nNipro ninshitohuatëhua', hua'anëntërëhua'. Inapochachi nonanpiso', nitërata inapita pochin nipatëhua',\nhua'anëntërëhua'. Co inapita marë' a'napitari canacaso ya'huërinhuë'.\n28.\nYa'ipi parti noya nini'tëhua', ya'huëa'hua'. Ya'ipi Copirnoro'sa' piyapinënpita catahuaina' noya ya'huëcaiso\nmare\n29.\nCo insonta' inaora ya'huërinhuë'. Ya'ipi piyapinpoa' noya ya'huëcaiso' nohuantohuatëhua', noya ninosorocaso'\nya 'huërin. Nicatahuacaso' ya'huërin.\nCopirnoro'sa' pënëninpoa' Co nino'huicaso marëhuë', Co niahuëcaso marëhuë'. Noya nicatahuacaso marë'\npënëninpoa'. Ina pochin nipatëhua', Co topinan quëran ana'intinpoaso' ya'huërinhuë'.\nNa'con yonquirai ya'ipi piyapi'sa' noya ya'huëcaiso marë'. Nisha yonquicaiso', nisha a'chinta¿aiso' Co\nnohuantëraihuë'. Ya'ipi noya nini'tëhua', noya noya ya'huëa'hua , tenehua'.\n30.",
-            "Image": "a730bab9532f19868f190b8aca66a955"
+            "Text": "nino'huipihuë'. Noya noya ninosorohuachina, Co a 'napita nocanapihuë'. Naporahuaton, ya 'ipinpoa' noya nini\n'tëhua' ya huëa'hua huachi. Ina na'con nohuantërëhua'.\nPa'pin, a'shin nohuanton, hui'ninpita escuelaquë ya coina'. Ama a'na piyapiri nisha escuelaquë po moinsohuë'.\n27.\nNinanoquë niyontonpi ma'sha nitotacaiso marë'. A 'naquën quirica ninshitërin, a 'naquën musica pi 'nirarin,\na'naquën nonanpiso' pashitarin. Inapita nitotacaso marë' niyontonpachina, a'napita nohuantohuachina, pa'ina',\nnoya nataina\nNipro ninshitohuatëhua', hua'anëntërëhua'. Inapochachi nonanpiso', nitërata inapita pochin nipatëhua',\nhua'anëntërëhua'. Co inapita marë' a'napitari canacaso ya'huërinhuë'.\n28.\nYa'ipi parti noya nini'tëhua', ya'huëa'hua'. Ya'ipi Copirnoro'sa' piyapinënpita catahuaina' noya ya'huëcaiso\nmare\n29.\nCo insonta' inaora ya'huërinhuë'. Ya'ipi piyapinpoa' noya ya'huëcaiso' nohuantohuatëhua', noya ninosorocaso'\nya 'huërin. Nicatahuacaso' ya'huërin.\nCopirnoro'sa' pënëninpoa' Co nino'huicaso marëhuë', Co niahuëcaso marëhuë'. Noya nicatahuacaso marë'\npënëninpoa'. Ina pochin nipatëhua', Co topinan quëran ana'intinpoaso' ya'huërinhuë'.\nNa'con yonquirai ya'ipi piyapi'sa' noya ya'huëcaiso marë'. Nisha yonquicaiso', nisha a'chinta¿aiso' Co\nnohuantëraihuë'. Ya'ipi noya nini'tëhua', noya noya ya'huëa'hua , tenehua'.\n30."
         },
         "8": {
-            "Label": "9",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "678b86140a04a0ef9fad31a96e291e61",
             "Index": 8,
+            "Label": "9",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Nani ya 'ipi hua 'ano'sacoi, Copirno acorincoisopita pënënainquëma'. Ama nisha yonquicosohuë'. No'tëquën\nnatëcoi, ya 'ipinpoa' noya nini 'tëhua', noya ya 'huëa'hua'.",
-            "Image": "678b86140a04a0ef9fad31a96e291e61"
+            "Text": "Nani ya 'ipi hua 'ano'sacoi, Copirno acorincoisopita pënënainquëma'. Ama nisha yonquicosohuë'. No'tëquën\nnatëcoi, ya 'ipinpoa' noya nini 'tëhua', noya ya 'huëa'hua'."
         }
     }
 }

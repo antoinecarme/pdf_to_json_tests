@@ -1,132 +1,132 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581470199,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "aaef51ed215d813327ec33aad5511340",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "KAY PACHACHRU LAPAN RUNAKUNA WASHAKURKAANAPAQ ISKIRBISHAKUNA\nKAYKUNATA ISKIRBIPAAKURAA\n[Preamble]\nLapan runakuna chaynuyla washa kananpaqmi mana pisi rantisha runatanuy sirbichikunanpaqmi mana ima\nlutantas ruranakurkaananpaqmi, alipa rikanakurkaananpaqmi.\nLapan runakuna chay washasha kapaakunanta mana musyarmi, mana kaasukurmi runakuna qalayapaakusha\nlutan ruranakuyta, ashlinakuyta, kaykunam juchakachimanchi lapan runakunata. Chaymi musyachipaakuu\nlapan runata mana manchakular, mana ima wanaychruusi kay pachachru kawapaakunanpaq. Jinamanmi\n\"Rimashaq\" nirqa, rimapaakunanpaq, naatan munanqanman, Diosmansi u jukmansi yupachikurkaananpaq.\nMaychru chaychruusi mandaqkuna ninakunqannuyla rurapaakunanpaq. Runankunata lutan runakunapa\nmakinpitas washananpaq, lutan mandaqninta mana ima lutantas rurapaakunanpaq. Chaynuytaq lapan\nnasyunchru runakunas alipa rikanakur kawapaakunanpaq.\nLapan nasuyunpita delgadukuna wamaqta qutukaanan junaqchruumi rimanakurkur iskirbipaakura lapan runa,\nwarmis, olqos chaynuyla alipa rikasha kananpaq. Chaychruutan rimanakurkara runakunata ali kawayta\nyanapapaakunanpaq. Naatan mana pisi rantiyasha runawannuy piwansi sirbichinanpaq. Chaychruutan chay\nlapan nasyunkunapita qutukaq de!gadukuna ninakaraarira chay rimanakurkanqannuy yanapaanakur\nkawapaakunanpaqsi.\nKay rimanakunqanchi rurasha kananpaq musyachishun lapan runata, warmitas, olqotas ninakurkaras, naatan\nmandaqkuna runankunata chay i mayqapitas washapaakunanpaq.\nLAPAN NASYUNPITA QUTUKAQKUNAM ISKIRBIPAAKURA\nKay Pachachru Maychru Chaychruusi Runakana Chay Washasha Kapaakunanapaq",
-            "Image": "aaef51ed215d813327ec33aad5511340"
+            "Text": "KAY PACHACHRU LAPAN RUNAKUNA WASHAKURKAANAPAQ ISKIRBISHAKUNA\nKAYKUNATA ISKIRBIPAAKURAA\n[Preamble]\nLapan runakuna chaynuyla washa kananpaqmi mana pisi rantisha runatanuy sirbichikunanpaqmi mana ima\nlutantas ruranakurkaananpaqmi, alipa rikanakurkaananpaqmi.\nLapan runakuna chay washasha kapaakunanta mana musyarmi, mana kaasukurmi runakuna qalayapaakusha\nlutan ruranakuyta, ashlinakuyta, kaykunam juchakachimanchi lapan runakunata. Chaymi musyachipaakuu\nlapan runata mana manchakular, mana ima wanaychruusi kay pachachru kawapaakunanpaq. Jinamanmi\n\"Rimashaq\" nirqa, rimapaakunanpaq, naatan munanqanman, Diosmansi u jukmansi yupachikurkaananpaq.\nMaychru chaychruusi mandaqkuna ninakunqannuyla rurapaakunanpaq. Runankunata lutan runakunapa\nmakinpitas washananpaq, lutan mandaqninta mana ima lutantas rurapaakunanpaq. Chaynuytaq lapan\nnasyunchru runakunas alipa rikanakur kawapaakunanpaq.\nLapan nasuyunpita delgadukuna wamaqta qutukaanan junaqchruumi rimanakurkur iskirbipaakura lapan runa,\nwarmis, olqos chaynuyla alipa rikasha kananpaq. Chaychruutan rimanakurkara runakunata ali kawayta\nyanapapaakunanpaq. Naatan mana pisi rantiyasha runawannuy piwansi sirbichinanpaq. Chaychruutan chay\nlapan nasyunkunapita qutukaq de!gadukuna ninakaraarira chay rimanakurkanqannuy yanapaanakur\nkawapaakunanpaqsi.\nKay rimanakunqanchi rurasha kananpaq musyachishun lapan runata, warmitas, olqotas ninakurkaras, naatan\nmandaqkuna runankunata chay i mayqapitas washapaakunanpaq.\nLAPAN NASYUNPITA QUTUKAQKUNAM ISKIRBIPAAKURA\nKay Pachachru Maychru Chaychruusi Runakana Chay Washasha Kapaakunanapaq"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "12d7c85580d5b96732460f8795c5f117",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Lapan runakuna mayaq chayaq nasyunchruusi mandaqnintin kay iskirbishakunata yarpapaakunanpaq,\njinaman yachrachipaakunanpaq. Chaynuytan kay iskirbishakunata mandaqkunaqa rurachipaakunman,\nnasyunninkunachruusi u jukla nasyunkuna munayninchru alipa kayaqkunatas rikanakurkaananpaq.\nARTICULO 1\nLapan runas kay pachachru nasimun juk rantisha runanuy mana pitas sirbinanpaqmi, alipa rikasha\nkananpaqmi, washasha kananpaqmi. Lapan runakunas nasipaakamun yarpayniyoqmi naatan tantiyayniyoqmi\nima lutanta rurapaakurursi tantiyakunanpaq. Lapan runakunas kawapaakunaman juk wawqenuylam.\nARTICULO 2\nWashasha kananpaq kay lapan iskirbirayaqnuylam rurakanman lapan runawansi, yuraqwansi, yanawansi,\nimaniraqwansi kachun quechua rimaqsi, castellano rimaqsi, u kachun warmis, olqos, Diosman yupachikuqsi\nu imaman yupachikuqsi, kachun manadaqninpita pinsiyaqsi u ima insiyaqsi, kachun mayaq markapitas u\nmaychru, nasishas, kapuqniyoqsi u mana imaynaqsi. Imanuy ayqaynuy karsi rikanakurkanman juk\nkastanuylam.\nKachun mayqan mandaqkunapa qatiraqninsi, kachun libritayoqsi u jinalas, kachun mayaq markapita\naywakamushas, pi maysi rikanakurkanman chaynuylam, juklaa nasyun mandaqpa makinchru karsi, mana\njukpa makinchru kaqnuylam rikapaakunman alipa, chay mandaqpa runankunatas.\nARTICULO 3\nPi may runatas amam munachwanchu pitas wanuchipaakunanta, piwansi mana munayaqwan\nsirbichikurkaananta, jinaman maqasha u ashlisha kapaakunantas.\nARTICULO 4\nAmam pisi, pipa sirbiqninsi imaysi yaykunqachu imapita nirsi u imapaq nirsi.",
-            "Image": "12d7c85580d5b96732460f8795c5f117"
+            "Text": "Lapan runakuna mayaq chayaq nasyunchruusi mandaqnintin kay iskirbishakunata yarpapaakunanpaq,\njinaman yachrachipaakunanpaq. Chaynuytan kay iskirbishakunata mandaqkunaqa rurachipaakunman,\nnasyunninkunachruusi u jukla nasyunkuna munayninchru alipa kayaqkunatas rikanakurkaananpaq.\nARTICULO 1\nLapan runas kay pachachru nasimun juk rantisha runanuy mana pitas sirbinanpaqmi, alipa rikasha\nkananpaqmi, washasha kananpaqmi. Lapan runakunas nasipaakamun yarpayniyoqmi naatan tantiyayniyoqmi\nima lutanta rurapaakurursi tantiyakunanpaq. Lapan runakunas kawapaakunaman juk wawqenuylam.\nARTICULO 2\nWashasha kananpaq kay lapan iskirbirayaqnuylam rurakanman lapan runawansi, yuraqwansi, yanawansi,\nimaniraqwansi kachun quechua rimaqsi, castellano rimaqsi, u kachun warmis, olqos, Diosman yupachikuqsi\nu imaman yupachikuqsi, kachun manadaqninpita pinsiyaqsi u ima insiyaqsi, kachun mayaq markapitas u\nmaychru, nasishas, kapuqniyoqsi u mana imaynaqsi. Imanuy ayqaynuy karsi rikanakurkanman juk\nkastanuylam.\nKachun mayqan mandaqkunapa qatiraqninsi, kachun libritayoqsi u jinalas, kachun mayaq markapita\naywakamushas, pi maysi rikanakurkanman chaynuylam, juklaa nasyun mandaqpa makinchru karsi, mana\njukpa makinchru kaqnuylam rikapaakunman alipa, chay mandaqpa runankunatas.\nARTICULO 3\nPi may runatas amam munachwanchu pitas wanuchipaakunanta, piwansi mana munayaqwan\nsirbichikurkaananta, jinaman maqasha u ashlisha kapaakunantas.\nARTICULO 4\nAmam pisi, pipa sirbiqninsi imaysi yaykunqachu imapita nirsi u imapaq nirsi."
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "f773ab23376d4559ed6a30b079ee57e8",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "ARTICULO 5\nAmam pi tasi kawaypa kuchuchinmanchu juk uywatanuyqa, manatan pitas ashlinmanpishchu mana baliq\nnirsi.\nARTICULO 6\nLapan runas, may chay nasyunchru kaqsi kanman chay kikin nasyun runanuy alipa rikasham, libritaanaq\nmana karsi.\nARTICULO 7\nLapan runas kapaakunman chaynuyla alipa rikasham. Naatan pis aliska kunchuchiptin kay iskirbishakunapita\njuknuypa ruraptin nasuynchru mandaqqa washanmanmi lapan runakunata. Amam rirqararmanchu pisi,\nmandaqninpita lutanta rimayaqta u wakta, kayta lutanta ruray niyaqta. Manatan rirqaranmanchu wakinta\nalipa rikaqtas u wakinta lutanpa rikaqtas.\nARTICULO 8\nJucha taripaq runakuna wiyaripaakunman lapan runatam nasyunninchru kaqtaqa. Paykunaqa runakunata\nwashapaakunman iskirbishankunanuymi mana imas lutan rurasha kapaakunanpaq.\nARTICULO 9\nAmam pitas manakaqpita, charichinmanchu u karselman wichrqachinmanchu. Naatan nasyuninpitas\njurquchinmanchu.\nARTICULO 10\nJuchaakushakunata taripaq runakuna rikapaakunman chaynuylam lapan runatas. Paykuna\nwiyaripaakunmanmi Chay juchachasha runamayin wanuchiqta imaninqantas\". Chawra mana mayqantas",
-            "Image": "f773ab23376d4559ed6a30b079ee57e8"
+            "Text": "ARTICULO 5\nAmam pi tasi kawaypa kuchuchinmanchu juk uywatanuyqa, manatan pitas ashlinmanpishchu mana baliq\nnirsi.\nARTICULO 6\nLapan runas, may chay nasyunchru kaqsi kanman chay kikin nasyun runanuy alipa rikasham, libritaanaq\nmana karsi.\nARTICULO 7\nLapan runas kapaakunman chaynuyla alipa rikasham. Naatan pis aliska kunchuchiptin kay iskirbishakunapita\njuknuypa ruraptin nasuynchru mandaqqa washanmanmi lapan runakunata. Amam rirqararmanchu pisi,\nmandaqninpita lutanta rimayaqta u wakta, kayta lutanta ruray niyaqta. Manatan rirqaranmanchu wakinta\nalipa rikaqtas u wakinta lutanpa rikaqtas.\nARTICULO 8\nJucha taripaq runakuna wiyaripaakunman lapan runatam nasyunninchru kaqtaqa. Paykunaqa runakunata\nwashapaakunman iskirbishankunanuymi mana imas lutan rurasha kapaakunanpaq.\nARTICULO 9\nAmam pitas manakaqpita, charichinmanchu u karselman wichrqachinmanchu. Naatan nasyuninpitas\njurquchinmanchu.\nARTICULO 10\nJuchaakushakunata taripaq runakuna rikapaakunman chaynuylam lapan runatas. Paykuna\nwiyaripaakunmanmi Chay juchachasha runamayin wanuchiqta imaninqantas\". Chawra mana mayqantas"
         },
         "3": {
-            "Label": "4",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "ec7c0f5523f25bd4c3cb454186a0dc23",
             "Index": 3,
+            "Label": "4",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "kuyapaalarmi ima nipaakumansi rimakurkanqannuy.\nARTICULO 11\n\"Juk runapita lutantam rurasha\" nipaakuptin rasunpa shumaq musyakamunqankamaqa \"Manam yanqa\nrimapaakunmanchu paymi rurasha\". nir. Naatan juchaakusha karqa, kikin chay runa washakushun u\nwashachun juk runas. Chay jucha taripaqkuna achka runakuna kayaptinmi mayapaakunman chay\njuchachasha runa rimaqta.\nPi runa imatas ruraruptin, manam imaniytas atipapaakurachu nasyuninkunachru mana kaynuy iskirbishakuna\nkaptin. Naatan manatan karachu iskirbishakuna j uchaakushakunata imaypa aliska kunchuchinapaqsi. Chaypi\ntaran mandaqkuna iskirbipaakura kayta naa imayqas juchaakusha jananchruuraq.\nARTICULO 12\nMariam pitas ayluykunata \"Lutanta ruray\". nichwanchu. Naatan manatan wayinchru imanuy kawakuqtasi\nimatas jatipachwanpishchu. Manatan kartantas pisi kichrapunmachu ni washantas rimanmanpishchu. Kay\niskirbishakunanuymi rurakasha kanman. Jinaman washasham kapaakunman lapansi kay tukuy lutan\nruraypita.\nARTICULO 13\nRunaqa pi maysi munanqantam aywanman maytas, chaytas. Naatan nasyunninchruusi munanqanchruutan\nyachranman maychru chaychruusi.\nPi maysi munarqa yarqunmanmi imaysi nasyunninpita. Naatan munarqa kutiyunmantan imaysi.\nARTICULO 14\nMana kaqpita pis yanqa qatikachraptinqa, chay runakunaqa yarqukurkanmanmi nasyunninpita juklaa",
-            "Image": "ec7c0f5523f25bd4c3cb454186a0dc23"
+            "Text": "kuyapaalarmi ima nipaakumansi rimakurkanqannuy.\nARTICULO 11\n\"Juk runapita lutantam rurasha\" nipaakuptin rasunpa shumaq musyakamunqankamaqa \"Manam yanqa\nrimapaakunmanchu paymi rurasha\". nir. Naatan juchaakusha karqa, kikin chay runa washakushun u\nwashachun juk runas. Chay jucha taripaqkuna achka runakuna kayaptinmi mayapaakunman chay\njuchachasha runa rimaqta.\nPi runa imatas ruraruptin, manam imaniytas atipapaakurachu nasyuninkunachru mana kaynuy iskirbishakuna\nkaptin. Naatan manatan karachu iskirbishakuna j uchaakushakunata imaypa aliska kunchuchinapaqsi. Chaypi\ntaran mandaqkuna iskirbipaakura kayta naa imayqas juchaakusha jananchruuraq.\nARTICULO 12\nMariam pitas ayluykunata \"Lutanta ruray\". nichwanchu. Naatan manatan wayinchru imanuy kawakuqtasi\nimatas jatipachwanpishchu. Manatan kartantas pisi kichrapunmachu ni washantas rimanmanpishchu. Kay\niskirbishakunanuymi rurakasha kanman. Jinaman washasham kapaakunman lapansi kay tukuy lutan\nruraypita.\nARTICULO 13\nRunaqa pi maysi munanqantam aywanman maytas, chaytas. Naatan nasyunninchruusi munanqanchruutan\nyachranman maychru chaychruusi.\nPi maysi munarqa yarqunmanmi imaysi nasyunninpita. Naatan munarqa kutiyunmantan imaysi.\nARTICULO 14\nMana kaqpita pis yanqa qatikachraptinqa, chay runakunaqa yarqukurkanmanmi nasyunninpita juklaa"
         },
         "4": {
-            "Label": "5",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "cff4f48b3d6f45b51a9bd06a8992514c",
             "Index": 4,
+            "Label": "5",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "nasyunchru maylachruusi ali kakunanpaq.\nNaatan imatas lutanta rurapakusha karqa amam yarqunmanchu nasyunninpita juklaa nasyunchru\nwashapaakunanpaq, Lapan Nasyunpita Qutukaq runakuna manam munapaakunchu kaykuna rurakananta.\nARTICULO 15\nLapan runas kapaakunman juklay nasyunlata markanch akusham.\nManam pisi \"Qampa naa manam kankimanchu kay nasyunnikipa runanqa\" nir, qarqunmanchu pitas. Ni\nmanatan chariranmanpishchu \" Qamqa manam kankimanchu juklaa nasyunpa runanqa nirsi.\nARTICULO 16\nNaa kasaranan timpuman chrarurqa, warmis, olqos kasarakunmanmi, may kastawansi; yanawansi,\nyuraqwansi. Kasaranmantan juklaa nasyun runawansi, Diosman u mana Diosman yupachikuqwansi.\nNasyunchru iskirbishankunanuymi washanman lapantam runankunata, kasarakunanpaqsi, kasararuptinsi u\nchulaanakuruptinsi.\nManam pisi kasarachinmanchu mana munaqta. Kasarachinmanqa munanakuqlatam.\nChay kasadukuna lapan wamrantinmi kapaakunman alipa rikasha, mandaqkunapita washasha. Chay\nkasadukuna wamrankunawan aliskam balin.\nARTICULO 17\nPi may runapas kanmanmi munaptinqa chrakransi, wayinsi u imayqansi, kikilanpasi u juk runakunapawansi.\nChaynuy kananta manam pisi amachanmanchu.\nManam pisi kitanmanchu chay imayqantasi oíqoorir manakaqpitaqa.\nARTICULO 18",
-            "Image": "cff4f48b3d6f45b51a9bd06a8992514c"
+            "Text": "nasyunchru maylachruusi ali kakunanpaq.\nNaatan imatas lutanta rurapakusha karqa amam yarqunmanchu nasyunninpita juklaa nasyunchru\nwashapaakunanpaq, Lapan Nasyunpita Qutukaq runakuna manam munapaakunchu kaykuna rurakananta.\nARTICULO 15\nLapan runas kapaakunman juklay nasyunlata markanch akusham.\nManam pisi \"Qampa naa manam kankimanchu kay nasyunnikipa runanqa\" nir, qarqunmanchu pitas. Ni\nmanatan chariranmanpishchu \" Qamqa manam kankimanchu juklaa nasyunpa runanqa nirsi.\nARTICULO 16\nNaa kasaranan timpuman chrarurqa, warmis, olqos kasarakunmanmi, may kastawansi; yanawansi,\nyuraqwansi. Kasaranmantan juklaa nasyun runawansi, Diosman u mana Diosman yupachikuqwansi.\nNasyunchru iskirbishankunanuymi washanman lapantam runankunata, kasarakunanpaqsi, kasararuptinsi u\nchulaanakuruptinsi.\nManam pisi kasarachinmanchu mana munaqta. Kasarachinmanqa munanakuqlatam.\nChay kasadukuna lapan wamrantinmi kapaakunman alipa rikasha, mandaqkunapita washasha. Chay\nkasadukuna wamrankunawan aliskam balin.\nARTICULO 17\nPi may runapas kanmanmi munaptinqa chrakransi, wayinsi u imayqansi, kikilanpasi u juk runakunapawansi.\nChaynuy kananta manam pisi amachanmanchu.\nManam pisi kitanmanchu chay imayqantasi oíqoorir manakaqpitaqa.\nARTICULO 18"
         },
         "5": {
-            "Label": "6",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "924461841c940bffc67fe1101335656b",
             "Index": 5,
+            "Label": "6",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Pi may runasi munanqantam pinsiyakunman, naatan ali u lutan ruranqantasi tantiyakunmanmi. Chawraqa j\ninam yupachikunman Diosmansi u imamansi. Muyunmanmi juk riligiyunpita juk riligiyunmansi.\nMuyunmantan juknuy kawaypita juknuy kawanmansi. Jinam pi maysi imanaypasi Diosninta alawaakunman,\njapaíansi u wakin runawansi, washachruusi u wayilachruusi. Yachrachipaakunmantan\n.yachrakurkanqantawan juknuypa kawaynintas, naatan rurapaakunmanmi fistankunatas.\nARTICULO 19\nChawra runaqa jinam pinsiyanman, naatan \"Rimashaq\" nirqa, rimanman. Naatan chay pinsiyayanqan runata\npiñaakachinan mana pipitas amachasha kaptinqa amam rimanmanchu. Runaqa pi maysi yachrakunman\nmunanqantam librukunata leyepasi u jukkuna rimaptin mayakuypasi. Naatan munarqa pinsiyanqanta\niskirbinmanmi u rimanmanmi wakinkaqkunas mayakurkaananpaq. Naatan apachinmanmi mayaq chayaq\nnasyunkunamansi amam juklaa nasyunman imanaypa apachikuptinsi; ama apachiychu ninmanchu pisi.\nARTICULO 20\nPi may runasi jinam qutukaakurkanman imapaqsi. Naatan qutukapaakunman imapaqsi, alipaqmi.\nManam pi tasi \"Runakunawan qutukaashun\" ninmanchu mana munaqta wapuypaqa.\nARTICULO 21\nPi may runasi, mandaqnin ima ruraytas munaptinqa íapanmi chaychru kapaakunman, kikinkunas u\ndeígadukunas.\nMandaqkuna imawansi yanapaamuptinqa wakinkunanuymi chraskinman lapansi.\nLapan runasi munanqantam akrapaakunman mayqantasi mandaqninpaq. Naatan chay mandaqninkuna\nakrapaakunqan kanman ayqa' watakamas nasyuninkunachru iskirbishankunanuymi. Mandaqninta\nakrapaakunman mana kaskipanakularmi iskirbipas u makin chakcharkuypas.",
-            "Image": "924461841c940bffc67fe1101335656b"
+            "Text": "Pi may runasi munanqantam pinsiyakunman, naatan ali u lutan ruranqantasi tantiyakunmanmi. Chawraqa j\ninam yupachikunman Diosmansi u imamansi. Muyunmanmi juk riligiyunpita juk riligiyunmansi.\nMuyunmantan juknuy kawaypita juknuy kawanmansi. Jinam pi maysi imanaypasi Diosninta alawaakunman,\njapaíansi u wakin runawansi, washachruusi u wayilachruusi. Yachrachipaakunmantan\n.yachrakurkanqantawan juknuypa kawaynintas, naatan rurapaakunmanmi fistankunatas.\nARTICULO 19\nChawra runaqa jinam pinsiyanman, naatan \"Rimashaq\" nirqa, rimanman. Naatan chay pinsiyayanqan runata\npiñaakachinan mana pipitas amachasha kaptinqa amam rimanmanchu. Runaqa pi maysi yachrakunman\nmunanqantam librukunata leyepasi u jukkuna rimaptin mayakuypasi. Naatan munarqa pinsiyanqanta\niskirbinmanmi u rimanmanmi wakinkaqkunas mayakurkaananpaq. Naatan apachinmanmi mayaq chayaq\nnasyunkunamansi amam juklaa nasyunman imanaypa apachikuptinsi; ama apachiychu ninmanchu pisi.\nARTICULO 20\nPi may runasi jinam qutukaakurkanman imapaqsi. Naatan qutukapaakunman imapaqsi, alipaqmi.\nManam pi tasi \"Runakunawan qutukaashun\" ninmanchu mana munaqta wapuypaqa.\nARTICULO 21\nPi may runasi, mandaqnin ima ruraytas munaptinqa íapanmi chaychru kapaakunman, kikinkunas u\ndeígadukunas.\nMandaqkuna imawansi yanapaamuptinqa wakinkunanuymi chraskinman lapansi.\nLapan runasi munanqantam akrapaakunman mayqantasi mandaqninpaq. Naatan chay mandaqninkuna\nakrapaakunqan kanman ayqa' watakamas nasyuninkunachru iskirbishankunanuymi. Mandaqninta\nakrapaakunman mana kaskipanakularmi iskirbipas u makin chakcharkuypas."
         },
         "6": {
-            "Label": "7",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "bc00b0997ccb9561209727f7b4e3829e",
             "Index": 6,
+            "Label": "7",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "ARTICULO 22\nJuk nasyunchru yachraq runapa kapunman aypam imansi ayqansi kawaananpaq. Naatan mayqanpas masía\nkapuptinqa yanapanman walkala kapuqtam. Chaynuytan masía kapuptinqa nasyunkunas, yanapanman mana\nalaapa kapuqniyoq nasyunkunata, wakinkunapita mana jukmapasha kapaakunanpaq. Chaypita tukuy j inanpa\nyanapanakur, ali kapaakunanpaq.\nARTICULO 23\nPi may runasi uryanman imachruusi munanqanchruumi maychruusi. Jinaman alipam rikanakurkanman\nuryaqsi u urayachiqsi. Naatan mana uryata tariptinqa mandaqninkunam yanapanman tariyta.\nIshkay runa chay uryalachru kaptin jinaman chaynuyla ishkaynin uryaptinqa, pagasha kapaakunman ayqata\nkarsi chaynuylam.\nUryaqkuna ali pagasham kapaakunman mana ima wanaychruusi kapaakunanpaq. Jinaman aylunkunas alipa\nrikasha kapaakunanpaq. Naatan gananqan mana imapaqsi aypaptinqa nasyunninchru mandaqninkunam\nyananpanman.\nPi may runas urayaqqa qutukapaakunmanmi uryaq mayinkunawan imas mana ali kaptin\nrimanakurkaananpaq. Manam pisi \"Ama qutukapaakuychu\" ninmanchu pitas. Maslata ganayta munarqa u\nalipa rikasha kayta munarqa, jinam manakurkaananpaq qutukarkur rimanakurkanman.\nARTICULO 24\nPi may runasi uryaqqa jamanmanmi. Chay jamar imatas rurakunman munanqantam. Naatan pisi amam\nuryachinmanchu rimanqanpita masqa. Jinaman watachamur jamaptin pagasham kanman.\nARTICULO 25",
-            "Image": "bc00b0997ccb9561209727f7b4e3829e"
+            "Text": "ARTICULO 22\nJuk nasyunchru yachraq runapa kapunman aypam imansi ayqansi kawaananpaq. Naatan mayqanpas masía\nkapuptinqa yanapanman walkala kapuqtam. Chaynuytan masía kapuptinqa nasyunkunas, yanapanman mana\nalaapa kapuqniyoq nasyunkunata, wakinkunapita mana jukmapasha kapaakunanpaq. Chaypita tukuy j inanpa\nyanapanakur, ali kapaakunanpaq.\nARTICULO 23\nPi may runasi uryanman imachruusi munanqanchruumi maychruusi. Jinaman alipam rikanakurkanman\nuryaqsi u urayachiqsi. Naatan mana uryata tariptinqa mandaqninkunam yanapanman tariyta.\nIshkay runa chay uryalachru kaptin jinaman chaynuyla ishkaynin uryaptinqa, pagasha kapaakunman ayqata\nkarsi chaynuylam.\nUryaqkuna ali pagasham kapaakunman mana ima wanaychruusi kapaakunanpaq. Jinaman aylunkunas alipa\nrikasha kapaakunanpaq. Naatan gananqan mana imapaqsi aypaptinqa nasyunninchru mandaqninkunam\nyananpanman.\nPi may runas urayaqqa qutukapaakunmanmi uryaq mayinkunawan imas mana ali kaptin\nrimanakurkaananpaq. Manam pisi \"Ama qutukapaakuychu\" ninmanchu pitas. Maslata ganayta munarqa u\nalipa rikasha kayta munarqa, jinam manakurkaananpaq qutukarkur rimanakurkanman.\nARTICULO 24\nPi may runasi uryaqqa jamanmanmi. Chay jamar imatas rurakunman munanqantam. Naatan pisi amam\nuryachinmanchu rimanqanpita masqa. Jinaman watachamur jamaptin pagasham kanman.\nARTICULO 25"
         },
         "7": {
-            "Label": "8",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "2ca483ae754d8d744d54197e5a51d2da",
             "Index": 7,
+            "Label": "8",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "Pi may runapas kanman aypam imalansi ali kawapaakunanpaq, aylunkunas mana qeshyapaakunanpaq,\nkanman aypan mikunan, jakun, jinaman wayin yachrananpaq. Qeshyarur aywanmanmi medikuman u\nhospitalmansi jampichikuq. Naatan mandaq runakuna yanapapaakunman lapantam: uryapakuytam mana\ntariq runakunata, qeshyaqkunata, mana uryaq atipaqkunata, japatukushakunata, chachakunata, mana\njuchaynaq kayarsi imaynaqsi kidashakunata.\nPachrayoq warmikunas jinaman iñashakunas kapaakunman aliska yanapasham imayqachruusi. Akapa\nwamrakuna kapaakunman ali rikasham lapansi kasadupa karsi u mana kasadupa karsi.\nARTICULO 26\nRunakuna lapanmi yaykupaakunman iskuylaman. Naatan \"amam pisi paganmanchu qalayunqanpita\nushanqankamas. Wamrakunata kachrapaakunman lapatam munaqtas, mana munaqtas primariya iskuylaman.\nChaypita masta yachrakuy munaqkuna, jinam yachrakurkanman medikupaqsi, abugadupaqsi u imayqapaqsi.\nUnibersidakunaman mana atipaqkuna ali yachrarqa chraskisham kapaakunman. Naatan mana yachraqkunata\n\"Amam chraskipaakunmanchu imansi rayqoqa.\nChay iskuylakunachru yachrachiykuna kanman lapan yachrakuqkunata ali runa kayta yanapananpaqmi, alipa\nrikanakurkaananpaq, lapan runata yanapaa- nanpaqmi, rantisha runanuy mana pipa sirbichiqninsi\nkapaakunanta musyapaakunanpaqmi, juklaa nasyun runakunawan, u juk rimayta rimaqkunawan alipa\nkawapaakunanpaqmi Diosman yupachikuqtawan, mana yupachikuqtas alipa rikanakurkaananpaqmi. Jinaman\nyachrachipaakunmanmi lapan nasyunpita qutukaq delgadukuna iskirbipaakunqanta yanapanakur kawaypitas,\nmana wanuchinakuy kananpaq.\nNaatan taytakunam akrapaakunman churinkuna may iskuylachru yachrachisha kanapaqsi.\nARTICULO 27\nRunakuna pi maysi markachru imayqatas rurakunman munanqatam: ruranmanmi fistatas, kantamanmi",
-            "Image": "2ca483ae754d8d744d54197e5a51d2da"
+            "Text": "Pi may runapas kanman aypam imalansi ali kawapaakunanpaq, aylunkunas mana qeshyapaakunanpaq,\nkanman aypan mikunan, jakun, jinaman wayin yachrananpaq. Qeshyarur aywanmanmi medikuman u\nhospitalmansi jampichikuq. Naatan mandaq runakuna yanapapaakunman lapantam: uryapakuytam mana\ntariq runakunata, qeshyaqkunata, mana uryaq atipaqkunata, japatukushakunata, chachakunata, mana\njuchaynaq kayarsi imaynaqsi kidashakunata.\nPachrayoq warmikunas jinaman iñashakunas kapaakunman aliska yanapasham imayqachruusi. Akapa\nwamrakuna kapaakunman ali rikasham lapansi kasadupa karsi u mana kasadupa karsi.\nARTICULO 26\nRunakuna lapanmi yaykupaakunman iskuylaman. Naatan \"amam pisi paganmanchu qalayunqanpita\nushanqankamas. Wamrakunata kachrapaakunman lapatam munaqtas, mana munaqtas primariya iskuylaman.\nChaypita masta yachrakuy munaqkuna, jinam yachrakurkanman medikupaqsi, abugadupaqsi u imayqapaqsi.\nUnibersidakunaman mana atipaqkuna ali yachrarqa chraskisham kapaakunman. Naatan mana yachraqkunata\n\"Amam chraskipaakunmanchu imansi rayqoqa.\nChay iskuylakunachru yachrachiykuna kanman lapan yachrakuqkunata ali runa kayta yanapananpaqmi, alipa\nrikanakurkaananpaq, lapan runata yanapaa- nanpaqmi, rantisha runanuy mana pipa sirbichiqninsi\nkapaakunanta musyapaakunanpaqmi, juklaa nasyun runakunawan, u juk rimayta rimaqkunawan alipa\nkawapaakunanpaqmi Diosman yupachikuqtawan, mana yupachikuqtas alipa rikanakurkaananpaqmi. Jinaman\nyachrachipaakunmanmi lapan nasyunpita qutukaq delgadukuna iskirbipaakunqanta yanapanakur kawaypitas,\nmana wanuchinakuy kananpaq.\nNaatan taytakunam akrapaakunman churinkuna may iskuylachru yachrachisha kanapaqsi.\nARTICULO 27\nRunakuna pi maysi markachru imayqatas rurakunman munanqatam: ruranmanmi fistatas, kantamanmi"
         },
         "8": {
-            "Label": "9",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+            ],
+            "Image": "25bc69a7ee390fdf6b5b812a96566a1a",
             "Index": 8,
+            "Label": "9",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
-            ],
-            "Text": "kantatas, awanmanmi imatas, dibujanmanmi imayqatas u tantiyayninpita wamaqkunatas jurqamunmanmi,\nwakin aíiska tantiyay yachraq runakunanuysi.\nPi may runasi, shumakuq wamaqlata imatas kamakarachirqa u mana pisi iskirbinqanta wamaqta imapitas\niskirbirurqa pagasham kapaakunman. Naatan \"Amam chay ruranqantaqa pisi yachrapanmanchu. Noqam\nwamaqta jurqaramuu\" nir, kaskinwanqa qolqeta charinan rayqosi u alawasha kanan rayqosi.\nARTICULO 28\nLapan runam may nasyunchru, kaqsi, ima lutantas rurayaqkuna qalayapaakunman ali kawayta\nrunamayinwan, kaychru lapan kay iskirbishakunanuy.\nARTICULO 29\nRunakuna Iapanmi markachru mandaqkuna imatas niptin kaasukurkanman. Chay kaasukuq karqa, pi maysi\nkapaakun alipa rikasham, naatan ali runa pipaqsi.\nJuk nasyunchru yachraqkuna, nasyunninchru iskirbishakunata 1apanmi kaasukurkanqa, mana pisi juk\nrantishanwannuy piwansi sirbichikunanpaq, j inaman ali runa kapaakunanpaq. Pi maysi alim kawanman\nrunamayinwan, naatan lapanmi imachru yanapanakurkanman ali kawayta chay nasyunninkunachru.\nKay lapan iskirbishakuna manam kaasukanmanchu kara, lapan nasyunpita qutukaq delgadukuna\n\"Rurashunmi\" ninakur rurayta mana qalayusha kapaakuptinqa.\nARTICULO 30\nJuk nasyunchruusi u runa qutukaqchruusi u juk runalatas imata rurananpaqsi pisi kaychru skirbirayaqpita\njuklasipa imapitas tantiyachinanta manam munapaakuuchu.",
-            "Image": "25bc69a7ee390fdf6b5b812a96566a1a"
+            "Text": "kantatas, awanmanmi imatas, dibujanmanmi imayqatas u tantiyayninpita wamaqkunatas jurqamunmanmi,\nwakin aíiska tantiyay yachraq runakunanuysi.\nPi may runasi, shumakuq wamaqlata imatas kamakarachirqa u mana pisi iskirbinqanta wamaqta imapitas\niskirbirurqa pagasham kapaakunman. Naatan \"Amam chay ruranqantaqa pisi yachrapanmanchu. Noqam\nwamaqta jurqaramuu\" nir, kaskinwanqa qolqeta charinan rayqosi u alawasha kanan rayqosi.\nARTICULO 28\nLapan runam may nasyunchru, kaqsi, ima lutantas rurayaqkuna qalayapaakunman ali kawayta\nrunamayinwan, kaychru lapan kay iskirbishakunanuy.\nARTICULO 29\nRunakuna Iapanmi markachru mandaqkuna imatas niptin kaasukurkanman. Chay kaasukuq karqa, pi maysi\nkapaakun alipa rikasham, naatan ali runa pipaqsi.\nJuk nasyunchru yachraqkuna, nasyunninchru iskirbishakunata 1apanmi kaasukurkanqa, mana pisi juk\nrantishanwannuy piwansi sirbichikunanpaq, j inaman ali runa kapaakunanpaq. Pi maysi alim kawanman\nrunamayinwan, naatan lapanmi imachru yanapanakurkanman ali kawayta chay nasyunninkunachru.\nKay lapan iskirbishakuna manam kaasukanmanchu kara, lapan nasyunpita qutukaq delgadukuna\n\"Rurashunmi\" ninakur rurayta mana qalayusha kapaakuptinqa.\nARTICULO 30\nJuk nasyunchruusi u runa qutukaqchruusi u juk runalatas imata rurananpaqsi pisi kaychru skirbirayaqpita\njuklasipa imapitas tantiyachinanta manam munapaakuuchu."
         }
     }
 }

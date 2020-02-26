@@ -1,54 +1,54 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581468951,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 9.216)}"
+            ],
+            "Image": "78a91d4bd2f3260908441e3414b2d4b9",
             "Index": 0,
+            "Label": "1",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 9.216)}"
-            ],
-            "Text": "Ristikanzan oigevuksien\nHyväksytty da sanottu julgi\nPreambula\nHuomivoh ottajen, ku kaikile ristikanzoin pereheh kuulujile ominazen\nhuomivoh ottajen, ku ristikanzan oigevuksien halveksindu da väheksindy\nhuomivoh ottajen, ku ristikanzan oigevuksii vältämättäh pidäy puolistua\nhuomivoh ottajen, ku pidäy kannattua ystävällizii suhtehii eri kanzoin\nhuomivoh ottajen, ku Yhtistynnyzien Kanzukundien rahvas lujoitettih\nhuomivoh ottajen, ku valdivot-jäsenet uskaldettih Yhtistynnyzien\nhuomivoh ottajen, ku nämien oigevuksien da vällyzien yhtehizel\nYlehine Assamblei,\nsanou julgi tämän Ristikanzan oigevuksien yhtehizen deklaratsien\n1. stat’t’u\nKai rahvas roittahes vällinny da taza-arvozinnu omas arvos da oigevuksis.\n2. stat’t’u\nJogahizel ristikanzal pidäy olla kai täs Deklaratsies julgi sanotut\nPaiči sidä, ei voi olla nimittumua eruo sen muan libo alovehen poliittizen,\n3. stat’t’u\nJogahizel ristikanzal on oigevus elaigah, vällyöh da persounallizeh\n4. stat’t’u\nNikedä ei sua pidiä orjannu libo vallanalazennu; orjien piendy da\n5. stat’t’u\nNikedä ei sua muokata libo käyttiä julmii, ebägumannoloi libo\n6. stat’t’u\nJogahizel ristikanzal, olgah häi hos kus, ollah oigevukset da juriidizet\n7. stat’t’u\nKai rahvas ollah taza-arvozet zakonan ies da jogahizel on oigevus,\n8. stat’t’u\nJogahizel ristikanzal on oigevus kanzallizien toimivaldusuudoloin\n9. stat’t’u\nNikedä ei sua arestuija, ottua kiini libo ajua iäres omavaldazesti.\n10. stat’t’u\nJogahizel ristikanzal hänen oigevuksien da vellallizuksien miärittelemizekse\n11. stat’t’u\nJogahizel ristikanzal, kuduadu viäritetäh pahanruavos, on oigevus\nNikedä ei sua suudie pahanruavos mittumantahto ruavon luadimizen\n12. stat’t’u\nNiken ei voi jouduo alazekse, ku hänen persounallizeh da perehelaigah",
-            "Image": "78a91d4bd2f3260908441e3414b2d4b9"
+            "Text": "Ristikanzan oigevuksien\nHyväksytty da sanottu julgi\nPreambula\nHuomivoh ottajen, ku kaikile ristikanzoin pereheh kuulujile ominazen\nhuomivoh ottajen, ku ristikanzan oigevuksien halveksindu da väheksindy\nhuomivoh ottajen, ku ristikanzan oigevuksii vältämättäh pidäy puolistua\nhuomivoh ottajen, ku pidäy kannattua ystävällizii suhtehii eri kanzoin\nhuomivoh ottajen, ku Yhtistynnyzien Kanzukundien rahvas lujoitettih\nhuomivoh ottajen, ku valdivot-jäsenet uskaldettih Yhtistynnyzien\nhuomivoh ottajen, ku nämien oigevuksien da vällyzien yhtehizel\nYlehine Assamblei,\nsanou julgi tämän Ristikanzan oigevuksien yhtehizen deklaratsien\n1. stat’t’u\nKai rahvas roittahes vällinny da taza-arvozinnu omas arvos da oigevuksis.\n2. stat’t’u\nJogahizel ristikanzal pidäy olla kai täs Deklaratsies julgi sanotut\nPaiči sidä, ei voi olla nimittumua eruo sen muan libo alovehen poliittizen,\n3. stat’t’u\nJogahizel ristikanzal on oigevus elaigah, vällyöh da persounallizeh\n4. stat’t’u\nNikedä ei sua pidiä orjannu libo vallanalazennu; orjien piendy da\n5. stat’t’u\nNikedä ei sua muokata libo käyttiä julmii, ebägumannoloi libo\n6. stat’t’u\nJogahizel ristikanzal, olgah häi hos kus, ollah oigevukset da juriidizet\n7. stat’t’u\nKai rahvas ollah taza-arvozet zakonan ies da jogahizel on oigevus,\n8. stat’t’u\nJogahizel ristikanzal on oigevus kanzallizien toimivaldusuudoloin\n9. stat’t’u\nNikedä ei sua arestuija, ottua kiini libo ajua iäres omavaldazesti.\n10. stat’t’u\nJogahizel ristikanzal hänen oigevuksien da vellallizuksien miärittelemizekse\n11. stat’t’u\nJogahizel ristikanzal, kuduadu viäritetäh pahanruavos, on oigevus\nNikedä ei sua suudie pahanruavos mittumantahto ruavon luadimizen\n12. stat’t’u\nNiken ei voi jouduo alazekse, ku hänen persounallizeh da perehelaigah"
         },
         "1": {
-            "Label": "2",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 9.216)}"
+            ],
+            "Image": "192f43e7d9ff342743f3d327437a0ae8",
             "Index": 1,
+            "Label": "2",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 9.216)}"
-            ],
-            "Text": "13. stat’t’u\nJogahizel ristikanzal on vällyoigevus siirdyö da vallita ičelleh\nJogahizel ristikanzal on oigevus lähtie kuduastahto muas, luguh\n14. stat’t’u\nJogahizel ristikanzal on oigevus eččie turvupaikkua toizis mualois\nTädä oigevustu ei sua käyttiä tagahajamizes, ku toven sen perustehennu\n15. stat’t’u\nJogahizel ristikanzal on oigevus kanzallizuoh.\nNikes ei sua vägivaldazesti ottua kanzallizuttu, nikel ei ole oigevustu\n16. stat’t’u\nTäyzi-igäzikse tulluzil miehil da naizil on oigevus ilmai mittumiitahto\nKirjoihmenendy voibi tapahtuo vai silloi, konzu mollembat kirjoih\nPereh on yhteiskunnan luonnolline piäsolu da sil on oigevus puolistamizeh\n17. stat’t’u\nJogahizel ristikanzal on oigevus omistua omazuttu kui yksinäh,\nNikel ei sua vägivaldazesti kiškuo hänen omazuttu.\n18. stat’t’u\nJogahizel ristikanzal on mielien, ičentunnon da uskon vällyön oigevus;\n19. stat’t’u\nJogahizel ristikanzal on mielien vällyön da niilöin sanondan oigevus;\n20. stat’t’u\nJogahizel ristikanzal on rauhallizien kerähmölöin da assotsiatsieloin\nNikedä ei sua vägehes potakoija liittymäh mittumahtahto assotsiatsieh.\n21. stat’t’u\nJogahizel ristikanzal on oigevus ottua ozua oman muan haldivoičendah\nJogahizel ristikanzal on valdivollizeh palveluh tazaverdazen piäzyn\nRahvahan vallal pidäy olla halličuksen vallan perustehennu; täl\n22. stat’t’u\nJogahizel ristikanzal, kui yhteiskunnan ozanottajal, on oigevus sotsiualizeh\n23. stat’t’u\nJogahizel ristikanzal on ruado-oigevus, oigevus välläl vallita\nJogahizel ristikanzal ilmai mittumuatahto diskriminatsiedu on\nJogahizel ruadajal ristikanzal on oigevus oigieh da vältäväh palkah,\nJogahizel ristikanzal on oigevus perustua ammatillizet liitot da\n24. stat’t’u\nJogahizel ristikanzal on huogavundan da joudavan aijan oigevus,\n25. stat’t’u\nJogahizel ristikanzal on oigevus moizeh elaijan tazoh, luguh\nMuamazus da lapsus annetah oigevuksen eriluaduzeh huoldoh",
-            "Image": "192f43e7d9ff342743f3d327437a0ae8"
+            "Text": "13. stat’t’u\nJogahizel ristikanzal on vällyoigevus siirdyö da vallita ičelleh\nJogahizel ristikanzal on oigevus lähtie kuduastahto muas, luguh\n14. stat’t’u\nJogahizel ristikanzal on oigevus eččie turvupaikkua toizis mualois\nTädä oigevustu ei sua käyttiä tagahajamizes, ku toven sen perustehennu\n15. stat’t’u\nJogahizel ristikanzal on oigevus kanzallizuoh.\nNikes ei sua vägivaldazesti ottua kanzallizuttu, nikel ei ole oigevustu\n16. stat’t’u\nTäyzi-igäzikse tulluzil miehil da naizil on oigevus ilmai mittumiitahto\nKirjoihmenendy voibi tapahtuo vai silloi, konzu mollembat kirjoih\nPereh on yhteiskunnan luonnolline piäsolu da sil on oigevus puolistamizeh\n17. stat’t’u\nJogahizel ristikanzal on oigevus omistua omazuttu kui yksinäh,\nNikel ei sua vägivaldazesti kiškuo hänen omazuttu.\n18. stat’t’u\nJogahizel ristikanzal on mielien, ičentunnon da uskon vällyön oigevus;\n19. stat’t’u\nJogahizel ristikanzal on mielien vällyön da niilöin sanondan oigevus;\n20. stat’t’u\nJogahizel ristikanzal on rauhallizien kerähmölöin da assotsiatsieloin\nNikedä ei sua vägehes potakoija liittymäh mittumahtahto assotsiatsieh.\n21. stat’t’u\nJogahizel ristikanzal on oigevus ottua ozua oman muan haldivoičendah\nJogahizel ristikanzal on valdivollizeh palveluh tazaverdazen piäzyn\nRahvahan vallal pidäy olla halličuksen vallan perustehennu; täl\n22. stat’t’u\nJogahizel ristikanzal, kui yhteiskunnan ozanottajal, on oigevus sotsiualizeh\n23. stat’t’u\nJogahizel ristikanzal on ruado-oigevus, oigevus välläl vallita\nJogahizel ristikanzal ilmai mittumuatahto diskriminatsiedu on\nJogahizel ruadajal ristikanzal on oigevus oigieh da vältäväh palkah,\nJogahizel ristikanzal on oigevus perustua ammatillizet liitot da\n24. stat’t’u\nJogahizel ristikanzal on huogavundan da joudavan aijan oigevus,\n25. stat’t’u\nJogahizel ristikanzal on oigevus moizeh elaijan tazoh, luguh\nMuamazus da lapsus annetah oigevuksen eriluaduzeh huoldoh"
         },
         "2": {
-            "Label": "3",
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 9.216)}"
+            ],
+            "Image": "6a67ea1de91eeb528fe2d0d68393ad54",
             "Index": 2,
+            "Label": "3",
             "Size": [
                 595.0,
                 842.0
             ],
-            "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 9.216)}"
-            ],
-            "Text": "26. stat’t’u\nJogahizel ristikanzal on oigevus opastundah. Opastundu pidäy olla\nOpastundua pidäy ohjata ristikanzan persounan tävvellizeh kehittämizeh\nVahnembil on eduoigevus opastundan muvvon valličendas omih\n27. stat’t’u\nJogahizel ristikanzal on oigevus välläl ottua ozua yhteskunnan\nJogahizel ristikanzal on oigevus hänen moizien moraalizien da\n28. stat’t’u\nJogahizel ristikanzal on oigevus sotsiualizeh da kanzoinvälizeh\n29. stat’t’u\nJogahizel ristikanzal on vellallizuksii yhteiskunnan ies, vai sit\nOmii oigevuksii da vällyzii todevuttajes jogahistu ristikanzua\nNenien oigevuksien da vällyzien todevuttamine nikonzu ei voi\n30. stat’t’u\nNi mi täh Deklaratsieh kirjutettu ei voi olla sellitetty, kui kudualetahto",
-            "Image": "6a67ea1de91eeb528fe2d0d68393ad54"
+            "Text": "26. stat’t’u\nJogahizel ristikanzal on oigevus opastundah. Opastundu pidäy olla\nOpastundua pidäy ohjata ristikanzan persounan tävvellizeh kehittämizeh\nVahnembil on eduoigevus opastundan muvvon valličendas omih\n27. stat’t’u\nJogahizel ristikanzal on oigevus välläl ottua ozua yhteskunnan\nJogahizel ristikanzal on oigevus hänen moizien moraalizien da\n28. stat’t’u\nJogahizel ristikanzal on oigevus sotsiualizeh da kanzoinvälizeh\n29. stat’t’u\nJogahizel ristikanzal on vellallizuksii yhteiskunnan ies, vai sit\nOmii oigevuksii da vällyzii todevuttajes jogahistu ristikanzua\nNenien oigevuksien da vällyzien todevuttamine nikonzu ei voi\n30. stat’t’u\nNi mi täh Deklaratsieh kirjutettu ei voi olla sellitetty, kui kudualetahto"
         }
     }
 }

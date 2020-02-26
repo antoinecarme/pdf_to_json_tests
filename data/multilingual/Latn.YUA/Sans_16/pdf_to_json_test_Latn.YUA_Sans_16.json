@@ -1,141 +1,141 @@
 {
     "MetaData": {
-        "Title": "",
         "Author": null,
-        "Creator": "wkhtmltopdf 0.12.5",
         "Creation_Date": 1581471509,
+        "Creator": "wkhtmltopdf 0.12.5",
         "Modification_Date": -1,
         "PDF_Version": [
             "PDF-1.4",
             null
-        ]
+        ],
+        "Title": ""
     },
     "Pages": {
         "0": {
-            "Label": "1",
-            "Index": 0,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "U DZAʼABAL KʼAJÓOLTBIL U NOJ AʼALMAJ TʼAANIL U NAJMAL WÍINIKOʼOB\n[Preamble]\nTumeen u kuxtal wíinik x‐maʼa palitzilil, u chíimpoltaʼal yetel u chaʼabal u kuxtal yóokʼol kaab ich jedz\nóolal, tiʼ ku taal tu chíimpoltaʼal u noʼojaʼanil kuxtal sijnal yetel wíinik bey jeʼex xan sijnal u najmalmajil\nkeet kuxtal, mixmáak unaj u luʼsik tiʼ tuláakal u wíinikil yóokʼol kaabeʼ,\nTumeen yóoʼlal maʼ ojeltaʼan ku beetik u mixbaʼalkuunsaʼal u najmalil u kuxtal wíinik, dzoʼok u beetik u\nyúuchul seen kʼaakʼas baʼaloʼob tu táan u noʼajaʼanil u tuukul wíinik; yetel tumeen dzoʼok u yaʼalaʼal u jach\nnojochil baʼax ku dzíiboltik wíinikeʼ, u kajtal yóokʼol kaab tuʼux kaʼa kuxlak lukʼaʼan u sajakil yetel x‐maʼa\nóotzilil, kaʼa béeyak u yaʼalik baʼax ku tukultik yetel u kiliʼichkuunsik jeʼe máakalmáak Yumtzilil u kʼáateʼ,\nTumeen tun le najmal sijnal yetel wíinik jach kʼaʼabet u boʼoybesaʼal tu yáanal jumpʼéel Noj Aʼalmaj Tʼaan,\nu tiʼal maʼ u beetaʼal u líikʼil wíinik baʼateʼel tumeen u talamil kuxtal yetel u nuunsaʼal,\nTumeen ku tukultaʼal xan jach kʼaʼabet u kaxantaʼal bix uchak u bisikuba maʼalob tuláakal u kaajiloʼob\nyóokʼol kaab,\nTumeen k‐kʼaʼajsik tuláakal u kaajiloʼob Naciones Unidas, dzoʼok u dzíibtikoʼob u moktʼaanil u\nchíimpoltikoʼob le Najmal sijnal yetel wíinik, ichil u noʼojaʼanil yetel u beelal bey wíinikeʼ, beytun wa\nkoʼolel wa xiib; yetel tumeen dzoʼok yaʼalikoʼob yaan u chúukpajal yóoloʼob u kaxantoʼob u maʼalobtal u\nkuxtal wíinik yetel u jóokʼsoʼob ichil óotzilil kaʼalikil u chíimpoltikoʼob u kuxtal,\nTumeen le kaajoʼob táakaʼan dzoʼok u beetikoʼon u Mok Tʼaanil yetel Organización tiʼ Naciones Unidas,\ntiʼal u cíimpolaʼal bey jeʼe unaj tuláakal yóokʼol kaab le Najmal Sijnal yetel wíinikoʼ, bey jeʼex u kuxtal x‐\nmaʼa palitzilil, yetel\nTumeen u kʼajóoltaʼal le Najmal Sijnal yetel wíinik yetel bix uchak u kuxtal x‐maʼa palitzilil jach táanil yaan",
-            "Image": "17ca300e0b75f360424a847424c97b73"
+            "Image": "17ca300e0b75f360424a847424c97b73",
+            "Index": 0,
+            "Label": "1",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "U DZAʼABAL KʼAJÓOLTBIL U NOJ AʼALMAJ TʼAANIL U NAJMAL WÍINIKOʼOB\n[Preamble]\nTumeen u kuxtal wíinik x‐maʼa palitzilil, u chíimpoltaʼal yetel u chaʼabal u kuxtal yóokʼol kaab ich jedz\nóolal, tiʼ ku taal tu chíimpoltaʼal u noʼojaʼanil kuxtal sijnal yetel wíinik bey jeʼex xan sijnal u najmalmajil\nkeet kuxtal, mixmáak unaj u luʼsik tiʼ tuláakal u wíinikil yóokʼol kaabeʼ,\nTumeen yóoʼlal maʼ ojeltaʼan ku beetik u mixbaʼalkuunsaʼal u najmalil u kuxtal wíinik, dzoʼok u beetik u\nyúuchul seen kʼaakʼas baʼaloʼob tu táan u noʼajaʼanil u tuukul wíinik; yetel tumeen dzoʼok u yaʼalaʼal u jach\nnojochil baʼax ku dzíiboltik wíinikeʼ, u kajtal yóokʼol kaab tuʼux kaʼa kuxlak lukʼaʼan u sajakil yetel x‐maʼa\nóotzilil, kaʼa béeyak u yaʼalik baʼax ku tukultik yetel u kiliʼichkuunsik jeʼe máakalmáak Yumtzilil u kʼáateʼ,\nTumeen tun le najmal sijnal yetel wíinik jach kʼaʼabet u boʼoybesaʼal tu yáanal jumpʼéel Noj Aʼalmaj Tʼaan,\nu tiʼal maʼ u beetaʼal u líikʼil wíinik baʼateʼel tumeen u talamil kuxtal yetel u nuunsaʼal,\nTumeen ku tukultaʼal xan jach kʼaʼabet u kaxantaʼal bix uchak u bisikuba maʼalob tuláakal u kaajiloʼob\nyóokʼol kaab,\nTumeen k‐kʼaʼajsik tuláakal u kaajiloʼob Naciones Unidas, dzoʼok u dzíibtikoʼob u moktʼaanil u\nchíimpoltikoʼob le Najmal sijnal yetel wíinik, ichil u noʼojaʼanil yetel u beelal bey wíinikeʼ, beytun wa\nkoʼolel wa xiib; yetel tumeen dzoʼok yaʼalikoʼob yaan u chúukpajal yóoloʼob u kaxantoʼob u maʼalobtal u\nkuxtal wíinik yetel u jóokʼsoʼob ichil óotzilil kaʼalikil u chíimpoltikoʼob u kuxtal,\nTumeen le kaajoʼob táakaʼan dzoʼok u beetikoʼon u Mok Tʼaanil yetel Organización tiʼ Naciones Unidas,\ntiʼal u cíimpolaʼal bey jeʼe unaj tuláakal yóokʼol kaab le Najmal Sijnal yetel wíinikoʼ, bey jeʼex u kuxtal x‐\nmaʼa palitzilil, yetel\nTumeen u kʼajóoltaʼal le Najmal Sijnal yetel wíinik yetel bix uchak u kuxtal x‐maʼa palitzilil jach táanil yaan"
         },
         "1": {
-            "Label": "2",
-            "Index": 1,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "tiʼal kaʼa béeyak u dzoʼokbesaʼal le Mok Tʼaanaʼ,\nLe NOJ MOLAʼAYAʼ ku yaʼalik\nLE U NOJ AʼALMAJ TʼAANIL le Najmal Sijnal yetel wíinikaʼ, jumpʼéel baʼal jach kʼaʼabet u yilaʼal u\ndzoʼokbesaʼal tumeen tuláakal u kaajiloʼob yóokʼol kaab, tuʼux kaʼa táaakpajak wíinik yetle u molaʼayiloʼob,\ntiʼal u chʼaʼak tiʼ letiʼ u noj tuukulil yetel u kaʼansikoʼob u chíimpoltaʼal u kuxtal wíinik x‐maʼa palitzilil\nyetel xan u beetikoʼob tuláakal baʼax kaʼabéet tu kaajaloʼob yetel tuláakal yóokʼol kaab tuʼux kaʼa ilaʼak u\nchíimpoltaʼal yetel u dzoʼokbesaʼal ichil le kaajoʼob beetmajil u Moktʼaaniloʼ yetel xan ichil u méekʼtan\nkaajiloʼob.\nArtículo 1\nTuláakal wíinik ku síijil jáalkʼab yetel keet u tsiikul yetel Najmal Sijnalil, beytun xan naʼataʼan sijnalil yetel\nnoʼojaʼanil u tuukuloʼ, kʼaʼabet u bisikuba bey láaktzilil yetel tuláakal u baatzileʼ.\nArtículo 2\nTuláakal wíinikeʼ sijnal yetel le Najmaloʼobaʼ beeyxan yetel u siibalil u kuxtal x‐maʼa palitzilil bey jeʼex u\nchʼaʼachiʼitaʼal tiʼ le Aʼalmaj Tʼaanaʼ, kex tumeen jelaʼan u chʼiʼibal, u boonlil u yootʼel, xiib wa koʼolel, wa\njelaʼan u tʼaan, u kiliʼichkuunaj, u tuukul wa u láakʼ jeʼe baʼalakeʼ, tuʼux u taal, u kaajal wa máax yetel ku\nmuchʼikubáa, beykaʼaj u ayikʼalil, tuʼux síijnal wa jeʼe baʼalak u láakʼ baʼalileʼ.\nYeteleʼ, maʼatan u páaykuntaʼal wíinik chen tumeen jelaʼan u tuukul, u Najmal Sijnalil wa u Aʼalmaj Tʼaanil\nu kaajal, wa u Méekʼtan kaajil tuʼux u taal, mix tumeen táanxelil tuʼux yaan u kaajal, wa yaan u jalaʼachoʼob\nwa táakaʼan ichil u láakʼ kaaj.\nArtículo 3\nTuláakal wíinikeʼ Sijnal u Najmalmajil u kuxtal, maʼ u palitziltaʼal beeyxan maʼ u loʼobol u wíinklal yetel u",
-            "Image": "086460c1d787d2a2d8076d53c6a88db1"
+            "Image": "086460c1d787d2a2d8076d53c6a88db1",
+            "Index": 1,
+            "Label": "2",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "tiʼal kaʼa béeyak u dzoʼokbesaʼal le Mok Tʼaanaʼ,\nLe NOJ MOLAʼAYAʼ ku yaʼalik\nLE U NOJ AʼALMAJ TʼAANIL le Najmal Sijnal yetel wíinikaʼ, jumpʼéel baʼal jach kʼaʼabet u yilaʼal u\ndzoʼokbesaʼal tumeen tuláakal u kaajiloʼob yóokʼol kaab, tuʼux kaʼa táaakpajak wíinik yetle u molaʼayiloʼob,\ntiʼal u chʼaʼak tiʼ letiʼ u noj tuukulil yetel u kaʼansikoʼob u chíimpoltaʼal u kuxtal wíinik x‐maʼa palitzilil\nyetel xan u beetikoʼob tuláakal baʼax kaʼabéet tu kaajaloʼob yetel tuláakal yóokʼol kaab tuʼux kaʼa ilaʼak u\nchíimpoltaʼal yetel u dzoʼokbesaʼal ichil le kaajoʼob beetmajil u Moktʼaaniloʼ yetel xan ichil u méekʼtan\nkaajiloʼob.\nArtículo 1\nTuláakal wíinik ku síijil jáalkʼab yetel keet u tsiikul yetel Najmal Sijnalil, beytun xan naʼataʼan sijnalil yetel\nnoʼojaʼanil u tuukuloʼ, kʼaʼabet u bisikuba bey láaktzilil yetel tuláakal u baatzileʼ.\nArtículo 2\nTuláakal wíinikeʼ sijnal yetel le Najmaloʼobaʼ beeyxan yetel u siibalil u kuxtal x‐maʼa palitzilil bey jeʼex u\nchʼaʼachiʼitaʼal tiʼ le Aʼalmaj Tʼaanaʼ, kex tumeen jelaʼan u chʼiʼibal, u boonlil u yootʼel, xiib wa koʼolel, wa\njelaʼan u tʼaan, u kiliʼichkuunaj, u tuukul wa u láakʼ jeʼe baʼalakeʼ, tuʼux u taal, u kaajal wa máax yetel ku\nmuchʼikubáa, beykaʼaj u ayikʼalil, tuʼux síijnal wa jeʼe baʼalak u láakʼ baʼalileʼ.\nYeteleʼ, maʼatan u páaykuntaʼal wíinik chen tumeen jelaʼan u tuukul, u Najmal Sijnalil wa u Aʼalmaj Tʼaanil\nu kaajal, wa u Méekʼtan kaajil tuʼux u taal, mix tumeen táanxelil tuʼux yaan u kaajal, wa yaan u jalaʼachoʼob\nwa táakaʼan ichil u láakʼ kaaj.\nArtículo 3\nTuláakal wíinikeʼ Sijnal u Najmalmajil u kuxtal, maʼ u palitziltaʼal beeyxan maʼ u loʼobol u wíinklal yetel u"
         },
         "2": {
-            "Label": "3",
-            "Index": 2,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "kaalantaʼal u kuxtal.\nArtículo 4\nMimáak unaj u palitziltaʼal mix u meyajtik u baʼal u láakʼ máak; palitzilil yetel u koʼonol wíinik tiʼal meyajeʼ\ntiʼ u láakʼ máak x‐maʼa boʼolileʼ wetʼaʼan.\nArtículo 5\nMixmáak tiʼ unaj u beetaʼal loob, mix u nuumsaʼal, u kʼoʼolol, wa u beetaʼal u boʼotik u siʼipil bey baʼalcheʼe\nmix u tʼonkiintaʼal.\nArtículo 6\nTuláakal máan sijnal u najmalmajil u chíimpoltaʼal u kuxtal yetel u dzoʼzkbesaʼal le Najmal Sijnal yanil tiʼ\nku yaʼalaʼal teʼej Noj Aʼalmaj Tʼaanoʼoboʼ.\nArtículo 7\nMixmáak jelaʼan wa nojbaʼal tu táan le Aʼalmaj Tʼaanoʼboʼ, beytunoʼ tuláakal máak uchak u boʼoybesjuba tu\nyáanal. Tuláakal máak u najmalmaj u tokbesaʼal tu táan jeʼe baʼalak nuumsajil kaʼa siʼipik tu táan le Tzol\nTʼaanaʼ, wa tiʼ jeʼe máaxak kaʼa líikʼik yóol u beet le nuumsajoʼ.\nArtículo 8\nTuláakal máak sijnal u najmalmajil u tokbesaʼal tu kúuchil tiʼibilkunah tu kaajal, tuʼux kaʼa ilaʼak u\nchíimpoltaʼal le Najmal Sijnal yeteloʼ yetel u dzoʼokbesaʼal le baʼax ku yaʼalaʼal teʼej Aʼalmaj Tʼaanoʼoboʼ.\nArtículo 9\nMixmáak unaj u kʼaʼalal wa maʼa u káant yetel u kʼam u siʼipiliʼ, mix u tojolchʼintaʼal tu kaajal.",
-            "Image": "7367d1b2b77761fb7666820117505f7c"
+            "Image": "7367d1b2b77761fb7666820117505f7c",
+            "Index": 2,
+            "Label": "3",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "kaalantaʼal u kuxtal.\nArtículo 4\nMimáak unaj u palitziltaʼal mix u meyajtik u baʼal u láakʼ máak; palitzilil yetel u koʼonol wíinik tiʼal meyajeʼ\ntiʼ u láakʼ máak x‐maʼa boʼolileʼ wetʼaʼan.\nArtículo 5\nMixmáak tiʼ unaj u beetaʼal loob, mix u nuumsaʼal, u kʼoʼolol, wa u beetaʼal u boʼotik u siʼipil bey baʼalcheʼe\nmix u tʼonkiintaʼal.\nArtículo 6\nTuláakal máan sijnal u najmalmajil u chíimpoltaʼal u kuxtal yetel u dzoʼzkbesaʼal le Najmal Sijnal yanil tiʼ\nku yaʼalaʼal teʼej Noj Aʼalmaj Tʼaanoʼoboʼ.\nArtículo 7\nMixmáak jelaʼan wa nojbaʼal tu táan le Aʼalmaj Tʼaanoʼboʼ, beytunoʼ tuláakal máak uchak u boʼoybesjuba tu\nyáanal. Tuláakal máak u najmalmaj u tokbesaʼal tu táan jeʼe baʼalak nuumsajil kaʼa siʼipik tu táan le Tzol\nTʼaanaʼ, wa tiʼ jeʼe máaxak kaʼa líikʼik yóol u beet le nuumsajoʼ.\nArtículo 8\nTuláakal máak sijnal u najmalmajil u tokbesaʼal tu kúuchil tiʼibilkunah tu kaajal, tuʼux kaʼa ilaʼak u\nchíimpoltaʼal le Najmal Sijnal yeteloʼ yetel u dzoʼokbesaʼal le baʼax ku yaʼalaʼal teʼej Aʼalmaj Tʼaanoʼoboʼ.\nArtículo 9\nMixmáak unaj u kʼaʼalal wa maʼa u káant yetel u kʼam u siʼipiliʼ, mix u tojolchʼintaʼal tu kaajal."
         },
         "3": {
-            "Label": "4",
-            "Index": 3,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Artículo 10\nTuláakal máak u najmalmaj, keet yetel jeʼe máaxakeʼ, u yuʼubalʼal u tʼaan tumeen tuláakal máak, wa ich\ntiʼibilileʼ maʼ u makik u xikin máax joʼolbesik tiʼ baʼax ku yaʼalik, tiʼal kaʼa jeʼedzek yetel utz u najmal máak\nyetel baʼax kʼaʼabet u beetik, beeytun xan tiʼal u chʼóochʼaʼal jeʼe baʼalak takpoolil yaan tu yóokʼoleʼ.\nArtículo 11\nTuláákal máak ku taʼakal u pooleʼ unaj u yáax tukultaʼal minaʼan u siʼipil kaʼalikil maʼa eʼesaʼak yetel wa\nmaʼ u káant, bey jeʼex u yaʼalaʼal teʼej Aʼalamaj Tʼaanoʼoboʼ, yetel unaj u xaʼakʼaltaʼal u tzikbeʼenil tu táan\nkaaj tiʼal yilaʼal wa yaan u siʼipil yetel xan u yilaʼal u tokbesaʼal tumeen máaxoʼob letiʼ u meyaj.\nMixmáak unaj u dzaʼabal u kuuch yetel u kʼaʼalal tu yóoʼlal baʼax ku beetik, wa baʼa maʼatan u beetik, wa tu\nkʼiinil u beetik wa u pʼatik u beetikeʼ maʼa wetʼaʼan wa dzaʼan bey yaan u siʼipilil tumeen u Aʼalmaj Tʼaanil\nu kaajal wa jeʼe baʼalak kaajileʼ.\nArtículo 12\nMixmáak yaan u páajtalil tiʼ u yokbesikuba tu kuxtal mix,áak, yetel u chʼiʼibaloʼob, ichil yotoch wa u\nwachʼik juʼun ku túuxtaʼaltiʼ, mix u nuumsik u kʼaabaʼ yetel tsikbeʼenil. Tuláakal máak sijnal u najmatmajil\nu boʼoybesaʼal tumeen Aʼalmaj Tʼaan tiʼal maʼ yokbesikubá mixmáak tu kuxtal yetel maʼ u nuumsaʼal.\nArtículo 13\nTuláakal máak yaantiʼ u páajtalil u bin jeʼe tuʼuxak u kʼáateʼ, beeyxan u jéedzel kajtal jeʼe tuʼuxak kaajil ichil\nu boj méekʼtankaajaleʼ.\nTuláakal máak yaantiʼ u páajtalil u jóokʼol tu kaajal tiʼal u bin jeʼe baʼalak kaajileʼ, beeyan u suut tu kaajal.\nArtículo 14",
-            "Image": "497ac8ac442d0b19272f34ca140818f6"
+            "Image": "497ac8ac442d0b19272f34ca140818f6",
+            "Index": 3,
+            "Label": "4",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Artículo 10\nTuláakal máak u najmalmaj, keet yetel jeʼe máaxakeʼ, u yuʼubalʼal u tʼaan tumeen tuláakal máak, wa ich\ntiʼibilileʼ maʼ u makik u xikin máax joʼolbesik tiʼ baʼax ku yaʼalik, tiʼal kaʼa jeʼedzek yetel utz u najmal máak\nyetel baʼax kʼaʼabet u beetik, beeytun xan tiʼal u chʼóochʼaʼal jeʼe baʼalak takpoolil yaan tu yóokʼoleʼ.\nArtículo 11\nTuláákal máak ku taʼakal u pooleʼ unaj u yáax tukultaʼal minaʼan u siʼipil kaʼalikil maʼa eʼesaʼak yetel wa\nmaʼ u káant, bey jeʼex u yaʼalaʼal teʼej Aʼalamaj Tʼaanoʼoboʼ, yetel unaj u xaʼakʼaltaʼal u tzikbeʼenil tu táan\nkaaj tiʼal yilaʼal wa yaan u siʼipil yetel xan u yilaʼal u tokbesaʼal tumeen máaxoʼob letiʼ u meyaj.\nMixmáak unaj u dzaʼabal u kuuch yetel u kʼaʼalal tu yóoʼlal baʼax ku beetik, wa baʼa maʼatan u beetik, wa tu\nkʼiinil u beetik wa u pʼatik u beetikeʼ maʼa wetʼaʼan wa dzaʼan bey yaan u siʼipilil tumeen u Aʼalmaj Tʼaanil\nu kaajal wa jeʼe baʼalak kaajileʼ.\nArtículo 12\nMixmáak yaan u páajtalil tiʼ u yokbesikuba tu kuxtal mix,áak, yetel u chʼiʼibaloʼob, ichil yotoch wa u\nwachʼik juʼun ku túuxtaʼaltiʼ, mix u nuumsik u kʼaabaʼ yetel tsikbeʼenil. Tuláakal máak sijnal u najmatmajil\nu boʼoybesaʼal tumeen Aʼalmaj Tʼaan tiʼal maʼ yokbesikubá mixmáak tu kuxtal yetel maʼ u nuumsaʼal.\nArtículo 13\nTuláakal máak yaantiʼ u páajtalil u bin jeʼe tuʼuxak u kʼáateʼ, beeyxan u jéedzel kajtal jeʼe tuʼuxak kaajil ichil\nu boj méekʼtankaajaleʼ.\nTuláakal máak yaantiʼ u páajtalil u jóokʼol tu kaajal tiʼal u bin jeʼe baʼalak kaajileʼ, beeyan u suut tu kaajal.\nArtículo 14"
         },
         "4": {
-            "Label": "5",
-            "Index": 4,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Wa táan u chʼaʼapachtaʼal wa u máan u chuʼukileʼ, tuláakal máak sijnal u najmatmajil u kʼaʼamal jeʼe\ntuʼuxak u láakʼ kaajileʼ yetel maʼa u jóokʼsaʼaliʼ.\nBaʼaleʼ maʼatan u béeytal u boʼoybesik máak wa tumeen jach tu jaajil yaan u siʼipil tu kaajal, beeyxan wa\nwetʼaʼan tumeen u Aʼalmaj Tʼaan Naciones Unidas.\nArtículo 15\nTuláakal máak sijnal u najmatmajil u kajtal tiʼ jumpʼéel kaaj.\nTiʼ mixmáak uchak u lukʼsaʼal u kaajal, mix u lukʼsaʼaltiʼ u páajtalil u kʼexik u kaajal.\nArtículo 16\nXiiboʼob yetel koʼoleloʼob, le ken u chuk u jaʼabil u dzoʼokol u beeloʼobeʼ, u najmatmajoʼob, jeʼe baʼalak u\nchʼiʼibaloʼobeʼ, jeʼe tuʼuxak u kaajaloʼobeʼ, jeʼe máakalmáak kʼujil ku kiliʼichkuunsikoʼobeʼ, u dzoʼokol u\nbeeloʼob tiʼal kaʼa yanak u kúuchkabaloʼob; yetel keet u najmaloʼob tu yóoʼlal u dzoʼokol u beeloʼob,\nkaʼalikil dzokaʼan u beeloʼob wa le ken u pʼatubaʼob.\nChen yetel kaʼa u dzáa u tʼaan tu kaʼatúulal le máax u kʼáat dzoʼokol u beeloʼ, uchak u yúuchul le dzoʼokol\nbeeloʼ.\nKúuchkabaleʼ letiʼ u chuun yetel yáax bix u muchʼikuba wíinik kajtal beytunoʼ kʼaʼanaʼan u kalaantaʼal\ntumeen tuláakal kaaj yetel tumeen jalaʼachoʼob.\nArtículo 17\nTuláakal máak sijnal u najmatmajil u yantal baʼal u tiʼalinte, tu juunal wa múuchʼkab.\nMixmáak uchak u lukʼsik baʼal u tiʼal máak.\nArtículo 18",
-            "Image": "0cec84db22301df93f7f923e6544613b"
+            "Image": "0cec84db22301df93f7f923e6544613b",
+            "Index": 4,
+            "Label": "5",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Wa táan u chʼaʼapachtaʼal wa u máan u chuʼukileʼ, tuláakal máak sijnal u najmatmajil u kʼaʼamal jeʼe\ntuʼuxak u láakʼ kaajileʼ yetel maʼa u jóokʼsaʼaliʼ.\nBaʼaleʼ maʼatan u béeytal u boʼoybesik máak wa tumeen jach tu jaajil yaan u siʼipil tu kaajal, beeyxan wa\nwetʼaʼan tumeen u Aʼalmaj Tʼaan Naciones Unidas.\nArtículo 15\nTuláakal máak sijnal u najmatmajil u kajtal tiʼ jumpʼéel kaaj.\nTiʼ mixmáak uchak u lukʼsaʼal u kaajal, mix u lukʼsaʼaltiʼ u páajtalil u kʼexik u kaajal.\nArtículo 16\nXiiboʼob yetel koʼoleloʼob, le ken u chuk u jaʼabil u dzoʼokol u beeloʼobeʼ, u najmatmajoʼob, jeʼe baʼalak u\nchʼiʼibaloʼobeʼ, jeʼe tuʼuxak u kaajaloʼobeʼ, jeʼe máakalmáak kʼujil ku kiliʼichkuunsikoʼobeʼ, u dzoʼokol u\nbeeloʼob tiʼal kaʼa yanak u kúuchkabaloʼob; yetel keet u najmaloʼob tu yóoʼlal u dzoʼokol u beeloʼob,\nkaʼalikil dzokaʼan u beeloʼob wa le ken u pʼatubaʼob.\nChen yetel kaʼa u dzáa u tʼaan tu kaʼatúulal le máax u kʼáat dzoʼokol u beeloʼ, uchak u yúuchul le dzoʼokol\nbeeloʼ.\nKúuchkabaleʼ letiʼ u chuun yetel yáax bix u muchʼikuba wíinik kajtal beytunoʼ kʼaʼanaʼan u kalaantaʼal\ntumeen tuláakal kaaj yetel tumeen jalaʼachoʼob.\nArtículo 17\nTuláakal máak sijnal u najmatmajil u yantal baʼal u tiʼalinte, tu juunal wa múuchʼkab.\nMixmáak uchak u lukʼsik baʼal u tiʼal máak.\nArtículo 18"
         },
         "5": {
-            "Label": "6",
-            "Index": 5,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Tuláakal máak yaan u páajtalil u tukultik jeʼe baʼalak u kʼáateʼ, jeʼe bixak u kʼáateʼ yetel u kiliʼichkuunsik\njeʼe máakaláak Kʼujil u kʼáateʼ; bey xan u kʼexik u kiliʼichkuunaj wa u tuukul jeʼe baʼalak kʼiin u kʼáateʼ,\nbeytun xan u dzáak ojeltbil u kiliʼichkuunaj yetel baʼax ku tukultik, tu juunal wa múuchʼkab, beytun tu táan\nkaaj wa tu juunal, tiʼal u kanik, u táakpajal wa u dzoʼokbesik.\nArtículo 19\nTuláakal máak yaantiʼ u páajtalil u tukultik yetel u yaʼalik le baʼax u kʼáateʼ; le najmalaʼ ku yaʼalik maʼ u\nchiʼichnak‐kuunsaʼal máak chen tu yóoʼlal bix u tuukul, beytun u xakʼal kaxantik baʼax kʼaʼabet u yojeltik, u\nkʼamik nuʼuktaj yetel u dzáak kʼajóoltbil tiʼ tuláakal yóokʼol kaab yetel jeʼe baʼalak wa jeʼe bixak ku\npáajtaleʼ.\nArtículo 20\nTuláakal máak sijnal yetel u páajtalil u muchʼikuba yetel u nupikuba yetel jeʼe máaxak kaʼalikil maʼatan u\nbeetik kʼaas tiʼ mixmáak yeteleʼ.\nMixmáak unaj u beetaʼal u táakpajal tiʼ mixbaʼal yetel u nuchʼikuba yetel mixmáak wa maʼ u kʼáatiʼ.\nArtículo 21\nTiʼ tuláakal máak yaan u páajtalil u táakpajal ichil u jalaʼachil u kaajal, wa letiʼ kaʼa u beet u jalaʼachil wa\nkaʼa táakpajak tiʼal páaykunsaʼal u jalaʼchil.\nTuláakal máak sijnal u najmatmajil u táakpajal, bey jeʼe máaxak, ichil u mayej jalaʼach.\nU nij jalaʼachil jumpʼéel kaajeʼ u kajnáaliloʼob; beytunoʼ letiʼob kʼaʼabet u páaybesik u jalaʼachoʼob le ken\nkʼuchuk tu kʼiinil, tuʼux tuláakal máak unaj u tukultik tu juunal máax u kʼáat u dzáa jalaʼachil.\nArtículo 22",
-            "Image": "5eb58a7c8ff8a1cc396b1b94891800e7"
+            "Image": "5eb58a7c8ff8a1cc396b1b94891800e7",
+            "Index": 5,
+            "Label": "6",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Tuláakal máak yaan u páajtalil u tukultik jeʼe baʼalak u kʼáateʼ, jeʼe bixak u kʼáateʼ yetel u kiliʼichkuunsik\njeʼe máakaláak Kʼujil u kʼáateʼ; bey xan u kʼexik u kiliʼichkuunaj wa u tuukul jeʼe baʼalak kʼiin u kʼáateʼ,\nbeytun xan u dzáak ojeltbil u kiliʼichkuunaj yetel baʼax ku tukultik, tu juunal wa múuchʼkab, beytun tu táan\nkaaj wa tu juunal, tiʼal u kanik, u táakpajal wa u dzoʼokbesik.\nArtículo 19\nTuláakal máak yaantiʼ u páajtalil u tukultik yetel u yaʼalik le baʼax u kʼáateʼ; le najmalaʼ ku yaʼalik maʼ u\nchiʼichnak‐kuunsaʼal máak chen tu yóoʼlal bix u tuukul, beytun u xakʼal kaxantik baʼax kʼaʼabet u yojeltik, u\nkʼamik nuʼuktaj yetel u dzáak kʼajóoltbil tiʼ tuláakal yóokʼol kaab yetel jeʼe baʼalak wa jeʼe bixak ku\npáajtaleʼ.\nArtículo 20\nTuláakal máak sijnal yetel u páajtalil u muchʼikuba yetel u nupikuba yetel jeʼe máaxak kaʼalikil maʼatan u\nbeetik kʼaas tiʼ mixmáak yeteleʼ.\nMixmáak unaj u beetaʼal u táakpajal tiʼ mixbaʼal yetel u nuchʼikuba yetel mixmáak wa maʼ u kʼáatiʼ.\nArtículo 21\nTiʼ tuláakal máak yaan u páajtalil u táakpajal ichil u jalaʼachil u kaajal, wa letiʼ kaʼa u beet u jalaʼachil wa\nkaʼa táakpajak tiʼal páaykunsaʼal u jalaʼchil.\nTuláakal máak sijnal u najmatmajil u táakpajal, bey jeʼe máaxak, ichil u mayej jalaʼach.\nU nij jalaʼachil jumpʼéel kaajeʼ u kajnáaliloʼob; beytunoʼ letiʼob kʼaʼabet u páaybesik u jalaʼachoʼob le ken\nkʼuchuk tu kʼiinil, tuʼux tuláakal máak unaj u tukultik tu juunal máax u kʼáat u dzáa jalaʼachil.\nArtículo 22"
         },
         "6": {
-            "Label": "7",
-            "Index": 6,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Tuláakal máak, tumeen táakaʼan ichil jumpʼéel kaajeʼ, sijnal u najmatmajil u kaalantaʼal, yetel u\ndzaʼabaʼaltiʼ, tumeen u kaajal yetel u yáantiaj u láakʼ kaajoʼob tu yóokʼol kaabeʼ, le baʼax kʼaʼabettiʼ tiʼal u\nkuxtaleʼ, tiʼal u béeytal u kuxtal tiʼ jumpʼéel kkaj yetel u yeʼesik u chíikul u kuxtal, bey jeʼex ku\nkʼaʼabetkuunsik u tsikbeʼenil yetel u noʼojaʼanil u kuxtaleʼ.\nArtículo 23\ntuláakal máak sijnal u najmatmajil u dzaʼabal meyajtiʼ, u téetik baʼa meyajil u kʼáat u beet bey jeʼe máaxakeʼ,\nkaʼa kuxlak yetel u meyajm yetel u kaalaantaʼal maʼ u lukʼsaʼal meyajitiʼ.\nTuláakal máak sijnal u najmatmajil u náajal bey jeʼex u náajal jeʼe máaxak ku beetik jumpʼéel meyaj bey\njeʼex le ku beetikoʼ.\nTuláakal máak ku neyajeʼ sijnal u najmatmajil u boʼotaʼal le beykaʼaj ku boʼotaʼal u láakʼ máaxoʼob beetik le\nmayaj ku beetikoʼ, uchak u náajaltik nonoj u tiʼal u kuxtal maʼalob yetel kúuchkabal, kaʼa dzaʼabaktiʼ le\nbeykaʼaj kʼaʼabet tiʼal u maʼalob kuxtal bey jeʼex kʼaʼanaʼan tiʼ u tzikbeʼenil wíinikeʼ, yetel wa maʼatan u\nnáajaltik tu pʼiiseʼ, unaj u chúukbesaʼal tiʼ tumeen jalaʼach.\nTiʼ tuláakal máak yaan u páajtalil u muchʼikubáa wa u táakpajal ichil múuchʼkabaloʼob tiʼal u tokbesaʼal u\nnajmal.\nArtículo 24\nTuláakal máak u najmatmajil u chaʼabal u jeʼelel, maʼ u meyaj wa jaypʼéel kʼiin, maʼ u máan tiʼ bulkʼiin u\nmeyaj yetel u boʼotaʼal u jeʼelel wa jaypʼéel kʼiin kex maʼatan u meyaj.\nArtículo 25\nTuláakal máak sijnal u najmatmajil u kuxtal maʼalob paʼteʼ yetel u kúuchkabal, beeyxan kaʼan yanak u toj\nóolal, kaʼa kuxlakoʼob tuʼux kaʼa táanilkuunsaʼak u yantal u janaloʼob, u nookʼoʼob, u yotochoʼob, dzáak",
-            "Image": "07171a1122cfb43ea88c2e6e4bfad849"
+            "Image": "07171a1122cfb43ea88c2e6e4bfad849",
+            "Index": 6,
+            "Label": "7",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Tuláakal máak, tumeen táakaʼan ichil jumpʼéel kaajeʼ, sijnal u najmatmajil u kaalantaʼal, yetel u\ndzaʼabaʼaltiʼ, tumeen u kaajal yetel u yáantiaj u láakʼ kaajoʼob tu yóokʼol kaabeʼ, le baʼax kʼaʼabettiʼ tiʼal u\nkuxtaleʼ, tiʼal u béeytal u kuxtal tiʼ jumpʼéel kkaj yetel u yeʼesik u chíikul u kuxtal, bey jeʼex ku\nkʼaʼabetkuunsik u tsikbeʼenil yetel u noʼojaʼanil u kuxtaleʼ.\nArtículo 23\ntuláakal máak sijnal u najmatmajil u dzaʼabal meyajtiʼ, u téetik baʼa meyajil u kʼáat u beet bey jeʼe máaxakeʼ,\nkaʼa kuxlak yetel u meyajm yetel u kaalaantaʼal maʼ u lukʼsaʼal meyajitiʼ.\nTuláakal máak sijnal u najmatmajil u náajal bey jeʼex u náajal jeʼe máaxak ku beetik jumpʼéel meyaj bey\njeʼex le ku beetikoʼ.\nTuláakal máak ku neyajeʼ sijnal u najmatmajil u boʼotaʼal le beykaʼaj ku boʼotaʼal u láakʼ máaxoʼob beetik le\nmayaj ku beetikoʼ, uchak u náajaltik nonoj u tiʼal u kuxtal maʼalob yetel kúuchkabal, kaʼa dzaʼabaktiʼ le\nbeykaʼaj kʼaʼabet tiʼal u maʼalob kuxtal bey jeʼex kʼaʼanaʼan tiʼ u tzikbeʼenil wíinikeʼ, yetel wa maʼatan u\nnáajaltik tu pʼiiseʼ, unaj u chúukbesaʼal tiʼ tumeen jalaʼach.\nTiʼ tuláakal máak yaan u páajtalil u muchʼikubáa wa u táakpajal ichil múuchʼkabaloʼob tiʼal u tokbesaʼal u\nnajmal.\nArtículo 24\nTuláakal máak u najmatmajil u chaʼabal u jeʼelel, maʼ u meyaj wa jaypʼéel kʼiin, maʼ u máan tiʼ bulkʼiin u\nmeyaj yetel u boʼotaʼal u jeʼelel wa jaypʼéel kʼiin kex maʼatan u meyaj.\nArtículo 25\nTuláakal máak sijnal u najmatmajil u kuxtal maʼalob paʼteʼ yetel u kúuchkabal, beeyxan kaʼan yanak u toj\nóolal, kaʼa kuxlakoʼob tuʼux kaʼa táanilkuunsaʼak u yantal u janaloʼob, u nookʼoʼob, u yotochoʼob, dzáak"
         },
         "7": {
-            "Label": "8",
-            "Index": 7,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "yetel tuláakal baʼax kʼaʼabet tiʼal jumpʼéel maʼalob kuxtal; sijnal xan u najmatmil wa ku pʼáatal minaʼan\nmeyaj tiʼ, wa ku kʼojaʼantal, ku yúuchul loob tiʼ, ku kíimil yíicham, ku chʼíijil wa jeʼe baʼalak láak kaʼa\nlukʼestiʼ kex maʼ u káat baʼax tuʼux ku kaxtik u kuxtaleʼ.\nX‐yoʼom koʼolel yetel mejen paalaleʼ sijnal u najmatmajil u kalaantaʼaloʼob maʼalob. Tuláakal mejen paalal\nsíijil tiʼ koʼolel dzokaʼan wa maʼ dzokaʼan u beeleʼ, u najmalamj u kalaantaʼal tumeen kaaj yetel u yáantaʼal\nlíikʼil maʼalob tumeen jalaʼach.\nArtículo 26\nTuláalak máak sijnal u najmatmajil u kaambal. Le yáax kaambaloʼoboʼ kʼanaʼan maʼ u tojoltik. Le yáax\nkaambaloʼoboʼ tuláakal máak tzaaj u kʼamik. U kaambalil jumpʼéel meyajeʼ tuláakal máak xan unaj u\nkʼamik; baʼaleʼ teʼelaʼ uchak u táakpajal le máax yaan u muukʼileʼ.\nLe kaambaloʼ uchak u kaxtik u muʼukʼaʼankuunsik u tsikbeʼenil máak yetel u beetik u chíimpoltaʼal tumeen\ntuláakal máak le najmal sijnal yetel wíinikoʼ bey jeʼex le aʼalmaj tʼaanoʼoboʼ; unaj u yáantaj tiʼal u\nnaʼatikuba wíinik, u bisikuba maʼalob méekʼtan kaajoʼob, kaajoʼob, múuchʼ kiliʼichkuunsajoʼob; yetel unaj u\nyáantaj tiʼ u meyaj Naciones Unidas tiʼal u kuxtal kaajoʼob yetel jedz óolal.\nTáatatziloʼobeʼ uchak u téetikoʼob baʼax u kʼáatoʼob ka u kan u paaloʼob.\nArtículo 27\nTuláakal máak sijnal u najmatmajil u táakpajal tu tʼaan yóolaj ichil u chíikul u kuxtal u kaajal, u náaysik yóol\nyetel jadzutz meyajoʼob, u táakpajal yetel u kʼamik yutzil le xakʼal naʼatoʼoboʼ.\nTuláakal máak sijnal u najmatmajil u boʼoybesaʼal u noʼojaʼanil u kuxtal, baʼal u tiʼal, u meyaj tiʼ xakʼal\nnaʼat, u ikʼil dzíib wa jeʼe baʼalak kaʼa u meyajteʼ.\nArtículo 28",
-            "Image": "a74398bfeeed91f435a4c87d5ea58b1c"
+            "Image": "a74398bfeeed91f435a4c87d5ea58b1c",
+            "Index": 7,
+            "Label": "8",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "yetel tuláakal baʼax kʼaʼabet tiʼal jumpʼéel maʼalob kuxtal; sijnal xan u najmatmil wa ku pʼáatal minaʼan\nmeyaj tiʼ, wa ku kʼojaʼantal, ku yúuchul loob tiʼ, ku kíimil yíicham, ku chʼíijil wa jeʼe baʼalak láak kaʼa\nlukʼestiʼ kex maʼ u káat baʼax tuʼux ku kaxtik u kuxtaleʼ.\nX‐yoʼom koʼolel yetel mejen paalaleʼ sijnal u najmatmajil u kalaantaʼaloʼob maʼalob. Tuláakal mejen paalal\nsíijil tiʼ koʼolel dzokaʼan wa maʼ dzokaʼan u beeleʼ, u najmalamj u kalaantaʼal tumeen kaaj yetel u yáantaʼal\nlíikʼil maʼalob tumeen jalaʼach.\nArtículo 26\nTuláalak máak sijnal u najmatmajil u kaambal. Le yáax kaambaloʼoboʼ kʼanaʼan maʼ u tojoltik. Le yáax\nkaambaloʼoboʼ tuláakal máak tzaaj u kʼamik. U kaambalil jumpʼéel meyajeʼ tuláakal máak xan unaj u\nkʼamik; baʼaleʼ teʼelaʼ uchak u táakpajal le máax yaan u muukʼileʼ.\nLe kaambaloʼ uchak u kaxtik u muʼukʼaʼankuunsik u tsikbeʼenil máak yetel u beetik u chíimpoltaʼal tumeen\ntuláakal máak le najmal sijnal yetel wíinikoʼ bey jeʼex le aʼalmaj tʼaanoʼoboʼ; unaj u yáantaj tiʼal u\nnaʼatikuba wíinik, u bisikuba maʼalob méekʼtan kaajoʼob, kaajoʼob, múuchʼ kiliʼichkuunsajoʼob; yetel unaj u\nyáantaj tiʼ u meyaj Naciones Unidas tiʼal u kuxtal kaajoʼob yetel jedz óolal.\nTáatatziloʼobeʼ uchak u téetikoʼob baʼax u kʼáatoʼob ka u kan u paaloʼob.\nArtículo 27\nTuláakal máak sijnal u najmatmajil u táakpajal tu tʼaan yóolaj ichil u chíikul u kuxtal u kaajal, u náaysik yóol\nyetel jadzutz meyajoʼob, u táakpajal yetel u kʼamik yutzil le xakʼal naʼatoʼoboʼ.\nTuláakal máak sijnal u najmatmajil u boʼoybesaʼal u noʼojaʼanil u kuxtal, baʼal u tiʼal, u meyaj tiʼ xakʼal\nnaʼat, u ikʼil dzíib wa jeʼe baʼalak kaʼa u meyajteʼ.\nArtículo 28"
         },
         "8": {
-            "Label": "9",
-            "Index": 8,
-            "Size": [
-                595.0,
-                842.0
-            ],
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
-            "Text": "Tuláakal máak sijnal u najmatmajil u yantal u nuʼukbesajil tu kaajal wa tuláakal yóokʼol kaab tiʼal u dzaʼabal\nkʼajóoltbil yetel u dzoʼokbesaʼal le Nuʼuktaj tʼaanaʼ.\nArtículo 29\nTuláakal máak yaan u kuch uchil u kaajal tumeen chen jaʼali ichil u kaajal uchak u béeytal u dzoʼokbesik u\ntsikbeʼenileʼ.\nIkil u dzoʼokbesik u najmal yetel u kuxtal ichil le nuʼuktajoʼobaʼ, tuláakal máakeʼ chen uchak u chíimpoltik\nyetel maʼ u xaakʼabtik u xuul u tʼaan le Aʼalmaj Tʼaanoʼob tu yóoʼlal u láakʼ máakoʼoboʼ, yetel u\ndzoʼokbesaʼal u noʼojaʼanil kuxtal, u chíimpoltaʼal wíinik yetel u keet yantal u toj óolal kaaj.\nLe Najmaloʼob yetel u noʼojaʼanil kuxtalaʼ maʼatan u béeytal u dzoʼokbesaʼal wa maʼatan u chíimpoltaʼal u\nNuʼuktaj yetel u Aʼalmaj Tʼaan Naciones Unidas.\nArtículo 30\nMixbaíal tiʼ le Nuʼuktaj uchak u chʼaʼabal tumeen jalaʼach, junmúuchʼ máak wa juntúul máak tiʼal u beetik\nmixbaʼal tiʼal u weʼetʼel wa maʼ u dzoʼokbesaʼal le Nuʼuktajoʼob yetel Aʼalmaj Tʼaannoʼob ku dzaʼabal\nkʼajóoltbil tiʼ le Nuʼuktajaʼ.",
-            "Image": "e226eab80cfaea35832b576e17afa044"
+            "Image": "e226eab80cfaea35832b576e17afa044",
+            "Index": 8,
+            "Label": "9",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "Tuláakal máak sijnal u najmatmajil u yantal u nuʼukbesajil tu kaajal wa tuláakal yóokʼol kaab tiʼal u dzaʼabal\nkʼajóoltbil yetel u dzoʼokbesaʼal le Nuʼuktaj tʼaanaʼ.\nArtículo 29\nTuláakal máak yaan u kuch uchil u kaajal tumeen chen jaʼali ichil u kaajal uchak u béeytal u dzoʼokbesik u\ntsikbeʼenileʼ.\nIkil u dzoʼokbesik u najmal yetel u kuxtal ichil le nuʼuktajoʼobaʼ, tuláakal máakeʼ chen uchak u chíimpoltik\nyetel maʼ u xaakʼabtik u xuul u tʼaan le Aʼalmaj Tʼaanoʼob tu yóoʼlal u láakʼ máakoʼoboʼ, yetel u\ndzoʼokbesaʼal u noʼojaʼanil kuxtal, u chíimpoltaʼal wíinik yetel u keet yantal u toj óolal kaaj.\nLe Najmaloʼob yetel u noʼojaʼanil kuxtalaʼ maʼatan u béeytal u dzoʼokbesaʼal wa maʼatan u chíimpoltaʼal u\nNuʼuktaj yetel u Aʼalmaj Tʼaan Naciones Unidas.\nArtículo 30\nMixbaíal tiʼ le Nuʼuktaj uchak u chʼaʼabal tumeen jalaʼach, junmúuchʼ máak wa juntúul máak tiʼal u beetik\nmixbaʼal tiʼal u weʼetʼel wa maʼ u dzoʼokbesaʼal le Nuʼuktajoʼob yetel Aʼalmaj Tʼaannoʼob ku dzaʼabal\nkʼajóoltbil tiʼ le Nuʼuktajaʼ."
         }
     }
 }
