@@ -18,7 +18,7 @@ def create_script(lang , font):
         outfile.write('lConverter = p2j.pdf_to_json.pdf_to_json_converter()\n')
         outfile.write('lConverter.mImageHashOnly = True\n')
         outfile.write('lDict = lConverter.convert(url)\n')
-        outfile.write('print(json.dumps(lDict, indent=4, ensure_ascii=False))\n')
+        outfile.write('print(json.dumps(lDict, indent=4, ensure_ascii=False, sort_keys=True))\n')
 
 def process_language(lang):
     fonts = sorted(glob.glob("data/multilingual/" + lang + "/*_*"))
@@ -37,7 +37,7 @@ def process_language(lang):
             script = "data/multilingual/" + lang + "/" + font + "/pdf_to_json_test_" + tgt + ".py"
             scriptlog = "data/multilingual/" + lang + "/" + font + "/pdf_to_json_test_" + tgt + ".json"
             # create_dir_if_needed("outputs/multilingual/" + lang + "/" + font)
-            outfile.write("\t" + "-$(PYTHON) " + script + " > " + scriptlog + " 2>&1\n")
+            outfile.write("\t" + "-$(PYTHON) \"" + script + "\" > \"" + scriptlog + "\" 2>&1\n")
             tgts = tgts + [tgt]
         outfile.write("\n\n")
         outfile.write(lang + "_all : " + " ".join(tgts) + "\n")
