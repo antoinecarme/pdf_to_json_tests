@@ -6,4 +6,4 @@ url = "file:data/multilingual/Tglg.TGL/Bikol Mintz_16/udhr_Tglg.TGL_Bikol Mintz_
 lConverter = p2j.pdf_to_json.pdf_to_json_converter()
 lConverter.mImageHashOnly = True
 lDict = lConverter.convert(url)
-print(json.dumps(lDict, indent=4))
+print(json.dumps(lDict, indent=4, ensure_ascii=False))

@@ -6,4 +6,4 @@ url = "file:data/multilingual/Cher.CHR/Serif_12/udhr_Cher.CHR_Serif_12.pdf"
 lConverter = p2j.pdf_to_json.pdf_to_json_converter()
 lConverter.mImageHashOnly = True
 lDict = lConverter.convert(url)
-print(json.dumps(lDict, indent=4))
+print(json.dumps(lDict, indent=4, ensure_ascii=False))

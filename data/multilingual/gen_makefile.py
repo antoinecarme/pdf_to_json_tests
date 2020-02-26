@@ -18,7 +18,7 @@ def create_script(lang , font):
         outfile.write('lConverter = p2j.pdf_to_json.pdf_to_json_converter()\n')
         outfile.write('lConverter.mImageHashOnly = True\n')
         outfile.write('lDict = lConverter.convert(url)\n')
-        outfile.write('print(json.dumps(lDict, indent=4))\n')
+        outfile.write('print(json.dumps(lDict, indent=4, ensure_ascii=False))\n')
 
 def process_language(lang):
     fonts = sorted(glob.glob("data/multilingual/" + lang + "/*_*"))

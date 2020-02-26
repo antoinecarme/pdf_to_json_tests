@@ -19,10 +19,10 @@
                 842.0
             ],
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('EversonMono', 7.56)}",
-                "{'color': (0, 0, 0), 'font': ('Ebrima', 7.56)}"
+                "{'color': (0, 0, 0), 'font': ('Ebrima', 7.56)}",
+                "{'color': (0, 0, 0), 'font': ('EversonMono', 7.56)}"
             ],
-            "Text": "\u2019 \u2019\n' \u2019\n'\n\u2e41\n\u2019\n\u2e41\n' '\n'\n\u2019\n\u060c\n\u060c\n'\n.\n'\n'\n\u060c\n\u060c\n\u060c\n'\n'\n\u060c\n\u060c\n'\n'\n\u060c\n'\n\u060c\n'\n'\n'\n\u060c\n\u060c\n' \u060c\n. '\n'\n'\n'\n'\n'\n\u060c\n\u060c\n.\n\u060c\n\u060c\n' \u060c\n' \u060c\n'\n.\n.\n.\n.\n'\n. '\n.\n'\n'\n\u060c\n.\n. (\n'\n' ' '\n.\n\u014b ' '\n.\n.\n.\n'\n\u060c\n.\n'\n)\n.\n\u060c\n\u060c\n.\n-",
+            "Text": "’ ’\n' ’\n'\n⹁\n’\n⹁\n' '\n'\n’\n،\n،\n'\n.\n'\n'\n،\n،\n،\n'\n'\n،\n،\n'\n'\n،\n'\n،\n'\n'\n'\n،\n،\n' ،\n. '\n'\n'\n'\n'\n'\n،\n،\n.\n،\n،\n' ،\n' ،\n'\n.\n.\n.\n.\n'\n. '\n.\n'\n'\n،\n.\n. (\n'\n' ' '\n.\nŋ ' '\n.\n.\n.\n'\n،\n.\n'\n)\n.\n،\n،\n.\n-",
             "Image": "b10e61fbac1004755fbcce35703d035f"
         },
         "1": {
@@ -33,10 +33,10 @@
                 842.0
             ],
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('EversonMono', 7.56)}",
-                "{'color': (0, 0, 0), 'font': ('Ebrima', 7.56)}"
+                "{'color': (0, 0, 0), 'font': ('Ebrima', 7.56)}",
+                "{'color': (0, 0, 0), 'font': ('EversonMono', 7.56)}"
             ],
-            "Text": "'\n' '\n\u060c\n.\n.\n' \u01ad\n)\n.\n\u060c\n.\n'\n'\n'\n.\n.\n.\n' .\n\u2e41\n\u060c\n'\n'\n.\n.\n'\n.\n/\n.\n.\n'\n'\n'\n. '\n'\n\u060c\n' .\n.\n'\n.\n' .\n' '\n'\n'\n'\n.\n\u2019\n.\n' \u060c\n'\n'\n\u014b \u014b .\n' '\n\u014b .\n\u014b :\u2019\n\u014b\n'\n\u060c\n'\n\u014b\n\u060c\n.\n-\n.\n\u060c\n\u014b ' .\n\u060c\n\u060c\n' ' '\n' '\n' '\n'\n.\n.\n\u060c\n'",
+            "Text": "'\n' '\n،\n.\n.\n' ƭ\n)\n.\n،\n.\n'\n'\n'\n.\n.\n.\n' .\n⹁\n،\n'\n'\n.\n.\n'\n.\n/\n.\n.\n'\n'\n'\n. '\n'\n،\n' .\n.\n'\n.\n' .\n' '\n'\n'\n'\n.\n’\n.\n' ،\n'\n'\nŋ ŋ .\n' '\nŋ .\nŋ :’\nŋ\n'\n،\n'\nŋ\n،\n.\n-\n.\n،\nŋ ' .\n،\n،\n' ' '\n' '\n' '\n'\n.\n.\n،\n'",
             "Image": "d07cd410228e4ab7844c776febf609e3"
         },
         "2": {
@@ -49,7 +49,7 @@
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('Ebrima', 7.56)}"
             ],
-            "Text": "'\n\u060c\n'' ' .\n'\n'\n'\n'\n'",
+            "Text": "'\n،\n'' ' .\n'\n'\n'\n'\n'",
             "Image": "97da39a09ba3a97a013b181537052f77"
         }
     }
