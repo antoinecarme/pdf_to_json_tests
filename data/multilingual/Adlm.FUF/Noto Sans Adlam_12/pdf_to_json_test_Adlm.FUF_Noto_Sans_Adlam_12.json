@@ -1,0 +1,57 @@
+{
+    "MetaData": {
+        "Author": null,
+        "Creation_Date": 1582585498,
+        "Creator": "wkhtmltopdf 0.12.5",
+        "Modification_Date": -1,
+        "PDF_Version": [
+            "PDF-1.4",
+            null
+        ],
+        "Title": ""
+    },
+    "Pages": {
+        "0": {
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('NotoSansAdlam-Regular', 9.042)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.042)}"
+            ],
+            "Image": "4891dcead0653f6a0942c03bcf2a6f5c",
+            "Index": 0,
+            "Label": "1",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "'\n’\n’\n’\n'\n⹁\n’\n’\n⹁\n'\n'\n،\n'\n،\n،\n'\n'\n.\n'\n،\n،\n'\n،\n،\n،\n'\n'\n'\n،\n'\n:\n'\n-\n'\n'\n،\n'\n.\n،\n'\n'\n'\n'\n'\n'\n'\n'\n.\n' ،\n.\n'\n'\n،\n،\n،\n،\n،\n،\n' ،\n' .\n،\n.\n'\n'\n،\n.\n'\n.\n.\n.\n.\n'\n'\n.\n،\n'\n.\n' .\n'\n. (\n)\n-\n.\n' ،\n'\n'"
+        },
+        "1": {
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('NotoSansAdlam-Regular', 9.042)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.042)}"
+            ],
+            "Image": "ea71c4eb585474a4c5f8bd80da6fdfd7",
+            "Index": 1,
+            "Label": "2",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": ".\n'\n'\n'\n'\n.\n'\nŋ\n'\n.\n.\n'\n'\n،\n'\n'\n،\n.\n،\nŋ\n' .\n'\n.\n'\n.\n،\n.\n،\n.\n'\n،\n.\n'\n'\n'\n.\nƭ\n،\n' ،\n،\n،\n.\n)).\n.\n'\n'\n' .\n.\n.\n'\n' .\n.\n،\n'\n'\n⹁\n.\n'\n،\n.\n'\n'\n.\n.\n.\n'\n/\n.\n."
+        },
+        "2": {
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('NotoSansAdlam-Regular', 9.042)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.042)}"
+            ],
+            "Image": "70b16882823d4150e5f2a0db97988435",
+            "Index": 2,
+            "Label": "3",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "' .\n'\n'\n،\n.\n.\n'\n'\n'\n'\n.\n'\n.\n'\n'\n.\n'\n'\n' .\n'\n' ،\n'\n' .\n'\n.\n’\n.\n' ،\nŋ\n'\n،\n'\n‫؛‬\n'\n'\n،\n،\n،\n.\n،\n.\n'\n'\n.\nŋ\nŋ\n.\n.\nŋ\n،\n'\n:\n’\n'\nŋ\nŋ\n-\n.\n.\n،\n⹁\n’\n،\n⹁\n،\n'\n.\nŋ\n'\n.\n،\n.\n،\n،\n'\n.\n'\n'\n'\n'\n'\n'\n.\n'\n'\n.\n،\n'\nŋ\n'\n'\n'\n’\n'\n'\n،\n'\n'\n.\n’\n'\n،\n'\n'\n'\nŋ\n.\n'\n،\n'\n،\n.\n."
+        }
+    }
+}

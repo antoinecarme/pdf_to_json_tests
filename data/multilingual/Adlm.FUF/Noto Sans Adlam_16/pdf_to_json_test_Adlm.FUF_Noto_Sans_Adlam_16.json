@@ -1,0 +1,83 @@
+{
+    "MetaData": {
+        "Author": null,
+        "Creation_Date": 1582585509,
+        "Creator": "wkhtmltopdf 0.12.5",
+        "Modification_Date": -1,
+        "PDF_Version": [
+            "PDF-1.4",
+            null
+        ],
+        "Title": ""
+    },
+    "Pages": {
+        "0": {
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('NotoSansAdlam-Regular', 12.006)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.006)}"
+            ],
+            "Image": "e1967af15971fcaaa18ad0a7201d723c",
+            "Index": 0,
+            "Label": "1",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "'\n’\n’\n'\n’\n⹁\n’\n’\n⹁\n'\n'\n،\n'\n.\n'\n،\n،\n'\n'\n،\n،\n'\n،\n،\n'\n'\n،\n'\n'\n،\n:\n-\n'\n'\n'\n'\n'\n،\n'\n.\n'\n،\n.\n'\n'\n'\n'\n' ،\n'\n.\n'\n،\n،\n'\n،\n،\n،\n،\n.\n،\n.\n'\n.\n'\n،\n' ،\n'"
+        },
+        "1": {
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.006)}"
+            ],
+            "Image": "36bf7dc7859e004673514427f3c66c15",
+            "Index": 1,
+            "Label": "2",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "'\n.\n.\n.\n.\n'\n'\n.\n،\n'\n.\n'\n.\n'\n.\n' ،\n'\n'\n.(\n)\n-\n.\n'\n.\n'\nŋ\n'\n'\n.\n'\n'\n'\n'\n،\n.\n'\n،\n'\n،\n.\n' .\n'\n.\nŋ\n'\n."
+        },
+        "2": {
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('NotoSansAdlam-Regular', 12.006)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.006)}"
+            ],
+            "Image": "c615a85894751e4af7ecb0f71a56a1cc",
+            "Index": 2,
+            "Label": "3",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "،\n.\n،\n.\n'\n،\n.\n'\n'\n.\n'\nƭ،\n،\n.\n،\n،\n)\n'\n).\n.\n'\n'\n'\n.\n.\n.\n.\n،\n'\n'\n' .\n'\n⹁\n.\n'\n،\n.\n'\n'\n.\n.\n.\n'\n.\n/\n.\n' .\n'\n،"
+        },
+        "3": {
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('NotoSansAdlam-Regular', 12.006)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.006)}"
+            ],
+            "Image": "cdb64f492732c31839c163c580c5eba1",
+            "Index": 3,
+            "Label": "4",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "' .\n.\n'\n'\n'\n'\n.\n'\n.\n'\n.\n'\n' ،\n'\n' .\n'\n'\n'\n.\n'\n'\n.\n’\n.\n،\n'\n' ŋ\n‫؛‬\n،\n،\n،\n'\n،\n'\n،\n،\n.\n.\n'\n'\n'\n.\nŋ\n.\n:\n’\n،\n،\nŋ\nŋ-\n.\nŋ\n'\n'\n.\nŋ\n⹁\n’\n⹁\n،\n'\n.\n،\n.\nŋ\n'\n،\n.\n.\n'"
+        },
+        "4": {
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.006)}"
+            ],
+            "Image": "820e6ff4aad8475a2ed1b59661e7a41a",
+            "Index": 4,
+            "Label": "5",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "'\n،\n،\n.\n'\n'\n'\n'\n'\n'\n.\n'\n'\n.\n،\n'\n'\n'\n’\nŋ\n'\nŋ\n'\n' .\n'\n'\n.\n،\n،\n'\n'\n' .\n’\n.\n'\n،\n'"
+        }
+    }
+}

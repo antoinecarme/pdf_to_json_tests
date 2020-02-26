@@ -1,0 +1,43 @@
+{
+    "MetaData": {
+        "Author": null,
+        "Creation_Date": 1582585490,
+        "Creator": "wkhtmltopdf 0.12.5",
+        "Modification_Date": -1,
+        "PDF_Version": [
+            "PDF-1.4",
+            null
+        ],
+        "Title": ""
+    },
+    "Pages": {
+        "0": {
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 6.145)}",
+                "{'color': (0, 0, 0), 'font': ('NotoSansAdlam-Regular', 6.145)}"
+            ],
+            "Image": "d650327d98ba65119ca1978797fb0151",
+            "Index": 0,
+            "Label": "1",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": "’\n’\n'\n’\n’\n⹁\n'\n’\n⹁\n'\n'\n،\n'\n.\n'\n،\n،\n'\n'\n،\n'\n،\n،\n'\n'\n،\n،\n'\n،\n'\n'\n.\n،\n'\n،\n'\n،\n'\n:\n-\n'\n'\n'\n،\n،\n'\n'\n'\n'\n،\n،\n،\n' ،\n'\n.\n' ،\n'\n.\n'\n.\n،\n.\n'\n'\n،\n.\n'\n.\n.\n.\n'\n.\n'\n.\n'\n.\n'\n،\n'\n.\n.\n. (\n)\n-\n' ،\n'\n'\n.\n'\n.\n'\n'\n'\n'\nŋ\n'\n.\n.\n.\n،\nŋ\n'\n'\n'\n،\n'\n'\n،\n.\n'\n.\n،\n.\n،\n'\n،\n.\n.\n'\n'\n'\n.\nƭ\n.\n،\n،\n)\n' ،\n،\n).\n.\n'\n'\n.\n'\n'\n.\n'"
+        },
+        "1": {
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 6.145)}",
+                "{'color': (0, 0, 0), 'font': ('NotoSansAdlam-Regular', 6.145)}"
+            ],
+            "Image": "3587a35471c38816d951b8555f1daa1d",
+            "Index": 1,
+            "Label": "2",
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Text": ".\n.\n'\n'\n.\n،\n' .\n⹁\n'\n.\n،\n'\n.\n'\n'\n.\n.\n'\n.\n.\n/\n.\n،\n' .\n'\n' .\n'\n.\n'\n'\n'\n.\n'\n.\n'\n.\n' .\n'\n'\n'\n'\n' ،\n'\n.\n'\n'\n.\n’\n.\n' ،\n'\n'\nŋ\n،\n'\n‫؛‬\n،\n،\n'\n،\n،\n.\n،\n'\n'\n.\n'\n.\nŋ\n:\n’\nŋ\n.\nŋ\n'\n،\n⹁\n،\n'\nŋ\n.\n-\n.\n'\n،\n،\nŋ\n'\n.\nŋ\n⹁\n’\n.\n.\n،\n،\n.\n،\n'\n'\n'\n'\n'\n'\n.\n'\n.\n'\n'\n'\nŋ\n'\n'\n،\n'\n.\n'\n'\n'\n'\n'\n،\n.\n'\n،\n'\nŋ\n’\n.\n'\n.\n،\n’\n.\n'"
+        }
+    }
+}
