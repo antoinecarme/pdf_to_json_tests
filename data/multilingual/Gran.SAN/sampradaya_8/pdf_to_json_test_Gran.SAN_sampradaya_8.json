@@ -1,0 +1,45 @@
+{
+    "MetaData": {
+        "Title": "",
+        "Author": null,
+        "Creator": "wkhtmltopdf 0.12.5",
+        "Creation_Date": 1581503276,
+        "Modification_Date": -1,
+        "PDF_Version": [
+            "PDF-1.4",
+            null
+        ]
+    },
+    "Pages": {
+        "0": {
+            "Label": "1",
+            "Index": 0,
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 6.336)}",
+                "{'color': (0, 0, 0), 'font': ('Lohit-Devanagari', 6.336)}",
+                "{'color': (0, 0, 0), 'font': ('Sampradaya', 6.336)}"
+            ],
+            "Text": "-\n\ue400\n\u0964\n1948-1998\n-\n{\n\ue115 \ue107\n-\n-\n-\n\ue400\n}\n-\n\ue402\n-\n-\n,\n,\n,\n,\n,\n-\n,\n-\n-\n-\n\ue10c\n\ue400\n,\n\ue115\n-\n-\n\ue115\n\ue00f \ue001\n, -\n\u0964\n,\n,\n-\n,\n-\n-\n,\n,\n\ue10a\n,\n,\n-\n-\n,\n,\n,\n,\n\ue400\n\ue402,\n-\n,\n,\n-\n-\n,\n,\n\ue100\n-\n,\n-\n,\n\u0964\n\ue00c -\n217- -{3}- \ue400\n\ue103,\n\ue002\n-\n\ue401\n-\n-\n\u0964\n1\n\ue002 \ue100\n\ue400 \ue101\n,\n\ue100\n\ue111 \ue107-\n\ue100 \u0964\n-\n\ue100 \u0964\n- \ue113\n\ue402 \ue101\n\ue100 \u0964 ,\n- ,\n2\n\ue402\n\ue105-\n\ue111\n,\n\ue115\n\ue100\n,\n,\n\ue001 \ue10a\n\ue100\n-\n-\n-\n-\n-\n-\n-\n\u0964\n,\n-\ue001\n-\n,\n-\n\u0964\n3\n-\ue002\n\ue100\n-\n\ue10c\n\ue400\n\u0964\n4\n\ue107\n\ue107\n\ue109\n\u0964\n\ue108 \ue009\n\u0964\n5\n\ue00b\n\ue109\n\u0964\n6\n\ue10c\n\ue10f\n\ue109\n\ue400\n\u0964\n7\n\ue10c\n\ue10c\n\ue103\n\ue100 \u0964\n-\n\ue10c\n\ue115\n\ue10c\n,\n\ue100 \u0964\n\ue100 \u0964\n8\n-\n,\n-\n\ue001 \u0964\n9\n,\n\ue002\n,\n\ue109\n\u0964\n10\n,\n,\n,\n\ue110\n,\n\u0964\n11\n,\n\ue400\n\ue100\n\ue115\n\ue00f\n\ue115\n-\n-\n-\n-\n\ue100\n\ue402\n-\n-\n\ue00f\n\ue400\n- \ue108\n\ue00f\n\u0964\n,\n\ue400\n\ue100\n\ue400\n\ue103\n\ue115\n\ue400\n, \ue002 -\n\u0964\n\ue00f\n\ue10c\n,\n\u0964\n\u0964\n12\n\ue10c\n- \ue001\ue10c\n\u0964\n-\n\ue400\n,\n,\n-\n,\n\ue10c\n\ue400\n\u0964\n13\n\ue400\n\ue115\n\ue402\n\ue002\n\ue401\n\ue400\n\u0964\ue002\n\ue400 \ue113\n\ue002\n\ue400\n\ue100\n\ue400\n\ue001 \u0964\n[missing?]\n14\n\ue10c\n\ue401\n\ue103\n\ue100\n\ue400\ue102\n\ue400\n\ue001\n\ue400\n-\n\u0964\n\ue113 \ue115\n\ue108 \ue100\n\u0964\n[missing?]\n15\n\ue400\n\ue115\n\u0964\n\ue002\n\ue002\n\ue115\n\ue10a\n\ue002 - \ue115\n\ue400,\n-\n\ue400\n\ue400\n\ue00f\n\ue400\u0964\n[missing?]\n16\n-\n- \ue115\n-\n,\n-\n,\n\ue115\n-\ue002 \ue100 -\n\ue001 \u0964\n\ue10c\n\ue001 -\n-\n,\n\ue100\n\ue401\n-\n\ue400\n\ue400 \ue100 \u0964\n\ue100 \u0964\n\ue001 \u0964\n\ue001 ,\n\ue002\n,\n\ue103\n17\n\ue400\n-\n\ue401\n\ue002\n\ue002\n\ue400\ue002 \ue107\n-\ue002 \ue107\n\ue402 \ue400\n\ue400 \ue10a\n\ue400\n\u0964\n\ue400\u0964\n18\n\ue400\n, \ue401\n19\n\ue002\n\ue103\n\ue401\n\ue400\n\ue002\n\u0964\n\ue401\n\ue00c\n\ue002\n, \ue002\n\ue401\n\ue00c\n\ue10c\n\ue400\n\ue001\n\ue002\n\ue100\n\u0964\n,\n\ue113\n-",
+            "Image": "fb964432d1948bea3d7e571af90f26e6"
+        },
+        "1": {
+            "Label": "2",
+            "Index": 1,
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 6.336)}",
+                "{'color': (0, 0, 0), 'font': ('Lohit-Devanagari', 6.336)}",
+                "{'color': (0, 0, 0), 'font': ('Sampradaya', 6.336)}"
+            ],
+            "Text": "\ue400\n\ue002 - \ue100\n-\n\ue100\n\ue113\n\ue400\n,\n\u0964\n\ue401\n\u0964\n-\n-\n\ue001\ue10c\n,\n\ue103\n20\n\ue400\n\ue100\n\ue400\n\ue104\n\u0964\n\ue00b\n\u0964\n[missing?]\n21\n\ue002\n\ue115\n\ue400 \ue10c \ue400\n\ue400\n\ue001\n-\n\ue10c\n\ue115\n\ue400\n-\n\ue400\n\u0964\n\u0964\n;\n;\n\u0964\n22\n,\n\ue402, \ue002\n,\n-\n-\n;\n-\n, \ue002\n\ue105 \ue113 {\n\ue113 \ue107\n-\n}\n\ue108\n\u0964\n23\n\ue400\n\ue400\n-\n\ue402,\n, \ue002\n\ue400\n\ue10c\n-\n}\n\ue110\n-\ue009\n\ue100\n\ue002 -\n-\n\ue002\n\ue100 ,\n{\n\ue10c\n-\n\ue402,\n\ue400\n\ue001 \u0964\n-\n\ue10c\n\ue401\n\ue002 \ue100 - \ue400\n\ue401\n-\n\ue001 \ue107\n\ue400\n-\n\ue10c\n\ue400\n\ue402 \ue110\n-\n\ue110\n\u0964\n\ue400\n\ue402,\n\u0964\n\u0964\n-\n\ue00b\n\ue001 \u0964\n24\n-\n-\n\ue402,\n\ue110\n\ue400\n\ue001 \u0964\n25\n-\n\ue001 \u0964\n\ue400\n\ue402,\n\ue400\n\ue107\n-\n\ue100\n,\n\ue10c\n\ue107\n-\n\ue111\n,\n\ue401\n-\n\ue009\n\ue401\n-\n\ue401\n\ue108\n,\n\ue009\n\u0964\n\ue115\n\u0964 \ue103\n\ue10c \u0964\n,\n,\n,\n\ue400\n\ue10c\n\ue100 \u0964\n26\n\ue400\n,\n\ue10c\n\ue400\n,\n\ue10c\n\ue10c\n\ue115\n\ue113 \ue107\n-\n-\n\u0964\n,\n\u0964\n\ue001\n\ue10c\n\u0964\n\ue10c\n\ue10c\n\u0964\n\ue10c\n\ue401\n\u0964\n\ue115\n\ue00f\n-\n\ue402\n\ue002\n-\n\ue401\n\ue400\n,\n\u0964\n\ue104\n\ue100 -\n-\n\u0964\n\ue113\n\ue002\n\ue115\n\u0964\n27\n-\n-\n-\n\ue001 \u0964\n\ue109\n-\n\ue400\n-\n,\n\ue00b\n\ue001 ,\n\ue001\n\ue10c\n\ue400\n\ue400\n\u0964\n28\n\ue115\n\ue002\n\ue100\n\ue100\n\ue115\n-\n\ue009\n\ue401\n\ue100\n\ue400\n\u0964\n29\n\ue400\n\ue002 -\n\ue107\n-\ue002 \ue100\n\ue100 -\n\ue002\n,\n\ue002\n\ue401 -\n\ue100\n\ue112\n\ue400\n,\n\ue402\n, \ue401\n-\n\ue009\n\ue113 \ue115\n-\ue002 \ue100 -\n\ue113 \ue107\n-\ue002\n\ue100\n\ue103\n\ue108 \ue100 \ue401\n- \ue108\n1997\n,\n,\n\ue401\n\ue00f\n\ue10c\n-\n\ue10c\n\ue107\n\ue10c \ue100 \u0964\n30\n\ue115\n\ue400\u0964\n\ue109\n\u0964\n-\n\u0964\n\ue10c\n\u0964",
+            "Image": "efc4696f68235e8cecb17c3cf3646fcc"
+        }
+    }
+}

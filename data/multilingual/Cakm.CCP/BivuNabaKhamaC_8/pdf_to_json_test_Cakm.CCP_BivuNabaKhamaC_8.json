@@ -1,0 +1,41 @@
+{
+    "MetaData": {
+        "Title": "",
+        "Author": null,
+        "Creator": "wkhtmltopdf 0.12.5",
+        "Creation_Date": 1581503333,
+        "Modification_Date": -1,
+        "PDF_Version": [
+            "PDF-1.4",
+            null
+        ]
+    },
+    "Pages": {
+        "0": {
+            "Label": "1",
+            "Index": 0,
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('BivuNabaKhamaC', 2.64)}"
+            ],
+            "Text": ",\n;\n,\n;\n;\n;\n,\n;\n- ;\n-\n,\n;\n, , , , ,\n,\n,\n, ,\n;\n, ,\n,\n;\n,\n-\n,\n,\n,\n,\n,\n,\n-,",
+            "Image": "209d36b1e0d69ab7ced4b42aa6e638a5"
+        },
+        "1": {
+            "Label": "2",
+            "Index": 1,
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('BivuNabaKhamaC', 2.64)}"
+            ],
+            "Text": ",\n,\n,\n, , ,\n,\n;\n;\n,\n, ,\n;\n;\n, , ,\n, ,\n-\n,\n,\n,\n-\n,\n,\n,\n,\n,\n,",
+            "Image": "e062b14fb153e6f777d2e36e93662c39"
+        }
+    }
+}

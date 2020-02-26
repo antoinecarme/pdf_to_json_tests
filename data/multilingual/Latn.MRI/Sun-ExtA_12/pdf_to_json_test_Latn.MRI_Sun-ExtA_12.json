@@ -1,0 +1,28 @@
+{
+    "MetaData": {
+        "Title": "",
+        "Author": null,
+        "Creator": "wkhtmltopdf 0.12.5",
+        "Creation_Date": 1581469457,
+        "Modification_Date": -1,
+        "PDF_Version": [
+            "PDF-1.4",
+            null
+        ]
+    },
+    "Pages": {
+        "0": {
+            "Label": "1",
+            "Index": 0,
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 9.216)}"
+            ],
+            "Text": "WHAKAPUAKITANGA WHANUI O NGA MANA O TE TANGATA - 1948",
+            "Image": "e0a739de1d7408243712c2a0214a0e2e"
+        }
+    }
+}

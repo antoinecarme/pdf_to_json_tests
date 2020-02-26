@@ -1,0 +1,28 @@
+{
+    "MetaData": {
+        "Title": "",
+        "Author": null,
+        "Creator": "wkhtmltopdf 0.12.5",
+        "Creation_Date": 1581466672,
+        "Modification_Date": -1,
+        "PDF_Version": [
+            "PDF-1.4",
+            null
+        ]
+    },
+    "Pages": {
+        "0": {
+            "Label": "1",
+            "Index": 0,
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+            ],
+            "Text": "Ashi aents yakat muun aidaunmaya ijunjamunum, tsawan 10 de diciembre 1948 tin etsejau ainawai, juju ashi aents aidaunum uminkatin ati\ntusa. Nunu tsawantai jintiajajui chichaman dutika ashi nugkanum iwainaju ainawai, aents nii anentaibau, nii wakejamu yupichu dutikashmin\nchichajamunum ayamkagtaun. Tuja tiaju ainawai: Juju chicham pegkeg jintiagmawa juka juwig nagkankashti, ashi nugkanum dapampaejati,\nyakat muun aidaunum, yakat piipich aidaunmashkam, papi aujtainmash ashi tutinjati tiajui. Tuja papinum agajag sujuktinme tiajui ashi aents\naidau aujus dekatnume tusa. Makichkish ugkamuk atsuti tiajui.",
+            "Image": "67cfb65d73171da2eeba727852471698"
+        }
+    }
+}

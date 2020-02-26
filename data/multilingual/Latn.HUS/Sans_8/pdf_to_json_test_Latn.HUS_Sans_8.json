@@ -1,0 +1,28 @@
+{
+    "MetaData": {
+        "Title": "",
+        "Author": null,
+        "Creator": "wkhtmltopdf 0.12.5",
+        "Creation_Date": 1581468389,
+        "Modification_Date": -1,
+        "PDF_Version": [
+            "PDF-1.4",
+            null
+        ]
+    },
+    "Pages": {
+        "0": {
+            "Label": "1",
+            "Index": 0,
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 6.336)}"
+            ],
+            "Text": "DH\u00c9Y TSALAP ABAL PATAL AN INIK ANI AN UXUM AXI K'WAJ\u00cdL TI AL AN TSAB\u00c1L\nONU ti al an tamub 1948.",
+            "Image": "82e2268e6ca1c3719f775e81fd594219"
+        }
+    }
+}

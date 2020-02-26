@@ -1,0 +1,28 @@
+{
+    "MetaData": {
+        "Title": "",
+        "Author": null,
+        "Creator": "wkhtmltopdf 0.12.5",
+        "Creation_Date": 1581468098,
+        "Modification_Date": -1,
+        "PDF_Version": [
+            "PDF-1.4",
+            null
+        ]
+    },
+    "Pages": {
+        "0": {
+            "Label": "1",
+            "Index": 0,
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Sun-ExtA', 6.336)}"
+            ],
+            "Text": "DEARBH\u00da UILE-CHOITEANN CEARTA AN DUINE",
+            "Image": "c5add8444d494ba4c7c7bcaca395602e"
+        }
+    }
+}

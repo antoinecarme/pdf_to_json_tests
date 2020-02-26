@@ -1,0 +1,28 @@
+{
+    "MetaData": {
+        "Title": "",
+        "Author": null,
+        "Creator": "wkhtmltopdf 0.12.5",
+        "Creation_Date": 1581466606,
+        "Modification_Date": -1,
+        "PDF_Version": [
+            "PDF-1.4",
+            null
+        ]
+    },
+    "Pages": {
+        "0": {
+            "Label": "1",
+            "Index": 0,
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 6.336)}"
+            ],
+            "Text": "10 kintati, diciembre nantuti, 1948 musachtin apu ainau iruntrar, tu aarmi tusar, nunia aarar mash nungkanam pujuinau angkan pengker pujusarti tusar aararmiayi.\nNu aarmauka aints ainau mash ausarti tusar ju papinum aarmawaitai. Nu aarmauka umisar, apu ainau iruntrar chichainak: Iinu nungkarin nu aarmauka mash escuela iruntramunam pacbitsuk ausartinuitai, tura\nnuna pachisar chichasartinuitai, tura tu awai tusar nekamtikiawartinuitji, tiarmiayi.",
+            "Image": "93af081db642d9dbb5b2b3068a0bb5eb"
+        }
+    }
+}

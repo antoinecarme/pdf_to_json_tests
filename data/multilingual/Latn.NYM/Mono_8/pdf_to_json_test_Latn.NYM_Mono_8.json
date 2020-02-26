@@ -1,0 +1,28 @@
+{
+    "MetaData": {
+        "Title": "",
+        "Author": null,
+        "Creator": "wkhtmltopdf 0.12.5",
+        "Creation_Date": 1581469691,
+        "Modification_Date": -1,
+        "PDF_Version": [
+            "PDF-1.4",
+            null
+        ]
+    },
+    "Pages": {
+        "0": {
+            "Label": "1",
+            "Index": 0,
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 6.336)}"
+            ],
+            "Text": "IHANO LYA MAHANGA LYA HAKI YA BANHU\nWANDYO\nTarehe 18 Desemba 1948, Ibanza lya Mahanga lyatula lya Mahanga lya Haki ja banhu lya bahenga aha Bulugu wa I na wa II wa muwelelo wamala.\nIbanza linilo lyalagiliaj kul\u2019insi iyo yilonga kulisambaja ku banhu bse balibone, balisome, basomelwe, balisomele, balisambaje mu mashule,\nuko buhangagwe bila kwangalila siyasa n\u2019ishi umo yujilaga.\nNhambi ya Malagilo na Haki ja Banhu Tanzania chafunya kitabu kiniki ku nguno ya kwangalila na kubona lilifwatwa na kulabandwa na banhu,\nselekali na mashilika.\nIbanza lya Mahanga lyatangaja kubi banhu bose bubyalagwa na haki zilinganelile. I haki jiniji zimanichage, ja kuwako, zilangaje ku banhu\nbose.\nKofi Annan\nSecretary General",
+            "Image": "207a6162b24e7b3835dffdc576a47711"
+        }
+    }
+}

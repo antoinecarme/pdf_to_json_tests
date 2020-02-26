@@ -1,0 +1,54 @@
+{
+    "MetaData": {
+        "Title": "",
+        "Author": null,
+        "Creator": "wkhtmltopdf 0.12.5",
+        "Creation_Date": 1581503340,
+        "Modification_Date": -1,
+        "PDF_Version": [
+            "PDF-1.4",
+            null
+        ]
+    },
+    "Pages": {
+        "0": {
+            "Label": "1",
+            "Index": 0,
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('BivuNabaKhamaC', 3.84)}"
+            ],
+            "Text": ",\n;\n,\n;\n;\n;\n,\n;\n- ;\n-\n,\n;\n, , , , ,\n,\n,\n, ,\n;\n, ,\n,\n;\n,\n-",
+            "Image": "54051a9e945b846070ca4231060ce249"
+        },
+        "1": {
+            "Label": "2",
+            "Index": 1,
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('BivuNabaKhamaC', 3.84)}"
+            ],
+            "Text": ",\n,\n,\n,\n,\n,\n-,\n,\n,\n,\n, , ,\n,\n;\n;\n,\n, ,\n;",
+            "Image": "dfbaca3019a49be5e94e8b3cff1b3b0b"
+        },
+        "2": {
+            "Label": "3",
+            "Index": 2,
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('BivuNabaKhamaC', 3.84)}"
+            ],
+            "Text": ";\n, , ,\n, ,\n-\n,\n,\n,\n-\n,\n,\n,\n,\n,\n,",
+            "Image": "ebf3df4c71fb84b96b1060b191d54ca5"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "MetaData": {
+        "Title": "",
+        "Author": null,
+        "Creator": "wkhtmltopdf 0.12.5",
+        "Creation_Date": 1581467367,
+        "Modification_Date": -1,
+        "PDF_Version": [
+            "PDF-1.4",
+            null
+        ]
+    },
+    "Pages": {
+        "0": {
+            "Label": "1",
+            "Index": 0,
+            "Size": [
+                595.0,
+                842.0
+            ],
+            "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+            ],
+            "Text": "Delaraci\u00f6' Ki' DERECHO H Ki' la' la k\u00f6\u00f6 jmu guue k\u00ed\u00e4 gu\u00eda' su'\nDiciembre 1948",
+            "Image": "b5b35d0a88b3679df83a34c6db9fb79b"
+        }
+    }
+}
