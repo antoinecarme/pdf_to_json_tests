@@ -6,4 +6,4 @@ url = "file:data/multilingual/Java.JAV/Javanese Text_8/udhr_Java.JAV_Javanese Te
 lConverter = p2j.pdf_to_json.pdf_to_json_converter()
 lConverter.mImageHashOnly = True
 lDict = lConverter.convert(url)
-print(json.dumps(lDict, indent=4, ensure_ascii=False))
+print(json.dumps(lDict, indent=4, ensure_ascii=False, sort_keys=True))
