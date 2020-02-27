@@ -13,8 +13,8 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
             ],
             "Image": "0aa175a3c3a80339c49f24e5716d5949",
             "Index": 0,
@@ -27,8 +27,8 @@
         },
         "1": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
             ],
             "Image": "556b9bda1e161f6f8f6f4f0bdca45e7d",
             "Index": 1,
@@ -41,8 +41,8 @@
         },
         "2": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
             ],
             "Image": "40d97f18152780abda4ba47fe23b3a72",
             "Index": 2,
@@ -55,8 +55,8 @@
         },
         "3": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
             ],
             "Image": "4a2d96d374f9bc21440753a419284296",
             "Index": 3,
@@ -69,8 +69,8 @@
         },
         "4": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
             ],
             "Image": "8e7c31501de072d693c1f2c4fae285d2",
             "Index": 4,

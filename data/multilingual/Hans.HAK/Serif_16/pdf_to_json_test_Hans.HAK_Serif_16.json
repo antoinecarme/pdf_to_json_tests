@@ -14,8 +14,8 @@
         "0": {
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('SimSun', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('MS-Mincho', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('MS-Mincho', 12.096)}"
             ],
             "Image": "62c9282c692314b5c7a12a132e066bde",
             "Index": 0,
@@ -43,8 +43,8 @@
         "2": {
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('SimSun', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('MS-Mincho', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('MS-Mincho', 12.096)}"
             ],
             "Image": "9b17a6c13bb5e59407b131db1ebcc14c",
             "Index": 2,

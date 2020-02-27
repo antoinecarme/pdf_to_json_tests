@@ -13,8 +13,8 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('CourierNewPSMT', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('CourierNewPSMT', 12.096)}"
             ],
             "Image": "503f5a0b20fc65e5431914327d2dd930",
             "Index": 0,
@@ -27,8 +27,8 @@
         },
         "1": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('CourierNewPSMT', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('CourierNewPSMT', 12.096)}"
             ],
             "Image": "3db1825bbff35816c4a591c90c429c3d",
             "Index": 1,
@@ -41,8 +41,8 @@
         },
         "2": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('CourierNewPSMT', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('CourierNewPSMT', 12.096)}"
             ],
             "Image": "31a94509d1a170415ae1bd1c818a1f32",
             "Index": 2,
@@ -55,8 +55,8 @@
         },
         "3": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('CourierNewPSMT', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('CourierNewPSMT', 12.096)}"
             ],
             "Image": "4a59a30ebf87e90a526e8255545f72e5",
             "Index": 3,
@@ -69,8 +69,8 @@
         },
         "4": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('CourierNewPSMT', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('CourierNewPSMT', 12.096)}"
             ],
             "Image": "9ebf80614f66ff6c98934ed97c78fc8b",
             "Index": 4,
@@ -83,8 +83,8 @@
         },
         "5": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('CourierNewPSMT', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('CourierNewPSMT', 12.096)}"
             ],
             "Image": "fb27837110221a77fe5dd3cb38eb9907",
             "Index": 5,

@@ -13,8 +13,8 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('NanumGothicCoding', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('NanumGothicCoding', 9.216)}"
             ],
             "Image": "4a99cb0cc8a554f2f8c9f31adeac5e59",
             "Index": 0,
@@ -27,8 +27,8 @@
         },
         "1": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('NanumGothicCoding', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('NanumGothicCoding', 9.216)}"
             ],
             "Image": "e0625ab0f42de776babf201ec0ba15d0",
             "Index": 1,
@@ -41,8 +41,8 @@
         },
         "2": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('NanumGothicCoding', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('NanumGothicCoding', 9.216)}"
             ],
             "Image": "4028e52483796e78e77c62f0e47da7d3",
             "Index": 2,

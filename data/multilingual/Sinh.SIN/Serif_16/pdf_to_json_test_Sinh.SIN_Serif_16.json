@@ -13,8 +13,8 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('FreeSerif', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('FreeSerif', 12.096)}"
             ],
             "Image": "a24a4635e0acf2d34878b6ceae8c5470",
             "Index": 0,
@@ -27,8 +27,8 @@
         },
         "1": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('FreeSerif', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('FreeSerif', 12.096)}"
             ],
             "Image": "e7e0285095680d6ad0aa905120018bc1",
             "Index": 1,
@@ -41,8 +41,8 @@
         },
         "2": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('FreeSerif', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('FreeSerif', 12.096)}"
             ],
             "Image": "38ede0a99ec3fae859715cbceaa34a2f",
             "Index": 2,
@@ -55,8 +55,8 @@
         },
         "3": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('FreeSerif', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('FreeSerif', 12.096)}"
             ],
             "Image": "f23b67542d7dc7b88d8efe93ff85ea1b",
             "Index": 3,
@@ -69,8 +69,8 @@
         },
         "4": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('FreeSerif', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('FreeSerif', 12.096)}"
             ],
             "Image": "7c2eaee15acbb465aa7b13a5a4f0e41b",
             "Index": 4,

@@ -13,8 +13,8 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 5.76)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 5.76)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 5.76)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 5.76)}"
             ],
             "Image": "81e3ab464c530e23602e4b36be5f95e5",
             "Index": 0,
@@ -27,8 +27,8 @@
         },
         "1": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 5.76)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 5.76)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 5.76)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 5.76)}"
             ],
             "Image": "780f69f2f9566c1b9705ad9d712eb60f",
             "Index": 1,
@@ -41,8 +41,8 @@
         },
         "2": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 5.76)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 5.76)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 5.76)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 5.76)}"
             ],
             "Image": "2f41aa8dffa8b7b879d87341307e775a",
             "Index": 2,

@@ -13,9 +13,9 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sampradaya', 6.336)}",
+                "{'color': (0, 0, 0), 'font': ('Lohit-Devanagari', 6.336)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 6.336)}",
-                "{'color': (0, 0, 0), 'font': ('Lohit-Devanagari', 6.336)}"
+                "{'color': (0, 0, 0), 'font': ('Sampradaya', 6.336)}"
             ],
             "Image": "fb964432d1948bea3d7e571af90f26e6",
             "Index": 0,

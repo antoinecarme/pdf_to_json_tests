@@ -13,9 +13,9 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('Lohit-Kannada', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
             ],
             "Image": "30c2e810aa30ae53bab5b8a96ba0e681",
             "Index": 0,
@@ -28,8 +28,8 @@
         },
         "1": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Lohit-Kannada', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('Lohit-Kannada', 9.216)}"
             ],
             "Image": "bfeb9dad70ddc0ba1bd066f8a9f3f8f4",
             "Index": 1,
@@ -42,8 +42,8 @@
         },
         "2": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Lohit-Kannada', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('Lohit-Kannada', 9.216)}"
             ],
             "Image": "cb1d9e371523d64b71d575def4a54320",
             "Index": 2,
@@ -56,8 +56,8 @@
         },
         "3": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Lohit-Kannada', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('Lohit-Kannada', 9.216)}"
             ],
             "Image": "6160c8ced1b538b59df8e375c63320f6",
             "Index": 3,
@@ -70,8 +70,8 @@
         },
         "4": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Lohit-Kannada', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('Lohit-Kannada', 9.216)}"
             ],
             "Image": "6f6080b66b59465653f5cf9dce4425c0",
             "Index": 4,
@@ -84,8 +84,8 @@
         },
         "5": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Lohit-Kannada', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('Lohit-Kannada', 9.216)}"
             ],
             "Image": "8047bd1cc3027af4eab0d9f31d2fab00",
             "Index": 5,

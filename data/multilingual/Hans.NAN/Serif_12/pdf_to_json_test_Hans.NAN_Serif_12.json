@@ -13,9 +13,9 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('SimSun', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('MS-Mincho', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('SimSun', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 9.216)}"
             ],
             "Image": "50870f08c289fd8970202594c14b5954",
             "Index": 0,
@@ -28,9 +28,9 @@
         },
         "1": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('SimSun', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('MS-Mincho', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('SimSun', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 9.216)}"
             ],
             "Image": "1648597860f555daa5e0249ecf324d0a",
             "Index": 1,
@@ -43,8 +43,8 @@
         },
         "2": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('MS-Mincho', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('SimSun', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('SimSun', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('MS-Mincho', 9.216)}"
             ],
             "Image": "1f02144bc992b6c82bed5313f8458128",
             "Index": 2,

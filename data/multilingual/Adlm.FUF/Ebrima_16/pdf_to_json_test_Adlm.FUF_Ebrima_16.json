@@ -13,8 +13,8 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Ebrima', 7.56)}",
-                "{'color': (0, 0, 0), 'font': ('EversonMono', 7.56)}"
+                "{'color': (0, 0, 0), 'font': ('EversonMono', 7.56)}",
+                "{'color': (0, 0, 0), 'font': ('Ebrima', 7.56)}"
             ],
             "Image": "b10e61fbac1004755fbcce35703d035f",
             "Index": 0,
@@ -27,8 +27,8 @@
         },
         "1": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Ebrima', 7.56)}",
-                "{'color': (0, 0, 0), 'font': ('EversonMono', 7.56)}"
+                "{'color': (0, 0, 0), 'font': ('EversonMono', 7.56)}",
+                "{'color': (0, 0, 0), 'font': ('Ebrima', 7.56)}"
             ],
             "Image": "d07cd410228e4ab7844c776febf609e3",
             "Index": 1,

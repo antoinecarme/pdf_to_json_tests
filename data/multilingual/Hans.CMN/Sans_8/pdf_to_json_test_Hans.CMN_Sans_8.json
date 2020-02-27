@@ -13,10 +13,10 @@
     "Pages": {
         "0": {
             "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 6.336)}",
                 "{'color': (0, 0, 0), 'font': ('MicrosoftYaHei', 6.336)}",
-                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 6.336)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 6.336)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 6.336)}"
+                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 6.336)}"
             ],
             "Image": "736b74a9012efd9b5fc613532bc28340",
             "Index": 0,
@@ -30,8 +30,8 @@
         "1": {
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('MicrosoftYaHei', 6.336)}",
-                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 6.336)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 6.336)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 6.336)}",
+                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 6.336)}"
             ],
             "Image": "7df605d65b79293ef280eff92a223295",
             "Index": 1,
@@ -44,9 +44,9 @@
         },
         "2": {
             "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('MicrosoftYaHei', 6.336)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 6.336)}",
-                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 6.336)}",
-                "{'color': (0, 0, 0), 'font': ('MicrosoftYaHei', 6.336)}"
+                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 6.336)}"
             ],
             "Image": "7f129f9f30cf3a9e4b8184694902eac0",
             "Index": 2,

@@ -13,9 +13,9 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('MicrosoftYaHei', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 9.216)}"
             ],
             "Image": "c11d9746db83361110063db268101cb1",
             "Index": 0,
@@ -28,8 +28,8 @@
         },
         "1": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('MicrosoftYaHei', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('MicrosoftYaHei', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 9.216)}"
             ],
             "Image": "4fa17811c096a5c2fc9a7bfc8d679ef4",
             "Index": 1,
@@ -42,9 +42,9 @@
         },
         "2": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('MicrosoftYaHei', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 9.216)}"
             ],
             "Image": "4a0116ab438aceecb1c5a92f876dfecc",
             "Index": 2,
@@ -57,8 +57,8 @@
         },
         "3": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('MicrosoftYaHei', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('MicrosoftYaHei', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 9.216)}"
             ],
             "Image": "9c514abdc3c2bdb8e6d0d179551845c0",
             "Index": 3,
@@ -71,8 +71,8 @@
         },
         "4": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('MicrosoftYaHei', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('MicrosoftYaHei', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 9.216)}"
             ],
             "Image": "60a73cf96eaf5d95504e9099051d0350",
             "Index": 4,

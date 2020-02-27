@@ -13,8 +13,8 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Lohit-Devanagari', 6.336)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 6.336)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 6.336)}",
+                "{'color': (0, 0, 0), 'font': ('Lohit-Devanagari', 6.336)}"
             ],
             "Image": "8d48f7c5e26674f56122df1d0553a0a4",
             "Index": 0,
@@ -27,9 +27,9 @@
         },
         "1": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Lohit-Devanagari', 6.336)}",
                 "{'color': (0, 0, 0), 'font': ('muktinarrow', 6.336)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 6.336)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 6.336)}",
+                "{'color': (0, 0, 0), 'font': ('Lohit-Devanagari', 6.336)}"
             ],
             "Image": "0c0fb8d8f5fa430e5a7cc6195bf14554",
             "Index": 1,
@@ -42,8 +42,8 @@
         },
         "2": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Lohit-Devanagari', 6.336)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 6.336)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 6.336)}",
+                "{'color': (0, 0, 0), 'font': ('Lohit-Devanagari', 6.336)}"
             ],
             "Image": "01b25105d6978bccef019ecb77da8406",
             "Index": 2,

@@ -13,9 +13,9 @@
     "Pages": {
         "0": {
             "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 6.336)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 6.336)}",
-                "{'color': (0, 0, 0), 'font': ('Lohit-Kannada', 6.336)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 6.336)}"
+                "{'color': (0, 0, 0), 'font': ('Lohit-Kannada', 6.336)}"
             ],
             "Image": "6fa3f3b787f9de6ccac725fa7a8c3e50",
             "Index": 0,

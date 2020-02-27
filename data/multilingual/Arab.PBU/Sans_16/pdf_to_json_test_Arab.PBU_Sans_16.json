@@ -13,9 +13,9 @@
     "Pages": {
         "0": {
             "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 7.56)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 7.56)}",
-                "{'color': (0, 0, 0), 'font': ('ArialMT', 7.56)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 7.56)}"
+                "{'color': (0, 0, 0), 'font': ('ArialMT', 7.56)}"
             ],
             "Image": "dc825754a266a5a4b55325d9dc189cf4",
             "Index": 0,
@@ -28,9 +28,9 @@
         },
         "1": {
             "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 7.56)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 7.56)}",
-                "{'color': (0, 0, 0), 'font': ('ArialMT', 7.56)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 7.56)}"
+                "{'color': (0, 0, 0), 'font': ('ArialMT', 7.56)}"
             ],
             "Image": "7081ff744dbbe80c8402fcbc52b44f4e",
             "Index": 1,
@@ -43,9 +43,9 @@
         },
         "2": {
             "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 7.56)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 7.56)}",
-                "{'color': (0, 0, 0), 'font': ('ArialMT', 7.56)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 7.56)}"
+                "{'color': (0, 0, 0), 'font': ('ArialMT', 7.56)}"
             ],
             "Image": "3a79c2c58372647c0a8a9f72d81db6a6",
             "Index": 2,
@@ -58,9 +58,9 @@
         },
         "3": {
             "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 7.56)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 7.56)}",
-                "{'color': (0, 0, 0), 'font': ('ArialMT', 7.56)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 7.56)}"
+                "{'color': (0, 0, 0), 'font': ('ArialMT', 7.56)}"
             ],
             "Image": "12efdf1cef98186e3503931d740c0c8c",
             "Index": 3,

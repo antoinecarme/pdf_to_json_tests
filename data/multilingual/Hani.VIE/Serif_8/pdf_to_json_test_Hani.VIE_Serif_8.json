@@ -13,9 +13,9 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('SimSun', 6.336)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 6.336)}",
-                "{'color': (0, 0, 0), 'font': ('MS-Mincho', 6.336)}"
+                "{'color': (0, 0, 0), 'font': ('MS-Mincho', 6.336)}",
+                "{'color': (0, 0, 0), 'font': ('SimSun', 6.336)}"
             ],
             "Image": "431e98b934f4143e78e91c7d3e64c16e",
             "Index": 0,
@@ -28,9 +28,9 @@
         },
         "1": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('SimSun', 6.336)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 6.336)}",
-                "{'color': (0, 0, 0), 'font': ('MS-Mincho', 6.336)}"
+                "{'color': (0, 0, 0), 'font': ('MS-Mincho', 6.336)}",
+                "{'color': (0, 0, 0), 'font': ('SimSun', 6.336)}"
             ],
             "Image": "f96844d41b797afc30113e8f6b6ee236",
             "Index": 1,

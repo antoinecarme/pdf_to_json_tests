@@ -13,8 +13,8 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('Code2000', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('Code2000', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 9.216)}"
             ],
             "Image": "e4a1961d05f828339ce7d485c2236118",
             "Index": 0,
@@ -27,8 +27,8 @@
         },
         "1": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('Code2000', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('Code2000', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 9.216)}"
             ],
             "Image": "1ecd337bbda5dc883a4344a2bd55cff7",
             "Index": 1,
@@ -41,8 +41,8 @@
         },
         "2": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('Code2000', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('Code2000', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 9.216)}"
             ],
             "Image": "8e60ab703e153eb38c6ee7019ec36de5",
             "Index": 2,

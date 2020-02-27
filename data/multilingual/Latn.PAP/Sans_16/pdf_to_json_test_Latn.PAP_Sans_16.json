@@ -52,8 +52,8 @@
         },
         "3": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
             "Image": "70ccd2975d8f9664f01dce62d8a7509a",
             "Index": 3,

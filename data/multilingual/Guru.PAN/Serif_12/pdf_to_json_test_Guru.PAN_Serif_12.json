@@ -13,8 +13,8 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('FreeSerif', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('FreeSerif', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 9.216)}"
             ],
             "Image": "4434390eff0f80b4ff8c701e7ea65ecb",
             "Index": 0,
@@ -27,9 +27,9 @@
         },
         "1": {
             "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('FreeSerif', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('muktinarrow', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('FreeSerif', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('muktinarrow', 9.216)}"
             ],
             "Image": "d2e425c6ec2587654c085bda7de96c5f",
             "Index": 1,
@@ -42,8 +42,8 @@
         },
         "2": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('FreeSerif', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('FreeSerif', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 9.216)}"
             ],
             "Image": "fc666cb8324222caefaf173ba754cf69",
             "Index": 2,
@@ -56,8 +56,8 @@
         },
         "3": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('FreeSerif', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('FreeSerif', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 9.216)}"
             ],
             "Image": "9185f6a1cb74365a99d93d1682b2b4f8",
             "Index": 3,

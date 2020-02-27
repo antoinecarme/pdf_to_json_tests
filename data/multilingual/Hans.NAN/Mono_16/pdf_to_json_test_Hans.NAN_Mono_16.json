@@ -14,8 +14,8 @@
         "0": {
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('MS-Gothic', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('NSimSun', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('NSimSun', 12.096)}"
             ],
             "Image": "685426ca81531b53cda61c70745d74e8",
             "Index": 0,
@@ -29,8 +29,8 @@
         "1": {
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('MS-Gothic', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('NSimSun', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('NSimSun', 12.096)}"
             ],
             "Image": "be66979aba450c8cb73d11b90f0a59f2",
             "Index": 1,

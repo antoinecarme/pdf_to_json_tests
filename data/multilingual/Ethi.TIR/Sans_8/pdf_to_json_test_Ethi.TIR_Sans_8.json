@@ -13,9 +13,9 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 6.336)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 6.336)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 6.336)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 6.336)}",
+                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 6.336)}"
             ],
             "Image": "0fefe4db2ed0001b4f76c501de0162c1",
             "Index": 0,
@@ -28,9 +28,9 @@
         },
         "1": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 6.336)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 6.336)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 6.336)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 6.336)}",
+                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 6.336)}"
             ],
             "Image": "c49cdf743121dfc21fa8e93b2e771a8e",
             "Index": 1,
@@ -43,9 +43,9 @@
         },
         "2": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 6.336)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 6.336)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 6.336)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 6.336)}",
+                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 6.336)}"
             ],
             "Image": "c10b76d1208d5e75c9d90f0aa80ae872",
             "Index": 2,
@@ -58,8 +58,8 @@
         },
         "3": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 6.336)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 6.336)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 6.336)}",
+                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 6.336)}"
             ],
             "Image": "c08dac35b45a26870f295ae684bdda1d",
             "Index": 3,

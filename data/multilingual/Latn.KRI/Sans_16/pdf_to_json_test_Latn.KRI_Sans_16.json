@@ -55,8 +55,8 @@
         },
         "3": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
             "Image": "2bf80df2e93ecf6b2f82dcf13b8ed3ab",
             "Index": 3,
@@ -69,8 +69,8 @@
         },
         "4": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
             "Image": "d330bf5e372ee96ebebe3586674baaa7",
             "Index": 4,
@@ -97,8 +97,8 @@
         },
         "6": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
             ],
             "Image": "35f61553fcddbe2c003ef51ccff6f29d",
             "Index": 6,

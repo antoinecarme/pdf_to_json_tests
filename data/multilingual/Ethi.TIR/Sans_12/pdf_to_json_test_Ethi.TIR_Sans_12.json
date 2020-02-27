@@ -14,8 +14,8 @@
         "0": {
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
             ],
             "Image": "45ab94969d7067f7f9468bf158224632",
             "Index": 0,
@@ -29,8 +29,8 @@
         "1": {
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
             ],
             "Image": "aefe43452dd9cf98291ae15f5535ee12",
             "Index": 1,
@@ -44,8 +44,8 @@
         "2": {
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
             ],
             "Image": "e58a3a77c44718230d6ebeeceab6f0fb",
             "Index": 2,
@@ -59,8 +59,8 @@
         "3": {
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 9.216)}"
             ],
             "Image": "b88f4adc0619dff2163988130d135aad",
             "Index": 3,

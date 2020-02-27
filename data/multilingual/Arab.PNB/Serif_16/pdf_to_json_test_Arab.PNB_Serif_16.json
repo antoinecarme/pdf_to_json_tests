@@ -41,8 +41,8 @@
         },
         "2": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 7.56)}",
-                "{'color': (0, 0, 0), 'font': ('FreeSerif', 7.56)}"
+                "{'color': (0, 0, 0), 'font': ('FreeSerif', 7.56)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 7.56)}"
             ],
             "Image": "332d80d930a9d36a476b8d7ae83a1ce5",
             "Index": 2,

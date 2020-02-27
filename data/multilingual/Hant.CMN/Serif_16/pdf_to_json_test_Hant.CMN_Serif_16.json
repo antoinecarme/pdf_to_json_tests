@@ -13,9 +13,9 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('MS-Mincho', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('SimSun', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('SimSun', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('MS-Mincho', 12.096)}"
             ],
             "Image": "cebc870b0e4ff88395201de9cdbba5e3",
             "Index": 0,
@@ -28,8 +28,8 @@
         },
         "1": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('MS-Mincho', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('SimSun', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('SimSun', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('MS-Mincho', 12.096)}"
             ],
             "Image": "70e877e3864ec8f77cd4f175035e5e3a",
             "Index": 1,
@@ -42,8 +42,8 @@
         },
         "2": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('MS-Mincho', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('SimSun', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('SimSun', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('MS-Mincho', 12.096)}"
             ],
             "Image": "84954b0324ef6a29bf9a60f5d398173e",
             "Index": 2,
@@ -56,8 +56,8 @@
         },
         "3": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('MS-Mincho', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('SimSun', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('SimSun', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('MS-Mincho', 12.096)}"
             ],
             "Image": "0b8e3ed80fb6820588912407f4286494",
             "Index": 3,

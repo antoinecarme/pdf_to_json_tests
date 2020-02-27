@@ -13,8 +13,8 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 9.216)}"
             ],
             "Image": "bbde93b89645aa3d93a0199805440a31",
             "Index": 0,
@@ -27,8 +27,8 @@
         },
         "1": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 9.216)}"
             ],
             "Image": "9990ebf632473141fa03716faf932678",
             "Index": 1,
@@ -41,8 +41,8 @@
         },
         "2": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 9.216)}",
+                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 9.216)}"
             ],
             "Image": "dfcaa79633cf1219c221f41976a2b61a",
             "Index": 2,

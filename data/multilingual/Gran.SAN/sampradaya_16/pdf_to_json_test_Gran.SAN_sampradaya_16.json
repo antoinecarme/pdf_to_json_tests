@@ -13,9 +13,9 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sampradaya', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('Lohit-Devanagari', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('Sampradaya', 12.096)}"
             ],
             "Image": "6c44ab8cd59fd21d398cd091ef5ce4c5",
             "Index": 0,
@@ -28,9 +28,9 @@
         },
         "1": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sampradaya', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('Lohit-Devanagari', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('Sampradaya', 12.096)}"
             ],
             "Image": "1cf59bfbcd8b2ec1a41f6ac4cf386878",
             "Index": 1,
@@ -43,9 +43,9 @@
         },
         "2": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sampradaya', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('Lohit-Devanagari', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('Sampradaya', 12.096)}"
             ],
             "Image": "6523f6e7b0f25604b4a5d3a89e98465e",
             "Index": 2,
@@ -58,9 +58,9 @@
         },
         "3": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sampradaya', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('Lohit-Devanagari', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('Sampradaya', 12.096)}"
             ],
             "Image": "9f60aedf1f0b705bdc37da787821ed21",
             "Index": 3,
@@ -73,9 +73,9 @@
         },
         "4": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Sampradaya', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('Lohit-Devanagari', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('Sampradaya', 12.096)}"
             ],
             "Image": "ec94076e9ca7437fc47051ff2afd55f8",
             "Index": 4,

@@ -13,9 +13,9 @@
     "Pages": {
         "0": {
             "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('MS-Mincho', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('SimSun', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('SimSun', 9.216)}"
             ],
             "Image": "54d228aefe6f497c502ca5e78e3a13d6",
             "Index": 0,

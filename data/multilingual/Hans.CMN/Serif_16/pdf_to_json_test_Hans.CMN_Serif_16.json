@@ -13,9 +13,9 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('MS-Mincho', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('SimSun', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('SimSun', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('MS-Mincho', 12.096)}"
             ],
             "Image": "a01eb1926051cb5c3ffaab21e78ea49f",
             "Index": 0,
@@ -28,9 +28,9 @@
         },
         "1": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('MS-Mincho', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('SimSun', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('SimSun', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('MS-Mincho', 12.096)}"
             ],
             "Image": "55f9a9645ca37b35b4a4b496b98a55d9",
             "Index": 1,
@@ -43,9 +43,9 @@
         },
         "2": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('MS-Mincho', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('SimSun', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('SimSun', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('MS-Mincho', 12.096)}"
             ],
             "Image": "257f65d4ba4705acc59175641a8ead68",
             "Index": 2,
@@ -58,9 +58,9 @@
         },
         "3": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('MS-Mincho', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('SimSun', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('SimSun', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('MS-Mincho', 12.096)}"
             ],
             "Image": "4e621836e6f8c01d0858d1c270ccde24",
             "Index": 3,

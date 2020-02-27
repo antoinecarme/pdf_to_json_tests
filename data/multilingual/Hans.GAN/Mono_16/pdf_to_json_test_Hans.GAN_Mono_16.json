@@ -27,9 +27,9 @@
         },
         "1": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('NSimSun', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
             ],
             "Image": "4d967fb3bf4e9884ee3896e3b69cf6b9",
             "Index": 1,

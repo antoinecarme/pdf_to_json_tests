@@ -13,8 +13,8 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Rachana-Regular', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('Rachana-Regular', 12.096)}"
             ],
             "Image": "ae5c173f142e97384773de6b9e5c13bd",
             "Index": 0,
@@ -27,8 +27,8 @@
         },
         "1": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Rachana-Regular', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('Rachana-Regular', 12.096)}"
             ],
             "Image": "f980a2a9c7e14b09517aca2707e754f6",
             "Index": 1,
@@ -41,8 +41,8 @@
         },
         "2": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Rachana-Regular', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('Rachana-Regular', 12.096)}"
             ],
             "Image": "242bc33a13a9c806e2568a2ea884f38d",
             "Index": 2,
@@ -55,8 +55,8 @@
         },
         "3": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Rachana-Regular', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('Rachana-Regular', 12.096)}"
             ],
             "Image": "f4764b5b5c6d6c51fb57c171dfb65cb8",
             "Index": 3,
@@ -69,8 +69,8 @@
         },
         "4": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('Rachana-Regular', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('Rachana-Regular', 12.096)}"
             ],
             "Image": "2357073c376cfd91c20b99693355677b",
             "Index": 4,

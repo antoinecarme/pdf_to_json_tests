@@ -13,9 +13,9 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('NSimSun', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('MS-Gothic', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('NSimSun', 12.096)}"
             ],
             "Image": "31105ccd96811fec92a9b8fb6c1c1712",
             "Index": 0,
@@ -28,8 +28,8 @@
         },
         "1": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('NSimSun', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('NSimSun', 12.096)}"
             ],
             "Image": "bd42b244ac36e1c5f10d73704c41bf62",
             "Index": 1,
@@ -42,9 +42,9 @@
         },
         "2": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('NSimSun', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('MS-Gothic', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('NSimSun', 12.096)}"
             ],
             "Image": "95fc75418c416ae908bfcb136eed3009",
             "Index": 2,
@@ -57,8 +57,8 @@
         },
         "3": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('NSimSun', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('NSimSun', 12.096)}"
             ],
             "Image": "b9a1b28712ea29208614854d9587be7f",
             "Index": 3,

@@ -13,8 +13,8 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 6.336)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 6.336)}",
+                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 6.336)}",
                 "{'color': (0, 0, 0), 'font': ('MicrosoftYaHei', 6.336)}"
             ],
             "Image": "9699430b82d842f13ebe6c077e116cfb",

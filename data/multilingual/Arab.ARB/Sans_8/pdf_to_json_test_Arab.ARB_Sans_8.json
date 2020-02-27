@@ -13,8 +13,8 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 3.96)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 3.96)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 3.96)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 3.96)}"
             ],
             "Image": "cfeef747db28a09fd47e485c6c2bc732",
             "Index": 0,
@@ -27,8 +27,8 @@
         },
         "1": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 3.96)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 3.96)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 3.96)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 3.96)}"
             ],
             "Image": "1335290d2f0240f1c3287dc18969134a",
             "Index": 1,

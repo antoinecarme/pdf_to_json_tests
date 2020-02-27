@@ -13,8 +13,8 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 12.096)}"
             ],
             "Image": "c671d83fc2343864730437c6db20177c",
             "Index": 0,
@@ -27,8 +27,8 @@
         },
         "1": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 12.096)}"
             ],
             "Image": "36304142676611e044e284dc0cdc167c",
             "Index": 1,
@@ -41,8 +41,8 @@
         },
         "2": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 12.096)}"
             ],
             "Image": "7a0edbb7dbc79463dc5b899c848f327b",
             "Index": 2,
@@ -55,8 +55,8 @@
         },
         "3": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 12.096)}"
             ],
             "Image": "50dd95d5c75a0581bfaa5c577001dd2a",
             "Index": 3,
@@ -69,8 +69,8 @@
         },
         "4": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 12.096)}"
             ],
             "Image": "dd6ad831336828961ad9ee98c0cb55df",
             "Index": 4,

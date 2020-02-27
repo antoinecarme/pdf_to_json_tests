@@ -41,9 +41,9 @@
         },
         "2": {
             "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('Mitra', 9.216)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('Lohit-Devanagari', 9.216)}",
-                "{'color': (0, 0, 0), 'font': ('Mitra', 9.216)}"
+                "{'color': (0, 0, 0), 'font': ('Lohit-Devanagari', 9.216)}"
             ],
             "Image": "486d09198f62879e27183ead269e5807",
             "Index": 2,

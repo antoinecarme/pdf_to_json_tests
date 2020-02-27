@@ -27,9 +27,9 @@
         },
         "1": {
             "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('MS-Gothic', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('MicrosoftYaHei', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('MicrosoftYaHei', 12.096)}"
             ],
             "Image": "8a971f285fe6ced00d69b7d1acd552e1",
             "Index": 1,
@@ -56,9 +56,9 @@
         },
         "3": {
             "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('MS-Gothic', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('MicrosoftYaHei', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('MicrosoftYaHei', 12.096)}"
             ],
             "Image": "4cc68fb3d5a043c420eabad5694355e6",
             "Index": 3,

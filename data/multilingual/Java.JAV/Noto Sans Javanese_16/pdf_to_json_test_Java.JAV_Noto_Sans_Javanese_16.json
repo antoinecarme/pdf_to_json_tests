@@ -13,8 +13,8 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('NotoSansJavanese-Regular', 7.56)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 7.56)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 7.56)}",
+                "{'color': (0, 0, 0), 'font': ('NotoSansJavanese-Regular', 7.56)}"
             ],
             "Image": "91cb68881db8d2723369f921411b831d",
             "Index": 0,
@@ -53,8 +53,8 @@
         },
         "3": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('NotoSansJavanese-Regular', 7.56)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 7.56)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 7.56)}",
+                "{'color': (0, 0, 0), 'font': ('NotoSansJavanese-Regular', 7.56)}"
             ],
             "Image": "182c3f108b88528af24b23e7f8623720",
             "Index": 3,

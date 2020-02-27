@@ -13,9 +13,9 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 12.096)}"
             ],
             "Image": "512bb6f89e4958ea897d284044f6737c",
             "Index": 0,
@@ -28,9 +28,9 @@
         },
         "1": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 12.096)}"
             ],
             "Image": "1cdb1cd3dee4c2c57e37b0c616b19fbf",
             "Index": 1,
@@ -43,9 +43,9 @@
         },
         "2": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 12.096)}"
             ],
             "Image": "d98ec8f38240afd61d4588f7da9fae06",
             "Index": 2,
@@ -58,8 +58,8 @@
         },
         "3": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 12.096)}"
             ],
             "Image": "fd07b1b85cd626679c074bb89d466222",
             "Index": 3,
@@ -72,9 +72,9 @@
         },
         "4": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 12.096)}"
             ],
             "Image": "588366f06a99509a1d19e65d16e403d9",
             "Index": 4,
@@ -87,9 +87,9 @@
         },
         "5": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 12.096)}"
             ],
             "Image": "b7a923a6d35143c78af19a83330c4359",
             "Index": 5,
@@ -102,8 +102,8 @@
         },
         "6": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 12.096)}"
             ],
             "Image": "060fc6460f900707b44e0e162bac3988",
             "Index": 6,
@@ -116,8 +116,8 @@
         },
         "7": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('GFZemenUnicode', 12.096)}"
             ],
             "Image": "4bf4494e14fbe84b308136e2356e7e45",
             "Index": 7,

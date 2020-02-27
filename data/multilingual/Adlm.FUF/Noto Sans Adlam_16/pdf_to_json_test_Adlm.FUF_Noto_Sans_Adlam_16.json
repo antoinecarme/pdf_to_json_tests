@@ -13,8 +13,8 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('NotoSansAdlam-Regular', 12.006)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.006)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.006)}",
+                "{'color': (0, 0, 0), 'font': ('NotoSansAdlam-Regular', 12.006)}"
             ],
             "Image": "e1967af15971fcaaa18ad0a7201d723c",
             "Index": 0,
@@ -40,8 +40,8 @@
         },
         "2": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('NotoSansAdlam-Regular', 12.006)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.006)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.006)}",
+                "{'color': (0, 0, 0), 'font': ('NotoSansAdlam-Regular', 12.006)}"
             ],
             "Image": "c615a85894751e4af7ecb0f71a56a1cc",
             "Index": 2,
@@ -54,8 +54,8 @@
         },
         "3": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('NotoSansAdlam-Regular', 12.006)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.006)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 12.006)}",
+                "{'color': (0, 0, 0), 'font': ('NotoSansAdlam-Regular', 12.006)}"
             ],
             "Image": "cdb64f492732c31839c163c580c5eba1",
             "Index": 3,

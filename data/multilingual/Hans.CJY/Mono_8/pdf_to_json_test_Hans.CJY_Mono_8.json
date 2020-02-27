@@ -13,9 +13,9 @@
     "Pages": {
         "0": {
             "Attributes": [
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 6.336)}",
                 "{'color': (0, 0, 0), 'font': ('MS-Gothic', 6.336)}",
-                "{'color': (0, 0, 0), 'font': ('NSimSun', 6.336)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 6.336)}"
+                "{'color': (0, 0, 0), 'font': ('NSimSun', 6.336)}"
             ],
             "Image": "d0fc5e6e4826e1070a71510b5fec5c57",
             "Index": 0,

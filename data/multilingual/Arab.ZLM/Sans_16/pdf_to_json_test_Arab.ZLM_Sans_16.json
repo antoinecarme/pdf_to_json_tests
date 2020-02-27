@@ -13,8 +13,8 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('ArialMT', 7.56)}",
                 "{'color': (0, 0, 0), 'font': ('AksaraBali', 7.56)}",
+                "{'color': (0, 0, 0), 'font': ('ArialMT', 7.56)}",
                 "{'color': (0, 0, 0), 'font': ('DejaVuSans', 7.56)}"
             ],
             "Image": "ad6cfc470f41fad7f2c789911ee9cc36",

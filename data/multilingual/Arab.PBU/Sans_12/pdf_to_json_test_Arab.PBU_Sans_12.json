@@ -14,8 +14,8 @@
         "0": {
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('ArialMT', 5.76)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 5.76)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 5.76)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 5.76)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 5.76)}"
             ],
             "Image": "b897fbf85a63e54cd61601c1036ba582",
             "Index": 0,
@@ -29,8 +29,8 @@
         "1": {
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('ArialMT', 5.76)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 5.76)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 5.76)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 5.76)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 5.76)}"
             ],
             "Image": "23ec94f5e384f7d44d98a9b7b262bc1a",
             "Index": 1,
@@ -44,8 +44,8 @@
         "2": {
             "Attributes": [
                 "{'color': (0, 0, 0), 'font': ('ArialMT', 5.76)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 5.76)}",
-                "{'color': (0, 0, 0), 'font': ('AksaraBali', 5.76)}"
+                "{'color': (0, 0, 0), 'font': ('AksaraBali', 5.76)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSans', 5.76)}"
             ],
             "Image": "3ab046b99a1e5e7beb805dd7783a7ccc",
             "Index": 2,

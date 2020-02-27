@@ -13,8 +13,8 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('FrankRuehl', 7.56)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 7.56)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 7.56)}",
+                "{'color': (0, 0, 0), 'font': ('FrankRuehl', 7.56)}"
             ],
             "Image": "1c5d55a9400328308a5d037bb7365fcb",
             "Index": 0,
@@ -27,8 +27,8 @@
         },
         "1": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('FrankRuehl', 7.56)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 7.56)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 7.56)}",
+                "{'color': (0, 0, 0), 'font': ('FrankRuehl', 7.56)}"
             ],
             "Image": "e20c0f82d998927a772221db5cfbc30e",
             "Index": 1,
@@ -41,8 +41,8 @@
         },
         "2": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('FrankRuehl', 7.56)}",
-                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 7.56)}"
+                "{'color': (0, 0, 0), 'font': ('DejaVuSerif', 7.56)}",
+                "{'color': (0, 0, 0), 'font': ('FrankRuehl', 7.56)}"
             ],
             "Image": "c160c3ea51313562a898e530fd2aa0e6",
             "Index": 2,

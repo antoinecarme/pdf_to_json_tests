@@ -13,9 +13,9 @@
     "Pages": {
         "0": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('NSimSun', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
             ],
             "Image": "94ee8f8e15a5a71abb8ff9a3de9c98cb",
             "Index": 0,
@@ -28,9 +28,9 @@
         },
         "1": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('NSimSun', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
             ],
             "Image": "836206f1f8a2ec075995d548425813a5",
             "Index": 1,
@@ -43,9 +43,9 @@
         },
         "2": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('NSimSun', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
             ],
             "Image": "4d01a6038c3ee0df0db40b525e03bc10",
             "Index": 2,
@@ -58,9 +58,9 @@
         },
         "3": {
             "Attributes": [
-                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}",
                 "{'color': (0, 0, 0), 'font': ('NSimSun', 12.096)}",
-                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 12.096)}"
+                "{'color': (0, 0, 0), 'font': ('MS-Gothic', 12.096)}",
+                "{'color': (0, 0, 0), 'font': ('DejaVuSansMono', 12.096)}"
             ],
             "Image": "525f18d881d5e836627ed7e363ffccbe",
             "Index": 3,
